@@ -11,3 +11,6 @@ Writer initial badges removed from directory and profiles; existing photos and g
 ## Facing-page reader revision
 
 Replaced within-article scrolling with browser-flowed pagination. At desktop widths of 1000px and above with at least 500px height, display two facing pages; smaller viewports display one. Arrows and keyboard navigation turn the spread, then move between articles at its bounds. Reflow on viewport changes, font loading, type-size changes, artwork toggling and opening settings. The original DOM text, paragraph breaks and verse breaks remain intact. Last odd-numbered spreads retain a blank facing page. Paper/night themes, contents selection and device-local saved spread remain available. No animation or sound added.
+
+## Playful page-turn sounds (10 October 2026)
+User requested varied child-friendly page-flip sounds. Magazine and ebook arrow turns now play one of five short original Web Audio cues (spring, bells, bubbles, whistle and descending notes), with no consecutive repeat. Audio starts only on a reader action, never on loading, resizing or restoring a place. A visible sound button remembers mute across both readers; hidden pages and rapid repeat clicks do not accumulate sound. No audio downloads or third-party requests. Unit checks cover silent startup, variation, rapid-turn suppression, persisted mute and hidden pages.

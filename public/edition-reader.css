@@ -78,3 +78,5 @@ body:has(main>.ia-article)>.ia-footer nav{margin-top:0;align-items:center}
 .mag-quiet-reader.quiet-hide-art .quiet-content .ia-story-art{display:none!important}
 .mag-quiet-reader[data-columns="2"] .quiet-page{background:linear-gradient(to right,transparent calc(50% - .5px),#9a8e7444 50%,transparent calc(50% + .5px))}
 @media(max-width:600px){.mag-quiet-reader .quiet-page{margin:12px 18px}.mag-quiet-reader .quiet-content{width:calc(100vw - 36px)}}
+
+.quiet-top .page-sound-toggle{font-size:14px;white-space:nowrap;margin-left:0}.quiet-top [data-settings]{margin-left:auto}@media(max-width:420px){.quiet-top{gap:2px}.quiet-top button{font-size:13px;padding-inline:6px}}
