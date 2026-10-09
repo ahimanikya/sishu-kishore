@@ -1,0 +1,10 @@
+Sishu Kishore — independent magazine repository
+
+Public reading pages, locally stored artwork, full Odia fonts, ebook scans and reviewed text. Shalandi storefront is excluded.
+
+Build: npm run build (Node 22+; no dependencies). Preview: python3 -m http.server 8766 --directory public.
+
+Intended hostname: sishu.kabitawithoutborders.org
+Current editorial submission/account tools remain on the existing authenticated Sites service. This repository does not contain private accounts, database exports or credentials.
+
+Imported from the approved combined-site commit bcdab2661c73bd1cba3cff9e64715c09cce4599c. Source snapshot and original printed covers remain preserved in the existing project. This repository has independent Git history; changes here do not deploy automatically.

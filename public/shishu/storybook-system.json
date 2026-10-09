@@ -1,0 +1,96 @@
+{
+  "name": "Sishu Cartoon Natural",
+  "version": "2.1",
+  "date": "2026-10-08",
+  "purpose": "A simple Odia monthly children’s magazine organized by issue, article and writer.",
+  "navigation": [
+    "This month",
+    "Past issues",
+    "Books",
+    "Writers",
+    "Write"
+  ],
+  "supporting_pages": [
+    "Editor’s note",
+    "About",
+    "Contact"
+  ],
+  "ebook_policy": "Quiet book reader with original pages; only source-compared text enters reading mode. Raw OCR stays in editorial review.",
+  "foundation": "Human Natural storytelling through expressive, hand-drawn 2D cartoons.",
+  "palette": {
+    "paper": "#fffcf6",
+    "ink": "#3e3530",
+    "terracotta": "#a53628",
+    "leaf": "#49634b",
+    "indigo": "#364c69",
+    "ochre": "#ac792e",
+    "rule": "#e5dbcc"
+  },
+  "type": {
+    "odia_body": "Noto Serif Oriya",
+    "odia_navigation": "Noto Sans Oriya",
+    "body_px": 20,
+    "body_line_height": 2,
+    "card_title_px": 21,
+    "author_px": 14,
+    "minimum_control_px": 14
+  },
+  "layout": {
+    "card_ratio": "3:2",
+    "image_fit": "contain",
+    "desktop_columns": 3,
+    "tablet_columns": 2,
+    "phone_columns": 1,
+    "desktop_gap_px": 28,
+    "phone_gutter_px": 20,
+    "motion": "none"
+  },
+  "preservation": [
+    "Keep original editorial text, titles, bylines, punctuation and poem line breaks.",
+    "Keep printed covers unchanged.",
+    "Preserve original archive illustrations unless replacement is specifically commissioned.",
+    "Do not infer that a scanned or downloadable book is digital-only."
+  ],
+  "art_rules": [
+    "Read the complete article before briefing its image.",
+    "Choose one emotional anchor and a lived moment; do not collect every noun into one scene.",
+    "Use bold ink outlines and flat painted colour; allow quieter areas and visible paper.",
+    "Use settings, clothing and cultural details supported by the text; do not make every story rural or nostalgic.",
+    "Allow wonder and fantasy when the story calls for them; retain internally believable gesture, scale and space.",
+    "Vary distance, viewpoint, palette and emotional tone across the edition.",
+    "Keep title and author as real page text outside the image.",
+    "Never present an invented face as a real author portrait."
+  ],
+  "brief_fields": [
+    "article_id",
+    "original_title",
+    "original_author",
+    "source_text_path",
+    "reader_feeling",
+    "mode",
+    "text_evidence",
+    "scene",
+    "viewpoint",
+    "palette",
+    "continuity_notes",
+    "avoid",
+    "alt_text",
+    "asset_path",
+    "prompt",
+    "review_notes"
+  ],
+  "review": [
+    "Does the scene belong to this text?",
+    "Is its emotion appropriate for the intended readership?",
+    "Are anatomy, gesture, perspective and object interactions credible?",
+    "Are cultural details grounded rather than decorative stereotypes?",
+    "Does the subject read at roughly 320 pixels wide?",
+    "Does it differ usefully from adjacent cards?",
+    "Are title, byline, text and original protected assets intact?"
+  ],
+  "provenance": {
+    "current_art_manifest": "data/article-art.json",
+    "generation": "AI-generated with built-in image generation; human-directed visual brief and review.",
+    "reference_status": "Current edition artwork is the starting reference, not a requirement to imitate every composition."
+  }
+}

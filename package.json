@@ -1,0 +1,10 @@
+{
+  "name": "sishu-kishore",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/verify-public-delivery.mjs",
+    "build": "npm run check && node scripts/build.mjs"
+  }
+}

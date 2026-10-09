@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/b0ae3e89a7d3ef2b1838bb4b.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/376427b5322148d8de1e03f2.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/b79a2ea7a38f33fd96a282fa.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/2a8e7f713ee79fbccdef3cef.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/bad55524c5f792c2796e2e62.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/e1d844d73abf350ce902f925.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/1d6eafdc620333fcc3d573c1.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/9124266ec1188c6aa774cd49.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/1bc8575bc9f4b7ed93f59492.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans Oriya';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/2594200ddd1e5fb89780c005.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans Oriya';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/f689e8688d47f0742fba78ff.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans Oriya';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/b1418c4947613edf40d9a1ae.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans Oriya';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/4f7de603aa86d30504fa3117.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif Oriya';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/be52a40d18c4109d8867e22e.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif Oriya';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/238ebdc1900681ebb445862c.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif Oriya';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/83c19931622271f51020f97b.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif Oriya';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/45506eef18af90a6f60f7482.woff2) format('woff2');
+}

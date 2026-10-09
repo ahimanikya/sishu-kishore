@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-09",
+  "scope": "Sishu Kishore static public pages",
+  "font_bytes": {
+    "before": 2292672,
+    "after": 786216,
+    "full_glyphs_and_shaping_verified": true
+  },
+  "archive_fallback_image_bytes": {
+    "before": 16553273,
+    "after": 3084999,
+    "note": "Sum of referenced files; not initial network transfer or page load timing. Responsive selection varies with viewport and pixel density."
+  },
+  "browser_checks": [
+    "390px home and archive: no horizontal overflow; responsive imagery renders",
+    "1280px home: no horizontal overflow; cover renders",
+    "Mobile book previous/next retains native URLs and reserved page dimensions"
+  ],
+  "preservation": {
+    "article_pages": 681,
+    "printed_covers": 489
+  },
+  "limitations": [
+    "No production field Core Web Vitals measurement in this pass",
+    "Ebook transcription review remains separate; original scans preserved"
+  ]
+}

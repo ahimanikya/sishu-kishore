@@ -1,0 +1,1136 @@
+{
+  "policy": "Original named portraits first; public identity-backed sources second; otherwise empty. No generic or AI likeness.",
+  "rejected_original_placeholders": [
+    "/media/9e42aedf60f716496b0d631c.jpg",
+    "/media/6355dfacab587524a2aa83e2.jpg"
+  ],
+  "searches": [
+    "Ratnakar Das Odia children writer",
+    "Kamalini Mallik writer",
+    "Snigdha Nayak writer",
+    "Shakuntala Mishra writer",
+    "Birendra Mohanty children writer"
+  ],
+  "writers": [
+    {
+      "name": "; ନୀଳମଣି ଚାନ୍ଦ",
+      "route": "/shishu/writers/c06d26ee0057.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଅଜୟ କୁମାର ସେଠୀ",
+      "route": "/shishu/writers/2a4f422edb86.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+      "route": "/shishu/writers/bd817933d592.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଅନନ୍ତ କୁମାର ସେନାପତି",
+      "route": "/shishu/writers/9d348fab7d0e.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଅନନ୍ତ ପ୍ରଧାନ",
+      "route": "/shishu/writers/dfedff336b61.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
+      "route": "/shishu/writers/8aa404dcfb41.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଅଶୋକ କୁମାର ପ୍ରଧାନ",
+      "route": "/shishu/writers/66393b0de741.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଅଶୋକ କୁମାର ସେଠୀ",
+      "route": "/shishu/writers/ced75a694fd6.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଉମାକାନ୍ତ ବେହେରା",
+      "route": "/shishu/writers/9b2a83434590.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କନ୍ଦର୍ପ ବେହେରା",
+      "route": "/shishu/writers/a7fd935e072c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କବିଜ୍ୟୋତି ନିରଞ୍ଜନ ପତି",
+      "route": "/shishu/writers/ae85c64c0f18.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କବିତା ଦେବୀ",
+      "route": "/shishu/writers/05c4bac63090.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କବିତା ମିଶ୍ର",
+      "route": "/shishu/writers/19c8f0c69b64.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କବିତାମିଶ୍ର",
+      "route": "/shishu/writers/af743bc99a97.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କମଳିନୀ ମଲ୍ଲିକ",
+      "route": "/shishu/writers/036f70ab6fb9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କମଳିନୀ ମଲ୍ଲିକ୍‌",
+      "route": "/shishu/writers/f5e65e2d3dc9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କୀର୍ତ୍ତନ ସାହୁ",
+      "route": "/shishu/writers/2c5ca3733964.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "route": "/shishu/writers/524cb79f75d5.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କୈଳାସ ଚନ୍ଦ୍ର ଧଳ",
+      "route": "/shishu/writers/4aa0a9dbf33c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "କୈଳାସ ଚନ୍ଦ୍ର ବେହେରା",
+      "route": "/shishu/writers/d878ef9ba83c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଗୀତାଞ୍ଜଳି ସ୍ଵାଇଁ",
+      "route": "/shishu/writers/3cab06f38bc2.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ",
+      "route": "/shishu/writers/4b75b270fdbe.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଗୋପୀନାଥ ଦାଶ",
+      "route": "/shishu/writers/67fc1496f8fc.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/646ed979fded.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଘନଶ୍ୟାମ ବୋଇତେଇ",
+      "route": "/shishu/writers/0ffecc9a3bd3.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଚତୁର୍ଭୁଜ ପହି",
+      "route": "/shishu/writers/4365113dce3c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଜିତେନ୍ଦ୍ର ଚନ୍ଦ୍ର ସାହୁ",
+      "route": "/shishu/writers/b1204e468fea.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଜିତେନ୍ଦ୍ର ସାହୁ",
+      "route": "/shishu/writers/74f717baed70.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଜ୍ୟୋତିର୍ମୟୀ ମହାନ୍ତି",
+      "route": "/shishu/writers/ea5ac870c4bd.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "route": "/shishu/writers/c89e02766cff.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
+      "route": "/shishu/writers/bef5579559e6.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଜୟନ୍ତକୁମାର ଓଝା",
+      "route": "/shishu/writers/8218162be47d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଜୟନ୍ତିକା",
+      "route": "/shishu/writers/5022efa803e9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଝରଣା ମଲ୍ଲିକ",
+      "route": "/shishu/writers/6fa730670541.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ ରବିନାରାୟଣ ସାହୁ",
+      "route": "/shishu/writers/e4d18d48489d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ. କମଳାକାନ୍ତ ଜେନା",
+      "route": "/shishu/writers/fb95b574ae09.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ. ବିଜୟା ପାତ୍ର",
+      "route": "/shishu/writers/9aaf459c3069.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ. ବିଜୟା ପାତ୍ର (ସ୍ବାଇଁ)",
+      "route": "/shishu/writers/be558d5e012a.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ. ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "route": "/shishu/writers/9fb160aa710f.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ. ସନାତନ ପଣ୍ଡା",
+      "route": "/shishu/writers/75d699aa5d34.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ.ବିଜୟା ପାତ୍ର",
+      "route": "/shishu/writers/809b37f8b67c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡଃ . ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/c74768426438.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡଃ ସ୍ବର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/1928b5c64b0a.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡଃ ସ୍ଵର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/53aa42b70560.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡଃ ସ୍ୱର୍ଣ୍ଣ ଲତା ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/5be77343df78.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଝର କମଳାକାନ୍ତ ଜେନା",
+      "route": "/shishu/writers/a639dc57e6dc.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା",
+      "route": "/shishu/writers/26f88a3357be.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ଅଶୋକ କୁମାର ସେଠୀ",
+      "route": "/shishu/writers/def97730a814.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା",
+      "route": "/shishu/writers/e44ccf4a4e44.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକ",
+      "route": "/shishu/writers/4381c6ffcaa4.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ପ୍ରବୀଣା ପରିଡା",
+      "route": "/shishu/writers/85798d39be19.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ବସନ୍ତ କିଶୋର ସାହୁ",
+      "route": "/shishu/writers/7d7b89d315b9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ବିଜୟା ପାତ୍ର",
+      "route": "/shishu/writers/6b99833c7415.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ରଘୁ ସାହୁ",
+      "route": "/shishu/writers/8547fb8c3a5d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ରଘୁନାଥ ସାହୁ",
+      "route": "/shishu/writers/5ff484d72f52.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ରବିନାରାୟଣ ସାହୁ",
+      "route": "/shishu/writers/06d2d2e22ec2.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ରାଜକିଶୋର ପାଢୀ",
+      "route": "/shishu/writers/250e17ab1f6b.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "route": "/shishu/writers/37cc648aa7a1.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ଲଷ୍ମୀ କାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "route": "/shishu/writers/eceb568b07ba.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "route": "/shishu/writers/3e60d30994d9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ଲିଙ୍ଗରାଜ ରଥ",
+      "route": "/shishu/writers/2b115441917c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ସଚ୍ଚିଦାନନ୍ଦ କର",
+      "route": "/shishu/writers/91df27f82af9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ",
+      "route": "/shishu/writers/c6223054b1e8.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
+      "route": "/shishu/writers/496b5ec4f76f.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ଼।.ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/93d3aa4ff161.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)",
+      "route": "/shishu/writers/3234455e0870.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ଼କ୍ଟର କମଳାକାନ୍ତ ଜେନା",
+      "route": "/shishu/writers/ef4e39279854.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ",
+      "route": "/shishu/writers/f2b0afc83d0c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
+      "route": "/shishu/writers/1b15f0d011c5.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "route": "/shishu/writers/21afaaab9e9e.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "route": "/shishu/writers/5858dbd35ce2.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
+      "route": "/shishu/writers/6bd0f39ff075.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ତପନ କୁମାର ସ୍ବାଇଁ",
+      "route": "/shishu/writers/15098a8414dc.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ତପନ କୁମାର ସ୍ୱାଇଁ",
+      "route": "/shishu/writers/00baa2538a54.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ତୁଳସୀ ସ୍ବାଇଁ",
+      "route": "/shishu/writers/3236a8530ef9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଦାଶ ବେନହୁର",
+      "route": "/shishu/writers/8d9480d84ea8.html",
+      "portrait": {
+        "image": "/media/0c2d3766fe270057e5a7b867.jpg",
+        "source": "https://www.shalandi.in/author.php?id=403",
+        "evidence": "Named Dash Benhur profile in original captured author directory",
+        "captured_page": "shalandi/author-73a765078a.html"
+      },
+      "status": "source-verified"
+    },
+    {
+      "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ",
+      "route": "/shishu/writers/bb7df6043851.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଦିଲ୍ଲୀପ କୁମାର ସାହୁ",
+      "route": "/shishu/writers/17bad6eebece.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଦୀନବନ୍ଧୁ କର",
+      "route": "/shishu/writers/8f595aa31265.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଦୀନବନ୍ଧୁ ପୋଇ",
+      "route": "/shishu/writers/88dee196240d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଦେବାଶିଷ ଚକ୍ରବର୍ତ୍ତୀ",
+      "route": "/shishu/writers/979836c3a0c2.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଦେବେନ୍ଦ୍ର ଚୌଧୁରୀ",
+      "route": "/shishu/writers/ea266eb20316.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଧନଞ୍ଜୟ ସ୍ବାଇଁ",
+      "route": "/shishu/writers/4dbe4df67479.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଧନଞ୍ଜୟ ସ୍ଵାଇଁ",
+      "route": "/shishu/writers/3d9c88046b2d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଧନଞ୍ଜୟ ସ୍ୱାଇଁ",
+      "route": "/shishu/writers/a563e88779d8.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଧୀରେନ କୁମାର ମିଶ୍ର",
+      "route": "/shishu/writers/fad523596f29.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଧୀରେନ ମିଶ୍ର",
+      "route": "/shishu/writers/55f62a9245be.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
+      "route": "/shishu/writers/55f2b4a6ba42.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
+      "route": "/shishu/writers/7202756cab09.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକ",
+      "route": "/shishu/writers/45ab42330e07.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନିରଞ୍ଜନ ସାହୁ",
+      "route": "/shishu/writers/4e1da9edfd0f.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନିରାକାର ଚଇନି",
+      "route": "/shishu/writers/908c7bf20e5b.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନିରୁପମା କବି",
+      "route": "/shishu/writers/3bd88c1233b5.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନିରୁପମା କଵି",
+      "route": "/shishu/writers/845d029c5cb6.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନିରୂପମା କବି",
+      "route": "/shishu/writers/a37c63e8d347.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ନୀଳମଣି ଚାନ୍ଦ",
+      "route": "/shishu/writers/ec4c0847b900.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପଣ୍ଡିତ ମଧୁସୂଦନ ମିଶ୍ର",
+      "route": "/shishu/writers/a9b25ea481c8.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପୁରୁଷୋତ୍ତମ ସିଂହ ସାମନ୍ତ",
+      "route": "/shishu/writers/7f0fa5526981.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପୁଷ୍ପଲତା ପାଣିଗ୍ରାହୀ",
+      "route": "/shishu/writers/56c301ef5582.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପୌର୍ଣ୍ଣ ମାସୀ ଦେବୀ",
+      "route": "/shishu/writers/6789b0ad8e74.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପୌର୍ଣ୍ଣମାସୀ ଦେବୀ",
+      "route": "/shishu/writers/3463bd958459.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରକାଶ ଚନ୍ଦ୍ର ଦାଶ",
+      "route": "/shishu/writers/63287addfe85.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+      "route": "/shishu/writers/57b2cccb4266.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରଫେସର ରେଖା ଦାସ",
+      "route": "/shishu/writers/33a8832ae9ee.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରବାସିନୀ ମିଶ୍ର",
+      "route": "/shishu/writers/1f5f23903bf9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+      "route": "/shishu/writers/cfba3363dbbe.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରଭାତ ନଳିନୀ ସାହୁ",
+      "route": "/shishu/writers/d75e5aefba14.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରଭାସିନୀ ବରାଡ",
+      "route": "/shishu/writers/37d0d83e9abc.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରଭାସିନୀ ବରାଡ଼",
+      "route": "/shishu/writers/578096bf3439.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ",
+      "route": "/shishu/writers/d4a1c781b77f.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବସିରନ ବିବି",
+      "route": "/shishu/writers/fc19d89e45a8.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବସିରନ୍ ବିବି",
+      "route": "/shishu/writers/b2ea4834959d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବାଲ୍ମୀକି ପାତ୍ର",
+      "route": "/shishu/writers/40eff86013b3.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବିଜୟ କୁମାର ଛାଟୋଇ",
+      "route": "/shishu/writers/5127a44ec63e.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବିଜୟ ଲଷ୍ମୀ ଚୌଧୁରୀ",
+      "route": "/shishu/writers/9021c2a7b8a2.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ",
+      "route": "/shishu/writers/92a6df756017.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବିଜୟା ପାତ୍ର",
+      "route": "/shishu/writers/1b949512c327.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବିଜୟା ପାତ୍ର (ସ୍ବାଇଁ)",
+      "route": "/shishu/writers/8f7f36f4bc20.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବିଦ୍ୟୁତପ୍ରଭା ଦେଓ",
+      "route": "/shishu/writers/f6533f24d098.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବିରଞ୍ଚି ନାରାୟଣ ଦାଶ",
+      "route": "/shishu/writers/956ee9bbaa9a.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "route": "/shishu/writers/69bca452d630.html",
+      "portrait": {
+        "image": "/portraits/birendra-mohanty.jpg",
+        "source": "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/",
+        "evidence": "Portrait attached to named interview with the Odia children’s author and Rumku Jhuma award recipient",
+        "source_image": "https://www.orissapost.com/wp-content/uploads/2018/06/Birendra-4.jpg"
+      },
+      "status": "source-verified"
+    },
+    {
+      "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
+      "route": "/shishu/writers/b98810c4015c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ମଧୁସୂଦନ ମିଶ୍ର",
+      "route": "/shishu/writers/91a1452012c8.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ମନୋରମା ମିଶ୍ର",
+      "route": "/shishu/writers/fb5e637ed769.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ମହେନ୍ଦ୍ର କୁମାର ମଲ୍ଲିକ",
+      "route": "/shishu/writers/f984695b07fe.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ମିନତି ପଟନାୟକ",
+      "route": "/shishu/writers/ecafce851a0c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ମିନତି ପଟ୍ଟନାୟକ",
+      "route": "/shishu/writers/0da992c5b5cc.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ରଘୁ ନନ୍ଦନ ମହାପାତ୍ର",
+      "route": "/shishu/writers/9210d5fb2fa2.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "route": "/shishu/writers/c4e96a0c83de.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ରତ୍ନାକର ଦାସ",
+      "route": "/shishu/writers/7ae172e3d1b8.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ରତ୍ନାକର ନାୟକ",
+      "route": "/shishu/writers/accae4541e91.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ",
+      "route": "/shishu/writers/5721f5a8f48e.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ରାଜଶ୍ରୀ ନନ୍ଦ",
+      "route": "/shishu/writers/fba8a7194ce5.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ରାଧାମାଧବ ରଥ",
+      "route": "/shishu/writers/262e7a578d40.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ",
+      "route": "/shishu/writers/5642d255a831.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ",
+      "route": "/shishu/writers/c213a7f6b400.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଲୀଳାବତୀ ପରିଡ଼ା",
+      "route": "/shishu/writers/8cb35cfb3c53.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଵୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "route": "/shishu/writers/3546f3743b55.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "route": "/shishu/writers/a60e8eb19db8.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶରତ କୁମାର ଦାସ",
+      "route": "/shishu/writers/fb9b5ecddb4d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶରତ କୁମାରୀ ସ୍ବାଇଁ",
+      "route": "/shishu/writers/fdaa6cee2fde.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
+      "route": "/shishu/writers/d86d9d088679.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶିବ ପ୍ରସାଦ ସାହୁ",
+      "route": "/shishu/writers/d6da7034de48.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶୁଭନାରାୟଣ ଶତପଥୀ",
+      "route": "/shishu/writers/ab1399b7121b.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ କୁଞ୍ଜ ବିହାରୀ ସାହୁ",
+      "route": "/shishu/writers/9004964d471e.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "route": "/shishu/writers/3d46c86d3e17.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ ଧୀରେନ ମିଶ୍ର",
+      "route": "/shishu/writers/f5f4adc8a07c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+      "route": "/shishu/writers/9a1ed5d8cb5a.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+      "route": "/shishu/writers/c34b6668eb6e.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ.",
+      "route": "/shishu/writers/b62d26b5f3be.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ ବିଜୟକୁମାର ଛାଟୋଇ",
+      "route": "/shishu/writers/44602b520912.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+      "route": "/shishu/writers/2a1a093cc4dd.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀମତୀ ଜିବେ ଶ୍ୱରୀ ପଟେଲ",
+      "route": "/shishu/writers/bb6bd7814e9c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀମତୀ ଜ୍ଯୋତ୍ସ୍ନା ସିଂହ",
+      "route": "/shishu/writers/b03d843cd408.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀମତୀ ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
+      "route": "/shishu/writers/79403f37456a.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "route": "/shishu/writers/c15042e65fc9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କା",
+      "route": "/shishu/writers/bb30f47596f3.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "route": "/shishu/writers/cfe3bf05e6dd.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "route": "/shishu/writers/e1f187c86103.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି",
+      "route": "/shishu/writers/957caf2186d7.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସତ୍ୟ ନାରାୟଣ ମିଶ୍ର",
+      "route": "/shishu/writers/cc748aac2f6e.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସନ୍ତୋଷ କୁମାର ସାହୁ",
+      "route": "/shishu/writers/3dcbd369d7ea.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସସ୍ମିତା ସ୍ଵା ଇଁ",
+      "route": "/shishu/writers/2d625b86bf6d.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସସ୍ମିତା ସ୍ଵାଇଁ",
+      "route": "/shishu/writers/5d25356cae88.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସସ୍ମିତା ସ୍ୱାଇଁ",
+      "route": "/shishu/writers/a0cccf418dd7.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଜିତ କୁମାର ମିଶ୍ର",
+      "route": "/shishu/writers/31e0b719b778.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
+      "route": "/shishu/writers/681d1628c630.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁବାସିନୀ ଧଳ",
+      "route": "/shishu/writers/809247c9a1cc.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
+      "route": "/shishu/writers/db792c256d76.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଲେଖା ସାମନ୍ତରାୟ",
+      "route": "/shishu/writers/369056700718.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଵାସିନୀ ଧଳ",
+      "route": "/shishu/writers/2c2d39d45599.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଶାନ୍ତ କୁମାର ସାମଲ",
+      "route": "/shishu/writers/2ce7bb2a72a7.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଶ୍ରୀ ସଂଯୁକ୍ତା ପରିଚ୍ଛା",
+      "route": "/shishu/writers/4ddae1ce7968.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସୁଶ୍ରୀ ସବିତା ଭୋଇ",
+      "route": "/shishu/writers/53c5b3ec02e3.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସ୍ନିଗ୍ଧା ନାୟକ",
+      "route": "/shishu/writers/5c4b7e337fe1.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା",
+      "route": "/shishu/writers/35695eb8faa9.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସ୍ଵର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/ec01cb5a1438.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "route": "/shishu/writers/2968e830d8cc.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ହଂସନାଥ ମୁଦୁଲି",
+      "route": "/shishu/writers/95e30378a1ca.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ହରପ୍ରିୟା ରାଉତରାୟ",
+      "route": "/shishu/writers/826c1453908c.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀ",
+      "route": "/shishu/writers/2eec0d5e026a.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ହରି ପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "route": "/shishu/writers/9012bd18bab1.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "route": "/shishu/writers/4fa2a98145f6.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ହରିହର ଶୁକ୍ଳ",
+      "route": "/shishu/writers/08ddd798056f.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    },
+    {
+      "name": "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହ",
+      "route": "/shishu/writers/0a644308bf04.html",
+      "portrait": null,
+      "status": "empty: no reliably identified portrait selected"
+    }
+  ]
+}

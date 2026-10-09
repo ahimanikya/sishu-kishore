@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "musha_mushi",
+    "pages": 50,
+    "source_compared_pages": [
+      8
+    ],
+    "proofread_pages": 1,
+    "pending_pages": 49,
+    "status": "Original book is default; only source-compared text is readable; remaining OCR held for review"
+  },
+  {
+    "slug": "ketejami_loda",
+    "pages": 25,
+    "source_compared_pages": [
+      5
+    ],
+    "proofread_pages": 1,
+    "pending_pages": 24,
+    "status": "Original book is default; only source-compared text is readable; remaining OCR held for review"
+  },
+  {
+    "slug": "dakuchhi_gaon",
+    "pages": 56,
+    "source_compared_pages": [
+      3
+    ],
+    "proofread_pages": 1,
+    "pending_pages": 55,
+    "status": "Original book is default; only source-compared text is readable; remaining OCR held for review"
+  }
+]

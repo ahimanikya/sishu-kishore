@@ -1,0 +1,797 @@
+{
+  "policy": "New source-grounded archive preview illustrations authorized by user; original printed covers and article text preserved.",
+  "editions": [
+    {
+      "number": 1,
+      "title": "ସେପ୍ଟେମ୍ବର: ୨୦୨୬",
+      "route": "/shishu/old_issues_details-14e6b35237.html",
+      "original_image": "/media/883e8fca17e379a0625308b3.jpg",
+      "story": {
+        "id": "731",
+        "title": "ଦୟା",
+        "author": "ଲେଖା  :  ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ",
+        "body": "ବହୁତ ଦିନ ତଳର କଥା।   ଏକ ସୁନ୍ଦର ଜଙ୍ଗଲ ପାଖରେ ଛୋଟ ଗାଁଟିଏ ଥିଲା।  ସେହି ଗାଁରେ ମୀନା ନାମର ଜଣେ ଦୟାଳୁ ଝିଅ  ରହୁଥିଲା।  ସେ ପ୍ରତିଦିନ ପକ୍ଷୀମାନଙ୍କୁ ଦାନା ଦେଉଥିଲା ଏବଂ ଗଛଗୁଡ଼ିକୁ ପାଣି ଦେଉଥିଲା।\nଏକ ପୂର୍ଣ୍ଣିମା  ରାତିରେ ମୀନା ଜଙ୍ଗଲକୁ ଯାଇଥିବା ବେଳେ ହଠାତ୍ ଏକ ଉଜ୍ଜ୍ୱଳ ଆଲୋକ ଦେଖିଲା।  ସେହି ଆଲୋକରୁ ଏକ  ସୁନ୍ଦର ପରୀ ବାହାରିଲା।  ପରୀ କହିଲା,  \"ମୀନା, ତୁମର ଭଲ ମନ ଓ ଦୟା ଦେଖି ମୁଁ ବହୁତ  ଖୁସି।  ତୁମେ ଯାହା ଇଚ୍ଛା କରିବ,  ମୁଁ  ପୂରଣ କରିବି। \"\nମୀନା ନିଜ ପାଇଁ କିଛି  ମାଗିଲା ନାହିଁ।  ସେ କହିଲା,  \"ଆମ  ଗାଁରେ ସବୁବେଳେ ପାଣି ରହୁ,  ଚାଷ  ଭଲ ହେଉ ଏବଂ ସମସ୍ତେ ସୁଖରେ ରୁହନ୍ତୁ। \"\nପରୀ ହସି କହିଲା, \"ଏହି ନିସ୍ୱାର୍ଥ ଇଚ୍ଛା ପାଇଁ ତୁମକୁ  ଆଶୀର୍ବାଦ ଦେଉଛି। \" ସେ ତା`ର ଯାଦୁ ଛଡ଼ି  ବୁଲାଇବାମାତ୍ରେ ଗାଁରେ  ବର୍ଷା ହେଲା।  ନଦୀ,ପୋଖରୀ ପାଣିରେ ଭରିଗଲା, ଫସଲ ସବୁଜ ହୋଇଉଠିଲା ଏବଂ ଲୋକମାନେ  ଖୁସିରେ ରହିବାକୁ ଲାଗିଲେ।\nସେହି ଦିନଠାରୁ  ମୀନାଙ୍କୁ ସମସ୍ତେ ଭଲପାଇବାକୁ ଲାଗିଲେ।  କୁହାଯାଏ,  ଆଜି  ମଧ୍ୟ ଯେଉଁମାନେ ଭଲ କାମ କରନ୍ତି,  ସେମାନଙ୍କୁ  ପରୀ ନିଜର ଅଦୃଶ୍ୟ ଆଶୀର୍ବାଦ ଦେଇଥାଏ।\nଦୟା, ସତ୍ୟ ଓ ନିସ୍ୱାର୍ଥ ସେବାର ଫଳ  ସବୁବେଳେ ଭଲ ହୁଏ।\n∎",
+        "image": "/media/d0916e4c5ff588cc79d0eefd.jpeg",
+        "route": "/shishu/article_details-754abf5ad8.html"
+      },
+      "prompt": "Use case: illustration-story. Create ONE original Sishu Kishore children's magazine archive preview, landscape 3:2. Scene from the story Daya: little Odia girl Meena in a simple red cotton dress meets a kindly forest fairy in a blue sari beneath a full moon; Meena gestures towards her village pond and green fields, asking for water for everyone. Two expressive characters and a clearly readable action, no crowd. Classic Indian children's magazine pen-and-flat-gouache CARTOON illustration, reminiscent of the broad storytelling warmth of Chandamama, original composition. Confident slightly irregular black contours, simple noses and expressive cartoon faces, flat warm colors, very limited shading, subtle printed paper character. Visually playful for ages 6–12, not polished or realistic. No photographic skin, no 3D, no cinematic lighting, no ornate border, no lettering, no masthead, no watermark. Keep all main subjects well inside the frame.",
+      "image": "/art/archive/issue-01-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-956f2b57-fded-4b8d-a0cc-29c8bac0bf9b.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-754abf5ad8.html"
+    },
+    {
+      "number": 2,
+      "title": "ଅଗଷ୍ଟ: ୨୦୨୬",
+      "route": "/shishu/old_issues_details-d403030c2c.html",
+      "original_image": "/media/6b36179a271dfe27341691e3.jpeg",
+      "story": {
+        "id": "740",
+        "title": "ପ୍ରଜାପତି କଥା  ଶୁଣିଲା",
+        "author": "ଲେଖା  : ଶ୍ରୀମତୀ ହରିପ୍ରିୟା  ପଟ୍ଟନାୟକ",
+        "body": "ସକାଳ  ହେଇଗଲାଣି। ବିଛଣାରୁ ଉଠିପଡିଲା ସୁମନ। ଝରକା ଦେଇ ବାହାରକୁ ଚାହିଁଲା। ସୂର୍ଯ୍ୟ ଉଇଁନାହାନ୍ତି। କିନ୍ତୁ ଫର୍ଚ୍ଚା ହେଇଆସିଲାଣି।  ମୁହଁ ଧୋଇ ବାହାରକୁ ଆସିଲା ସେ। ଏଇ ସମୟଟା ତାକୁ ବହୁତ ଭଲଲାଗେ। କି ସୁନ୍ଦର ବାସ୍ନା ଆସୁଛି ତାଙ୍କ ଫୁଲବଗିଚାରୁ!\nଆସ୍ତେଆସ୍ତେ ଚାଲିଚାଲି ସେ ବଗିଚା ପାଖକୁ ଆସି  ପଡ଼ିଥିବା ବଡ଼ ପଥରଟି ଉପରେ ବସିପଡ଼ିଲା। ଏତେସୁନ୍ଦର ଫୁଲ ଫୁଟିଛି। ହେଲେ ଆଗପରି ଆଉ ପ୍ରଜାପତି କି ମହୁମାଛି ଆସୁନାହାନ୍ତି। ଏଇ ସମୟରେ ତା`ର ଦୃଷ୍ଟିପଡିଲା ସୁନ୍ଦର  ପ୍ରଜାପତିଟିଏ ବଗିଚାର ବାଡ଼ ଉପରେ ବସିଛି।\n\"ପ୍ରଜାପତି! ପ୍ରଜାପତି!ଆମ ବଗିଚା  ଭିତରକୁ ଆ। କେତେ ସୁନ୍ଦର କଖାରୁଫୁଲ ଫୁଟିଛି। ତା`ଉପରେ ଟିକେ  ବସ\"। ଅନୁନୟ କରି କହିଲା ସୁମନ।  କାହିଁକିନା ଗତକାଲି  ବର୍ଷାପାଗରେ ସୁମନ ବୋଇତିକଖାରୁରେ ପକୁଡ଼ି ତିଆରି କରିବାକୁ କହିଥିଲା। ମାମା କହିଲେ  \"ଏଥର ବୋଇତିକଖାରୁ ବଜାରରୁ କିଣିବାକୁ ପଡ଼ିଲା। ଆଗପରି ଆଉ  ବାଡ଼ିରେ କଖାରୁ ଫଳୁନାହି। କଷି ଧରୁଛି। ହେଲେ ସବୁ  ଝଡ଼ିଯାଉଛି।\"\nପାପା  କହିଲେ\" ଆଜିକାଲି ଆଉ ପ୍ରଜାପତି କି ମହୁମାଛି ଆସି ଫୁଲରେ ବସୁନାହାନ୍ତି।  ଅଣ୍ଡିରାଫୁଲର ପରାଗରେଣୁ ମାଇଫୁଲରେ ପଡୁନାହିଁ। ପରାଗଣ ହେଇନପାରି କଷି  ଝଡ଼ି ଯାଉଛି।\"\nଏତେକଥା ଭାବିବା ଭିତରେ ଆଉ ଦୁଇ ତିନୋଟି ପ୍ରଜାପତି  ମଧ୍ୟ କେଉଁଠି ଥିଲେ ଆସିଯାଇଛନ୍ତି। ଦେଖୁଦେଖୁ ସବୁ ପ୍ରଜାପତି ଗୋଟିଏ ଗୋଟିଏ କଖାରୁଫୁଲ ଉପରେ ବସିଗଲେ।\nସୁମନର ମନ ଖୁସିରେ ଭରିଗଲା। ସତରେ କଅଣ ପ୍ରଜାପତି  ତା` କଥା ଶୁଣିପାରିଲା। ସେ ଖୁସିରେ ଘରଭିତରକୁ  ଦୈ‌ଡିଲା ମାମାଙ୍କୁ ଡାକି ଏ ଦୃଶ୍ୟ ଦେଖେଇବା ପାଇଁ।\n∎",
+        "image": "/media/f01a8b59f20fe605cbd40564.jpg",
+        "route": "/shishu/article_details-6a972dc850.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: At early dawn, young Suman crouches beside a pumpkin vine, delighted as three butterflies land on large yellow pumpkin flowers. Intimate child's-eye garden view.",
+      "image": "/art/archive/issue-02-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-435ea3b4-d27e-4408-8348-a5d2f1bdb899.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-6a972dc850.html"
+    },
+    {
+      "number": 3,
+      "title": "ଜୁଲାଇ: ୨୦୨୬",
+      "route": "/shishu/old_issues_details-bf55bf225f.html",
+      "original_image": "/media/52b82c7e5b5125f6b1ca340b.jpeg",
+      "story": {
+        "id": "670",
+        "title": "ସ୍ୱପ୍ନ ଓ ଆତ୍ମବିଶ୍ୱାସ",
+        "author": "ଲେଖା  : ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ",
+        "body": "ଏକ ଗାଁରେ ରହୁଥିଲା  ରଘୁ।\nସେ ଗରିବ ଥିଲା, ଛୋଟ ଥିଲା, କିନ୍ତୁ ତା`ର ଆଖିରେ ଥିଲା ଅନେକ  ସ୍ୱପ୍ନ।  ପ୍ରତିଦିନ ସେ ଖେତକୁ  ଯାଉଥିଲା, ମାଟି କାମ କରୁଥିଲା,\nକିନ୍ତୁ ମନରେ ଏକ  ପ୍ରଶ୍ନ ଥାଏ,\n“ମୋର ଜୀବନ ଏଇପରି ହିଁ  ରହିଯିବ କି?”  ଗାଁର ଲୋକେ ସବୁବେଳେ  କହୁଥିଲେ,\n“ରଘୁ, ତୁ ଗରିବ, ବଡ଼ ଧରଣର କାମ କିଛି କରିପାରିବୁ  ନାହିଁ।”\nସେଇ କଥାଗୁଡ଼ିକ ତା`ର ମନକୁ କଷ୍ଟ  ଦେଉଥିଲା,\nକିନ୍ତୁ ସେ ଭାଙ୍ଗି  ପଡ଼ୁନଥିଲା।  ଏକ ଦିନ ସେ ଗାଁ  ପାଖରେ ଥିବା ଜଙ୍ଗଲରେ ବୁଲୁଥିଲା।\nସେଠାରେ ସେ ଶୁଷ୍କ  ମାଟି ଭିତରେ ଏକ ଛୋଟ ଚାରା ଦେଖିଲା।\nମାଟି ଶୁଷ୍କ, ପାଣି ନାହିଁ, ପରିବେଶ କଠିନ,\nତଥାପି ସେ ଚାରାଟି  ବଞ୍ଚିବା ପାଇଁ ଚେଷ୍ଟା କରୁଥିଲା।  ରଘୁ ଆଶ୍ଚର୍ଯ୍ୟ  ହେଲା।\n“ଏତେ କଷ୍ଟରେ ମଧ୍ୟ  ଏହା ବଞ୍ଚିବାକୁ ଚାହୁଁଛି…”\nସେ ଚାରାଟିକୁ ପାଣି  ଦେଲା, ତା` ପାଖରେ ମାଟି ଖୋଳିଲା,\nଏବଂ ପ୍ରତିଦିନ  ସେଠାକୁ ଯାଇ ତା`ର ଯତ୍ନ ନେବାକୁ ଲାଗିଲା।  ଦିନ ଗଲା।\nସେ ଚାରାଟି ଧୀରେ  ଧୀରେ ବଡ଼ ହେବାକୁ ଲାଗିଲା।\nଏକ ଦିନ ସେ ଏକ  ସୁନ୍ଦର ଲିଚୁ ଗଛରେ ପରିଣତ ହେଲା।  ସେହି ଗଛ ତଳେ ବସି  ରଘୁ ଭାବିଲା,\n“ଯଦି ଏହି ଛୋଟ ଚାରା  ଏତେ କଷ୍ଟରେ ମଧ୍ୟ ବଢ଼ିପାରେ,\nତେବେ ମୁଁ କାହିଁକି  ନୁହେଁ?”  ସେ ଦିନରୁ ରଘୁ ନିଜ  ଜୀବନକୁ ବଦଳାଇବାକୁ ନିଷ୍ପତ୍ତି ନେଲା।\nସେ ପଢ଼ିବା ଆରମ୍ଭ  କଲା। ରାତିରେ ଲଣ୍ଠନ ଜାଳି ବହି ପଢ଼ିଲା।\nଲିଚୁ କୋଳି ଆଣି ବିକି  ଦି`ପଇସା ରୋଜଗାର କଲା ଏବଂ ପରିବାର ପ୍ରତିପୋଷଣ କଲା।\nଅନ୍ୟ କାମ କରିବା  ସହିତ ସେ ଉନ୍ନତ ମାନର ଚାଷ ଶିଖିଲା।\nକୃଷି ବିଭାଗରୁ ତାଲିମ  ନେଲା, ନୂଆ କୌଶଳ  ଆପଣେଇଲା।  ପାଞ୍ଚ ବର୍ଷ ପରେ  ସେହି ରଘୁ ଗାଁର ପ୍ରଥମ ଲିଚୁ ବଗିଚା ତିଆରି କଲା।\nଯେଉଁ ଲୋକେ କହୁଥିଲେ “ତୁ କିଛି କରିପାରିବୁ  ନାହିଁ”,\nଆଜି ସେମାନେ ତା` ପାଖରେ କାମ ମାଗୁଛନ୍ତି।  ସେହି ଲିଚୁ ଗଛ ତଳେ  ରଘୁ ଏବେ ଗାଁ ପିଲାଙ୍କୁ ପଢ଼ାଏ।\nସେ କହେ, “ମାଟି ଯେତେ ଶୁଷ୍କ ହେଉ, ସ୍ୱପ୍ନ ଯଦି ଓଦା ଥାଏ,\nଚାରା ନିଶ୍ଚୟ ଗଛ  ହେବ।”\nପରିସ୍ଥିତି ତୁମକୁ  ବାନ୍ଧି ପାରେ, କିନ୍ତୁ ତୁମର ଜିଦ୍ ଓ  ଆତ୍ମବିଶ୍ୱାସ ତୁମକୁ  ସଫଳତା ହାସଲ କରିବା ପାଇଁ  ଶକ୍ତି ଯୋଗାଇବ।\n∎\nଶିକ୍ଷୟିତ୍ରୀ ଡିଏଭି  ପବ୍ଲିକ ସ୍କୁଲ, ପୁରୀ\nମୋ:୯୪୩୮୫୯୧୪୭୩",
+        "image": "/media/47a1658d5b5804db90951b7b.jpg",
+        "route": "/shishu/article_details-905c491430.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Raghu, a determined village boy, carefully pours a small pot of water onto a struggling green lychee sapling in dry earth beside a forest. His expression is hopeful and attentive.",
+      "image": "/art/archive/issue-03-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-b16de0bf-717a-4a0d-a221-c58e9a5777c4.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-905c491430.html"
+    },
+    {
+      "number": 4,
+      "title": "ଜୁନ\t: ୨୦୨୬",
+      "route": "/shishu/old_issues_details-939dbe1cbe.html",
+      "original_image": "/media/6b98c09f0ff1614c2aca58ad.jpg",
+      "story": {
+        "id": "660",
+        "title": "ସାଙ୍ଗ ହେବତ ଏମିତି",
+        "author": "ଲେଖା  : ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+        "body": "ପୂର୍ବ ପ୍ରକାଶିତ ଉତ୍ତାରୁ\n(ଘଞ୍ଚ ଜଙ୍ଗଲରେ ଏକୁଟିଆ ଥିବା ଦନ୍ତା  ହାତୀଟିଏ ଗଛ ଡାଳରେ ଏକା ଏକା ବସିଥିବା ହନୁମାଙ୍କଡଟିକୁ ସାଙ୍ଗ କରିବା ପାଇଁ ମନକରି ତାକୁ  ଡାକିଲା ଓ ନିଜ ପିଠି ଉପରେ ବସେଇଲା।) ତାପରେ ----\nହାତୀ ପିଠି ଉପରେ ହନୁମାଙ୍କଡଟି ବସିଗଲା ପରେ ଗହନ ବନ  ଭିତରକୁ ହାତୀ ଧୀରେଧୀରେ ଚାଲିଲା।କେତେ ପ୍ରକାରର ବଡ଼ବଡ଼ ଗଛ,କଳକଳ ହେଇ ବହିଯାଉଥିବା ଝରଣା,କିଚିରି ମିଚିରି ଶବ୍ଦ କରି  ଉଡିଯାଉଥିବା ନାନା ରଙ୍ଗର ଚଢେଇଙ୍କୁ ଦେଖି ଦୁହିଁଙ୍କର ମନ ଖୁସି ହେଇଗଲା।\nବୁଲୁବୁଲୁ ମାଙ୍କଡ଼ କହିଲା \"ହାତୀ ଭାଇ!  କଥାଟିଏ ପଚାରିବି ଅଛି ଭାବିବନି?\"\nହାତୀ କହିଲା \"ନାଇଁ ସାଙ୍ଗ,ବନ୍ଧୁ କଥାରେ ଖରାପ ଭାବିବାର କଅଣ  ଅଛି।\"\nମାଙ୍କଡ଼ କହିଲା \"ତୁମେ କେମିତି ଗୋଠଛଡା ହେଲେ  ଭାଇ। ତୁମେମାନେତ ଦଳଦଳ ହେଇ ବୁଲୁଥାଅ।\"\nହାତୀ କହିଲା _\"କହନା ରେ ଭାଇ ,ସେଇ ଦି` ଗୋଡ଼ିଆ ମଣିଷ ପାଇଁ ମୁଁ ପରିବାର  ଠାରୁ ଅଲଗା ହେଇଗଲି।ଆମେ ହାତୀଦଳ ବୁଲୁଥିଲୁ ।ଏଇ ସମୟରେ ଢୋ ଢୋ ହେଇ ଗୁଳି ଫୁଟିଲା।ଆମେ ଛିନ୍  ଛତ୍ର ହେଇ ଯିଏ ଯେଉଁଆଡେ ପାରିଲା ପଳେଇଲା। ସେଥିପାଇଁ ମୋର ଏ ଦଶା।\n\"ତୁମେ ବି କେମିତି ଏକୁଟିଆ ହେଲ।  ତୁମେମାନେ ମଧ୍ୟ ଦଳଦଳ ହେଇ ବୁଲୁଥାଅ।\"\nପଚାରିଲା ହାତୀ ।\nକ୍ରମଶଃ\n∎",
+        "image": "/media/64aafc97609e15d9d222a15a.jpg",
+        "route": "/shishu/article_details-576605d244.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A friendly tusked Indian elephant walks beside a forest stream with a gray black-faced langur sitting on his back; the langur points excitedly at two colorful birds.",
+      "image": "/art/archive/issue-04-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-80e928e7-efae-435e-bc68-87cbf7a9f99e.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-576605d244.html"
+    },
+    {
+      "number": 5,
+      "title": "ମଇ: ୨୦୨୬",
+      "route": "/shishu/old_issues_details-02dcbb12fc.html",
+      "original_image": "/media/f89766d2b7848042381eeb25.jpeg",
+      "story": {
+        "id": "658",
+        "title": "ମ୍ୟାଜିକ ବୋତଲ",
+        "author": "ଲେଖା  : ବିଜୟ  ଲଷ୍ମୀ  ଚୌଧୁରୀ",
+        "body": "ଗାଁରେ ରହୁଥିବା ଏକ ଛୋଟ ପୁଅ—ଅନିଲ।  ସେ ଅତ୍ୟନ୍ତ ସରଳ ଓ ସ୍ଵପ୍ନମୟ ଥିଲା। କିନ୍ତୁ ତା`ର ଜୀବନରେ ଥିଲା ଏକ ଦୁଃଖ—ତା`ର  ବାପା ନଥିଲେ, ଓ  ତା`ର  ମା ଦିନରାତି କଷ୍ଟ କରି ଘର ଚଳଉ ଥିଲେ।ଅନିଲ ଭାବୁଥିଲା—“କାହିଁକି ମୁଁ ମାଙ୍କୁ ସବୁ  ସୁଖ ଦେଇପାରୁନି?”\nଏକଦିନ ସେ ନଦୀ କୂଳରେ ବସିଥିଲା। ହଠାତ୍ ତା`ର  ଚକ୍ଷୁ ପଡ଼ିଲା ଏକ ପୁରୁଣା ବୋତଲ ଉପରେ। ସେ ତା`କୁ ଉଠାଇଲା। ବୋତଲର ଉପରେ  ଲେଖା ଥିଲା—“ମୋତେ  ଖୋଲ, ତୁମ  ଇଚ୍ଛା ପୂରଣ ହେବ।”\nଅନିଲ ଆଶ୍ଚର୍ଯ୍ୟ ହେଲା। ସେ ଧୀରେ ବୋତଲ ଖୋଲିଲା।  ହଠାତ୍ ଏକ ଆଲୋକ ଫୁଟିଲା ଓ ଏକ ମୃଦୁ ଶବ୍ଦ ଶୁଣାଗଲା—“ମୁଁ ତୁମକୁ ମାତ୍ର ଗୋଟିଏ  ଇଚ୍ଛା ଦେବି।”\nଅନିଲ କିଛିକ୍ଷଣ ଭାବିଲା। ସେ ଧନ, ଘର କିମ୍ବା ଖେଳନା ମାଗି ପାରି ନ ଥିଲା… କିନ୍ତୁ ତା`ର ମନରେ ଥିଲା କେବଳ ମା।\nସେ କହିଲା—“ମୋ ମାଙ୍କୁ ସଦା ଖୁସି ରଖ।”\nଶବ୍ଦଟି କହିଲା—“ତୁମେ ନିଜ ପାଇଁ କିଛି ମାଗିଲା  ନାହିଁ?”\nଅନିଲ ହସି କହିଲା—“ମୋ  ମା ଖୁସି ରହିଲେ, ସେଇ  ମୋର ସବୁଠୁ ବଡ଼ ଖୁସି।”\nପରଦିନରୁ ଏକ ଅଜବ ପରିବର୍ତ୍ତନ ଆସିଲା। ଅନିଲଙ୍କ ମା  ଆଗରୁ ଅଧିକ ସ୍ୱସ୍ଥ ଓ ଖୁସି ଦେଖାଯାଉଥିଲେ। ଘରେ ଧୀରେ ଧୀରେ ସୁଖ ଆସିଲା। ଅନିଲ ମଧ୍ୟ ମନଲଗାଇ  ପଢ଼ିବା ଆରମ୍ଭ କଲା।\nବର୍ଷ ପରେ … ବର୍ଷ  ବିତିଗଲ।।\nଅନିଲ ବଡ଼ ହେଲା, ଏକ  ସଫଳ ବ୍ୟବସାୟୀ ହେଲା। ସେ ତା`ର  ମାଙ୍କୁ ସବୁ ସୁବିଧା ଦେଲା।\nକିନ୍ତୁ ଦିନେ ସେ ପୁଣି ସେଇ ନଦୀ କୂଳକୁ ଗଲା। ସେ  ଭାବିଲା—\n“ସତରେ  ବୋତଲଟି ମ୍ୟାଜିକ୍ ଥିଲା କି?”\nସେ ମନେ ପକାଇଲା—\nସେ ଯେତେବେଳେ ନିଜ ପାଇଁ କିଛି ମାଗିନଥିଲା, ସେଇ ଦିନରୁ  ତା  ଜୀବନ ବଦଳିଗଲା।\nସେ ହସିଲା…\nଏବଂ ମନେମନେ କହିଲା—\n“ସତ୍ୟ  ମ୍ୟାଜିକ ବୋତଲରେ ନୁହେଁ…\nସତ୍ୟ ମ୍ୟାଜିକ ନିସ୍ଵାର୍ଥ ପ୍ରେମରେ ଅଛି।” ସେଥିପାଇଁ ସେ ସଫଳ ମଣିଷ ହୋଇ ପାରିଛି।\n∎\nଶିକ୍ଷୟତ୍ରୀ, ଡିଏଭି  ପବ୍ଲିକ ସ୍କୁଲ, ପୂରୀ\n9438591474",
+        "image": "/media/aacd11977ba301e5fc788c4d.jpg",
+        "route": "/shishu/article_details-e60776bfca.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Young Anil has just uncorked a small old bottle on a quiet riverbank. A simple ribbon of golden magical light curls out; the boy looks surprised and thoughtful, wishing happiness for his mother. No genie, no label.",
+      "image": "/art/archive/issue-05-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-de7523d5-c890-4782-8c58-5a9cf9712acd.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-e60776bfca.html"
+    },
+    {
+      "number": 6,
+      "title": "ଏପ୍ରିଲ: ୨୦୨୬",
+      "route": "/shishu/old_issues_details-ed6fe3720c.html",
+      "original_image": "/media/53789051b4c230d04c1fc178.jpg",
+      "story": {
+        "id": "638",
+        "title": "ସାଙ୍ଗ ହେବତ ଏମିତି",
+        "author": "ଲେଖା  : ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+        "body": "ଗୋଟିଏ ଘଞ୍ଚ ଜଙ୍ଗଲରେ  ଦନ୍ତାହାତୀଟିଏ ଦଳରୁ ଅଲଗା ହୋଇ ରହୁଥାଏ। ଜଙ୍ଗଲରେ ଖାଇବାକୁ ପ୍ରଚୁର ମିଳୁଥିଲା। କିନ୍ତୁ ତା` ମନରେ ସୁଖ ନଥାଏ।  ସାଥୀଟିଏ ଥିଲେ ସିନା ମନର ସୁଖ ଦୁଃଖ ବାଣ୍ଟନ୍ତା । ଏକୁଟିଆଟା କଅଣ କରିବ।\nଦିନେ ହାତୀଟି ଡାଳପତ୍ର ଖାଇବା ପାଇଁ ଗୋଟିଏ ଗଛ  ଆଡ଼କୁ ଶୁଣ୍ଢ ବଢେଇବା ବେଳେ ଦେଖିଲା ହନୁମାଙ୍କଡଟିଏ ଗଛ ଡାଳରେ ବସିଛି।ସେ ମଧ୍ୟ ଏକୁଟିଆ।ତା  ପାଖରେ କେହି ସାଙ୍ଗସାଥୀ ନାହାଁନ୍ତି। ମାଙ୍କଡ଼ଟିକୁ ନିଜର ସାଙ୍ଗ କରିବ ବୋଲି ମନକରି ହାତୀ ତା` ଥୋଡ ପାହାଡ଼କୁ ଟେକି  ତାକୁ କହିଲା \"ମାଙ୍କଡ଼ ଭାଇ, ତମେ ମୋ ପିଠିରେ ବସ।ଆମେ ସାଙ୍ଗ ହେଇ ବୁଲିବା। ଯେଉଁଠାରେ ଭଲଭଲ ଫଳ  ମିଳିବ, ସାଙ୍ଗହେଇ  ଖାଇବା।\nମାଙ୍କଡ଼ ଦେଖିଲା ହାତୀ ପରି ଜୀବଟିଏ ତାକୁ ଡାକୁଛି  ପିଠିରେ ବସିବାକୁ।ଏ ମଉକା ସେ ଛାଡ଼ିବ କାହିଁକି।\nମାଙ୍କଡ଼ ଧୀରେଧୀରେ ତଳ ଡ଼ାଳ ଆଡ଼କୁ ଖସିଲା।ଆଗ ଗୋଡ଼  ଦୁଇଟି ଯୋଡ଼ି ହାତୀକୁ ନମସ୍କାର କଲା।ହାତୀ ତା` ଶୁଣ୍ଢରେ ମାଙ୍କଡ଼କୁ ଆଦରରେ ଆଣି ତା` ପିଠିରେ ବସେଇଲା।  ମାଙ୍କଡ଼ ପଚାରିଲା \"ହାତୀ ଭାଇ,ତୁମେ ଗୋଠଛଡ଼ା ହେଇ ଏମିତି ଏକୁଟିଆ ବୁଲୁଛ କାହିଁକି?\"ହାତୀଟି ମନଦୁଃଖରେ କହିଲା---\nକ୍ରମଶଃ\n∎",
+        "image": "/media/07ff399fa86d2a6c7f0db1ce.jpg",
+        "route": "/shishu/article_details-1780a51b68.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A lonely tusked elephant raises his curved trunk toward a small gray black-faced langur on a low branch; the langur joins both hands in greeting. Warm funny animal friendship.",
+      "image": "/art/archive/issue-06-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-4150e1b2-9bec-4c69-9a12-5ee2e490b9d4.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-1780a51b68.html"
+    },
+    {
+      "number": 7,
+      "title": "ମାର୍ଚ୍ଚ: ୨୦୨୬",
+      "route": "/shishu/old_issues_details-f0f3e2cb5e.html",
+      "original_image": "/media/482387e13fbf9c7deac0477b.jpg",
+      "story": {
+        "id": "621",
+        "title": "କାକର ଟୋପା",
+        "author": "ଲେଖା  : ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+        "body": "ରାତିର ପରଦା କାଟିକି ସକାଳ\nଥାପିଲାଣି ପାଦ ମରତେ ଆସି,\nହେଲେବି ଆଲୁଅ ଛୁଇଁନି ମାଟିକୁ\nଘନକୁହୁଡ଼ିର ଦାଉକୁ ନାଶି ।",
+        "image": "/media/9086f87ca9fca0940aff4567.jpg",
+        "route": "/shishu/article_details-71f0199e6e.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Dewdrops cling to broad blades of grass in a misty dawn garden; a pale orange sun peeks above distant trees through the fog. A lively low viewpoint with bold simplified natural shapes.",
+      "image": "/art/archive/issue-07-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-d76b986d-fca0-4d97-bd7c-40ba4e74c4d0.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-71f0199e6e.html"
+    },
+    {
+      "number": 8,
+      "title": "ଫେବୃଆରୀ : ୨୦୨୬",
+      "route": "/shishu/old_issues_details-b863ef0279.html",
+      "original_image": "/media/68dc008288d86d4568889b98.jpeg",
+      "story": {
+        "id": "589",
+        "title": "ସଂକଳ୍ପର ଅକଲ",
+        "author": "ଲେଖା  : ରତ୍ନାକର ଦାସ",
+        "body": "ବସ୍  ଭିଡ ନ ଥିଲେ ବି ସିଟ୍ ଫାଙ୍କା ନ  ଥିଲା।ଠିଆ  ହୋଇ ଥିବା ଲୋକ ପାଞ୍ଚ ଛ` ଜଣ ଥିଲେ।ଜଣେ ବୁଢୀ ଲୋକଙ୍କୁ ତାଙ୍କର ସଂପର୍କୀୟ କେହି ଆଶ୍ରା କରି  ବସ୍ କୁ ଚଢାଇଲେ ମଝି ଷ୍ଟପେଜ୍ ରେ। ବୁଢୀ ଲୋକଟି ଠିଆ ହେଇ ପାରୁ ନ ଥାଏ ଦୁର୍ବଳ କିମ୍ବା  ରୋଗାକ୍ରାନ୍ତ ଯୋଗୁ।ବସ୍ ର କଣ୍ଡକ୍ଟର ମଧ୍ଯ ବୁଢୀଟିକୁ ବସାଇବା ପାଇଁ ଇଆଡେ ସିଆଡେ  ଚାହୁଁଥାଏ।  ସିଟ୍ ଛାଡି ଠିଆ ହେବାପାଇଁ କାହାକୁ  କହି ପାରୁ ନ ଥାଏ।ଦଶ ବାର ମିନିଟ ପରେ ଜଣକୁ କହିବାରୁ ସିଏ କହିଲେ,ମୁଁ ଠିଆ ହେଲେ ଭଡା ବାବଦ ଅଧା ଟଙ୍କା ମତେ ଫେରାଇ ଦେବେ?\nକଣ୍ଡକ୍ଟର ଚୁପ୍  ରହିଲେ କିଛି ନ କହି। ଜେଜେଙ୍କ ସହିତ ବସିଥିବା ସଙ୍କଳ୍ପ ଏଇ ସବୁକୁ ଦେଖୁ ଥାଏ ।ହଠାତ୍ ସିଟ୍ ରୁ  ଉଠିପଡି ବୁଢୀ ଲୋକଟି ପାଖକୁ ଗଲା।ତା ହାତକୁ ଧରି ସିଏ ବସିଥିବା ସିଟ୍ ରେ ଧୀରେ ବସାଇଲା। ତା  ଜେଜେ ଏ ସବୁ ଦେଖି ନାତିକୁ କହିଲେ,ଆରେ !  ମୁଁ  ଠିଆ ହେଉଛି, ତୁ ଏଇଠି ବସ୍।ସଂକଳ୍ପ   କହିଲା ଜେଜେ! ତମେ ତ ବୁଢା ଲୋକ ,ତମେ ଠିଆ ହେବ ଆଉ ମୁଁ ବସିବି, ଏ ସବୁ କ`ଣ ମତେ ଭଲ  ଲାଗିବ?\nଦଶ ଏଗାର ବର୍ଷର  ପିଲାଟିର ଏ ପ୍ରକାର କାମ ଆଉ ତା`ତୁଣ୍ଡରୁ  ଏମିତି ଅକଲର କଥା ଶୁଣି ବସ୍ ର ଯାତ୍ରୀମାନେ ପିଲାଟିକୁ ଚାହିଁ ରହିଥିଲେ ।ଅନେକ ଭାବୁଥିଲେ ଏ  ପିଲାଟି ବଡ ହେଲେ `ଭଲ  ମଣିଷଟିଏ `ହେବ ।\n∎\nସଭାପତି\nଉତ୍କଳମଣି ଶିଶୁ ସାହିତ୍ଯ ସମିତି\nଶଂଖୋ,କେନ୍ଦୁଝର।\n--**--",
+        "image": "/media/34b28491530823132c76a642.jpg",
+        "route": "/shishu/article_details-22c82e6d58.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Inside an ordinary Indian bus, ten-year-old Sankalp stands in the aisle and gently offers his seat to an elderly woman in a sari, while his seated grandfather watches approvingly. Three clear figures, spare bus interior.",
+      "image": "/art/archive/issue-08-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-b3c91558-b51b-4468-9810-4766907baf87.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-22c82e6d58.html"
+    },
+    {
+      "number": 9,
+      "title": "ଜାନୁଆରୀ: 2026",
+      "route": "/shishu/old_issues_details-31fdaf256f.html",
+      "original_image": "/media/d20279f8a52a1706a0ab37a8.jpeg",
+      "story": {
+        "id": "556",
+        "title": "ଭେଟି",
+        "author": "ଲେଖା  : ରାଧାମାଧବ ରଥ",
+        "body": "ଆଜି ନବବର୍ଷ। ଏହି  ନବବର୍ଷରେ  ବ୍ଯୋମକେଶ ବାବୁଙ୍କ ନାତି ଜନ୍ମ  ହୋଇଥିଲା ବୋଲି ତାର  ନାମକରଣ ହୋଇଥିଲା,`ନୂତନ`। ନୂତନ ବ୍ଯୋମକେଶ ବାବୁଙ୍କ ଏକମାତ୍ର ନାତି।ଭାରି ଭଲ ପାଆନ୍ତି  ସେ।ଜୀବନରେ ସେ ଅଜା ହେବାର ସୌଭାଗ୍ଯ ଲାଭ କରିଛନ୍ତି। ଛାତି ଟା ତାଙ୍କର ଗର୍ବରେ ଫାଟି ପଡୁଛି  ଯେପରି !\nନୂତନର ଜନ୍ମଦିନ ମହାସମାରୋହରେ  ପାଳିତ ହେଉଛି।ନୂତନର ବାପାମାଆଙ୍କ ମନ ମଧ୍ଯ  ବେଶ୍  ଖୁସିଥାଏ। ନୂତନ କହିବା ଅନୁଯାଇ ତାର  ସାଙ୍ଗମାନେ ବି ଘରକୁ ନିମନ୍ତ୍ରିତ ହୋଇଛନ୍ତି।ଘରଟି ବିଭିନ୍ନ ଫୁଲରେ ଖୁବ୍ ସଜ୍ଜିତ  ହୋଇଛି।କାନ୍ଥରେ ହାପି ବାର୍ଥ ଡେ`  ବୋଲି ଷ୍ଟିକର ମରା ହୋଇଛି।\nସାଙ୍ଗମାନଙ୍କ ଉପସ୍ଥିତିରେ କେକ୍  କଟାହେଲା।ପ୍ରଥମେ ନୂତନ ଏକ ଛୁରିରେ  କେକ୍   କାଟିଲା।ପରେପରେ  ଅନ୍ଯ  ସାଙ୍ଗସାଥୀ ମଧ୍ଯ। ପରସ୍ପର ମଧ୍ଯରେ ହସଖୁସିରେ କେକ୍  ଖାଇବାକୁ ଗଲେ।ନୂତନ  କଟାହୋଇଥିବା କେକରୁ କିଛି  ଅଂଶ  ନିଜର ଅଜାଆଈ ଓ ବାପାମାଆଙ୍କୁ ମଧ୍ଯ  ଚାଖିବାକୁ ଦେଲା। ସମସ୍ତେ ହାପି ବର୍ଥ ଡେ` ଟୁ ୟୁ ବୋଲି ବଡପାଟିରେ  ଉଚ୍ଚାରଣ କଲେ।ହସଖୁସିର ମାହୋଲ ସୃଷ୍ଟି ହେଲା।ନୂତନର  ସାଙ୍ଗମାନେ  ଆଣିଥିବା ଭେଟି ବା ଉପହାର  ଗୁଡିକ  ସଯତ୍ନେ  ଟେବୁଲରେ ରଖା ହୋଇଥାଏ।\nସାଙ୍ଗମାନେ ଖାଇପିଇ  ନିଜ ନିଜର ଘରକୁ ଚାଲିଗଲେ।ନୂତନ  ଅଜାଙ୍କ ଉପସ୍ଥିତିରେ ସାଙ୍ଗମାନଙ୍କ ପ୍ରଦତ୍ତ ଉପହାର  ଗୁଡିକୁ ଗୋଟିଗୋଟି କରି ଆନନ୍ଦରେ ଖୋଲିବାକୁ   ଗଲା।ସମସ୍ତଙ୍କର ଉପହାରରେ  ନିଜ ନିଜର  ନାମ ଲେଖାହୋଇଥିବା ହେତୁ ଚିହ୍ନିବାରେ କିଛି ଅସୁବିଧା ହେଲାନାହିଁ।\nନୂତନର ଅତି ପ୍ରିୟ ସାଙ୍ଗ  ସାନ୍ତ୍ବନୁର   ଉପହାରଟିକୁ  ନୂତନ ଖୋଲିବାକୁ ଗଲା।ସେ  ଖୋଲିଲାପରେ ଜାଣି ପାରିଲା, ତାହା ଏକ  ମନିପ୍ଳାଣ୍ଟର କ୍ଷୁଦ୍ର ଚାରାଟିଏ ମାତ୍ର। ନୂତନର ମନ ସଙ୍ଗେ ସଙ୍ଗେ  ଫୁଲ ପରି ମଉଳିଗଲା।ଅନ୍ଯମାନେ  ଅତି ଆକର୍ଷଣୀୟ ଉପହାର  ଦେଇଥିବା ସ୍ଥଳେ ନିଜର ପ୍ରିୟ ସାଙ୍ଗ ସାନ୍ତ୍ବନୁ କେବଳ  ମାତ୍ର ମନିପ୍ଳାଣ୍ଟର  ଚାରାଟିଏ  ଦେଇ  ତାକୁ ଠକି ଦେଇଛି।ମନରେ ତାର ପ୍ରଶ୍ନ ଉଠିଲା,ଆଉ କଣ ସେ କିଛି ଦେଇ ପାରିଲା ନାହିଁ?\nନୂତନର ମନଟି ସହସା ମଉଳି ଯିବାର ଦେଖି  ବ୍ଯୋମକେଶବାବୁ  ନାତିକୁ ବୁଝାଇବାକୁ  ଯାଇ   କହିଲେ ,ନାତି  ନୂତନ ! ମନିପ୍ଳାଣ୍ଟଟି ହେଉଛି ତୋ ପାଇଁ ଶ୍ରେଷ୍ଠ   ଉପହାର। ବିଶ୍ବାସ ଅଛି,ଏହା  କେବଳ  ଧନ ନୁହେଁ,ମଣିଷର  ଉତ୍ତମ ଶିକ୍ଷା  ଓ ସ୍ବାସ୍ଥ୍ୟର ପ୍ରତୀକ  ବା ଚିହ୍ନ। ଏହା ତୋତେ  ଉନ୍ନତିର ରାହା ଦେଖାଇବ। ତୁ ଏହାକୁ ଆଖି ଆଗରେ ରଖି ନିଜର କର୍ମ ପଥରେ ଆଗେଇ ଚାଲିବୁ।\nଅଜାଙ୍କ ଏହି ପଦକ  କଥାରେ ନୂତନ ମନରେ ଆନନ୍ଦର ଲହରୀ ଖେଳିଗଲା। ସେ  ମନେମନେ ନିଜର ସାଙ୍ଗ, ସାନ୍ତ୍ବନୁକୁ  ଧନ୍ୟବାଦ ଦେଲା। ଏହାଠାରୁ ବଡ କଥା କଣ ହୋଇ ପାରେ ?\n∎\nଭର୍ତ୍ତୁର ,ବାଙ୍ଗାଲୋର ,କର୍ଣ୍ଣାଟକ ।",
+        "image": "/media/b39588563a7a83f03e8b4152.jpg",
+        "route": "/shishu/article_details-584df82fed.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: At home after his birthday party, young Nutan and his grandfather examine a tiny potted money plant among two wrapped gifts. The grandfather explains gently while the boy brightens with understanding.",
+      "image": "/art/archive/issue-09-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-fdc7a485-f16b-4a3a-81ef-e86f17b88b60.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-584df82fed.html"
+    },
+    {
+      "number": 10,
+      "title": "ଡିସେମ୍ବର: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-01d938c402.html",
+      "original_image": "/media/ffa923a5f31563821d091fd9.jpg",
+      "story": {
+        "id": "535",
+        "title": "ବେଲୁନ୍‌",
+        "author": "ଲେଖା  : ଦାଶ ବେନହୁର",
+        "body": "ମୁଁ ଯେମିତି  ଜଣାଶୁଣା, ମତେ ଯେ ବିକେ ସେ ଆହୁରି ଅଧିକ ଜଣାଶୁଣା ହୋଇଯାଏ। ପିଲାଏ ଡାକ ଛାଡ଼ନ୍ତ- “ଏ ବେଲୁନ୍‌ବାଲା ଭାଇ, ବେଲୁନ୍‌ ଦେଇ ଯା`। ”` ସମସ୍ତେ ଡାକନ୍ତ ବେଲୁନ୍‌ବାଲା । କିଏ ପୁଣି ଗୀତ ଗାଏ- ଲା” ଲା” ଲା`,  ବେଲୁନ୍‌ବାଲା । `\nମୁଁ ବଜାରରେ କେତେ  ରଇଂରେ ମିଳେ, କେତେ ପ୍ରକାରର ବି ମିଳେ । ଗୋଲ,  ଲମ୍ବାଳିଆ, ସାପ ଭଳି ମୋଡ଼ାମୋଡ଼ା ପୁଣି କିଏ ନାଲିପାନ ଭଳିତ ଆଉ କିଏ  କେଉଁ ଖେଳନା ଭଳି ।  ତେବେ ମୋର ସାଧାରଣ ଆକୃତି ପ୍ରାୟ ଟିକେ ଲମ୍ବାଳିଆ। ମୁଁ ଯେତେବେଳେ ଫାଟେ ମୋର “ଢୋ ଶବ୍ଦରେଅନେକ ପିଲା ଚମକି ପଡ଼ନ୍ତି । ସବୁଠୁ ମଜା ହୁଏ  ଫୁଙ୍କୁ ଫୁଙ୍କୁ ମୁଁ  ଯେତେବେଳେ “ଢୋଂ କିନା ଫାଟେ। ଫୁଙ୍କୁଥିବା ପିଲା ଭାବୁଥାଏ ମୁଁ ଆହୁରି ବଡ଼ ଦିଶିବି, ଆହୁରି  ଆହୁରି ।  ଲୋଭରେ  ପଡ଼ି ସେ ଫୁଙ୍କେ।  ମାତ୍ର ମୁଁ ଯେତେବେଳେ  ଫାଟେ ତା ମୁହଁଟି ଫୁସ୍‌କି ଯାଏ। ଆଉ ଗୋଟିଏ ମଜା କଥା ହେଉଛି,  ମୁଁ ଫୁକ୍କା ହୋଇଥିବା  ଅବସ୍ତାରେ ଅନେକ ଦିନ  ରହିଗଲେ ଆପେ ଫୁସ୍‌କ ଯାଏ।  କାରଣ ପବନକୁ ନିବୁଜ କରିବା ସହଜ  କଥା ନୁହେଁ । ପିଲାଏ ତ ମତେ ନେଇ ଖେଳନ୍ତି, ତେବେ ବାହା,  ବ୍ରତ, ଜନ୍ମଦିନ ଆଦି ଉତ୍ସବ  ଓ ବିଭିନ୍ନ ସାମାଜିକ ଅନୁଷ୍ଠାନମାନଙ୍କରେ ସଜାସଜି ପାଇଁ ମତେ ବ୍ଯବହାର କରାଯାଏ। ମୋତେ ନେଇ ମଡେଲିଂ ଠାରୁ ଆରମ୍ଭ କରି ବିଜ୍ଞାପନ ଜାରି କରିବା ଓ ଭିନ୍ନଭିନ୍ନ ଆକୃତିରେ ଗଢ଼ି ଖେଳ  ଖେଳିବା ସହ ଆକାଶରେ ଉଡ଼ିବା କାମ ମଧ୍ୟ କରାଯାଏ। ଏମିତିରେ ପିଲାମାନେ ମୋ ପେଟରେ ନିଜ ପାଟିର ପବନ ପୂରାଇ ସିନା ଫୁଙ୍କନ୍ତି କିନ୍ତୁ ହିଲିଅମ୍‌, ହାଇଡ୍ରୋଜେନ୍‌,  ନାଇଟସ୍‌ ଅକ୍କାଇଡ୍‌ ଓ ଅମ୍ଳଜାନ ମୋ ଭିତରେ ଭରି ମୋତେ ଅନେକ କାମରେ ଉପଯୋଗ କରାଯାଏ।\nମୁଁ କ`ଣ କେବଳ ରବର୍‌ରେ ଗଢ଼ା ହୁଏ କି ? ରବର୍‌ ଛଡ଼ା ଲାଟେକ୍ସ୍‌,ପୋଲିକୋପ୍ରିନ୍‌  ଓ ନାଇଲନ୍‌ ଭଳି ବିଭିନ୍ନ ନମନୀୟ  ପଦାର୍ଥରେ ମୁଁ ତିଆରି ହୋଇଥାଏ। ଗୋଟିଏ ଗ୍ୟାସ୍‌ ବେଲୁନ୍‌ ତିଆରି କରି ୧  ଡିସେମ୍ବର ୧୭୮୩ରେ ପ୍ରଫେସର୍‌ ଜ୍ୟାକ୍‌ ଚାର୍ଲ୍‌ସ  ପ୍ରଥମେ ଆକାଶରେ ଉଡ଼ି  ସମସ୍ତଙ୍କୁ ଚମତ୍କୃତ  କରିଦେଇଥିଲେ । ସେଇ ଭଳି ଆଉ ଗୋଟିଏ ମନେ  ରଖିବା ଭଳି କଥା ହେଉଛି, ଆଜିକାଲି ବଜାରରେ ମିଳୁଥିବା ପିଲାମାନଙ୍କ ପ୍ରିୟ ମୋର ରବର ରୂପର ଆବିଷ୍କାରକ ଥିଲେ ମାଇକେଲ୍‌ ଫାରାଡେ;ତାହା ହେଉଛି ୧୮ ୨୪ ମସିହାର କଥା। ଜାଣିଛ ତ ମୁଁ କେମିତି ହୃଦ୍‌ରୋଗର ଚିକିତ୍ସା ପାଇଁ ବି ଲାଗେ ?  ଯେଉଁଠି ଧମନି ଚିପି ହୋଇ,  ସେଠାରେ କିଛି ଚର୍ବି ଜମି,  ରକ୍ତ ଯିବା ଆସିବାରେ ଅସୁବିଧା ହେଉଥାଏ,  ଆଞ୍ଜିଓପାଷ୍ଟ୍‌ କରି ସେ   ସ୍ଥାନକୁ  ମତେ ଖୁବ୍‌ ଛୋଟ  କରି ପଠେଇ ଦିଆହୁଏ। ମୁଁ  ସେଠି ପହଞ୍ଚି ବାଟ ଫିଟେଇବାରେ ସାହାଯ୍ୟ  କରେ। ତା`ର  ଅର୍ଥ ମୁଁ କେବଳ ଖେଳନା ନୁହେଁ ।  ତାହା  ଠାରୁ ଅଧିକ ଆହୁରି  ଅନେକ କିଛି। ଏପରିକି ମୁଁ  ଏକ ପ୍ରକାରର ଔଷଧ ଭଳି ବି କାମ କରେ।",
+        "image": "/media/b525814c2808983a1988e6ba.jpg",
+        "route": "/shishu/article_details-6401dd244c.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A friendly balloon seller on an Indian neighborhood lane holds a bunch of red yellow blue balloons, one long twisting balloon among them; two excited children choose their favorites. Playful expressive scene.",
+      "image": "/art/archive/issue-10-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-7a038a24-c13b-48b6-8958-021fda0f54bb.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-6401dd244c.html"
+    },
+    {
+      "number": 11,
+      "title": "ନଭେମ୍ବର: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-cb3d189e4b.html",
+      "original_image": "/media/ec2ca921025b1307c01c85a7.jpg",
+      "story": {
+        "id": "499",
+        "title": "ସହନଶୀଳତା",
+        "author": "ଲେଖା  :   ରାଧାମାଧବ ରଥ",
+        "body": "ଅଷ୍ଟମ ଶ୍ରେଣୀ।  ବସନ୍ତ  ଓ ସୁଶୀଲ୍   ଏକାଠି ପାଠ ପଢନ୍ତି।ପରୀକ୍ଷାରେ ସେ ଦୁହେଁ ସର୍ବଦା  ତଳଉପର ହୁଅନ୍ତି।ଅର୍ଥାତ ବସନ୍ତ  ପ୍ରଥମ   ହେଲେ,ସୁଶୀଲ ଦ୍ବିତୀୟ ହୁଏ ବା,ସୁଶୀଲ  ପ୍ରଥମ  ହେଲେ ବସନ୍ତ   ଦ୍ବିତୀୟ ହୁଏ।\nଏକଦା ଷଣ୍ମାସିକ  ପରୀକ୍ଷାରେ ସୁଶୀଲ  ପ୍ରଥମ   ହୋଇଥିବା ସ୍ଥଳେ ବସନ୍ତ  ଦ୍ବିତୀୟ  ହେଲା।ଏହା ଜାଣି ସୁଶୀଲ  ମନରେ ଅହଂକାର  ଆସିଲା।ସେ ବସନ୍ତକୁ ଦେଖେଇ ଶୁଣେଇ  ଅନେକ   କଥା କହିଲା।ଏପରିକି ସମସ୍ତଙ୍କ  ଆଗରେ  ଅପମାନ ବି ଦେଲା।\nଘଟଣା ହେଲା,ବସନ୍ତ  କୌଣସି କାରଣରୁ ଗଣିତରେ କମ୍ ନମ୍ବର  ରଖିବା ଫଳରେ ଶ୍ରେଣୀରେ ପ୍ରଥମ  ହୋଇ   ପାରିଲା ନାହିଁ।ଫଳତଃ ସୁଶୀଲ   ପ୍ରଥମ  ହେଲା।ସୁଶୀଲ  ଗର୍ବୀ ଓ ଅହଂକାରୀ।\nସେଦିନ  ବସନ୍ତ   ମନ ଦୁଃଖରେ ଘରକୁ ଫେରିଲା।ତା ମନରେ ସରସତା   ନ ଥାଏ। ମୁହଁକୁ  ତଳକୁ କରି ବସନ୍ତ  ବସିଥିବା ଦେଖି ତାର  ମାଆ, ସ୍ନେହଲତା  ପାଖକୁ ଆସି  ପଚାରିଲେ,ତୋର  ଆଜି କାହିଁକି ମନ ଦୁଃଖ  ? ଘଟଣା କଣ ?\nବସନ୍ତ   ସବୁକଥା ଖୋଲିକରି ମାଆଙ୍କ  ଆଗରେ  ପ୍ରକାଶ  କଲା।\nସ୍ନେହଲତା ସବୁକଥା ଶୁଣିସାରି ହସିହସି  କହିଲେ,ଏହି  ସାମାନ୍ଯ  କଥା ! ଏଇଥିପାଇଁ ତୁ ମନ ଦୁଃଖ କରୁଛୁ ? ଏହାର ସମାଧାନର  ପଥ ଅତି ସହଜ।ତୁ ପରିଶ୍ରମ  କଲେ ଅକ୍ଳେଶରେ ପ୍ରଥମ  ହୋଇ   ପାରିବୁ।ଆଜିଠୁ ତୁ ମନଦେଇ  ପଢିବା  ଆରମ୍ଭ  କରି ଦେ।ସମୟକୁ ବରବାଦ  ନ କରି ,ସାଙ୍ଗସାଥୀଙ୍କ  ସହ ହସିଖେଳି ସମୟ ନ କଟାଇ,ଅପମାନକୁ ଅପମାନ ବୋଲି  ନ ଭାବି ତୁ ତୋର  ପରିଶ୍ରମ  ଜାରି ରଖ।ଦେଖିବୁ,ତୁ ନିଶ୍ଚୟ ଆସନ୍ତାଥର  ପ୍ରଥମ   ହେବୁ।ଅପମାନ  ତୋ  ପାଇଁ ଆଶୀର୍ବାଦ   ହେବ।\nବସନ୍ତ   ମାଆଙ୍କ  କଥା ମାନି ସମୟକୁ ଅପଚୟ ନ କରି ମନ  ଦେଇ  ପାଠ   ପଢିଲା।ସୁଶୀଲର  କଥାକୁ ଚାଲେଞ୍ଜ  ରୂପେ ଗ୍ରହଣ   କଲା।ସତକୁସତ  ସେ ଶ୍ରେଣୀରେ  ପ୍ରଥମ   ହୋଇ  ସୁନାମ  ଅର୍ଜନ   କଲା।\nଶେଷରେ ପ୍ରଧାନ ଶିକ୍ଷକ ତାକୁ ଧନ୍ୟବାଦ  ଦେବା ସହିତ   ଆଶୀର୍ବାଦ  ବି ଦେଲେ।ସୁଶୀଲ  ନିଜର   ଭୁଲ୍ ବୁଝିପାରି ବସନ୍ତ  ପାଖରେ କ୍ଷମା  ମାଗିଲା।କଥାରେ ଅଛି,ସହନଶୀଳତା ମଣିଷର  ମହାନ ଗୁଣ ଅଟେ।ସେଇ ଦିନ  ଠାରୁ ସୁଶୀଲ  ଅହଂକାର  କରିବାକୁ   ଗଲାନାହିଁ।",
+        "image": "/media/81d5e2bfdfe641e745a9bf66.jpg",
+        "route": "/shishu/article_details-705cbea94a.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Two schoolboys in simple uniforms reconcile outside a classroom: one apologizes with a shy hand extended, the other accepts warmly, exercise books tucked under an arm. Clear expressive body language.",
+      "image": "/art/archive/issue-11-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-78f34d73-d177-442b-8112-46c662da7a79.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-705cbea94a.html"
+    },
+    {
+      "number": 12,
+      "title": "ଅକ୍ଟୋବର: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-4de6385d8a.html",
+      "original_image": "/media/8fbfc6776f15c0cc8f22bd36.jpg",
+      "story": {
+        "id": "460",
+        "title": "ହଂସ  ପିଠିରେ ବଗ",
+        "author": "ଲେଖା  : ହରିପ୍ରିୟା  ପଟ୍ଟନାୟକ",
+        "body": "( ପୂର୍ବ ପ୍ରକାଶିତ ଉତ୍ତାରୁ)\nବୁଢ଼ାବଗ କଥା ନ ଶୁଣି ଛୁଆବଗ ଡଗଡଗ ହେଇ  ହଂସ ପାଖକୁ ପଳେଇଲା। ହଂସ କହିଲା \"ବଗଭାଇ ତୁମେତ ପହଁରି ପାରିବନି।ମୋ ପିଠିରେ ବସିପଡ।  ମୁଁ ତୁମକୁ ପାଣି ଭିତରକୁ ନେଇଯିବି\"। ଡେରି ନ କରି ଛୁଆବଗ ହଂସ ପିଠି ଉପରକୁ ଚଢ଼ିଗଲା।  ହଂସ ଆଗକୁ ଆଗକୁ ପହଁରିଲା। ବୁଲୁବୁଲୁ ହଂସ  ତାଙ୍କ ରାଇଜ କଥା କହିଲା। ହିମାଳୟ ପର୍ବତ କିପରି ଆକାଶକୁ ଛୁଇଁଛି। ବର୍ଷସାରା ତାହା ବରଫରେ  ଢ଼ାଙ୍କି ହେଇଥାଏ। ପର୍ବତର ତଳେ ଘଞ୍ଚ ଜଙ୍ଗଲ। କେତେ ଜୀବଜନ୍ତୁ ଅଛନ୍ତି।ସେଇ ନିକଟରେ ଅଛି  ମାନସରୋବର। ହ୍ରଦର ଜଳ ସୁଶୀତଳ।ସେଇଠି ମହାଭାରତ ଯୁଦ୍ଧ ସମୟରେ\nକୈ।ରବଙ୍କ ବଡ଼ଭାଇ ଦୁର୍ଯ୍ୟୋଧନ ଲୁଚି  ରହିଥିଲା।ମାନସରୋବର ପଦ୍ମ,  କଇଁ ଫୁଲରେ ଭର୍ତ୍ତି ଥାଏ।ସେଇଠି ସେମାନେ ରୁହନ୍ତି। ହେଲେ ଶୀତଦିନେ ତାହା  ଅତ୍ୟନ୍ତ ଥଣ୍ଡା ହେଇଯାଉଥିବାରୁ ସେଠାରେ ରହି ହୁଏନି।ତେଣୁ ସେମାନେ ଦଳଦଳ ହୋଇ ଅନ୍ୟ ସ୍ଥାନକୁ  ଚାଲିଆସନ୍ତି।\nହଂସ ଏଇମିତି କଥା କହି ବଗକୁ ପିଠିରେ ବସେଇ ପହଁରିଲା ବେଳେ ଛୁଆବଗ ଗର୍ବରେ କୂଳ ଆଡ଼କୁ  କଣେଇ କଣେଇ ଚାହୁଁଥାଏ।ତା`  ଜାତିଭାଇଙ୍କୁ ଦେଖେଇ ହଉଥାଏ ଯେ ସେ କିପରି ରାଜହଂସ ଉପରେ ବସିଛି।\nଅନ୍ୟ ବଗମାନେ ଅବାକ୍ ହୋଇ ଚାହୁଁଥାଆନ୍ତି। ରାଜହଂସ କଥା ଗପୁଥାଏ ଆଉ ପଦ୍ମ କେଶର ବା  ନାଡ଼ ଦେଖିଲେ ଖାଉଥାଏ।ଏଣେ ସେ ପହଁରିବା ବେଳେ ମାଛସବୁ ପାଣି ଭିତରେ ଡୁବି ଯାଉଥାଆନ୍ତି।ବିଚରା  ଛୁଆବଗ ମାଛଟିଏ ଖାଇ ନ ପାରି ଭୋକରେ ଆଉଟୁ ପାଉଟୁ  ହେଲାଣି। ଛୁଆବଗ କହିଲା \"ହଂସଭାଇ,ଆଜି ସେତିକି ଥାଉ।ଚାଲ କୂଳକୁ ଯିବା।ଆଉଦିନେ ଆସିଲେ  ତୁମଠାରୁ ଆହୁରି କଥା ଶୁଣିବି\"।\nହଂସ କୂଳ ଆଡ଼କୁ ମୁହାଁଇଲା।ଛୁଆବଗ ଦେଖିଲା ତା ସାଙ୍ଗମାନେ ପେଟେପେଟେ ମାଛ ଖାଇ ହେଉଡି  ମାରୁଛନ୍ତି।କୂଳ ଆସିଯିବାରୁ ଛୁଆବଗ ହଂସ ପିଠିରୁ ଓହ୍ଲେଇ ଡଗଡଗ ହେଇ ଚାଲିଯାଉଥିବାର ଦେଖି  ବୁଢାବଗ ମୁରୁକି ହସି କହିଲା \"ଆରେ ନାତି! କ`ଣ ପୋଖରୀଯାକ ମାଛ ଖାଇଦେଲୁକି?\"\nଛୁଆବଗ କିଛି ଜବାବ ନ ଦେଇ ତରତର ହେଇ ଗୋଟିଏ ଅଣତୁଠ ଆଡ଼କୁ ଚାଲିଯାଇ ତୁନି ହୋଇ ବସି  ଭାବିଲା , ଆଉଦିନେ ଏମିତି ଫୁଟାଣି  ଦେଖେଇ ଉପାସରେ ରହିବି ନାହିଁ।",
+        "image": "/media/9173417dbfb5f678e196dea4.jpg",
+        "route": "/shishu/article_details-c137b0c986.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A small proud white egret rides on the back of a larger white swan across a lotus pond, looking sideways at another egret on the bank. Humorous folk-story animal scene, distinct long egret beak and rounded orange swan beak.",
+      "image": "/art/archive/issue-12-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-dc7bb02d-8724-4983-b799-a2afc95b03cc.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-c137b0c986.html"
+    },
+    {
+      "number": 13,
+      "title": "ସେପ୍ଟେମ୍ବର: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-7457869a98.html",
+      "original_image": "/media/7bfff44c1c88f5bac36656d3.jpg",
+      "story": {
+        "id": "441",
+        "title": "ଗେହ୍ଲୀର ଅକଲ",
+        "author": "ଲେଖା  :   ରତ୍ନାକର ଦାସ",
+        "body": "ଭୋର୍ ସକାଳ। ଅଶୀ ବର୍ଷର ଜେଜୀ ଅଣ୍ଟାରେ  ଲୁଗାକାନି ଭିଡି ଦାଣ୍ଡ ଖରକୁ ଥିଲା। ଡାହାଣ ହାତରେ ଥାଏ ପହଁରା ଆଉ ବାଆଁ କାଖରେ କାଖେଇ ଥାଏ  ଝୁଡି।ଖରକିବା ଶବ୍ଦ ଶୁଣି ନାତୁଣୀ  ଉଠି ପଡିଲା  ବିଛଣାରୁ।ଜେଜୀଙ୍କ ପାଖକୁ ଧାଇଁ ଯାଇ ଦେଖିଲା ତାଙ୍କ କପାଳରେ ବିନ୍ଦୁ ବିନ୍ଦୁ ଝାଳ।ଜେଜୀଙ୍କୁ  କିଛି ନ କହି ତାଙ୍କ ହାତରୁ ଛଡାଇ ଆଣିଲା ପହଁରାଟା।ଜେଜୀ ତା` ମୁହଁକୁ ଅନାଇବାରୁ ନାତୁଣୀ କହିଲା ଜେଜୀ!ମାଆ ତମକୁ  କେବେ ତ କାମ କରିବାକୁ ବତାନ୍ତି ନାହିଁ। ତା ଛଡା ତମର କ`ଣ ବୟସ ଅଛି  ନା ତମ ଦେହରେ ଆଉ ବଳ ଅଛି ଯେ ତମେ ଏସବୁ କରିବ?\nନାତୁଣୀ ଗେହ୍ଲୀ ମୁହଁରୁ ଏମିତି ଅକଲର କଥା ଶୁଣି ଜେଜୀ ତାକୁ କୋଳେଇ ଆଣିଲେ।ତା ମୁହଁକୁ  ଆଉଁଷି ଦେଇ କହିଲେ ଆଲୋ ଗେହ୍ଲୀ ! ମୁଁ ଏଇ କାମ କରିବା ଛଳରେ ତୋର ବୁଦ୍ଧି ଅକଲକୁ ପରଖୁ  ଥିଲି।ଏବେ ଜାଣିଲି ତୋର ଯେତେ ଅକଲ,  ତୋ ଜୀବନରେ କେବେ ବି କେଉଁଠି ହାରିବୁ ନାହିଁ।ଆଉ ଗୋଟିଏ କଥା ମନେ ରଖିବୁ,କେବଳ ମତେ ନୁହେଁ କୌଣସି ଗୁରୁ ଗୁରୁଜନଙ୍କ କଥାକୁ କେବେ ଏଡାଇ ଦେବୁନି କି ସେମାନଙ୍କ  ସହିତ ଛଳନା କରିବୁନି।କେବଳ ପାଠ ପଢିଲେ ତମେ `ଭଲ ମଣିଷ `ହେଇ ପାରିବନି।ଭଲ ମଣିଷ ହେବା ଓ ସଫଳତା ଅର୍ଜନ କରିବାକୁ ହେଲେ ପାଠ ସହିତ ବୁଦ୍ଧି  ବିବେକ ଦରକାର।\n∎\nସଭାପତି\nଉତ୍କଳମଣି ଶିଶୁ ସାହିତ୍ଯ ସମିତି\nଶଂଖୋ,କେନ୍ଦୁଝର।",
+        "image": "/media/e2555401a9af94cecc92d984.jpg",
+        "route": "/shishu/article_details-83a8815b0e.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Little Gehli gently takes the twig broom from her elderly grandmother in a village courtyard at dawn; grandmother bends to embrace her. Tender cartoon gesture, two people, woven basket nearby.",
+      "image": "/art/archive/issue-13-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-78f95be3-6318-4359-aebc-042cf98ae5a1.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-83a8815b0e.html"
+    },
+    {
+      "number": 14,
+      "title": "ଅଗଷ୍ଟ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-8a077c1fec.html",
+      "original_image": "/media/96139268b40c2d2bcd7e075c.jpg",
+      "story": {
+        "id": "392",
+        "title": "ହଂସ ପିଠିରେ ବଗ",
+        "author": "ଲେଖା  : ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+        "body": "ଗାଆଁଟିର ନାମ ଜେମାଦେଇପୁର। ଗାଆଁ ମୁଣ୍ଡରେ ଅଛି  ଗୋଟିଏ ଝଙ୍କାବରଗଛ । ବରଗଛଟିର ଅଳ୍ପ ଦୂରରେ ପୋଖରୀ ଟିଏ। ସେଇଟି ଆକାରରେ ଯେମିତି ବଡ଼, ସେମିତି ଗଭୀର।  ଖରାଦିନେ ମଧ୍ୟ ସେଥିରେ ପାଣି ଥାଏ। ପଦ୍ମ, କଇଁ ଆଦି ଫୁଲ ଫୁଟି  ପୋଖରୀଟି ଭାରି ସୁନ୍ଦର ଦିଶେ। ଗାଆଁଲୋକେ ଦଳ କାଢ଼ି ପୋଖରୀକୁ ସଫା ରଖନ୍ତି।ପୋଖରୀକୂଳକୁ ମାଛ  ଖାଇବାପାଇଁ ବଗମାନେ ଆସନ୍ତି।ଧ୍ୟାନ କଲାଭଳି ମାଛକୁ ଜଗି ବସନ୍ତି। ମାଛମାନେ ଡିଆଁଡେଇଁ କରି  ପାଣି ଉପରକୁ ଉଠିଆସୁଥିବା ବେଳେ ବଗମାନେ ତାଙ୍କ ଲମ୍ବାଥଣ୍ଟକୁ ପାଣିରେ ବୁଡ଼େଇ ମାଛ ଧରି  ଖାଆନ୍ତି ଓ ସଞ୍ଜହେଲେ ବରଗଛଟିରେ ଆଶ୍ରୟ ନିଅନ୍ତି।\nଥରେ ଶୀତଦିନେ ପୋଖରୀକୁ କାହୁଁ ଉଡିଆସିଲେ ଦଳେ  ହଂସ। ପାଣିରେ ପହଁରି ପହଁରି ସେମାନେ କଇଁନାଡ଼,  ପଦ୍ମଫୁଲର କେଶର ଆଦି ମହାଆନନ୍ଦରେ ଖାଇ ବୁଲିଲେ।\nଦିନେ ପୋଖରୀ ହୁଡ଼ାରେ ବୁଢାବଗଟିଏ ଓ ତା`ର ନାତି ଛୁଆବଗ  ପାଖାପାଖି ବସିଥିଲେ।ଛୁଆବଗ ଅଳ୍ପଦିନ ହେଲା ଉଡ଼ି ଶିଖିଛି।ସେ ଆଗରୁ କେବେ ଏତେ ସଂଖ୍ୟକ ହଂସ  ଦେଖିନଥିଲା।ସେ ବୁଢ଼ାବଗକୁ ପଚାରିଲା \"ଏମାନେ କିଏ? ଏଠିତ ଆଗରୁ  ନଥିଲେ।\"\nବୁଢ଼ାବଗ କହିଲା \"ଏମାନେ ହେଲେ ରାଜହଂସ  ।ଥଣ୍ଡାଜାଗାରୁ ଆସିଛନ୍ତି।ଏଇ ସମୟରେ ସେଠାରେ ପାଣି ବରଫ ହେଇଯାଏ। ସେଥିପାଇଁ ସେମାନେ ଶୀତଦିନେ  ଆମପାଖକୁ  ଚାଲିଆସନ୍ତି।\"\nଏଇ ସମୟରେ ଗୋଟିଏ ରାଜହଂସ ସେମାନଙ୍କ ପାଖଦେଇ ପହଁରି  ପହଁରି ବୁଲୁଥାଏ।ଛୁଆବଗ ଭାବିଲା \"ଏଇ ହଂସ ସହିତ ସାଙ୍ଗହେଲେ କେମିତି ହୁଅନ୍ତା! ପୋଖରୀ  ଭିତରକୁ ୟା ପିଠିରେ ବସି ଯାଆନ୍ତି। ମନଇଛା ମାଛ ଖାଇପାରନ୍ତି।\"\n∎\nଆରଥରକୁ",
+        "image": "/media/c068ed1075b31d8331c92012.jpg",
+        "route": "/shishu/article_details-a4da9f3aab.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A tiny young egret and an older egret stand on a pond bank under a banyan tree, watching a graceful white swan approach through pink lotus flowers. The baby bird leans forward with curious excitement.",
+      "image": "/art/archive/issue-14-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-a4da9f3aab.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-74f65836-83a3-425d-9699-ea30147ba6c4.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 15,
+      "title": "ଜୁଲାଇ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-df53b87507.html",
+      "original_image": "/media/46fa572ef7d33e422bb488ab.jpg",
+      "story": {
+        "id": "364",
+        "title": "ଟେକି ଗରବେ ମଥା",
+        "author": "ଲେଖା  : ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
+        "body": "କେଡେ  ସୁନ୍ଦର   କି ମନୋହର\nଆମ ଧରଣୀରାଣୀ\nକିଛି  ନ ନେଇ   ଆମ ସଭିଙ୍କୁ\nଦିଅଇ ଦାନା-ପାଣି ।\nକି  ମନୋରମ  ଦିଶଇ ଆମ\nଧରାରେ ତରୁ-ଲତା\nଫଳ  କୁସୁମ ଶୋହେ ତା` କୋଳେ\nଟେକି ଗରବେ ମଥା।\nନଦୀ  ଝରଣା   ସାଗର-ନଈ\nବୁକୁରେ ବହେ ତାର\nବସୁଧା  ମାଆ   ପରଶ ଲଭି\nଦିଏ ପୀୟୂଷ ଝର ।\nନଈ  କଡ଼ରେ  ରୋପିବ ଚାରା\nନ ଭାବି ଆଗ-ପଛ\nବଞ୍ଚି ରହିବ     ନଈଟି ଆମ\nତା ପାଶେ ଥିଲେ ଗଛ ।\nମାଙ୍କଡ  ଡିଏଁ   ଗଛକୁ ଗଛ\nଶୁଣି ପକ୍ଷୀଙ୍କ ରୋଳ\nସବୁଜ  ପାଟେ  ଧରା ସୁଷମା\nନାହିଁ ଉପମା ତାର ।",
+        "image": "/media/c1a38729857d1ec04a073606.jpg",
+        "route": "/shishu/article_details-6730e3d649.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Children plant a small sapling on a riverbank, a monkey peers from a nearby tree and a bird rests on a branch. Emphasis on caring hands and the fresh green tree, broad cheerful shapes.",
+      "image": "/art/archive/issue-15-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-6730e3d649.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-db416914-9f13-4883-9489-cff37c713268.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 16,
+      "title": "ଜୁନ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-179b7ebd4f.html",
+      "original_image": "/media/91bd22b9d2ca652fa0a4fd38.jpg",
+      "story": {
+        "id": "342",
+        "title": "କିଏ କେମିତି",
+        "author": "ଲେଖା  : ହରିହର ଶୁକ୍ଳ",
+        "body": "ବଇଶାଖୀ ଖରା         ଟାଇଁଟାଇଁ,\nଝାଞ୍ଜିବାଆ ପିଟେ        ସାଇଁସାଇଁ।\nବରଷା ଝରଇ              ଝରଝର,\nଚାଷ ପାଇଁ ଚାଷୀ           ତରତର।",
+        "image": "/media/01c67b9e2a4f4220f5422d7a.jpg",
+        "route": "/shishu/article_details-810c721579.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A farmer hurries beside a green field as welcome monsoon rain begins, holding a simple umbrella; big cartoon raindrops and bent grass give movement. Friendly energetic nature scene.",
+      "image": "/art/archive/issue-16-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-810c721579.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-4500c021-b09d-44d1-99b0-0cb48d1872f9.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 17,
+      "title": "ମଇ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-6949643b1a.html",
+      "original_image": "/media/92913bb2487cab67fa764fb8.jpg",
+      "story": {
+        "id": "321",
+        "title": "ପଂଚ ପାଖୁଡା",
+        "author": "ଲେଖା  : ମନୋରମା ମିଶ୍ର",
+        "body": "ଦେଖରେ ଦେଖ\nଜେଜେମା`ଙ୍କର ମନଟା ଦୁଃଖ\nକଅଣ ପାଇଁ  ?\nସହରକୁ  ଜେଜେ ନାତିପାଖୁ ଯିବେ\nତାଙ୍କୁ ନନେଇ ।\nଦେଖରେ ଦେଖ\nରାସ୍ତା  ମଝିଟାରେ କେତେ ଯେ ଲୋକ\nକଅଣ ହେଲା ?\nଜଣକ  ବେକରୁ ହାର ନେଇ ଚୋର\nପଳେଇଗଲା   ।",
+        "image": "/media/59b08634d0621f1f78683b74.jpeg",
+        "route": "/shishu/article_details-82249c8086.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: An elderly grandmother in a simple sari looks wistfully from her veranda as grandfather packs a cloth travel bag to visit their grandson in the city. Gentle domestic vignette, affectionate not tragic.",
+      "image": "/art/archive/issue-17-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-82249c8086.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-010317be-c8a0-4cd9-bf9e-31ad5367625c.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 18,
+      "title": "ଏପ୍ରିଲ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-083c8367be.html",
+      "original_image": "/media/885f2a81d481c55cae41ba43.jpg",
+      "story": {
+        "id": "299",
+        "title": "ପଣା",
+        "author": "ଲେଖା  : ଜୟନ୍ତ କୁମାର ଓଝା",
+        "body": "ବେଲ କହେ ଆରେ ନଡ଼ିଆ ଭାଇ\nପଣା ସଙ୍କରାନ୍ତି ଆମରି ପାଇଁ।\nହସି କହେ ଆସି କଦଳୀ ବୁଢ଼ା\nଡାକିଲେନି ବୋଲି ରାଗିଛି ଚୁଡ଼ା।\nଛେନା ଗୁଡ଼ ଦୁହେଁ ଆସିଲେ ହସି\nଚକା ପାରି ଗଲେ ମଝିରେ ବସି।\nରାଗରେ ମରିଚ ଆସିଲା ଧାଇଁ\nକହେ ମତେ କାହିଁ ଡାକିଲ ନାହିଁ?\nବସି ବସି ଧିରେ କହିଲା ଦହି\nଦେଖ ଆଉ କିଏ ଗଲେକି ରହି?\nକାଜୁ କହେ ଖାଲି ଆସିବ ନୀର\nଡାକିବାକୁ ତାକୁ ଯାଇଛି କ୍ଷୀର।\nଯିଏ ଯହିଁ ରହିଥିଲେଟି ବାକି\nସଭିଏଁ ସଭିଙ୍କୁ ଆଣିଲେ ଡାକି।\nରାଗ ରୁଷା ଭୁଲି ହୋଇଲେ ମେଳ\nଗୋଳାଗୋଳି ହୋଇ ଚାଲିଲା ଖେଳ।\nନିଜ ସୁଆଦରେ ନ ହୋଇ ଗଣା\nମିଶିମାଶି ଶେଷେ ହୋଇଲେ ପଣା।",
+        "image": "/media/874edc99ae77a3817956f378.jpg",
+        "route": "/shishu/article_details-539c536ea6.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Playful anthropomorphic bael fruit, coconut and banana gather around an earthen bowl of pana drink, with small bowls of yogurt and jaggery. Funny ingredient characters with simple eyes and gestures, Odisha Pana Sankranti rhyme.",
+      "image": "/art/archive/issue-18-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-539c536ea6.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-b0752104-43e4-42cb-9cae-bd889a4df8af.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 19,
+      "title": "ମାର୍ଚ୍ଚ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-58149d6349.html",
+      "original_image": "/media/6027eb782f38fa6c05dc64a0.jpg",
+      "story": {
+        "id": "288",
+        "title": "ଦେଖରେ ଦେଖ",
+        "author": "ଲେଖା  :  ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+        "body": "ଦେଖରେ ଦେଖ\nଅଣ୍ଡାରୁ ବାହାରି ଲାଞକୁ ହଲାଇ\nପାଣିରେ ଖେଳୁଛି\nଫଅକ ଫକ।\nଲାଞ ଥିବା ଯାଏ\nପାଣିରେ ଥାଏ\nପାଣିରେ ଶୁଏ\nଲାଞ କଟିଗଲେ\nଉପରକୁ ଉଠି\nମାଟିରେ ଡିଏଁ\nକହିଲ କିଏ?\n୨\nଘଡଘଡି ସାଥେ ଚଡଚଡିରେ\nବରଷା ବତାସି ବେଳେ\nଚିକିମିକି ହୋଇ ହସୁରେ ଆମେ\nରହିଥାଉ ସାଥି ମେଳେ।\nଡାଳ ନାହିଁ ଆମ ପତର ନାହିଁ\nମୁଣ୍ଡ ରେ ଫଟାଉ ମାଟି\nଉଇ ହୁଙ୍କା ଆଉ ପାଳ ଗଦାରେ\nଫୁଟି ଥାଉ ଜାତି ଜାତି।\nଆଜିକ ପାଇଁ କି ଫୁଟୁରେ   ଆମେ\nମଉଳି ପଡିବୁ କାଲି\nଅଳସୁଆ ପଣେ ଆଜିର କାମକୁ\nନଦିଅ କାଲିକି ଟାଳି।\n∎\nନୀଳଚକ୍ର ନଗର, ଅଠରନଳା ପୁରୀ-୨  ୮୯୧୭୪୬୦୦୪୮",
+        "image": "/media/e2dfa0cbb6273d12991cae98.jpg",
+        "route": "/shishu/article_details-18a0f89537.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A curious cartoon frog sits beside a shallow pond where tadpoles swim, and a cluster of ordinary mushrooms grows in damp grass after rain. Lively nature-riddle illustration, no eating mushrooms.",
+      "image": "/art/archive/issue-19-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-18a0f89537.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-a75ae1d1-86f0-4228-b607-3012045ca0aa.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 20,
+      "title": "ଫେବୃଆରୀ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-f28964a742.html",
+      "original_image": "/media/bffe8586aa3a4e99a010bfd2.jpg",
+      "story": {
+        "id": "275",
+        "title": "ତିନିମାଙ୍କଡ଼",
+        "author": "ଲେଖା  : ଶ୍ରୀମତୀ  ଶକୁନ୍ତଳା ମିଶ୍ର",
+        "body": "ତିନୋଟି  ମାଙ୍କଡ଼ ବସିଥିଲେ ଏକ ଡାଳରେ\nକୁନା  ପଚାରିଲା ମୁନାକୁ ଦେଖୁନୁ\nବସିଛନ୍ତି  କେଡ଼େ ବାଗରେ ।୧।\nଗାନ୍ଧୀ  ମହାତ୍ମାଙ୍କ ତିନି ମାଙ୍କଡ଼ ଏ\nଜାଣିନୁ  କି ସାଙ୍ଗ ମୋହର\nଆଖି, କାନ,  ପାଟି  ମୁଜି ବସିଛନ୍ତି\nକହୁଛନ୍ତି  ଗାନ୍ଧୀ ମନ୍ତର ।୨।\nଆଖି  ଯେ ମୁଜିଛି କହୁଛି ନୀରବେ\nମନ୍ଦ  ଗୁଣ ଦେଖନାହିଁଟି\nକାନ  ମୁଜି ଯିଏ ବସିଛି କହୁଛି\nମନ୍ଦ  କଥା ଶୁଣ ନାହିଁ ।୩।\nମନ୍ଦ  ନ ଦେଖିଲେ ମନ ହୁଡ଼ିବନି\nମନ୍ଦ  ନ ଶୁଣିବ ଯେବେଟି\nକୁଶିକ୍ଷାଠୁ  ଦୂରେ ରହିବ ନିଶ୍ଚୟ\nଭଲ  ପିଲା ନିଶ୍ଚେ ହେବଟି ।୪।\nଗୁରୁ  ଗୁରୁଜନ କେତେ ଭଲ କଥା\nକହିଯାଇଛନ୍ତି  ଆମକୁ\nତାଙ୍କ  କଥା ଯଦି ମାନି ଚଳୁଥିବା\nବିପଦ  ନଥିବ ଆଗକୁ ।୫।\nମନ୍ଦ  କଥା ଯଦି ନ କହିବ ତେବେ\nକହିବ  ମଧୁର ବଚନ\nମିଠା  କଥା କହି ଜଗତ ମୋହିବ\nକହେ  ଭାଗବତ ପୁରାଣ ।୬।\n∎\n`ଶିବ ଭବନ`\nଦୋଳମଣ୍ଡପ  ସାହି, ପୁରୀ-୧\nମୋ:୯୪୩୯୭୨୮୫୧୦",
+        "image": "/media/ef37ffec6da601a6197dbb92.jpg",
+        "route": "/shishu/article_details-0e48ff4897.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Three mischievous monkeys sit in a row on a broad tree branch: one covers its eyes, one its ears, one its mouth. Two children below look up in amused curiosity. Clear correct gestures.",
+      "image": "/art/archive/issue-20-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-0e48ff4897.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-86e8d898-ad45-47ff-b063-cd247918423d.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 21,
+      "title": "ଜାନୁୟାରୀ: ୨୦୨୫",
+      "route": "/shishu/old_issues_details-8d69dd7d5f.html",
+      "original_image": "/media/ac51b24eaca059bec17034e1.jpg",
+      "story": {
+        "id": "263",
+        "title": "ହେ ନୂଆ ସକାଳ",
+        "author": "ଲେଖା  : ଜୟନ୍ତ କୁମାର ଓଝା",
+        "body": "ସରସ ମନରେ ବିରସ ନ ଆସୁ\nହରଷେ  ଜୀବନ ହସୁ\nଏ ନୂଆ ବରଷ ଦେଇ ତା ପରଶ\nନବ ଆଲୋକରେ ବର୍ଷୁ ।",
+        "image": "/media/eed25173de67670f179c317d.jpg",
+        "route": "/shishu/article_details-8d4b45cea6.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A bright new-year morning: warm sun rising above green fields, a village footpath leading toward the horizon and birds flying into a clear sky. Cheerful bold cartoon landscape, no calendars or words.",
+      "image": "/art/archive/issue-21-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-8d4b45cea6.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-05d29c1c-84ef-4594-8f5c-b926bef91ecd.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 22,
+      "title": "ଡିସେମ୍ବର: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-618529ceeb.html",
+      "original_image": "/media/0c2b89b700160bb80c4213ec.jpg",
+      "story": {
+        "id": "228",
+        "title": "ଆରବ୍ ପାଇଁ ନାନାବାୟା",
+        "author": "ଲେଖା  : ନୀଳମଣି ଚାନ୍ଦ",
+        "body": "ଆ`ରେ ମାଛ ଆ`\nଆରବ୍ କୁ ତୁ ଚିତିପହଁରା\nଶିଖେଇ ଦେଇ ଯା`\nଠିଆପହଁରା ଶିଖୁ\nପାଣି ଚବରଚବର କରି\nସାଙ୍ଗମାନଙ୍କୁ ଡାକୁ।\nଧରି ଜେଜେଙ୍କ ହାତ\nପହଁରୁଥିଲେ ଭୟଫୟ ତ\nରହିବ ନାହିଁ ସତ\nମିହିର ସେନ୍ ପରି\nରଖିବ ଦିନେ ନାଆଁଟି ସିଏ\nସନ୍ତରଣ କରି।\nଆ`ରେ ମାଛ ଆ`\nଆଉ ରହିଲେ ତା ସାଙ୍ଗ ଯେତେ\nଶିଖେଇ ଦେଇ ଯା`\nସେ ଯେବେ ବଡ଼ ହେବେ\nଦେଶ ପାଇଁଟି ସନ୍ତରଣରେ\nପଦକ ଆଣିଦେବେ।\n∎\n୨୭,ମନ୍ତ୍ର ମାନୋର,ଗୋଠପାଟଣା\nଭୁବନେଶ୍ୱର,ମୋ:୯୫୮୩୨୦୨୩୫୭",
+        "image": "/media/c75ddc623f28f0a45ddd9522.jpg",
+        "route": "/shishu/article_details-a14acde4ec.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Little Arav learns to paddle in very shallow calm water while his grandfather supports him securely with both hands. Two tiny fish swim nearby. Affectionate playful illustration, clear supervision.",
+      "image": "/art/archive/issue-22-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-a14acde4ec.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-f3b76a5d-85e7-4fe4-b3b4-15c1a17243a2.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 23,
+      "title": "ନଭେମ୍ବର : ୨୦୨୪",
+      "route": "/shishu/old_issues_details-63db0681d9.html",
+      "original_image": "/media/e5ead2d5ff648e94b16f7028.jpg",
+      "story": {
+        "id": "227",
+        "title": "ଫେରିଯିବି ପୁଣି  ଗାଆଁକୁ",
+        "author": "ଲେଖା  :  ହରିହର ଶୁକ୍ଳ",
+        "body": "ଗାଆଁଭୂଇଁ ମୋତେ ଆଦରେ  ଡାକୁଛି\nଫେରିଯିବି ତା`ର କୋଳକୁ,\nଦିଆଲି ରାତିର ମଉଛବ  ସାଥେ\nରଙ୍ଗ ଖେଳିବାକୁ  ଦୋଳକୁ।\nତୋଟା ଗହଳରେ ଗପିବାକୁ  ବସି\nହସ ମଉଜରେ ମାତିକି,\nଗାଆଁଦାଣ୍ଡ ସାରା  ଘୂରି ବୁଲିବାକୁ\nକୁଆଁରପୂନେଇଁ  ରାତିକି।\nକାକରପଖଳା ଘାସ  ଗାଲିଚାରେ\nସୁନେଲି ଖରାର ପରଶ,\nମୁକୁତା ସମାନ ଝଲସେ  ଯେଉଁଠି\nପରାଣେ ଖେଳାଇ ହରଷ।\nଚିତିରିମିତିରି  ପରଜାପତିଟି\nମଖମଲୀ ଡେଣା ହଲେଇ,\nଫୁଲରୁ ଫୁଲକୁ ଉଡ଼ି  ଉଡ଼ି ବୁଲେ\nସବୁ ଦୁଃଖ ଦିଏ  ଭୁଲେଇ।\nଟୁବ ଗଡ଼ିଆରେ ନୀଳକଇଁ  ଫୁଟି\nଚାହିଁଥାଏ ଯହିଁ  ଜହ୍ନକୁ,\nଧାନଫୁଲ ତା`ର ମିଠା ମହକରେ\nମହକାଇଦିଏ ମନକୁ।\nଆମ୍ବନସିଭଙ୍ଗା ତା`  ସଜପଖାଳ\nବଡ଼ି-ନେଉଟିଆ ଶାଗଟି,\nକେଉଁ ଦରବ ବା ସରିହେବ  ତା`ର\nଲାଗେ ଆହା କେଡ଼େ  ବାଗଟି!\nଗାଆଁ ତୁଲ କେବେ ସହର  କି ହେବ\nଭରିଛି ଯେଉଁଠି ସରାଗ,\nସରଳ ମନରେ ସାଇତା  ଯେଉଁଠି\nସ୍ନେହ-ଶରଧାର ପରାଗ?\nଉଛୁର ନ କରି ସହରରୁ  ଏବେ\nଫେରିଯିବି ପୁଣି  ଗାଆଁକୁ,\nଗାଆଁମାଟି ଛୁଇଁ ପରମ  ପୁଲକେ\nନମିବାକୁ ମୋର ମାଆକୁ।\n∎\nଭ୍ରାମ୍ଯଭାଷ:୯୮୬୮୮୦୫୯୯୬",
+        "image": "/media/e2b9fb6881db64c2535da909.jpg",
+        "route": "/shishu/article_details-02f4127adc.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A child returns along an Odia village lane to greet mother at the doorway, green fields and a flowering tree behind. The mother reaches out in welcome; simple warm reunion.",
+      "image": "/art/archive/issue-23-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-02f4127adc.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-0447f880-e669-4f17-bffa-5811448ed8fb.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 24,
+      "title": "ଅକ୍ଟୋବର: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-80b4c3e98a.html",
+      "original_image": "/media/c1dd99a77e95b30fdee1b6f5.jpg",
+      "story": {
+        "id": "198",
+        "title": "ଭଲ ମଣିଷଟେ ହେବାରେ !",
+        "author": "ଲେଖା  :  ଡକ୍ଟର  ସୁନାମଣି ରାଉତ",
+        "body": "ଖରା ବରଷାର ଅଦଉତି ନାହଁ ମରତେ\nନିଛିପର ଧରା ମନ ମୋହୁଛି ଏ ଶରତେ ।\nପୁଲେଇ ଶେଫାଳି ମହମହ ବାସ ଛୁଟାଏ\nଧୋଵଲା ବଉଦ ମନରୁ ଯାତନା ତୁଟାଏ ।",
+        "image": "/media/93dbe8b52033ff8e11cb3a44.jpg",
+        "route": "/shishu/article_details-234d2ab177.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A playful autumn nature scene of white cottony clouds, a shiuli tree with little white orange-centered blossoms, and soft green grass. Breezy flat colors and bold pen contours, no portrait realism.",
+      "image": "/art/archive/issue-24-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-234d2ab177.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-bc4d9505-d206-454b-836b-4bce73441864.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 25,
+      "title": "ସେପ୍ଟେମ୍ବର: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-1c25bd097b.html",
+      "original_image": "/media/95db6b115844bdc9b6c49158.jpg",
+      "story": {
+        "id": "195",
+        "title": "ପାଠ ଠାକୁର",
+        "author": "ଲେଖା  :  ଦୀନବନ୍ଧୁ ପୋଇ",
+        "body": "ହେ ପାଠ ଠାକୁର ଗଣେଶ\nପାର୍ବତୀଙ୍କର ସୁତ\nଭାଦ୍ରବ ଚତୁର୍ଥୀ ତିଥିରେ\nପାଳୁ ତୁମର ବ୍ରତ ।\nବିଦ୍ୟାଳୟେ ଛାତ୍ର ଛାତିରି\nସବୁ ହୋଇଣ ମେଳି\nଆସନେ ବସାଇ ତୁମକୁ\nଦେଉ ଦୀପାଳି ଜାଳି ।\nପାଠପାଇଁ ତୁମ ଚରଣେ\nକେତେ ଗୁହାରି ହେଉ\nତୁମ ଭୋଗ ପାଇଁ ଗଛରୁ\nତୋଳି କାକୁଡି ଦେଉ ।\nତୁମ ମନ୍ତ୍ର ମୁଖେ ଗାଇଣ\nମାରୁ ହାତରେ ତାଳି\nପାଠରୁ ଟିକିଏ ନ ଦେଲେ\nଆମେ ଖାଇବୁ ଗାଳି |\nନାମ ବହିଛ ବିଘ୍ନେଶ୍ୱର\nବିଘ୍ନ କରିବ ଦୂର\nଦୁଇହାତ ଯୋଡି ମାଗୁଛୁ\nଦିଅ ଆମକୁ ବର ।\n∎\nଚ଼ରଣ ରେଣୁ ନିବାସ,\nଗୋରଡ଼ା ପାଳ, କରମୂଳ\nଢେଙ୍କାନାଳ, ଦୂରଭାଷ - ୯୯୩୮୮୦୨୪୧୨",
+        "image": "/media/5243872598d8357c2b042230.jpg",
+        "route": "/shishu/article_details-da17d8fd59.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Three schoolchildren with folded hands sit before a small respectfully drawn Ganesh idol on a low school platform decorated with marigolds; a cucumber offering and books nearby. Simple calm festive tableau. Anatomical requirement: Ganesh idol must have EXACTLY FOUR arms with four distinct attached hands, two on each side; show all four clearly: upper hands hold an axe and lotus, lower hands bless and hold sweets. Keep the idol small and simple.",
+      "image": "/art/archive/issue-25-cartoon-v2.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-da17d8fd59.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-cda09c94-9edc-4a46-b270-ec0f3d3710ac.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 26,
+      "title": "ଅଗଷ୍ଟ: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-3a1a317850.html",
+      "original_image": "/media/3f575c3ca9bf6d33e2f00bc3.jpg",
+      "story": {
+        "id": "173",
+        "title": "ତ୍ରିରଙ୍ଗାର ତାଳଲୟେ",
+        "author": "ଲେଖା  : ହଂସନାଥ  ମୁଦୁଲି",
+        "body": "ତ୍ରିରଙ୍ଗାର ତାଳଲୟେ\nଅଗଷ୍ଟ ପନ୍ଦର ଗୀତଟେ ଗାଇ\nମୋ ଦେଶ ବାରତା କହେ\nତ୍ରିରଙ୍ଗାର ତାଳଲୟେ।    (0)\nମୋ ଦେଶର ଇତିହାସ\nବୁଝିଛି ପରା ଏ ବିଶ୍ବ\nଗୋଟିଏ କୁଟୁମ୍ବ ଏ ଧରଣୀ ସାରା\nଏମିତି ବାରତା ଦିଏ\nତ୍ରିରଙ୍ଗାର ତାଳଲୟେ।         (1)\nସ୍ବାଧୀନ ଭାରତ ଆମ\nଅନେକରେ ଏକ ନାମ\nସବୁରି କଣ୍ଠରେ ଦେଶମାତୃକାର\nଜୟ ଜୟକାର ଶୋହେ\nତ୍ରିରଙ୍ଗାର ତାଳ ଲୟେ।     (2)\n∎\nଖଣ୍ଡଗିରି (ଡୁମୁଡୁମା - କ)\nଭୁବନେଶ୍ବର – 751030, (ମୋ - 9777968719)",
+        "image": "/media/21d19395670a1cb5a9c9cf32.jpg",
+        "route": "/shishu/article_details-b855c6f14e.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Three Indian schoolchildren sing together beside an Indian flag raised on a schoolyard pole. Flag has horizontal saffron top, white middle with navy blue Ashoka Chakra, green bottom. Joyful and dignified, no text.",
+      "image": "/art/archive/issue-26-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-b855c6f14e.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-f5b65389-8899-4716-ae7f-9a7f735547e4.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 27,
+      "title": "ଜୁଲାଇ: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-744bf97428.html",
+      "original_image": "/media/9f266fa79c6ba74c0166848f.jpg",
+      "story": {
+        "id": "156",
+        "title": "କାଳିଆ ସୁନା",
+        "author": "ଲେଖା  : ପ୍ରବାସିନୀ ମିଶ୍ର",
+        "body": "ଆସରେ କୁନା ଆସରେ ମୁନା\nଦେଖ୍‌ ଯିବା ଆମ କାଳିଆ ସୁନା ।\nବଡ଼ଦାଣ୍ଡ ଲାଗେ ଭାରି ଗହଳ\nବୁଲି ଆସେ ଜଗା ପଡ଼େ ଚହଳ ।\nଟାହିଆ ହଲାଇ ପହଣ୍ଡି ହୋଇ\nତିନିରଥେ ବିଜେ ଚାରି ଗୋସାଇଁ ।\nଆଗରେ ତାହାର ବଳିଆ ଭାଇ\nମଝିରେ ଭଉଣୀ ହଳଦୀ ମୁହିଁ ।\nଜଗତନାଥ ସେ ପଛରେ ରହି\nଝୁଲିଝୁଲି ଆସେ ନାଟ ଲଗାଇ ।\nପେଁକାଳୀ ଘଣ୍ଟେ ଦୁଲୁକେ ମହୀ\nଡାହୁକ ଡାକଇ ବେତ ହଲାଇ ।\nଭାବର ଠାକୁର ଭାବେ ମଜିଛି\nପାଟ ଦଉଡ଼ିରେ ବନ୍ଧା ହୋଇଛି ।\nପୃଥିବୀ ପ୍ରସିଦ୍ଧ ରଥଯାତରା\nମନ ଭରିଯିବ ଦେଖଲେ ପରା ॥\n∎\nପୁରୀ",
+        "image": "/media/3c5f04e5519a920460f05d12.jpg",
+        "route": "/shishu/article_details-810efbdcfd.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Two children watch the Puri Rath Yatra from a safe side of the street, three colorful distinct wooden temple chariots in the middle distance with red-green, red-black and red-yellow canopies. Wonder and excitement, simplified uncrowded composition. Essential iconography: exactly THREE DIFFERENT deity faces, not three Jagannaths. Left green-red chariot: BALABHADRA with WHITE face. Middle black-red chariot: SUBHADRA with YELLOW face. Right yellow-red chariot: JAGANNATH with BLACK face and round white eyes. Show the three clearly, correct colors and identities. Do not repeat the black face on all three.",
+      "image": "/art/archive/issue-27-cartoon-v2.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-810efbdcfd.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-f6682ca5-95a3-4d2d-9215-4c419c8b5ffb.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 28,
+      "title": "ଜୁନ: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-f36eb7b144.html",
+      "original_image": "/media/25c3d49869b1440525f38771.png",
+      "story": {
+        "id": "139",
+        "title": "ନୁହେଁ କେ ଏକାପରି",
+        "author": "ଲେଖା  : ଶିବ ପ୍ରସାଦ ସାହୁ",
+        "body": "ଗୋଟିଏ କଥା ଶୁଣରେ  ପିଲେ\nଗଛଟେ ଥିଲା ପୋଖରୀ  କୂଳେ\nଗଛମୂଳରେ ବେଙ୍ଗ\nଗଛ  ଉପରେ ରହଇ କାଉ\nଦେଖାଇ କେତେ ରଙ୍ଗ । ।",
+        "image": "/media/467bdb9f3731f42a2c9b8310.png",
+        "route": "/shishu/article_details-4de460f010.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A comical green frog sits at the root of a tree beside a pond, looking up at a cheeky black crow on a low branch. Expressive animals, simple rounded forms, contrasting heights.",
+      "image": "/art/archive/issue-28-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-4de460f010.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-96fe1185-d70d-4442-bc67-352a8933acd8.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 29,
+      "title": "ମଇ: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-94f1c04ce6.html",
+      "original_image": "/media/f9742f9d626f89029d38d9db.png",
+      "story": {
+        "id": "116",
+        "title": "ଓଲୁଅ କରିଲା ଓଲା",
+        "author": "ଲେଖା  : ଶରତ  କୁମାରୀ ସ୍ବାଇଁ",
+        "body": "ଡହ ଡହ ଖରା ତାତି\nନିଆଁଝରା ପବନ,\nଖରାଛୁଟି  ହୋଇଗଲା\nସବୁ ପିଲା ଉଚ୍ଛନ୍ନ",
+        "image": "/media/ee57333df091d95aad39185d.png",
+        "route": "/shishu/article_details-2b3f842c49.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: Two children on summer school holiday sit in the cool shade of a veranda, one fanning with a palm-leaf fan, looking out at a sunny hot courtyard. Gentle mischievous restlessness.",
+      "image": "/art/archive/issue-29-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-2b3f842c49.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-928de159-8c1b-4893-995c-15f075c446e4.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 30,
+      "title": "ଏପ୍ରିଲ: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-bde027047d.html",
+      "original_image": "/media/94e257946b5b3e00ae8f2dd0.png",
+      "story": {
+        "id": "99",
+        "title": "ମୋ ଅନାବନା ଗୀତ",
+        "author": "ଲେଖା  : ନୀଳମଣି  ଚାନ୍ଦ",
+        "body": "ଡାକେ ହାମ୍ପ ହାଜରା\nବାଜ ଖାଆ ବାଜରା\nପାରା କ`ଣ ଖାଇଵ\nସୋରିଷ ଖାଇବ ଖୁଣ୍ଟି\nଯଦି ସିଏ ପାଇବ।\nବଡ଼ ବାଡ଼ି ରାଜର\nଲଗେଇଛି ଗାଜର\nଠେକୁଆଟି ଖାଇବ\nଦେଖିଲେ ଡାମରା କାଉ\nକାଆକାଆ ଗାଇଵ।\nଡୁଡୁ ସେଠି ଡୁଙ୍ଗୁଛି\nଦେଖିବାକୁ ଗୁଣ୍ଡୁଚି\nବରଫଳ ଖାଇବ\nଏଣେତେଣେ ଚାହିଁ ଦେଇ\nଗୁଣ୍ଡୁଚିଟା ଧାଇଁବ।\nବାହୁଡ଼ିରେ ବାଦୁଡି\nଝୁଲେ ଡାଳ ଜାବୁଡ଼ି\nଓସ୍ତ ଫଳ ଖାଇବ\nରାତି ହେଲେ ଭଲ ତା`ର\nନ ଶୋଇ ସେ ଚାହିଁବ।\nଶୁଣି ହାମ୍ପ ହସିଲା\nଆଈ ପାଖେ ବସିଲା\nମ୍ୟାଉଁ ଗୋଟେ ଅଇଲା\nଏତିକିରେ ଗୀତ ଲେଖା\nଆଜି ପାଇଁ ସଇଲା।\n∎\nଭୁବନେଶ୍ୱର,ମୋ:୯୫୮୩୨୦୨୩୫୭",
+        "image": "/media/2935be7bc1dd0279325197db.png",
+        "route": "/shishu/article_details-ac313a0752.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A plump cartoon rabbit nibbles a carrot in a vegetable patch while a black crow calls from the garden fence; a little squirrel peeks from a fig tree. Funny children's rhyme illustration.",
+      "image": "/art/archive/issue-30-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-ac313a0752.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-b22667e3-65f6-4011-90e4-91f6e23b0c19.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 31,
+      "title": "ମାର୍ଚ : ୨୦୨୪",
+      "route": "/shishu/old_issues_details-e20aeb3604.html",
+      "original_image": "/media/80ca3bb78050dcbaf4219dc3.png",
+      "story": {
+        "id": "72",
+        "title": "ସାଇକେଲ ପାଇଁ ଗୀତ ଟିଏ",
+        "author": "ଲେଖା  : ରଘୁ  ନନ୍ଦନ ମହାପାତ୍ର",
+        "body": "ଦୁଇ  ଚକରେ ଚାଲେ ସାଇକେଲ\nଚକରେ  ପବନ ଥିଲେ\nଚାଳକ  ବସି ପେଡାଲ ମାରିଲେ\nସର  ସର ହୋଇ ଚାଲେ।\nତେଲପିଏନା  ଧୂଆଁ ଛାଡେନା\nପାଦ  ବଳରେ ସେ ଯାଏ\nଖରଚ  କମ୍ ସବୁରି ଲାଗି\nପାଖ  ବାଟକୁ ତା ପାଏ।",
+        "image": "/media/cdfb5dcdf18f5ffd405a5a5a.png",
+        "route": "/shishu/article_details-e4b98ed46e.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A child rides a simple two-wheeled bicycle along a safe quiet village lane, happily pedaling past green trees. Clear wheels, chain and pedals, side view, lively hand-drawn motion.",
+      "image": "/art/archive/issue-31-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-e4b98ed46e.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-c12bd38b-3ffd-4854-9e12-8dd3a41e8e0c.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 32,
+      "title": "ଫେବୃଆରୀ: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-899f2c1a2e.html",
+      "original_image": "/media/2746d8672e90a19b007f24c1.png",
+      "story": {
+        "id": "41",
+        "title": "ଦୂରରୁ ହୁଅ ଗେଲ",
+        "author": "ଲେଖା  :                                   ସୁଶ୍ରୀ ସବିତା ଭୋଇ",
+        "body": "ଆକ୍ଵାରିଅମର ମାଛକୁ ଦେଖି\nବିଲେଇ  ଅଛି ଚାହିଁ\nମାଛ କହୁଛି ନାଚିନାଚିକା\nପାରିବ ନାଇଁ ଛୁଇଁ ।",
+        "image": "/media/d8e8d40c96313649052975f5.png",
+        "route": "/shishu/article_details-fda5ac8695.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A curious orange cat peers nose-first through the glass of a rectangular aquarium; a cheeky little fish turns toward it safely behind the glass. Close-up funny interaction, clean simple shapes.",
+      "image": "/art/archive/issue-32-cartoon-v1.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-fda5ac8695.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-79aae1b2-1db8-4fe5-935d-eba7afbc4d3e.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "number": 33,
+      "title": "ଜାନୁୟାରୀ: ୨୦୨୪",
+      "route": "/shishu/old_issues_details-4d80e1b5e4.html",
+      "original_image": "/media/281c5ce8fa14bfab843b7f83.png",
+      "story": {
+        "id": "27",
+        "title": "ଚାଇଁ ଖିରିକି",
+        "author": "ଲେଖା  : ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+        "body": "ଚାଇଁ ଖିରିକି,\nକହିଲା ଆଠ -ତିନି ତିରିକି\nଗୁରୁଜୀ କରିଲେ - ଆଁ ,\nକହିଲେ - ଚାଇଁ ଲୋ,\nକି କରିବି ମୁଁଇ,\nପଡ଼ିବ ମୋ`ରି  ନାଆଁ ! ।୧।",
+        "image": "/media/8704ca6e56cc8f0f5ace00cf.png",
+        "route": "/shishu/article_details-366ac811ae.html"
+      },
+      "prompt": "Use case: illustration-story. Asset: original Sishu Kishore monthly children's magazine archive preview. Landscape 3:2, one coherent scene. Classic Indian children's magazine cartoon storytelling warmth inspired broadly by Chandamama, with original characters and composition. Bold slightly irregular black pen contours, simple cartoon noses, expressive faces and readable gestures, broad flat gouache colors, very restrained shading, subtle paper texture. Child-friendly, humorous or tender as appropriate, hand-drawn rather than polished. No photographic faces or hair, no 3D, no airbrushing, no cinematic glow, no ornate border, no lettering or watermarks. Keep subjects inside frame with breathing room. Scene: A lively child gives an unexpected answer in a simple classroom, hand raised confidently; the kindly teacher opens his mouth in comic surprise. Blank blackboard, no writing, playful faces, no ridicule. The main student is specifically Chai, a little GIRL with two braids, wearing a simple blue school pinafore over a white blouse, raising her hand. She is the sole main student standing; other children remain seated.",
+      "image": "/art/archive/issue-33-cartoon-v2.webp",
+      "generation_tool": "builtin image_gen",
+      "status": "reviewed",
+      "source_snapshot": "data/ia-source.json.gz:shishu/article_details-366ac811ae.html",
+      "generated_source": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-d485c3d2-b934-43d0-a1c8-20bea2d6fb36.png",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  ]
+}
