@@ -44,7 +44,7 @@ Provide responsive real text, page navigation, adjustable type and access to eac
 
 Keep static pages, obvious links, large touch targets, comfortable Odia type and no autoplay or moving backgrounds. Retain the approved cartoon assets rather than regenerating them unnecessarily. Check phone and desktop layouts, writer search, issue-to-article links, ebook navigation and source-text preservation.
 
-The project stores its reusable art guide in `scripts/build-storybook-guide.py`, content model in `data/shishu-architecture.json`, art prompts in `data/article-art.json`, and ebook review state in `data/ebook-conversion-review.json`. Run `organize_site.py` before `scripts/organize-shishu.py`, then `scripts/build-ebook-readers.py` when rebuilding all pages. Publishing follows the existing Sites workflow and audience.
+The project stores its reusable art guide in `scripts/build-storybook-guide.py`, content model in `data/shishu-architecture.json`, art prompts in `data/article-art.json`, and ebook review state in `data/ebook-conversion-review.json`. Run `organize_site.py` before `scripts/organize-shishu.py`, then `scripts/build-ebook-readers.py` when rebuilding all pages. This standalone repository publishes public reading pages through GitHub Actions to GitHub Pages. Editorial submission and account services remain externally hosted until separately migrated.
 
 Writer directories must strip structural “ଲେଖା :” labels, exclude dates accidentally stored as bylines, and merge only exact normalized names. Preserve the original byline on each article; do not merge similar names without identity evidence.
 

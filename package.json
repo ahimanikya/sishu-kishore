@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node scripts/verify-public-delivery.mjs",
+    "check": "node scripts/verify-public-delivery.mjs && node scripts/verify-sharing.mjs",
     "build": "npm run check && node scripts/build.mjs"
   }
 }
