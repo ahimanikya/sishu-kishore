@@ -17,7 +17,8 @@ async function login(){await setPersistence(auth,browserSessionPersistence);awai
 onAuthStateChanged(auth,async current=>{user=current;root.replaceChildren();if(!current){root.append(el('p',editorMode?'Sign in with your editor account.':'Sign in to send writing to the editors. Reading the magazine never requires an account.'),button('Continue with Google',login),status);return;}
 try{editor=!!(await getIdTokenResult(current,true)).claims.editor;base();if(!current.emailVerified){status.textContent='A verified Google email is required.';return;}if(editorMode){if(!editor){status.textContent='This account does not have editor access.';return;}await dashboard();}else await submissionForm();}catch(e){status.textContent=formError(e);}});
 async function submissionForm(){const kind=['article','comment','contact','book'].includes(params.get('kind'))?params.get('kind'):'article';
- const form=el('form');form.append(el('h2',kind==='comment'?'ଆପଣଙ୍କ ମତାମତ / Your comment':kind==='contact'?'ଯୋଗାଯୋଗ / Contact':'ଲେଖା ପଠାନ୍ତୁ / Send to the editor'));
+ const form=el('form');form.append(el('h2',kind==='comment'?'ଆପଣଙ୍କ ମତାମତ / Your comment':kind==='contact'?'ଯୋଗାଯୋଗ / Contact':kind==='book'?'Book enquiry':'ଲେଖା ପଠାନ୍ତୁ / Send to the editor'));
+ if(kind==='book')form.append(el('p','Ask the publisher about availability or ordering. This sends an enquiry; it does not place a paid order.'));
  const name=field(form,'ନାମ / Name for your byline','name',{value:user.displayName||'',max:120});
  field(form,'Email (private)','contact',{type:'email',value:user.email,max:254}).readOnly=true;
  field(form,'ଶୀର୍ଷକ / Title','title',{value:(params.get('title')||'').slice(0,240)});
