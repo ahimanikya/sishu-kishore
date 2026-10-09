@@ -66,11 +66,11 @@
    dialog.showModal();document.documentElement.classList.add('quiet-open');await openEdition(start,current<0||saved?.index===current?saved:null);
   }catch{button.textContent='ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ';}finally{button.disabled=false;}
  }));
- dialog.querySelector('[data-exit]').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{save();serial++;window.SishuPageSound?.stop();document.documentElement.classList.remove('quiet-open');opener?.focus();});
+ dialog.querySelector('[data-exit]').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{save();serial++;window.SishuPageSound?.stop();window.SishuPageTurn?.stop();document.documentElement.classList.remove('quiet-open');opener?.focus();});
  dialog.querySelector('[data-settings]').onclick=e=>{const panel=dialog.querySelector('#quiet-settings');panel.hidden=!panel.hidden;e.currentTarget.setAttribute('aria-expanded',String(!panel.hidden));paginate();};
  select.onchange=()=>jumpArticle(Number(select.value));
- prev.onclick=()=>{if(busy||prev.disabled)return;window.SishuPageSound?.play();turn(spread-1);};
- next.onclick=()=>{if(busy||next.disabled)return;window.SishuPageSound?.play();turn(spread+1);};
+ prev.onclick=()=>{if(busy||prev.disabled)return;window.SishuPageSound?.play();window.SishuPageTurn?window.SishuPageTurn.play(pane,-1,()=>turn(spread-1)):turn(spread-1);};
+ next.onclick=()=>{if(busy||next.disabled)return;window.SishuPageSound?.play();window.SishuPageTurn?window.SishuPageTurn.play(pane,1,()=>turn(spread+1)):turn(spread+1);};
  dialog.querySelectorAll('[data-size]').forEach(b=>b.onclick=()=>{size=Math.max(18,Math.min(34,size+Number(b.dataset.size)));put('sishu-reader-size',size);apply();paginate();});
  dialog.querySelectorAll('[data-theme]').forEach(b=>b.onclick=()=>{theme=b.dataset.theme;put('sishu-reader-theme',theme);apply();});
  dialog.querySelector('[data-art]').onchange=e=>{dialog.classList.toggle('quiet-hide-art',!e.target.checked);paginate();};
