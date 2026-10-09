@@ -1,0 +1,34 @@
+/* Printed storybook furniture stays outside the live text columns. */
+.mag-quiet-reader{--desk:#d6dfd3;--edge:#a9b7a3;--print-red:#a94432;--print-teal:#477b75;--paper:#fffaf0;background:var(--desk)}
+.mag-quiet-reader .quiet-top,.mag-quiet-reader .quiet-bottom{background:#f7f4e9;border:0;color:#36483d}
+.mag-quiet-reader .quiet-top{box-shadow:0 1px 0 #43523d20;z-index:2}
+.mag-quiet-reader .quiet-bottom [data-prev],.mag-quiet-reader .quiet-bottom [data-next]{border-radius:50%;background:#e6cc79;color:#493d26;font-size:22px}
+.quiet-spread-shell{position:relative;isolation:isolate;display:flex;flex:1;min-height:0;margin:20px 24px 16px;padding:54px 34px 48px;background:var(--paper);border:1px solid #c9bfa5;border-radius:5px 9px 9px 5px;box-shadow:0 3px 0 -1px #eae2ce,0 6px 0 -2px #c5bba3,0 10px 24px #34422b22;box-sizing:border-box}
+.mag-quiet-reader[data-columns="2"] .quiet-spread-shell{background:linear-gradient(90deg,transparent 46%,#9b87650a 48.5%,#75624624 49.8%,#fffefa99 50.15%,#a38d6812 51.6%,transparent 54%),var(--paper);border-radius:9px 5px 5px 9px}
+.mag-quiet-reader .quiet-page{width:100%;margin:0;padding:0;background:none!important;z-index:1}
+.mag-quiet-reader .quiet-content{width:100%;column-gap:48px}
+.quiet-print-header,.quiet-folios{position:absolute;left:34px;right:34px;display:grid;grid-template-columns:1fr;gap:48px;pointer-events:none;user-select:none}
+.quiet-print-header{top:13px;color:var(--print-teal);font-size:12px;line-height:22px;letter-spacing:.03em}
+.quiet-print-header span{display:flex;align-items:center;gap:12px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.quiet-print-header span::after{content:'';height:4px;flex:1;background:repeating-linear-gradient(90deg,var(--print-teal) 0 12px,transparent 12px 18px);opacity:.35}
+.quiet-print-header span:nth-child(2){color:var(--print-red)}
+.quiet-print-header span:nth-child(2)::after{background:repeating-linear-gradient(90deg,var(--print-red) 0 12px,transparent 12px 18px)}
+.quiet-folios{bottom:9px;text-align:center;font-size:13px;color:var(--print-red);line-height:26px}
+.quiet-folios span::before,.quiet-folios span::after{content:'✦';font-size:10px;margin:0 12px;color:#b88d32}
+.mag-quiet-reader[data-columns="2"] .quiet-print-header,.mag-quiet-reader[data-columns="2"] .quiet-folios{grid-template-columns:1fr 1fr}
+.mag-quiet-reader:not([data-columns="2"]) .quiet-print-header span:nth-child(2),.mag-quiet-reader:not([data-columns="2"]) .quiet-folios span:nth-child(2){display:none}
+.quiet-corner{position:absolute;width:43px;height:43px;background:center/contain no-repeat;pointer-events:none;opacity:.85;z-index:0}
+.quiet-corner-kite{right:2px;bottom:1px;background-image:url('/art/reader/kite.svg');transform:rotate(8deg)}
+.quiet-corner-leaf{left:0;bottom:0;background-image:url('/art/reader/leaf.svg');transform:rotate(-8deg)}
+.mag-quiet-reader .quiet-content .ia-article-head{border:0;padding-bottom:8px;margin-bottom:16px}
+.mag-quiet-reader .quiet-content .ia-article-head h1{color:var(--print-red);text-wrap:pretty}
+.mag-quiet-reader .quiet-content .ia-article-head .ia-byline{color:var(--print-teal)}
+.mag-quiet-reader .quiet-content .ia-story-art img{border-radius:3px}
+.mag-quiet-reader[data-theme=night]{--desk:#172422;--paper:#25312d;--print-red:#eab497;--print-teal:#a6c6b3;--ink:#eee7d8}
+.mag-quiet-reader[data-theme=night] .quiet-top,.mag-quiet-reader[data-theme=night] .quiet-bottom{background:#1b2926;color:var(--ink)}
+.mag-quiet-reader[data-theme=night] .quiet-spread-shell{border-color:#516052;box-shadow:0 3px 0 -1px #435045,0 6px 0 -2px #313d32,0 10px 24px #0003}
+.mag-quiet-reader[data-theme=night] .quiet-corner{opacity:.5}
+@media(max-width:600px){.quiet-spread-shell{margin:10px 8px 12px;padding:40px 18px 35px}.quiet-print-header,.quiet-folios{left:18px;right:18px}.quiet-print-header{top:8px;font-size:11px}.quiet-folios{bottom:3px}.quiet-corner{width:30px;height:30px}.mag-quiet-reader .quiet-content{width:100%}}
+@media(max-height:500px){.quiet-spread-shell{margin:6px 12px;padding:30px 22px}.quiet-print-header{top:2px}.quiet-folios{bottom:0}}
+.mag-quiet-reader .quiet-page:focus-visible{outline:none}.mag-quiet-reader .quiet-page:focus-visible::after{content:'';position:absolute;left:0;top:0;width:18px;height:3px;background:var(--print-teal);pointer-events:none}
+.mag-quiet-reader[data-theme=night][data-columns="2"] .quiet-spread-shell{background:linear-gradient(90deg,transparent 46%,#0002 49.7%,#a3b4a41c 50.1%,#0001 51.6%,transparent 54%),var(--paper)}
