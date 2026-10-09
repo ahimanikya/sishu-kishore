@@ -1,5 +1,7 @@
 (()=>{
  const issue=document.body.dataset.readingIssue;if(!issue)return;
+ const arrival=location.hash==='#reader'?window.SishuReaderReturn?.entry():null;let returnTo=null,entryScroll=0,autoOpening=false;
+ if(arrival)history.replaceState({...history.state,sishuReaderOrigin:arrival},'');
  const get=key=>{try{return JSON.parse(localStorage.getItem(key));}catch{return null;}};
  const put=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value));}catch{}};
  const dialog=document.createElement('dialog');dialog.className='mag-quiet-reader';dialog.setAttribute('aria-label','ପଢ଼ିବା ଘର');
@@ -59,14 +61,15 @@
    pane.focus();save();
   }catch{if(token!==serial)return;busy=false;select.disabled=true;status.textContent='ସଂଖ୍ୟାଟି ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ ।';content.replaceChildren();const a=document.createElement('a');a.href=issue;a.textContent='ସୂଚୀପତ୍ରକୁ ଫେରନ୍ତୁ →';content.append(a);prev.disabled=next.disabled=true;}
  }
- document.querySelectorAll('[data-quiet-reader]').forEach(button=>button.addEventListener('click',async event=>{event.preventDefault();if(button.disabled)return;opener=button;button.disabled=true;
+ document.querySelectorAll('[data-quiet-reader]').forEach(button=>button.addEventListener('click',async event=>{event.preventDefault();if(button.disabled)return;opener=button;returnTo=autoOpening?arrival:null;entryScroll=window.scrollY;button.disabled=true;
   try{
    if(!collection){const r=await fetch('/edition-reader.json');if(!r.ok)throw Error();collection=(await r.json())[issue];if(!collection?.items.length)throw Error();collection.items.forEach((item,i)=>{const o=document.createElement('option');o.value=i;o.textContent=item.title;select.append(o);});}
    const current=collection.items.findIndex(i=>i.href===location.pathname||i.href===location.pathname.replace(/\/$/,'')+'.html');const saved=get('sishu-place:'+issue);const start=current>=0?current:Math.min(collection.items.length-1,Math.max(0,Number(saved?.index)||0));
    dialog.showModal();document.documentElement.classList.add('quiet-open');await openEdition(start,current<0||saved?.index===current?saved:null);
   }catch{button.textContent='ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ';}finally{button.disabled=false;}
  }));
- dialog.querySelector('[data-exit]').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{save();serial++;window.SishuPageSound?.stop();window.SishuPageTurn?.stop();document.documentElement.classList.remove('quiet-open');opener?.focus();});
+ dialog.querySelector('[data-exit]').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{save();serial++;window.SishuPageSound?.stop();window.SishuPageTurn?.stop();document.documentElement.classList.remove('quiet-open');if(returnTo&&window.SishuReaderReturn?.leave(returnTo))return;
+  if(location.hash==='#reader')history.replaceState(history.state,'',location.pathname+location.search);opener?.focus({preventScroll:true});window.scrollTo(0,entryScroll);});
  dialog.querySelector('[data-settings]').onclick=e=>{const panel=dialog.querySelector('#quiet-settings');panel.hidden=!panel.hidden;e.currentTarget.setAttribute('aria-expanded',String(!panel.hidden));paginate();};
  select.onchange=()=>jumpArticle(Number(select.value));
  prev.onclick=()=>{if(busy||prev.disabled)return;window.SishuPageSound?.play();window.SishuPageTurn?window.SishuPageTurn.play(pane,-1,()=>turn(spread-1)):turn(spread-1);};
@@ -75,6 +78,6 @@
  dialog.querySelectorAll('[data-theme]').forEach(b=>b.onclick=()=>{theme=b.dataset.theme;put('sishu-reader-theme',theme);apply();});
  dialog.querySelector('[data-art]').onchange=e=>{dialog.classList.toggle('quiet-hide-art',!e.target.checked);paginate();};
  dialog.addEventListener('keydown',e=>{if(e.target!==pane||busy)return;if(e.key==='ArrowRight'&&!next.disabled){e.preventDefault();next.click();}if(e.key==='ArrowLeft'&&!prev.disabled){e.preventDefault();prev.click();}});
- if(location.hash==='#reader')document.querySelector('[data-quiet-reader]')?.click();
+ if(location.hash==='#reader'){autoOpening=true;document.querySelector('[data-quiet-reader]')?.click();autoOpening=false;}
  new ResizeObserver(()=>paginate()).observe(pane);document.fonts.ready.then(()=>paginate());window.addEventListener('pagehide',save);
 })();
