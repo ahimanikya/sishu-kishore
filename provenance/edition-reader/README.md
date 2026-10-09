@@ -7,3 +7,7 @@ Sishu retains its existing issue titles, story order, grouped contents and carto
 Seven legacy young-writer pages use their original text block in the reader. Existing regular-page comment forms are not cloned into the quiet reader. Original article prose was compared before/after and unchanged. Regular page links remain available if loading fails. Reader preferences and saved places tolerate unavailable browser storage.
 
 Writer initial badges removed from directory and profiles; existing photos and generic artwork remain. Mobile reader checked at 390px, including night theme and enlarged type, with no dialog overflow. Navigation, contents, text sizing, close/reopen resume and original-content checks passed.
+
+## Facing-page reader revision
+
+Replaced within-article scrolling with browser-flowed pagination. At desktop widths of 1000px and above with at least 500px height, display two facing pages; smaller viewports display one. Arrows and keyboard navigation turn the spread, then move between articles at its bounds. Reflow on viewport changes, font loading, type-size changes, artwork toggling and opening settings. The original DOM text, paragraph breaks and verse breaks remain intact. Last odd-numbered spreads retain a blank facing page. Paper/night themes, contents selection and device-local saved spread remain available. No animation or sound added.
