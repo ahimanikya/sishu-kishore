@@ -46,3 +46,6 @@ body:has(main>.ia-article)>.ia-footer nav{margin-top:0;align-items:center}
  body:has(main>.ia-article)>.ia-footer{display:flex;flex-wrap:wrap}
  body:has(main>.ia-article)>.ia-footer nav{gap:8px 16px}
 }
+/* Separate existing prose paragraphs and poetry stanzas without changing lines. */
+.ia-article .ia-prose p,.quiet-content .ia-prose p{margin-top:0;margin-bottom:1.15em}
+.ia-article .ia-prose p:last-child,.quiet-content .ia-prose p:last-child{margin-bottom:0}
