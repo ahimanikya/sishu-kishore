@@ -8,9 +8,10 @@ from urllib.parse import urlsplit, unquote
 import hashlib, json, re
 
 ROOT=Path(__file__).resolve().parents[1]/'public'
-ORIGIN='https://sishu.kabitawithoutborders.org'
+SETTINGS=json.loads((ROOT.parent/'scripts/site.json').read_text())
+ORIGIN=SETTINGS['origin']
 SERVICE='https://shalandi-shishu-design-review.aquera-1216.chatgpt.site'
-FALLBACK='/art/shishu-durga-cartoon-v5.webp'
+FALLBACK=SETTINGS['fallback']
 OUT=ROOT/'social'; OUT.mkdir(exist_ok=True)
 manifest=[]
 
@@ -54,14 +55,14 @@ for path in sorted(ROOT.rglob('*.html')):
     img=preview(artwork)
     for node in soup.select('meta[property^="og:"], meta[name^="twitter:"], meta[name="description"],link[rel="canonical"]'):node.decompose()
     canonical=soup.new_tag('link',rel='canonical',href=ORIGIN+route);soup.head.append(canonical)
-    metadata={'description':description,'og:title':title,'og:description':description,'og:type':'article' if '/article-' in route else 'website','og:url':ORIGIN+route,'og:site_name':'ଶିଶୁ କିଶୋର','og:locale':'or_IN','og:image':ORIGIN+img,'og:image:secure_url':ORIGIN+img,'og:image:type':'image/jpeg','og:image:width':'1200','og:image:height':'630','og:image:alt':title,'twitter:card':'summary_large_image','twitter:title':title,'twitter:description':description,'twitter:image':ORIGIN+img,'twitter:image:alt':title}
+    metadata={'description':description,'og:title':title,'og:description':description,'og:type':'article' if '/article-' in route else 'website','og:url':ORIGIN+route,'og:site_name':SETTINGS['name'],'og:locale':'or_IN','og:image':ORIGIN+img,'og:image:secure_url':ORIGIN+img,'og:image:type':'image/jpeg','og:image:width':'1200','og:image:height':'630','og:image:alt':title,'twitter:card':'summary_large_image','twitter:title':title,'twitter:description':description,'twitter:image':ORIGIN+img,'twitter:image:alt':title}
     for key,val in metadata.items():
         tag=soup.new_tag('meta',content=val);tag['property' if key.startswith('og:') else 'name']=key;soup.head.append(tag)
     # Keep authenticated services operational, including links with query strings.
     for a in soup.select('a[href]'):
         href=a['href']
         if urlsplit(href).path in ['/submit','/manage','/account','/signin-with-chatgpt','/api/service'] and href.startswith('/'):
-            a['href']=SERVICE+href
+            a['href']='/editorial/manage.html' if urlsplit(href).path=='/manage' else '/editorial/submit.html'
     assert before==(soup.body.get_text() if soup.body else ''),path
     path.write_text(str(soup))
     manifest.append({'page':relative,'url':ORIGIN+route,'image':img,'source':artwork})

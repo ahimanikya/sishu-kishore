@@ -1,0 +1,17 @@
+rules_version = '2';
+service firebase.storage {
+ match /b/{bucket}/o {
+  function signedIn(){return request.auth!=null && request.auth.token.email_verified==true;}
+  function editor(){return signedIn() && request.auth.token.editor==true;}
+  match /submissions/{uid}/{id}/{name} {
+   allow read: if signedIn() && (request.auth.uid==uid || editor());
+   allow create: if signedIn() && request.auth.uid==uid && name=='manuscript'
+    && firestore.get(/databases/(default)/documents/submissions/$(id)).data.owner==uid
+    && firestore.get(/databases/(default)/documents/submissions/$(id)).data.status=='received'
+    && request.resource.size<=10*1024*1024
+    && request.resource.contentType in ['application/pdf','application/vnd.openxmlformats-officedocument.wordprocessingml.document','text/plain'];
+   allow update,delete: if false;
+  }
+  match /{allPaths=**}{allow read,write:if false;}
+ }
+}

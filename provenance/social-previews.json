@@ -1,5 +1,17 @@
 [
   {
+    "page": "/editorial/manage.html",
+    "url": "https://sishu.kabitawithoutborders.org/editorial/manage.html",
+    "image": "/social/555b09e45d35f58f.jpg",
+    "source": "/art/shishu-durga-cartoon-v5.webp"
+  },
+  {
+    "page": "/editorial/submit.html",
+    "url": "https://sishu.kabitawithoutborders.org/editorial/submit.html",
+    "image": "/social/555b09e45d35f58f.jpg",
+    "source": "/art/shishu-durga-cartoon-v5.webp"
+  },
+  {
     "page": "/index.html",
     "url": "https://sishu.kabitawithoutborders.org/",
     "image": "/social/555b09e45d35f58f.jpg",
