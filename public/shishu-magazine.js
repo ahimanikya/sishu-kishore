@@ -17,7 +17,7 @@ if(articleRail){
   const count=Math.max(1,Math.round(articleRail.clientWidth/step()));
   previous.disabled=articleRail.scrollLeft<4;
   next.disabled=articleRail.scrollLeft+articleRail.clientWidth>=articleRail.scrollWidth-4;
-  status.textContent=`${start+1}–${Math.min(cards.length,start+count)} / ${cards.length}`;
+  if(status) status.textContent=`${start+1}–${Math.min(cards.length,start+count)} / ${cards.length}`;
  };
  const move=direction=>articleRail.scrollBy({left:direction*step(),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
  controls.hidden=false;
