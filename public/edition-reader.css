@@ -15,3 +15,34 @@
 .mag-quiet-reader[data-theme=night] .ia-article-head h1,.mag-quiet-reader[data-theme=night] .ia-eyebrow,.mag-quiet-reader[data-theme=night] .ia-byline{color:var(--ink)!important}
 .mag-quiet-reader[data-theme=night] .mag-article-context a{background:#293534;color:var(--ink);border-color:#65736b}
 .mag-edition-opening{max-width:none!important}
+
+/* Compact article chrome: keep the text prominent and controls touch-friendly. */
+body:has(main>.ia-article) .ia-header-inner{min-height:72px;padding-top:6px;padding-bottom:6px;gap:24px}
+main:has(>.ia-article)>.ia-breadcrumb{padding-top:14px;margin-bottom:18px}
+.ia-article .ia-article-head{padding-bottom:12px;margin-bottom:16px;border-bottom-width:1px}
+.ia-article .ia-article-head h1{font-size:30px;line-height:1.5;margin:0 0 8px;text-wrap:pretty}
+.ia-article .ia-article-head .ia-eyebrow{font-size:12px;margin:0 0 6px}
+.ia-article .ia-article-head .ia-byline{display:inline-block;font-size:15px;margin:0 16px 0 0}
+.ia-article .mag-article-context{display:inline-flex;margin:0 12px 0 0;font-size:12px;vertical-align:middle}
+.ia-article .mag-article-context a{border:0;background:none;padding:4px 0}
+.ia-article .mag-read-button{margin:4px 0;padding:5px 12px;font-size:14px}
+main:has(>.ia-article)>.ia-reading-end{padding:6px 0;margin:20px 0 12px;gap:12px}
+.ia-reading-end>a{display:inline-flex;align-items:center;min-height:44px}
+body:has(main>.ia-article)>.ia-footer{padding-top:14px;padding-bottom:14px;gap:16px;border-top-width:1px}
+body:has(main>.ia-article)>.ia-footer strong{font-size:18px}
+body:has(main>.ia-article)>.ia-footer p{margin:4px 0 0}
+body:has(main>.ia-article)>.ia-footer nav{margin-top:0;align-items:center}
+.quiet-top,.quiet-bottom{padding:2px 16px;gap:10px;min-height:48px}
+.quiet-top button,.quiet-bottom button{border:0;padding:4px 10px;min-width:44px;min-height:44px}
+.quiet-bottom span{font-size:12px}
+.quiet-page{padding:18px 24px}
+.quiet-content .ia-article-head .ia-eyebrow{display:none}
+.quiet-content .ia-article-head h1{font-size:28px;line-height:1.5}
+.quiet-content .ia-article-head{padding-bottom:10px;margin-bottom:16px}
+@media(max-width:600px){
+ .ia-article .ia-article-head h1,.quiet-content .ia-article-head h1{font-size:24px;line-height:1.5}
+ .quiet-top,.quiet-bottom{padding:2px 8px}
+ .quiet-page{padding:14px 18px}
+ body:has(main>.ia-article)>.ia-footer{display:flex;flex-wrap:wrap}
+ body:has(main>.ia-article)>.ia-footer nav{gap:8px 16px}
+}
