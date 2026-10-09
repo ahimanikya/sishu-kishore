@@ -32,3 +32,13 @@
 @media(max-height:500px){.quiet-spread-shell{margin:6px 12px;padding:30px 22px}.quiet-print-header{top:2px}.quiet-folios{bottom:0}}
 .mag-quiet-reader .quiet-page:focus-visible{outline:none}.mag-quiet-reader .quiet-page:focus-visible::after{content:'';position:absolute;left:0;top:0;width:18px;height:3px;background:var(--print-teal);pointer-events:none}
 .mag-quiet-reader[data-theme=night][data-columns="2"] .quiet-spread-shell{background:linear-gradient(90deg,transparent 46%,#0002 49.7%,#a3b4a41c 50.1%,#0001 51.6%,transparent 54%),var(--paper)}
+/* Keep article headings together; the reader reserves five lines at each start. */
+.mag-quiet-reader .quiet-content [data-edition-heading]{break-before:auto;break-inside:avoid}
+.mag-quiet-reader .quiet-content [data-edition-heading="0"]{break-before:auto}
+/* An odd final leaf has no artificial facing page. Keep the text measure stable. */
+.mag-quiet-reader[data-final-single="true"] .quiet-spread-shell{background:transparent;border-color:transparent;box-shadow:none}
+.mag-quiet-reader[data-final-single="true"] .quiet-spread-shell::before{content:'';position:absolute;inset:0 50% 0 0;background:var(--paper);border:1px solid #c9bfa5;border-radius:6px;box-shadow:0 3px 0 -1px #c5bba3,0 8px 20px #34422b22;z-index:-1}
+.mag-quiet-reader[data-final-single="true"] .quiet-print-header span:nth-child(2),.mag-quiet-reader[data-final-single="true"] .quiet-folios span:nth-child(2),.mag-quiet-reader[data-final-single="true"] .quiet-corner-kite{visibility:hidden}
+/* Settings float above the spread, so opening the menu cannot renumber pages. */
+.mag-quiet-reader #quiet-settings{position:absolute;top:49px;left:16px;right:16px;z-index:5;background:var(--paper);border:1px solid #9b927455;border-radius:8px;box-shadow:0 8px 24px #0002}
+.mag-quiet-reader .quiet-content [data-edition-heading]{break-after:avoid-column}
