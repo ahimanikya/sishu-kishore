@@ -22,7 +22,7 @@ async function submissionForm(){const kind=['article','comment','contact','book'
  const name=field(form,'ନାମ / Name for your byline','name',{value:user.displayName||'',max:120});
  field(form,'Email (private)','contact',{type:'email',value:user.email,max:254}).readOnly=true;
  field(form,'ଶୀର୍ଷକ / Title','title',{value:(params.get('title')||'').slice(0,240)});
- field(form,'ଲେଖା / Your writing or message','body',{type:'textarea',max:60000});
+ field(form,'ଲେଖା / Your writing or message','body',{type:'textarea',max:kind==='comment'?2000:60000});
  let file;if(site.uploadsEnabled){file=field(form,'Optional manuscript (PDF, DOCX or text; up to 10 MB)','attachment',{type:'file',required:false});file.accept='.pdf,.docx,.txt';}else form.append(el('p','Paste your writing above. File attachments are not enabled yet.'));
  const consent=el('label','',{class:'editorial-consent'}),check=el('input',null,{type:'checkbox',required:''});consent.append(check,el('span','I have permission to submit this work. Editors may contact me and review it. Only approved writing and the byline may become public. Children should ask a parent or teacher to help.'));form.append(consent);
  const send=el('button','Send for review',{type:'submit'});form.append(send);root.append(form);

@@ -9,6 +9,7 @@ service cloud.firestore {
     && d.keys().hasOnly(['owner','name','contact','kind','title','body','page','status','consent','createdAt','updatedAt'])
     && validText(d.name,120) && validText(d.contact,254) && validText(d.title,240) && validText(d.body,60000)
     && d.page is string && d.page.size()<=300 && d.kind in ['article','comment','contact','book']
+    && (d.kind != 'comment' || d.body.size()<=2000)
     && d.consent == 'editorial-review-v1';
   }
   function throttle(){return /databases/$(database)/documents/submissionLimits/$(request.auth.uid);}
@@ -54,6 +55,26 @@ service cloud.firestore {
     && request.resource.data.image is string && request.resource.data.image.matches('^/(art|media|social)/[a-zA-Z0-9_./-]+$')
     && request.resource.data.state in ['published','withdrawn'] && request.resource.data.publishedAt==request.time;
    allow delete: if false;
+  }
+  function likePath(article,uid){return /databases/$(database)/documents/articleLikes/$(article)/readers/$(uid);}
+  function countPath(article){return /databases/$(database)/documents/articleLikes/$(article);}
+  match /articleLikes/{article} {
+   allow read: if true;
+   allow create,update: if signedIn() && article.matches('^[a-zA-Z0-9_-]+$')
+    && request.resource.data.keys().hasOnly(['count']) && request.resource.data.count is int
+    && request.resource.data.count >= 0
+    && ((!exists(likePath(article,request.auth.uid)) && existsAfter(likePath(article,request.auth.uid))
+      && request.resource.data.count == (exists(countPath(article)) ? resource.data.count : 0)+1)
+     || (exists(likePath(article,request.auth.uid)) && !existsAfter(likePath(article,request.auth.uid))
+      && request.resource.data.count == resource.data.count-1));
+   match /readers/{uid} {
+    allow get: if signedIn() && uid==request.auth.uid;
+    allow create: if signedIn() && uid==request.auth.uid
+     && request.resource.data.keys().hasOnly(['at']) && request.resource.data.at==request.time
+     && getAfter(countPath(article)).data.count == (exists(countPath(article)) ? get(countPath(article)).data.count : 0)+1;
+    allow delete: if signedIn() && uid==request.auth.uid
+     && getAfter(countPath(article)).data.count == get(countPath(article)).data.count-1;
+   }
   }
   match /{document=**} {allow read,write:if false;}
  }
