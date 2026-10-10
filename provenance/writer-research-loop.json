@@ -4183,7 +4183,8 @@
       "reviewed": "2026-10-10",
       "canonicalRoute": "/shishu/writers/5127a44ec63e.html",
       "archivedProfile": "provenance/writer-profile-archive/2026-10-10/44602b520912.html",
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "013f44b2"
     },
     {
       "route": "/shishu/writers/2a1a093cc4dd.html",
@@ -4211,7 +4212,8 @@
       "reviewed": "2026-10-10",
       "canonicalRoute": "/shishu/writers/bd817933d592.html",
       "archivedProfile": "provenance/writer-profile-archive/2026-10-10/2a1a093cc4dd.html",
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "013f44b2"
     },
     {
       "route": "/shishu/writers/bb6bd7814e9c.html",
@@ -4233,7 +4235,8 @@
       "batch": "031",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "013f44b2"
     },
     {
       "route": "/shishu/writers/b03d843cd408.html",
@@ -4255,7 +4258,8 @@
       "batch": "031",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "013f44b2"
     },
     {
       "route": "/shishu/writers/79403f37456a.html",
@@ -4282,43 +4286,85 @@
         "https://www.newindianexpress.com/amp/story/states/odisha/2021/Oct/08/prananath-patnaik-an-inspiration-for-youths-2369152.html",
         "https://eodishasamachar.com/?p=59596"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "013f44b2"
     },
     {
       "route": "/shishu/writers/c15042e65fc9.html",
       "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0e48ff4897.html",
+          "snapshot": "public/shishu/article_details-0e48ff4897.html"
+        }
+      ],
+      "notes": [
+        "Full Tini Mankada read; original signature Shiv Bhavan,Dolamandap Sahi,Puri. Nonhonorific a60e8eb19db8 poems df9a1b8730 and61c968b009 lack identifying signature; no merge on name alone. Exact name/title and name/Puri searches did not verify external biography or portrait. Literary introduction only."
+      ],
+      "batch": "032",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/bb30f47596f3.html",
       "name": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କା",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-720dfd70d7.html",
+          "snapshot": "public/shishu/article_details-720dfd70d7.html"
+        }
+      ],
+      "notes": [
+        "Full poem read; Khandagiri Vihar Kolathia Bhubaneswar signature. Search found same-name essay on Gopinath Mohanty in Utkal Prasanga Aug2019 pp62-63 and literary event report; no verified identity bridge. PDF text legacy font and screenshot cache miss, so no external essay attribution. No verified portrait. Poem introduction only; medical advice in poem not repeated as biography."
+      ],
+      "batch": "032",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://magazines.odisha.gov.in/utkalprasanga/2019/August/oriyapdf/UP-August-2019.pdf",
+        "https://odisha.live/2024/06/24/special-literary-prog-organised-by-srusti-o-srasta-in-bhubaneswar-odia-news-odisha-news/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/cfe3bf05e6dd.html",
       "name": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6a972dc850.html",
+          "snapshot": "public/shishu/article_details-6a972dc850.html"
+        }
+      ],
+      "notes": [
+        "Full story read; no identifying locality/contact signature. Own-story thank-you comment provides English spelling but is not independent identity proof. Exact Odia/English searches surfaced comments and a same-name government book-purchase list; no identity bridge to occupation/books/photo. Unrelated legal/household results excluded without opening. Literary introduction only."
+      ],
+      "batch": "032",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://culture.odisha.gov.in/sites/default/files/2022-06/RRR_2015-16.pdf"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/e1f187c86103.html",
       "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
@@ -4326,19 +4372,61 @@
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=195",
           "snapshot": "public/shishu/birthday_details-efb8a74bfb.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4379ccc635.html",
+          "snapshot": "public/shishu/article_details-4379ccc635.html"
         }
       ],
-      "notes": []
+      "notes": [
+        "Reviewed complete archived original birthday195 biography and full Rukuna Rathajatra article. Birthday explicitly academy member; add this and article-specific introduction. Existing verified portrait retained. Live birthday fetch unavailable. Exact-name searches surfaced academylist and historical same-name literary quotations, no new verified books/award/photo; no merge with previously unresolved9210d5fb2fa2/c4e96a0c83de lacking shared identity signature."
+      ],
+      "batch": "032",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/whoweare.php"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/957caf2186d7.html",
       "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-49d2e30f0c.html",
+          "snapshot": "public/shishu/article_details-49d2e30f0c.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-55dec52a56.html",
+          "snapshot": "public/shishu/article_details-55dec52a56.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e2e6cb62bc.html",
+          "snapshot": "public/shishu/article_details-e2e6cb62bc.html"
+        },
+        {
+          "label": "ଧରିତ୍ରୀ · ଯୋଗ୍ୟତମ ଗୁରୁ",
+          "url": "https://www.dharitri.com/the-most-worthy-teacher/"
+        }
+      ],
+      "notes": [
+        "All three poems read. Original signature on e2e6cb62bc explicitly teacher PM Shri Govt High School Kishorenagar,Angul. Exact published contact and school match signed Dharitri essay The Most Worthy Teacher22Apr2026, supporting teaching and education-essay writing. Academy2020 report name+district only, not used for further role claim. No individually captioned verified portrait found in reviewed sources."
+      ],
+      "batch": "032",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.dharitri.com/the-most-worthy-teacher/",
+        "https://odisha.live/2020/07/21/odisha-sahitya-academy-announces-new-members-amid-general-body-rejig-odisha-news-odia-news/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/cc748aac2f6e.html",
@@ -4591,6 +4679,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch031 validated awaiting publication:155/185 checked,30 pending;100 sourced introductions,13 unique portraits,159 canonical profiles,26 archived original duplicates. Next: ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର /shishu/writers/c15042e65fc9.html",
+  "resume": "Batch032 validated awaiting deployment:160/185 checked,25 pending;104 sourced introductions,13 portraits. Next: ସତ୍ୟ ନାରାୟଣ ମିଶ୍ର /shishu/writers/cc748aac2f6e.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }

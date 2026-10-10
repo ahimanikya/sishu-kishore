@@ -61,7 +61,7 @@
       "route": "/shishu/writers/e1f187c86103.html",
       "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
-      "bio": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଜଣେ ଲେଖକ । ପୁରୁଣା ଭୁବନେଶ୍ୱରରେ ଜନ୍ମିତ ଏହି ଲେଖକ ପିଲାଦିନରୁ ସାହିତ୍ୟ ପ୍ରତି ଆଗ୍ରହୀ ଥିଲେ । ସେ ଅନେକ ପୁସ୍ତକ ରଚନା କରିଛନ୍ତି ।",
+      "bio": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଜଣେ ଲେଖକ । ପୁରୁଣା ଭୁବନେଶ୍ୱରରେ ଜନ୍ମିତ ଏହି ଲେଖକ ପିଲାଦିନରୁ ସାହିତ୍ୟ ପ୍ରତି ଆଗ୍ରହୀ ଥିଲେ । ସେ ଅନେକ ପୁସ୍ତକ ରଚନା କରିଛନ୍ତି । ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ ଅନୁସାରେ ସେ ଶିଶୁ କିଶୋର ସାହିତ୍ୟ ଏକାଡେମୀର ସଦସ୍ୟ । ତାଙ୍କ ‘ଏକାମ୍ରର ରୁକୁଣା ରଥଯାତ୍ରା’ ଲେଖାରେ ଭୁବନେଶ୍ୱରର ଏହି ପର୍ବର ପରମ୍ପରା ବିଷୟରେ ଜାଣିବାକୁ ମିଳେ ।",
       "searchAliases": "Raghunandan Mohapatra",
       "portrait": "/portraits/raghunandan-mohapatra-cartoon-natural-v1.webp",
       "sourcePortrait": "/media/6328ef7dc10410078fab7274.jpg",
@@ -70,6 +70,11 @@
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=195",
           "snapshot": "public/shishu/birthday_details-efb8a74bfb.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4379ccc635.html",
+          "snapshot": "public/shishu/article_details-4379ccc635.html"
         }
       ],
       "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
@@ -2014,6 +2019,88 @@
         }
       ],
       "identity": "Full Rajamauja poem read; no contact/locality signature. Academy membership list, government directory, cultural-event reports and Prananath Samman2021 news name Tanaya Das Goswami, but no exact work/contact bridge to this unsigned-location poem. Keep honorific profile separate from6bd0f39ff075; no award, organiser role or photo assigned. Literary introduction only."
+    },
+    {
+      "slug": "c15042e65fc9",
+      "route": "/shishu/writers/c15042e65fc9.html",
+      "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ରଙ୍କ ‘ତିନିମାଙ୍କଡ଼’ କବିତାରେ କୁନା ଓ ମୁନାଙ୍କ କଥାବାର୍ତ୍ତା ଭିତରେ ଗାନ୍ଧୀଜୀଙ୍କ ତିନି ମାଙ୍କଡ଼ର ବାର୍ତ୍ତା ରହିଛି । ଭଲ କଥା ଶୁଣିବା ଓ ମଧୁର କଥା କହିବାକୁ କବିତାଟି ପିଲାଙ୍କୁ ମନେ ପକାଇଦିଏ ।",
+      "searchAliases": "Shakuntala Mishra Sakuntala Mishra",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0e48ff4897.html",
+          "snapshot": "public/shishu/article_details-0e48ff4897.html"
+        }
+      ],
+      "identity": "Full Tini Mankada read; original signature Shiv Bhavan,Dolamandap Sahi,Puri. Nonhonorific a60e8eb19db8 poems df9a1b8730 and61c968b009 lack identifying signature; no merge on name alone. Exact name/title and name/Puri searches did not verify external biography or portrait. Literary introduction only."
+    },
+    {
+      "slug": "bb30f47596f3",
+      "route": "/shishu/writers/bb30f47596f3.html",
+      "name": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କା",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କାଙ୍କ ‘ଓହ କି ଖରା’ କବିତା ପରିବେଶର ଯତ୍ନ ନେବାକୁ ମନେ ପକାଇଦିଏ । ଗଛ କଟା ଓ ପ୍ରବଳ ଗରମର କଥା କହି କବିତାଟି ସଭିଙ୍କୁ ମିଶି ଗଛ ଲଗାଇବାକୁ ଡାକ ଦିଏ ।",
+      "searchAliases": "Sushama Lenka Susama Lenka",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-720dfd70d7.html",
+          "snapshot": "public/shishu/article_details-720dfd70d7.html"
+        }
+      ],
+      "identity": "Full poem read; Khandagiri Vihar Kolathia Bhubaneswar signature. Search found same-name essay on Gopinath Mohanty in Utkal Prasanga Aug2019 pp62-63 and literary event report; no verified identity bridge. PDF text legacy font and screenshot cache miss, so no external essay attribution. No verified portrait. Poem introduction only; medical advice in poem not repeated as biography."
+    },
+    {
+      "slug": "cfe3bf05e6dd",
+      "route": "/shishu/writers/cfe3bf05e6dd.html",
+      "name": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକଙ୍କ ‘ପ୍ରଜାପତି କଥା ଶୁଣିଲା’ ଗପରେ ସୁମନ ନାମର ପିଲାଟିଏ ନିଜ ବଗିଚାର ପ୍ରଜାପତିଙ୍କୁ ଦେଖି ଖୁସି ହୁଏ । ଫୁଲ, ପ୍ରଜାପତି ଓ ପରାଗଣର କଥା ଦେଇ ଗପଟି ପ୍ରକୃତି ପ୍ରତି ପିଲାଙ୍କ ଆଗ୍ରହ ବଢ଼ାଏ ।",
+      "searchAliases": "Haripriya Pattnaik Haripriya Pattanaik",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6a972dc850.html",
+          "snapshot": "public/shishu/article_details-6a972dc850.html"
+        }
+      ],
+      "identity": "Full story read; no identifying locality/contact signature. Own-story thank-you comment provides English spelling but is not independent identity proof. Exact Odia/English searches surfaced comments and a same-name government book-purchase list; no identity bridge to occupation/books/photo. Unrelated legal/household results excluded without opening. Literary introduction only."
+    },
+    {
+      "slug": "957caf2186d7",
+      "route": "/shishu/writers/957caf2186d7.html",
+      "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି ଅନୁଗୋଳ ଜିଲ୍ଲାର କିଶୋରନଗର ପିଏମ୍ ଶ୍ରୀ ସରକାରୀ ଉଚ୍ଚ ବିଦ୍ୟାଳୟର ଜଣେ ଶିକ୍ଷକ । ତାଙ୍କ ‘ଗୁଣୁଗୁଣୁ - ଝୁଣୁଝୁଣୁ’ ଓ ‘ଟିନ୍ ଟିନ୍ ଟିନ୍’ କବିତାରେ ମଜାଦାର ଶବ୍ଦ ଓ ଛନ୍ଦର ଖେଳ ରହିଛି । ‘ହେଇ ପରା ପୁଷି ଆସୁଛି’ କବିତାରେ ବିଲେଇଟି ମୂଷାଙ୍କୁ ସାହାଯ୍ୟ କରେ । ସେ ଶିକ୍ଷା ବିଷୟରେ ପ୍ରବନ୍ଧ ମଧ୍ୟ ଲେଖନ୍ତି ।",
+      "searchAliases": "Sangram Keshari Prusty Sangram Keshari Prusti",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-49d2e30f0c.html",
+          "snapshot": "public/shishu/article_details-49d2e30f0c.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-55dec52a56.html",
+          "snapshot": "public/shishu/article_details-55dec52a56.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e2e6cb62bc.html",
+          "snapshot": "public/shishu/article_details-e2e6cb62bc.html"
+        },
+        {
+          "label": "ଧରିତ୍ରୀ · ଯୋଗ୍ୟତମ ଗୁରୁ",
+          "url": "https://www.dharitri.com/the-most-worthy-teacher/"
+        }
+      ],
+      "identity": "All three poems read. Original signature on e2e6cb62bc explicitly teacher PM Shri Govt High School Kishorenagar,Angul. Exact published contact and school match signed Dharitri essay The Most Worthy Teacher22Apr2026, supporting teaching and education-essay writing. Academy2020 report name+district only, not used for further role claim. No individually captioned verified portrait found in reviewed sources."
     }
   ],
   "pendingResearch": [
