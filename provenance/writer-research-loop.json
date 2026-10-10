@@ -123,7 +123,8 @@
       "researchUrls": [
         "https://sishu.kabitawithoutborders.org/shishu/article-766.html"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "20aa896b"
     },
     {
       "route": "/shishu/writers/66393b0de741.html",
@@ -205,51 +206,96 @@
       "route": "/shishu/writers/ae85c64c0f18.html",
       "name": "କବିଜ୍ୟୋତି ନିରଞ୍ଜନ ପତି",
       "contributionCount": 11,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read original byline and searched Odia honorific and English name. Wikipedia result describes a business-school academic and does not establish this poet identity; Open Library author index is a lead without a corroborating connection. No occupation, books or portrait borrowed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "003",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=222",
+        "https://shishukishora.com/article_details.php?article_cd=191",
+        "https://en.wikipedia.org/wiki/Niranjan_Pati",
+        "https://openlibrary.org/authors/OL6436072A/Niranjan_Pati"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/05c4bac63090.html",
       "name": "କବିତା ଦେବୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read original story and its explicit retired-teacher signature. Added concise sourced introduction. Same-name professional social profile rejected; no named photograph verified."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "003",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-07bfa9d10e.html"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/19c8f0c69b64.html",
       "name": "କବିତା ମିଶ୍ର",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Original byline details match the unspaced Kabita Mishra entry: same locality and same contact in two signed works. This supports identity correspondence; consolidation deferred to a dedicated contribution-preserving change. Searches found a named poem in Amari Satya but no reliably matched biography or portrait."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "003",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-ab886e2c48.html",
+        "https://www.amarisatya.in/public/files/orig/2_652ea7b05dbe8.pdf"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/af743bc99a97.html",
       "name": "କବିତାମିଶ୍ର",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Checked together with spaced Kabita Mishra name. Original latest contribution carries matching locality/contact. No unsupported biography or portrait added; relationship recorded without altering bylines or contributions."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "003",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article-781.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-ab886e2c48.html"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/036f70ab6fb9.html",
       "name": "କମଳିନୀ ମଲ୍ଲିକ",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read original latest story and its Bhubaneswar signature. Odia and Romanized name searches did not establish useful biography details or an identity-backed photograph. Unrelated education records excluded."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "003",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=787"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/f5e65e2d3dc9.html",
@@ -2034,5 +2080,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 002: one new introduction awaits deployment. Next first pending entry follows କନ୍ଦର୍ପ ବେହେରା. Unresolved cases have been checked but need better evidence; do not claim all identities found."
+  "resume": "Batch 003: Kabita Devi introduction awaiting publication. Resume first pending entry after କମଳିନୀ ମଲ୍ଲିକ. Spaced/unspaced Kabita Mishra identity match documented; no contribution merge performed."
 }
