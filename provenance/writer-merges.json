@@ -354,6 +354,15 @@
             "<li><a class=\"contribution-title\" href=\"/shishu/article_details-bb35305be2.html\">ଅତି ଆପଣାର କପିଳା ଅଜା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-01d938c402.html\">ଡିସେମ୍ବର: ୨୦୨୫</a></small></li>"
           ],
           "archive": "provenance/writer-profile-archive/2026-10-10/fb9b5ecddb4d.html"
+        },
+        {
+          "route": "/shishu/writers/2a1a093cc4dd.html",
+          "name": "ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+          "identityEvidence": "Full Kakara Topa read. Exact published contact after Odia numeral normalization matches verified Sarat Kumar Das Barbil College author. Honorific-only variant safe to merge. Existing book/award claims not extended.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-71f0199e6e.html\">କାକର ଟୋପା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-f0f3e2cb5e.html\">ମାର୍ଚ୍ଚ: ୨୦୨୬</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/2a1a093cc4dd.html"
         }
       ]
     },
@@ -494,6 +503,30 @@
           "archive": "provenance/writer-profile-archive/2026-10-10/b62d26b5f3be.html"
         }
       ]
+    },
+    {
+      "slug": "bijay-kumar-chhatoi",
+      "canonical": "/shishu/writers/5127a44ec63e.html",
+      "name": "ବିଜୟ କୁମାର ଛାଟୋଇ",
+      "members": [
+        {
+          "route": "/shishu/writers/5127a44ec63e.html",
+          "name": "ବିଜୟ କୁମାର ଛାଟୋଇ",
+          "identityEvidence": "Full Nua Desha Gadhiba read. Identical name except spacing/honorific and matching Mahura Satyabadi Puri original signature in both poems establishes contributor identity. No books/awards/photo inferred from name-only search hits.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-fdb3bea438.html\">ଭାବର ଠାକୁର<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-bf55bf225f.html\">ଜୁଲାଇ: ୨୦୨୬</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/44602b520912.html",
+          "name": "ଶ୍ରୀ ବିଜୟକୁମାର ଛାଟୋଇ",
+          "identityEvidence": "Full Nua Desha Gadhiba read. Identical name except spacing/honorific and matching Mahura Satyabadi Puri original signature in both poems establishes contributor identity. No books/awards/photo inferred from name-only search hits.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-0189168c81.html\">ନୂଆ ଦେଶ ଗଢିବା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-6949643b1a.html\">ମଇ: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/44602b520912.html"
+        }
+      ]
     }
   ],
   "archivedLegacyAliases": [
@@ -588,6 +621,14 @@
     {
       "route": "/shishu/writers/a5a2d893da45.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/a5a2d893da45.html"
+    },
+    {
+      "route": "/shishu/writers/dc61d6b65b03.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/dc61d6b65b03.html"
+    },
+    {
+      "route": "/shishu/writers/b90c7e87f4b2.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/b90c7e87f4b2.html"
     }
   ]
 }
