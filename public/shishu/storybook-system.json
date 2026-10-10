@@ -90,7 +90,6 @@
   ],
   "provenance": {
     "current_art_manifest": "data/article-art.json",
-    "generation": "AI-generated with built-in image generation; human-directed visual brief and review.",
     "reference_status": "Current edition artwork is the starting reference, not a requirement to imitate every composition."
   }
 }
