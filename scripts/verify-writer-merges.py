@@ -15,4 +15,4 @@ for g in groups:
   assert not (root/m['route'].lstrip('/')).exists()
   assert m['route'] not in sitemap
   assert 'href="'+m['route']+'"' not in directory
-print('Writer merges verified: four canonical profiles, eleven archived originals, unique complete contribution unions and no live duplicates.')
+print(f'Writer merges verified: {len(groups)} canonical profiles, {sum(len(g["members"])-1 for g in groups)} archived originals, complete contribution unions and no live duplicates.')

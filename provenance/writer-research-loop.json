@@ -2078,7 +2078,8 @@
         "https://dashbenhur.com/about-us/",
         "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "a32f19d6"
     },
     {
       "route": "/shishu/writers/bb7df6043851.html",
@@ -2102,7 +2103,8 @@
       "researchUrls": [
         "https://www.shishukishora.com/"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "a32f19d6"
     },
     {
       "route": "/shishu/writers/17bad6eebece.html",
@@ -2127,7 +2129,8 @@
         "https://www.shishukishora.com/",
         "https://storymirror.com/read/oriya/poem/%E0%AC%AD%E0%AC%9E%E0%AD%8D%E0%AC%9C/tag"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "a32f19d6"
     },
     {
       "route": "/shishu/writers/8f595aa31265.html",
@@ -2151,7 +2154,8 @@
       "researchUrls": [
         "https://www.goodreads.com/author/show/34117499.Dr_Dinabandhu_Kar"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "a32f19d6"
     },
     {
       "route": "/shishu/writers/88dee196240d.html",
@@ -2175,57 +2179,169 @@
       "researchUrls": [
         "https://shishukishora.com/article_details.php?article_cd=331"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "a32f19d6"
     },
     {
       "route": "/shishu/writers/979836c3a0c2.html",
       "name": "ଦେବାଶିଷ ଚକ୍ରବର୍ତ୍ତୀ",
       "contributionCount": 7,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-9f51557351.html",
+          "snapshot": "public/shishu/article_details-9f51557351.html"
+        }
+      ],
+      "notes": [
+        "Original Mandua Keonjhargarh signature matches separately indexed Raja poem. Government book list names Bigyana Jhalaka author but lacks locality bridge. No book, profession or portrait attributed."
+      ],
+      "batch": "017",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://aimamedia.org/newsdetails.aspx?nid=270538",
+        "https://labour.odisha.gov.in/sites/default/files/2024-01/RRRLF_2020-21%20%26%202021-22.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/ea266eb20316.html",
       "name": "ଦେବେନ୍ଦ୍ର ଚୌଧୁରୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8407822a83.html",
+          "snapshot": "public/shishu/article_details-8407822a83.html"
+        }
+      ],
+      "notes": [
+        "Original Koelnagar Rourkela signature reviewed. Targeted English/Odia searches found no reliable biography/photo match; unrelated Gunupur cooperative official excluded."
+      ],
+      "batch": "017",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shasakprashasak.com/?p=8540"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/4dbe4df67479.html",
       "name": "ଧନଞ୍ଜୟ ସ୍ବାଇଁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-13bdc17a3f.html",
+          "snapshot": "public/shishu/article_details-13bdc17a3f.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-effb8b4d75.html",
+          "snapshot": "public/shishu/article_details-effb8b4d75.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-167bddbf4f.html",
+          "snapshot": "public/shishu/article_details-167bddbf4f.html"
+        }
+      ],
+      "notes": [
+        "Three spelling variants share identical published contact in original poems effb8b4d75,167bddbf4f,13bdc17a3f, establishing same contributor. Merge authorized. Same-name lyricist/admin/award reports lack contact or original-work bridge; those career claims and images not attributed."
+      ],
+      "batch": "017",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.newindianexpress.com/odisha/2019/Mar/13/vedic-scholars-awarded-1950521.html",
+        "https://www.baghuabarta.com/sisura-prakruti-and-charitra-nirmana/",
+        "https://shishukishora.com/article_details.php?article_cd=302"
+      ],
+      "publication": "pending-validation",
+      "canonicalRoute": "/shishu/writers/a563e88779d8.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/4dbe4df67479.html"
     },
     {
       "route": "/shishu/writers/3d9c88046b2d.html",
       "name": "ଧନଞ୍ଜୟ ସ୍ଵାଇଁ",
       "contributionCount": 5,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-13bdc17a3f.html",
+          "snapshot": "public/shishu/article_details-13bdc17a3f.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-effb8b4d75.html",
+          "snapshot": "public/shishu/article_details-effb8b4d75.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-167bddbf4f.html",
+          "snapshot": "public/shishu/article_details-167bddbf4f.html"
+        }
+      ],
+      "notes": [
+        "Three spelling variants share identical published contact in original poems effb8b4d75,167bddbf4f,13bdc17a3f, establishing same contributor. Merge authorized. Same-name lyricist/admin/award reports lack contact or original-work bridge; those career claims and images not attributed."
+      ],
+      "batch": "017",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.newindianexpress.com/odisha/2019/Mar/13/vedic-scholars-awarded-1950521.html",
+        "https://www.baghuabarta.com/sisura-prakruti-and-charitra-nirmana/",
+        "https://shishukishora.com/article_details.php?article_cd=302"
+      ],
+      "publication": "pending-validation",
+      "canonicalRoute": "/shishu/writers/a563e88779d8.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/3d9c88046b2d.html"
     },
     {
       "route": "/shishu/writers/a563e88779d8.html",
       "name": "ଧନଞ୍ଜୟ ସ୍ୱାଇଁ",
       "contributionCount": 12,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-13bdc17a3f.html",
+          "snapshot": "public/shishu/article_details-13bdc17a3f.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-effb8b4d75.html",
+          "snapshot": "public/shishu/article_details-effb8b4d75.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-167bddbf4f.html",
+          "snapshot": "public/shishu/article_details-167bddbf4f.html"
+        }
+      ],
+      "notes": [
+        "Three spelling variants share identical published contact in original poems effb8b4d75,167bddbf4f,13bdc17a3f, establishing same contributor. Merge authorized. Same-name lyricist/admin/award reports lack contact or original-work bridge; those career claims and images not attributed."
+      ],
+      "batch": "017",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.newindianexpress.com/odisha/2019/Mar/13/vedic-scholars-awarded-1950521.html",
+        "https://www.baghuabarta.com/sisura-prakruti-and-charitra-nirmana/",
+        "https://shishukishora.com/article_details.php?article_cd=302"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/fad523596f29.html",
@@ -3273,6 +3389,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 016 outcomes saved; build/browser/publish pending. No further duplicate merges verified.",
+  "resume": "Batch 017 researched, three canonical introductions and Dhananjay merge saved; build/browser/publish pending.",
   "directoryMaintenance": "2026-10-10: merged 11 confirmed duplicate entries into four canonical profiles. 174 online entries; 50 canonical sourced introductions. Research coverage remains 75/185 original entries. Follow canonicalRoute on archived entries; do not regenerate them. Original profiles and legacy redirect pages archived offline; no live forwarding requested."
 }
