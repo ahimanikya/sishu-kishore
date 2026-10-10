@@ -2056,56 +2056,126 @@
       "route": "/shishu/writers/8d9480d84ea8.html",
       "name": "ଦାଶ ବେନହୁର",
       "contributionCount": 10,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
         {
           "label": "ସାହିତ୍ୟ ଅକାଦେମି · ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର",
           "url": "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
+        },
+        {
+          "label": "ଦାଶ ବେନହୁର · ଲେଖକ ପରିଚୟ",
+          "url": "https://dashbenhur.com/about-us/"
         }
       ],
-      "notes": []
+      "notes": [
+        "Existing verified identity and portrait retained. Author own website explicitly matches pen name/full name and supports retired principal at Samanta Chandra Sekhara College Puri, plus stories, poetry and rhymes. Added only these useful stable details; omitted variable book counts. Official award URL could not be reopened, prior evidence retained."
+      ],
+      "batch": "016",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://dashbenhur.com/about-us/",
+        "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/bb7df6043851.html",
       "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4d7a278aa6.html",
+          "snapshot": "public/shishu/article_details-4d7a278aa6.html"
+        }
+      ],
+      "notes": [
+        "No locality/contact in original poem. English/Odia name searches show unrelated people and no reliable biography bridge. Do not merge spelling variant based on name alone. Poem narrator not treated as author biography. No verified portrait."
+      ],
+      "batch": "016",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/17bad6eebece.html",
       "name": "ଦିଲ୍ଲୀପ କୁମାର ସାହୁ",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-be53063c27.html",
+          "snapshot": "public/shishu/article_details-be53063c27.html"
+        }
+      ],
+      "notes": [
+        "Original poem has no identity bridge to external same-name people or the short-i spelling variant. Search returned namesakes; no biography or photo attributed. Fictional family not treated as personal history."
+      ],
+      "batch": "016",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/",
+        "https://storymirror.com/read/oriya/poem/%E0%AC%AD%E0%AC%9E%E0%AD%8D%E0%AC%9C/tag"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/8f595aa31265.html",
       "name": "ଦୀନବନ୍ଧୁ କର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-5cb13e99a9.html",
+          "snapshot": "public/shishu/article_details-5cb13e99a9.html"
+        }
+      ],
+      "notes": [
+        "Original Niladeipur Dharmasala Jajpur signature reviewed. Goodreads Sanskrit translator name has no locality/work bridge; not attributed. Targeted English/Odia searches found no verified biography/photo."
+      ],
+      "batch": "016",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.goodreads.com/author/show/34117499.Dr_Dinabandhu_Kar"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/88dee196240d.html",
       "name": "ଦୀନବନ୍ଧୁ ପୋଇ",
       "contributionCount": 14,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-47428eabbe.html",
+          "snapshot": "public/shishu/article_details-47428eabbe.html"
+        }
+      ],
+      "notes": [
+        "Original Goradapal Karamul Mahimagadi Dhenkanal signature matches original site lemon poem. Independent biographical source/photo not found by targeted searches. Do not amplify health claims from lemon poem; introduction only describes water conservation poem."
+      ],
+      "batch": "016",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=331"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/979836c3a0c2.html",
@@ -3203,6 +3273,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 015 deployed and browser verified (run 38041943889, commit 80dfbb6d). 75/185 checked; 61 sourced introductions; 12 unique portraits on 22 entries. Next: ଦାଶ ବେନହୁର /shishu/writers/8d9480d84ea8.html. Aibili Tapan named author profile matched by exact locality; portrait inaccessible behind verification screen. Do not merge with Mahanadi Vihar variant. Other four introductions based on original poems; external biographies unbridged.",
+  "resume": "Batch 016 outcomes saved; build/browser/publish pending. No further duplicate merges verified.",
   "directoryMaintenance": "2026-10-10: merged 11 confirmed duplicate entries into four canonical profiles. 174 online entries; 50 canonical sourced introductions. Research coverage remains 75/185 original entries. Follow canonicalRoute on archived entries; do not regenerate them. Original profiles and legacy redirect pages archived offline; no live forwarding requested."
 }
