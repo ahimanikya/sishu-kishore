@@ -49,3 +49,13 @@ Baloo Bhaina 2 600 is display-only. Noto Sans Oriya remains the reading and cont
 
 ## Little-reader UX
 Primary navigation has four labelled outline icons. Submission links remain in the footer. The homepage and issue introductions offer a clear start action; saved magazine progress on this device changes it to a continue action. The homepage can return to the last magazine read. No sign-in is required for reading. Reader arrows carry visible Odia Previous/Next labels; sound joins the collapsed reading settings. Controls use 48px targets where practical and spaced navigation. Existing article next/previous links are prominent; social actions remain after the story. No editorial prose, story titles or printed covers were changed.
+
+## Readiness and deferred work — 10 October 2026
+Completed: static image/accessibility checks, ebook source-order and transcription gate, side-by-side proofreading queue, nonvisual ebook headings, Odia reading controls and folios, ebook night-mode background repair, and optional App Check client integration (disabled until registration). See `provenance/readiness-audit.json` for scope and the outstanding list.
+
+- [ ] Human: compare and approve 128 ebook pages in `provenance/ebook-review/index.html`. Three pages have existing source-compared text; all other pages still show their original scans. No new transcription is claimed as approved.
+- [ ] Human: test story discovery, reading and exit with children and a parent/teacher.
+- [ ] Owner: register the Firebase App Check provider, accept its Google Cloud terms and supply the production reCAPTCHA Enterprise site key. No terms were accepted by the agent.
+- [ ] Technical follow-up after registration: set `appCheckConfig`, deploy, inspect valid-request metrics, test authenticated actions, then enable enforcement. App Check is NOT active today.
+- [ ] Owner: verify or grant access to the Search Console URL-prefix property. The signed-in account currently has no access. Submit `/sitemap.xml` after access is available. Public robots/sitemap/structured data already work.
+- [ ] Human/field: real screen-reader testing and slower physical phones; Core Web Vitals need real traffic and are not established by static checks.

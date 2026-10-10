@@ -1,10 +1,10 @@
-import {initializeApp} from 'firebase/app';
+import {getMagazineApp} from './app.js';
 import {getAuth,GoogleAuthProvider,signInWithPopup,signOut,onAuthStateChanged,browserSessionPersistence,setPersistence,getIdTokenResult} from 'firebase/auth';
 import {getFirestore,collection,doc,getDocs,query,where,limit,runTransaction,writeBatch,serverTimestamp,setDoc,updateDoc} from 'firebase/firestore';
 import {getStorage,ref,uploadBytes,getBlob} from 'firebase/storage';
 import {nextQuota} from './quota.js';
-import {firebaseConfig,site} from './config.js';
-const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app),storage=getStorage(app);
+import {site} from './config.js';
+const app=getMagazineApp(),auth=getAuth(app),db=getFirestore(app),storage=getStorage(app);
 const root=document.querySelector('#editorial-app');const params=new URLSearchParams(location.search);
 const editorMode=document.body.dataset.mode==='editor';
 const el=(tag,text,attrs={})=>{const e=document.createElement(tag);if(text)e.textContent=text;for(const [k,v]of Object.entries(attrs))e.setAttribute(k,v);return e;};

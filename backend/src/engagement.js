@@ -1,10 +1,10 @@
-import {initializeApp} from 'firebase/app';
+import {getMagazineApp} from './app.js';
 import {getAuth,GoogleAuthProvider,signInWithPopup,onAuthStateChanged,signOut,setPersistence,browserSessionPersistence} from 'firebase/auth';
 import {getFirestore,doc,getDoc,getDocs,query,where,collection,limit,runTransaction,serverTimestamp,writeBatch} from 'firebase/firestore';
 import {nextQuota} from './quota.js';
-import {firebaseConfig} from './config.js';
+
 export async function mount(root,{page,title,shareControl}){
- const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app);
+ const app=getMagazineApp(),auth=getAuth(app),db=getFirestore(app);
  const key=page.split('/').pop().replace(/\.html$/,'');
  const countRef=doc(db,'articleLikes',key);
  const el=(tag,text,attrs={})=>{const e=document.createElement(tag);e.textContent=text;for(const [k,v] of Object.entries(attrs))e.setAttribute(k,v);return e;};

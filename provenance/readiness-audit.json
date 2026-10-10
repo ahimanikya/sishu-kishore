@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-10",
+  "automated_checks": {
+    "magazine_pages": 1260,
+    "images_missing_alt": 0,
+    "images_missing_dimensions": 0,
+    "duplicate_ids": 0,
+    "book_pages": 131,
+    "source_compared_book_pages": 3,
+    "pending_book_pages": 128
+  },
+  "scope": "Static source and manual browser checks, not a WCAG certification or field Core Web Vitals measurement",
+  "deferred": [
+    {
+      "task": "Proofread ebook pages",
+      "remaining": 128,
+      "needs": "Odia source comparison and explicit approval; queue in provenance/ebook-review/index.html"
+    },
+    {
+      "task": "Test with children",
+      "needs": "Observe children finding, reading and returning from a story; parent or teacher supervision"
+    },
+    {
+      "task": "Register App Check provider",
+      "needs": "Owner accepts Google Cloud terms and provides registered reCAPTCHA Enterprise site key; app remains unregistered, client integration disabled"
+    },
+    {
+      "task": "Enable App Check enforcement",
+      "needs": "After registration, enable client integration, verify valid request metrics and test sign-in/likes/submissions before enforcement"
+    },
+    {
+      "task": "Search Console ownership",
+      "needs": "Current signed-in account has no access to URL-prefix property; owner verifies or grants access, then submit sitemap"
+    },
+    {
+      "task": "Real-device accessibility and field performance",
+      "needs": "Screen-reader and slow-phone testing; real-user Core Web Vitals data after sufficient traffic"
+    }
+  ],
+  "verification": {
+    "backend_security_tests": 36,
+    "page_sound_tests": 3,
+    "mobile_ebook_width": 390,
+    "mobile_ebook_no_horizontal_overflow": true,
+    "unreviewed_text_falls_back_to_scan": true,
+    "night_mode_checked": true,
+    "static_site_build": "passed"
+  }
+}

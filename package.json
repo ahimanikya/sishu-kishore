@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node scripts/verify-public-delivery.mjs && node scripts/verify-sharing.mjs && python3 scripts/verify-discovery.py",
+    "check": "node scripts/verify-public-delivery.mjs && node scripts/verify-sharing.mjs && python3 scripts/verify-discovery.py && python3 scripts/verify-ebooks.py",
     "build": "node scripts/writer-avatars.mjs && python3 scripts/search-discovery.py && npm run check && node scripts/build.mjs",
     "test": "node --test tests/*.test.mjs"
   }
