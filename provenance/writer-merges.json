@@ -156,6 +156,24 @@
             "<li><a class=\"contribution-title\" href=\"/shishu/article_details-506bf49749.html\">ଦେଶପ୍ରୀତି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-8d69dd7d5f.html\">ଜାନୁୟାରୀ: ୨୦୨୫</a></small></li>"
           ],
           "archive": "provenance/writer-profile-archive/2026-10-10/93d3aa4ff161.html"
+        },
+        {
+          "route": "/shishu/writers/ec01cb5a1438.html",
+          "name": "ସ୍ଵର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+          "identityEvidence": "Complete original poem read. Signature retired assistant block education officer,Puri Sadar,Puri matches already verified SwarnalataTripathy profile and PATF identity evidence;6eaf0de36f also explicitly President awardee. Same full name with orthographic variant and omitted honorific. Merge supported beyond name; retain distinct issue contribution and original byline. PATF recheck returned cache error; prior reviewed biography and portrait retained.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-6eaf0de36f.html\">ନଉକା ମୁହିଁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-744bf97428.html\">ଜୁଲାଇ: ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/ec01cb5a1438.html"
+        },
+        {
+          "route": "/shishu/writers/2968e830d8cc.html",
+          "name": "ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+          "identityEvidence": "Complete original poem read. Signature retired assistant block education officer,Puri Sadar,Puri matches already verified SwarnalataTripathy profile and PATF identity evidence;6eaf0de36f also explicitly President awardee. Same full name with orthographic variant and omitted honorific. Merge supported beyond name; retain distinct issue contribution and original byline. PATF recheck returned cache error; prior reviewed biography and portrait retained.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-f18f55b901.html\">ବୃକ୍ଷ ବନ୍ଧୁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4d80e1b5e4.html\">ଜାନୁୟାରୀ: ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/2968e830d8cc.html"
         }
       ]
     },
@@ -705,6 +723,14 @@
     {
       "route": "/shishu/writers/923079dcd7ac.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/923079dcd7ac.html"
+    },
+    {
+      "route": "/shishu/writers/3b9b74bfd8d3.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/3b9b74bfd8d3.html"
+    },
+    {
+      "route": "/shishu/writers/1c513dfa79f3.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/1c513dfa79f3.html"
     }
   ]
 }

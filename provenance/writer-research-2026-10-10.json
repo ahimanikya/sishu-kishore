@@ -1012,6 +1012,16 @@
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
           "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-506bf49749.html",
           "snapshot": "public/shishu/article_details-506bf49749.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6eaf0de36f.html",
+          "snapshot": "public/shishu/article_details-6eaf0de36f.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f18f55b901.html",
+          "snapshot": "public/shishu/article_details-f18f55b901.html"
         }
       ],
       "identity": "All four distinct directory spellings have matching original signatures: assistant block education officer, Puri Sadar, Puri/Konark; multiple signatures explicitly say retired and presidential awardee. Named PATF member profile independently matches retired ABEO, Puri Sadar and supplies National Teacher Award (2012) and associated portrait. University botanist and other name-only results excluded. No routes merged. Poems read in full; literary theme sentence is grounded in their contents.",
@@ -2345,6 +2355,61 @@
         }
       ],
       "identity": "Full Bundi read; original has contact but no locality. StoryMirror named Shikshita signature Kota,Rajasthan surfaced but page fetch failed and no shared contact/work verified. Multiple unrelated professional namesakes rejected. Literary introduction only; no location,career or portrait assigned."
+    },
+    {
+      "slug": "35695eb8faa9",
+      "route": "/shishu/writers/35695eb8faa9.html",
+      "name": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କାଙ୍କ ‘ମଶା ମାଛି’ ଗପରେ ରାଜୁ ମଶା ଓ ମାଛିଙ୍କ କଥା ଶୁଣେ । ଘରଦ୍ୱାର ସଫା ରଖିବାର ମୂଲ୍ୟ ବୁଝି ସେ ନିଜ ପରିବାର ସହ ଏହି କାମରେ ଲାଗିପଡ଼େ ।",
+      "searchAliases": "Snehalata Das Lenka",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a1d8fa353b.html",
+          "snapshot": "public/shishu/article_details-a1d8fa353b.html"
+        }
+      ],
+      "identity": "Complete story read; signature Jharpada,Bhubaneswar. Exact full-name search found SahityaCharcha book review but open failed; no matching locality or shared work independently established. No books,profession or photograph assigned."
+    },
+    {
+      "slug": "95e30378a1ca",
+      "route": "/shishu/writers/95e30378a1ca.html",
+      "name": "ହଂସନାଥ ମୁଦୁଲି",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ହଂସନାଥ ମୁଦୁଲି ଗୀତ, ଗପ ଓ ଶିଶୁ ସାହିତ୍ୟ ଲେଖନ୍ତି । ତାଙ୍କ ଶିଶୁ ପୁସ୍ତକ ମଧ୍ୟରେ ‘କାଗଜ ଡଙ୍ଗା’ ଓ ‘ଦୁନିଆ ପାରିବ ଦେଖି’ ରହିଛି । ତାଙ୍କ ‘ମୁଁ ପ୍ରକୃତିର ଫୁଲଟିଏ’ କବିତାରେ ଫୁଲର ରଙ୍ଗ, ସୁଗନ୍ଧ ଓ କୋମଳତା ଦେଇ ସଭିଙ୍କୁ ଆପଣାର କରିବାର କଥା ରହିଛି ।",
+      "searchAliases": "Hansanath Muduli Hansanatha Muduli",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-15807c7ef4.html",
+          "snapshot": "public/shishu/article_details-15807c7ef4.html"
+        },
+        {
+          "label": "The Odisha Pride · ଲେଖକଙ୍କ ପରିଚୟ",
+          "url": "https://www.theodishapride.com/hansanath-muduli/index.html"
+        }
+      ],
+      "identity": "Full flower poem read. Original signature Khandagiri,Dumduma-A,Bhubaneswar751030 matches named author self-particulars at OdishaPride and signed OdishaReview2021 poem. Author page lists lyrics,short stories,children literature and Kagaja Danga,Dunia Pariba Dekhi; state bibliography independently lists latter2007. Only literary claims added; no personal family/contact details or unverified photograph."
+    },
+    {
+      "slug": "826c1453908c",
+      "route": "/shishu/writers/826c1453908c.html",
+      "name": "ହରପ୍ରିୟା ରାଉତରାୟ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ହରପ୍ରିୟା ରାଉତରାୟଙ୍କ ‘ଘର’ କବିତାରେ ପରିବାରର ସ୍ନେହ ଓ ଏକାଠି ରହିବାର ଖୁସି ରହିଛି । ଜେଜେମାଆଙ୍କ ଗପ, ପାଠପଢ଼ା ଓ ଭାଇଭଉଣୀଙ୍କ ଖେଳ ଦେଇ କବିତାଟି ଘରର ଆପଣାପଣକୁ ମନେ ପକାଏ ।",
+      "searchAliases": "Harapriya Routray Harapriya Rautaray",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଘର",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-782.html",
+          "snapshot": "public/shishu/article-782.html"
+        }
+      ],
+      "identity": "Full Ghara article782 read; original signature contact only,no locality. Exact Odia and English name searches surfaced unrelated professional profiles, no distinctive match. Literary introduction only; no profession,location or photo assigned."
     }
   ],
   "pendingResearch": [

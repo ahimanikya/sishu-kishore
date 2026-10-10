@@ -1,0 +1,142 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/35695eb8faa9.html",
+      "name": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a1d8fa353b.html",
+          "snapshot": "public/shishu/article_details-a1d8fa353b.html"
+        }
+      ],
+      "notes": [
+        "Complete story read; signature Jharpada,Bhubaneswar. Exact full-name search found SahityaCharcha book review but open failed; no matching locality or shared work independently established. No books,profession or photograph assigned."
+      ],
+      "batch": "036",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.sahityacharcha.com/2026/08/07/gapa-pari-kichhi/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/ec01cb5a1438.html",
+      "name": "ସ୍ଵର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6eaf0de36f.html",
+          "snapshot": "public/shishu/article_details-6eaf0de36f.html"
+        }
+      ],
+      "notes": [
+        "Complete original poem read. Signature retired assistant block education officer,Puri Sadar,Puri matches already verified SwarnalataTripathy profile and PATF identity evidence;6eaf0de36f also explicitly President awardee. Same full name with orthographic variant and omitted honorific. Merge supported beyond name; retain distinct issue contribution and original byline. PATF recheck returned cache error; prior reviewed biography and portrait retained."
+      ],
+      "batch": "036",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/1928b5c64b0a.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/ec01cb5a1438.html",
+      "researchUrls": [
+        "https://patfindia.org/members/swarnalata-tripathy"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/2968e830d8cc.html",
+      "name": "ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f18f55b901.html",
+          "snapshot": "public/shishu/article_details-f18f55b901.html"
+        }
+      ],
+      "notes": [
+        "Complete original poem read. Signature retired assistant block education officer,Puri Sadar,Puri matches already verified SwarnalataTripathy profile and PATF identity evidence;6eaf0de36f also explicitly President awardee. Same full name with orthographic variant and omitted honorific. Merge supported beyond name; retain distinct issue contribution and original byline. PATF recheck returned cache error; prior reviewed biography and portrait retained."
+      ],
+      "batch": "036",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/1928b5c64b0a.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/2968e830d8cc.html",
+      "researchUrls": [
+        "https://patfindia.org/members/swarnalata-tripathy"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/95e30378a1ca.html",
+      "name": "ହଂସନାଥ ମୁଦୁଲି",
+      "contributionCount": 11,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-15807c7ef4.html",
+          "snapshot": "public/shishu/article_details-15807c7ef4.html"
+        },
+        {
+          "label": "The Odisha Pride · ଲେଖକଙ୍କ ପରିଚୟ",
+          "url": "https://www.theodishapride.com/hansanath-muduli/index.html"
+        }
+      ],
+      "notes": [
+        "Full flower poem read. Original signature Khandagiri,Dumduma-A,Bhubaneswar751030 matches named author self-particulars at OdishaPride and signed OdishaReview2021 poem. Author page lists lyrics,short stories,children literature and Kagaja Danga,Dunia Pariba Dekhi; state bibliography independently lists latter2007. Only literary claims added; no personal family/contact details or unverified photograph."
+      ],
+      "batch": "036",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.theodishapride.com/hansanath-muduli/index.html",
+        "https://magazines.odisha.gov.in/orissareview/2021/Sept-Oct/engpdf/24.pdf",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/826c1453908c.html",
+      "name": "ହରପ୍ରିୟା ରାଉତରାୟ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଘର",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-782.html",
+          "snapshot": "public/shishu/article-782.html"
+        }
+      ],
+      "notes": [
+        "Full Ghara article782 read; original signature contact only,no locality. Exact Odia and English name searches surfaced unrelated professional profiles, no distinctive match. Literary introduction only; no profession,location or photo assigned."
+      ],
+      "batch": "036",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା",
+    "ହଂସନାଥ ମୁଦୁଲି ଲେଖକ",
+    "ହରପ୍ରିୟା ରାଉତରାୟ",
+    "Hansanath Muduli writer",
+    "Harapriya Routray writer",
+    "ହରପ୍ରିୟା ରାଉତରାୟ କବିତା"
+  ],
+  "validation": "Build,delivery,sharing,discovery,ebooks and merge checks passed.17 Swarnalata contributions retained;unrelated lists unchanged. Browser verified four canonical profiles and English-name search. Legacy preview synced."
+}
