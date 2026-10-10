@@ -1,0 +1,82 @@
+{
+  "checked": "2026-10-10",
+  "verified": [
+    {
+      "name": "ବସିରନ ବିବି",
+      "source_name": "ବସିରନ ବିବି",
+      "profile": "/shishu/writers/fc19d89e45a8.html",
+      "day": 1,
+      "month": 10,
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=194",
+      "evidence": "Exact source name",
+      "adult_source_verified": true
+    },
+    {
+      "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "source_name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "profile": "/shishu/writers/e1f187c86103.html",
+      "day": 2,
+      "month": 10,
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=195",
+      "evidence": "Exact source name",
+      "adult_source_verified": true
+    },
+    {
+      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "source_name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "profile": "/shishu/writers/37cc648aa7a1.html",
+      "day": 3,
+      "month": 10,
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+      "evidence": "Exact source name",
+      "adult_source_verified": true
+    },
+    {
+      "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "source_name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "profile": "/shishu/writers/c89e02766cff.html",
+      "day": 15,
+      "month": 10,
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
+      "evidence": "Exact source name",
+      "adult_source_verified": true
+    },
+    {
+      "name": "ଜୟନ୍ତିକା",
+      "source_name": "ଶ୍ରୀମତୀ ଜୟନ୍ତୀ ପଣ୍ଡା(ଜୟନ୍ତିକା)",
+      "profile": "/shishu/writers/5022efa803e9.html",
+      "day": 16,
+      "month": 10,
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=199",
+      "evidence": "Pen name explicitly given in source name: ଜୟନ୍ତୀ ପଣ୍ଡା(ଜୟନ୍ତିକା)",
+      "adult_source_verified": true
+    },
+    {
+      "name": "ଅନନ୍ତ ପ୍ରଧାନ",
+      "source_name": "ଶ୍ରୀଯୁକ୍ତ ଅନନ୍ତ ପ୍ରଧାନ",
+      "profile": "/shishu/writers/dfedff336b61.html",
+      "day": 23,
+      "month": 10,
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=200",
+      "evidence": "Source name with honorific omitted",
+      "adult_source_verified": true
+    }
+  ],
+  "pending": [
+    {
+      "source_name": "ଡକ୍ଟର ଶରତ କୁମାର ବିଶ୍ୱାଳ",
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=201",
+      "reason": "No exact or explicit alias match in the existing writer directory; do not infer from a similar spelling."
+    },
+    {
+      "source_name": "ଶ୍ରୀମତୀ ଆଶାଲତା ପ୍ରଧାନ",
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=198",
+      "reason": "No exact or explicit alias match in the existing writer directory; do not infer from a similar spelling."
+    },
+    {
+      "source_name": "ଶ୍ରୀଯୁକ୍ତ ବ୍ରୁନ୍ଦାବନ କୁମ୍ଭାର",
+      "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
+      "reason": "No exact or explicit alias match in the existing writer directory; do not infer from a similar spelling."
+    }
+  ]
+}
