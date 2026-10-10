@@ -1158,11 +1158,12 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "010",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://sishu.kabitawithoutborders.org/shishu/article_details-c0d3c4b83f.html",
         "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
-      ]
+      ],
+      "publishedCommit": "863032fe"
     },
     {
       "route": "/shishu/writers/26f88a3357be.html",
@@ -1187,11 +1188,12 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "010",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://sishu.kabitawithoutborders.org/shishu/article-778.html",
         "https://odia.hindusthansamachar.in/Encyc/2025/3/27/DIBYANGA-DESAPREMI-PUSTAK-LIKARPAN.php"
-      ]
+      ],
+      "publishedCommit": "863032fe"
     },
     {
       "route": "/shishu/writers/def97730a814.html",
@@ -1240,11 +1242,12 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "010",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://sishu.kabitawithoutborders.org/shishu/article_details-c7cc908c05.html",
         "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
-      ]
+      ],
+      "publishedCommit": "863032fe"
     },
     {
       "route": "/shishu/writers/4381c6ffcaa4.html",
@@ -1265,62 +1268,150 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "010",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://sishu.kabitawithoutborders.org/shishu/article_details-acdf9a8458.html",
         "https://www.blogger.com/profile/10885608628362949419",
         "https://en.wikipedia.org/wiki/Krutibas_Nayak"
-      ]
+      ],
+      "publishedCommit": "863032fe"
     },
     {
       "route": "/shishu/writers/85798d39be19.html",
       "name": "ଡକ୍ଟର ପ୍ରବୀଣା ପରିଡା",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d2bb16dd80.html",
+          "snapshot": "public/shishu/article_details-d2bb16dd80.html"
+        }
+      ],
+      "notes": [
+        "Original byline and complete poem verified. Research directory lists a same-name scholar of Nandakishore Bal, but this contribution has no identity signature to bridge them. No thesis, dates or photograph borrowed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "011",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-d2bb16dd80.html",
+        "https://odiashishusahitya.blogspot.com/2015/11/blog-post.html",
+        "https://www.shishukishora.com/whoweare.php"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/7d7b89d315b9.html",
       "name": "ଡକ୍ଟର ବସନ୍ତ କିଶୋର ସାହୁ",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e144e1690.html",
+          "snapshot": "public/shishu/article_details-7e144e1690.html"
+        },
+        {
+          "label": "ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟ · ଗବେଷକ ପରିଚୟ",
+          "url": "https://odiashishusahitya.blogspot.com/2015/11/blog-post.html"
+        },
+        {
+          "label": "Open Library · ପୁସ୍ତକ ତାଲିକା",
+          "url": "https://openlibrary.org/authors/OL102973A/Dr_Basanta_Ki%C5%9Bhore_S%C4%81hoo"
+        }
+      ],
+      "notes": [
+        "Original story signature identifies writer/educationist in Kusupur, Cuttack. Research directory and Open Library match full name, Kusupur and identical published professional contact. Research topic and 1996 publication corroborated. Open Library portrait origin not verified; retain placeholder. Do not treat recommended-book list as an award."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "011",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-7e144e1690.html",
+        "https://odiashishusahitya.blogspot.com/2015/11/blog-post.html",
+        "https://openlibrary.org/authors/OL102973A/Dr_Basanta_Ki%C5%9Bhore_S%C4%81hoo",
+        "https://sahitya-akademi.gov.in/pdf/Pressrelease_BSP-2020.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/6b99833c7415.html",
       "name": "ଡକ୍ଟର ବିଜୟା ପାତ୍ର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-3e6a7305ea.html",
+          "snapshot": "public/shishu/article_details-3e6a7305ea.html"
+        }
+      ],
+      "notes": [
+        "Complete magazine poem supports introduction only. No signature identity bridge to Satyabadi August 2026 biography or earlier variants. Do not merge variants or use external book counts/photos."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "011",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-3e6a7305ea.html",
+        "https://fliphtml5.com/aukd/pwnf/77/",
+        "https://www.shishukishora.com/article_details.php?article_cd=283"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/8547fb8c3a5d.html",
       "name": "ଡକ୍ଟର ରଘୁ ସାହୁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bfc3656207.html",
+          "snapshot": "public/shishu/article_details-bfc3656207.html"
+        }
+      ],
+      "notes": [
+        "Original poem and Raghunath Sahu Bana Bhoji have identical published contact, supporting spelling-variant connection, but preserve routes/contributions. External searches find unrelated artist, politician and researcher; no supported external biography or photo. Contact not added to biography."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "011",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-bfc3656207.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-a8fca5035b.html"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/5ff484d72f52.html",
       "name": "ଡକ୍ଟର ରଘୁନାଥ ସାହୁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a8fca5035b.html",
+          "snapshot": "public/shishu/article_details-a8fca5035b.html"
+        }
+      ],
+      "notes": [
+        "Original poem and Raghu Sahu Emiti Karibi Nahin share identical published contact. Introduction restricted to this poem; no external profession, dates or likeness inferred. Artist/politician/physics researcher matches not corroborated."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "011",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-a8fca5035b.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-bfc3656207.html"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/06d2d2e22ec2.html",
@@ -2693,5 +2784,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 010 researched: 50/185 checked. Four introductions ready for build/browser/publishing; one Ashok Sethi identity unresolved."
+  "resume": "Batch 011 outcomes saved sequentially; build and browser/publishing pending. Next pending entry follows Raghunath Sahu."
 }
