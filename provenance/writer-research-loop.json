@@ -2205,7 +2205,8 @@
         "https://aimamedia.org/newsdetails.aspx?nid=270538",
         "https://labour.odisha.gov.in/sites/default/files/2024-01/RRRLF_2020-21%20%26%202021-22.pdf"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "80fef82a"
     },
     {
       "route": "/shishu/writers/ea266eb20316.html",
@@ -2229,7 +2230,8 @@
       "researchUrls": [
         "https://shasakprashasak.com/?p=8540"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "80fef82a"
     },
     {
       "route": "/shishu/writers/4dbe4df67479.html",
@@ -2265,9 +2267,10 @@
         "https://www.baghuabarta.com/sisura-prakruti-and-charitra-nirmana/",
         "https://shishukishora.com/article_details.php?article_cd=302"
       ],
-      "publication": "pending-validation",
+      "publication": "published-verified",
       "canonicalRoute": "/shishu/writers/a563e88779d8.html",
-      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/4dbe4df67479.html"
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/4dbe4df67479.html",
+      "publishedCommit": "80fef82a"
     },
     {
       "route": "/shishu/writers/3d9c88046b2d.html",
@@ -2303,9 +2306,10 @@
         "https://www.baghuabarta.com/sisura-prakruti-and-charitra-nirmana/",
         "https://shishukishora.com/article_details.php?article_cd=302"
       ],
-      "publication": "pending-validation",
+      "publication": "published-verified",
       "canonicalRoute": "/shishu/writers/a563e88779d8.html",
-      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/3d9c88046b2d.html"
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/3d9c88046b2d.html",
+      "publishedCommit": "80fef82a"
     },
     {
       "route": "/shishu/writers/a563e88779d8.html",
@@ -2341,33 +2345,76 @@
         "https://www.baghuabarta.com/sisura-prakruti-and-charitra-nirmana/",
         "https://shishukishora.com/article_details.php?article_cd=302"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "80fef82a"
     },
     {
       "route": "/shishu/writers/fad523596f29.html",
       "name": "ଧୀରେନ କୁମାର ମିଶ୍ର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-edf4d84d52.html",
+          "snapshot": "public/shishu/article_details-edf4d84d52.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8aa5eed98d.html",
+          "snapshot": "public/shishu/article_details-8aa5eed98d.html"
+        }
+      ],
+      "notes": [
+        "Original poems edf4d84d52 and 8aa5eed98d have identical published contact after Odia numeral normalization, and the same Shushuda, Angul locality. Full-name and short-name profiles are the same contributor. English and Odia locality searches found no reliable additional biography or individual portrait. Namesake television/technical writers excluded."
+      ],
+      "batch": "018",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=176",
+        "https://shishukishora.com/article_details.php?article_cd=245"
+      ],
+      "publication": "pending-validation",
+      "canonicalRoute": "/shishu/writers/55f62a9245be.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/fad523596f29.html"
     },
     {
       "route": "/shishu/writers/55f62a9245be.html",
       "name": "ଧୀରେନ ମିଶ୍ର",
       "contributionCount": 10,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-edf4d84d52.html",
+          "snapshot": "public/shishu/article_details-edf4d84d52.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8aa5eed98d.html",
+          "snapshot": "public/shishu/article_details-8aa5eed98d.html"
+        }
+      ],
+      "notes": [
+        "Original poems edf4d84d52 and 8aa5eed98d have identical published contact after Odia numeral normalization, and the same Shushuda, Angul locality. Full-name and short-name profiles are the same contributor. English and Odia locality searches found no reliable additional biography or individual portrait. Namesake television/technical writers excluded."
+      ],
+      "batch": "018",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=176",
+        "https://shishukishora.com/article_details.php?article_cd=245"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/55f2b4a6ba42.html",
       "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
       "contributionCount": 22,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
@@ -2380,27 +2427,67 @@
           "url": "https://www.shishukishora.com/article_details.php?article_cd=281"
         }
       ],
-      "notes": []
+      "notes": [
+        "Existing Boudh children-writer biography rechecked against named 2025 literary event and original article_cd=281. Further searches found Boudh local literary meetings and a 2024 felicitation, but no substantial child-useful addition or identity-verified individual portrait. Dharitri article could not be opened. Existing verified biography retained."
+      ],
+      "batch": "018",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://odia.hindusthansamachar.in/Encyc/2025/6/29/literary-program-at-Boudh-by-odisha-sahitya-ekadem.php",
+        "https://samarthanews.com/?p=29358",
+        "https://koshalaprabahalive.com/odisha/sambardhana-385/",
+        "https://www.dharitri.com/a-saint-and-a-writer/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/7202756cab09.html",
       "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
       "contributionCount": 5,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f4035b8aaa.html",
+          "snapshot": "public/shishu/article_details-f4035b8aaa.html"
+        }
+      ],
+      "notes": [
+        "Career explicitly printed in original poem f4035b8aaa signature, same Bhubaneswar locality/contact as original article_cd=336. Name-only retailer Sadhusanthanka Kathamruta and Dharitri/StoryMirror bylines lack sufficient identity bridge; book and extra career details not attributed. No verified individual portrait."
+      ],
+      "batch": "018",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=336",
+        "https://www.odishanticstore.com/product/sadhusanthanka-kathamruta-by-nagendra-nath-pattanaik",
+        "https://www.dharitri.com/as-thought-so-result/",
+        "https://storymirror.com/read/oriya/story/daanbiir-setth/tizboqiw"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/45ab42330e07.html",
       "name": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-332a4b92e5.html",
+          "snapshot": "public/shishu/article_details-332a4b92e5.html"
+        }
+      ],
+      "notes": [
+        "Original Mo Gan signature is Baidyanath Patna, Kanas, Puri. Targeted honorific/name and locality searches did not verify biography or photo. Famous novelist Bibhuti Patnaik has no demonstrated identity bridge; awards, birthdate and portrait excluded. Poem narrator not treated as biography."
+      ],
+      "batch": "018",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/4e1da9edfd0f.html",
@@ -3389,6 +3476,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 017 researched, three canonical introductions and Dhananjay merge saved; build/browser/publish pending.",
-  "directoryMaintenance": "2026-10-10: merged 11 confirmed duplicate entries into four canonical profiles. 174 online entries; 50 canonical sourced introductions. Research coverage remains 75/185 original entries. Follow canonicalRoute on archived entries; do not regenerate them. Original profiles and legacy redirect pages archived offline; no live forwarding requested."
+  "resume": "Batch 018 validated, pending commit/deployment. 90/185 original entries checked; 95 pending. 171 online profiles, 60 canonical introductions. Next: ନିରଞ୍ଜନ ସାହୁ /shishu/writers/4e1da9edfd0f.html",
+  "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }

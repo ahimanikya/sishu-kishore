@@ -1179,6 +1179,62 @@
         }
       ],
       "identity": "Three spelling variants share identical published contact in original poems effb8b4d75,167bddbf4f,13bdc17a3f, establishing same contributor. Merge authorized. Same-name lyricist/admin/award reports lack contact or original-work bridge; those career claims and images not attributed."
+    },
+    {
+      "slug": "dhiren-mishra",
+      "route": "/shishu/writers/55f62a9245be.html",
+      "name": "ଧୀରେନ ମିଶ୍ର",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ଧୀରେନ ମିଶ୍ରଙ୍କ କବିତାରେ ମଜାଳିଆ ଛନ୍ଦ ଓ ପିଲାଙ୍କ କଳ୍ପନାର ଦୁନିଆ ରହିଛି । ‘ଚମ ଧୁଡୁଧୁଡୁ ଧାକୁଡି’ରେ ଗାଁର ଜୀବନକୁ ନେଇ ହସକଥା ରହିଛି । ‘ଝିଇକି ଝିକା’ କବିତାଟି ତ୍ରିରଙ୍ଗା ପତାକାକୁ ସମ୍ମାନ କରିବାର କଥା କହେ ।",
+      "searchAliases": "Dhiren Mishra Dhiren Kumar Mishra ଧୀରେନ କୁମାର ମିଶ୍ର",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-edf4d84d52.html",
+          "snapshot": "public/shishu/article_details-edf4d84d52.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8aa5eed98d.html",
+          "snapshot": "public/shishu/article_details-8aa5eed98d.html"
+        }
+      ],
+      "identity": "Original poems edf4d84d52 and 8aa5eed98d have identical published contact after Odia numeral normalization, and the same Shushuda, Angul locality. Full-name and short-name profiles are the same contributor. English and Odia locality searches found no reliable additional biography or individual portrait. Namesake television/technical writers excluded."
+    },
+    {
+      "slug": "nagendra-nath-pattanaik",
+      "route": "/shishu/writers/7202756cab09.html",
+      "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ ଓଡ଼ିଶା ସରକାରଙ୍କ ପ୍ରାକ୍ତନ ଅତିରିକ୍ତ ଶାସନ ସଚିବ । ସେ ପିଲାଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ ‘ଜୀବନଟା ହେଉ ସରସା’ କବିତାରେ ସକାଳର ପ୍ରକୃତି ସହ ମିଳିମିଶି ଖୁସି ବାଣ୍ଟିବାର କଥା ରହିଛି ।",
+      "searchAliases": "Nagendra Nath Pattanaik Nagendra Nath Patnaik",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f4035b8aaa.html",
+          "snapshot": "public/shishu/article_details-f4035b8aaa.html"
+        }
+      ],
+      "identity": "Career explicitly printed in original poem f4035b8aaa signature, same Bhubaneswar locality/contact as original article_cd=336. Name-only retailer Sadhusanthanka Kathamruta and Dharitri/StoryMirror bylines lack sufficient identity bridge; book and extra career details not attributed. No verified individual portrait."
+    },
+    {
+      "slug": "natya-gourab-bibhuti-pattanaik",
+      "route": "/shishu/writers/45ab42330e07.html",
+      "name": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକଙ୍କ ‘ମୋ ଗାଁ’ କବିତାରେ ଗାଁ ପ୍ରତି ମମତାର ଛବି ରହିଛି । ନଈ, ଚାଷଜମି ଓ ବର୍ଷାଦିନର କଥା ସହ କଳା, ସାହିତ୍ୟ ଓ ସମାଜସେବାର ଭାବନା କବିତାଟିରେ ମିଳେ ।",
+      "searchAliases": "Natya Gourab Bibhuti Pattanaik Bibhuti Patnaik Kanas",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-332a4b92e5.html",
+          "snapshot": "public/shishu/article_details-332a4b92e5.html"
+        }
+      ],
+      "identity": "Original Mo Gan signature is Baidyanath Patna, Kanas, Puri. Targeted honorific/name and locality searches did not verify biography or photo. Famous novelist Bibhuti Patnaik has no demonstrated identity bridge; awards, birthdate and portrait excluded. Poem narrator not treated as biography."
     }
   ],
   "pendingResearch": [
