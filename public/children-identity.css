@@ -73,3 +73,17 @@ body.book-reading:not([data-theme=night]){--reader-ink:var(--kid-ink);--reader-p
 :root{--kid-heading:'Baloo Bhaina 2','Noto Sans Oriya',sans-serif}
 .shishu :is(h1,h2,h3,h4,.ia-card-title,.mag-contributions a,.ebook-head h1),.mag-quiet-reader .quiet-content .ia-article-head :is(h1,h2,h3){font-family:var(--kid-heading)!important;font-weight:600!important;letter-spacing:0}
 .book-reading .book-bar strong{font-family:var(--kid-heading);font-weight:600}
+
+/* One continuous paper wash for the whole web page; sections share the canvas. */
+body.shishu.ia-site{
+ background-color:#fffdf6;
+ background-image:radial-gradient(ellipse at 0 0,#fff0bc99,transparent 48%),radial-gradient(ellipse at 100% 32%,var(--story-tint,#d9eff8) 0,transparent 52%),linear-gradient(180deg,#fffdf6 0%,#fffaf2 55%,#eef8f1 100%);
+ background-repeat:no-repeat;
+ background-size:100% 100%;
+ background-attachment:scroll;
+}
+.shishu .ia-header,.shishu .ia-footer,.shishu .mag-editor-link,
+.shishu .ia-main>.ia-issue-intro,.shishu .ia-main>.ia-issue-intro:has(.storybook-cover){background:transparent}
+body.shishu.ia-site[data-story-wash="true"] .article-reading-text:not(.article-reading-night){background:transparent}
+body.shishu.ia-site[data-story-wash="false"],body.shishu.ia-site:has(.article-reading-night){background-image:none}
+@media print{body.shishu.ia-site{background:white!important}}

@@ -19,3 +19,5 @@ Rounded 14–20px controls and cards, 44px minimum controls, simple flat colours
 Implementation: public/children-identity.css. Existing story-wash palettes remain tied to each article. Public prose is unchanged.
 
 Baloo Bhaina 2 SemiBold is locally hosted as WOFF2 subsets, with its SIL Open Font License in public/fonts/baloo-bhaina-2-OFL.txt. Source: Google Fonts / Ek Type. Story text and navigation retain Noto Sans Oriya.
+
+The web-page colour wash now spans the full document, with transparent header, issue introduction, editorial section and footer. Article text uses the shared canvas; plain-paper and night controls still disable the wash. Cards retain their quiet solid surfaces and the fullscreen reader retains its printed paper treatment.
