@@ -371,19 +371,21 @@
       "route": "/shishu/writers/37cc648aa7a1.html",
       "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
       "status": "verified photo-based cartoon portrait",
-      "research": "provenance/writer-research-2026-10-10.json"
+      "research": "provenance/writer-research-batch-012.json"
     },
     {
       "name": "ଡକ୍ଟର ଲଷ୍ମୀ କାନ୍ତ ଖୁଣ୍ଟିଆ",
       "route": "/shishu/writers/eceb568b07ba.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-batch-012.json"
     },
     {
       "name": "ଡକ୍ଟର ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
       "route": "/shishu/writers/3e60d30994d9.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-batch-012.json"
     },
     {
       "name": "ଡକ୍ଟର ଲିଙ୍ଗରାଜ ରଥ",

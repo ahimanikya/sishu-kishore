@@ -93,24 +93,6 @@
       "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
     },
     {
-      "slug": "lakshmikanta-khuntia",
-      "route": "/shishu/writers/37cc648aa7a1.html",
-      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
-      "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ଗବେଷକ",
-      "bio": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ ଶିଶୁ ସାହିତ୍ୟିକ, ଗବେଷକ ଓ ସମାଲୋଚକ । ସେ ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଇତିହାସ ଉପରେ ପୁସ୍ତକ ଲେଖିଛନ୍ତି ।",
-      "searchAliases": "Lakshmikanta Khuntia",
-      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
-      "sourcePortrait": "/media/7356602045a12269d5c3b9b0.jpg",
-      "sources": [
-        {
-          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
-          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
-          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
-        }
-      ],
-      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
-    },
-    {
       "slug": "dash-benhur",
       "route": "/shishu/writers/8d9480d84ea8.html",
       "name": "ଦାଶ ବେନହୁର",
@@ -947,6 +929,133 @@
         }
       ],
       "identity": "Original poem and Raghu Sahu Emiti Karibi Nahin share identical published contact. Introduction restricted to this poem; no external profession, dates or likeness inferred. Artist/politician/physics researcher matches not corroborated."
+    },
+    {
+      "slug": "dr-rabinarayan-sahu",
+      "route": "/shishu/writers/06d2d2e22ec2.html",
+      "name": "ଡକ୍ଟର ରବିନାରାୟଣ ସାହୁ",
+      "portrait": null,
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ସମ୍ପାଦକ",
+      "bio": "ଡକ୍ଟର ରବିନାରାୟଣ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି ଓ ‘କଳାମାଣିକ’ ପତ୍ରିକାର ସମ୍ପାଦନା କରନ୍ତି । ବରଗଡ଼ରେ ‘ଶିଶୁଶ୍ରୀ’ ଭ୍ରାମ୍ୟମାଣ ପାଠାଗାର ମାଧ୍ୟମରେ ପିଲାମାନଙ୍କ ପାଖରେ ବହି ପହଞ୍ଚାଇବା କାର୍ଯ୍ୟକ୍ରମ ସହ ସେ ଜଡ଼ିତ ।",
+      "searchAliases": "Dr Rabinarayan Sahu Rabi Narayan Sahu",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ନୂଆ ସୂରୁଜଟି ହସେ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-589a3914a7.html",
+          "snapshot": "public/shishu/article_details-589a3914a7.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଲେଖକଙ୍କ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b208ef2172.html",
+          "snapshot": "public/shishu/article_details-b208ef2172.html"
+        },
+        {
+          "label": "ଓଡ଼ିଶା ନ୍ୟୁଜ୍ · ଶିଶୁ ପୁସ୍ତକ ଦିବସ",
+          "url": "https://odisha.news/81466"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c9276efd44.html",
+          "snapshot": "public/shishu/article_details-c9276efd44.html"
+        }
+      ],
+      "identity": "Original Tiki Chadhei and Chhota Chhota signatures explicitly identify Kalamanika editor in Smruti Nagar, Bargarh, corroborating verified sibling profile and Odisha.News Shishushree account. No verified individually identified photograph; retain placeholder."
+    },
+    {
+      "slug": "rajakishore-padhi",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ଡକ୍ଟର ରାଜକିଶୋର ପାଢୀଙ୍କ ‘ଗାଲୁରୁଗାଲୁ’ କବିତା ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ହୋଇଛି । କୁନାର ନିଦ ଆସିବା ବେଳେ ଚନ୍ଦ୍ରମାମୁ, ମାଆଙ୍କ ଗପ ଓ ନିଦମାଉସୀକୁ ନେଇ କବିତାଟି ଏକ ସୁନ୍ଦର ଦୁନିଆ ଗଢ଼େ ।",
+      "searchAliases": "Rajakishore Padhi Raja Kishore Padhy",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-1e5088030d.html",
+          "snapshot": "public/shishu/article_details-1e5088030d.html"
+        }
+      ],
+      "route": "/shishu/writers/250e17ab1f6b.html",
+      "name": "ଡକ୍ଟର ରାଜକିଶୋର ପାଢୀ",
+      "identity": "Read complete Galurugalu poem; no identity signature. Search finds children writer conference and 2025 award news, but no corroborating bridge beyond name to this byline. Introduction limited to the published lullaby; no award, photograph or external personal facts attributed."
+    },
+    {
+      "slug": "lakshmikanta-khuntia",
+      "route": "/shishu/writers/37cc648aa7a1.html",
+      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ଗବେଷକ",
+      "bio": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ ଶିଶୁ ସାହିତ୍ୟିକ, ଗବେଷକ ଓ ସମାଲୋଚକ । ସେ ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଇତିହାସ ଉପରେ ପୁସ୍ତକ ଲେଖିଛନ୍ତି । ସେ ଭୁବନେଶ୍ୱରର ଶହୀଦନଗର ସରକାରୀ ଉଚ୍ଚ ବିଦ୍ୟାଳୟରେ ଶିକ୍ଷକ ଭାବେ କାମ କରିଛନ୍ତି ।",
+      "searchAliases": "Lakshmikanta Khuntia",
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/7356602045a12269d5c3b9b0.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f26ac28596.html",
+          "snapshot": "public/shishu/article_details-f26ac28596.html"
+        }
+      ],
+      "identity": "Original named birthday biography anchors identity/portrait. Full-name 2024 poem signature gives Shahidnagar Government High School teaching role. Variant signature shares identical published professional contact; 2024 Bhala Manishate Hebi also gives same teaching role. Reuse verified portrait and add past-tense teaching detail; no route/contribution merge. Research directory and university bibliography checked; no unverified award or book-count added."
+    },
+    {
+      "slug": "lakshmikanta-khuntia",
+      "route": "/shishu/writers/eceb568b07ba.html",
+      "name": "ଡକ୍ଟର ଲଷ୍ମୀ କାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ଗବେଷକ",
+      "bio": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ ଶିଶୁ ସାହିତ୍ୟିକ, ଗବେଷକ ଓ ସମାଲୋଚକ । ସେ ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଇତିହାସ ଉପରେ ପୁସ୍ତକ ଲେଖିଛନ୍ତି । ସେ ଭୁବନେଶ୍ୱରର ଶହୀଦନଗର ସରକାରୀ ଉଚ୍ଚ ବିଦ୍ୟାଳୟରେ ଶିକ୍ଷକ ଭାବେ କାମ କରିଛନ୍ତି ।",
+      "searchAliases": "Lakshmikanta Khuntia",
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/7356602045a12269d5c3b9b0.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f26ac28596.html",
+          "snapshot": "public/shishu/article_details-f26ac28596.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b70752bad1.html",
+          "snapshot": "public/shishu/article_details-b70752bad1.html"
+        }
+      ],
+      "identity": "Original named birthday biography anchors identity/portrait. Full-name 2024 poem signature gives Shahidnagar Government High School teaching role. Variant signature shares identical published professional contact; 2024 Bhala Manishate Hebi also gives same teaching role. Reuse verified portrait and add past-tense teaching detail; no route/contribution merge. Research directory and university bibliography checked; no unverified award or book-count added."
+    },
+    {
+      "slug": "lakshmikanta-khuntia",
+      "route": "/shishu/writers/3e60d30994d9.html",
+      "name": "ଡକ୍ଟର ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ଗବେଷକ",
+      "bio": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ ଶିଶୁ ସାହିତ୍ୟିକ, ଗବେଷକ ଓ ସମାଲୋଚକ । ସେ ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଇତିହାସ ଉପରେ ପୁସ୍ତକ ଲେଖିଛନ୍ତି । ସେ ଭୁବନେଶ୍ୱରର ଶହୀଦନଗର ସରକାରୀ ଉଚ୍ଚ ବିଦ୍ୟାଳୟରେ ଶିକ୍ଷକ ଭାବେ କାମ କରିଛନ୍ତି ।",
+      "searchAliases": "Lakshmikanta Khuntia",
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/7356602045a12269d5c3b9b0.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f26ac28596.html",
+          "snapshot": "public/shishu/article_details-f26ac28596.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7ccee9e4b1.html",
+          "snapshot": "public/shishu/article_details-7ccee9e4b1.html"
+        }
+      ],
+      "identity": "Original named birthday biography anchors identity/portrait. Full-name 2024 poem signature gives Shahidnagar Government High School teaching role. Variant signature shares identical published professional contact; 2024 Bhala Manishate Hebi also gives same teaching role. Reuse verified portrait and add past-tense teaching detail; no route/contribution merge. Research directory and university bibliography checked; no unverified award or book-count added."
     }
   ],
   "pendingResearch": [
