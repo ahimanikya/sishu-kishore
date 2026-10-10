@@ -271,7 +271,7 @@
       "route": "/shishu/writers/524cb79f75d5.html",
       "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
       "role": "କବି ଓ ଗଳ୍ପ ଲେଖକ",
-      "bio": "କୁଞ୍ଜବିହାରୀ ସାହୁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ତାଙ୍କ ‘ବିଷୁବ ସଂକରାନ୍ତି’ କବିତାରେ ପଣା, ପରବ ଓ ଓଡ଼ିଆ ନୂଆବର୍ଷର ଖୁସି ଫୁଟିଉଠିଛି । ଓଡ଼ିଶା ସମ୍ବାଦରେ ତାଙ୍କ ଗପ ‘ନୂଆବର୍ଷ’ ପ୍ରକାଶିତ ହୋଇଛି ।",
+      "bio": "କୁଞ୍ଜବିହାରୀ ସାହୁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ତାଙ୍କ ‘ବିଷୁବ ସଂକରାନ୍ତି’ କବିତାରେ ପଣା, ପରବ ଓ ଓଡ଼ିଆ ନୂଆବର୍ଷର ଖୁସି ଫୁଟିଉଠିଛି । ଓଡ଼ିଶା ସମ୍ବାଦରେ ତାଙ୍କ ଗପ ‘ନୂଆବର୍ଷ’ ପ୍ରକାଶିତ ହୋଇଛି । ‘ଶପଥ’ ଗପରେ ସ୍ୱାଧୀନତା ଦିବସରେ ସୁନିତା ଦେଶ ପାଇଁ କାମ କରିବାର ଶପଥ ନିଏ ।",
       "searchAliases": "Kunjabihari Sahu Kunja Bihari Sahoo",
       "portrait": "/portraits/kunjabihari-sahu-cartoon-natural-v1.webp",
       "sourcePortrait": "/portraits/kunjabihari-sahu-source.jpg",
@@ -284,9 +284,14 @@
         {
           "label": "ଓଡ଼ିଶା ସମ୍ବାଦ · ଗଳ୍ପ: ନୂଆବର୍ଷ",
           "url": "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e0dbb59ef.html",
+          "snapshot": "public/shishu/article_details-7e0dbb59ef.html"
         }
       ],
-      "identity": "Exact named byline and matching contact signature connect original magazine poem with Odisha Sambad story. The publisher places the named portrait directly under the author name; image filename also names Kunjabihari Sahu. No personal contact republished in biography."
+      "identity": "Exact named byline and matching contact signature connect original magazine poem with Odisha Sambad story. The publisher places the named portrait directly under the author name; image filename also names Kunjabihari Sahu. No personal contact republished in biography. Original Shapatha and Bishuba Sankranti signatures share exact published contact and Patrapada Bhubaneswar locality. Same contact also matches named Odisha Sambad Nuabarsha story. Confirmed same writer; retain existing verified portrait and all seven contributions."
     },
     {
       "slug": "kirtan-sahu",
@@ -1853,6 +1858,66 @@
         }
       ],
       "identity": "Both full poems read. No distinguishing locality/contact signature. Original academy list has same name but insufficient identity bridge for membership claim. No external biography or portrait assigned. Literary introduction only."
+    },
+    {
+      "slug": "d86d9d088679",
+      "route": "/shishu/writers/d86d9d088679.html",
+      "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ ପିଲାଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ‘ଵଳୁଆ ଯେ ଦୟାଳୁ ସେ’ କବିତାରେ ଚଢ଼େଇ, ପବନ ଓ ପାହାଡ଼ର କଥା ମାଧ୍ୟମରେ ଦୟାର ମହତ୍ତ୍ୱ ବୁଝାଇଛନ୍ତି । ‘ଓଲୁଅ କରିଲା ଓଲା’ କବିତାରେ ଜଣେ ପିଲାର ମଜାଳିଆ ଅନୁଭୂତି ଭଲଭାବେ ବୁଝି କାମ କରିବାକୁ ଶିଖାଏ ।",
+      "searchAliases": "Sarat Kumari Swain Sarata Kumari Swain",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2885fd48a5.html",
+          "snapshot": "public/shishu/article_details-2885fd48a5.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2b3f842c49.html",
+          "snapshot": "public/shishu/article_details-2b3f842c49.html"
+        }
+      ],
+      "identity": "Full Olua Karila Ola, Shita Sakala and Balua Je Dayalu Se read. Original May2024 and May2026/Oct2025 signatures have identical published house identifier and Srivihar Patia Bhubaneswar locality despite orthographic variant; safe merge. Odia and English searches found no further verified biography or portrait. No private address repeated in new biography. Literary introduction only."
+    },
+    {
+      "slug": "d6da7034de48",
+      "route": "/shishu/writers/d6da7034de48.html",
+      "name": "ଶିବ ପ୍ରସାଦ ସାହୁ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଶିବ ପ୍ରସାଦ ସାହୁଙ୍କ ‘ନୁହେଁ କେ ଏକାପରି’ କବିତାରେ ବେଙ୍ଗ ଓ କାଉ ନିଜନିଜ ଗୁଣକୁ ନେଇ କଳି କରନ୍ତି । ଗଛଟି ସେମାନଙ୍କୁ ବୁଝାଏ ଯେ ସମସ୍ତଙ୍କର ଅଲଗା ଗୁଣ ଅଛି । ଗର୍ବ ଛାଡ଼ି ସାଙ୍ଗ ହୋଇ ରହିବାର କଥା କବିତାଟି କହେ ।",
+      "searchAliases": "Shiba Prasad Sahu Siba Prasad Sahu Shiva Prasad Sahoo",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4de460f010.html",
+          "snapshot": "public/shishu/article_details-4de460f010.html"
+        }
+      ],
+      "identity": "Full Nuhein Ke Ekapari read; Gopinathpur Sahi Chandpur Nayagarh signature. Kunikatha July2023 publisher index names same author for Sakala Shakti Amara, but PDF fetch failed and no identity bridge established. Excluded Siba Prasad Dash/Rath and unrelated people. No outside biography or photo assigned. Literary introduction only."
+    },
+    {
+      "slug": "ab1399b7121b",
+      "route": "/shishu/writers/ab1399b7121b.html",
+      "name": "ଶୁଭନାରାୟଣ ଶତପଥୀ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଶୁଭନାରାୟଣ ଶତପଥୀ ପିଲାଙ୍କ ପାଇଁ ଗପ ଲେଖନ୍ତି । ତାଙ୍କ ‘ସତ୍ୟର ଶକ୍ତି’ ଗପରେ ସତିଆର ସତ କହିବା ଅଭ୍ୟାସ ତା’ର ସାଙ୍ଗକୁ ନିଜ ଭୁଲ ମାନିବାକୁ ପ୍ରେରଣା ଦିଏ । ‘ଧରିତ୍ରୀ’ରେ ତାଙ୍କ ‘ସନ୍ତାନ ମନସ୍ତତ୍ତ୍ୱରେ ମାଆ’ ପ୍ରବନ୍ଧ ପ୍ରକାଶିତ ହୋଇଛି ।",
+      "searchAliases": "Shubhanarayan Satpathy Subhanarayan Satapathy",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ebb785a0d8.html",
+          "snapshot": "public/shishu/article_details-ebb785a0d8.html"
+        },
+        {
+          "label": "ଧରିତ୍ରୀ · ଲେଖକଙ୍କ ପ୍ରବନ୍ଧ",
+          "url": "https://www.dharitri.com/a-mother-in-the-mind-of-a-child/"
+        }
+      ],
+      "identity": "Full Satyara Shakti read. Dharitri named essay dated23Sep2022 matches magazine author by exact published contact and Bijipur Brahmagiri Puri signature. Supports newspaper contribution; no inference of profession, qualifications or awards. No verified portrait obtained."
     }
   ],
   "pendingResearch": [

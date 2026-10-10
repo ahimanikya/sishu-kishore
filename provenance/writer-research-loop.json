@@ -3701,7 +3701,8 @@
       "batch": "028",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "b9e1f320"
     },
     {
       "route": "/shishu/writers/8cb35cfb3c53.html",
@@ -3725,7 +3726,8 @@
       "researchUrls": [
         "https://www.vedantimagazine.com/assets/images/mag/2022/2022_07.pdf"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "b9e1f320"
     },
     {
       "route": "/shishu/writers/3546f3743b55.html",
@@ -3750,7 +3752,8 @@
         "https://shishukishora.com/article_details.php?article_cd=17",
         "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "b9e1f320"
     },
     {
       "route": "/shishu/writers/a60e8eb19db8.html",
@@ -3775,7 +3778,8 @@
         "https://www.shishukishora.com/whoweare.php",
         "https://shishukishora.com/article_details.php?article_cd=215"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "b9e1f320"
     },
     {
       "route": "/shishu/writers/fb9b5ecddb4d.html",
@@ -3807,57 +3811,152 @@
         "https://blog.banamalli.org/2018/10/debi-dashabhuja.html",
         "https://storymirror.com/read/oriya/poem/shrt-aasichi/kxhu4yzb"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "b9e1f320"
     },
     {
       "route": "/shishu/writers/fdaa6cee2fde.html",
       "name": "ଶରତ କୁମାରୀ ସ୍ବାଇଁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2b3f842c49.html",
+          "snapshot": "public/shishu/article_details-2b3f842c49.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-1435ee1bf1.html",
+          "snapshot": "public/shishu/article_details-1435ee1bf1.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2885fd48a5.html",
+          "snapshot": "public/shishu/article_details-2885fd48a5.html"
+        }
+      ],
+      "notes": [
+        "Full Olua Karila Ola, Shita Sakala and Balua Je Dayalu Se read. Original May2024 and May2026/Oct2025 signatures have identical published house identifier and Srivihar Patia Bhubaneswar locality despite orthographic variant; safe merge. Odia and English searches found no further verified biography or portrait. No private address repeated in new biography. Literary introduction only."
+      ],
+      "batch": "029",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/d86d9d088679.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/fdaa6cee2fde.html",
+      "researchUrls": [],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/d86d9d088679.html",
       "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
       "contributionCount": 6,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2885fd48a5.html",
+          "snapshot": "public/shishu/article_details-2885fd48a5.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2b3f842c49.html",
+          "snapshot": "public/shishu/article_details-2b3f842c49.html"
+        }
+      ],
+      "notes": [
+        "Full Olua Karila Ola, Shita Sakala and Balua Je Dayalu Se read. Original May2024 and May2026/Oct2025 signatures have identical published house identifier and Srivihar Patia Bhubaneswar locality despite orthographic variant; safe merge. Odia and English searches found no further verified biography or portrait. No private address repeated in new biography. Literary introduction only."
+      ],
+      "batch": "029",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/d6da7034de48.html",
       "name": "ଶିବ ପ୍ରସାଦ ସାହୁ",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4de460f010.html",
+          "snapshot": "public/shishu/article_details-4de460f010.html"
+        }
+      ],
+      "notes": [
+        "Full Nuhein Ke Ekapari read; Gopinathpur Sahi Chandpur Nayagarh signature. Kunikatha July2023 publisher index names same author for Sakala Shakti Amara, but PDF fetch failed and no identity bridge established. Excluded Siba Prasad Dash/Rath and unrelated people. No outside biography or photo assigned. Literary introduction only."
+      ],
+      "batch": "029",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://kadambini.org/public/images/magazine/7766_GistKunikathaJuly2023.pdf"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/ab1399b7121b.html",
       "name": "ଶୁଭନାରାୟଣ ଶତପଥୀ",
       "contributionCount": 5,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ebb785a0d8.html",
+          "snapshot": "public/shishu/article_details-ebb785a0d8.html"
+        },
+        {
+          "label": "ଧରିତ୍ରୀ · ଲେଖକଙ୍କ ପ୍ରବନ୍ଧ",
+          "url": "https://www.dharitri.com/a-mother-in-the-mind-of-a-child/"
+        }
+      ],
+      "notes": [
+        "Full Satyara Shakti read. Dharitri named essay dated23Sep2022 matches magazine author by exact published contact and Bijipur Brahmagiri Puri signature. Supports newspaper contribution; no inference of profession, qualifications or awards. No verified portrait obtained."
+      ],
+      "batch": "029",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.dharitri.com/a-mother-in-the-mind-of-a-child/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/9004964d471e.html",
       "name": "ଶ୍ରୀ କୁଞ୍ଜ ବିହାରୀ ସାହୁ",
       "contributionCount": 6,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e0dbb59ef.html",
+          "snapshot": "public/shishu/article_details-7e0dbb59ef.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d474d9d5fa.html",
+          "snapshot": "public/shishu/article_details-d474d9d5fa.html"
+        }
+      ],
+      "notes": [
+        "Original Shapatha and Bishuba Sankranti signatures share exact published contact and Patrapada Bhubaneswar locality. Same contact also matches named Odisha Sambad Nuabarsha story. Confirmed same writer; retain existing verified portrait and all seven contributions."
+      ],
+      "batch": "029",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/524cb79f75d5.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/9004964d471e.html",
+      "researchUrls": [
+        "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/3d46c86d3e17.html",
@@ -4266,6 +4365,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch028 validated:140/185 checked,45 pending;94 sourced introductions,13 verified portraits,168 canonical profiles. Await GitHub publication. Next pending: ଶରତ କୁମାରୀ ସ୍ବାଇଁ /shishu/writers/fdaa6cee2fde.html",
+  "resume": "Batch029 validated awaiting publication:145/185 checked,40 pending;97 sourced introductions,13 unique verified portraits,166 canonical profiles,19 archived duplicate originals. Next: ଶ୍ରୀ କୁଞ୍ଜବିହାରୀ ସାହୁ /shishu/writers/3d46c86d3e17.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }

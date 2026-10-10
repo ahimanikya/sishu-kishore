@@ -347,6 +347,64 @@
           "archive": "provenance/writer-profile-archive/2026-10-10/fb9b5ecddb4d.html"
         }
       ]
+    },
+    {
+      "slug": "sarat-kumari-swain",
+      "canonical": "/shishu/writers/d86d9d088679.html",
+      "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
+      "members": [
+        {
+          "route": "/shishu/writers/d86d9d088679.html",
+          "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
+          "identityEvidence": "Full Olua Karila Ola, Shita Sakala and Balua Je Dayalu Se read. Original May2024 and May2026/Oct2025 signatures have identical published house identifier and Srivihar Patia Bhubaneswar locality despite orthographic variant; safe merge. Odia and English searches found no further verified biography or portrait. No private address repeated in new biography. Literary introduction only.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-3dd3110b0b.html\">କଣ ସାଙ୍ଗ! ଏଥର  ଖୁସିତ?<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-d403030c2c.html\">ଅଗଷ୍ଟ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-7ed3fb3a75.html\">କ`ଣ ସାଙ୍ଗ! ଏଥର  ଖୁସି ତ?<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-bf55bf225f.html\">ଜୁଲାଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-1435ee1bf1.html\">ଏଇ ଉତ୍କଳ ମାଟି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-02dcbb12fc.html\">ମଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-13ef5b867f.html\">ଶୀତ ସକାଳ ଭାରି  ହେମାଳ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-f0f3e2cb5e.html\">ମାର୍ଚ୍ଚ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-1e21043954.html\">ଵନ୍ଦ  କର ଏ ଲଢେଇ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-01d938c402.html\">ଡିସେମ୍ବର: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-2885fd48a5.html\">ଵଳୁଆ ଯେ ଦୟାଳୁ ସେ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/fdaa6cee2fde.html",
+          "name": "ଶରତ କୁମାରୀ ସ୍ବାଇଁ",
+          "identityEvidence": "Full Olua Karila Ola, Shita Sakala and Balua Je Dayalu Se read. Original May2024 and May2026/Oct2025 signatures have identical published house identifier and Srivihar Patia Bhubaneswar locality despite orthographic variant; safe merge. Odia and English searches found no further verified biography or portrait. No private address repeated in new biography. Literary introduction only.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-2b3f842c49.html\">ଓଲୁଅ କରିଲା ଓଲା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-94f1c04ce6.html\">ମଇ: ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/fdaa6cee2fde.html"
+        }
+      ]
+    },
+    {
+      "slug": "kunjabihari-sahu",
+      "canonical": "/shishu/writers/524cb79f75d5.html",
+      "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "members": [
+        {
+          "route": "/shishu/writers/524cb79f75d5.html",
+          "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
+          "identityEvidence": "Original Shapatha and Bishuba Sankranti signatures share exact published contact and Patrapada Bhubaneswar locality. Same contact also matches named Odisha Sambad Nuabarsha story. Confirmed same writer; retain existing verified portrait and all seven contributions.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-d474d9d5fa.html\">ବିଷୁବ ସଂକରାନ୍ତି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-ed6fe3720c.html\">ଏପ୍ରିଲ: ୨୦୨୬</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/9004964d471e.html",
+          "name": "ଶ୍ରୀ କୁଞ୍ଜ ବିହାରୀ ସାହୁ",
+          "identityEvidence": "Original Shapatha and Bishuba Sankranti signatures share exact published contact and Patrapada Bhubaneswar locality. Same contact also matches named Odisha Sambad Nuabarsha story. Confirmed same writer; retain existing verified portrait and all seven contributions.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-0941fb0d13.html\">ସରିତାର  ଦଶହରା ମଉଜ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-7e0dbb59ef.html\">ଶପଥ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-8a077c1fec.html\">ଅଗଷ୍ଟ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-96d371bc7d.html\">ରଜ ପରବ ଆମ ଗରବ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-179b7ebd4f.html\">ଜୁନ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-f4aad928ce.html\">ମୋ ଜେଜିମା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-744bf97428.html\">ଜୁଲାଇ: ୨୦୨୪</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-882e03dd93.html\">ଏମିତି ପୁଅ ଜଗତେ ସାର<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-bde027047d.html\">ଏପ୍ରିଲ: ୨୦୨୪</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-5cd2ab45c2.html\">ବଣରାଇଜ କଥା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4d80e1b5e4.html\">ଜାନୁୟାରୀ: ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/9004964d471e.html"
+        }
+      ]
     }
   ],
   "archivedLegacyAliases": [
@@ -413,6 +471,14 @@
     {
       "route": "/shishu/writers/1e5e7cc9bd26.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/1e5e7cc9bd26.html"
+    },
+    {
+      "route": "/shishu/writers/1b252b0be5f0.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/1b252b0be5f0.html"
+    },
+    {
+      "route": "/shishu/writers/b8aa61aee95f.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/b8aa61aee95f.html"
     }
   ]
 }
