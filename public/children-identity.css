@@ -30,3 +30,4 @@ body.book-reading:not([data-theme=night]){--reader-ink:var(--kid-ink);--reader-p
 .shishu .ia-main>.ia-issue-intro .ia-button{border-radius:16px;box-shadow:0 3px 0 var(--kid-ink)}
 .shishu .ia-main:has(>.ia-issue-intro) .ia-article-card{border:1px solid #c9dfe9;border-top:5px solid #82bfdf;border-radius:20px}
 .shishu .ia-main:has(>.ia-issue-intro) .ia-article-card:nth-child(3n+2){border-top-color:#f1a68f}.shishu .ia-main:has(>.ia-issue-intro) .ia-article-card:nth-child(3n){border-top-color:#8acdb3}
+.mag-quiet-reader .quiet-content .ia-prose,.mag-quiet-reader .quiet-content .ia-prose p{color:var(--ink)}
