@@ -2518,7 +2518,8 @@
         "https://antarangakalinga.org/ame-odia/",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "492411ee"
     },
     {
       "route": "/shishu/writers/908c7bf20e5b.html",
@@ -2540,7 +2541,8 @@
       "batch": "019",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "492411ee"
     },
     {
       "route": "/shishu/writers/3bd88c1233b5.html",
@@ -2564,7 +2566,8 @@
       "researchUrls": [
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "492411ee"
     },
     {
       "route": "/shishu/writers/845d029c5cb6.html",
@@ -2588,7 +2591,8 @@
         "https://www.shishukishora.com/",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "492411ee"
     },
     {
       "route": "/shishu/writers/a37c63e8d347.html",
@@ -2612,57 +2616,131 @@
         "https://www.shishukishora.com/",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "492411ee"
     },
     {
       "route": "/shishu/writers/ec4c0847b900.html",
       "name": "ନୀଳମଣି ଚାନ୍ଦ",
       "contributionCount": 17,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b8713f0925.html",
+          "snapshot": "public/shishu/article_details-b8713f0925.html"
+        },
+        {
+          "label": "ରଜ ପାଇଁ ଗୀତ · AIMA",
+          "url": "https://aimamedia.org/news/672644/"
+        }
+      ],
+      "notes": [
+        "Original Gothapatna Bhubaneswar signature/contact matches AIMA Raja poem exactly. Read full poems; introduction limited to their themes. 2022 felicitation report names children writer but provides no direct contact/work bridge; no award biography or unidentified group photograph attributed. English namesakes Nilamani Sahoo/Phookan excluded."
+      ],
+      "batch": "020",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://aimamedia.org/news/672644/",
+        "https://odishasambad.in/first-death-anniversary-of-celebrated-pandit-artatran-dash-observed/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/a9b25ea481c8.html",
       "name": "ପଣ୍ଡିତ ମଧୁସୂଦନ ମିଶ୍ର",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4d2710a10e.html",
+          "snapshot": "public/shishu/article_details-4d2710a10e.html"
+        }
+      ],
+      "notes": [
+        "Original Keonjhar signature read. Exact Odia honorific/name/locality and English searches found no identity-backed biography or portrait. Unrelated administrator, academic and legal namesakes excluded. Do not infer profession from Pandit title. Nutrition statements in poem not amplified in introduction."
+      ],
+      "batch": "020",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/7f0fa5526981.html",
       "name": "ପୁରୁଷୋତ୍ତମ ସିଂହ ସାମନ୍ତ",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fcb2dd4e51.html",
+          "snapshot": "public/shishu/article_details-fcb2dd4e51.html"
+        }
+      ],
+      "notes": [
+        "Original Asa Ame Sikhiba signature explicitly teacher, Sribihar Angul. Original Nua article_cd=317 corroborates same occupation/locality. No reliable external books/awards or individual portrait after Odia/English name searches. Public bio omits contact/address."
+      ],
+      "batch": "020",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=317"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/56c301ef5582.html",
       "name": "ପୁଷ୍ପଲତା ପାଣିଗ୍ରାହୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-783.html",
+          "snapshot": "public/shishu/article-783.html"
+        }
+      ],
+      "notes": [
+        "Original October 2026 poem signed Sundargarh. Odia and English searches found same-name Ispat Sahitya Sansad award recipient, but no work/contact/locality-specific bridge beyond region. Award and photo not attributed; poem narrator not treated as biography."
+      ],
+      "batch": "020",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://koshalaprabahalive.com/odisha/sahitya-sansad-2/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/6789b0ad8e74.html",
       "name": "ପୌର୍ଣ୍ଣ ମାସୀ ଦେବୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d60b8314ff.html",
+          "snapshot": "public/shishu/article_details-d60b8314ff.html"
+        }
+      ],
+      "notes": [
+        "Original January 2025 tree poem signed Puri only. Similar closed-spelling Pournamasi Devi contributor article_cd=327 has fuller Puri signature; same broad locality and name alone insufficient to merge this spaced profile. No identity-verified biography or photo in English/Odia searches; unrelated religious and historical namesakes excluded."
+      ],
+      "batch": "020",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=327"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/3463bd958459.html",
@@ -3551,6 +3629,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 019 validated, pending deployment. 95/185 original entries checked; 90 pending. 171 online profiles; 63 canonical introductions. Next: ନୀଳମଣି ଚାନ୍ଦ /shishu/writers/ec4c0847b900.html",
+  "resume": "Batch 020 validated, pending deployment. 100/185 checked; 85 pending. 171 online profiles, 68 canonical introductions. Next: ପୌର୍ଣ୍ଣମାସୀ ଦେବୀ /shishu/writers/3463bd958459.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }
