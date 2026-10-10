@@ -3846,7 +3846,8 @@
       "canonicalRoute": "/shishu/writers/d86d9d088679.html",
       "archivedProfile": "provenance/writer-profile-archive/2026-10-10/fdaa6cee2fde.html",
       "researchUrls": [],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "11ef3942"
     },
     {
       "route": "/shishu/writers/d86d9d088679.html",
@@ -3873,7 +3874,8 @@
       "batch": "029",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "11ef3942"
     },
     {
       "route": "/shishu/writers/d6da7034de48.html",
@@ -3897,7 +3899,8 @@
       "researchUrls": [
         "https://kadambini.org/public/images/magazine/7766_GistKunikathaJuly2023.pdf"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "11ef3942"
     },
     {
       "route": "/shishu/writers/ab1399b7121b.html",
@@ -3925,7 +3928,8 @@
       "researchUrls": [
         "https://www.dharitri.com/a-mother-in-the-mind-of-a-child/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "11ef3942"
     },
     {
       "route": "/shishu/writers/9004964d471e.html",
@@ -3956,57 +3960,197 @@
       "researchUrls": [
         "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "11ef3942"
     },
     {
       "route": "/shishu/writers/3d46c86d3e17.html",
       "name": "ଶ୍ରୀ କୁଞ୍ଜବିହାରୀ ସାହୁ",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-086fa2c541.html",
+          "snapshot": "public/shishu/article_details-086fa2c541.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d474d9d5fa.html",
+          "snapshot": "public/shishu/article_details-d474d9d5fa.html"
+        }
+      ],
+      "notes": [
+        "Holi Khela Bhari Badhia original signature matches existing Bishuba Sankranti and named Odisha Sambad story by exact published contact and Bhubaneswar. Honorific/spacing variant confirmed same writer; existing verified portrait retained. No new outside biographical claim."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/524cb79f75d5.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/3d46c86d3e17.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=282",
+        "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/f5f4adc8a07c.html",
       "name": "ଶ୍ରୀ ଧୀରେନ ମିଶ୍ର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c419969d92.html",
+          "snapshot": "public/shishu/article_details-c419969d92.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-edf4d84d52.html",
+          "snapshot": "public/shishu/article_details-edf4d84d52.html"
+        }
+      ],
+      "notes": [
+        "Full Ukudu Mukudu poem read. Exact published contact after numeral normalization and Shushuda Angul locality match canonical original poem. Honorific variant confirmed. Locality-focused Odia search found magazine writing but no reliable new biography or individual portrait."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/55f62a9245be.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/f5f4adc8a07c.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=176"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/9a1ed5d8cb5a.html",
       "name": "ଶ୍ରୀ ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
       "contributionCount": 6,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-01e9e2f545.html",
+          "snapshot": "public/shishu/article_details-01e9e2f545.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-774.html",
+          "snapshot": "public/shishu/article-774.html"
+        }
+      ],
+      "notes": [
+        "Full Jagata Hitare Gachha Jibana read. Exact published contact and named residence/Shakti Vihar Balipada Cuttack signature match original Maa nka Swagata Pain. Confirmed same writer. Same-name Utkal Prasanga contributor and newspaper items lack contact/work bridge; no books, awards or photo assigned."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/57b2cccb4266.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/9a1ed5d8cb5a.html",
+      "researchUrls": [
+        "https://magazines.odisha.gov.in/utkalprasanga/2022/Sept-Oct/oriyapdf/UP-Sep-Oct_2022.pdf",
+        "https://eodishasamachar.com/?p=87680"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/c34b6668eb6e.html",
       "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
       "contributionCount": 5,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7c62abbd0e.html",
+          "snapshot": "public/shishu/article_details-7c62abbd0e.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b7686dc544.html",
+          "snapshot": "public/shishu/article_details-b7686dc544.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-407229d167.html",
+          "snapshot": "public/shishu/article_details-407229d167.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f1069f43bd.html",
+          "snapshot": "public/shishu/article_details-f1069f43bd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d173e68918.html",
+          "snapshot": "public/shishu/article_details-d173e68918.html"
+        }
+      ],
+      "notes": [
+        "Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/cfba3363dbbe.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/c34b6668eb6e.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=329",
+        "https://koshalaprabahalive.com/odisha/dabi-109/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/b62d26b5f3be.html",
       "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ.",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7c62abbd0e.html",
+          "snapshot": "public/shishu/article_details-7c62abbd0e.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b7686dc544.html",
+          "snapshot": "public/shishu/article_details-b7686dc544.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-407229d167.html",
+          "snapshot": "public/shishu/article_details-407229d167.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f1069f43bd.html",
+          "snapshot": "public/shishu/article_details-f1069f43bd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d173e68918.html",
+          "snapshot": "public/shishu/article_details-d173e68918.html"
+        }
+      ],
+      "notes": [
+        "Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/cfba3363dbbe.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/b62d26b5f3be.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=329",
+        "https://koshalaprabahalive.com/odisha/dabi-109/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/44602b520912.html",
@@ -4365,6 +4509,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch029 validated awaiting publication:145/185 checked,40 pending;97 sourced introductions,13 unique verified portraits,166 canonical profiles,19 archived duplicate originals. Next: ଶ୍ରୀ କୁଞ୍ଜବିହାରୀ ସାହୁ /shishu/writers/3d46c86d3e17.html",
+  "resume": "Batch030 validated awaiting publication:150/185 checked,35 pending;97 sourced introductions,13 unique verified portraits,161 canonical profiles,24 archived duplicate originals. Next: ଶ୍ରୀ ବିଜୟକୁମାର ଛାଟୋଇ /shishu/writers/44602b520912.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }

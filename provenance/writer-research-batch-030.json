@@ -1,0 +1,204 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/3d46c86d3e17.html",
+      "name": "ଶ୍ରୀ କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "contributionCount": 3,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-086fa2c541.html",
+          "snapshot": "public/shishu/article_details-086fa2c541.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d474d9d5fa.html",
+          "snapshot": "public/shishu/article_details-d474d9d5fa.html"
+        }
+      ],
+      "notes": [
+        "Holi Khela Bhari Badhia original signature matches existing Bishuba Sankranti and named Odisha Sambad story by exact published contact and Bhubaneswar. Honorific/spacing variant confirmed same writer; existing verified portrait retained. No new outside biographical claim."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/524cb79f75d5.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/3d46c86d3e17.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=282",
+        "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/f5f4adc8a07c.html",
+      "name": "ଶ୍ରୀ ଧୀରେନ ମିଶ୍ର",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c419969d92.html",
+          "snapshot": "public/shishu/article_details-c419969d92.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-edf4d84d52.html",
+          "snapshot": "public/shishu/article_details-edf4d84d52.html"
+        }
+      ],
+      "notes": [
+        "Full Ukudu Mukudu poem read. Exact published contact after numeral normalization and Shushuda Angul locality match canonical original poem. Honorific variant confirmed. Locality-focused Odia search found magazine writing but no reliable new biography or individual portrait."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/55f62a9245be.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/f5f4adc8a07c.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=176"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/9a1ed5d8cb5a.html",
+      "name": "ଶ୍ରୀ ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+      "contributionCount": 6,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-01e9e2f545.html",
+          "snapshot": "public/shishu/article_details-01e9e2f545.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-774.html",
+          "snapshot": "public/shishu/article-774.html"
+        }
+      ],
+      "notes": [
+        "Full Jagata Hitare Gachha Jibana read. Exact published contact and named residence/Shakti Vihar Balipada Cuttack signature match original Maa nka Swagata Pain. Confirmed same writer. Same-name Utkal Prasanga contributor and newspaper items lack contact/work bridge; no books, awards or photo assigned."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/57b2cccb4266.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/9a1ed5d8cb5a.html",
+      "researchUrls": [
+        "https://magazines.odisha.gov.in/utkalprasanga/2022/Sept-Oct/oriyapdf/UP-Sep-Oct_2022.pdf",
+        "https://eodishasamachar.com/?p=87680"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/c34b6668eb6e.html",
+      "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+      "contributionCount": 5,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7c62abbd0e.html",
+          "snapshot": "public/shishu/article_details-7c62abbd0e.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b7686dc544.html",
+          "snapshot": "public/shishu/article_details-b7686dc544.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-407229d167.html",
+          "snapshot": "public/shishu/article_details-407229d167.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f1069f43bd.html",
+          "snapshot": "public/shishu/article_details-f1069f43bd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d173e68918.html",
+          "snapshot": "public/shishu/article_details-d173e68918.html"
+        }
+      ],
+      "notes": [
+        "Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/cfba3363dbbe.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/c34b6668eb6e.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=329",
+        "https://koshalaprabahalive.com/odisha/dabi-109/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/b62d26b5f3be.html",
+      "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ.",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7c62abbd0e.html",
+          "snapshot": "public/shishu/article_details-7c62abbd0e.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b7686dc544.html",
+          "snapshot": "public/shishu/article_details-b7686dc544.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-407229d167.html",
+          "snapshot": "public/shishu/article_details-407229d167.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f1069f43bd.html",
+          "snapshot": "public/shishu/article_details-f1069f43bd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d173e68918.html",
+          "snapshot": "public/shishu/article_details-d173e68918.html"
+        }
+      ],
+      "notes": [
+        "Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added."
+      ],
+      "batch": "030",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/cfba3363dbbe.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/b62d26b5f3be.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=329",
+        "https://koshalaprabahalive.com/odisha/dabi-109/"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ଧୀରେନ ମିଶ୍ର ଶୁଶୁଡ଼ା",
+    "ଧୀରେନ ମିଶ୍ର ଅନୁଗୋଳ",
+    "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ କବି",
+    "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ ଶକ୍ତି",
+    "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ ଶିକ୍ଷକ",
+    "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ ସତ୍ୟବାଦୀ",
+    "କୁଞ୍ଜବିହାରୀ ସାହୁ ହୋଲି"
+  ],
+  "validation": "Build, delivery, sharing, discovery, ebook and merge checks passed. Complete contribution unions: Kunjabihari10,Dhiren12,Prafulla7,Prabhat10. Unrelated contribution lists unchanged. Browser verified four canonical profiles and Prabhat search without duplicate aliases."
+}

@@ -266,6 +266,15 @@
             "<li><a class=\"contribution-title\" href=\"/shishu/article_details-4a875700e5.html\">ମିଳିମିଶି ରଜ ପାଳିବା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-f36eb7b144.html\">ଜୁନ: ୨୦୨୪</a></small></li>",
             "<li><a class=\"contribution-title\" href=\"/shishu/article_details-072ace6221.html\">ସୁନୁସୁନିଆ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-bde027047d.html\">ଏପ୍ରିଲ: ୨୦୨୪</a></small></li>"
           ]
+        },
+        {
+          "route": "/shishu/writers/f5f4adc8a07c.html",
+          "name": "ଶ୍ରୀ ଧୀରେନ ମିଶ୍ର",
+          "identityEvidence": "Full Ukudu Mukudu poem read. Exact published contact after numeral normalization and Shushuda Angul locality match canonical original poem. Honorific variant confirmed. Locality-focused Odia search found magazine writing but no reliable new biography or individual portrait.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-c419969d92.html\">ଉକୁଡୁ - ମୁକୁଡୁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-b863ef0279.html\">ଫେବୃଆରୀ : ୨୦୨୬</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/f5f4adc8a07c.html"
         }
       ]
     },
@@ -403,6 +412,86 @@
             "<li><a class=\"contribution-title\" href=\"/shishu/article_details-5cd2ab45c2.html\">ବଣରାଇଜ କଥା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4d80e1b5e4.html\">ଜାନୁୟାରୀ: ୨୦୨୪</a></small></li>"
           ],
           "archive": "provenance/writer-profile-archive/2026-10-10/9004964d471e.html"
+        },
+        {
+          "route": "/shishu/writers/3d46c86d3e17.html",
+          "name": "ଶ୍ରୀ କୁଞ୍ଜବିହାରୀ ସାହୁ",
+          "identityEvidence": "Holi Khela Bhari Badhia original signature matches existing Bishuba Sankranti and named Odisha Sambad story by exact published contact and Bhubaneswar. Honorific/spacing variant confirmed same writer; existing verified portrait retained. No new outside biographical claim.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-086fa2c541.html\">ହୋଲି ଖେଳ ଭାରି ବଢ଼ିଆ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-58149d6349.html\">ମାର୍ଚ୍ଚ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-7c5b0d73f0.html\">ନୂଆ ବରଷରେ    ବଣଭୋଜି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-8d69dd7d5f.html\">ଜାନୁୟାରୀ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-2ba1e27824.html\">ଉପହାର<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-80b4c3e98a.html\">ଅକ୍ଟୋବର: ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/3d46c86d3e17.html"
+        }
+      ]
+    },
+    {
+      "slug": "prafulla-kumar-sahu",
+      "canonical": "/shishu/writers/57b2cccb4266.html",
+      "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+      "members": [
+        {
+          "route": "/shishu/writers/57b2cccb4266.html",
+          "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+          "identityEvidence": "Full Jagata Hitare Gachha Jibana read. Exact published contact and named residence/Shakti Vihar Balipada Cuttack signature match original Maa nka Swagata Pain. Confirmed same writer. Same-name Utkal Prasanga contributor and newspaper items lack contact/work bridge; no books, awards or photo assigned.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article-774.html\">ମାଆ ଙ୍କ ସ୍ବାଗତ ପାଇଁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/current_issue.html\">ଅକ୍ଟୋବର: ୨୦୨୬</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/9a1ed5d8cb5a.html",
+          "name": "ଶ୍ରୀ ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+          "identityEvidence": "Full Jagata Hitare Gachha Jibana read. Exact published contact and named residence/Shakti Vihar Balipada Cuttack signature match original Maa nka Swagata Pain. Confirmed same writer. Same-name Utkal Prasanga contributor and newspaper items lack contact/work bridge; no books, awards or photo assigned.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-01e9e2f545.html\">ଜଗତ ହିତରେ ଗଛ ଜୀବନ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-bf55bf225f.html\">ଜୁଲାଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-c8f689993b.html\">ପାଠ ପଢ଼ ପିଲେ ନ କର  ମଠ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-02dcbb12fc.html\">ମଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-7a885977a9.html\">ନ ପାରିବି ତା `  ଙ୍କୁ ଭୁଲି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-f0f3e2cb5e.html\">ମାର୍ଚ୍ଚ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-812ed48bfe.html\">ଅଗଡ଼ ବଗଡ଼ ଝାଇଁକି ଝୁମ୍ପା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-b863ef0279.html\">ଫେବୃଆରୀ : ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-295a4aeb50.html\">ତାଙ୍କୁ ନ ଭୁଲିବେ  କେହି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-01d938c402.html\">ଡିସେମ୍ବର: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-697941e6c3.html\">ବାପା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/9a1ed5d8cb5a.html"
+        }
+      ]
+    },
+    {
+      "slug": "prabhat-chandra-rath",
+      "canonical": "/shishu/writers/cfba3363dbbe.html",
+      "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+      "members": [
+        {
+          "route": "/shishu/writers/cfba3363dbbe.html",
+          "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+          "identityEvidence": "Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-407229d167.html\">ଅଗଷ୍ଟ ପନ୍ଦର<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-8a077c1fec.html\">ଅଗଷ୍ଟ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-aaef2c47b0.html\">ଚିଆଁରେ ଚିଆଁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-58149d6349.html\">ମାର୍ଚ୍ଚ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-10ca22059b.html\">ହିସାବ ଯଦି  ନାହିଁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-618529ceeb.html\">ଡିସେମ୍ବର: ୨୦୨୪</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-366ac811ae.html\">ଚାଇଁ ଖିରିକି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4d80e1b5e4.html\">ଜାନୁୟାରୀ: ୨୦୨୪</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/c34b6668eb6e.html",
+          "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+          "identityEvidence": "Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-7c62abbd0e.html\">ବରଷା ତୁମେ ଆସୁନ କିଆଁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-bf55bf225f.html\">ଜୁଲାଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-3b06bb5a3d.html\">ପାଠପଢ଼ାର ମୂଲ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-ed6fe3720c.html\">ଏପ୍ରିଲ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-ca8b581976.html\">ପାଠପଢ଼ାର ମୂଲ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-b863ef0279.html\">ଫେବୃଆରୀ : ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-f1069f43bd.html\">ଜଟ  କହେ - ସେଲୁନ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-6949643b1a.html\">ମଇ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-d173e68918.html\">ଛିଇକି  ଛିକା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-94f1c04ce6.html\">ମଇ: ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/c34b6668eb6e.html"
+        },
+        {
+          "route": "/shishu/writers/b62d26b5f3be.html",
+          "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ.",
+          "identityEvidence": "Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-b7686dc544.html\">ସାଧବ ବୋହୂ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-3a1a317850.html\">ଅଗଷ୍ଟ: ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/b62d26b5f3be.html"
         }
       ]
     }
@@ -479,6 +568,26 @@
     {
       "route": "/shishu/writers/b8aa61aee95f.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/b8aa61aee95f.html"
+    },
+    {
+      "route": "/shishu/writers/c9ddfeb97254.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/c9ddfeb97254.html"
+    },
+    {
+      "route": "/shishu/writers/571824e85172.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/571824e85172.html"
+    },
+    {
+      "route": "/shishu/writers/8608ef4e6e38.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/8608ef4e6e38.html"
+    },
+    {
+      "route": "/shishu/writers/b7083c8c06e1.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/b7083c8c06e1.html"
+    },
+    {
+      "route": "/shishu/writers/a5a2d893da45.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/a5a2d893da45.html"
     }
   ]
 }

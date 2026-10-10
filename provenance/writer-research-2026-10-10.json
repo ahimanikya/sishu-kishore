@@ -289,9 +289,14 @@
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
           "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e0dbb59ef.html",
           "snapshot": "public/shishu/article_details-7e0dbb59ef.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-086fa2c541.html",
+          "snapshot": "public/shishu/article_details-086fa2c541.html"
         }
       ],
-      "identity": "Exact named byline and matching contact signature connect original magazine poem with Odisha Sambad story. The publisher places the named portrait directly under the author name; image filename also names Kunjabihari Sahu. No personal contact republished in biography. Original Shapatha and Bishuba Sankranti signatures share exact published contact and Patrapada Bhubaneswar locality. Same contact also matches named Odisha Sambad Nuabarsha story. Confirmed same writer; retain existing verified portrait and all seven contributions."
+      "identity": "Exact named byline and matching contact signature connect original magazine poem with Odisha Sambad story. The publisher places the named portrait directly under the author name; image filename also names Kunjabihari Sahu. No personal contact republished in biography. Original Shapatha and Bishuba Sankranti signatures share exact published contact and Patrapada Bhubaneswar locality. Same contact also matches named Odisha Sambad Nuabarsha story. Confirmed same writer; retain existing verified portrait and all seven contributions. Holi Khela Bhari Badhia original signature matches existing Bishuba Sankranti and named Odisha Sambad story by exact published contact and Bhubaneswar. Honorific/spacing variant confirmed same writer; existing verified portrait retained. No new outside biographical claim."
     },
     {
       "slug": "kirtan-sahu",
@@ -1195,7 +1200,7 @@
       "route": "/shishu/writers/55f62a9245be.html",
       "name": "ଧୀରେନ ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ କବିତା",
-      "bio": "ଧୀରେନ ମିଶ୍ରଙ୍କ କବିତାରେ ମଜାଳିଆ ଛନ୍ଦ ଓ ପିଲାଙ୍କ କଳ୍ପନାର ଦୁନିଆ ରହିଛି । ‘ଚମ ଧୁଡୁଧୁଡୁ ଧାକୁଡି’ରେ ଗାଁର ଜୀବନକୁ ନେଇ ହସକଥା ରହିଛି । ‘ଝିଇକି ଝିକା’ କବିତାଟି ତ୍ରିରଙ୍ଗା ପତାକାକୁ ସମ୍ମାନ କରିବାର କଥା କହେ ।",
+      "bio": "ଧୀରେନ ମିଶ୍ରଙ୍କ କବିତାରେ ମଜାଳିଆ ଛନ୍ଦ ଓ ପିଲାଙ୍କ କଳ୍ପନାର ଦୁନିଆ ରହିଛି । ‘ଚମ ଧୁଡୁଧୁଡୁ ଧାକୁଡି’ରେ ଗାଁର ଜୀବନକୁ ନେଇ ହସକଥା ରହିଛି । ‘ଝିଇକି ଝିକା’ କବିତାଟି ତ୍ରିରଙ୍ଗା ପତାକାକୁ ସମ୍ମାନ କରିବାର କଥା କହେ । ‘ଉକୁଡୁ - ମୁକୁଡୁ’ କବିତାରେ ପଶୁପକ୍ଷୀଙ୍କ ଡାକ ଓ ରେଳଗାଡ଼ିର ଶବ୍ଦକୁ ନେଇ ମଜାଳିଆ ଛନ୍ଦ ରହିଛି ।",
       "searchAliases": "Dhiren Mishra Dhiren Kumar Mishra ଧୀରେନ କୁମାର ମିଶ୍ର",
       "portrait": null,
       "sources": [
@@ -1208,9 +1213,14 @@
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
           "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8aa5eed98d.html",
           "snapshot": "public/shishu/article_details-8aa5eed98d.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c419969d92.html",
+          "snapshot": "public/shishu/article_details-c419969d92.html"
         }
       ],
-      "identity": "Original poems edf4d84d52 and 8aa5eed98d have identical published contact after Odia numeral normalization, and the same Shushuda, Angul locality. Full-name and short-name profiles are the same contributor. English and Odia locality searches found no reliable additional biography or individual portrait. Namesake television/technical writers excluded."
+      "identity": "Original poems edf4d84d52 and 8aa5eed98d have identical published contact after Odia numeral normalization, and the same Shushuda, Angul locality. Full-name and short-name profiles are the same contributor. English and Odia locality searches found no reliable additional biography or individual portrait. Namesake television/technical writers excluded. Full Ukudu Mukudu poem read. Exact published contact after numeral normalization and Shushuda Angul locality match canonical original poem. Honorific variant confirmed. Locality-focused Odia search found magazine writing but no reliable new biography or individual portrait."
     },
     {
       "slug": "nagendra-nath-pattanaik",
@@ -1425,7 +1435,7 @@
       "route": "/shishu/writers/57b2cccb4266.html",
       "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
-      "bio": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁଙ୍କ ‘ମାଆ ଙ୍କ ସ୍ବାଗତ ପାଇଁ’ କବିତାରେ ଶରତ ଓ ଦଶହରାର ଆନନ୍ଦ ରହିଛି । କାଶତଣ୍ଡୀ, ସଜା ମଣ୍ଡପ ଓ ପରିବାର ସହ ପୂଜା ବୁଲିବାର ଛବି ମାଧ୍ୟମରେ ମିଳିମିଶି ପର୍ବ ପାଳିବାର କଥା ମିଳେ ।",
+      "bio": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁଙ୍କ ‘ମାଆ ଙ୍କ ସ୍ବାଗତ ପାଇଁ’ କବିତାରେ ଶରତ ଓ ଦଶହରାର ଆନନ୍ଦ ରହିଛି । କାଶତଣ୍ଡୀ, ସଜା ମଣ୍ଡପ ଓ ପରିବାର ସହ ପୂଜା ବୁଲିବାର ଛବି ମାଧ୍ୟମରେ ମିଳିମିଶି ପର୍ବ ପାଳିବାର କଥା ମିଳେ । ‘ଜଗତ ହିତରେ ଗଛ ଜୀବନ’ କବିତାରେ ଗଛର ଉପକାର ମନେ ପକାଇ ଚାରା ଲଗାଇବା ଓ ଯତ୍ନ ନେବାର କଥା କହିଛନ୍ତି ।",
       "searchAliases": "Prafulla Kumar Sahu Prafulla Kumar Sahoo",
       "portrait": null,
       "sources": [
@@ -1433,9 +1443,14 @@
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
           "url": "https://sishu.kabitawithoutborders.org/shishu/article-774.html",
           "snapshot": "public/shishu/article-774.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-01e9e2f545.html",
+          "snapshot": "public/shishu/article_details-01e9e2f545.html"
         }
       ],
-      "identity": "Original Shakti Vihar/Balipada Mahanga Cuttack signature. Local news names a Mahanga poet at events but no specific work/contact bridge or useful biography verified. Name alone insufficient for retailer author or individual/group photograph attribution; original poem introduction only."
+      "identity": "Original Shakti Vihar/Balipada Mahanga Cuttack signature. Local news names a Mahanga poet at events but no specific work/contact bridge or useful biography verified. Name alone insufficient for retailer author or individual/group photograph attribution; original poem introduction only. Full Jagata Hitare Gachha Jibana read. Exact published contact and named residence/Shakti Vihar Balipada Cuttack signature match original Maa nka Swagata Pain. Confirmed same writer. Same-name Utkal Prasanga contributor and newspaper items lack contact/work bridge; no books, awards or photo assigned."
     },
     {
       "slug": "professor-rekha-das",
@@ -1476,7 +1491,7 @@
       "route": "/shishu/writers/cfba3363dbbe.html",
       "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
-      "bio": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷକ । ତାଙ୍କ ‘ଅଗଷ୍ଟ ପନ୍ଦର’ କବିତାରେ ଜାତୀୟ ପତାକା ଓ ସ୍ୱାଧୀନତା ଦିବସର ଆନନ୍ଦ ରହିଛି ।",
+      "bio": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷକ । ତାଙ୍କ ‘ଅଗଷ୍ଟ ପନ୍ଦର’ କବିତାରେ ଜାତୀୟ ପତାକା ଓ ସ୍ୱାଧୀନତା ଦିବସର ଆନନ୍ଦ ରହିଛି । ‘ବରଷା ତୁମେ ଆସୁନ କିଆଁ’ କବିତାରେ ଖରାରେ ଶୁଖିଯାଇଥିବା ମାଟି ଓ ଜୀବଜନ୍ତୁଙ୍କ ପାଇଁ ବରଷାକୁ ଡାକିଛନ୍ତି ।",
       "searchAliases": "Prabhat Chandra Rath",
       "portrait": null,
       "sources": [
@@ -1484,9 +1499,29 @@
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
           "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-407229d167.html",
           "snapshot": "public/shishu/article_details-407229d167.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7c62abbd0e.html",
+          "snapshot": "public/shishu/article_details-7c62abbd0e.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b7686dc544.html",
+          "snapshot": "public/shishu/article_details-b7686dc544.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f1069f43bd.html",
+          "snapshot": "public/shishu/article_details-f1069f43bd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d173e68918.html",
+          "snapshot": "public/shishu/article_details-d173e68918.html"
         }
       ],
-      "identity": "Original signature explicitly retired teacher, Satyabadi. Local news corroborates name, locality and occupation. Balangir teacher namesake excluded. Honorific variants c34b6668eb6e and b62d26b5f3be require complete contribution review before a merge; retained pending. No verified photograph."
+      "identity": "Original signature explicitly retired teacher, Satyabadi. Local news corroborates name, locality and occupation. Balangir teacher namesake excluded. Honorific variants c34b6668eb6e and b62d26b5f3be require complete contribution review before a merge; retained pending. No verified photograph. Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added."
     },
     {
       "slug": "prabhat-nalini-sahu",
