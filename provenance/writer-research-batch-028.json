@@ -1,0 +1,144 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/c213a7f6b400.html",
+      "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ",
+      "contributionCount": 3,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-97c34aa887.html",
+          "snapshot": "public/shishu/article_details-97c34aa887.html"
+        }
+      ],
+      "notes": [
+        "Full Nijaghara Sukha and Kancha Lanka poems read; Sudarshan Nagar Puri signature. Odia/English name searches did not establish external biography or portrait. Dancer, scholarship and other namesakes excluded. Medical claims in chilli poem not amplified. Literary introduction only."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/8cb35cfb3c53.html",
+      "name": "ଲୀଳାବତୀ ପରିଡ଼ା",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e25d1f3610.html",
+          "snapshot": "public/shishu/article_details-e25d1f3610.html"
+        }
+      ],
+      "notes": [
+        "Full Shita Sakala read; Kutunia/Babandha/Hindol Road Dhenkanal signature. Exact Odia and English searches found Vedanti July2022 same-name contributor; PDF fetch406 prevented identity comparison. No outside biography, photo or publication claim assigned. Literary introduction only."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.vedantimagazine.com/assets/images/mag/2022/2022_07.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/3546f3743b55.html",
+      "name": "ଵୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "contributionCount": 1,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f2abc3a750.html",
+          "snapshot": "public/shishu/article_details-f2abc3a750.html"
+        }
+      ],
+      "notes": [
+        "Full Kun Mun Chadhei read. Nilachakra Nagar Puri matches canonical Birendra interview; likely orthographic duplicate, but no contact or exact-work bridge established this batch. Keep separate pending stronger corroboration; no invented biography or new portrait. Interview direct fetch failed but indexed locality confirmed."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=17",
+        "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/a60e8eb19db8.html",
+      "name": "ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "contributionCount": 2,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-df9a1b8730.html",
+          "snapshot": "public/shishu/article_details-df9a1b8730.html"
+        }
+      ],
+      "notes": [
+        "Both full poems read. No distinguishing locality/contact signature. Original academy list has same name but insufficient identity bridge for membership claim. No external biography or portrait assigned. Literary introduction only."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/whoweare.php",
+        "https://shishukishora.com/article_details.php?article_cd=215"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/fb9b5ecddb4d.html",
+      "name": "ଶରତ କୁମାର ଦାସ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-5a8b8cc029.html",
+          "snapshot": "public/shishu/article_details-5a8b8cc029.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bb35305be2.html",
+          "snapshot": "public/shishu/article_details-bb35305be2.html"
+        }
+      ],
+      "notes": [
+        "Original Sarage Uinchhi Janha and Ati Apanara Kapila Aja signatures share exact published contact after Odia-digit normalization, Political Science department and Barbil College Keonjhar. Banamalli named author signature independently confirms institution. Same writer, safe merge; preserve original bylines."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/bd817933d592.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/fb9b5ecddb4d.html",
+      "researchUrls": [
+        "https://blog.banamalli.org/2018/10/debi-dashabhuja.html",
+        "https://storymirror.com/read/oriya/poem/shrt-aasichi/kxhu4yzb"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ କବିତା",
+    "Lakshmipriya Das writer Puri",
+    "ଲୀଳାବତୀ ପରିଡ଼ା କୁଟୁଣିଆ",
+    "Lilabati Parida writer",
+    "ଵୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+    "Birendra Mohanty Nilachakra",
+    "ଶକୁନ୍ତଳା ମିଶ୍ର ଶରତ ଆସେ",
+    "ଶରତ କୁମାର ଦାସ ବଡବିଲ"
+  ],
+  "validation": "Build, delivery, sharing, discovery, ebook and merge checks passed. Unrelated contribution lists unchanged; canonical Sarat preserves both original contributions. Browser checked all four updated profiles and Lilabati English-alias search."
+}

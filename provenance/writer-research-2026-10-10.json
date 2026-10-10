@@ -196,7 +196,7 @@
       "route": "/shishu/writers/bd817933d592.html",
       "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
       "role": "କବି ଓ ଅଧ୍ୟାପକ",
-      "bio": "ଶରତ କୁମାର ଦାସ ଓଡ଼ିଆରେ କବିତା ଲେଖନ୍ତି ଏବଂ ବଡ଼ବିଲ ମହାବିଦ୍ୟାଳୟର ରାଜନୀତି ବିଜ୍ଞାନ ବିଭାଗରେ ଅଧ୍ୟାପନା କରିଛନ୍ତି । ତାଙ୍କର ଶିଶୁ କବିତା ‘ସରଗେ ଉଇଁଛି ଜହ୍ନ’ରେ ଜହ୍ନକୁ ନେଇ କୁନି ପିଲାର କୌତୂହଳ ଓ ମାଆ ସହ ତାହାର କଥାବାର୍ତ୍ତା ରହିଛି ।",
+      "bio": "ଶରତ କୁମାର ଦାସ ଓଡ଼ିଆରେ କବିତା ଲେଖନ୍ତି ଏବଂ ବଡ଼ବିଲ ମହାବିଦ୍ୟାଳୟର ରାଜନୀତି ବିଜ୍ଞାନ ବିଭାଗରେ ଅଧ୍ୟାପନା କରିଛନ୍ତି । ତାଙ୍କର ଶିଶୁ କବିତା ‘ସରଗେ ଉଇଁଛି ଜହ୍ନ’ରେ ଜହ୍ନକୁ ନେଇ କୁନି ପିଲାର କୌତୂହଳ ଓ ମାଆ ସହ ତାହାର କଥାବାର୍ତ୍ତା ରହିଛି । ‘ଅତି ଆପଣାର କପିଳା ଅଜା’ କବିତାରେ ଗାଁର ଜଣେ ପ୍ରିୟ ଅଜା ପିଲାଙ୍କୁ ମିଳିମିଶି ରହିବାକୁ ବୁଝାନ୍ତି ।",
       "searchAliases": "Sarat Kumar Das Sharata Kumar Das",
       "portrait": null,
       "sources": [
@@ -207,9 +207,14 @@
         {
           "label": "ବଣମଲ୍ଲୀ · ଲେଖକଙ୍କ କବିତା ଓ ପରିଚୟ",
           "url": "https://blog.banamalli.org/2018/10/debi-dashabhuja.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bb35305be2.html",
+          "snapshot": "public/shishu/article_details-bb35305be2.html"
         }
       ],
-      "identity": "Original October 2025 article signature and 2018 Banamalli signature both identify the writer with Political Science at Barbil College, Kendujhar. Past-tense teaching wording avoids claiming current employment."
+      "identity": "Original October 2025 article signature and 2018 Banamalli signature both identify the writer with Political Science at Barbil College, Kendujhar. Past-tense teaching wording avoids claiming current employment. Original Sarage Uinchhi Janha and Ati Apanara Kapila Aja signatures share exact published contact after Odia-digit normalization, Political Science department and Barbil College Keonjhar. Banamalli named author signature independently confirms institution. Same writer, safe merge; preserve original bylines."
     },
     {
       "slug": "ananta-kumar-senapati",
@@ -1797,6 +1802,57 @@
       ],
       "identity": "Original birthday biography advt248 matches original poem by exact published contact and Baunshiapada Nayagarh. Three book titles explicitly named. Distinguished from historical Lakshmidhar Nayak (1913–2004), Adisya author and scientific-officer namesakes. Named page photograph downloaded and visually checked: adult man, short black hair, blue checked shirt; Cartoon Natural portrait completed and visually compared with source; source/prompt/versioned files preserved.",
       "sourcePortrait": "/portraits/lakshmidhar-nayak-source-v1.jpg"
+    },
+    {
+      "slug": "c213a7f6b400",
+      "route": "/shishu/writers/c213a7f6b400.html",
+      "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସଙ୍କ ‘ନିଜଘର ସୁଖ କାହିଁ ନମିଳେ’ କବିତାରେ ଗୁଣ୍ଡୁଚି ଓ ବାୟା ଚଢ଼େଇର ମିଠା କଥାବାର୍ତ୍ତା ରହିଛି । ନିଜ ଘର ପ୍ରତି ଆଦର ଓ ପରସ୍ପରକୁ ଆପଣାର କରିବାର ଭାବ କବିତାଟିରେ ଫୁଟିଉଠେ ।",
+      "searchAliases": "Lakshmipriya Das Laxmipriya Das",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-97c34aa887.html",
+          "snapshot": "public/shishu/article_details-97c34aa887.html"
+        }
+      ],
+      "identity": "Full Nijaghara Sukha and Kancha Lanka poems read; Sudarshan Nagar Puri signature. Odia/English name searches did not establish external biography or portrait. Dancer, scholarship and other namesakes excluded. Medical claims in chilli poem not amplified. Literary introduction only."
+    },
+    {
+      "slug": "8cb35cfb3c53",
+      "route": "/shishu/writers/8cb35cfb3c53.html",
+      "name": "ଲୀଳାବତୀ ପରିଡ଼ା",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଲୀଳାବତୀ ପରିଡ଼ାଙ୍କ ‘ଶୀତ ସକାଳ’ କବିତାରେ ଘରର ସକାଳ, ପାଠପଢ଼ା ଓ ପିଲାଙ୍କ ଖେଳର ଛବି ମିଳେ । କଅଁଳ ଖରାରେ ପାରାଙ୍କୁ ଚାଉଳ ଖୁଆଇବା ଓ ସେମାନଙ୍କ ଉଡ଼ିଯିବା ଦୃଶ୍ୟ କବିତାଟିକୁ ମଜାଳିଆ କରିଛି ।",
+      "searchAliases": "Lilabati Parida Leelabati Parida",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e25d1f3610.html",
+          "snapshot": "public/shishu/article_details-e25d1f3610.html"
+        }
+      ],
+      "identity": "Full Shita Sakala read; Kutunia/Babandha/Hindol Road Dhenkanal signature. Exact Odia and English searches found Vedanti July2022 same-name contributor; PDF fetch406 prevented identity comparison. No outside biography, photo or publication claim assigned. Literary introduction only."
+    },
+    {
+      "slug": "a60e8eb19db8",
+      "route": "/shishu/writers/a60e8eb19db8.html",
+      "name": "ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଶକୁନ୍ତଳା ମିଶ୍ରଙ୍କ କବିତାରେ ଋତୁ, ପର୍ବ ଓ ପକ୍ଷୀଙ୍କ କଥା ମିଳେ । ‘ଶରତ ଆସେ’ କବିତା ଶରତର ଫୁଲ ଓ ପୂଜାର ଆନନ୍ଦକୁ ମନେ ପକାଏ । ‘ପକ୍ଷୀ ଆମର ପ୍ରିୟ’ କବିତାରେ ଅନ୍ଧବିଶ୍ୱାସ ଛାଡ଼ି ପକ୍ଷୀଙ୍କୁ ଭଲପାଇବା ଓ ସୁରକ୍ଷା ଦେବାର କଥା ରହିଛି ।",
+      "searchAliases": "Shakuntala Mishra Sakuntala Mishra",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-df9a1b8730.html",
+          "snapshot": "public/shishu/article_details-df9a1b8730.html"
+        }
+      ],
+      "identity": "Both full poems read. No distinguishing locality/contact signature. Original academy list has same name but insufficient identity bridge for membership claim. No external biography or portrait assigned. Literary introduction only."
     }
   ],
   "pendingResearch": [

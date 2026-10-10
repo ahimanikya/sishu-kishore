@@ -323,6 +323,30 @@
           "archive": "provenance/writer-profile-archive/2026-10-10/ecafce851a0c.html"
         }
       ]
+    },
+    {
+      "slug": "sarat-kumar-das",
+      "canonical": "/shishu/writers/bd817933d592.html",
+      "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+      "members": [
+        {
+          "route": "/shishu/writers/bd817933d592.html",
+          "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+          "identityEvidence": "Original Sarage Uinchhi Janha and Ati Apanara Kapila Aja signatures share exact published contact after Odia-digit normalization, Political Science department and Barbil College Keonjhar. Banamalli named author signature independently confirms institution. Same writer, safe merge; preserve original bylines.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-5a8b8cc029.html\">ସରଗେ  ଉଇଁଛି ଜହ୍ନ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/fb9b5ecddb4d.html",
+          "name": "ଶରତ କୁମାର ଦାସ",
+          "identityEvidence": "Original Sarage Uinchhi Janha and Ati Apanara Kapila Aja signatures share exact published contact after Odia-digit normalization, Political Science department and Barbil College Keonjhar. Banamalli named author signature independently confirms institution. Same writer, safe merge; preserve original bylines.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-bb35305be2.html\">ଅତି ଆପଣାର କପିଳା ଅଜା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-01d938c402.html\">ଡିସେମ୍ବର: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/fb9b5ecddb4d.html"
+        }
+      ]
     }
   ],
   "archivedLegacyAliases": [
@@ -385,6 +409,10 @@
     {
       "route": "/shishu/writers/b1c6546931ea.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/b1c6546931ea.html"
+    },
+    {
+      "route": "/shishu/writers/1e5e7cc9bd26.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/1e5e7cc9bd26.html"
     }
   ]
 }

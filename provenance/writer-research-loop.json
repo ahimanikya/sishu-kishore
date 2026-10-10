@@ -3571,7 +3571,8 @@
       "researchUrls": [
         "https://odisha.live/2018/11/29/book-review-pashupakhira-kahani/"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "72aca325"
     },
     {
       "route": "/shishu/writers/5721f5a8f48e.html",
@@ -3598,7 +3599,8 @@
         "https://www.nbtindia.gov.in/writereaddata/attachment/monday-march-3-202512-20-00-pmodia-catalouge-2025.pdf",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "72aca325"
     },
     {
       "route": "/shishu/writers/fba8a7194ce5.html",
@@ -3620,7 +3622,8 @@
       "batch": "027",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "72aca325"
     },
     {
       "route": "/shishu/writers/262e7a578d40.html",
@@ -3643,7 +3646,8 @@
       "researchUrls": [
         "https://shishukishora.com/book_details.php?book_cd=54"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "72aca325"
     },
     {
       "route": "/shishu/writers/5642d255a831.html",
@@ -3674,57 +3678,136 @@
         "https://odia.pratilipi.com/story/kholajharka-by-lakshmidhar-nayak-qk6hrbmk0hmr",
         "https://www.ameodia.com/odia-author/laxmidhara-nayak/"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "72aca325"
     },
     {
       "route": "/shishu/writers/c213a7f6b400.html",
       "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-97c34aa887.html",
+          "snapshot": "public/shishu/article_details-97c34aa887.html"
+        }
+      ],
+      "notes": [
+        "Full Nijaghara Sukha and Kancha Lanka poems read; Sudarshan Nagar Puri signature. Odia/English name searches did not establish external biography or portrait. Dancer, scholarship and other namesakes excluded. Medical claims in chilli poem not amplified. Literary introduction only."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/8cb35cfb3c53.html",
       "name": "ଲୀଳାବତୀ ପରିଡ଼ା",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e25d1f3610.html",
+          "snapshot": "public/shishu/article_details-e25d1f3610.html"
+        }
+      ],
+      "notes": [
+        "Full Shita Sakala read; Kutunia/Babandha/Hindol Road Dhenkanal signature. Exact Odia and English searches found Vedanti July2022 same-name contributor; PDF fetch406 prevented identity comparison. No outside biography, photo or publication claim assigned. Literary introduction only."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.vedantimagazine.com/assets/images/mag/2022/2022_07.pdf"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/3546f3743b55.html",
       "name": "ଵୀରେନ୍ଦ୍ର ମହାନ୍ତି",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f2abc3a750.html",
+          "snapshot": "public/shishu/article_details-f2abc3a750.html"
+        }
+      ],
+      "notes": [
+        "Full Kun Mun Chadhei read. Nilachakra Nagar Puri matches canonical Birendra interview; likely orthographic duplicate, but no contact or exact-work bridge established this batch. Keep separate pending stronger corroboration; no invented biography or new portrait. Interview direct fetch failed but indexed locality confirmed."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=17",
+        "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/a60e8eb19db8.html",
       "name": "ଶକୁନ୍ତଳା ମିଶ୍ର",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-df9a1b8730.html",
+          "snapshot": "public/shishu/article_details-df9a1b8730.html"
+        }
+      ],
+      "notes": [
+        "Both full poems read. No distinguishing locality/contact signature. Original academy list has same name but insufficient identity bridge for membership claim. No external biography or portrait assigned. Literary introduction only."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/whoweare.php",
+        "https://shishukishora.com/article_details.php?article_cd=215"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/fb9b5ecddb4d.html",
       "name": "ଶରତ କୁମାର ଦାସ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-5a8b8cc029.html",
+          "snapshot": "public/shishu/article_details-5a8b8cc029.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bb35305be2.html",
+          "snapshot": "public/shishu/article_details-bb35305be2.html"
+        }
+      ],
+      "notes": [
+        "Original Sarage Uinchhi Janha and Ati Apanara Kapila Aja signatures share exact published contact after Odia-digit normalization, Political Science department and Barbil College Keonjhar. Banamalli named author signature independently confirms institution. Same writer, safe merge; preserve original bylines."
+      ],
+      "batch": "028",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/bd817933d592.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/fb9b5ecddb4d.html",
+      "researchUrls": [
+        "https://blog.banamalli.org/2018/10/debi-dashabhuja.html",
+        "https://storymirror.com/read/oriya/poem/shrt-aasichi/kxhu4yzb"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/fdaa6cee2fde.html",
@@ -4183,6 +4266,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 027 validated: 135/185 checked; 50 pending. Four introductions and one verified portrait; commit/publication pending. Next: ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ /shishu/writers/c213a7f6b400.html",
+  "resume": "Batch028 validated:140/185 checked,45 pending;94 sourced introductions,13 verified portraits,168 canonical profiles. Await GitHub publication. Next pending: ଶରତ କୁମାରୀ ସ୍ବାଇଁ /shishu/writers/fdaa6cee2fde.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }
