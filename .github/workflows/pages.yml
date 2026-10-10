@@ -23,6 +23,7 @@ jobs:
           node-version: '24.15.0'
       - run: npm --prefix backend ci --no-fund --no-audit
       - run: npm --prefix backend run build
+      - run: npm test
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

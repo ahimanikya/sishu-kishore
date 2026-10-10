@@ -57,5 +57,5 @@ Completed: static image/accessibility checks, ebook source-order and transcripti
 - [ ] Human: test story discovery, reading and exit with children and a parent/teacher.
 - [ ] Owner: register the Firebase App Check provider, accept its Google Cloud terms and supply the production reCAPTCHA Enterprise site key. No terms were accepted by the agent.
 - [ ] Technical follow-up after registration: set `appCheckConfig`, deploy, inspect valid-request metrics, test authenticated actions, then enable enforcement. App Check is NOT active today.
-- [ ] Owner: verify or grant access to the Search Console URL-prefix property. The signed-in account currently has no access. Submit `/sitemap.xml` after access is available. Public robots/sitemap/structured data already work.
+- [ ] Deferred by the user until the domain move: Search Console verification and sitemap submission. Do not submit or request indexing now. Once the final domain is live, update canonical/social URLs, sitemap and discovery files, then verify ownership and submit when authorized. Existing public discovery files remain available; deferring submission does not prevent organic crawling.
 - [ ] Human/field: real screen-reader testing and slower physical phones; Core Web Vitals need real traffic and are not established by static checks.

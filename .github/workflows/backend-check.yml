@@ -1,9 +1,9 @@
 name: Check editorial privacy
 on:
   push:
-    paths: ['backend/**', 'scripts/sync-publications.mjs', '.github/workflows/backend-check.yml']
+    paths: ['backend/**', 'scripts/**', 'tests/**', '.github/workflows/backend-check.yml']
   pull_request:
-    paths: ['backend/**', 'scripts/sync-publications.mjs', '.github/workflows/backend-check.yml']
+    paths: ['backend/**', 'scripts/**', 'tests/**', '.github/workflows/backend-check.yml']
 permissions:
   contents: read
 jobs:

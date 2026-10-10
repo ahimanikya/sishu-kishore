@@ -29,8 +29,8 @@
       "needs": "After registration, enable client integration, verify valid request metrics and test sign-in/likes/submissions before enforcement"
     },
     {
-      "task": "Search Console ownership",
-      "needs": "Current signed-in account has no access to URL-prefix property; owner verifies or grants access, then submit sitemap"
+      "task": "Search Console verification and sitemap submission — after domain move",
+      "needs": "User deferred search-engine submission until the domain move. Do not submit or request indexing now. After the final domain is live, update canonical URLs, social URLs, sitemap and discovery files, then verify Search Console ownership and submit only when authorized."
     },
     {
       "task": "Real-device accessibility and field performance",
@@ -38,12 +38,58 @@
     }
   ],
   "verification": {
-    "backend_security_tests": 36,
+    "backend_security_tests": 39,
     "page_sound_tests": 3,
     "mobile_ebook_width": 390,
     "mobile_ebook_no_horizontal_overflow": true,
     "unreviewed_text_falls_back_to_scan": true,
     "night_mode_checked": true,
-    "static_site_build": "passed"
+    "static_site_build": "passed",
+    "publication_regression_tests": 3
+  },
+  "release_review": {
+    "date": "2026-10-10",
+    "decision": "Three release blockers repaired and tested locally; deployment verification pending. Human acceptance and deferred tasks remain.",
+    "findings": [
+      {
+        "priority": "P1",
+        "title": "Approved publishing fails in production",
+        "evidence": "GitHub run 38014416374 fails at sync-publications.mjs:9 with HTTP 403. Live publication requests: pageSize=100 returns 200; pageSize=1000 returns 403. Public rules cap queries at 100.",
+        "fix": "Use bounded pagination consistent with rules and test the real publishing workflow.",
+        "status": "fixed locally; deployment verification pending"
+      },
+      {
+        "priority": "P1",
+        "title": "Withdrawn publications remain publicly readable",
+        "evidence": "Isolated emulator reproduces successful anonymous get of a publication with state=withdrawn. firestore.rules:55 allows all gets.",
+        "fix": "Separate internal withdrawal records from public output or require published state for public reads; update queries and publishing/withdrawal handling together.",
+        "status": "fixed locally; deployment verification pending"
+      },
+      {
+        "priority": "P1",
+        "title": "New approved articles bypass the reader and discovery catalogs",
+        "evidence": "Full isolated publication fixture builds successfully, but generated article lacks readingIssue/article-tools/edition-reader and is absent from edition-reader.json. Article text index remains 686 after adding a new article.",
+        "fix": "Generate the same article template and rebuild issue/reader/discovery catalogs from approved publications; add an integration regression test.",
+        "status": "fixed locally; deployment verification pending"
+      }
+    ],
+    "passed": [
+      "Existing site build and source checks",
+      "Prior unchanged backend suite: 36 passing tests",
+      "Live anonymous likes/comments panel loads without console errors",
+      "No broken local article-navigation routes found across 1260 source pages",
+      "Key live layouts checked at 320px; writer page had transient loading overflow but settled without overflow"
+    ],
+    "not_verified": [
+      "Production sign-in, like/unlike, comment submission, moderation and withdrawal end-to-end",
+      "Real child usability, screen-reader use, slow-device field performance"
+    ],
+    "review_safety": "No live comments, likes or submissions created; fixtures used isolated filesystem and emulator. No source implementation changes during review. Search-engine submission remains deferred until domain move.",
+    "fix_verification": [
+      "39 backend tests passed, including real REST pagination over 103 records and withdrawn-read denial",
+      "6 root tests passed, including complete article publish/build/withdraw round-trip",
+      "Isolated generated article checked in browser: reading tools, edition sidebar, reader, paragraph spacing and reader exit",
+      "Full static delivery, sharing, discovery and ebook checks passed"
+    ]
   }
 }

@@ -6,6 +6,7 @@ test('approved publishing escapes content, preserves source, and withdraws gener
   for(const p of ['scripts','provenance','public/shishu','public/art','public/editorial'])fs.mkdirSync(path.join(dir,p),{recursive:true});
   fs.writeFileSync(path.join(dir,'scripts/site.json'),JSON.stringify({projectId:'demo',prefix:'/shishu',origin:'https://example.test',name:'Magazine',fallback:'/art/cover.jpg'}));
   for(const file of ['index.html','current_issue.html','writers.html'])fs.writeFileSync(path.join(dir,'public/shishu',file),'<html><head></head><body><header>Magazine</header><main>Original source text</main><footer>Footer</footer></body></html>');
+  fs.writeFileSync(path.join(dir,'public/edition-reader.json'),JSON.stringify({'/shishu/current_issue.html':{title:'Issue',items:[]}}));
   fs.writeFileSync(path.join(dir,'public/art/cover.jpg'),'test');fs.writeFileSync(path.join(dir,'public/editorial/choices.json'),'{}');
   const d={id:'abcdefghijklmnopqrst',kind:'article',title:'<script>attack</script>',body:'Line one\nLine two <img src=x>',byline:'Writer',issue:'/shishu/current_issue.html',page:'',image:'/art/cover.jpg',state:'published',publishedAt:'2026-10-09T00:00:00Z'};
   const fixture=path.join(dir,'fixture.json');const run=records=>{fs.writeFileSync(fixture,JSON.stringify(records));return spawnSync(process.execPath,[script],{cwd:dir,env:{...process.env,NODE_ENV:'test',PUBLICATIONS_FIXTURE:fixture},encoding:'utf8'});};

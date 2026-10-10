@@ -34,6 +34,9 @@ def setmeta(html,key,value):
  return re.sub(pattern,lambda m:tag,html,flags=re.I) if re.search(pattern,html,re.I) else html.replace('</head>',tag+'</head>')
 issues=json.loads((ROOT/'edition-reader.json').read_text()); articles={i['href']:{**i,'issue':k,'edition':v['title']} for k,v in issues.items() for i in v['items']}
 books={b['landing']:b for f in (ROOT/'shishu/books').glob('*/book.json') for b in [json.loads(f.read_text())]}
+# Remove stale text exports when an approved article is withdrawn.
+for stale in (ROOT/'reading-text').glob('*.txt'):
+ if stale.stem not in {Path(route).stem for route in articles}:stale.unlink()
 urls=[]; records=[]; article_count=0
 for path in sorted(ROOT.rglob('*.html')):
  html=path.read_text();tree=Tree(html);nodes=list(tree.root.all());route='/'+path.relative_to(ROOT).as_posix();actual=route[:-10] if route.endswith('index.html') else route

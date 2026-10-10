@@ -22,6 +22,7 @@ jobs:
         with:
           node-version: '24.15.0'
       - run: node scripts/sync-publications.mjs
+      - run: npm run build
       - id: changes
         shell: bash
         run: |
@@ -35,14 +36,9 @@ jobs:
             git push
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
-      - if: steps.changes.outputs.changed == 'true'
-        run: npm run build
-      - if: steps.changes.outputs.changed == 'true'
-        uses: actions/configure-pages@v5
-      - if: steps.changes.outputs.changed == 'true'
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
-      - if: steps.changes.outputs.changed == 'true'
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4

@@ -52,8 +52,8 @@ service cloud.firestore {
    && d.sourceId is string && d.sourceId.size()<=100 && d.updatedAt==request.time;}
   match /drafts/{id} {allow read,delete:if editor(); allow create,update:if editor() && validDraft(request.resource.data);}
   match /publications/{id} {
-   allow get: if true;
-   allow list: if editor() || (request.query.limit != null && request.query.limit<=100);
+   allow get: if editor() || resource.data.state == 'published';
+   allow list: if editor() || (request.query.limit != null && request.query.limit<=100 && resource.data.state == 'published');
    allow create,update: if editor()
     && request.resource.data.keys().hasAll(['kind','title','body','byline','issue','page','image','state','publishedAt'])
     && request.resource.data.keys().hasOnly(['kind','title','body','byline','issue','page','image','state','publishedAt'])

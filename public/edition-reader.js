@@ -64,7 +64,7 @@
  }
  document.querySelectorAll('[data-quiet-reader]').forEach(button=>button.addEventListener('click',async event=>{event.preventDefault();if(button.disabled)return;opener=button;returnTo=autoOpening?arrival:null;entryScroll=window.scrollY;button.disabled=true;
   try{
-   if(!collection){const r=await fetch('/edition-reader.json');if(!r.ok)throw Error();collection=(await r.json())[issue];if(!collection?.items.length)throw Error();collection.items.forEach((item,i)=>{const o=document.createElement('option');o.value=i;o.textContent=item.title;select.append(o);});}
+   if(!collection){const r=await fetch('/edition-reader.json',{cache:'no-cache'});if(!r.ok)throw Error();collection=(await r.json())[issue];if(!collection?.items.length)throw Error();collection.items.forEach((item,i)=>{const o=document.createElement('option');o.value=i;o.textContent=item.title;select.append(o);});}
    const current=collection.items.findIndex(i=>i.href===location.pathname||i.href===location.pathname.replace(/\/$/,'')+'.html');const saved=get('sishu-place:'+issue);const start=current>=0?current:Math.min(collection.items.length-1,Math.max(0,Number(saved?.index)||0));
    dialog.showModal();document.documentElement.classList.add('quiet-open');await openEdition(start,current<0||saved?.index===current?saved:null);
   }catch{button.textContent='ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ';}finally{button.disabled=false;}
