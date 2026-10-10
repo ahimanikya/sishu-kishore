@@ -1,0 +1,11 @@
+.contribution-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:32px 0 18px;max-width:980px}
+.contribution-heading h2{margin:0;font-size:25px}.contribution-heading>span{white-space:nowrap;color:#526b69;font-size:16px}
+.shishu .contribution-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;max-width:980px;margin:0 0 40px;padding:0;list-style:none}
+.shishu .contribution-cards li{display:flex;flex-direction:column;justify-content:space-between;gap:10px;padding:20px 22px 14px;border:1px solid #d8dfd4;border-radius:16px;background:#fffef8;box-shadow:0 3px 0 #dce6d980;min-width:0}
+.shishu .contribution-cards li:nth-child(4n+2),.shishu .contribution-cards li:nth-child(4n+3){background:#f3faf5}
+.shishu .contribution-cards .contribution-title{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;font-size:23px;line-height:1.65;text-decoration:none;min-height:44px;overflow-wrap:anywhere}
+.contribution-arrow{flex-shrink:0;color:#287566;font-family:system-ui,sans-serif;font-size:24px}
+.shishu .contribution-cards small{margin:0;border-top:1px solid #e0e8dc;padding-top:5px;font-size:16px;color:#526b69}
+.shishu .contribution-cards .contribution-edition{display:inline-flex;align-items:center;min-height:44px;color:#42655f;font-size:16px;line-height:1.5;text-decoration:underline;text-underline-offset:4px}
+.contribution-cards a:focus-visible{outline:3px solid #267264;outline-offset:4px;border-radius:4px}.contribution-cards .contribution-title:hover{text-decoration:underline;text-underline-offset:5px}
+@media(max-width:640px){.shishu .contribution-cards{grid-template-columns:1fr;gap:12px}.shishu .contribution-cards li{padding:16px 18px 10px}.shishu .contribution-cards .contribution-title{font-size:22px}.contribution-heading{margin-top:24px}.contribution-heading h2{font-size:23px}}
