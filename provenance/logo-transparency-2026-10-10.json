@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-10",
+  "source": "public/media/260c43ae92e274e81342db12.png",
+  "output": "public/media/sishu-kishore-wordmark-transparent-v1.png",
+  "tool": "image_gen",
+  "prompts": [
+    "Edit this exact logo image ONLY by removing its white background to true transparent alpha. Preserve every Odia glyph, dot, shape, spacing and the exact orange, blue, green and black colors. Do not redraw, reinterpret, change typography, add shadow or add any words. Preserve the entire wide horizontal layout and original proportions with minimal transparent margins. White background including white holes inside glyphs must be transparent. Output the same full logo including the suffix; the website already crops the suffix out.",
+    "Clean up this exact Odia magazine wordmark. Preserve the exact two words and glyph outlines, layout and wide aspect ratio. Output ONLY this wordmark with transparent background and tight margins. Orange first word, blue second word. Remove ALL cyan fragments, colored speckles, stray marks, halos and artifacts outside and between the solid letter shapes. Clean crisp flat solid orange and blue shapes, smooth edges, no gradients, no shadows, no glow. All negative spaces and background fully transparent. Do not add or remove characters or reinterpret typography."
+  ],
+  "delivery": "Cropped transparent margins and old domain suffix; resized to 672px wide using sips. Original source retained.",
+  "verification": "Built-in image output visually inspected; homepage browser preview confirms no white rectangle and legible lettering. npm run build passed."
+}
