@@ -59,3 +59,8 @@ Completed: static image/accessibility checks, ebook source-order and transcripti
 - [ ] Technical follow-up after registration: set `appCheckConfig`, deploy, inspect valid-request metrics, test authenticated actions, then enable enforcement. App Check is NOT active today.
 - [ ] Deferred by the user until the domain move: Search Console verification and sitemap submission. Do not submit or request indexing now. Once the final domain is live, update canonical/social URLs, sitemap and discovery files, then verify ownership and submit when authorized. Existing public discovery files remain available; deferring submission does not prevent organic crawling.
 - [ ] Human/field: real screen-reader testing and slower physical phones; Core Web Vitals need real traffic and are not established by static checks.
+
+
+## Writer portrait treatment — 10 October 2026
+
+User direction: when a verified writer photograph exists, use Sishu Cartoon Natural treatment. Preserve recognizable face shape, features, age, skin tone, expression and relevant clothing. Use warm cream paper, drawn outlines and restrained colours, not a generic replacement face. Retain the original source, prompt and generated master; use optimized local web assets on the profile, directory and profile social preview. Label AI-assisted illustrations honestly. This does not authorize inventing likenesses for writers without a verified photograph.

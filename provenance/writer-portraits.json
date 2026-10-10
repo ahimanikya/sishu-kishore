@@ -1,5 +1,5 @@
 {
-  "policy": "Original named portraits first; public identity-backed sources second; otherwise empty. No generic or AI likeness.",
+  "policy": "Use verified source photographs for faithful Sishu Cartoon Natural illustrated portraits. Preserve originals and identity evidence; disclose AI assistance. Where no verified photo exists, keep generic symbolic avatars clearly labeled; never invent an author likeness.",
   "rejected_original_placeholders": [
     "/media/9e42aedf60f716496b0d631c.jpg",
     "/media/6355dfacab587524a2aa83e2.jpg"
@@ -466,12 +466,16 @@
       "name": "ଦାଶ ବେନହୁର",
       "route": "/shishu/writers/8d9480d84ea8.html",
       "portrait": {
-        "image": "/media/0c2d3766fe270057e5a7b867.jpg",
+        "image": "/portraits/dash-benhur-cartoon-natural-v1.webp",
         "source": "https://www.shalandi.in/author.php?id=403",
         "evidence": "Named Dash Benhur profile in original captured author directory",
-        "captured_page": "shalandi/author-73a765078a.html"
+        "captured_page": "shalandi/author-73a765078a.html",
+        "original_local": "/media/0c2d3766fe270057e5a7b867.jpg",
+        "treatment": "Sishu Cartoon Natural; AI-assisted from verified photo",
+        "master": "provenance/writer-cartoon-masters/dash-benhur-cartoon-natural-v1.png",
+        "prompt_file": "provenance/cartoon-writer-prompts.json"
       },
-      "status": "source-verified"
+      "status": "source-verified; illustrated treatment"
     },
     {
       "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ",
@@ -741,12 +745,16 @@
       "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
       "route": "/shishu/writers/69bca452d630.html",
       "portrait": {
-        "image": "/portraits/birendra-mohanty.jpg",
+        "image": "/portraits/birendra-mohanty-cartoon-natural-v1.webp",
         "source": "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/",
         "evidence": "Portrait attached to named interview with the Odia children’s author and Rumku Jhuma award recipient",
-        "source_image": "https://www.orissapost.com/wp-content/uploads/2018/06/Birendra-4.jpg"
+        "source_image": "https://www.orissapost.com/wp-content/uploads/2018/06/Birendra-4.jpg",
+        "original_local": "/portraits/birendra-mohanty.jpg",
+        "treatment": "Sishu Cartoon Natural; AI-assisted from verified photo",
+        "master": "provenance/writer-cartoon-masters/birendra-mohanty-cartoon-natural-v1.png",
+        "prompt_file": "provenance/cartoon-writer-prompts.json"
       },
-      "status": "source-verified"
+      "status": "source-verified; illustrated treatment"
     },
     {
       "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",

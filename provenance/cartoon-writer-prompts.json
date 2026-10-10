@@ -1,0 +1,16 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-10",
+  "portraits": [
+    {
+      "name": "Dash Benhur",
+      "prompt": "Edit the supplied verified photograph into a Sishu Cartoon Natural writer portrait for an Odia children's magazine. Preserve the SAME identifiable real person: exact face shape, facial proportions, skin tone, apparent age, receding grey hair, glasses shape, moustache and calm serious expression. Bust portrait, generous space above head, shoulders fully composed, square canvas. Warm classic Indian children's storybook 2D cartoon drawing, confident slightly uneven dark ink outlines, broad restrained flat colour shapes, two-tone gentle shadows, subtle cream paper background. Friendly and dignified without forcing a smile, no caricature or younger face, no photorealism, glossy 3D, airbrushed skin, ornate scenery, text or signature. Preserve the patterned dark kurta, simplify its pattern. Subject is the only person. Face large enough for a small directory card. This is a stylization of the photo, not an invented likeness.",
+      "generated": "exec-e1c77253-602c-4c97-a114-f1d3ead1fb60.png"
+    },
+    {
+      "name": "Birendra Mohanty",
+      "prompt": "Transform ONLY the man standing in the foreground of the reference photograph (dark suit, light blue shirt, blue lanyard; Birendra Mohanty) into an identifiable Sishu Cartoon Natural writer portrait. Ignore the seated background man entirely. Preserve the foreground man's long face, receding short dark hair, brown skin tone, forehead, eyebrows, eyes, nose, mouth, apparent age and reserved expression accurately. Head-and-shoulders composition, square canvas, face centered large with generous headroom; retain dark jacket and pale blue collar but omit lanyard badge, awards, bouquet, furniture and all other people. Children's storybook 2D cartoon: confident dark hand-ink contours, simple broad flat colour areas, limited gentle two-tone shadows, subtly imperfect linework, pale cream paper background. Not photorealistic, not glossy 3D, not airbrushed or highly polished. Dignified, natural, recognizably the same adult, not a generic avatar, no forced smile or exaggerated features. No lettering, names, signature, props or border.",
+      "generated": "exec-b2e9a47e-8f74-48fd-aa0a-d979c8142540.png"
+    }
+  ]
+}
