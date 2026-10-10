@@ -524,7 +524,8 @@
         "https://janatakhabar.in/kendujhar-10/",
         "https://yugabdha.com/congratulations-to-the-beo/"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "be141a00"
     },
     {
       "route": "/shishu/writers/b1204e468fea.html",
@@ -546,7 +547,8 @@
         "https://shishukishora.com/article_details.php?article_cd=229",
         "https://blog.banamalli.org/2018_03_27_archive.html?m=1"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "be141a00"
     },
     {
       "route": "/shishu/writers/74f717baed70.html",
@@ -568,7 +570,8 @@
         "https://blog.banamalli.org/2018_03_27_archive.html?m=1",
         "https://odishasambad.in/senrra-a-story-collection-of-dileswar-rana-has-been-unveiled/"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "be141a00"
     },
     {
       "route": "/shishu/writers/ea5ac870c4bd.html",
@@ -591,7 +594,8 @@
         "https://www.wikidata.org/wiki/Q106388467",
         "http://odishasahityaakademi.org/sahitya-award8.php"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "be141a00"
     },
     {
       "route": "/shishu/writers/c89e02766cff.html",
@@ -618,33 +622,78 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-093c0c7a61.html",
         "https://inpr.odisha.gov.in/sites/default/files/2024-01/RRRLF_2020-21%20%26%202021-22.pdf"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "be141a00"
     },
     {
       "route": "/shishu/writers/bef5579559e6.html",
       "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ବୃନ୍ଦାବନ ମାଙ୍କଡ଼",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bbb00f4e2b.html",
+          "snapshot": "public/shishu/article_details-bbb00f4e2b.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ହେ ନୂଆ ସକାଳ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
+          "snapshot": "public/shishu/article_details-8d4b45cea6.html"
+        }
+      ],
+      "notes": [
+        "Read original Pana, Brundabana Mankada, He Nua Sakala and nature poem. Odia/English name plus writer/SSPL searches checked.",
+        "State bibliography search lead Kunmunra Kabita has matching name and Jajpur but no precise identity bridge; book title withheld. No identity-verified individual photograph. Technical role attributed to original publication, not asserted as current employment."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "007",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-bbb00f4e2b.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/8218162be47d.html",
       "name": "ଜୟନ୍ତକୁମାର ଓଝା",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ବୃନ୍ଦାବନ ମାଙ୍କଡ଼",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bbb00f4e2b.html",
+          "snapshot": "public/shishu/article_details-bbb00f4e2b.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ହେ ନୂଆ ସକାଳ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
+          "snapshot": "public/shishu/article_details-8d4b45cea6.html"
+        }
+      ],
+      "notes": [
+        "Read original Pana, Brundabana Mankada, He Nua Sakala and nature poem. Odia/English name plus writer/SSPL searches checked.",
+        "State bibliography search lead Kunmunra Kabita has matching name and Jajpur but no precise identity bridge; book title withheld. No identity-verified individual photograph. Technical role attributed to original publication, not asserted as current employment."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "007",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-bbb00f4e2b.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/5022efa803e9.html",
       "name": "ଜୟନ୍ତିକା",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
@@ -654,27 +703,85 @@
           "snapshot": "public/shishu/birthday_details-f9ece26ba7.html"
         }
       ],
-      "notes": []
+      "notes": [
+        "Re-read original biography and current poem. Odia pen-name, real-name and English searches checked. Added explicit academy membership.",
+        "Shubhapallaba same-name Jayanti Panda has no pen-name/locality bridge on inspected page; no external works or portrait attributed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "007",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=199",
+        "https://shubhapallaba.in/ahe-jagannath/"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/6fa730670541.html",
       "name": "ଝରଣା ମଲ୍ଲିକ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · କାଉ ଡାକିଦେଲା ସକାଳୁ ଆସି",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-786.html",
+          "snapshot": "public/shishu/article-786.html"
+        },
+        {
+          "label": "ଶୁଭପଲ୍ଲବ · ତୃତୀୟ ସଂସ୍କରଣ, ପୃଷ୍ଠା ୨୧",
+          "url": "https://shubhapallaba.in/gapu/media/Shubhapallaba%203rd%20Edition.pdf#page=21"
+        }
+      ],
+      "notes": [
+        "Odia and English name searches checked. Original children poem read in full and publisher PDF page 21 text reviewed.",
+        "Balasore event report names a teacher/poet but lacks specific locality bridge; employment claim and group photo not used. Publisher contribution only added."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "007",
+      "researchUrls": [
+        "https://shubhapallaba.in/gapu/media/Shubhapallaba%203rd%20Edition.pdf",
+        "https://eodishasamachar.com/?p=46499",
+        "https://sishu.kabitawithoutborders.org/shishu/article-786.html"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/e4d18d48489d.html",
       "name": "ଡ ରବିନାରାୟଣ ସାହୁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ନୂଆ ସୂରୁଜଟି ହସେ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-589a3914a7.html",
+          "snapshot": "public/shishu/article_details-589a3914a7.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଲେଖକଙ୍କ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b208ef2172.html",
+          "snapshot": "public/shishu/article_details-b208ef2172.html"
+        },
+        {
+          "label": "ଓଡ଼ିଶା ନ୍ୟୁଜ୍ · ଶିଶୁ ପୁସ୍ତକ ଦିବସ",
+          "url": "https://odisha.news/81466"
+        }
+      ],
+      "notes": [
+        "Odia/English name and literary-role searches checked; no unrelated search-result personal records used. Original signatures checked in four poems.",
+        "Government bibliography search result corroborates Kalamanika/Bargarh but full PDF fetch failed; book titles withheld. News report directly supports library role with matching specific locality. Group photograph not sufficient for individual portrait."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "007",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-589a3914a7.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-b208ef2172.html",
+        "https://odisha.news/81466",
+        "https://bargarh.odisha.gov.in/sites/default/files/2023-06/2018051610.pdf"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/fb95b574ae09.html",
@@ -2247,5 +2354,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 006 built and browser checked; ready to publish. 30/185 entries checked, 24 sourced profile introductions, 11 verified portraits. Next: ଜୟନ୍ତ କୁମାର ଓଝା /shishu/writers/bef5579559e6.html."
+  "resume": "Batch 007 checked locally and ready for publication. 35/185 entries checked; 28 sourced profile introductions, 11 verified portraits. Next: ଡ. କମଳାକାନ୍ତ ଜେନା /shishu/writers/fb95b574ae09.html"
 }
