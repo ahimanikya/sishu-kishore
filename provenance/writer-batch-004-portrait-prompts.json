@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "kunjabihari-sahu",
+    "source": "public/portraits/kunjabihari-sahu-source.jpg",
+    "sourceUrl": "https://odishasambad.in/wp-content/uploads/2020/11/kunjabihari-sahu1-300x238.jpg",
+    "sourcePage": "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/",
+    "prompt": "Edit the provided verified author photograph into a faithful Sishu Kishore children's magazine portrait. Preserve this exact person's recognizable facial proportions, age, skin tone, hairline, hairstyle, moustache, three-quarter facing direction, expression, turquoise shirt and modest appearance. Head and shoulders, square composition with comfortable space around the head. Expressive simple 2D cartoon ink drawing with confident gently irregular dark contours and restrained flat warm colors, a classic Indian children's story magazine illustration. Keep natural human individuality; not a generic mascot, not caricature, do not beautify or make younger. Replace the entire background with plain warm ivory paper. No photographic skin or hair detail, no airbrush, glossy 3D or digital lighting. No text, letters, signature, badges or decorative props.",
+    "tool": "built-in image_gen",
+    "master": "provenance/writer-cartoon-masters/kunjabihari-sahu-cartoon-natural-v1.png",
+    "web": "public/portraits/kunjabihari-sahu-cartoon-natural-v1.webp",
+    "review": "Compared with source photograph: preserved three-quarter pose, hairline, moustache, face proportions and turquoise shirt. Warm paper and simple ink treatment; no added identifying accessories."
+  }
+]

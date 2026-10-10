@@ -118,8 +118,9 @@
     {
       "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
       "route": "/shishu/writers/524cb79f75d5.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/kunjabihari-sahu-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "କୈଳାସ ଚନ୍ଦ୍ର ଧଳ",

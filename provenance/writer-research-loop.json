@@ -239,7 +239,8 @@
       "researchUrls": [
         "https://sishu.kabitawithoutborders.org/shishu/article_details-07bfa9d10e.html"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "3a2df270"
     },
     {
       "route": "/shishu/writers/19c8f0c69b64.html",
@@ -301,51 +302,97 @@
       "route": "/shishu/writers/f5e65e2d3dc9.html",
       "name": "କମଳିନୀ ମଲ୍ଲିକ୍‌",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Spelling variant of Kamalini Mallik has matching source locality/contact signature. No supported biography or named photograph found. No merge performed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "004",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-a92dc46eb0.html",
+        "https://shishukishora.com/article_details.php?article_cd=787"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/2c5ca3733964.html",
       "name": "କୀର୍ତ୍ତନ ସାହୁ",
       "contributionCount": 13,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read full signed poem; added concise literary introduction. No verified named portrait found."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "004",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-c49b6e61da.html",
+        "https://shishukishora.com/article_details.php?article_cd=328"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/524cb79f75d5.html",
       "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Matched publisher story to magazine byline/contact signature; added introduction and faithful cartoon portrait based on named publisher photograph."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "004",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-d474d9d5fa.html",
+        "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/4aa0a9dbf33c.html",
       "name": "କୈଳାସ ଚନ୍ଦ୍ର ଧଳ",
       "contributionCount": 5,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read Kandhamal signed poem and searched Odia/English names with locality. Birthday result names this person only as commenter, not biography subject; university result names a faculty member’s father. No identity-safe new facts or photograph."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "004",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-4a5613d3e2.html",
+        "https://shishukishora.com/birthday_details.php?advt_cd=150"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/d878ef9ba83c.html",
       "name": "କୈଳାସ ଚନ୍ଦ୍ର ବେହେରା",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read Temala/Shankho Keonjhar signed poem. Same-name StoryMirror/Pratilipi profiles lack corroborating locality or publication connection. Do not use their photograph or biography."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "004",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-d639b54265.html",
+        "https://storymirror.com/profile/uq7vhqq8/kailash-chandra-behera/poem",
+        "https://odia.pratilipi.com/story/prem-o-pratarana-by-kailash-chandra-behera-89xnvzlpbrsk"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/3cab06f38bc2.html",
@@ -2080,5 +2127,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 003: Kabita Devi introduction awaiting publication. Resume first pending entry after କମଳିନୀ ମଲ୍ଲିକ. Spaced/unspaced Kabita Mishra identity match documented; no contribution merge performed."
+  "resume": "Batch 004 researched and saved; build and deployment verification pending. Twenty entries checked. Resume first pending entry after deployment."
 }

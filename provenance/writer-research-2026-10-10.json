@@ -333,6 +333,45 @@
         }
       ],
       "identity": "Original November 2024 story explicitly identifies the named writer as a retired female teacher. No same-name social profile used. No merge with Kabita Mishra; source contact spelling differs and name relationship is unconfirmed."
+    },
+    {
+      "slug": "kunjabihari-sahu",
+      "route": "/shishu/writers/524cb79f75d5.html",
+      "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "role": "କବି ଓ ଗଳ୍ପ ଲେଖକ",
+      "bio": "କୁଞ୍ଜବିହାରୀ ସାହୁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ତାଙ୍କ ‘ବିଷୁବ ସଂକରାନ୍ତି’ କବିତାରେ ପଣା, ପରବ ଓ ଓଡ଼ିଆ ନୂଆବର୍ଷର ଖୁସି ଫୁଟିଉଠିଛି । ଓଡ଼ିଶା ସମ୍ବାଦରେ ତାଙ୍କ ଗପ ‘ନୂଆବର୍ଷ’ ପ୍ରକାଶିତ ହୋଇଛି ।",
+      "searchAliases": "Kunjabihari Sahu Kunja Bihari Sahoo",
+      "portrait": "/portraits/kunjabihari-sahu-cartoon-natural-v1.webp",
+      "sourcePortrait": "/portraits/kunjabihari-sahu-source.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ବିଷୁବ ସଂକରାନ୍ତି",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d474d9d5fa.html",
+          "snapshot": "public/shishu/article_details-d474d9d5fa.html"
+        },
+        {
+          "label": "ଓଡ଼ିଶା ସମ୍ବାଦ · ଗଳ୍ପ: ନୂଆବର୍ଷ",
+          "url": "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
+        }
+      ],
+      "identity": "Exact named byline and matching contact signature connect original magazine poem with Odisha Sambad story. The publisher places the named portrait directly under the author name; image filename also names Kunjabihari Sahu. No personal contact republished in biography."
+    },
+    {
+      "slug": "kirtan-sahu",
+      "route": "/shishu/writers/2c5ca3733964.html",
+      "name": "କୀର୍ତ୍ତନ ସାହୁ",
+      "role": "ଶିଶୁ କବିତାର ଲେଖକ",
+      "bio": "କୀର୍ତ୍ତନ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ କବିତା ‘କଥା ଦେଇଛି’ରେ ନିଜ କାମ ନିଜେ କରିବା ଓ ମାଟି, ଗଛ, ଜଳର ଯତ୍ନ ନେବାର କଥା ରହିଛି ।",
+      "searchAliases": "Kirtan Sahu Kirtana Sahoo",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · କଥା ଦେଇଛି",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c49b6e61da.html",
+          "snapshot": "public/shishu/article_details-c49b6e61da.html"
+        }
+      ],
+      "identity": "Introduction limited to the complete signed magazine poem. No occupation, awards or named photograph established; external story lead not used for public claims."
     }
   ],
   "pendingResearch": [
