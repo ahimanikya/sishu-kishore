@@ -299,6 +299,23 @@
         }
       ],
       "identity": "Original magazine bylines and Rajgangpur signatures establish the contributor. Literary introduction is based on his published poems; no unsupported books, awards or occupation added."
+    },
+    {
+      "slug": "antaryami-bej",
+      "route": "/shishu/writers/8aa404dcfb41.html",
+      "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
+      "role": "କବି ଓ ଶିକ୍ଷକ",
+      "bio": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ ଜଣେ ଶିକ୍ଷକ ଓ ଓଡ଼ିଆ କବିତା ଲେଖକ । ଶିଶୁ କିଶୋରରେ ତାଙ୍କର ‘ବନ ମହୋତ୍ସବ’ କବିତା ପ୍ରକାଶିତ ହୋଇଛି । ଏହି କବିତାରେ ଗଛର ଉପକାରିତା ଓ ପରିବେଶର ସୁରକ୍ଷା ପାଇଁ ଚାରା ଲଗାଇବାର କଥା ରହିଛି ।",
+      "searchAliases": "Antaryami Bej Antarjyami Bej",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ବନ ମହୋତ୍ସବ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-766.html",
+          "snapshot": "public/shishu/article-766.html"
+        }
+      ],
+      "identity": "Original October 2026 poem explicitly signs as teacher, Pattamundai, Kendrapara. Teacher role is based on that signature, not a same-name news report. No portrait verified."
     }
   ],
   "pendingResearch": [

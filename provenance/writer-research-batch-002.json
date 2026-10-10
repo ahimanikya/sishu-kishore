@@ -1,0 +1,118 @@
+{
+  "reviewed": "2026-10-10",
+  "writers": [
+    {
+      "slug": "antaryami-bej",
+      "route": "/shishu/writers/8aa404dcfb41.html",
+      "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
+      "role": "କବି ଓ ଶିକ୍ଷକ",
+      "bio": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ ଜଣେ ଶିକ୍ଷକ ଓ ଓଡ଼ିଆ କବିତା ଲେଖକ । ଶିଶୁ କିଶୋରରେ ତାଙ୍କର ‘ବନ ମହୋତ୍ସବ’ କବିତା ପ୍ରକାଶିତ ହୋଇଛି । ଏହି କବିତାରେ ଗଛର ଉପକାରିତା ଓ ପରିବେଶର ସୁରକ୍ଷା ପାଇଁ ଚାରା ଲଗାଇବାର କଥା ରହିଛି ।",
+      "searchAliases": "Antaryami Bej Antarjyami Bej",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ବନ ମହୋତ୍ସବ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-766.html",
+          "snapshot": "public/shishu/article-766.html"
+        }
+      ],
+      "identity": "Original October 2026 poem explicitly signs as teacher, Pattamundai, Kendrapara. Teacher role is based on that signature, not a same-name news report. No portrait verified."
+    }
+  ],
+  "outcomes": [
+    {
+      "route": "/shishu/writers/8aa404dcfb41.html",
+      "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
+      "contributionCount": 6,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Original signed poem confirms teacher role. Read full Van Mahotsav poem. Broad Odia and English searches found limited literary evidence; same-name teacher-protest report not used and no portrait verified."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "002",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article-766.html"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/66393b0de741.html",
+      "name": "ଅଶୋକ କୁମାର ପ୍ରଧାନ",
+      "contributionCount": 1,
+      "status": "identity-unresolved",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Read original Mo Jibana Priya Dhana and school signature in Ganjam. Searches found a Kumar Kabi Ashok Pradhan but no corroborating connection to this contributor. Do not borrow that biography or photograph."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "002",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-4a58394695.html",
+        "https://magazines.odisha.gov.in/utkalprasanga/jan-2007/oriyapdf/jan-2007.pdf"
+      ],
+      "publication": "not-needed"
+    },
+    {
+      "route": "/shishu/writers/ced75a694fd6.html",
+      "name": "ଅଶୋକ କୁମାର ସେଠୀ",
+      "contributionCount": 2,
+      "status": "identity-unresolved",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Original Hasiba Ama Desha signs Balangir. Aahwaan author-name result could not be retrieved (404), and government officer results do not establish this writer identity. Doctor honorific variants remain unmerged; no profession or portrait inferred."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "002",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-077eda73ac.html",
+        "https://aahwaan.com/articles/index.php"
+      ],
+      "publication": "not-needed"
+    },
+    {
+      "route": "/shishu/writers/9b2a83434590.html",
+      "name": "ଉମାକାନ୍ତ ବେହେରା",
+      "contributionCount": 7,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Read latest poem title and signature (Keonjhar). Odia, English, and pen-address searches did not establish useful life details or a named portrait. Unrelated employment, legal and personal records excluded. Existing contributions retained without speculative biography."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "002",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-22b38eca60.html"
+      ],
+      "publication": "not-needed"
+    },
+    {
+      "route": "/shishu/writers/a7fd935e072c.html",
+      "name": "କନ୍ଦର୍ପ ବେହେରା",
+      "contributionCount": 5,
+      "status": "identity-unresolved",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Read Hasiba Janama Bhui and Rairakhol signature. Same-name Rairakhol news byline is promising but cannot alone establish poet/reporter identity. Two literary news pages returned 403; indexed excerpt establishes reporter byline, not authorship of the book being launched. Do not attribute that book to him. No named portrait verified."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "002",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-2607041710.html",
+        "https://thesamikhsya.com/odia/breaking-news/256078/",
+        "https://thesamikhsya.com/odia/breaking-news/242729/"
+      ],
+      "publication": "not-needed"
+    }
+  ]
+}
