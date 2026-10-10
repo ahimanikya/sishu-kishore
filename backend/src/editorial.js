@@ -1,14 +1,15 @@
 import {initializeApp} from 'firebase/app';
 import {getAuth,GoogleAuthProvider,signInWithPopup,signOut,onAuthStateChanged,browserSessionPersistence,setPersistence,getIdTokenResult} from 'firebase/auth';
-import {getFirestore,collection,doc,getDocs,query,where,limit,writeBatch,serverTimestamp,setDoc,updateDoc} from 'firebase/firestore';
+import {getFirestore,collection,doc,getDocs,query,where,limit,runTransaction,writeBatch,serverTimestamp,setDoc,updateDoc} from 'firebase/firestore';
 import {getStorage,ref,uploadBytes,getBlob} from 'firebase/storage';
+import {nextQuota} from './quota.js';
 import {firebaseConfig,site} from './config.js';
 const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app),storage=getStorage(app);
 const root=document.querySelector('#editorial-app');const params=new URLSearchParams(location.search);
 const editorMode=document.body.dataset.mode==='editor';
 const el=(tag,text,attrs={})=>{const e=document.createElement(tag);if(text)e.textContent=text;for(const [k,v]of Object.entries(attrs))e.setAttribute(k,v);return e;};
 const status=el('p','',{role:'status'});let user,editor=false,draftId=null,submissions=[],drafts=[],publications=[];
-const formError=e=> e.code==='permission-denied'?'You do not have permission, or you sent another submission less than a minute ago. Please try again shortly.': e.code==='auth/popup-closed-by-user'?'Sign-in was cancelled.':e.code==='auth/popup-blocked'?'Please allow the sign-in window and try again.':'Unable to complete that action. Please try again. Your writing remains in the form.';
+const formError=e=> e.code==='permission-denied'?'Please check your access or try later. Submissions are limited to one per minute and ten per hour; your writing is still here.': e.code==='auth/popup-closed-by-user'?'Sign-in was cancelled.':e.code==='auth/popup-blocked'?'Please allow the sign-in window and try again.':'Unable to complete that action. Please try again. Your writing remains in the form.';
 const button=(text,action)=>{const b=el('button',text,{type:'button'});b.onclick=async()=>{b.disabled=true;status.textContent='';try{await action();}catch(e){status.textContent=formError(e);}finally{b.disabled=false;}};return b;};
 function field(form,label,name,{type='text',value='',max=240,required=true}={}){const l=el('label',label),input=el(type==='textarea'?'textarea':'input');input.name=name;input.id='field-'+name;if(type!=='textarea')input.type=type;input.value=value;input.required=required;input.maxLength=max;l.htmlFor=input.id;form.append(l,input);return input;}
 function select(form,label,name,options,value){const l=el('label',label),input=el('select');input.name=name;input.id='field-'+name;l.htmlFor=input.id;for(const [v,t]of options){const o=el('option',t,{value:v});input.append(o);}input.value=value;form.append(l,input);return input;}
@@ -28,9 +29,9 @@ async function submissionForm(){const kind=['article','comment','contact','book'
  const send=el('button','Send for review',{type:'submit'});form.append(send);root.append(form);
  form.onsubmit=async e=>{e.preventDefault();if(!form.reportValidity())return;send.disabled=true;status.textContent='Sending…';let sent=false;
  try{const data=new FormData(form),attachment=file?.files[0];if(attachment&&(attachment.size>10*1024*1024||!['application/pdf','application/vnd.openxmlformats-officedocument.wordprocessingml.document','text/plain'].includes(attachment.type)))throw Error('attachment');
- const item=doc(collection(db,'submissions')),batch=writeBatch(db);const page=params.get('page')||'';
+ const item=doc(collection(db,'submissions'));const page=params.get('page')||'';await runTransaction(db,async batch=>{const quota=doc(db,'submissionLimits',user.uid),q=await batch.get(quota);
  batch.set(item,{owner:user.uid,name:name.value.trim(),contact:user.email,kind,title:String(data.get('title')).trim(),body:String(data.get('body')).trim(),page:page.startsWith(site.prefix+'/')?page.slice(0,300):'',status:'received',consent:'editorial-review-v1',createdAt:serverTimestamp(),updatedAt:serverTimestamp()});
- batch.set(doc(db,'submissionLimits',user.uid),{id:item.id,at:serverTimestamp()});await batch.commit();sent=true;
+ batch.set(quota,nextQuota(q.data(),{id:item.id}));});sent=true;
  if(attachment){try{await uploadBytes(ref(storage,`submissions/${user.uid}/${item.id}/manuscript`),attachment,{contentType:attachment.type});}catch{status.textContent='Your writing was received, but the attachment failed. Reference: '+item.id;form.querySelector('[name=body]').value='';await ownSubmissions();return;}}
  status.textContent='Received for private editorial review. Reference: '+item.id;form.querySelector('[name=body]').value='';if(file)file.value='';await ownSubmissions();
  }catch(e){status.textContent=e.message==='attachment'?'Choose a PDF, DOCX or text file smaller than 10 MB.':formError(e);}finally{send.disabled=false;}};

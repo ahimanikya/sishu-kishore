@@ -1,0 +1,6 @@
+# Public reading is open to search and AI retrieval crawlers.
+# Editorial screens carry noindex; actual private data is protected by Firebase rules.
+User-agent: *
+Allow: /
+
+Sitemap: https://sishu.kabitawithoutborders.org/sitemap.xml

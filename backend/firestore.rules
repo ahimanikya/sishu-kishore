@@ -12,10 +12,17 @@ service cloud.firestore {
     && (d.kind != 'comment' || d.body.size()<=2000)
     && d.consent == 'editorial-review-v1';
   }
+  function validQuota(path,d,max){
+   return d.count is int && d.count>=1 && d.count<=max && d.at==request.time
+    && ((!exists(path) || !get(path).data.keys().hasAll(['startedAt','count']) || get(path).data.startedAt<=request.time-duration.value(1,'h'))
+      ? (d.count==1 && d.startedAt==request.time)
+      : (d.count==get(path).data.count+1 && d.startedAt==get(path).data.startedAt));
+  }
   function throttle(){return /databases/$(database)/documents/submissionLimits/$(request.auth.uid);}
   match /submissions/{id} {
    allow create: if signedIn() && validSubmission(request.resource.data)
     && request.resource.data.owner == request.auth.uid
+    && request.resource.data.contact == request.auth.token.email
     && request.resource.data.status == 'received'
     && request.resource.data.createdAt == request.time && request.resource.data.updatedAt == request.time
     && getAfter(throttle()).data.id == id && getAfter(throttle()).data.at == request.time
@@ -29,9 +36,11 @@ service cloud.firestore {
   }
   match /submissionLimits/{uid} {
    allow create, update: if signedIn() && uid==request.auth.uid
-    && request.resource.data.keys().hasOnly(['id','at'])
+    && request.resource.data.keys().hasOnly(['id','at','startedAt','count'])
     && request.resource.data.id is string && request.resource.data.id.matches('^[a-zA-Z0-9]{20}$')
-    && request.resource.data.at==request.time;
+    && validQuota(throttle(),request.resource.data,10)
+    && !exists(/databases/$(database)/documents/submissions/$(request.resource.data.id))
+    && getAfter(/databases/$(database)/documents/submissions/$(request.resource.data.id)).data.owner==request.auth.uid;
    allow read: if signedIn() && (uid==request.auth.uid || editor());
   }
   function validDraft(d){return d.keys().hasAll(['kind','title','body','byline','issue','page','image','sourceId','updatedAt'])
@@ -43,7 +52,8 @@ service cloud.firestore {
    && d.sourceId is string && d.sourceId.size()<=100 && d.updatedAt==request.time;}
   match /drafts/{id} {allow read,delete:if editor(); allow create,update:if editor() && validDraft(request.resource.data);}
   match /publications/{id} {
-   allow read: if true;
+   allow get: if true;
+   allow list: if editor() || (request.query.limit != null && request.query.limit<=100);
    allow create,update: if editor()
     && request.resource.data.keys().hasAll(['kind','title','body','byline','issue','page','image','state','publishedAt'])
     && request.resource.data.keys().hasOnly(['kind','title','body','byline','issue','page','image','state','publishedAt'])
@@ -56,11 +66,22 @@ service cloud.firestore {
     && request.resource.data.state in ['published','withdrawn'] && request.resource.data.publishedAt==request.time;
    allow delete: if false;
   }
+  function engagementLimit(){return /databases/$(database)/documents/engagementLimits/$(request.auth.uid);}
+  match /engagementLimits/{uid} {
+   allow get: if signedIn() && uid==request.auth.uid;
+   allow create,update: if signedIn() && uid==request.auth.uid
+    && request.resource.data.keys().hasOnly(['article','at','startedAt','count'])
+    && request.resource.data.article is string && request.resource.data.article.matches('^[a-zA-Z0-9_-]{1,100}$')
+    && validQuota(engagementLimit(),request.resource.data,60)
+    && (!exists(engagementLimit()) || resource.data.at<request.time-duration.value(2,'s'))
+    && getAfter(/databases/$(database)/documents/articleLikes/$(request.resource.data.article)).data.count != (exists(/databases/$(database)/documents/articleLikes/$(request.resource.data.article)) ? get(/databases/$(database)/documents/articleLikes/$(request.resource.data.article)).data.count : 0);
+  }
   function likePath(article,uid){return /databases/$(database)/documents/articleLikes/$(article)/readers/$(uid);}
   function countPath(article){return /databases/$(database)/documents/articleLikes/$(article);}
   match /articleLikes/{article} {
-   allow read: if true;
-   allow create,update: if signedIn() && article.matches('^[a-zA-Z0-9_-]+$')
+   allow get: if true;
+   allow create,update: if signedIn() && article.matches('^[a-zA-Z0-9_-]{1,100}$')
+    && getAfter(engagementLimit()).data.article==article && getAfter(engagementLimit()).data.at==request.time
     && request.resource.data.keys().hasOnly(['count']) && request.resource.data.count is int
     && request.resource.data.count >= 0
     && ((!exists(likePath(article,request.auth.uid)) && existsAfter(likePath(article,request.auth.uid))

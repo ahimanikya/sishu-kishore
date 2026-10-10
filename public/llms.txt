@@ -1,0 +1,16 @@
+# Sishu Kishore — ଶିଶୁ କିଶୋର
+
+> An Odia monthly children's magazine with issue collections, stories, poems, writers and ebooks.
+
+Public articles are complete static HTML and can be read without login. The canonical article URL is the citation destination; its text/plain alternate contains the same published writing. Author names and edition relationships are in the article catalogue. Original printed book scans are preserved; unreviewed OCR is not represented as verified book text.
+
+## Start here
+- [Current issue](https://sishu.kabitawithoutborders.org/shishu/current_issue.html)
+- [Past issues](https://sishu.kabitawithoutborders.org/shishu/old_issues.html)
+- [Writers](https://sishu.kabitawithoutborders.org/shishu/writers.html)
+- [Article catalogue](https://sishu.kabitawithoutborders.org/content-index.json): titles, writers, issue relationships, canonical URLs, text URLs and images.
+- [Issue and book catalogue](https://sishu.kabitawithoutborders.org/reader-catalog.json)
+- [Sitemap](https://sishu.kabitawithoutborders.org/sitemap.xml)
+
+## Editorial context
+Public author bylines belong to the original writing. Drafts, private submissions, email addresses and moderation records are not part of this public catalogue. No new publication dates or author biographies have been inferred.
