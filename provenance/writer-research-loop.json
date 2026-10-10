@@ -2770,7 +2770,8 @@
         "https://shishukishora.com/article_details.php?article_cd=327",
         "https://commons.wikimedia.org/wiki/File:Odia_Writer_Purnamasi_Devi.jpg"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c92e2807"
     },
     {
       "route": "/shishu/writers/63287addfe85.html",
@@ -2795,7 +2796,8 @@
         "https://www.jbrmr.com/author%26name%3DPrakash%2BChandra%2BDash",
         "https://www.odishaestore.com/index.php?route=product%2Fauthor"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c92e2807"
     },
     {
       "route": "/shishu/writers/57b2cccb4266.html",
@@ -2820,7 +2822,8 @@
         "https://eodishasamachar.com/?p=77444",
         "https://eodishasamachar.com/?p=87680"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c92e2807"
     },
     {
       "route": "/shishu/writers/33a8832ae9ee.html",
@@ -2845,7 +2848,8 @@
         "https://odishabigyanacademy.in/wp-content/uploads/2022/12/Activities-Report-of-OBA15-16.pdf",
         "https://gauhati.ac.in/faculty/rekha-das/"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c92e2807"
     },
     {
       "route": "/shishu/writers/1f5f23903bf9.html",
@@ -2870,57 +2874,141 @@
         "https://www.shishukishora.com/article_details.php?article_cd=291",
         "https://commons.wikimedia.org/wiki/File:Odia_Writer_Prabasini_Mishra.jpg"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c92e2807"
     },
     {
       "route": "/shishu/writers/cfba3363dbbe.html",
       "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-407229d167.html",
+          "snapshot": "public/shishu/article_details-407229d167.html"
+        }
+      ],
+      "notes": [
+        "Original signature explicitly retired teacher, Satyabadi. Local news corroborates name, locality and occupation. Balangir teacher namesake excluded. Honorific variants c34b6668eb6e and b62d26b5f3be require complete contribution review before a merge; retained pending. No verified photograph."
+      ],
+      "batch": "022",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://koshalaprabahalive.com/odisha/dabi-109/",
+        "https://www.shishukishora.com/article_details.php?article_cd=329"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/d75e5aefba14.html",
       "name": "ପ୍ରଭାତ ନଳିନୀ ସାହୁ",
       "contributionCount": 9,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-784.html",
+          "snapshot": "public/shishu/article-784.html"
+        }
+      ],
+      "notes": [
+        "Original Pandab Nagar Tankapani Road Bhubaneswar signature. Odia Sahitya 2012 poem identifies same name in Rourkela, without identity bridge; no external biography or photo attached. Source-based literary introduction only."
+      ],
+      "batch": "022",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.odiasahitya.com/odia-kabya-kabita/adhunika-kabita/mo-gaon/",
+        "https://shishukishora.com/article_details.php?article_cd=80",
+        "https://www.shishukishora.com/article_details.php?article_cd=289"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/37d0d83e9abc.html",
       "name": "ପ୍ରଭାସିନୀ ବରାଡ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c8a6c32f48.html",
+          "snapshot": "public/shishu/article_details-c8a6c32f48.html"
+        }
+      ],
+      "notes": [
+        "Full story read; Sribihar College Road Nayagarh signature. Dotted variant has only Nayagarh: no exact contact/work bridge. Book fair award same-name candidate and local event do not establish identity conclusively. No award or fictional collector career attributed; no merge/photo."
+      ],
+      "batch": "022",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://odishasahitya.com/capital-book-fair-awards-announced/",
+        "https://awajmedia.com/2022/08/22/nayagada-news-awaj-media-609/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/578096bf3439.html",
       "name": "ପ୍ରଭାସିନୀ ବରାଡ଼",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-84ef02031f.html",
+          "snapshot": "public/shishu/article_details-84ef02031f.html"
+        }
+      ],
+      "notes": [
+        "Full poem read; Nayagarh signature only. Keep separate from undotted profile pending stronger corroboration. Same-name award/book candidate not attributed; no verified photograph."
+      ],
+      "batch": "022",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://odishasahitya.com/capital-book-fair-awards-announced/",
+        "https://awajmedia.com/2022/08/22/nayagada-news-awaj-media-609/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/d4a1c781b77f.html",
       "name": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ",
       "contributionCount": 15,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-178dac6c0a.html",
+          "snapshot": "public/shishu/article_details-178dac6c0a.html"
+        },
+        {
+          "label": "ସତ୍ୟବାଦୀ · ଅଗଷ୍ଟ ୨୦୨୬ · ଲେଖକ ପରିଚୟ",
+          "url": "https://fliphtml5.com/aukd/pwnf/104/",
+          "supportedClaims": [
+            "Three named children’s books",
+            "Acknowledged lyricist of AIR Cuttack and Puri"
+          ]
+        }
+      ],
+      "notes": [
+        "Satyabadi August 2026 printed p102 / digital p104 author bio matches exact Kunjar Sangalai Pipili Puri locality and published contact in original magazine poem. Browser text verified books and AIR lyricist status. No portrait obtained; placeholder retained. Other same-name magazine writers not merged."
+      ],
+      "batch": "022",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://fliphtml5.com/aukd/pwnf/104/"
+      ],
+      "publication": "validated-awaiting-deployment"
     },
     {
       "route": "/shishu/writers/fc19d89e45a8.html",
@@ -3709,6 +3797,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 021 validated, pending deployment. 105/185 checked; 80 pending. 171 online profiles, 73 canonical introductions. Next: ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ /shishu/writers/cfba3363dbbe.html",
+  "resume": "Batch 022 validated; deployment pending. 110/185 checked, 75 pending; 78 sourced introductions. Next: ବସିରନ ବିବି /shishu/writers/fc19d89e45a8.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }
