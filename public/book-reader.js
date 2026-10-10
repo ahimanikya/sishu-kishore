@@ -5,6 +5,7 @@
  const origin=window.SishuReaderReturn?.entry();if(origin)history.replaceState({...history.state,sishuReaderOrigin:origin},'');
  const exit=document.querySelector('.book-exit');if(origin&&exit){exit.href=origin.url;exit.addEventListener('click',e=>{if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();window.SishuReaderReturn.leave(origin);});}
  window.SishuPageSound?.mount(document.querySelector('.book-options'));
+ window.SishuReaderSwitcher?.mount(document.querySelector('.book-options>div'),'/shishu/books/'+root.dataset.book+'/page-1.html',()=>origin||{url:exit.href,y:0});
  const slug=root.dataset.book,spread=document.querySelector('#book-spread'),jump=document.querySelector('#book-jump'),prev=document.querySelector('#book-prev'),next=document.querySelector('#book-next'),message=document.querySelector('#book-message');
  let current=Number(root.dataset.page),book,mode=get('sishu-reading-mode')||'original',size=Math.max(18,Math.min(34,Number(get('sishu-reading-size'))||24)),zoom=false;
  const mobile=matchMedia('(max-width:760px)');const modeControl=document.querySelector('#book-mode'),themeControl=document.querySelector('#book-theme');modeControl.value=mode;themeControl.value=get('sishu-reading-theme')||'paper';

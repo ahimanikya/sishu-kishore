@@ -14,7 +14,7 @@
   if(document.querySelector('#book-reader')||document.querySelector('.mag-quiet-reader[open]'))return;
   write(key,{target:url.pathname,origin:{url:location.href,y:window.scrollY},time:Date.now()});
  },true);
- window.SishuReaderReturn={entry(){
+ window.SishuReaderReturn={prepare(href,origin){const url=safe(href);if(url&&origin&&safe(origin.url))write(key,{target:url.pathname,origin,time:Date.now()});},entry(){
   const pending=read(key);remove(key);
   if(pending&&pending.target===location.pathname&&Date.now()-pending.time<300000&&safe(pending.origin?.url))return pending.origin;
   const saved=history.state?.sishuReaderOrigin;if(saved&&safe(saved.url))return saved;
