@@ -2900,7 +2900,8 @@
         "https://koshalaprabahalive.com/odisha/dabi-109/",
         "https://www.shishukishora.com/article_details.php?article_cd=329"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "576d3581"
     },
     {
       "route": "/shishu/writers/d75e5aefba14.html",
@@ -2926,7 +2927,8 @@
         "https://shishukishora.com/article_details.php?article_cd=80",
         "https://www.shishukishora.com/article_details.php?article_cd=289"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "576d3581"
     },
     {
       "route": "/shishu/writers/37d0d83e9abc.html",
@@ -2951,7 +2953,8 @@
         "https://odishasahitya.com/capital-book-fair-awards-announced/",
         "https://awajmedia.com/2022/08/22/nayagada-news-awaj-media-609/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "576d3581"
     },
     {
       "route": "/shishu/writers/578096bf3439.html",
@@ -2976,7 +2979,8 @@
         "https://odishasahitya.com/capital-book-fair-awards-announced/",
         "https://awajmedia.com/2022/08/22/nayagada-news-awaj-media-609/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "576d3581"
     },
     {
       "route": "/shishu/writers/d4a1c781b77f.html",
@@ -3008,13 +3012,14 @@
       "researchUrls": [
         "https://fliphtml5.com/aukd/pwnf/104/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "576d3581"
     },
     {
       "route": "/shishu/writers/fc19d89e45a8.html",
       "name": "ବସିରନ ବିବି",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
@@ -3024,47 +3029,112 @@
           "snapshot": "public/shishu/birthday_details-ed3dc89efb.html"
         }
       ],
-      "notes": []
+      "notes": [
+        "Original named birthday biography and existing portrait retained. Searched English and Odia name/Nayagarh. Bibliography and retailer list book titles but no independent identity bridge beyond name; no title attached. Literary-event reports offer no substantial additional biography."
+      ],
+      "batch": "023",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=194",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf",
+        "https://ritikart.com/collections/odia-literature-poems-poetry-books/products/pratyasha-by-bairan-bibi",
+        "https://awajmedia.com/2024/03/24/nayagada-news-awaj-media-1144/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/b2ea4834959d.html",
       "name": "ବସିରନ୍ ବିବି",
       "contributionCount": 8,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Original Sharata Marate Asichhi read, Nayagarh signature. Likely variant of Basiran Bibi but canonical poems reviewed lack matching contact; do not merge on name/locality alone. No separate portrait or biography assigned."
+      ],
+      "batch": "023",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/current_issue.php",
+        "https://odishalekha.com/?p=1389"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/40eff86013b3.html",
       "name": "ବାଲ୍ମୀକି ପାତ୍ର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8665ec3ad7.html",
+          "snapshot": "public/shishu/article_details-8665ec3ad7.html"
+        }
+      ],
+      "notes": [
+        "Full original story read. Academy member list names writer. Same-name LinkedIn reposts exact story but repost alone does not establish authorship or justify career/photo attribution. Writing-based introduction only."
+      ],
+      "batch": "023",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/whoweare.php",
+        "https://in.linkedin.com/in/balmiki-patra-6b286a192"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/5127a44ec63e.html",
       "name": "ବିଜୟ କୁମାର ଛାଟୋଇ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fdb3bea438.html",
+          "snapshot": "public/shishu/article_details-fdb3bea438.html"
+        }
+      ],
+      "notes": [
+        "Full original poem with Mahura Satyabadi Puri signature read. Name/locality search no reliable biography. Birthday advt109 is Paresh Pattanayak biography: Chhatoi only commenter. Dharitri hit about Ajay Mahapatra excluded. No inferred books/awards/portrait."
+      ],
+      "batch": "023",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/birthday_details.php?advt_cd=109",
+        "https://www.dharitri.com/reader-recognition-is-everything-to-me/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/9021c2a7b8a2.html",
       "name": "ବିଜୟ ଲଷ୍ମୀ ଚୌଧୁରୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e60776bfca.html",
+          "snapshot": "public/shishu/article_details-e60776bfca.html"
+        }
+      ],
+      "notes": [
+        "Full Magic Bottle story read; signature explicitly teacher DAV Public School Puri. Exact name/story and normalized-name searches no biography beyond original. Bijayalakshmi Patri and Bijay Choudhury unrelated results excluded. Keep spelling variant unmerged pending corroboration, photo placeholder."
+      ],
+      "batch": "023",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.ameodia.com/odia-authors-ameodia-odia-magazine/",
+        "https://shubhapallaba.in/shankhanada-book-review/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/92a6df756017.html",
@@ -3797,6 +3867,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 022 validated; deployment pending. 110/185 checked, 75 pending; 78 sourced introductions. Next: ବସିରନ ବିବି /shishu/writers/fc19d89e45a8.html",
+  "resume": "Batch 023 validated; deployment pending. 115/185 checked, 70 pending. 81 sourced introductions, 171 live profiles. Browser timeout: visual/search verification deferred. Next: ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ /shishu/writers/92a6df756017.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }
