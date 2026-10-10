@@ -564,6 +564,33 @@
           "archive": "provenance/writer-profile-archive/2026-10-10/5d25356cae88.html"
         }
       ]
+    },
+    {
+      "slug": "subasini-dhal",
+      "canonical": "/shishu/writers/809247c9a1cc.html",
+      "name": "ସୁବାସିନୀ ଧଳ",
+      "members": [
+        {
+          "route": "/shishu/writers/809247c9a1cc.html",
+          "name": "ସୁବାସିନୀ ଧଳ",
+          "identityEvidence": "Subasini Dhal spelling variants confirmed by exact published contact in original Maa-ra Mamata a14288fce0(Puri) and Benguli Bahaghara13107aa7f9(Bhubaneswar). 520d3bae85 also Bhubaneswar. Name differs only ba/va spelling; exact contact bridges changed locality. Preserve all five works and original bylines; archive alias without redirect. No new external biography or portrait verified.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-a14288fce0.html\">ମାଆର ମମତା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-899f2c1a2e.html\">ଫେବୃଆରୀ: ୨୦୨୪</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/2c2d39d45599.html",
+          "name": "ସୁଵାସିନୀ ଧଳ",
+          "identityEvidence": "Subasini Dhal spelling variants confirmed by exact published contact in original Maa-ra Mamata a14288fce0(Puri) and Benguli Bahaghara13107aa7f9(Bhubaneswar). 520d3bae85 also Bhubaneswar. Name differs only ba/va spelling; exact contact bridges changed locality. Preserve all five works and original bylines; archive alias without redirect. No new external biography or portrait verified.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-520d3bae85.html\">ସାଧଵ ବୋହୂ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-14e6b35237.html\">ସେପ୍ଟେମ୍ବର: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-13107aa7f9.html\">ଵେଙ୍ଗୁଲୀ ବାହାଘର<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-d403030c2c.html\">ଅଗଷ୍ଟ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-eecbcb6ea7.html\">ନେହେରୁଙ୍କ କଲମ ଚୋରୀ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-01d938c402.html\">ଡିସେମ୍ବର: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-ba75d31188.html\">ଶ୍ରୀରାମଙ୍କ  ଦେବୀ ପୂଜା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/2c2d39d45599.html"
+        }
+      ]
     }
   ],
   "archivedLegacyAliases": [
@@ -674,6 +701,10 @@
     {
       "route": "/shishu/writers/be505289ed09.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/be505289ed09.html"
+    },
+    {
+      "route": "/shishu/writers/923079dcd7ac.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/923079dcd7ac.html"
     }
   ]
 }

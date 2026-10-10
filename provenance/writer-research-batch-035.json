@@ -1,0 +1,159 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/2c2d39d45599.html",
+      "name": "ସୁଵାସିନୀ ଧଳ",
+      "contributionCount": 4,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a14288fce0.html",
+          "snapshot": "public/shishu/article_details-a14288fce0.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-13107aa7f9.html",
+          "snapshot": "public/shishu/article_details-13107aa7f9.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-520d3bae85.html",
+          "snapshot": "public/shishu/article_details-520d3bae85.html"
+        }
+      ],
+      "notes": [
+        "Subasini Dhal spelling variants confirmed by exact published contact in original Maa-ra Mamata a14288fce0(Puri) and Benguli Bahaghara13107aa7f9(Bhubaneswar). 520d3bae85 also Bhubaneswar. Name differs only ba/va spelling; exact contact bridges changed locality. Preserve all five works and original bylines; archive alias without redirect. No new external biography or portrait verified."
+      ],
+      "batch": "035",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/809247c9a1cc.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/2c2d39d45599.html",
+      "researchUrls": [
+        "https://www.shishukishora.com/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/2ce7bb2a72a7.html",
+      "name": "ସୁଶାନ୍ତ କୁମାର ସାମଲ",
+      "contributionCount": 2,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d16cfd1112.html",
+          "snapshot": "public/shishu/article_details-d16cfd1112.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f8eff52561.html",
+          "snapshot": "public/shishu/article_details-f8eff52561.html"
+        }
+      ],
+      "notes": [
+        "Both available poems read; winter poem source ends in ellipsis, no missing text reconstructed. Punya Karttika signature Dayanadi Bihar,Bhubaneswar. Exact Odia/English/locality searches surfaced unrelated officials and real-estate namesakes; no independent literary identity or photo bridge. Work-based introduction only."
+      ],
+      "batch": "035",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://samalrealty.myrealestateplatform.com/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/4ddae1ce7968.html",
+      "name": "ସୁଶ୍ରୀ ସଂଯୁକ୍ତା ପରିଚ୍ଛା",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6635972a90.html",
+          "snapshot": "public/shishu/article_details-6635972a90.html"
+        }
+      ],
+      "notes": [
+        "Complete poem read; signature Patnagarh,Balangir. Original article362 confirms named byline and locality. Local literary-event reports name poet in Patnagarh; no need to add one-off attendance or assign unlabelled group photo. No career/book/award claim. Preserve earlier cb897d1577 concatenation anomaly separately."
+      ],
+      "batch": "035",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=362",
+        "https://koshalaprabahalive.com/odisha/jayanti-palita-19/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/53c5b3ec02e3.html",
+      "name": "ସୁଶ୍ରୀ ସବିତା ଭୋଇ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fda5ac8695.html",
+          "snapshot": "public/shishu/article_details-fda5ac8695.html"
+        }
+      ],
+      "notes": [
+        "Full poem read; original explicitly identifies editor Indradhanu,Damkipali,Patnagarh,Balangir. Added attributed editorial role only. Sahitya Akademi2014 newsletter/annual report list Sabita Bhoi as Odia woman writer, but no locality/shared-work bridge verified; event and associated group photograph not assigned."
+      ],
+      "batch": "035",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sahitya-akademi.gov.in/e-newsletter/July-August_2014_NewsLetter.pdf",
+        "https://sahitya-akademi.gov.in/aboutus/pdf/AR-2014-15%283%29.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/5c4b7e337fe1.html",
+      "name": "ସ୍ନିଗ୍ଧା ନାୟକ",
+      "contributionCount": 5,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-07746c741d.html",
+          "snapshot": "public/shishu/article_details-07746c741d.html"
+        }
+      ],
+      "notes": [
+        "Full Bundi read; original has contact but no locality. StoryMirror named Shikshita signature Kota,Rajasthan surfaced but page fetch failed and no shared contact/work verified. Multiple unrelated professional namesakes rejected. Literary introduction only; no location,career or portrait assigned."
+      ],
+      "batch": "035",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://storymirror.com/read/oriya/story/shikssitaa/rhkqbbaf"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ସୁଵାସିନୀ ଧଳ",
+    "ସୁଶାନ୍ତ କୁମାର ସାମଲ କବି",
+    "ସଂଯୁକ୍ତା ପରିଚ୍ଛା",
+    "ସବିତା ଭୋଇ",
+    "ସ୍ନିଗ୍ଧା ନାୟକ ଲେଖିକା",
+    "Sushanta Kumar Samal poet",
+    "Sanjukta Parichha writer",
+    "Sabita Bhoi poet",
+    "ସବିତା ଭୋଇ ଇନ୍ଦ୍ରଧନୁ",
+    "ସଂଯୁକ୍ତା ପରିଚ୍ଛା ପାଟଣାଗଡ଼",
+    "ସୁଶାନ୍ତ କୁମାର ସାମଲ ଦୟା",
+    "Snigdha Nayak writer biography Kota"
+  ],
+  "validation": "Build,delivery,sharing,discovery,ebooks and merge checks passed; all five merged contributions retained,unrelated contribution markup unchanged. Browser verified five profiles and one result for alternate Subasini spelling. Legacy preview synced."
+}

@@ -2212,17 +2212,27 @@
       "route": "/shishu/writers/809247c9a1cc.html",
       "name": "ସୁବାସିନୀ ଧଳ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
-      "bio": "ସୁବାସିନୀ ଧଳଙ୍କ ‘ମାଆର ମମତା’ ଗପରେ ମୁନୁର ଏକୁଟିଆପଣ ଓ ପରିବାରର ସ୍ନେହ ପାଇବାର ଇଚ୍ଛା ରହିଛି । ପିଲାଙ୍କୁ ସମୟ ଦେବା, ସେମାନଙ୍କ କଥା ଶୁଣିବା ଓ ଯତ୍ନ ନେବା କେତେ ଜରୁରୀ, ଗପଟି ସେ କଥା ମନେ ପକାଏ ।",
-      "searchAliases": "Subasini Dhal",
+      "bio": "ସୁବାସିନୀ ଧଳଙ୍କ ‘ମାଆର ମମତା’ ଗପରେ ମୁନୁର ଏକୁଟିଆପଣ ଓ ପରିବାରର ସ୍ନେହ ପାଇବାର ଇଚ୍ଛା ରହିଛି । ପିଲାଙ୍କୁ ସମୟ ଦେବା, ସେମାନଙ୍କ କଥା ଶୁଣିବା ଓ ଯତ୍ନ ନେବା କେତେ ଜରୁରୀ, ଗପଟି ସେ କଥା ମନେ ପକାଏ । ‘ଵେଙ୍ଗୁଲୀ ବାହାଘର’ରେ ବର୍ଷା ଓ କାଗଜ ଡଙ୍ଗାକୁ ନେଇ ପିଲାଙ୍କ ଆନନ୍ଦର କଥା ରହିଛି ।",
+      "searchAliases": "Subasini Dhal ସୁଵାସିନୀ ଧଳ",
       "portrait": null,
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
           "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a14288fce0.html",
           "snapshot": "public/shishu/article_details-a14288fce0.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-13107aa7f9.html",
+          "snapshot": "public/shishu/article_details-13107aa7f9.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-520d3bae85.html",
+          "snapshot": "public/shishu/article_details-520d3bae85.html"
         }
       ],
-      "identity": "Full story read; signature Siddhamahavir Chhak,Puri. Odia full name with writer and English searches found academy listing but no independently matched career or photograph. Preserve spelling variants separately until corroborated. Literary introduction only."
+      "identity": "Full story read; signature Siddhamahavir Chhak,Puri. Odia full name with writer and English searches found academy listing but no independently matched career or photograph. Preserve spelling variants separately until corroborated. Literary introduction only. Subasini Dhal spelling variants confirmed by exact published contact in original Maa-ra Mamata a14288fce0(Puri) and Benguli Bahaghara13107aa7f9(Bhubaneswar). 520d3bae85 also Bhubaneswar. Name differs only ba/va spelling; exact contact bridges changed locality. Preserve all five works and original bylines; archive alias without redirect. No new external biography or portrait verified."
     },
     {
       "slug": "db792c256d76",
@@ -2262,6 +2272,79 @@
         }
       ],
       "identity": "Two-part story read; signature IRC Village,Bhubaneswar. Exact Odia/English searches found PNCollege English lecturer,Melting Moments and Apasrustira Atmalipi. College page open403; name plus broad city does not establish identity. Books,career,awards and portrait withheld pending distinctive shared work/locality evidence. Literary introduction only."
+    },
+    {
+      "slug": "2ce7bb2a72a7",
+      "route": "/shishu/writers/2ce7bb2a72a7.html",
+      "name": "ସୁଶାନ୍ତ କୁମାର ସାମଲ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସୁଶାନ୍ତ କୁମାର ସାମଲଙ୍କ ‘ପୁଣ୍ୟ କାର୍ତ୍ତିକ’ କବିତାରେ କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମା, ଡଙ୍ଗା ଭସା ଓ ସାଧବପୁଅଙ୍କ ସ୍ମୃତିର କଥା ରହିଛି । ‘ଶୀତକୁ କହିଲି ମୁହିଁ’ କବିତା ପ୍ରକୃତି ଓ ଗଛଲତାର ଯତ୍ନ ନେବାକୁ ମନେ ପକାଏ ।",
+      "searchAliases": "Sushanta Kumar Samal",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d16cfd1112.html",
+          "snapshot": "public/shishu/article_details-d16cfd1112.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f8eff52561.html",
+          "snapshot": "public/shishu/article_details-f8eff52561.html"
+        }
+      ],
+      "identity": "Both available poems read; winter poem source ends in ellipsis, no missing text reconstructed. Punya Karttika signature Dayanadi Bihar,Bhubaneswar. Exact Odia/English/locality searches surfaced unrelated officials and real-estate namesakes; no independent literary identity or photo bridge. Work-based introduction only."
+    },
+    {
+      "slug": "4ddae1ce7968",
+      "route": "/shishu/writers/4ddae1ce7968.html",
+      "name": "ସୁଶ୍ରୀ ସଂଯୁକ୍ତା ପରିଚ୍ଛା",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସଂଯୁକ୍ତା ପରିଚ୍ଛାଙ୍କ ‘ଟୁକୁନା ଋଷିଛି’ କବିତାରେ ପଶୁପକ୍ଷୀଙ୍କୁ ସାଙ୍ଗ ଭାବୁଥିବା ଟୁକୁନାର କଥା ରହିଛି । ଛେଳିଛୁଆଟିର ମୃତ୍ୟୁରେ ତା’ର ମନଦୁଃଖ ପିଲାଙ୍କ ଜୀବଦୟା ଓ କୋମଳ ମନକୁ ଦେଖାଏ ।",
+      "searchAliases": "Sanjukta Parichha Sanjukta Parichha",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6635972a90.html",
+          "snapshot": "public/shishu/article_details-6635972a90.html"
+        }
+      ],
+      "identity": "Complete poem read; signature Patnagarh,Balangir. Original article362 confirms named byline and locality. Local literary-event reports name poet in Patnagarh; no need to add one-off attendance or assign unlabelled group photo. No career/book/award claim. Preserve earlier cb897d1577 concatenation anomaly separately."
+    },
+    {
+      "slug": "53c5b3ec02e3",
+      "route": "/shishu/writers/53c5b3ec02e3.html",
+      "name": "ସୁଶ୍ରୀ ସବିତା ଭୋଇ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସବିତା ଭୋଇଙ୍କୁ ‘ଶିଶୁ କିଶୋର’ରେ ପ୍ରକାଶିତ ମୂଳ ଲେଖାର ପରିଚୟରେ ‘ଇନ୍ଦ୍ରଧନୁ’ର ସଂପାଦିକା ଭାବେ ଉଲ୍ଲେଖ କରାଯାଇଛି । ତାଙ୍କ ‘ଦୂରରୁ ହୁଅ ଗେଲ’ କବିତାରେ ଆକ୍ଵାରିଅମର ମାଛ ଓ ବିଲେଇର ମଜାଳିଆ କଥାବାର୍ତ୍ତା ରହିଛି ।",
+      "searchAliases": "Sabita Bhoi",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fda5ac8695.html",
+          "snapshot": "public/shishu/article_details-fda5ac8695.html"
+        }
+      ],
+      "identity": "Full poem read; original explicitly identifies editor Indradhanu,Damkipali,Patnagarh,Balangir. Added attributed editorial role only. Sahitya Akademi2014 newsletter/annual report list Sabita Bhoi as Odia woman writer, but no locality/shared-work bridge verified; event and associated group photograph not assigned."
+    },
+    {
+      "slug": "5c4b7e337fe1",
+      "route": "/shishu/writers/5c4b7e337fe1.html",
+      "name": "ସ୍ନିଗ୍ଧା ନାୟକ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସ୍ନିଗ୍ଧା ନାୟକଙ୍କ ‘ବୁନ୍ଦି’ ଗପରେ ପାଣିବୁନ୍ଦାଟିଏ ଓ ରିଆର କଥା ରହିଛି । ଖୋଲା ନଳରୁ ପାଣି ନଷ୍ଟ ହେଉଥିବା ଦେଖି ରିଆ ତା’ର ଭୁଲ ସୁଧାରେ । ପାଣିକୁ ଯତ୍ନରେ ବ୍ୟବହାର କରିବାର ଛୋଟ ଛୋଟ ଅଭ୍ୟାସ ଗପଟି ପିଲାଙ୍କୁ ମନେ ପକାଏ ।",
+      "searchAliases": "Snigdha Nayak",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-07746c741d.html",
+          "snapshot": "public/shishu/article_details-07746c741d.html"
+        }
+      ],
+      "identity": "Full Bundi read; original has contact but no locality. StoryMirror named Shikshita signature Kota,Rajasthan surfaced but page fetch failed and no shared contact/work verified. Multiple unrelated professional namesakes rejected. Literary introduction only; no location,career or portrait assigned."
     }
   ],
   "pendingResearch": [
