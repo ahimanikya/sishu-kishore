@@ -1221,6 +1221,100 @@
       "route": "/shishu/writers/21afaaab9e9e.html",
       "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
       "identity": "Original signature is Khuntakata, Athagarh, distinct from earlier Balangir contributor. Do not merge them. Search with locality does not corroborate profession or portrait. Keep source honorific; introduction limited to original poem."
+    },
+    {
+      "slug": "ashok-kumar-sethi-balangir",
+      "route": "/shishu/writers/5858dbd35ce2.html",
+      "name": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀଙ୍କ ‘ପଣତକାନି’ କବିତାରେ ମାଆର ସ୍ନେହ ଓ ଆଦରର କଥା ରହିଛି । ମାଆର ପଣତ ତଳେ ପିଲାଟି ନିରାପଦ ଓ ଖୁସି ଅନୁଭବ କରେ ।",
+      "searchAliases": "Ashok Kumar Sethi Balangir",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-9769dbd2ae.html",
+          "snapshot": "public/shishu/article_details-9769dbd2ae.html"
+        }
+      ],
+      "identity": "Original signature Balangir; do not merge with Athagarh writer. Literary event report names a Balangir poet but lacks sufficient identity bridge. No career or photograph attributed."
+    },
+    {
+      "slug": "tanaya-das-goswami",
+      "route": "/shishu/writers/6bd0f39ff075.html",
+      "name": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀଙ୍କ ‘ଉଡା ଜାହାଜରେ ଯିବି’ କବିତାରେ ମିଲି ଓ ତାର ମାଆଙ୍କ କଥା ରହିଛି । ଗାନ୍ଧୀଙ୍କ ଜୀବନୀ ଉପରେ ରଚନା ଲେଖିବାକୁ ନେଇ କବିତାଟି ମହାପୁରୁଷଙ୍କ ବିଷୟରେ ପଢ଼ିବାର ଆଗ୍ରହ ଜଗାଏ ।",
+      "searchAliases": "Tanaya Das Goswami",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-832c9c74f9.html",
+          "snapshot": "public/shishu/article_details-832c9c74f9.html"
+        }
+      ],
+      "identity": "Original signature Radhakrishna Nagar Bhubaneswar. Government publishers directory lists same full name at Ratha Road but no exact bridge, books or photo. Only original poem described."
+    },
+    {
+      "slug": "tapan-kumar-swain-cuttack",
+      "route": "/shishu/writers/15098a8414dc.html",
+      "name": "ତପନ କୁମାର ସ୍ବାଇଁ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ତପନ କୁମାର ସ୍ବାଇଁଙ୍କ ‘ସାତ ରଙ୍ଗର ଝୋଟି’ କବିତାରେ ସକାଳର ଖରା, ଫୁଲ ଓ ପ୍ରଜାପତିର ସୁନ୍ଦର ଛବି ରହିଛି । ପ୍ରକୃତିର ରଙ୍ଗକୁ ଦେଖି ପିଲାମନରେ ଉଠୁଥିବା ପ୍ରଶ୍ନ ଏଥିରେ ପ୍ରକାଶ ପାଇଛି ।",
+      "searchAliases": "Tapan Kumar Swain Cuttack",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-3a34a6c8bc.html",
+          "snapshot": "public/shishu/article_details-3a34a6c8bc.html"
+        }
+      ],
+      "identity": "Original Mahanadi Vihar Cuttack signature differs from Aibili variant in locality and published contact. StoryMirror and Aahwaan named works/portrait lack bridge to this route; no merge or portrait."
+    },
+    {
+      "slug": "tapan-kumar-swain-aibili",
+      "route": "/shishu/writers/00baa2538a54.html",
+      "name": "ତପନ କୁମାର ସ୍ୱାଇଁ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ତପନ କୁମାର ସ୍ୱାଇଁ ଶିଶୁ ସାହିତ୍ୟ ଓ ଗୀତି କବିତା ଲେଖନ୍ତି । ସାହିତ୍ୟ ସହ ଚିତ୍ର ଓ ଅଭିନୟରେ ତାଙ୍କର ଆଗ୍ରହ ରହିଛି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ‘ଖରା ଦିନରେ ମିତ’ କବିତାରେ ଗରମ ଦିନରେ ଶୀତଳ ପବନକୁ ବନ୍ଧୁ ଭାବେ ଡକାଯାଇଛି ।",
+      "searchAliases": "Tapan Kumar Swain Aibili",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e92279e76.html",
+          "snapshot": "public/shishu/article_details-7e92279e76.html"
+        },
+        {
+          "label": "ଆମେ ଓଡ଼ିଆ · ଲେଖକ ପରିଚୟ",
+          "url": "https://www.ameodia.com/odia-author/tapan-kumar-swain/"
+        }
+      ],
+      "identity": "Named AmeOdia author search-index profile matches exact Aibili/Tirtol/Jagatsinghpur signature. Supports genres and interests. Direct page shows verification interstitial; indexed photo could not be inspected so portrait remains placeholder. Mahanadi Vihar route not merged."
+    },
+    {
+      "slug": "tulasi-swain",
+      "route": "/shishu/writers/3236a8530ef9.html",
+      "name": "ତୁଳସୀ ସ୍ବାଇଁ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ତୁଳସୀ ସ୍ବାଇଁଙ୍କ କବିତାରେ ପ୍ରକୃତି ଓ ବିଜ୍ଞାନ ପ୍ରତି ଆଗ୍ରହ ଦେଖିବାକୁ ମିଳେ । ‘ସବୁ ତ ପ୍ରକୃତି ଦାନ’ ଜୀବଜନ୍ତୁଙ୍କ ପ୍ରତି ଦୟାର କଥା କହେ । ‘ମୁକୁଳ ସୁଶୀଳ ଭାରି ଖୁସି’ରେ ଦୁଇ ସାଙ୍ଗଙ୍କ ମହାକାଶ ଯାତ୍ରାର ସ୍ୱପ୍ନ ରହିଛି ।",
+      "searchAliases": "Tulasi Swain",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-62c0c4c35a.html",
+          "snapshot": "public/shishu/article_details-62c0c4c35a.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୁକୁଳ ସୁଶୀଳ ଭାରି ଖୁସି",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-544e5682a3.html",
+          "snapshot": "public/shishu/article_details-544e5682a3.html"
+        }
+      ],
+      "identity": "Both original poems read; no locality or identity bridge to same-name Bhubaneswar award winner in news/bookstore. Do not attribute 2020 literary or 2023 science awards yet. No verified photograph."
     }
   ],
   "pendingResearch": [
