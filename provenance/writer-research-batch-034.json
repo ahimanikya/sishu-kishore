@@ -1,0 +1,151 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/31e0b719b778.html",
+      "name": "ସୁଜିତ କୁମାର ମିଶ୍ର",
+      "contributionCount": 10,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-36f8e845e8.html",
+          "snapshot": "public/shishu/article_details-36f8e845e8.html"
+        }
+      ],
+      "notes": [
+        "Full poem read; signature Janardanpur Sasan,Keonjhar. Exact Odia name and locality searches found shortened Sujit Mishra in Aahwaan February2024; no independent bridge to directory writer. No outside career,award or photo assigned."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.aahwaan.com/mags/feb24.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/681d1628c630.html",
+      "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d5f019b2d1.html",
+          "snapshot": "public/shishu/article_details-d5f019b2d1.html"
+        }
+      ],
+      "notes": [
+        "Full story read; signature Salt Lake,Kolkata. Exact Odia spelling variants and English searches found Shubhapallaba named page and Aahwaan contributions. Shubhapallaba open returned no usable text; no independently verified Salt Lake or shared-work bridge. Literary introduction only; external biography and portrait unresolved."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shubhapallaba.in/bas-sabu-sesh/",
+        "https://www.aahwaan.com/mags/feb24.pdf",
+        "https://www.aahwaan.com/mags/mar20.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/809247c9a1cc.html",
+      "name": "ସୁବାସିନୀ ଧଳ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a14288fce0.html",
+          "snapshot": "public/shishu/article_details-a14288fce0.html"
+        }
+      ],
+      "notes": [
+        "Full story read; signature Siddhamahavir Chhak,Puri. Odia full name with writer and English searches found academy listing but no independently matched career or photograph. Preserve spelling variants separately until corroborated. Literary introduction only."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/whoweare.php"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/db792c256d76.html",
+      "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0b73a3b02a.html",
+          "snapshot": "public/shishu/article_details-0b73a3b02a.html"
+        }
+      ],
+      "notes": [
+        "Full poem read; signature Dihadola,Parjang,Dhenkanal. Exact Odia and English name searches surfaced StoryMirror Kala Aloka, but open failed and no locality/shared-work bridge independently verified. No external photo or biography assigned."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://storymirror.com/read/oriya/story/kllaa-aalok/cfbwkc52"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/369056700718.html",
+      "name": "ସୁଲେଖା ସାମନ୍ତରାୟ",
+      "contributionCount": 2,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a556f2e474.html",
+          "snapshot": "public/shishu/article_details-a556f2e474.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2a9eb511e0.html",
+          "snapshot": "public/shishu/article_details-2a9eb511e0.html"
+        }
+      ],
+      "notes": [
+        "Two-part story read; signature IRC Village,Bhubaneswar. Exact Odia/English searches found PNCollege English lecturer,Melting Moments and Apasrustira Atmalipi. College page open403; name plus broad city does not establish identity. Books,career,awards and portrait withheld pending distinctive shared work/locality evidence. Literary introduction only."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.pnautonomouscollege.in/departments/english",
+        "https://guides.lib.uw.edu/c.php?g=341864&p=2301848",
+        "https://rtiodisha.gov.in/Pages/printAllManual/office_id%3A1464/lang"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ସୁଜିତ କୁମାର ମିଶ୍ର କବି",
+    "ସୁଜିତ କୁମାର ମିଶ୍ର ଜନାର୍ଦ୍ଦନପୁର",
+    "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
+    "Sudhanshu Sekhar Dwivedi writer",
+    "ସୁଧାଂଶୁ ଶେଖର ଦ୍ୱିବେଦୀ",
+    "ସୁବାସିନୀ ଧଳ ଲେଖିକା",
+    "Subasini Dhal writer",
+    "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
+    "Subhash Chandra Bhutia poet",
+    "ସୁଲେଖା ସାମନ୍ତରାୟ",
+    "Sulekha Samantaray writer biography",
+    "ସୁଧାଂଶୁ ଦ୍ୱିବେଦୀ ସଲ୍ଟ",
+    "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ ଦିହଡୋଳ",
+    "Sulekha Samantaray IRC"
+  ],
+  "validation": "Build,delivery,sharing,discovery,ebooks and merge checks passed. All contribution lists unchanged. Browser verified five introductions and English-name directory search."
+}

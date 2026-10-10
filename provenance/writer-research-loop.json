@@ -4455,7 +4455,8 @@
       "researchUrls": [
         "https://indiawhispers.com/2020/07/10/odisha-sahitya-academy-awards-for-2015-2016/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "c19f1cd8"
     },
     {
       "route": "/shishu/writers/3dcbd369d7ea.html",
@@ -4480,7 +4481,8 @@
         "https://www.shishukishora.com/article_details.php?article_cd=318",
         "https://akmishra.co/product/yoga-in-everyday-life-odia-sec-nep/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "c19f1cd8"
     },
     {
       "route": "/shishu/writers/2d625b86bf6d.html",
@@ -4522,7 +4524,8 @@
       "reviewed": "2026-10-10",
       "canonicalRoute": "/shishu/writers/a0cccf418dd7.html",
       "archivedProfile": "provenance/writer-profile-archive/2026-10-10/2d625b86bf6d.html",
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "c19f1cd8"
     },
     {
       "route": "/shishu/writers/5d25356cae88.html",
@@ -4564,7 +4567,8 @@
       "reviewed": "2026-10-10",
       "canonicalRoute": "/shishu/writers/a0cccf418dd7.html",
       "archivedProfile": "provenance/writer-profile-archive/2026-10-10/5d25356cae88.html",
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "c19f1cd8"
     },
     {
       "route": "/shishu/writers/a0cccf418dd7.html",
@@ -4608,57 +4612,137 @@
         "https://www.ameodia.com/odia-author/sasmita-swain/",
         "https://www.ameodia.com/children/children-odia-poem/odia-children-poem-tiki-kabita-sasmita-swain/"
       ],
-      "publication": "validated-awaiting-deployment"
+      "publication": "published",
+      "publishedCommit": "c19f1cd8"
     },
     {
       "route": "/shishu/writers/31e0b719b778.html",
       "name": "ସୁଜିତ କୁମାର ମିଶ୍ର",
       "contributionCount": 10,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-36f8e845e8.html",
+          "snapshot": "public/shishu/article_details-36f8e845e8.html"
+        }
+      ],
+      "notes": [
+        "Full poem read; signature Janardanpur Sasan,Keonjhar. Exact Odia name and locality searches found shortened Sujit Mishra in Aahwaan February2024; no independent bridge to directory writer. No outside career,award or photo assigned."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.aahwaan.com/mags/feb24.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/681d1628c630.html",
       "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d5f019b2d1.html",
+          "snapshot": "public/shishu/article_details-d5f019b2d1.html"
+        }
+      ],
+      "notes": [
+        "Full story read; signature Salt Lake,Kolkata. Exact Odia spelling variants and English searches found Shubhapallaba named page and Aahwaan contributions. Shubhapallaba open returned no usable text; no independently verified Salt Lake or shared-work bridge. Literary introduction only; external biography and portrait unresolved."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shubhapallaba.in/bas-sabu-sesh/",
+        "https://www.aahwaan.com/mags/feb24.pdf",
+        "https://www.aahwaan.com/mags/mar20.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/809247c9a1cc.html",
       "name": "ସୁବାସିନୀ ଧଳ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a14288fce0.html",
+          "snapshot": "public/shishu/article_details-a14288fce0.html"
+        }
+      ],
+      "notes": [
+        "Full story read; signature Siddhamahavir Chhak,Puri. Odia full name with writer and English searches found academy listing but no independently matched career or photograph. Preserve spelling variants separately until corroborated. Literary introduction only."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/whoweare.php"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/db792c256d76.html",
       "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0b73a3b02a.html",
+          "snapshot": "public/shishu/article_details-0b73a3b02a.html"
+        }
+      ],
+      "notes": [
+        "Full poem read; signature Dihadola,Parjang,Dhenkanal. Exact Odia and English name searches surfaced StoryMirror Kala Aloka, but open failed and no locality/shared-work bridge independently verified. No external photo or biography assigned."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://storymirror.com/read/oriya/story/kllaa-aalok/cfbwkc52"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/369056700718.html",
       "name": "ସୁଲେଖା ସାମନ୍ତରାୟ",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a556f2e474.html",
+          "snapshot": "public/shishu/article_details-a556f2e474.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2a9eb511e0.html",
+          "snapshot": "public/shishu/article_details-2a9eb511e0.html"
+        }
+      ],
+      "notes": [
+        "Two-part story read; signature IRC Village,Bhubaneswar. Exact Odia/English searches found PNCollege English lecturer,Melting Moments and Apasrustira Atmalipi. College page open403; name plus broad city does not establish identity. Books,career,awards and portrait withheld pending distinctive shared work/locality evidence. Literary introduction only."
+      ],
+      "batch": "034",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.pnautonomouscollege.in/departments/english",
+        "https://guides.lib.uw.edu/c.php?g=341864&p=2301848",
+        "https://rtiodisha.gov.in/Pages/printAllManual/office_id%3A1464/lang"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/2c2d39d45599.html",
@@ -4811,6 +4895,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch033 validated awaiting deployment:165/185 checked,20 pending;107 canonical introductions,14 portraits,157 live profiles,28 archived originals. Next: ସୁଜିତ କୁମାର ମିଶ୍ର /shishu/writers/31e0b719b778.html",
+  "resume": "Batch034 researched:170/185 checked,15 pending. Five work-grounded literary introductions; no new verified biographical identity or portrait. Build/publication pending.",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }

@@ -2172,6 +2172,96 @@
       ],
       "identity": "Full poems bbda59174d,e5b440c678,27f98545b9,cc1080a355,a86a357749,cb897d1577 read. Three variants share Sishilo,Balakati,Khordha; canonical27f98545b9 and aliascc1080a355 exact published contact after digit/space normalization. Spaced-name bbda59174d same distinctive village/post/district, only spacing differs. AmeOdia named author page matches exact full name and village/post/district and children literature; supports BSc Utkal and named associated portrait. Source cb897d1577 includes accidental second poem attributed Sanjukta Parichha; preserved text, flagged and not used to infer Sasmita locality or works.",
       "sourcePortrait": "/portraits/sasmita-swain-source-v1.jpg"
+    },
+    {
+      "slug": "31e0b719b778",
+      "route": "/shishu/writers/31e0b719b778.html",
+      "name": "ସୁଜିତ କୁମାର ମିଶ୍ର",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସୁଜିତ କୁମାର ମିଶ୍ରଙ୍କ ‘ଧାଡି ଭାଙ୍ଗନି ପିମ୍ପୁଡ଼ି ପରି’ କବିତାରେ କୁନା ଓ ଜେଜେମାଆଙ୍କ କଥାବାର୍ତ୍ତା ରହିଛି । ପିମ୍ପୁଡ଼ିଙ୍କ ମିଳିମିଶି କାମ କରିବା ଦେଖି କୁନା ପରିଶ୍ରମ ଓ ଶୃଙ୍ଖଳାର ମୂଲ୍ୟ ବୁଝେ ।",
+      "searchAliases": "Sujit Kumar Mishra",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-36f8e845e8.html",
+          "snapshot": "public/shishu/article_details-36f8e845e8.html"
+        }
+      ],
+      "identity": "Full poem read; signature Janardanpur Sasan,Keonjhar. Exact Odia name and locality searches found shortened Sujit Mishra in Aahwaan February2024; no independent bridge to directory writer. No outside career,award or photo assigned."
+    },
+    {
+      "slug": "681d1628c630",
+      "route": "/shishu/writers/681d1628c630.html",
+      "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀଙ୍କ ‘ପଇସା ଗଛ’ ଗପରେ ବିଟୁର ନିରୀହ ଇଚ୍ଛା ଓ ଜେଜେମାଆଙ୍କ ପ୍ରତି ଭଲପାଇବାର କଥା ରହିଛି । ପରିବାରର ବଡ଼ମାନଙ୍କୁ ପାଖରେ ରଖି ଯତ୍ନ ନେବାର ମୂଲ୍ୟ ଗପଟି ମନେ ପକାଏ ।",
+      "searchAliases": "Sudhanshu Sekhar Dwivedi",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d5f019b2d1.html",
+          "snapshot": "public/shishu/article_details-d5f019b2d1.html"
+        }
+      ],
+      "identity": "Full story read; signature Salt Lake,Kolkata. Exact Odia spelling variants and English searches found Shubhapallaba named page and Aahwaan contributions. Shubhapallaba open returned no usable text; no independently verified Salt Lake or shared-work bridge. Literary introduction only; external biography and portrait unresolved."
+    },
+    {
+      "slug": "809247c9a1cc",
+      "route": "/shishu/writers/809247c9a1cc.html",
+      "name": "ସୁବାସିନୀ ଧଳ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସୁବାସିନୀ ଧଳଙ୍କ ‘ମାଆର ମମତା’ ଗପରେ ମୁନୁର ଏକୁଟିଆପଣ ଓ ପରିବାରର ସ୍ନେହ ପାଇବାର ଇଚ୍ଛା ରହିଛି । ପିଲାଙ୍କୁ ସମୟ ଦେବା, ସେମାନଙ୍କ କଥା ଶୁଣିବା ଓ ଯତ୍ନ ନେବା କେତେ ଜରୁରୀ, ଗପଟି ସେ କଥା ମନେ ପକାଏ ।",
+      "searchAliases": "Subasini Dhal",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a14288fce0.html",
+          "snapshot": "public/shishu/article_details-a14288fce0.html"
+        }
+      ],
+      "identity": "Full story read; signature Siddhamahavir Chhak,Puri. Odia full name with writer and English searches found academy listing but no independently matched career or photograph. Preserve spelling variants separately until corroborated. Literary introduction only."
+    },
+    {
+      "slug": "db792c256d76",
+      "route": "/shishu/writers/db792c256d76.html",
+      "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆଙ୍କ ‘ରହିଯା ପରଜାପତି’ କବିତାରେ ଫୁଲ ବଗିଚା ଓ ପ୍ରଜାପତିର ରଙ୍ଗଭରା ଦୁନିଆ ରହିଛି । ଫୁଲଙ୍କ ମଝିରେ ରହିବାକୁ ପ୍ରଜାପତିକୁ ଡାକି କବିତାଟି ପିଲାଙ୍କୁ ପ୍ରକୃତିର ଆନନ୍ଦ ସହ ଯୋଡ଼େ ।",
+      "searchAliases": "Subhash Chandra Bhutia",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0b73a3b02a.html",
+          "snapshot": "public/shishu/article_details-0b73a3b02a.html"
+        }
+      ],
+      "identity": "Full poem read; signature Dihadola,Parjang,Dhenkanal. Exact Odia and English name searches surfaced StoryMirror Kala Aloka, but open failed and no locality/shared-work bridge independently verified. No external photo or biography assigned."
+    },
+    {
+      "slug": "369056700718",
+      "route": "/shishu/writers/369056700718.html",
+      "name": "ସୁଲେଖା ସାମନ୍ତରାୟ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ସୁଲେଖା ସାମନ୍ତରାୟଙ୍କ ‘ଜ୍ଞାନ ମନ୍ଦିରରେ ଶ୍ରମଦାନ’ ଗପରେ ବାତ୍ୟାରେ ଭାଙ୍ଗିଯାଇଥିବା ବିଦ୍ୟାଳୟକୁ ସଜାଡ଼ିବାର କଥା ରହିଛି । ଶିକ୍ଷକ ଓ ପିଲାମାନେ ମିଳିମିଶି କାମ କରି ଶ୍ରେଣୀଘର ଓ ବଗିଚାକୁ ପୁଣି ସୁନ୍ଦର କରନ୍ତି । ସହଯୋଗ ଓ ନିଜ ବିଦ୍ୟାଳୟ ପ୍ରତି ଯତ୍ନର ମୂଲ୍ୟ ଏହି ଗପରେ ଦେଖିବାକୁ ମିଳେ ।",
+      "searchAliases": "Sulekha Samantaray",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a556f2e474.html",
+          "snapshot": "public/shishu/article_details-a556f2e474.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2a9eb511e0.html",
+          "snapshot": "public/shishu/article_details-2a9eb511e0.html"
+        }
+      ],
+      "identity": "Two-part story read; signature IRC Village,Bhubaneswar. Exact Odia/English searches found PNCollege English lecturer,Melting Moments and Apasrustira Atmalipi. College page open403; name plus broad city does not establish identity. Books,career,awards and portrait withheld pending distinctive shared work/locality evidence. Literary introduction only."
     }
   ],
   "pendingResearch": [
