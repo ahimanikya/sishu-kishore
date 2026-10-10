@@ -1235,6 +1235,57 @@
         }
       ],
       "identity": "Original Mo Gan signature is Baidyanath Patna, Kanas, Puri. Targeted honorific/name and locality searches did not verify biography or photo. Famous novelist Bibhuti Patnaik has no demonstrated identity bridge; awards, birthdate and portrait excluded. Poem narrator not treated as biography."
+    },
+    {
+      "slug": "niranjan-sahu",
+      "route": "/shishu/writers/4e1da9edfd0f.html",
+      "name": "ନିରଞ୍ଜନ ସାହୁ",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ନିରଞ୍ଜନ ସାହୁଙ୍କ ‘ଆମେ ଭାରତ ଶିଶୁ’ କବିତାରେ ଶାନ୍ତି, ସାହାଯ୍ୟ ଓ ଭଲ କାମର କଥା ରହିଛି । ପଡ଼ୋଶୀଙ୍କ ଦୁଃଖରେ ସାହା ହେବା ଓ ଗଛ ଲଗାଇବାକୁ କବିତାଟି ପିଲାଙ୍କୁ ଉତ୍ସାହ ଦିଏ ।",
+      "searchAliases": "Niranjan Sahu Niranjan Sahoo",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-49d6d7fe5b.html",
+          "snapshot": "public/shishu/article_details-49d6d7fe5b.html"
+        }
+      ],
+      "identity": "Original signature Nadua, Keonjhar. Targeted Odia locality and English writer searches found same-name Antarangakalinga contributor and Jajpur publisher without identity bridge. No external career/books/photo attributed. Introduction restricted to read original poem."
+    },
+    {
+      "slug": "nirakar-chaini",
+      "route": "/shishu/writers/908c7bf20e5b.html",
+      "name": "ନିରାକାର ଚଇନି",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ନିରାକାର ଚଇନି କେନ୍ଦୁଝରରେ ଶିକ୍ଷକ ଭାବେ କାମ କରନ୍ତି ଓ ପିଲାଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ ‘ଟିକି ବନ ଝରଣା’ କବିତାରେ ପାହାଡ଼ରୁ ବହିଆସୁଥିବା ଝରଣାଟି ପଶୁ, ପକ୍ଷୀ ଓ ଗଛଲତାଙ୍କ ସାଥୀ ହୋଇଛି ।",
+      "searchAliases": "Nirakar Chaini Nirakara Chaini",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b3e3566468.html",
+          "snapshot": "public/shishu/article_details-b3e3566468.html"
+        }
+      ],
+      "identity": "Original October 2025 poem explicitly identifies teacher at government primary school Subudhisahi, Jagamohanpur, Keonjhar. English and Odia name/locality searches found no reliable additional biography or individual photo. Public introduction includes only broad professional/locality detail, no contact or street information."
+    },
+    {
+      "slug": "nirupama-kabi",
+      "route": "/shishu/writers/3bd88c1233b5.html",
+      "name": "ନିରୁପମା କବି",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ନିରୁପମା କବିଙ୍କ ‘ଆସିଛି ଆଷାଢ’ କବିତାରେ ବର୍ଷା ଆସିବାର ଆନନ୍ଦ ରହିଛି । ସବୁଜ ବନ ଓ ମେଘ ସହ ରଥଯାତ୍ରାର ପ୍ରସ୍ତୁତି ଓ ଭକ୍ତଙ୍କ ଖୁସି କବିତାଟିରେ ମିଳେ ।",
+      "searchAliases": "Nirupama Kabi",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2dc5a25470.html",
+          "snapshot": "public/shishu/article_details-2dc5a25470.html"
+        }
+      ],
+      "identity": "Original poem signature Rairangpur. State bibliography search lists Kabi, Nirupama but PDF retrieval failed (502); no verified book/locality bridge. Three spelling variants lack matching signature/contact/work evidence, so kept separate. No biography facts or photograph inferred."
     }
   ],
   "pendingResearch": [

@@ -2376,9 +2376,10 @@
         "https://www.shishukishora.com/article_details.php?article_cd=176",
         "https://shishukishora.com/article_details.php?article_cd=245"
       ],
-      "publication": "pending-validation",
+      "publication": "published-verified",
       "canonicalRoute": "/shishu/writers/55f62a9245be.html",
-      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/fad523596f29.html"
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/fad523596f29.html",
+      "publishedCommit": "c98dbdf0"
     },
     {
       "route": "/shishu/writers/55f62a9245be.html",
@@ -2408,7 +2409,8 @@
         "https://www.shishukishora.com/article_details.php?article_cd=176",
         "https://shishukishora.com/article_details.php?article_cd=245"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c98dbdf0"
     },
     {
       "route": "/shishu/writers/55f2b4a6ba42.html",
@@ -2438,7 +2440,8 @@
         "https://koshalaprabahalive.com/odisha/sambardhana-385/",
         "https://www.dharitri.com/a-saint-and-a-writer/"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c98dbdf0"
     },
     {
       "route": "/shishu/writers/7202756cab09.html",
@@ -2465,7 +2468,8 @@
         "https://www.dharitri.com/as-thought-so-result/",
         "https://storymirror.com/read/oriya/story/daanbiir-setth/tizboqiw"
       ],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c98dbdf0"
     },
     {
       "route": "/shishu/writers/45ab42330e07.html",
@@ -2487,57 +2491,128 @@
       "batch": "018",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "pending-validation"
+      "publication": "published-verified",
+      "publishedCommit": "c98dbdf0"
     },
     {
       "route": "/shishu/writers/4e1da9edfd0f.html",
       "name": "ନିରଞ୍ଜନ ସାହୁ",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-49d6d7fe5b.html",
+          "snapshot": "public/shishu/article_details-49d6d7fe5b.html"
+        }
+      ],
+      "notes": [
+        "Original signature Nadua, Keonjhar. Targeted Odia locality and English writer searches found same-name Antarangakalinga contributor and Jajpur publisher without identity bridge. No external career/books/photo attributed. Introduction restricted to read original poem."
+      ],
+      "batch": "019",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://antarangakalinga.org/aira-kharavela/",
+        "https://antarangakalinga.org/ame-odia/",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/908c7bf20e5b.html",
       "name": "ନିରାକାର ଚଇନି",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b3e3566468.html",
+          "snapshot": "public/shishu/article_details-b3e3566468.html"
+        }
+      ],
+      "notes": [
+        "Original October 2025 poem explicitly identifies teacher at government primary school Subudhisahi, Jagamohanpur, Keonjhar. English and Odia name/locality searches found no reliable additional biography or individual photo. Public introduction includes only broad professional/locality detail, no contact or street information."
+      ],
+      "batch": "019",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/3bd88c1233b5.html",
       "name": "ନିରୁପମା କବି",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2dc5a25470.html",
+          "snapshot": "public/shishu/article_details-2dc5a25470.html"
+        }
+      ],
+      "notes": [
+        "Original poem signature Rairangpur. State bibliography search lists Kabi, Nirupama but PDF retrieval failed (502); no verified book/locality bridge. Three spelling variants lack matching signature/contact/work evidence, so kept separate. No biography facts or photograph inferred."
+      ],
+      "batch": "019",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/845d029c5cb6.html",
       "name": "ନିରୁପମା କଵି",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-23759e2b5e.html",
+          "snapshot": "public/shishu/article_details-23759e2b5e.html"
+        }
+      ],
+      "notes": [
+        "Read complete original contribution. No locality or contact signature to corroborate identity with Nirupama Kabi Rairangpur profile. Targeted searches of exact Odia spelling, English name and story title found no identity-verified biography or portrait. State bibliography name-only result cannot establish identity; retrieval failed. Keep separate pending corroboration; no merge or added biography."
+      ],
+      "batch": "019",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/a37c63e8d347.html",
       "name": "ନିରୂପମା କବି",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d7fea22462.html",
+          "snapshot": "public/shishu/article_details-d7fea22462.html"
+        }
+      ],
+      "notes": [
+        "Read complete original contribution. No locality or contact signature to corroborate identity with Nirupama Kabi Rairangpur profile. Targeted searches of exact Odia spelling, English name and story title found no identity-verified biography or portrait. State bibliography name-only result cannot establish identity; retrieval failed. Keep separate pending corroboration; no merge or added biography."
+      ],
+      "batch": "019",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/ec4c0847b900.html",
@@ -3476,6 +3551,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 018 validated, pending commit/deployment. 90/185 original entries checked; 95 pending. 171 online profiles, 60 canonical introductions. Next: ନିରଞ୍ଜନ ସାହୁ /shishu/writers/4e1da9edfd0f.html",
+  "resume": "Batch 019 validated, pending deployment. 95/185 original entries checked; 90 pending. 171 online profiles; 63 canonical introductions. Next: ନୀଳମଣି ଚାନ୍ଦ /shishu/writers/ec4c0847b900.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }
