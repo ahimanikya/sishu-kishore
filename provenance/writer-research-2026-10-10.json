@@ -243,6 +243,62 @@
       ],
       "identity": "Boudh identity corroborated by original article signature and named 2025 literary-event report. Subject description derived from actual published poems, not an inferred personal interest. No group-photo face chosen.",
       "evidenceArticle": "public/shishu/article_details-448effc32f.html"
+    },
+    {
+      "slug": "ajay-kumar-sethi",
+      "route": "/shishu/writers/2a4f422edb86.html",
+      "name": "ଅଜୟ କୁମାର ସେଠୀ",
+      "role": "ଶିଶୁ କବିତା ଲେଖକ",
+      "bio": "ଅଜୟ କୁମାର ସେଠୀ ପିଲାମାନଙ୍କ ପାଇଁ ଓଡ଼ିଆରେ କବିତା ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ତାଙ୍କର ‘ଓଡ଼ିଶା ମାଟିରେ ଜନମ ନେଇଛେ’ କବିତାରେ ଓଡ଼ିଶାର ପ୍ରକୃତି ଓ ସଂସ୍କୃତିର କଥା ରହିଛି । ‘ଭଲ ମଣିଷ ମୁଁ ହେବି’ କବିତାରେ ସେବା, ସ୍ନେହ ଓ ଭଲ ମଣିଷ ହେବାର ଇଚ୍ଛା ପ୍ରକାଶ ପାଇଛି ।",
+      "searchAliases": "Ajay Kumar Sethi Ajaya Kumar Sethi",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଓଡ଼ିଶା ମାଟିରେ ଜନମ ନେଇଛେ",
+          "url": "https://shishukishora.com/article_details.php?article_cd=257"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଭଲ ମଣିଷ ମୁଁ ହେବି",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-788.html"
+        }
+      ],
+      "identity": "Original magazine bylines and matching Puri locality. Introduction describes only the published poems; external newspaper OCR is unreliable and not used for dates or photograph."
+    },
+    {
+      "slug": "sarat-kumar-das",
+      "route": "/shishu/writers/bd817933d592.html",
+      "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+      "role": "କବି ଓ ଅଧ୍ୟାପକ",
+      "bio": "ଶରତ କୁମାର ଦାସ ଓଡ଼ିଆରେ କବିତା ଲେଖନ୍ତି ଏବଂ ବଡ଼ବିଲ ମହାବିଦ୍ୟାଳୟର ରାଜନୀତି ବିଜ୍ଞାନ ବିଭାଗରେ ଅଧ୍ୟାପନା କରିଛନ୍ତି । ତାଙ୍କର ଶିଶୁ କବିତା ‘ସରଗେ ଉଇଁଛି ଜହ୍ନ’ରେ ଜହ୍ନକୁ ନେଇ କୁନି ପିଲାର କୌତୂହଳ ଓ ମାଆ ସହ ତାହାର କଥାବାର୍ତ୍ତା ରହିଛି ।",
+      "searchAliases": "Sarat Kumar Das Sharata Kumar Das",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ସରଗେ ଉଇଁଛି ଜହ୍ନ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-5a8b8cc029.html"
+        },
+        {
+          "label": "ବଣମଲ୍ଲୀ · ଲେଖକଙ୍କ କବିତା ଓ ପରିଚୟ",
+          "url": "https://blog.banamalli.org/2018/10/debi-dashabhuja.html"
+        }
+      ],
+      "identity": "Original October 2025 article signature and 2018 Banamalli signature both identify the writer with Political Science at Barbil College, Kendujhar. Past-tense teaching wording avoids claiming current employment."
+    },
+    {
+      "slug": "ananta-kumar-senapati",
+      "route": "/shishu/writers/9d348fab7d0e.html",
+      "name": "ଅନନ୍ତ କୁମାର ସେନାପତି",
+      "role": "ଶିଶୁ କବିତା ଲେଖକ",
+      "bio": "ଅନନ୍ତ କୁମାର ସେନାପତି ପିଲାମାନଙ୍କ ପାଇଁ ଓଡ଼ିଆ କବିତା ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ‘ଫୁଟି ବି ଫୁଲଟି ପରି’ କବିତାରେ ଫୁଲ ହୋଇ ଅନ୍ୟକୁ ଆନନ୍ଦ ଦେବାର ଇଚ୍ଛା ରହିଛି । ‘ମହକିବି ଦିନେ ଫୁଲ ପରିକା’ କବିତାରେ ପିଲାମନର ଖେଳ, ସପନ ଓ ବଡ଼ ହୋଇ ଭଲ କାମ କରିବାର ଆଶା ଫୁଟିଉଠିଛି ।",
+      "searchAliases": "Ananta Kumar Senapati",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଫୁଟି ବି ଫୁଲଟି ପରି",
+          "url": "https://shishukishora.com/article_details.php?article_cd=338"
+        }
+      ],
+      "identity": "Original magazine bylines and Rajgangpur signatures establish the contributor. Literary introduction is based on his published poems; no unsupported books, awards or occupation added."
     }
   ],
   "pendingResearch": [

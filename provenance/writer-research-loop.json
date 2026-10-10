@@ -1,0 +1,1991 @@
+{
+  "created": "2026-10-10",
+  "scope": "Research every writer directory entry, including useful further biography details for previously enriched profiles.",
+  "completionRule": "Every entry has a recorded source-backed outcome: enriched, checked-no-addition, or identity-unresolved. Source-limited cases count as checked only after actual research and recorded evidence; never mark unsearched entries complete.",
+  "batchSize": 5,
+  "status": "active",
+  "entries": [
+    {
+      "route": "/shishu/writers/c06d26ee0057.html",
+      "name": "; ନୀଳମଣି ଚାନ୍ଦ",
+      "contributionCount": 1,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Original January 2024 rhyme and external Raja poem carry consistent identity signals. Leading-semicolon byline is a likely duplicate, but merging is deferred. No reliable detailed biography or named portrait established."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "001",
+      "researchUrls": [
+        "https://shishukishora.com/old_issues_details.php?issue_cd=1",
+        "https://aimamedia.org/news/672644/"
+      ],
+      "publication": "not-needed"
+    },
+    {
+      "route": "/shishu/writers/2a4f422edb86.html",
+      "name": "ଅଜୟ କୁମାର ସେଠୀ",
+      "contributionCount": 4,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Added introduction grounded in two named magazine poems. Newspaper result had inconsistent OCR; birthdate and portrait not used."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "001",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=257",
+        "https://sishu.kabitawithoutborders.org/shishu/article-788.html"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/bd817933d592.html",
+      "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Teaching affiliation corroborated in two signed literary publications. No verified standalone portrait selected."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "001",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-5a8b8cc029.html",
+        "https://blog.banamalli.org/2018/10/debi-dashabhuja.html"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/9d348fab7d0e.html",
+      "name": "ଅନନ୍ତ କୁମାର ସେନାପତି",
+      "contributionCount": 12,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Added short introduction to his published poetry. Broader searches returned mostly magazine contributions and unrelated names; no reliable life details or portrait."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "001",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=338"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/dfedff336b61.html",
+      "name": "ଅନନ୍ତ ପ୍ରଧାନ",
+      "contributionCount": 1,
+      "status": "checked-no-addition",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=200",
+          "snapshot": "public/shishu/birthday_details-821e7ffc8d.html"
+        }
+      ],
+      "notes": [
+        "Reviewed original birthday biography and searched Odia/English name with editorial affiliation. Existing introduction already contains supported useful details; unrelated people and group photographs excluded. Existing verified portrait retained."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "001",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=200"
+      ],
+      "publication": "not-needed"
+    },
+    {
+      "route": "/shishu/writers/8aa404dcfb41.html",
+      "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
+      "contributionCount": 6,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/66393b0de741.html",
+      "name": "ଅଶୋକ କୁମାର ପ୍ରଧାନ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ced75a694fd6.html",
+      "name": "ଅଶୋକ କୁମାର ସେଠୀ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9b2a83434590.html",
+      "name": "ଉମାକାନ୍ତ ବେହେରା",
+      "contributionCount": 7,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/a7fd935e072c.html",
+      "name": "କନ୍ଦର୍ପ ବେହେରା",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ae85c64c0f18.html",
+      "name": "କବିଜ୍ୟୋତି ନିରଞ୍ଜନ ପତି",
+      "contributionCount": 11,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/05c4bac63090.html",
+      "name": "କବିତା ଦେବୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/19c8f0c69b64.html",
+      "name": "କବିତା ମିଶ୍ର",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/af743bc99a97.html",
+      "name": "କବିତାମିଶ୍ର",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/036f70ab6fb9.html",
+      "name": "କମଳିନୀ ମଲ୍ଲିକ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/f5e65e2d3dc9.html",
+      "name": "କମଳିନୀ ମଲ୍ଲିକ୍‌",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2c5ca3733964.html",
+      "name": "କୀର୍ତ୍ତନ ସାହୁ",
+      "contributionCount": 13,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/524cb79f75d5.html",
+      "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4aa0a9dbf33c.html",
+      "name": "କୈଳାସ ଚନ୍ଦ୍ର ଧଳ",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/d878ef9ba83c.html",
+      "name": "କୈଳାସ ଚନ୍ଦ୍ର ବେହେରା",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3cab06f38bc2.html",
+      "name": "ଗୀତାଞ୍ଜଳି ସ୍ଵାଇଁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4b75b270fdbe.html",
+      "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/67fc1496f8fc.html",
+      "name": "ଗୋପୀନାଥ ଦାଶ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/646ed979fded.html",
+      "name": "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/0ffecc9a3bd3.html",
+      "name": "ଘନଶ୍ୟାମ ବୋଇତେଇ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4365113dce3c.html",
+      "name": "ଚତୁର୍ଭୁଜ ପହି",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/b1204e468fea.html",
+      "name": "ଜିତେନ୍ଦ୍ର ଚନ୍ଦ୍ର ସାହୁ",
+      "contributionCount": 9,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/74f717baed70.html",
+      "name": "ଜିତେନ୍ଦ୍ର ସାହୁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ea5ac870c4bd.html",
+      "name": "ଜ୍ୟୋତିର୍ମୟୀ ମହାନ୍ତି",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/c89e02766cff.html",
+      "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "contributionCount": 20,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
+          "snapshot": "public/shishu/birthday_details-bb525959f7.html"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/bef5579559e6.html",
+      "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/8218162be47d.html",
+      "name": "ଜୟନ୍ତକୁମାର ଓଝା",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5022efa803e9.html",
+      "name": "ଜୟନ୍ତିକା",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=199",
+          "snapshot": "public/shishu/birthday_details-f9ece26ba7.html"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/6fa730670541.html",
+      "name": "ଝରଣା ମଲ୍ଲିକ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/e4d18d48489d.html",
+      "name": "ଡ ରବିନାରାୟଣ ସାହୁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/fb95b574ae09.html",
+      "name": "ଡ. କମଳାକାନ୍ତ ଜେନା",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9aaf459c3069.html",
+      "name": "ଡ. ବିଜୟା ପାତ୍ର",
+      "contributionCount": 7,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/be558d5e012a.html",
+      "name": "ଡ. ବିଜୟା ପାତ୍ର (ସ୍ବାଇଁ)",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9fb160aa710f.html",
+      "name": "ଡ. ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/75d699aa5d34.html",
+      "name": "ଡ. ସନାତନ ପଣ୍ଡା",
+      "contributionCount": 6,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/809b37f8b67c.html",
+      "name": "ଡ.ବିଜୟା ପାତ୍ର",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/c74768426438.html",
+      "name": "ଡଃ . ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/1928b5c64b0a.html",
+      "name": "ଡଃ ସ୍ବର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/53aa42b70560.html",
+      "name": "ଡଃ ସ୍ଵର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 10,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5be77343df78.html",
+      "name": "ଡଃ ସ୍ୱର୍ଣ୍ଣ ଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/a639dc57e6dc.html",
+      "name": "ଡକ୍ଝର କମଳାକାନ୍ତ ଜେନା",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/26f88a3357be.html",
+      "name": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା",
+      "contributionCount": 10,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/def97730a814.html",
+      "name": "ଡକ୍ଟର ଅଶୋକ କୁମାର ସେଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/e44ccf4a4e44.html",
+      "name": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4381c6ffcaa4.html",
+      "name": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/85798d39be19.html",
+      "name": "ଡକ୍ଟର ପ୍ରବୀଣା ପରିଡା",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/7d7b89d315b9.html",
+      "name": "ଡକ୍ଟର ବସନ୍ତ କିଶୋର ସାହୁ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/6b99833c7415.html",
+      "name": "ଡକ୍ଟର ବିଜୟା ପାତ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/8547fb8c3a5d.html",
+      "name": "ଡକ୍ଟର ରଘୁ ସାହୁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5ff484d72f52.html",
+      "name": "ଡକ୍ଟର ରଘୁନାଥ ସାହୁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/06d2d2e22ec2.html",
+      "name": "ଡକ୍ଟର ରବିନାରାୟଣ ସାହୁ",
+      "contributionCount": 6,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/250e17ab1f6b.html",
+      "name": "ଡକ୍ଟର ରାଜକିଶୋର ପାଢୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/37cc648aa7a1.html",
+      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/eceb568b07ba.html",
+      "name": "ଡକ୍ଟର ଲଷ୍ମୀ କାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3e60d30994d9.html",
+      "name": "ଡକ୍ଟର ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "contributionCount": 6,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2b115441917c.html",
+      "name": "ଡକ୍ଟର ଲିଙ୍ଗରାଜ ରଥ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/91df27f82af9.html",
+      "name": "ଡକ୍ଟର ସଚ୍ଚିଦାନନ୍ଦ କର",
+      "contributionCount": 7,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/c6223054b1e8.html",
+      "name": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ",
+      "contributionCount": 9,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ପୁରସ୍କାର ସମ୍ବାଦ · The New Indian Express",
+          "url": "https://www.newindianexpress.com/states/odisha/2009/Jan/22/state-sahitya-akademi-awards-announced-19865.html"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/496b5ec4f76f.html",
+      "name": "ଡ଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/93d3aa4ff161.html",
+      "name": "ଡ଼।.ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3234455e0870.html",
+      "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ef4e39279854.html",
+      "name": "ଡ଼କ୍ଟର କମଳାକାନ୍ତ ଜେନା",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଓଡ଼ିଶା ବିଜ୍ଞାନ ଏକାଡେମୀ · ପୁରସ୍କାର ତାଲିକା",
+          "url": "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+        },
+        {
+          "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
+          "url": "https://fmuniversity.nic.in/officers.html"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/f2b0afc83d0c.html",
+      "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/1b15f0d011c5.html",
+      "name": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/21afaaab9e9e.html",
+      "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5858dbd35ce2.html",
+      "name": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/6bd0f39ff075.html",
+      "name": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/15098a8414dc.html",
+      "name": "ତପନ କୁମାର ସ୍ବାଇଁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/00baa2538a54.html",
+      "name": "ତପନ କୁମାର ସ୍ୱାଇଁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3236a8530ef9.html",
+      "name": "ତୁଳସୀ ସ୍ବାଇଁ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/8d9480d84ea8.html",
+      "name": "ଦାଶ ବେନହୁର",
+      "contributionCount": 10,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ସାହିତ୍ୟ ଅକାଦେମି · ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର",
+          "url": "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/bb7df6043851.html",
+      "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/17bad6eebece.html",
+      "name": "ଦିଲ୍ଲୀପ କୁମାର ସାହୁ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/8f595aa31265.html",
+      "name": "ଦୀନବନ୍ଧୁ କର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/88dee196240d.html",
+      "name": "ଦୀନବନ୍ଧୁ ପୋଇ",
+      "contributionCount": 14,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/979836c3a0c2.html",
+      "name": "ଦେବାଶିଷ ଚକ୍ରବର୍ତ୍ତୀ",
+      "contributionCount": 7,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ea266eb20316.html",
+      "name": "ଦେବେନ୍ଦ୍ର ଚୌଧୁରୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4dbe4df67479.html",
+      "name": "ଧନଞ୍ଜୟ ସ୍ବାଇଁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3d9c88046b2d.html",
+      "name": "ଧନଞ୍ଜୟ ସ୍ଵାଇଁ",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/a563e88779d8.html",
+      "name": "ଧନଞ୍ଜୟ ସ୍ୱାଇଁ",
+      "contributionCount": 12,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/fad523596f29.html",
+      "name": "ଧୀରେନ କୁମାର ମିଶ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/55f62a9245be.html",
+      "name": "ଧୀରେନ ମିଶ୍ର",
+      "contributionCount": 10,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/55f2b4a6ba42.html",
+      "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
+      "contributionCount": 22,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ସାହିତ୍ୟ ଆସର ସମ୍ବାଦ · ହିନ୍ଦୁସ୍ଥାନ ସମାଚାର",
+          "url": "https://odia.hindusthansamachar.in/Encyc/2025/6/29/literary-program-at-Boudh-by-odisha-sahitya-ekadem.php"
+        },
+        {
+          "label": "ମୂଳ ପତ୍ରିକାରେ କବିତା",
+          "url": "https://www.shishukishora.com/article_details.php?article_cd=281"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/7202756cab09.html",
+      "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/45ab42330e07.html",
+      "name": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4e1da9edfd0f.html",
+      "name": "ନିରଞ୍ଜନ ସାହୁ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/908c7bf20e5b.html",
+      "name": "ନିରାକାର ଚଇନି",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3bd88c1233b5.html",
+      "name": "ନିରୁପମା କବି",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/845d029c5cb6.html",
+      "name": "ନିରୁପମା କଵି",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/a37c63e8d347.html",
+      "name": "ନିରୂପମା କବି",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ec4c0847b900.html",
+      "name": "ନୀଳମଣି ଚାନ୍ଦ",
+      "contributionCount": 17,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/a9b25ea481c8.html",
+      "name": "ପଣ୍ଡିତ ମଧୁସୂଦନ ମିଶ୍ର",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/7f0fa5526981.html",
+      "name": "ପୁରୁଷୋତ୍ତମ ସିଂହ ସାମନ୍ତ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/56c301ef5582.html",
+      "name": "ପୁଷ୍ପଲତା ପାଣିଗ୍ରାହୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/6789b0ad8e74.html",
+      "name": "ପୌର୍ଣ୍ଣ ମାସୀ ଦେବୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3463bd958459.html",
+      "name": "ପୌର୍ଣ୍ଣମାସୀ ଦେବୀ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/63287addfe85.html",
+      "name": "ପ୍ରକାଶ ଚନ୍ଦ୍ର ଦାଶ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/57b2cccb4266.html",
+      "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/33a8832ae9ee.html",
+      "name": "ପ୍ରଫେସର ରେଖା ଦାସ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/1f5f23903bf9.html",
+      "name": "ପ୍ରବାସିନୀ ମିଶ୍ର",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/cfba3363dbbe.html",
+      "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/d75e5aefba14.html",
+      "name": "ପ୍ରଭାତ ନଳିନୀ ସାହୁ",
+      "contributionCount": 9,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/37d0d83e9abc.html",
+      "name": "ପ୍ରଭାସିନୀ ବରାଡ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/578096bf3439.html",
+      "name": "ପ୍ରଭାସିନୀ ବରାଡ଼",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/d4a1c781b77f.html",
+      "name": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ",
+      "contributionCount": 15,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/fc19d89e45a8.html",
+      "name": "ବସିରନ ବିବି",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=194",
+          "snapshot": "public/shishu/birthday_details-ed3dc89efb.html"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/b2ea4834959d.html",
+      "name": "ବସିରନ୍ ବିବି",
+      "contributionCount": 8,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/40eff86013b3.html",
+      "name": "ବାଲ୍ମୀକି ପାତ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5127a44ec63e.html",
+      "name": "ବିଜୟ କୁମାର ଛାଟୋଇ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9021c2a7b8a2.html",
+      "name": "ବିଜୟ ଲଷ୍ମୀ ଚୌଧୁରୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/92a6df756017.html",
+      "name": "ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/1b949512c327.html",
+      "name": "ବିଜୟା ପାତ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/8f7f36f4bc20.html",
+      "name": "ବିଜୟା ପାତ୍ର (ସ୍ବାଇଁ)",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/f6533f24d098.html",
+      "name": "ବିଦ୍ୟୁତପ୍ରଭା ଦେଓ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/956ee9bbaa9a.html",
+      "name": "ବିରଞ୍ଚି ନାରାୟଣ ଦାଶ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/69bca452d630.html",
+      "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "contributionCount": 8,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ସାହିତ୍ୟ ଅକାଦେମି · ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର",
+          "url": "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
+        },
+        {
+          "label": "ଲେଖକଙ୍କ ସାକ୍ଷାତକାର · OrissaPOST",
+          "url": "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/b98810c4015c.html",
+      "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
+      "contributionCount": 12,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
+          "snapshot": "public/shishu/birthday_details-7295f3c559.html"
+        },
+        {
+          "label": "ମୂଳ ପତ୍ରିକାରେ କବିତା",
+          "url": "https://shishukishora.com/article_details.php?article_cd=346"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/91a1452012c8.html",
+      "name": "ମଧୁସୂଦନ ମିଶ୍ର",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/fb5e637ed769.html",
+      "name": "ମନୋରମା ମିଶ୍ର",
+      "contributionCount": 13,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/f984695b07fe.html",
+      "name": "ମହେନ୍ଦ୍ର କୁମାର ମଲ୍ଲିକ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ecafce851a0c.html",
+      "name": "ମିନତି ପଟନାୟକ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/0da992c5b5cc.html",
+      "name": "ମିନତି ପଟ୍ଟନାୟକ",
+      "contributionCount": 8,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9210d5fb2fa2.html",
+      "name": "ରଘୁ ନନ୍ଦନ ମହାପାତ୍ର",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/c4e96a0c83de.html",
+      "name": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/7ae172e3d1b8.html",
+      "name": "ରତ୍ନାକର ଦାସ",
+      "contributionCount": 13,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/accae4541e91.html",
+      "name": "ରତ୍ନାକର ନାୟକ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5721f5a8f48e.html",
+      "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/fba8a7194ce5.html",
+      "name": "ରାଜଶ୍ରୀ ନନ୍ଦ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/262e7a578d40.html",
+      "name": "ରାଧାମାଧବ ରଥ",
+      "contributionCount": 14,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ‘ମୋ ପାପା’ ପୁସ୍ତକ ପରିଚୟ",
+          "url": "https://shishukishora.com/book_details.php?book_cd=54"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5642d255a831.html",
+      "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ",
+      "contributionCount": 8,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/c213a7f6b400.html",
+      "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/8cb35cfb3c53.html",
+      "name": "ଲୀଳାବତୀ ପରିଡ଼ା",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3546f3743b55.html",
+      "name": "ଵୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/a60e8eb19db8.html",
+      "name": "ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/fb9b5ecddb4d.html",
+      "name": "ଶରତ କୁମାର ଦାସ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/fdaa6cee2fde.html",
+      "name": "ଶରତ କୁମାରୀ ସ୍ବାଇଁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/d86d9d088679.html",
+      "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
+      "contributionCount": 6,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/d6da7034de48.html",
+      "name": "ଶିବ ପ୍ରସାଦ ସାହୁ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ab1399b7121b.html",
+      "name": "ଶୁଭନାରାୟଣ ଶତପଥୀ",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9004964d471e.html",
+      "name": "ଶ୍ରୀ କୁଞ୍ଜ ବିହାରୀ ସାହୁ",
+      "contributionCount": 6,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3d46c86d3e17.html",
+      "name": "ଶ୍ରୀ କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/f5f4adc8a07c.html",
+      "name": "ଶ୍ରୀ ଧୀରେନ ମିଶ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9a1ed5d8cb5a.html",
+      "name": "ଶ୍ରୀ ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+      "contributionCount": 6,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/c34b6668eb6e.html",
+      "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/b62d26b5f3be.html",
+      "name": "ଶ୍ରୀ ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ.",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/44602b520912.html",
+      "name": "ଶ୍ରୀ ବିଜୟକୁମାର ଛାଟୋଇ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2a1a093cc4dd.html",
+      "name": "ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/bb6bd7814e9c.html",
+      "name": "ଶ୍ରୀମତୀ ଜିବେ ଶ୍ୱରୀ ପଟେଲ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/b03d843cd408.html",
+      "name": "ଶ୍ରୀମତୀ ଜ୍ଯୋତ୍ସ୍ନା ସିଂହ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/79403f37456a.html",
+      "name": "ଶ୍ରୀମତୀ ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/c15042e65fc9.html",
+      "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/bb30f47596f3.html",
+      "name": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କା",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/cfe3bf05e6dd.html",
+      "name": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/e1f187c86103.html",
+      "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=195",
+          "snapshot": "public/shishu/birthday_details-efb8a74bfb.html"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/957caf2186d7.html",
+      "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/cc748aac2f6e.html",
+      "name": "ସତ୍ୟ ନାରାୟଣ ମିଶ୍ର",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/3dcbd369d7ea.html",
+      "name": "ସନ୍ତୋଷ କୁମାର ସାହୁ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2d625b86bf6d.html",
+      "name": "ସସ୍ମିତା ସ୍ଵା ଇଁ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5d25356cae88.html",
+      "name": "ସସ୍ମିତା ସ୍ଵାଇଁ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/a0cccf418dd7.html",
+      "name": "ସସ୍ମିତା ସ୍ୱାଇଁ",
+      "contributionCount": 3,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/31e0b719b778.html",
+      "name": "ସୁଜିତ କୁମାର ମିଶ୍ର",
+      "contributionCount": 10,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/681d1628c630.html",
+      "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/809247c9a1cc.html",
+      "name": "ସୁବାସିନୀ ଧଳ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/db792c256d76.html",
+      "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/369056700718.html",
+      "name": "ସୁଲେଖା ସାମନ୍ତରାୟ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2c2d39d45599.html",
+      "name": "ସୁଵାସିନୀ ଧଳ",
+      "contributionCount": 4,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2ce7bb2a72a7.html",
+      "name": "ସୁଶାନ୍ତ କୁମାର ସାମଲ",
+      "contributionCount": 2,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4ddae1ce7968.html",
+      "name": "ସୁଶ୍ରୀ ସଂଯୁକ୍ତା ପରିଚ୍ଛା",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/53c5b3ec02e3.html",
+      "name": "ସୁଶ୍ରୀ ସବିତା ଭୋଇ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/5c4b7e337fe1.html",
+      "name": "ସ୍ନିଗ୍ଧା ନାୟକ",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/35695eb8faa9.html",
+      "name": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/ec01cb5a1438.html",
+      "name": "ସ୍ଵର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2968e830d8cc.html",
+      "name": "ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/95e30378a1ca.html",
+      "name": "ହଂସନାଥ ମୁଦୁଲି",
+      "contributionCount": 11,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/826c1453908c.html",
+      "name": "ହରପ୍ରିୟା ରାଉତରାୟ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/2eec0d5e026a.html",
+      "name": "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/9012bd18bab1.html",
+      "name": "ହରି ପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "contributionCount": 1,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/4fa2a98145f6.html",
+      "name": "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "contributionCount": 11,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/08ddd798056f.html",
+      "name": "ହରିହର ଶୁକ୍ଳ",
+      "contributionCount": 11,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    },
+    {
+      "route": "/shishu/writers/0a644308bf04.html",
+      "name": "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହ",
+      "contributionCount": 5,
+      "status": "pending",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": []
+    }
+  ],
+  "resume": "Next pending entry: ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ. Batch 001 has three new introductions awaiting deployment verification."
+}
