@@ -1,0 +1,13 @@
+{
+  "reviewed": "2026-10-10",
+  "author": "Sasmita Swain",
+  "sourcePage": "https://www.ameodia.com/odia-author/sasmita-swain/",
+  "sourceImage": "https://www.ameodia.com/wp-content/authors/sasmswa-559.jpg",
+  "sourceLocal": "public/portraits/sasmita-swain-source-v1.jpg",
+  "output": "public/portraits/sasmita-swain-cartoon-natural-v1.jpg",
+  "master": "public/portraits/sasmita-swain-cartoon-natural-v1.png",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: identity-preserve. Edit target: provided named author photograph of Sasmita Swain. Create a faithful square head-and-shoulders portrait for the Odia children's magazine Sishu Kishore. Preserve the person's recognizable face shape, eyes, nose, lips, neutral expression, age as photographed, hair parting, small bindi, red sindoor and draped green patterned sari over the head. Sishu Cartoon Natural treatment: classic Indian children's storybook 2D ink drawing, confident slightly irregular dark outlines, simplified broad matte colors, restrained flat shadows, warm pale cream paper background. Retain likeness and modest composition; no beautification, no photographic skin, no glossy 3D, no added objects, no lettering or watermark.",
+  "identity": "Named author page matches full name and distinctive Sishilo/Balakati/Khordha location in original magazine signatures.",
+  "visualReview": "Source and generated output inspected: frontal face, neutral expression, center-parted hair, sindoor, small bindi and green draped sari retained; simplified ink and matte color treatment."
+}

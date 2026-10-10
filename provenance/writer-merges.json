@@ -527,6 +527,43 @@
           "archive": "provenance/writer-profile-archive/2026-10-10/44602b520912.html"
         }
       ]
+    },
+    {
+      "slug": "sasmita-swain",
+      "canonical": "/shishu/writers/a0cccf418dd7.html",
+      "name": "ସସ୍ମିତା ସ୍ୱାଇଁ",
+      "members": [
+        {
+          "route": "/shishu/writers/a0cccf418dd7.html",
+          "name": "ସସ୍ମିତା ସ୍ୱାଇଁ",
+          "identityEvidence": "Full poems bbda59174d,e5b440c678,27f98545b9,cc1080a355,a86a357749,cb897d1577 read. Three variants share Sishilo,Balakati,Khordha; canonical27f98545b9 and aliascc1080a355 exact published contact after digit/space normalization. Spaced-name bbda59174d same distinctive village/post/district, only spacing differs. AmeOdia named author page matches exact full name and village/post/district and children literature; supports BSc Utkal and named associated portrait. Source cb897d1577 includes accidental second poem attributed Sanjukta Parichha; preserved text, flagged and not used to infer Sasmita locality or works.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article-780.html\">ତୁମଗୁଣ ଗାଇବି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/current_issue.html\">ଅକ୍ଟୋବର: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-27f98545b9.html\">ଖୋଜୁଥିଲେ ତାକୁ ଅଜା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-d403030c2c.html\">ଅଗଷ୍ଟ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-cb897d1577.html\">ଅକଲ ମକଲ ଟକଲ ଟିଆଁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-df53b87507.html\">ଜୁଲାଇ: ୨୦୨୫</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/2d625b86bf6d.html",
+          "name": "ସସ୍ମିତା ସ୍ଵା ଇଁ",
+          "identityEvidence": "Full poems bbda59174d,e5b440c678,27f98545b9,cc1080a355,a86a357749,cb897d1577 read. Three variants share Sishilo,Balakati,Khordha; canonical27f98545b9 and aliascc1080a355 exact published contact after digit/space normalization. Spaced-name bbda59174d same distinctive village/post/district, only spacing differs. AmeOdia named author page matches exact full name and village/post/district and children literature; supports BSc Utkal and named associated portrait. Source cb897d1577 includes accidental second poem attributed Sanjukta Parichha; preserved text, flagged and not used to infer Sasmita locality or works.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-bbda59174d.html\">ପଇସା ଆଣିବ ଗଣିକି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-8a077c1fec.html\">ଅଗଷ୍ଟ: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/2d625b86bf6d.html"
+        },
+        {
+          "route": "/shishu/writers/5d25356cae88.html",
+          "name": "ସସ୍ମିତା ସ୍ଵାଇଁ",
+          "identityEvidence": "Full poems bbda59174d,e5b440c678,27f98545b9,cc1080a355,a86a357749,cb897d1577 read. Three variants share Sishilo,Balakati,Khordha; canonical27f98545b9 and aliascc1080a355 exact published contact after digit/space normalization. Spaced-name bbda59174d same distinctive village/post/district, only spacing differs. AmeOdia named author page matches exact full name and village/post/district and children literature; supports BSc Utkal and named associated portrait. Source cb897d1577 includes accidental second poem attributed Sanjukta Parichha; preserved text, flagged and not used to infer Sasmita locality or works.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-e5b440c678.html\">ଆସପାଠ ପଢିବା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-02dcbb12fc.html\">ମଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-cc1080a355.html\">ନୁହେଁ  କେ ମାଆ ପରି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-a86a357749.html\">ମା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-7457869a98.html\">ସେପ୍ଟେମ୍ବର: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/5d25356cae88.html"
+        }
+      ]
     }
   ],
   "archivedLegacyAliases": [
@@ -629,6 +666,14 @@
     {
       "route": "/shishu/writers/b90c7e87f4b2.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/b90c7e87f4b2.html"
+    },
+    {
+      "route": "/shishu/writers/9b2e5c6fbf41.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/9b2e5c6fbf41.html"
+    },
+    {
+      "route": "/shishu/writers/be505289ed09.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/be505289ed09.html"
     }
   ]
 }
