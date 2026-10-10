@@ -33,6 +33,7 @@ def setmeta(html,key,value):
  pattern=r'<meta\b(?=[^>]*\bname=[\"\']'+re.escape(key)+r'[\"\'])[^>]*>'
  return re.sub(pattern,lambda m:tag,html,flags=re.I) if re.search(pattern,html,re.I) else html.replace('</head>',tag+'</head>')
 issues=json.loads((ROOT/'edition-reader.json').read_text()); articles={i['href']:{**i,'issue':k,'edition':v['title']} for k,v in issues.items() for i in v['items']}
+writer_profiles={w['route']:w for w in json.loads(Path('provenance/writer-research-2026-10-10.json').read_text())['writers']}
 books={b['landing']:b for f in (ROOT/'shishu/books').glob('*/book.json') for b in [json.loads(f.read_text())]}
 # Remove stale text exports when an approved article is withdrawn.
 for stale in (ROOT/'reading-text').glob('*.txt'):
@@ -71,6 +72,11 @@ for path in sorted(ROOT.rglob('*.html')):
   records.append({'type':'Article','title':title,'author':item.get('byline',''),'edition':item['edition'],'editionUrl':ORIGIN+item['issue'],'url':canonical,'textUrl':ORIGIN+texturl,'image':image,'language':'or'});article_count+=1
  elif route in issues:
   graph.append({'@type':'PublicationIssue','@id':canonical+'#issue','name':issues[route]['title'],'url':canonical,'inLanguage':'or','isPartOf':{'@type':'Periodical','name':'ଶିଶୁ କିଶୋର','url':ORIGIN+'/shishu/'},'hasPart':[{'@type':'Article','headline':i['title'],'url':ORIGIN+i['href']} for i in issues[route]['items']]})
+ elif route in writer_profiles:
+  writer=writer_profiles[route]
+  web['@type']='ProfilePage'
+  web['mainEntity']={'@id':canonical+'#writer'}
+  graph.append({'@type':'Person','@id':canonical+'#writer','name':writer['name'],'url':canonical,'description':writer['bio'],'image':ORIGIN+writer['portrait']})
  elif route in books:
   book=books[route];graph.append({'@type':'Book','name':book['title'],'url':canonical,'inLanguage':'or','image':image,'numberOfPages':book['total']})
  breadcrumbs=[n for n in nodes if n.has('ia-breadcrumb')]

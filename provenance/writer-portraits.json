@@ -1,5 +1,5 @@
 {
-  "policy": "Use verified source photographs for faithful Sishu Cartoon Natural illustrated portraits. Preserve originals and identity evidence; disclose AI assistance. Where no verified photo exists, keep generic symbolic avatars clearly labeled; never invent an author likeness.",
+  "policy": "Use verified source photographs for faithful Sishu Cartoon Natural illustrated portraits. Preserve originals and identity evidence; retain generation provenance internally. Public attribution follows the user preference. Where no verified photo exists, keep generic symbolic avatars clearly labeled; never invent an author likeness.",
   "rejected_original_placeholders": [
     "/media/9e42aedf60f716496b0d631c.jpg",
     "/media/6355dfacab587524a2aa83e2.jpg"
@@ -39,8 +39,9 @@
     {
       "name": "ଅନନ୍ତ ପ୍ରଧାନ",
       "route": "/shishu/writers/dfedff336b61.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/ananta-pradhan-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
@@ -189,8 +190,9 @@
     {
       "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
       "route": "/shishu/writers/c89e02766cff.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/jayakrushna-sahu-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
@@ -207,8 +209,9 @@
     {
       "name": "ଜୟନ୍ତିକା",
       "route": "/shishu/writers/5022efa803e9.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/jayantika-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ଝରଣା ମଲ୍ଲିକ",
@@ -357,8 +360,9 @@
     {
       "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
       "route": "/shishu/writers/37cc648aa7a1.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ଡକ୍ଟର ଲଷ୍ମୀ କାନ୍ତ ଖୁଣ୍ଟିଆ",
@@ -465,17 +469,9 @@
     {
       "name": "ଦାଶ ବେନହୁର",
       "route": "/shishu/writers/8d9480d84ea8.html",
-      "portrait": {
-        "image": "/portraits/dash-benhur-cartoon-natural-v1.webp",
-        "source": "https://www.shalandi.in/author.php?id=403",
-        "evidence": "Named Dash Benhur profile in original captured author directory",
-        "captured_page": "shalandi/author-73a765078a.html",
-        "original_local": "/media/0c2d3766fe270057e5a7b867.jpg",
-        "treatment": "Sishu Cartoon Natural; AI-assisted from verified photo",
-        "master": "provenance/writer-cartoon-masters/dash-benhur-cartoon-natural-v1.png",
-        "prompt_file": "provenance/cartoon-writer-prompts.json"
-      },
-      "status": "source-verified; illustrated treatment"
+      "portrait": "/portraits/dash-benhur-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ",
@@ -684,8 +680,9 @@
     {
       "name": "ବସିରନ ବିବି",
       "route": "/shishu/writers/fc19d89e45a8.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/basiran-bibi-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ବସିରନ୍ ବିବି",
@@ -744,17 +741,9 @@
     {
       "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
       "route": "/shishu/writers/69bca452d630.html",
-      "portrait": {
-        "image": "/portraits/birendra-mohanty-cartoon-natural-v1.webp",
-        "source": "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/",
-        "evidence": "Portrait attached to named interview with the Odia children’s author and Rumku Jhuma award recipient",
-        "source_image": "https://www.orissapost.com/wp-content/uploads/2018/06/Birendra-4.jpg",
-        "original_local": "/portraits/birendra-mohanty.jpg",
-        "treatment": "Sishu Cartoon Natural; AI-assisted from verified photo",
-        "master": "provenance/writer-cartoon-masters/birendra-mohanty-cartoon-natural-v1.png",
-        "prompt_file": "provenance/cartoon-writer-prompts.json"
-      },
-      "status": "source-verified; illustrated treatment"
+      "portrait": "/portraits/birendra-mohanty-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
@@ -981,8 +970,9 @@
     {
       "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
       "route": "/shishu/writers/e1f187c86103.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/raghunandan-mohapatra-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-2026-10-10.json"
     },
     {
       "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି",

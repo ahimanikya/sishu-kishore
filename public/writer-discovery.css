@@ -1,0 +1,14 @@
+.writer-introduction{max-width:850px;margin:24px 0 32px;padding:22px 26px;background:#fffdf5;border:1px solid #e2decc;border-radius:18px}
+.writer-introduction h2{font-size:24px;margin:0 0 12px;color:#27594e}
+.writer-introduction>p{font-size:22px;line-height:1.9;margin:0 0 10px;color:#283f3a}
+.writer-introduction details{font-size:16px;color:#4e625b}.writer-introduction summary{cursor:pointer;min-height:44px;display:list-item;align-content:center;width:fit-content}
+.writer-introduction details ul{padding-left:24px;margin:8px 0}.writer-introduction details a{display:inline-block;min-height:44px;align-content:center;text-underline-offset:4px}
+.writer-bio-filter{display:flex;gap:12px;align-items:center;width:fit-content;min-height:48px;margin:12px 0 0;font-size:19px;cursor:pointer}
+.writer-bio-filter input{width:22px;height:22px;accent-color:#276858;flex:none}
+.mag-writers .writer-role{display:block;font-size:16px;line-height:1.65;color:#416b60;margin:5px 0}
+.shishu .writer-profile-head{display:flex;align-items:center;gap:24px;max-width:980px;margin:24px 0 18px}
+.shishu .writer-profile-head h1{margin:0;min-width:0;overflow-wrap:anywhere}
+.shishu .writer-profile-head .writer-illustration{width:160px;height:160px;object-fit:contain;background:#fbf3df;border:2px solid #e4d7b7;border-radius:22px}
+.writer-profile-head .writer-illustration{flex:none}.writer-profile-head+.writer-birthday{margin-top:0}
+.writer-introduction summary:focus-visible,.writer-bio-filter input:focus-visible{outline:3px solid #267264;outline-offset:4px}
+@media(max-width:640px){.writer-introduction{padding:18px 20px;margin-top:20px}.writer-introduction>p{font-size:21px}.shishu .writer-profile-head .writer-illustration{width:112px;height:112px}.writer-introduction h2{font-size:23px}}

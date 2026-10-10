@@ -1,0 +1,164 @@
+{
+  "reviewed": "2026-10-10",
+  "policy": "Short sourced Odia introductions; no inferred identity merges, invented likenesses, current ages, personal contact details, or unverified superlatives. Search aliases include English transliterations, not alternate legal names. Keep source evidence and generation provenance internal; no public generation attribution per user preference.",
+  "writers": [
+    {
+      "slug": "jayakrushna-sahu",
+      "route": "/shishu/writers/c89e02766cff.html",
+      "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ଜୟକୃଷ୍ଣ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ତାଙ୍କର ଜନ୍ମ ପୁରୀ ଜିଲ୍ଲାର ସତ୍ୟବାଦୀ ଅଞ୍ଚଳର ଅଳଗୁମ୍ ଗାଁରେ ।",
+      "searchAliases": "Jayakrushna Sahu Jayakrishna Sahu",
+      "portrait": "/portraits/jayakrushna-sahu-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/26fd170518846c6c569529f0.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
+          "snapshot": "public/shishu/birthday_details-bb525959f7.html"
+        }
+      ],
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
+    },
+    {
+      "slug": "jayantika",
+      "route": "/shishu/writers/5022efa803e9.html",
+      "name": "ଜୟନ୍ତିକା",
+      "role": "ଲେଖିକା ଓ ଶିକ୍ଷୟିତ୍ରୀ",
+      "bio": "ଜୟନ୍ତିକା ହେଉଛି ଲେଖିକା ଜୟନ୍ତୀ ପଣ୍ଡାଙ୍କ ସାହିତ୍ୟିକ ନାମ । ସେ ଜଣେ ଅବସରପ୍ରାପ୍ତ ପ୍ରଫେସର । ତାଙ୍କର ଜନ୍ମ ଭଦ୍ରକ ଜିଲ୍ଲାର ଧାମନଗରରେ ।",
+      "searchAliases": "ଜୟନ୍ତୀ ପଣ୍ଡା Jayantika Jayanti Panda",
+      "portrait": "/portraits/jayantika-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/844b53e836c6421986b01c29.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=199",
+          "snapshot": "public/shishu/birthday_details-f9ece26ba7.html"
+        }
+      ],
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
+    },
+    {
+      "slug": "basiran-bibi",
+      "route": "/shishu/writers/fc19d89e45a8.html",
+      "name": "ବସିରନ ବିବି",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକା",
+      "bio": "ବସିରନ ବିବି ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଜଣେ ଲେଖିକା । ସେ ଓଡ଼ିଆ ଭାଷାରେ ଅନେକ ପୁସ୍ତକ ରଚନା କରିଛନ୍ତି ।",
+      "searchAliases": "Basiran Bibi",
+      "portrait": "/portraits/basiran-bibi-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/8f578efa5ffb3941a698acad.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=194",
+          "snapshot": "public/shishu/birthday_details-ed3dc89efb.html"
+        }
+      ],
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
+    },
+    {
+      "slug": "raghunandan-mohapatra",
+      "route": "/shishu/writers/e1f187c86103.html",
+      "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଜଣେ ଲେଖକ । ପୁରୁଣା ଭୁବନେଶ୍ୱରରେ ଜନ୍ମିତ ଏହି ଲେଖକ ପିଲାଦିନରୁ ସାହିତ୍ୟ ପ୍ରତି ଆଗ୍ରହୀ ଥିଲେ । ସେ ଅନେକ ପୁସ୍ତକ ରଚନା କରିଛନ୍ତି ।",
+      "searchAliases": "Raghunandan Mohapatra",
+      "portrait": "/portraits/raghunandan-mohapatra-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/6328ef7dc10410078fab7274.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=195",
+          "snapshot": "public/shishu/birthday_details-efb8a74bfb.html"
+        }
+      ],
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
+    },
+    {
+      "slug": "ananta-pradhan",
+      "route": "/shishu/writers/dfedff336b61.html",
+      "name": "ଅନନ୍ତ ପ୍ରଧାନ",
+      "role": "ଲେଖକ ଓ ସମ୍ପାଦକ",
+      "bio": "ଅନନ୍ତ ପ୍ରଧାନ ଓଡ଼ିଆ ସାହିତ୍ୟର ଜଣେ ଲେଖକ । ସେ ‘କାଦମ୍ବିନୀ’ ଓ ‘କୁନିକଥା’ ପତ୍ରିକାର ସମ୍ପାଦନା ମଣ୍ଡଳୀରେ କାମ କରିଛନ୍ତି । ତାଙ୍କର ଜନ୍ମ ପୁରୀରେ ।",
+      "searchAliases": "Ananta Pradhan",
+      "portrait": "/portraits/ananta-pradhan-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/c7a30bacd32d8de099f5926f.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=200",
+          "snapshot": "public/shishu/birthday_details-821e7ffc8d.html"
+        }
+      ],
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
+    },
+    {
+      "slug": "lakshmikanta-khuntia",
+      "route": "/shishu/writers/37cc648aa7a1.html",
+      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ଗବେଷକ",
+      "bio": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ ଶିଶୁ ସାହିତ୍ୟିକ, ଗବେଷକ ଓ ସମାଲୋଚକ । ସେ ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଇତିହାସ ଉପରେ ପୁସ୍ତକ ଲେଖିଛନ୍ତି ।",
+      "searchAliases": "Lakshmikanta Khuntia",
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/7356602045a12269d5c3b9b0.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
+        }
+      ],
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
+    },
+    {
+      "slug": "dash-benhur",
+      "route": "/shishu/writers/8d9480d84ea8.html",
+      "name": "ଦାଶ ବେନହୁର",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ଦାଶ ବେନହୁର ହେଉଛି ଜିତେନ୍ଦ୍ର ନାରାୟଣ ଦାଶଙ୍କ ସାହିତ୍ୟିକ ନାମ । ଶିଶୁ ସାହିତ୍ୟକୁ ତାଙ୍କର ସାମଗ୍ରିକ ଅବଦାନ ପାଇଁ ସେ ୨୦୧୪ ମସିହାରେ ସାହିତ୍ୟ ଅକାଦେମିର ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର ପାଇଥିଲେ ।",
+      "searchAliases": "ଜିତେନ୍ଦ୍ର ନାରାୟଣ ଦାଶ Dash Benhur Jitendra Narayan Dash",
+      "portrait": "/portraits/dash-benhur-cartoon-natural-v1.webp",
+      "sources": [
+        {
+          "label": "ସାହିତ୍ୟ ଅକାଦେମି · ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର",
+          "url": "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
+        }
+      ],
+      "identity": "Existing identity-verified portrait retained. Official award entry explicitly links the pen name and full name."
+    },
+    {
+      "slug": "birendra-mohanty",
+      "route": "/shishu/writers/69bca452d630.html",
+      "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କର କବିତା ପୁସ୍ତକ ‘ରୁମ୍‌କୁ ଝୁମା’ ପାଇଁ ସେ ୨୦୧୮ ମସିହାରେ ସାହିତ୍ୟ ଅକାଦେମିର ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର ପାଇଥିଲେ ।",
+      "searchAliases": "Birendra Mohanty",
+      "portrait": "/portraits/birendra-mohanty-cartoon-natural-v1.webp",
+      "sources": [
+        {
+          "label": "ସାହିତ୍ୟ ଅକାଦେମି · ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର",
+          "url": "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
+        },
+        {
+          "label": "ଲେଖକଙ୍କ ସାକ୍ଷାତକାର · OrissaPOST",
+          "url": "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
+        }
+      ],
+      "identity": "Existing portrait verified from the named 2018 interview; award and book corroborated in official award list."
+    }
+  ],
+  "pendingResearch": [
+    {
+      "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
+      "reason": "Named newspaper bylines and event coverage found, but no confidently identified individual portrait."
+    },
+    {
+      "name": "ନୀଳମଣି ଚାନ୍ଦ",
+      "reason": "Event mentions found; biography and portrait identity still need corroboration."
+    },
+    {
+      "name": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ",
+      "reason": "Search returned multiple unrelated people; no identity-safe enrichment selected."
+    }
+  ]
+}
