@@ -3164,7 +3164,8 @@
         "https://www.shishukishora.com/article_details.php?article_cd=731",
         "https://www.dharitri.com/stage-drama/"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "6ac2a5fb"
     },
     {
       "route": "/shishu/writers/1b949512c327.html",
@@ -3194,7 +3195,8 @@
         "https://shishukishora.com/article_details.php?article_cd=344",
         "https://www.shishukishora.com/book_details.php?book_cd=48"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "6ac2a5fb"
     },
     {
       "route": "/shishu/writers/8f7f36f4bc20.html",
@@ -3224,9 +3226,10 @@
         "https://shishukishora.com/article_details.php?article_cd=344",
         "https://www.shishukishora.com/book_details.php?book_cd=48"
       ],
-      "publication": "pending-validation",
+      "publication": "published",
       "canonicalRoute": "/shishu/writers/1b949512c327.html",
-      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/8f7f36f4bc20.html"
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/8f7f36f4bc20.html",
+      "publishedCommit": "6ac2a5fb"
     },
     {
       "route": "/shishu/writers/f6533f24d098.html",
@@ -3248,7 +3251,8 @@
       "batch": "024",
       "reviewed": "2026-10-10",
       "researchUrls": [],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "6ac2a5fb"
     },
     {
       "route": "/shishu/writers/956ee9bbaa9a.html",
@@ -3274,13 +3278,14 @@
         "https://koshalaprabahalive.com/odisha/palita-922/",
         "https://odisha.news/105328"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "6ac2a5fb"
     },
     {
       "route": "/shishu/writers/69bca452d630.html",
       "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
       "contributionCount": 8,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
@@ -3293,13 +3298,21 @@
           "url": "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
         }
       ],
-      "notes": []
+      "notes": [
+        "Named 2018 OrissaPOST interview re-read; existing identity, portrait and award retained. Added only explicitly stated inspiration from Mina Bazar and Pilanka Dharitri."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/b98810c4015c.html",
       "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
       "contributionCount": 12,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
@@ -3313,37 +3326,74 @@
           "url": "https://shishukishora.com/article_details.php?article_cd=346"
         }
       ],
-      "notes": []
+      "notes": [
+        "Original named birthday biography re-read. Existing mobile-library biography and verified portrait retained. English name and Odia name/library searches yielded no reliable useful addition. Unrelated employment and financial records excluded; no personal data retained."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
+        "https://shishukishora.com/article_details.php?article_cd=346"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/91a1452012c8.html",
       "name": "ମଧୁସୂଦନ ମିଶ୍ର",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Both original poems read, Keonjhar signature consistent. Odia locality and English poet search found no reliable biography; administrative/legal namesakes excluded. Pandit-name directory variant requires separate contribution/contact comparison before merge. No portrait verified. Scientific assertions in Bada Ajaba Katha not amplified as verified facts."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://kabitalive.com/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/fb5e637ed769.html",
       "name": "ମନୋରମା ମିଶ୍ର",
       "contributionCount": 13,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Original Ame poem read, Niladri Vihar Bhubaneswar signature. Ameodia named child-poem page and Kakali review candidate lack matching locality/contact/work bridge; StoryMirror/Pratilipi and film namesakes not attributed. No verified new biography or portrait."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.ameodia.com/children/children-odia-poem/odia-children-poem-mo-maa-manorama-mishra/",
+        "https://odishasambad.in/tag/book-notice/",
+        "https://odia.pratilipi.com/series/ratire-kahibi-by-manorama-mishra-orgysigkcwvf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/f984695b07fe.html",
       "name": "ମହେନ୍ଦ୍ର କୁମାର ମଲ୍ଲିକ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Original full poem read with Kailash Vihar Sailashree Vihar Bhubaneswar signature. Magazine founding report names academy vice-president but exact signature/identity bridge to contributor not independently established. Same-name administrative career and event appearances not attributed. No verified individual photo."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=43",
+        "https://eodishasamachar.com/?p=18172",
+        "https://odisha.live/2018/12/03/second-day-of-konark-festival-2018/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/ecafce851a0c.html",
@@ -3957,6 +4007,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 024 validated; publication pending. 120/185 checked, 65 pending; 85 sourced introductions, 170 live profiles, 15 archived duplicates. Next: ବୀରେନ୍ଦ୍ର ମହାନ୍ତି /shishu/writers/69bca452d630.html",
+  "resume": "Batch 025 validated; publication pending. 125/185 checked; 60 pending. One existing biography expanded; four checked with no verified addition. Next: ମିନତି ପଟନାୟକ /shishu/writers/ecafce851a0c.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }

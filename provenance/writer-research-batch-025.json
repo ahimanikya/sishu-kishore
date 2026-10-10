@@ -1,0 +1,131 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/69bca452d630.html",
+      "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "contributionCount": 8,
+      "status": "enriched",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ସାହିତ୍ୟ ଅକାଦେମି · ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର",
+          "url": "https://www.sahitya-akademi.gov.in/awards/bal%20sahitya%20samman_suchi.jsp"
+        },
+        {
+          "label": "ଲେଖକଙ୍କ ସାକ୍ଷାତକାର · OrissaPOST",
+          "url": "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
+        }
+      ],
+      "notes": [
+        "Named 2018 OrissaPOST interview re-read; existing identity, portrait and award retained. Added only explicitly stated inspiration from Mina Bazar and Pilanka Dharitri."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/b98810c4015c.html",
+      "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
+      "contributionCount": 12,
+      "status": "checked-no-addition",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
+          "snapshot": "public/shishu/birthday_details-7295f3c559.html"
+        },
+        {
+          "label": "ମୂଳ ପତ୍ରିକାରେ କବିତା",
+          "url": "https://shishukishora.com/article_details.php?article_cd=346"
+        }
+      ],
+      "notes": [
+        "Original named birthday biography re-read. Existing mobile-library biography and verified portrait retained. English name and Odia name/library searches yielded no reliable useful addition. Unrelated employment and financial records excluded; no personal data retained."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
+        "https://shishukishora.com/article_details.php?article_cd=346"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/91a1452012c8.html",
+      "name": "ମଧୁସୂଦନ ମିଶ୍ର",
+      "contributionCount": 2,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Both original poems read, Keonjhar signature consistent. Odia locality and English poet search found no reliable biography; administrative/legal namesakes excluded. Pandit-name directory variant requires separate contribution/contact comparison before merge. No portrait verified. Scientific assertions in Bada Ajaba Katha not amplified as verified facts."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://kabitalive.com/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/fb5e637ed769.html",
+      "name": "ମନୋରମା ମିଶ୍ର",
+      "contributionCount": 13,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Original Ame poem read, Niladri Vihar Bhubaneswar signature. Ameodia named child-poem page and Kakali review candidate lack matching locality/contact/work bridge; StoryMirror/Pratilipi and film namesakes not attributed. No verified new biography or portrait."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.ameodia.com/children/children-odia-poem/odia-children-poem-mo-maa-manorama-mishra/",
+        "https://odishasambad.in/tag/book-notice/",
+        "https://odia.pratilipi.com/series/ratire-kahibi-by-manorama-mishra-orgysigkcwvf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/f984695b07fe.html",
+      "name": "ମହେନ୍ଦ୍ର କୁମାର ମଲ୍ଲିକ",
+      "contributionCount": 1,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Original full poem read with Kailash Vihar Sailashree Vihar Bhubaneswar signature. Magazine founding report names academy vice-president but exact signature/identity bridge to contributor not independently established. Same-name administrative career and event appearances not attributed. No verified individual photo."
+      ],
+      "batch": "025",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/article_details.php?article_cd=43",
+        "https://eodishasamachar.com/?p=18172",
+        "https://odisha.live/2018/12/03/second-day-of-konark-festival-2018/"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "Brundaban Kumbhar writer",
+    "ବୃନ୍ଦାବନ କୁମ୍ଭାର ବିଦ୍ୟାଶ୍ରୀ",
+    "ବୃନ୍ଦାବନ କୁମ୍ଭାର ପାଠାଗାର",
+    "ମଧୁସୂଦନ ମିଶ୍ର କେନ୍ଦୁଝର",
+    "Madhusudan Mishra Keonjhar poet",
+    "ମନୋରମା ମିଶ୍ର ଲେଖିକା",
+    "ମନୋରମା ମିଶ୍ର ନୀଳାଦ୍ରି",
+    "Manorama Mishra Odia Niladri",
+    "ମହେନ୍ଦ୍ର କୁମାର ମଲ୍ଲିକ ସାହିତ୍ୟ"
+  ],
+  "validation": "All build/check steps passed; every contribution list unchanged; biography verified in browser."
+}
