@@ -334,7 +334,8 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-c49b6e61da.html",
         "https://shishukishora.com/article_details.php?article_cd=328"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "ce8a8e59"
     },
     {
       "route": "/shishu/writers/524cb79f75d5.html",
@@ -353,7 +354,8 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-d474d9d5fa.html",
         "https://odishasambad.in/sabudina-sahitya-a-story-by-kunja-bihari-sahu/"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "ce8a8e59"
     },
     {
       "route": "/shishu/writers/4aa0a9dbf33c.html",
@@ -398,51 +400,101 @@
       "route": "/shishu/writers/3cab06f38bc2.html",
       "name": "ଗୀତାଞ୍ଜଳି ସ୍ଵାଇଁ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Original poems and specific locality establish correspondence with the other Gitanjali spelling. Added explicitly sourced retired-teacher introduction. No portrait verified."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "005",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-595234403d.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-9df5c5273b.html",
+        "https://indiawhispers.com/2020/02/13/odisha-lekhika-sansad-confers-awards-on-27-women-writers/",
+        "https://manabiodisha.com/team/"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/4b75b270fdbe.html",
       "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read both contributions; retired female teacher is explicit in July 2026 signature. Award and foundation photo not attributed; identity connection insufficient. No route merge."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "005",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-595234403d.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-9df5c5273b.html"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/67fc1496f8fc.html",
       "name": "ଗୋପୀନାଥ ଦାଶ",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read both original poems with matching Barpalipada/Balangir signatures. Same-name Saptapheni editor in Banamalli press release has no corroborating connection. No photo or editor role attributed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "005",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-c0bd356e40.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-03b6ca1794.html",
+        "https://suryaprava.in/ରାମନବମୀ"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/646ed979fded.html",
       "name": "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ତ୍ରିପାଠୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Verified Dharitri byline plus distinctive locality; added literary introduction. Interview books/portrait remain a follow-up lead because the interview lacks corroborating signature. State publishers directory lists a different locality and does not resolve it."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "005",
+      "researchUrls": [
+        "https://www.dharitri.com/pet-cat/amp/",
+        "https://odishasambad.in/literature-interview-with-writer-gobinda-chandra-tripathy/",
+        "https://govindarpade.blogspot.com/2021/12/",
+        "https://culture.odisha.gov.in/sites/default/files/2022-10/Pub_directory.pdf"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/0ffecc9a3bd3.html",
       "name": "ଘନଶ୍ୟାମ ବୋଇତେଇ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read full original poem and searched Odia/English name with locality. Literary gathering report names him as an attendee but supplies no biography or identified individual portrait. No facts borrowed from Ghanshyam Palei."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "005",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-f88b4b8168.html",
+        "https://aimamedia.org/newsdetails.aspx?nid=671126"
+      ],
+      "publication": "not-needed"
     },
     {
       "route": "/shishu/writers/4365113dce3c.html",
@@ -2127,5 +2179,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 004 researched and saved; build and deployment verification pending. Twenty entries checked. Resume first pending entry after deployment."
+  "resume": "Batch 005 researched; 25 entries checked. Three introductions added; build, browser and deployment checks pending. Resume first pending entry after publication."
 }
