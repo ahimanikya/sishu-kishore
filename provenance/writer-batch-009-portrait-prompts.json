@@ -1,0 +1,8 @@
+{
+  "prompt": "Create a faithful Sishu Cartoon Natural editorial author portrait from this identity-verified photograph of Swarnalata Tripathy. Square bust portrait, face large and recognizable. Preserve her actual facial proportions, mature age, hairstyle, glasses if visible, bindi, gentle expression and lime-yellow sari with green border from the source. Simplify into warm classic Indian children's magazine 2D cartoon illustration, confident dark ink outlines, broad flat color shapes, restrained flat shadows, subtle warm cream paper background. Natural modest expression, no beautification or age reduction, no photorealistic rendering, no glossy 3D, no watercolor blur. Remove the lanyard badge and busy temple scene; no writing, logos, invented accessories or decorative objects. Keep her identity faithful to the photograph.",
+  "source": "public/portraits/swarnalata-tripathy-source.jpg",
+  "sourceUrl": "https://patfindia.org/uploads/members/1d51999e7b5311b09a7f74f0f8972275.jpg",
+  "generatedOriginal": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-dde5283c-8dc6-4c74-b9db-de56896a4787.png",
+  "output": "public/portraits/swarnalata-tripathy-cartoon-natural-v1.webp",
+  "review": "Source and generated result visually inspected. Mature face, swept-back hair, glasses, bindi, lime-yellow sari retained; busy background and lanyard removed. Delivery resized to 512 square. No public production attribution."
+}

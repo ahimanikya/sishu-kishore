@@ -826,7 +826,8 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-14ea7c35d1.html",
         "https://sishu.kabitawithoutborders.org/shishu/article_details-77398117b7.html"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "5d387b56"
     },
     {
       "route": "/shishu/writers/9aaf459c3069.html",
@@ -848,7 +849,8 @@
         "https://www.shishukishora.com/whoweare.php",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "5d387b56"
     },
     {
       "route": "/shishu/writers/be558d5e012a.html",
@@ -870,7 +872,8 @@
         "https://www.shishukishora.com/whoweare.php",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "5d387b56"
     },
     {
       "route": "/shishu/writers/9fb160aa710f.html",
@@ -908,7 +911,8 @@
         "https://www.suniv.ac.in/old-site/documents/Odia%2C%202025-28%20%28Nep-2020%29.pdf",
         "https://www.odishanticstore.com/product/prachi-prabandha-o-patramala"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "5d387b56"
     },
     {
       "route": "/shishu/writers/75d699aa5d34.html",
@@ -951,57 +955,177 @@
         "https://www.shishukishora.com/news.php",
         "https://lrnr.in/video/bsechse-odisha-class-5-odia-chapter-7-japan-anubhuti"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "5d387b56"
     },
     {
       "route": "/shishu/writers/809b37f8b67c.html",
       "name": "ଡ.ବିଜୟା ପାତ୍ର",
       "contributionCount": 3,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read signed poems with consistent Kotitirtha/Bhubaneswar signature. Odia name/locality and English author/book searches found Satyabadi biography and bibliographic Bagula Paichhi Badhia Ghara lead. No corroborating bridge from this contributor to those biographical records; full Satyabadi retrieval failed. Do not borrow book counts, title or photograph. Original contributions retained."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "009",
+      "publication": "not-needed",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-183c438715.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-67eded0cdb.html",
+        "https://fliphtml5.com/aukd/pwnf/77/",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
+      ]
     },
     {
       "route": "/shishu/writers/c74768426438.html",
       "name": "ଡଃ . ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ରାଷ୍ଟ୍ରପତି ପୁରସ୍କୃତ ଶିକ୍ଷକ ମଞ୍ଚ · ପରିଚୟ",
+          "url": "https://patfindia.org/members/swarnalata-tripathy"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html",
+          "snapshot": "public/shishu/article_details-fb17c322cd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ସୁଗୁଣ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଉତ୍ତମ ଛାତ୍ର ଆଗାମୀ ଦିନର",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html"
+        }
+      ],
+      "notes": [
+        "Named forum profile explicitly identifies retired ABEO, Puri Sadar and 2012 National Teacher Award; original Suguna signature independently corroborates same role, place and presidential award. Source and Cartoon Natural portrait visually reviewed. Same-name university scientist excluded."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "009",
+      "publication": "pending",
+      "researchUrls": [
+        "https://patfindia.org/members/swarnalata-tripathy",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html"
+      ]
     },
     {
       "route": "/shishu/writers/1928b5c64b0a.html",
       "name": "ଡଃ ସ୍ବର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ରାଷ୍ଟ୍ରପତି ପୁରସ୍କୃତ ଶିକ୍ଷକ ମଞ୍ଚ · ପରିଚୟ",
+          "url": "https://patfindia.org/members/swarnalata-tripathy"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html",
+          "snapshot": "public/shishu/article_details-a029824e94.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ସୁଗୁଣ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଉତ୍ତମ ଛାତ୍ର ଆଗାମୀ ଦିନର",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html"
+        }
+      ],
+      "notes": [
+        "Read complete contribution and signature. Same retired assistant education officer role, Puri Sadar block and Konark locality corroborate identity across spelling variants and named award-forum profile. Add sourced teaching background and 2012 award; routes and all contributions remain separate. Portrait treatment visually reviewed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "009",
+      "publication": "pending",
+      "researchUrls": [
+        "https://patfindia.org/members/swarnalata-tripathy",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html"
+      ]
     },
     {
       "route": "/shishu/writers/53aa42b70560.html",
       "name": "ଡଃ ସ୍ଵର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
       "contributionCount": 10,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ରାଷ୍ଟ୍ରପତି ପୁରସ୍କୃତ ଶିକ୍ଷକ ମଞ୍ଚ · ପରିଚୟ",
+          "url": "https://patfindia.org/members/swarnalata-tripathy"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a0537163a4.html",
+          "snapshot": "public/shishu/article_details-a0537163a4.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ସୁଗୁଣ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଉତ୍ତମ ଛାତ୍ର ଆଗାମୀ ଦିନର",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html"
+        }
+      ],
+      "notes": [
+        "Read complete contribution and signature. Same retired assistant education officer role, Puri Sadar block and Konark locality corroborate identity across spelling variants and named award-forum profile. Add sourced teaching background and 2012 award; routes and all contributions remain separate. Portrait treatment visually reviewed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "009",
+      "publication": "pending",
+      "researchUrls": [
+        "https://patfindia.org/members/swarnalata-tripathy",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-a0537163a4.html"
+      ]
     },
     {
       "route": "/shishu/writers/5be77343df78.html",
       "name": "ଡଃ ସ୍ୱର୍ଣ୍ଣ ଲତା ତ୍ରିପାଠୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ରାଷ୍ଟ୍ରପତି ପୁରସ୍କୃତ ଶିକ୍ଷକ ମଞ୍ଚ · ପରିଚୟ",
+          "url": "https://patfindia.org/members/swarnalata-tripathy"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ac4777362d.html",
+          "snapshot": "public/shishu/article_details-ac4777362d.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ସୁଗୁଣ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଉତ୍ତମ ଛାତ୍ର ଆଗାମୀ ଦିନର",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html"
+        }
+      ],
+      "notes": [
+        "Read complete contribution and signature. Same retired assistant education officer role, Puri Sadar block and Konark locality corroborate identity across spelling variants and named award-forum profile. Add sourced teaching background and 2012 award; routes and all contributions remain separate. Portrait treatment visually reviewed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "009",
+      "publication": "pending",
+      "researchUrls": [
+        "https://patfindia.org/members/swarnalata-tripathy",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-ac4777362d.html"
+      ]
     },
     {
       "route": "/shishu/writers/a639dc57e6dc.html",
@@ -2474,5 +2598,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 008 locally verified, publish pending. 40/185 entries checked; 31 sourced introductions; 11 verified portrait assets on 13 directory entries. Next: ଡ.ବିଜୟା ପାତ୍ର /shishu/writers/809b37f8b67c.html"
+  "resume": "Batch 009 ready for publishing: 45/185 entries checked, 35 sourced introductions, 12 unique verified portraits on 17 entries. Next: ଡକ୍ଝର କମଳାକାନ୍ତ ଜେନା /shishu/writers/a639dc57e6dc.html."
 }
