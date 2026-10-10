@@ -145,12 +145,110 @@
         }
       ],
       "identity": "Existing portrait verified from the named 2018 interview; award and book corroborated in official award list."
+    },
+    {
+      "slug": "brundaban-kumbhar",
+      "route": "/shishu/writers/b98810c4015c.html",
+      "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ବୃନ୍ଦାବନ କୁମ୍ଭାର ଟିଟିଲାଗଡ଼ ଅଞ୍ଚଳର ଜଣେ ଶିଶୁ ସାହିତ୍ୟିକ । ସେ ‘ବିଦ୍ୟାଶ୍ରୀ’ ଭ୍ରାମ୍ୟମାଣ ପାଠାଗାରର ପ୍ରତିଷ୍ଠାତା । ଶିଶୁ କିଶୋରରେ ତାଙ୍କର ପିଲାଙ୍କ ପାଇଁ କବିତା ପ୍ରକାଶିତ ହୋଇଛି ।",
+      "searchAliases": "ବ୍ରୁନ୍ଦାବନ କୁମ୍ଭାର Brundaban Kumbhar",
+      "portrait": "/portraits/brundaban-kumbhar-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/cf407898a3cd032ea033ef48.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
+          "snapshot": "public/shishu/birthday_details-7295f3c559.html"
+        },
+        {
+          "label": "ମୂଳ ପତ୍ରିକାରେ କବିତା",
+          "url": "https://shishukishora.com/article_details.php?article_cd=346"
+        }
+      ],
+      "identity": "Original named birthday biography and portrait. Minor vowel spelling variation corroborated by original poem signature at Chantipala/Titilagarh and current source introduction at the same locality. No other profiles merged."
+    },
+    {
+      "slug": "kamalakanta-jena",
+      "route": "/shishu/writers/ef4e39279854.html",
+      "name": "ଡ଼କ୍ଟର କମଳାକାନ୍ତ ଜେନା",
+      "role": "ବିଜ୍ଞାନ ଲେଖକ ଓ ଶିକ୍ଷକ",
+      "bio": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା ଓଡ଼ିଆରେ ବିଜ୍ଞାନ ବିଷୟରେ ଲେଖନ୍ତି ଏବଂ ପଦାର୍ଥ ବିଜ୍ଞାନ ପଢ଼ାଇଛନ୍ତି । ତାଙ୍କର ‘ଗପରେ ଗପରେ ବିଜ୍ଞାନ’ ପୁସ୍ତକ ୨୦୧୧ ମସିହାର ପ୍ରାଣକୃଷ୍ଣ ପରିଜା ଜନପ୍ରିୟ ବିଜ୍ଞାନ ପୁରସ୍କାର ପାଇଥିଲା ।",
+      "searchAliases": "Kamalakanta Jena କମଳାକାନ୍ତ ଜେନା",
+      "portrait": "/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
+      "sourcePortrait": "/portraits/kamalakanta-jena-source.jpg",
+      "sources": [
+        {
+          "label": "ଓଡ଼ିଶା ବିଜ୍ଞାନ ଏକାଡେମୀ · ପୁରସ୍କାର ତାଲିକା",
+          "url": "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+        },
+        {
+          "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
+          "url": "https://fmuniversity.nic.in/officers.html"
+        }
+      ],
+      "identity": "2026 Sishu article signature explicitly names the university Controller of Examinations role; official university officer row names Dr Kamalakanta Jena and attaches the downloaded portrait. Earlier contributions identify Physics teaching; official science academy confirms 2011 book award.",
+      "evidenceArticle": "public/shishu/article_details-77398117b7.html",
+      "sourceImageUrl": "https://fmuniversity.nic.in/getdata?dir=OfficersImage&rid=officers_49_6520261778054302935.jpg"
+    },
+    {
+      "slug": "sunamani-rout",
+      "route": "/shishu/writers/c6223054b1e8.html",
+      "name": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ ପିଲାମାନଙ୍କ ପାଇଁ ଓଡ଼ିଆରେ ଲେଖନ୍ତି । ତାଙ୍କର ‘କିଚିରି ମିଚିରି ଚିଁ’ ପୁସ୍ତକ ୨୦୦୫ ମସିହା ପାଇଁ ଓଡ଼ିଶା ସାହିତ୍ୟ ଏକାଡେମୀର ଶିଶୁ ସାହିତ୍ୟ ପୁରସ୍କାର ପାଇଥିଲା ।",
+      "searchAliases": "Sunamani Rout",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ପୁରସ୍କାର ସମ୍ବାଦ · The New Indian Express",
+          "url": "https://www.newindianexpress.com/states/odisha/2009/Jan/22/state-sahitya-akademi-awards-announced-19865.html"
+        }
+      ],
+      "identity": "Named Odia children's writer in award announcement; original magazine uses full name/honorific and Cuttack signature. No photograph selected. Award year distinguished from announcement date."
+    },
+    {
+      "slug": "radhamadhab-rath",
+      "route": "/shishu/writers/262e7a578d40.html",
+      "name": "ରାଧାମାଧବ ରଥ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ରାଧାମାଧବ ରଥ ଶିଶୁ କିଶୋରରେ ପିଲାମାନଙ୍କ ପାଇଁ ଗପ ଲେଖନ୍ତି । ତାଙ୍କର ‘ମୋ ପାପା’ ଏକ ଶିଶୁ-କିଶୋର ଉପନ୍ୟାସ । ଏଥିରେ ଝିଅର ଜୀବନ ଗଢ଼ିବାରେ ବାପାଙ୍କ ଭୂମିକାକୁ ନେଇ କାହାଣୀ ରହିଛି ।",
+      "searchAliases": "Radhamadhab Rath Radha Madhab Rath",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ‘ମୋ ପାପା’ ପୁସ୍ତକ ପରିଚୟ",
+          "url": "https://shishukishora.com/book_details.php?book_cd=54"
+        }
+      ],
+      "identity": "Original magazine explicitly attributes the children's novel to the same Odia byline. Unrelated corporate and engineering profiles rejected; no photograph selected."
+    },
+    {
+      "slug": "dhruba-charan-ghibela",
+      "route": "/shishu/writers/55f2b4a6ba42.html",
+      "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା ବୌଦ୍ଧର ଜଣେ ଶିଶୁ ସାହିତ୍ୟିକ । ଶିଶୁ କିଶୋରରେ ତାଙ୍କର ଓଡ଼ିଆ ଭାଷା, ପର୍ବପର୍ବାଣି ଓ ଭ୍ରମଣକୁ ନେଇ କବିତା ପ୍ରକାଶିତ ହୋଇଛି । ୨୦୨୫ ମସିହାରେ ବୌଦ୍ଧରେ ଆୟୋଜିତ ରାଜ୍ୟସ୍ତରୀୟ ସାହିତ୍ୟ ଆସରରେ ସେ ସଭାପତିତ୍ୱ କରିଥିଲେ ।",
+      "searchAliases": "Dhruba Charan Ghibela Dhruva Charan Ghibela",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ସାହିତ୍ୟ ଆସର ସମ୍ବାଦ · ହିନ୍ଦୁସ୍ଥାନ ସମାଚାର",
+          "url": "https://odia.hindusthansamachar.in/Encyc/2025/6/29/literary-program-at-Boudh-by-odisha-sahitya-ekadem.php"
+        },
+        {
+          "label": "ମୂଳ ପତ୍ରିକାରେ କବିତା",
+          "url": "https://www.shishukishora.com/article_details.php?article_cd=281"
+        }
+      ],
+      "identity": "Boudh identity corroborated by original article signature and named 2025 literary-event report. Subject description derived from actual published poems, not an inferred personal interest. No group-photo face chosen.",
+      "evidenceArticle": "public/shishu/article_details-448effc32f.html"
     }
   ],
   "pendingResearch": [
     {
       "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
-      "reason": "Named newspaper bylines and event coverage found, but no confidently identified individual portrait."
+      "reason": "Biography enriched in second pass; portrait still needs individual identity verification."
     },
     {
       "name": "ନୀଳମଣି ଚାନ୍ଦ",

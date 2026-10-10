@@ -18,10 +18,10 @@ def meta(text,key,value):
 for w in writers:
     path=ROOT/w['route'].lstrip('/')
     text=path.read_text()
-    assert (ROOT/w['portrait'].lstrip('/')).exists(),w['portrait']
+    if w.get('portrait'):assert (ROOT/w['portrait'].lstrip('/')).exists(),w['portrait']
     portrait=f'<img class="writer-photo writer-illustration" data-portrait-treatment="cartoon-natural" src="{w["portrait"]}" alt="{escape(w["name"])}" width="512" height="512" decoding="async">'
     image_pattern=r'<span class="writer-photo writer-avatar"[^>]*>.*?</span>|<img\b[^>]*class="writer-photo writer-illustration"[^>]*>'
-    text=re.sub(image_pattern,lambda _:portrait,text,count=1,flags=re.S)
+    if w.get('portrait'):text=re.sub(image_pattern,lambda _:portrait,text,count=1,flags=re.S)
     text=re.sub(r'<section class="writer-introduction".*?</section>','',text,flags=re.S)
     source_links=''.join(f'<li><a href="{escape(s["url"],quote=True)}" target="_blank" rel="noopener noreferrer">{escape(s["label"])}</a></li>' for s in w['sources'])
     bio=f'<section class="writer-introduction" aria-labelledby="writer-introduction-title"><h2 id="writer-introduction-title">ଲେଖକଙ୍କୁ ଜାଣନ୍ତୁ</h2><p>{escape(w["bio"])}</p><details><summary>ପରିଚୟର ଉତ୍ସ</summary><ul>{source_links}</ul></details></section>'
@@ -30,15 +30,17 @@ for w in writers:
     if css not in text:text=text.replace('</head>',css+'</head>')
     for key in ['description','og:description','twitter:description']:text=meta(text,key,w['bio'])
     social='https://sishu.kabitawithoutborders.org/social/writer-'+w['slug']+'-v1.jpg'
-    for key in ['og:image','twitter:image']:text=meta(text,key,social)
-    for key in ['og:image:alt','twitter:image:alt']:text=meta(text,key,w['name'])
+    if w.get('portrait'):
+        for key in ['og:image','twitter:image']:text=meta(text,key,social)
+    if w.get('portrait'):
+        for key in ['og:image:alt','twitter:image:alt']:text=meta(text,key,w['name'])
     path.write_text(text)
     def card(m):
         item=m.group(0)
         if f'href="{w["route"]}"' not in item:return item
         item=re.sub(r' data-(?:biography|aliases)="[^"]*"','',item)
         item=item.replace('<li ',f'<li data-biography="true" data-aliases="{escape(w["searchAliases"],quote=True)}" ',1)
-        item=re.sub(image_pattern,lambda _:portrait.replace(' decoding=', ' loading="lazy" decoding='),item,count=1,flags=re.S)
+        if w.get('portrait'):item=re.sub(image_pattern,lambda _:portrait.replace(' decoding=', ' loading="lazy" decoding='),item,count=1,flags=re.S)
         item=re.sub(r'<span class="writer-role">.*?</span>','',item)
         return item.replace('</strong>','</strong><span class="writer-role">'+escape(w['role'])+'</span>',1)
     directory=re.sub(r'<li\b[^>]*data-writer="[^"]*".*?</li>',card,directory,flags=re.S)

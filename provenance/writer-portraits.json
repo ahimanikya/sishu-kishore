@@ -392,7 +392,8 @@
       "name": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ",
       "route": "/shishu/writers/c6223054b1e8.html",
       "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "status": "empty: no reliably identified portrait selected",
+      "research": "provenance/writer-research-second-pass.json"
     },
     {
       "name": "ଡ଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
@@ -415,8 +416,9 @@
     {
       "name": "ଡ଼କ୍ଟର କମଳାକାନ୍ତ ଜେନା",
       "route": "/shishu/writers/ef4e39279854.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-second-pass.json"
     },
     {
       "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ",
@@ -543,7 +545,8 @@
       "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
       "route": "/shishu/writers/55f2b4a6ba42.html",
       "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "status": "empty: no reliably identified portrait selected",
+      "research": "provenance/writer-research-second-pass.json"
     },
     {
       "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
@@ -748,8 +751,9 @@
     {
       "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
       "route": "/shishu/writers/b98810c4015c.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/brundaban-kumbhar-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-second-pass.json"
     },
     {
       "name": "ମଧୁସୂଦନ ମିଶ୍ର",
@@ -821,7 +825,8 @@
       "name": "ରାଧାମାଧବ ରଥ",
       "route": "/shishu/writers/262e7a578d40.html",
       "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "status": "empty: no reliably identified portrait selected",
+      "research": "provenance/writer-research-second-pass.json"
     },
     {
       "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ",

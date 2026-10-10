@@ -76,7 +76,7 @@ for path in sorted(ROOT.rglob('*.html')):
   writer=writer_profiles[route]
   web['@type']='ProfilePage'
   web['mainEntity']={'@id':canonical+'#writer'}
-  graph.append({'@type':'Person','@id':canonical+'#writer','name':writer['name'],'url':canonical,'description':writer['bio'],'image':ORIGIN+writer['portrait']})
+  graph.append({'@type':'Person','@id':canonical+'#writer','name':writer['name'],'url':canonical,'description':writer['bio'],**({'image':ORIGIN+writer['portrait']} if writer.get('portrait') else {})})
  elif route in books:
   book=books[route];graph.append({'@type':'Book','name':book['title'],'url':canonical,'inLanguage':'or','image':image,'numberOfPages':book['total']})
  breadcrumbs=[n for n in nodes if n.has('ia-breadcrumb')]

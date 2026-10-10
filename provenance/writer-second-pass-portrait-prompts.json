@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "brundaban-kumbhar",
+    "source": "public/media/cf407898a3cd032ea033ef48.jpg",
+    "prompt": "Edit the provided verified author photograph into a faithful Sishu Kishore children's magazine portrait. Preserve this exact person's recognizable facial proportions, age, skin tone, hairline, hairstyle, glasses if present, expression, clothing and modest appearance. Head and shoulders, square composition with comfortable space around the head. Expressive simple 2D cartoon ink drawing with confident gently irregular dark contours and restrained flat warm colors, a classic Indian children's story magazine illustration. Keep natural human individuality; not a generic mascot, not caricature, do not beautify or make younger. Replace the entire background with plain warm ivory paper. No photographic skin or hair detail, no airbrush, glossy 3D or digital lighting. No text, letters, signature, badges or decorative props.",
+    "tool": "built-in image_gen",
+    "master": "provenance/writer-cartoon-masters/brundaban-kumbhar-cartoon-natural-v1.png",
+    "web": "public/portraits/brundaban-kumbhar-cartoon-natural-v1.webp",
+    "generatedFile": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-1b968191-6d18-4094-92a3-a6b5f316802a.png",
+    "review": "Identity, hair, moustache, glasses and clothing compared with verified source photograph; no new identifying features."
+  },
+  {
+    "slug": "kamalakanta-jena",
+    "source": "public/portraits/kamalakanta-jena-source.jpg",
+    "prompt": "Edit the provided verified author photograph into a faithful Sishu Kishore children's magazine portrait. Preserve this exact person's recognizable facial proportions, age, skin tone, hairline, hairstyle, glasses if present, expression, clothing and modest appearance. Head and shoulders, square composition with comfortable space around the head. Expressive simple 2D cartoon ink drawing with confident gently irregular dark contours and restrained flat warm colors, a classic Indian children's story magazine illustration. Keep natural human individuality; not a generic mascot, not caricature, do not beautify or make younger. Replace the entire background with plain warm ivory paper. No photographic skin or hair detail, no airbrush, glossy 3D or digital lighting. No text, letters, signature, badges or decorative props.",
+    "tool": "built-in image_gen",
+    "master": "provenance/writer-cartoon-masters/kamalakanta-jena-cartoon-natural-v1.png",
+    "web": "public/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
+    "generatedFile": "/Users/ahimanikya/.codex/generated_images/01a116f0-2003-7a83-aabe-6ce47d1f7461/exec-522a4b39-95bb-46c2-8164-3dfce7f6fc2f.png",
+    "review": "Identity, hair, moustache, glasses and clothing compared with verified source photograph; no new identifying features."
+  }
+]

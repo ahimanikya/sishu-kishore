@@ -19,7 +19,7 @@ const generated=/<span class="writer-photo writer-avatar"[^>]*><img[^>]*>(?:<spa
 const empty=/<span\b[^>]*class="writer-photo writer-photo-empty"[^>]*>\s*<\/span>/g;
 const css='<link rel="stylesheet" href="/writer-avatars.css?v=1">';
 const index=path.join(root,'shishu/writers.html');let html=fs.readFileSync(index,'utf8');let count=0;html=html.replace(generated,'<span class="writer-photo writer-photo-empty"></span>');
-html=html.replace(/<li data-writer="([^"]+)"[\s\S]*?<\/li>/g,(card,name)=>card.replace(empty,()=>{count++;return avatar(name);}));
+html=html.replace(/<li\b[^>]*data-writer="([^"]+)"[\s\S]*?<\/li>/g,(card,name)=>card.replace(empty,()=>{count++;return avatar(name);}));
 if(!html.includes('/writer-avatars.css'))html=html.replace('</head>',css+'</head>');
 if(!html.includes('writer-avatar-note'))html=html.replace('<label class="mag-search">','<p class="writer-avatar-note">ଫଟୋ ନଥିଲେ ସାଙ୍କେତିକ ଚିତ୍ର ଦିଆଯାଇଛି ।</p><label class="mag-search">');
 fs.writeFileSync(index,html);
