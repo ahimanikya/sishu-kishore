@@ -1,0 +1,167 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/ecafce851a0c.html",
+      "name": "ମିନତି ପଟନାୟକ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-78e27bee0d.html",
+          "snapshot": "public/shishu/article_details-78e27bee0d.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-61c8de072f.html",
+          "snapshot": "public/shishu/article_details-61c8de072f.html"
+        }
+      ],
+      "notes": [
+        "Original full story names Duttatota PUP School Puri; Education Ministry list names Minati Kumari Patnayak as head master at this exact school. Name plus exact school establishes professional identity; no award year inferred. Original Gachha Amara Bandhu and Sie Ta Ama Maa signatures share exact contact after Odia digit normalization and Nilachakra Nagar Puri locality, confirming merge. National award news is corroborative only; Cuttack property-donation namesake and dancer excluded. No identity-verified portrait found."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/0da992c5b5cc.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/ecafce851a0c.html",
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/0da992c5b5cc.html",
+      "name": "ମିନତି ପଟ୍ଟନାୟକ",
+      "contributionCount": 8,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b8b213426c.html",
+          "snapshot": "public/shishu/article_details-b8b213426c.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-78e27bee0d.html",
+          "snapshot": "public/shishu/article_details-78e27bee0d.html"
+        },
+        {
+          "label": "ଭାରତ ସରକାର · ଶିକ୍ଷକ ତାଲିକା",
+          "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/national_awards_teachers/ODISHA.pdf"
+        }
+      ],
+      "notes": [
+        "Original full story names Duttatota PUP School Puri; Education Ministry list names Minati Kumari Patnayak as head master at this exact school. Name plus exact school establishes professional identity; no award year inferred. Original Gachha Amara Bandhu and Sie Ta Ama Maa signatures share exact contact after Odia digit normalization and Nilachakra Nagar Puri locality, confirming merge. National award news is corroborative only; Cuttack property-donation namesake and dancer excluded. No identity-verified portrait found."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-b8b213426c.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-78e27bee0d.html",
+        "https://www.education.gov.in/sites/upload_files/mhrd/files/national_awards_teachers/ODISHA.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/9210d5fb2fa2.html",
+      "name": "ରଘୁ ନନ୍ଦନ ମହାପାତ୍ର",
+      "contributionCount": 4,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-769.html",
+          "snapshot": "public/shishu/article-769.html"
+        }
+      ],
+      "notes": [
+        "Full sparrow, pigeon and bicycle poems read. Sparrow signature Harchandi Sahi Bhubaneswar; official publisher directory has matching name/locality only in a care-of entry, not a biography. Search hit article_cd338 mentions Raghunandan in a comment, not a safe author identity bridge. No books/awards/photo assigned. Existing honorific profile needs comparison; no merge from name alone."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://culture.odisha.gov.in/sites/default/files/2022-10/Pub_directory.pdf",
+        "https://magazines.odisha.gov.in/utkalprasanga/2012/June/oriyapdf/96-99.pdf",
+        "https://shishukishora.com/article_details.php?article_cd=338"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/c4e96a0c83de.html",
+      "name": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "contributionCount": 1,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fe4f571761.html",
+          "snapshot": "public/shishu/article_details-fe4f571761.html"
+        }
+      ],
+      "notes": [
+        "Full Kuade Thilu poem read; no locality or contact signature. Exact Odia name and English poet/publisher searches return name-only literary references and unrelated namesakes. Insufficient evidence to merge with spaced or honorific profiles, assign biography or photograph."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://culture.odisha.gov.in/sites/default/files/2022-10/Pub_directory.pdf",
+        "https://magazines.odisha.gov.in/utkalprasanga/2012/June/oriyapdf/96-99.pdf",
+        "https://shishukishora.com/article_details.php?article_cd=338"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/7ae172e3d1b8.html",
+      "name": "ରତ୍ନାକର ଦାସ",
+      "contributionCount": 13,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b05a795354.html",
+          "snapshot": "public/shishu/article_details-b05a795354.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଏକାଡେମି ପରିଚୟ",
+          "url": "https://www.shishukishora.com/whoweare.php"
+        }
+      ],
+      "notes": [
+        "Full Hebu Jagatajita read; signature explicitly academy member, independently consistent with original academy membership list. No external books, awards or photo identity verified. Hatadihi literary-event namesake lacks contact/work bridge; Ratnakar Chaini and Ratnakar Rout excluded."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-b05a795354.html",
+        "https://www.shishukishora.com/whoweare.php"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ମିନତି ପଟ୍ଟନାୟକ ଲେଖିକା",
+    "Minati Pattnaik writer Puri",
+    "Minati Patnayak teacher award",
+    "Minati Pattnayak Datta",
+    "ରଘୁନନ୍ଦନ ମହାପାତ୍ର ସାହିତ୍ୟ",
+    "Raghunandan Mohapatra writer",
+    "ରଘୁନନ୍ଦନ ମହାପାତ୍ର ହରଚଣ୍ଡୀ",
+    "ରତ୍ନାକର ଦାସ ଶିଶୁ",
+    "Ratnakar Das writer Odisha",
+    "ରତ୍ନାକର ଦାସ ସାହିତ୍ୟ"
+  ],
+  "additionalResearchUrls": [
+    "https://www.orissapost.com/national-awards-for-11-schoolteachers/amp/",
+    "https://www.odishaestore.com/index.php?route=product%2Fauthor",
+    "https://yugabdha.com/preparatory-meeting-for-the-observance-of-raksha-bandhan-and-the-vow-of-de-addiction/"
+  ],
+  "validation": "Build, public delivery, sharing, discovery and merge checks passed. All unrelated contribution markup unchanged; Minati union contains all nine articles. Both new introductions verified in local browser."
+}

@@ -3306,7 +3306,8 @@
       "researchUrls": [
         "https://www.orissapost.com/childrens-literature-helps-to-be-a-good-human-being/"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "da6e48ac"
     },
     {
       "route": "/shishu/writers/b98810c4015c.html",
@@ -3335,7 +3336,8 @@
         "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
         "https://shishukishora.com/article_details.php?article_cd=346"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "da6e48ac"
     },
     {
       "route": "/shishu/writers/91a1452012c8.html",
@@ -3353,7 +3355,8 @@
       "researchUrls": [
         "https://kabitalive.com/"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "da6e48ac"
     },
     {
       "route": "/shishu/writers/fb5e637ed769.html",
@@ -3373,7 +3376,8 @@
         "https://odishasambad.in/tag/book-notice/",
         "https://odia.pratilipi.com/series/ratire-kahibi-by-manorama-mishra-orgysigkcwvf"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "da6e48ac"
     },
     {
       "route": "/shishu/writers/f984695b07fe.html",
@@ -3393,57 +3397,152 @@
         "https://eodishasamachar.com/?p=18172",
         "https://odisha.live/2018/12/03/second-day-of-konark-festival-2018/"
       ],
-      "publication": "pending-validation"
+      "publication": "published",
+      "publishedCommit": "da6e48ac"
     },
     {
       "route": "/shishu/writers/ecafce851a0c.html",
       "name": "ମିନତି ପଟନାୟକ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-78e27bee0d.html",
+          "snapshot": "public/shishu/article_details-78e27bee0d.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-61c8de072f.html",
+          "snapshot": "public/shishu/article_details-61c8de072f.html"
+        }
+      ],
+      "notes": [
+        "Original full story names Duttatota PUP School Puri; Education Ministry list names Minati Kumari Patnayak as head master at this exact school. Name plus exact school establishes professional identity; no award year inferred. Original Gachha Amara Bandhu and Sie Ta Ama Maa signatures share exact contact after Odia digit normalization and Nilachakra Nagar Puri locality, confirming merge. National award news is corroborative only; Cuttack property-donation namesake and dancer excluded. No identity-verified portrait found."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "canonicalRoute": "/shishu/writers/0da992c5b5cc.html",
+      "archivedProfile": "provenance/writer-profile-archive/2026-10-10/ecafce851a0c.html",
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/0da992c5b5cc.html",
       "name": "ମିନତି ପଟ୍ଟନାୟକ",
       "contributionCount": 8,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b8b213426c.html",
+          "snapshot": "public/shishu/article_details-b8b213426c.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-78e27bee0d.html",
+          "snapshot": "public/shishu/article_details-78e27bee0d.html"
+        },
+        {
+          "label": "ଭାରତ ସରକାର · ଶିକ୍ଷକ ତାଲିକା",
+          "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/national_awards_teachers/ODISHA.pdf"
+        }
+      ],
+      "notes": [
+        "Original full story names Duttatota PUP School Puri; Education Ministry list names Minati Kumari Patnayak as head master at this exact school. Name plus exact school establishes professional identity; no award year inferred. Original Gachha Amara Bandhu and Sie Ta Ama Maa signatures share exact contact after Odia digit normalization and Nilachakra Nagar Puri locality, confirming merge. National award news is corroborative only; Cuttack property-donation namesake and dancer excluded. No identity-verified portrait found."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-b8b213426c.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-78e27bee0d.html",
+        "https://www.education.gov.in/sites/upload_files/mhrd/files/national_awards_teachers/ODISHA.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/9210d5fb2fa2.html",
       "name": "ରଘୁ ନନ୍ଦନ ମହାପାତ୍ର",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-769.html",
+          "snapshot": "public/shishu/article-769.html"
+        }
+      ],
+      "notes": [
+        "Full sparrow, pigeon and bicycle poems read. Sparrow signature Harchandi Sahi Bhubaneswar; official publisher directory has matching name/locality only in a care-of entry, not a biography. Search hit article_cd338 mentions Raghunandan in a comment, not a safe author identity bridge. No books/awards/photo assigned. Existing honorific profile needs comparison; no merge from name alone."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://culture.odisha.gov.in/sites/default/files/2022-10/Pub_directory.pdf",
+        "https://magazines.odisha.gov.in/utkalprasanga/2012/June/oriyapdf/96-99.pdf",
+        "https://shishukishora.com/article_details.php?article_cd=338"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/c4e96a0c83de.html",
       "name": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "checked-no-addition",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fe4f571761.html",
+          "snapshot": "public/shishu/article_details-fe4f571761.html"
+        }
+      ],
+      "notes": [
+        "Full Kuade Thilu poem read; no locality or contact signature. Exact Odia name and English poet/publisher searches return name-only literary references and unrelated namesakes. Insufficient evidence to merge with spaced or honorific profiles, assign biography or photograph."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://culture.odisha.gov.in/sites/default/files/2022-10/Pub_directory.pdf",
+        "https://magazines.odisha.gov.in/utkalprasanga/2012/June/oriyapdf/96-99.pdf",
+        "https://shishukishora.com/article_details.php?article_cd=338"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/7ae172e3d1b8.html",
       "name": "ରତ୍ନାକର ଦାସ",
       "contributionCount": 13,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b05a795354.html",
+          "snapshot": "public/shishu/article_details-b05a795354.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଏକାଡେମି ପରିଚୟ",
+          "url": "https://www.shishukishora.com/whoweare.php"
+        }
+      ],
+      "notes": [
+        "Full Hebu Jagatajita read; signature explicitly academy member, independently consistent with original academy membership list. No external books, awards or photo identity verified. Hatadihi literary-event namesake lacks contact/work bridge; Ratnakar Chaini and Ratnakar Rout excluded."
+      ],
+      "batch": "026",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-b05a795354.html",
+        "https://www.shishukishora.com/whoweare.php"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/accae4541e91.html",
@@ -4007,6 +4106,6 @@
       "notes": []
     }
   ],
-  "resume": "Batch 025 validated; publication pending. 125/185 checked; 60 pending. One existing biography expanded; four checked with no verified addition. Next: ମିନତି ପଟନାୟକ /shishu/writers/ecafce851a0c.html",
+  "resume": "Batch 026 validated; commit/publication pending. 130/185 checked, 55 pending. Two sourced introductions, one Minati duplicate archived without redirect. Next: ରତ୍ନାକର ନାୟକ /shishu/writers/accae4541e91.html",
   "directoryMaintenance": "14 confirmed duplicate entries archived offline in six groups; 171 online profiles; no redirects. 60 canonical sourced introductions."
 }

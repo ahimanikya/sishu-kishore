@@ -292,6 +292,37 @@
           "archive": "provenance/writer-profile-archive/2026-10-10/8f7f36f4bc20.html"
         }
       ]
+    },
+    {
+      "slug": "minati-pattnaik",
+      "canonical": "/shishu/writers/0da992c5b5cc.html",
+      "name": "ମିନତି ପଟ୍ଟନାୟକ",
+      "members": [
+        {
+          "route": "/shishu/writers/0da992c5b5cc.html",
+          "name": "ମିନତି ପଟ୍ଟନାୟକ",
+          "identityEvidence": "Original full story names Duttatota PUP School Puri; Education Ministry list names Minati Kumari Patnayak as head master at this exact school. Name plus exact school establishes professional identity; no award year inferred. Original Gachha Amara Bandhu and Sie Ta Ama Maa signatures share exact contact after Odia digit normalization and Nilachakra Nagar Puri locality, confirming merge. National award news is corroborative only; Cuttack property-donation namesake and dancer excluded. No identity-verified portrait found.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article-775.html\">ଆସ ମାଆ ଧରା ଧାମେ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/current_issue.html\">ଅକ୍ଟୋବର: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-b4063f9f78.html\">ଭକ୍ତ ହୁଏ ଖୁସିରେ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-bf55bf225f.html\">ଜୁଲାଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-61c8de072f.html\">ସିଏତ ଆମ ମାଆ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-c45d28a41f.html\">ଜଣା ପଡିବନି ବେଳ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-8a077c1fec.html\">ଅଗଷ୍ଟ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-328183f1b9.html\">ମାଆ ପାଇଁ ଦିନଟିଏ ଗୀତ ଟିଏ ଗାଆଟି<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-179b7ebd4f.html\">ଜୁନ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-394d7610f1.html\">ଆମ  ଜାତୀୟ ପତାକା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-6949643b1a.html\">ମଇ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-8a6c9c7431.html\">ବରଷକେ  ଥରେ ଆସିଛି ରଥ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-744bf97428.html\">ଜୁଲାଇ: ୨୦୨୪</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-b8b213426c.html\">ବିଲୁଆ ବଡ ଚତୁର<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-e20aeb3604.html\">ମାର୍ଚ : ୨୦୨୪</a></small></li>"
+          ]
+        },
+        {
+          "route": "/shishu/writers/ecafce851a0c.html",
+          "name": "ମିନତି ପଟନାୟକ",
+          "identityEvidence": "Original full story names Duttatota PUP School Puri; Education Ministry list names Minati Kumari Patnayak as head master at this exact school. Name plus exact school establishes professional identity; no award year inferred. Original Gachha Amara Bandhu and Sie Ta Ama Maa signatures share exact contact after Odia digit normalization and Nilachakra Nagar Puri locality, confirming merge. National award news is corroborative only; Cuttack property-donation namesake and dancer excluded. No identity-verified portrait found.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/shishu/article_details-78e27bee0d.html\">ଗଛ ଆମର ବନ୍ଧୁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-01d938c402.html\">ଡିସେମ୍ବର: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-10-10/ecafce851a0c.html"
+        }
+      ]
     }
   ],
   "archivedLegacyAliases": [
@@ -350,6 +381,10 @@
     {
       "route": "/shishu/writers/5f3300d6ff7c.html",
       "archive": "provenance/writer-profile-archive/2026-10-10/5f3300d6ff7c.html"
+    },
+    {
+      "route": "/shishu/writers/b1c6546931ea.html",
+      "archive": "provenance/writer-profile-archive/2026-10-10/b1c6546931ea.html"
     }
   ]
 }
