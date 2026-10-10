@@ -415,8 +415,9 @@
     {
       "name": "ଡ଼।.ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
       "route": "/shishu/writers/93d3aa4ff161.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/swarnalata-tripathy-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-batch-013.json"
     },
     {
       "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)",
