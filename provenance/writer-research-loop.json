@@ -1010,11 +1010,12 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "009",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://patfindia.org/members/swarnalata-tripathy",
         "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html"
-      ]
+      ],
+      "publishedCommit": "82bff187"
     },
     {
       "route": "/shishu/writers/1928b5c64b0a.html",
@@ -1047,11 +1048,12 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "009",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://patfindia.org/members/swarnalata-tripathy",
         "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html"
-      ]
+      ],
+      "publishedCommit": "82bff187"
     },
     {
       "route": "/shishu/writers/53aa42b70560.html",
@@ -1084,11 +1086,12 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "009",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://patfindia.org/members/swarnalata-tripathy",
         "https://sishu.kabitawithoutborders.org/shishu/article_details-a0537163a4.html"
-      ]
+      ],
+      "publishedCommit": "82bff187"
     },
     {
       "route": "/shishu/writers/5be77343df78.html",
@@ -1121,61 +1124,153 @@
       ],
       "reviewed": "2026-10-10",
       "batch": "009",
-      "publication": "pending",
+      "publication": "verified-live",
       "researchUrls": [
         "https://patfindia.org/members/swarnalata-tripathy",
         "https://sishu.kabitawithoutborders.org/shishu/article_details-ac4777362d.html"
-      ]
+      ],
+      "publishedCommit": "82bff187"
     },
     {
       "route": "/shishu/writers/a639dc57e6dc.html",
       "name": "ଡକ୍ଝର କମଳାକାନ୍ତ ଜେନା",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଓଡ଼ିଶା ବିଜ୍ଞାନ ଏକାଡେମୀ · ପୁରସ୍କାର ତାଲିକା",
+          "url": "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+        },
+        {
+          "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
+          "url": "https://fmuniversity.nic.in/officers.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c0d3c4b83f.html",
+          "snapshot": "public/shishu/article_details-c0d3c4b83f.html"
+        }
+      ],
+      "notes": [
+        "Original signature matches Bhadrak physics teaching role and identical published professional contact of verified Kamalakanta Jena profile. Reuse verified biography and portrait; preserve separate route and contribution list. Science academy award source checked again."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "010",
+      "publication": "pending",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-c0d3c4b83f.html",
+        "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+      ]
     },
     {
       "route": "/shishu/writers/26f88a3357be.html",
       "name": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା",
       "contributionCount": 10,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article-778.html",
+          "snapshot": "public/shishu/article-778.html"
+        },
+        {
+          "label": "ହିନ୍ଦୁସ୍ଥାନ ସମାଚାର · ପୁସ୍ତକ ଲୋକାର୍ପଣ",
+          "url": "https://odia.hindusthansamachar.in/Encyc/2025/3/27/DIBYANGA-DESAPREMI-PUSTAK-LIKARPAN.php"
+        }
+      ],
+      "notes": [
+        "Original poem signature and book launch report match Totapada, Ghanteswar, Bhadrak, beyond name. Add children literature and Dibyanga Deshapremi one-act play collection. Group event photograph does not safely identify an individual; no portrait borrowed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "010",
+      "publication": "pending",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article-778.html",
+        "https://odia.hindusthansamachar.in/Encyc/2025/3/27/DIBYANGA-DESAPREMI-PUSTAK-LIKARPAN.php"
+      ]
     },
     {
       "route": "/shishu/writers/def97730a814.html",
       "name": "ଡକ୍ଟର ଅଶୋକ କୁମାର ସେଠୀ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read Panatakani with Balangir signature. Odia/English name and locality searches found a poetry-event mention and author index, but neither supplies sufficient identity detail for a reliable biography or portrait. Do not infer medical profession from honorific or government personnel results."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "010",
+      "publication": "not-needed",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-f71021f813.html",
+        "https://aahwaan.com/articles/index.php",
+        "https://odia.hindusthansamachar.in/Encyc/2025/5/11/Swetaswaati-literature-summer-issue-rdelised.php"
+      ]
     },
     {
       "route": "/shishu/writers/e44ccf4a4e44.html",
       "name": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଓଡ଼ିଶା ବିଜ୍ଞାନ ଏକାଡେମୀ · ପୁରସ୍କାର ତାଲିକା",
+          "url": "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+        },
+        {
+          "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
+          "url": "https://fmuniversity.nic.in/officers.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c7cc908c05.html",
+          "snapshot": "public/shishu/article_details-c7cc908c05.html"
+        }
+      ],
+      "notes": [
+        "Original signature matches Bhadrak physics teaching role and identical published professional contact of verified Kamalakanta Jena profile. Reuse verified biography and portrait; preserve separate route and contribution list. Science academy award source checked again."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "010",
+      "publication": "pending",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-c7cc908c05.html",
+        "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+      ]
     },
     {
       "route": "/shishu/writers/4381c6ffcaa4.html",
       "name": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-acdf9a8458.html",
+          "snapshot": "public/shishu/article_details-acdf9a8458.html"
+        }
+      ],
+      "notes": [
+        "Read entire Natuninka Upahara. Add concise introduction grounded only in this signed story: children help grandparents learn Odia typing. Author/blog and encyclopedic biography found, but source story has no independent identity bridge; no external life dates, awards, books or photograph borrowed."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "010",
+      "publication": "pending",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-acdf9a8458.html",
+        "https://www.blogger.com/profile/10885608628362949419",
+        "https://en.wikipedia.org/wiki/Krutibas_Nayak"
+      ]
     },
     {
       "route": "/shishu/writers/85798d39be19.html",
@@ -2598,5 +2693,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 009 ready for publishing: 45/185 entries checked, 35 sourced introductions, 12 unique verified portraits on 17 entries. Next: ଡକ୍ଝର କମଳାକାନ୍ତ ଜେନା /shishu/writers/a639dc57e6dc.html."
+  "resume": "Batch 010 researched: 50/185 checked. Four introductions ready for build/browser/publishing; one Ashok Sethi identity unresolved."
 }

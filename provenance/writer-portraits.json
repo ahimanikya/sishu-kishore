@@ -295,8 +295,9 @@
     {
       "name": "ଡକ୍ଝର କମଳାକାନ୍ତ ଜେନା",
       "route": "/shishu/writers/a639dc57e6dc.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-batch-010.json"
     },
     {
       "name": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା",
@@ -313,8 +314,9 @@
     {
       "name": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା",
       "route": "/shishu/writers/e44ccf4a4e44.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait",
+      "research": "provenance/writer-research-batch-010.json"
     },
     {
       "name": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକ",
