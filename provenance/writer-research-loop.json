@@ -1616,7 +1616,8 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-49c1f31f6b.html",
         "https://books.google.com/books/about/100_Poems_On_Poets_And_Poetry.html?id=SUVHzwEACAAJ"
       ],
-      "publication": "pending-validation"
+      "publication": "verified-live",
+      "publishedCommit": "bd96b6f7"
     },
     {
       "route": "/shishu/writers/91df27f82af9.html",
@@ -1642,7 +1643,8 @@
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf",
         "https://www.odishanticstore.com/product/andhadeshara-darpana-by-sachidananda-kar"
       ],
-      "publication": "pending-validation"
+      "publication": "verified-live",
+      "publishedCommit": "bd96b6f7"
     },
     {
       "route": "/shishu/writers/c6223054b1e8.html",
@@ -1673,7 +1675,8 @@
         "https://ritikart.com/products/relabai-pilamane-dr-sunamani-rout",
         "https://www.shailabalawomenscollege.ac.in/wp-content/uploads/2019/09/AQAR2016-17.pdf"
       ],
-      "publication": "pending-validation"
+      "publication": "verified-live",
+      "publishedCommit": "bd96b6f7"
     },
     {
       "route": "/shishu/writers/496b5ec4f76f.html",
@@ -1698,7 +1701,8 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-d5f58dc504.html",
         "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289158&lang=2&reg=48"
       ],
-      "publication": "pending-validation"
+      "publication": "verified-live",
+      "publishedCommit": "bd96b6f7"
     },
     {
       "route": "/shishu/writers/93d3aa4ff161.html",
@@ -1740,23 +1744,39 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-506bf49749.html",
         "https://patfindia.org/members/swarnalata-tripathy"
       ],
-      "publication": "pending-validation"
+      "publication": "verified-live",
+      "publishedCommit": "bd96b6f7"
     },
     {
       "route": "/shishu/writers/3234455e0870.html",
       "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-92227bb58c.html",
+          "snapshot": "public/shishu/article_details-92227bb58c.html"
+        }
+      ],
+      "notes": [
+        "Original article signature matches Kotitirtha locality of earlier variants, but external Satyabadi biography remains unbridged. No external books, career or portrait added. Introduction describes original article only."
+      ],
+      "batch": "014",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-92227bb58c.html",
+        "https://fliphtml5.com/aukd/pwnf/77/"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/ef4e39279854.html",
       "name": "ଡ଼କ୍ଟର କମଳାକାନ୍ତ ଜେନା",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": true,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [
@@ -1767,39 +1787,100 @@
         {
           "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
           "url": "https://fmuniversity.nic.in/officers.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-77398117b7.html",
+          "snapshot": "public/shishu/article_details-77398117b7.html"
         }
       ],
-      "notes": []
+      "notes": [
+        "Existing biography reviewed: original article explicitly identifies Fakir Mohan University controller, corroborated previously with official named officer photograph. Academy award page rechecked; no further supported child-relevant addition needed. Existing portrait retained."
+      ],
+      "batch": "014",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-77398117b7.html",
+        "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/",
+        "https://fmuniversity.nic.in/officers.html"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/f2b0afc83d0c.html",
       "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-cac147298f.html",
+          "snapshot": "public/shishu/article_details-cac147298f.html"
+        }
+      ],
+      "notes": [
+        "Original science article and Odisha Bigyan Academy membership list share exact full name and published Sahidnagar address. Award sources name same-name children writer; award-to-member bridge not independently established, so introduction remains article-based. Memorial Trust electrical engineer is not assumed same person. No portrait verified."
+      ],
+      "batch": "014",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-cac147298f.html",
+        "https://odishabigyanacademy.in/wp-content/uploads/2022/05/12th-General-Council-meeting.pdf",
+        "https://culture.gov.in/files/press_release_document/English_Press_Release_on_15_11_2022_16112022.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/1b15f0d011c5.html",
       "name": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ba58c7a1a6.html",
+          "snapshot": "public/shishu/article_details-ba58c7a1a6.html"
+        }
+      ],
+      "notes": [
+        "Same published contact and Gati Rout Patna signature as batch013 variant. Preserve route/contributions. External college principal identity remains unverified; no profession or portrait added."
+      ],
+      "batch": "014",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-ba58c7a1a6.html",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289158&lang=2&reg=48"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/21afaaab9e9e.html",
       "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
       "contributionCount": 4,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7b145a63ae.html",
+          "snapshot": "public/shishu/article_details-7b145a63ae.html"
+        }
+      ],
+      "notes": [
+        "Original signature is Khuntakata, Athagarh, distinct from earlier Balangir contributor. Do not merge them. Search with locality does not corroborate profession or portrait. Keep source honorific; introduction limited to original poem."
+      ],
+      "batch": "014",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-7b145a63ae.html",
+        "https://www.sakalaepaper.com/media/2025-07/all-edition_3-7-2025.pdf"
+      ],
+      "publication": "pending-validation"
     },
     {
       "route": "/shishu/writers/5858dbd35ce2.html",
@@ -3002,5 +3083,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 013 five outcomes saved; build, browser and publishing pending."
+  "resume": "Batch 014 validated; publish pending. Next: ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ /shishu/writers/5858dbd35ce2.html"
 }

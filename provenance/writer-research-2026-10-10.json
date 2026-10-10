@@ -151,29 +151,6 @@
       "identity": "Original named birthday biography and portrait. Minor vowel spelling variation corroborated by original poem signature at Chantipala/Titilagarh and current source introduction at the same locality. No other profiles merged."
     },
     {
-      "slug": "kamalakanta-jena",
-      "route": "/shishu/writers/ef4e39279854.html",
-      "name": "ଡ଼କ୍ଟର କମଳାକାନ୍ତ ଜେନା",
-      "role": "ବିଜ୍ଞାନ ଲେଖକ ଓ ଶିକ୍ଷକ",
-      "bio": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା ଓଡ଼ିଆରେ ବିଜ୍ଞାନ ବିଷୟରେ ଲେଖନ୍ତି ଏବଂ ପଦାର୍ଥ ବିଜ୍ଞାନ ପଢ଼ାଇଛନ୍ତି । ତାଙ୍କର ‘ଗପରେ ଗପରେ ବିଜ୍ଞାନ’ ପୁସ୍ତକ ୨୦୧୧ ମସିହାର ପ୍ରାଣକୃଷ୍ଣ ପରିଜା ଜନପ୍ରିୟ ବିଜ୍ଞାନ ପୁରସ୍କାର ପାଇଥିଲା ।",
-      "searchAliases": "Kamalakanta Jena କମଳାକାନ୍ତ ଜେନା",
-      "portrait": "/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
-      "sourcePortrait": "/portraits/kamalakanta-jena-source.jpg",
-      "sources": [
-        {
-          "label": "ଓଡ଼ିଶା ବିଜ୍ଞାନ ଏକାଡେମୀ · ପୁରସ୍କାର ତାଲିକା",
-          "url": "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
-        },
-        {
-          "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
-          "url": "https://fmuniversity.nic.in/officers.html"
-        }
-      ],
-      "identity": "2026 Sishu article signature explicitly names the university Controller of Examinations role; official university officer row names Dr Kamalakanta Jena and attaches the downloaded portrait. Earlier contributions identify Physics teaching; official science academy confirms 2011 book award.",
-      "evidenceArticle": "public/shishu/article_details-77398117b7.html",
-      "sourceImageUrl": "https://fmuniversity.nic.in/getdata?dir=OfficersImage&rid=officers_49_6520261778054302935.jpg"
-    },
-    {
       "slug": "radhamadhab-rath",
       "route": "/shishu/writers/262e7a578d40.html",
       "name": "ରାଧାମାଧବ ରଥ",
@@ -1148,6 +1125,102 @@
         }
       ],
       "identity": "Deshapriti original signature identifies retired assistant block education officer, Puri Sadar, Konark and President award: same corroborating details as verified batch 009 profile. Reuse existing biography and faithful portrait; preserve separate route and contribution. Named PATF profile had cache miss on recheck; prior reviewed evidence retained."
+    },
+    {
+      "slug": "bijaya-patra-swain",
+      "role": "ବିଜ୍ଞାନ ଲେଖା",
+      "bio": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)ଙ୍କ ଆର୍ଚର ମାଛ ବିଷୟକ ଲେଖା ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ହୋଇଛି । ପାଣିର ଫୁଆରା ମାରି ଖାଦ୍ୟ ଧରୁଥିବା ଏହି ମାଛର ନିଆରା ଜୀବନଶୈଳୀକୁ ଲେଖାଟି ପିଲାଙ୍କ ସହ ପରିଚିତ କରାଏ ।",
+      "searchAliases": "Bijaya Patra Swain",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-92227bb58c.html",
+          "snapshot": "public/shishu/article_details-92227bb58c.html"
+        }
+      ],
+      "route": "/shishu/writers/3234455e0870.html",
+      "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)",
+      "identity": "Original article signature matches Kotitirtha locality of earlier variants, but external Satyabadi biography remains unbridged. No external books, career or portrait added. Introduction describes original article only."
+    },
+    {
+      "slug": "kamalakanta-jena",
+      "route": "/shishu/writers/ef4e39279854.html",
+      "name": "ଡ଼କ୍ଟର କମଳାକାନ୍ତ ଜେନା",
+      "role": "ବିଜ୍ଞାନ ଲେଖକ ଓ ଶିକ୍ଷକ",
+      "bio": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା ଓଡ଼ିଆରେ ବିଜ୍ଞାନ ବିଷୟରେ ଲେଖନ୍ତି ଏବଂ ପଦାର୍ଥ ବିଜ୍ଞାନ ପଢ଼ାଇଛନ୍ତି । ତାଙ୍କର ‘ଗପରେ ଗପରେ ବିଜ୍ଞାନ’ ପୁସ୍ତକ ୨୦୧୧ ମସିହାର ପ୍ରାଣକୃଷ୍ଣ ପରିଜା ଜନପ୍ରିୟ ବିଜ୍ଞାନ ପୁରସ୍କାର ପାଇଥିଲା ।",
+      "searchAliases": "Kamalakanta Jena କମଳାକାନ୍ତ ଜେନା",
+      "portrait": "/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
+      "sourcePortrait": "/portraits/kamalakanta-jena-source.jpg",
+      "sources": [
+        {
+          "label": "ଓଡ଼ିଶା ବିଜ୍ଞାନ ଏକାଡେମୀ · ପୁରସ୍କାର ତାଲିକା",
+          "url": "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+        },
+        {
+          "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
+          "url": "https://fmuniversity.nic.in/officers.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-77398117b7.html",
+          "snapshot": "public/shishu/article_details-77398117b7.html"
+        }
+      ],
+      "identity": "Existing biography reviewed: original article explicitly identifies Fakir Mohan University controller, corroborated previously with official named officer photograph. Academy award page rechecked; no further supported child-relevant addition needed. Existing portrait retained.",
+      "evidenceArticle": "public/shishu/article_details-77398117b7.html",
+      "sourceImageUrl": "https://fmuniversity.nic.in/getdata?dir=OfficersImage&rid=officers_49_6520261778054302935.jpg"
+    },
+    {
+      "slug": "narendra-prasad-das",
+      "role": "ବିଜ୍ଞାନ ଲେଖା",
+      "bio": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସଙ୍କ ‘ବୁଢିଆଣୀ’ ଲେଖାରେ ନାତୁଣୀର ପ୍ରଶ୍ନରୁ ବିଜ୍ଞାନ କଥା ଆରମ୍ଭ ହୁଏ । ବୁଢ଼ିଆଣୀର ଜୀବନ, ଖାଦ୍ୟ ଓ ଜାଲ ବିଷୟରେ ଲେଖାଟି ପିଲାଙ୍କ ଜାଣିବା ଇଚ୍ଛାକୁ ବଢ଼ାଏ ।",
+      "searchAliases": "Narendra Prasad Das",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-cac147298f.html",
+          "snapshot": "public/shishu/article_details-cac147298f.html"
+        }
+      ],
+      "route": "/shishu/writers/f2b0afc83d0c.html",
+      "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ",
+      "identity": "Original science article and Odisha Bigyan Academy membership list share exact full name and published Sahidnagar address. Award sources name same-name children writer; award-to-member bridge not independently established, so introduction remains article-based. Memorial Trust electrical engineer is not assumed same person. No portrait verified."
+    },
+    {
+      "slug": "prasanta-kumar-rout-environment",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତଙ୍କ ‘ପ୍ରଦୂଷଣ ଦାନବ’ କବିତାରେ ପ୍ରଦୂଷଣକୁ ଏକ ରାକ୍ଷସ ଭାବେ କଳ୍ପନା କରାଯାଇଛି । ଜଳ, ପବନ ଓ ମାଟିକୁ ସଫା ରଖିବା ପାଇଁ ସଚେତନ ହେବାର ବାର୍ତ୍ତା ଏଥିରେ ରହିଛି ।",
+      "searchAliases": "Prasanta Kumar Rout Prashanta Kumar Rout",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ba58c7a1a6.html",
+          "snapshot": "public/shishu/article_details-ba58c7a1a6.html"
+        }
+      ],
+      "route": "/shishu/writers/1b15f0d011c5.html",
+      "name": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
+      "identity": "Same published contact and Gati Rout Patna signature as batch013 variant. Preserve route/contributions. External college principal identity remains unverified; no profession or portrait added."
+    },
+    {
+      "slug": "ashok-kumar-sethi-athagarh",
+      "role": "ପିଲାଙ୍କ କବିତା",
+      "bio": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀଙ୍କ ‘ବେଙ୍ଗ ବେଙ୍ଗୁଲି ଲାଗିଲେ କଳି’ କବିତାରେ ବର୍ଷା ଆସିବାର ଖୁସି ରହିଛି । ଚାଷ, ଗଛଲତା ଓ ପଶୁପକ୍ଷୀଙ୍କ କଥା ସହ ପରିବେଶର ଯତ୍ନ ନେବାକୁ କବିତାଟି କହେ ।",
+      "searchAliases": "Ashok Kumar Sethi Athagarh",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7b145a63ae.html",
+          "snapshot": "public/shishu/article_details-7b145a63ae.html"
+        }
+      ],
+      "route": "/shishu/writers/21afaaab9e9e.html",
+      "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "identity": "Original signature is Khuntakata, Athagarh, distinct from earlier Balangir contributor. Do not merge them. Search with locality does not corroborate profession or portrait. Keep source honorific; introduction limited to original poem."
     }
   ],
   "pendingResearch": [
