@@ -49,28 +49,28 @@
   },
   "release_review": {
     "date": "2026-10-10",
-    "decision": "Three release blockers repaired and tested locally; deployment verification pending. Human acceptance and deferred tasks remain.",
+    "decision": "All three technical blockers from the deep review are resolved and deployed. Controlled launch is supported; production authenticated editorial acceptance and deferred human checks remain before full release sign-off.",
     "findings": [
       {
         "priority": "P1",
         "title": "Approved publishing fails in production",
         "evidence": "GitHub run 38014416374 fails at sync-publications.mjs:9 with HTTP 403. Live publication requests: pageSize=100 returns 200; pageSize=1000 returns 403. Public rules cap queries at 100.",
         "fix": "Use bounded pagination consistent with rules and test the real publishing workflow.",
-        "status": "fixed locally; deployment verification pending"
+        "status": "fixed, tested and deployed"
       },
       {
         "priority": "P1",
         "title": "Withdrawn publications remain publicly readable",
         "evidence": "Isolated emulator reproduces successful anonymous get of a publication with state=withdrawn. firestore.rules:55 allows all gets.",
         "fix": "Separate internal withdrawal records from public output or require published state for public reads; update queries and publishing/withdrawal handling together.",
-        "status": "fixed locally; deployment verification pending"
+        "status": "fixed, tested and deployed"
       },
       {
         "priority": "P1",
         "title": "New approved articles bypass the reader and discovery catalogs",
         "evidence": "Full isolated publication fixture builds successfully, but generated article lacks readingIssue/article-tools/edition-reader and is absent from edition-reader.json. Article text index remains 686 after adding a new article.",
         "fix": "Generate the same article template and rebuild issue/reader/discovery catalogs from approved publications; add an integration regression test.",
-        "status": "fixed locally; deployment verification pending"
+        "status": "fixed, tested and deployed"
       }
     ],
     "passed": [
@@ -84,12 +84,17 @@
       "Production sign-in, like/unlike, comment submission, moderation and withdrawal end-to-end",
       "Real child usability, screen-reader use, slow-device field performance"
     ],
-    "review_safety": "No live comments, likes or submissions created; fixtures used isolated filesystem and emulator. No source implementation changes during review. Search-engine submission remains deferred until domain move.",
+    "review_safety": "Regression data was confined to an isolated filesystem and local Firebase emulators. Production verification used read-only requests and the real scheduled publishing workflow; its approved feed was empty. No live comments, likes or submissions created. Search-engine submission remains deferred until domain move.",
     "fix_verification": [
       "39 backend tests passed, including real REST pagination over 103 records and withdrawn-read denial",
       "6 root tests passed, including complete article publish/build/withdraw round-trip",
       "Isolated generated article checked in browser: reading tools, edition sidebar, reader, paragraph spacing and reader exit",
-      "Full static delivery, sharing, discovery and ebook checks passed"
+      "Full static delivery, sharing, discovery and ebook checks passed",
+      "GitHub Pages deployment 38016092204 succeeded",
+      "Hosted backend security check 38016092231 succeeded",
+      "Approved-writing workflow 38016202788 succeeded after Firestore rule deployment",
+      "Live published feed and filtered comment query returned 200; unfiltered publication query returned 403",
+      "Live anonymous comment panel loaded without console errors; no live submissions or likes created"
     ]
   }
 }
