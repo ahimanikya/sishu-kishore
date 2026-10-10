@@ -229,8 +229,9 @@
     {
       "name": "ଡ. କମଳାକାନ୍ତ ଜେନା",
       "route": "/shishu/writers/fb95b574ae09.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/kamalakanta-jena-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait; corroborated byline variant",
+      "research": "provenance/writer-research-batch-008.json"
     },
     {
       "name": "ଡ. ବିଜୟା ପାତ୍ର",
@@ -247,8 +248,9 @@
     {
       "name": "ଡ. ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
       "route": "/shishu/writers/9fb160aa710f.html",
-      "portrait": null,
-      "status": "empty: no reliably identified portrait selected"
+      "portrait": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp",
+      "status": "verified photo-based cartoon portrait; corroborated byline variant",
+      "research": "provenance/writer-research-batch-008.json"
     },
     {
       "name": "ଡ. ସନାତନ ପଣ୍ଡା",

@@ -655,7 +655,8 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "3cbcecb4"
     },
     {
       "route": "/shishu/writers/8218162be47d.html",
@@ -687,7 +688,8 @@
         "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
         "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2007.pdf"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "3cbcecb4"
     },
     {
       "route": "/shishu/writers/5022efa803e9.html",
@@ -713,7 +715,8 @@
         "https://www.shishukishora.com/birthday_details.php?advt_cd=199",
         "https://shubhapallaba.in/ahe-jagannath/"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "3cbcecb4"
     },
     {
       "route": "/shishu/writers/6fa730670541.html",
@@ -744,7 +747,8 @@
         "https://eodishasamachar.com/?p=46499",
         "https://sishu.kabitawithoutborders.org/shishu/article-786.html"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "3cbcecb4"
     },
     {
       "route": "/shishu/writers/e4d18d48489d.html",
@@ -781,57 +785,173 @@
         "https://odisha.news/81466",
         "https://bargarh.odisha.gov.in/sites/default/files/2023-06/2018051610.pdf"
       ],
-      "publication": "pending"
+      "publication": "verified-live",
+      "publishedCommit": "3cbcecb4"
     },
     {
       "route": "/shishu/writers/fb95b574ae09.html",
       "name": "ଡ. କମଳାକାନ୍ତ ଜେନା",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଓଡ଼ିଶା ବିଜ୍ଞାନ ଏକାଡେମୀ · ପୁରସ୍କାର ତାଲିକା",
+          "url": "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/"
+        },
+        {
+          "label": "ଫକୀର ମୋହନ ବିଶ୍ୱବିଦ୍ୟାଳୟ · ପରିଚୟ ଓ ଫଟୋ",
+          "url": "https://fmuniversity.nic.in/officers.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-14ea7c35d1.html",
+          "snapshot": "public/shishu/article_details-14ea7c35d1.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-77398117b7.html",
+          "snapshot": "public/shishu/article_details-77398117b7.html"
+        }
+      ],
+      "notes": [
+        "Read complete science-fiction story and compared original signatures. Checked official university officer page and science academy award page. Existing verified biography and portrait apply to this corroborated byline variant; no new likeness generated."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "008",
+      "researchUrls": [
+        "https://odishabigyanacademy.in/pranakrushna-parija-popular-science-award/",
+        "https://fmuniversity.nic.in/officers.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-14ea7c35d1.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-77398117b7.html"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/9aaf459c3069.html",
       "name": "ଡ. ବିଜୟା ପାତ୍ର",
       "contributionCount": 7,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read original poem with Bhubaneswar-2 signature. Searched exact Odia name, Swain variants, English name and literary context.",
+        "Satyabadi August 2026 page 75 indexed biography names Bijaya Patra and lists five collections; full fetch failed and no specific identity bridge to these magazine bylines. Shared city is insufficient to merge Patra/Patra(Swain). Book counts, employment, portrait and gender not inferred; no addition."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "008",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-5273ec5915.html",
+        "https://fliphtml5.com/aukd/pwnf/77/",
+        "https://www.shishukishora.com/whoweare.php",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/be558d5e012a.html",
       "name": "ଡ. ବିଜୟା ପାତ୍ର (ସ୍ବାଇଁ)",
       "contributionCount": 2,
-      "status": "pending",
+      "status": "identity-unresolved",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
       "evidence": [],
-      "notes": []
+      "notes": [
+        "Read original poem with Bhubaneswar-2 signature. Searched exact Odia name, Swain variants, English name and literary context.",
+        "Satyabadi August 2026 page 75 indexed biography names Bijaya Patra and lists five collections; full fetch failed and no specific identity bridge to these magazine bylines. Shared city is insufficient to merge Patra/Patra(Swain). Book counts, employment, portrait and gender not inferred; no addition."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "008",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-6c8829081f.html",
+        "https://fliphtml5.com/aukd/pwnf/77/",
+        "https://www.shishukishora.com/whoweare.php",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/9fb160aa710f.html",
       "name": "ଡ. ଲଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
       "contributionCount": 1,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-96ab8b2eb7.html",
+          "snapshot": "public/shishu/article_details-96ab8b2eb7.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f26ac28596.html",
+          "snapshot": "public/shishu/article_details-f26ac28596.html"
+        }
+      ],
+      "notes": [
+        "Read original seasonal poem; compared shared signature with full-name writer poem. Re-read original birthday biography; university syllabus and publisher book listing are corroborating leads. Existing portrait applied to verified variant. No inflated book counts or additional awards added."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "008",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-96ab8b2eb7.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-f26ac28596.html",
+        "https://www.suniv.ac.in/old-site/documents/Odia%2C%202025-28%20%28Nep-2020%29.pdf",
+        "https://www.odishanticstore.com/product/prachi-prabandha-o-patramala"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/75d699aa5d34.html",
       "name": "ଡ. ସନାତନ ପଣ୍ଡା",
       "contributionCount": 6,
-      "status": "pending",
+      "status": "enriched",
       "existingBiography": false,
       "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
-      "evidence": [],
-      "notes": []
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f3f014cddd.html",
+          "snapshot": "public/shishu/article_details-f3f014cddd.html"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8ab8f3ca6a.html",
+          "snapshot": "public/shishu/article_details-8ab8f3ca6a.html"
+        },
+        {
+          "label": "ଶିକ୍ଷା ମନ୍ତ୍ରଣାଳୟ · STARS, ସେପ୍ଟେମ୍ବର ୨୦୨୩",
+          "url": "https://stars.education.gov.in/static/media/BestPracticesCaseStudy-STARS_September2023_Odisha.540618c164ac20a6198a.pdf"
+        },
+        {
+          "label": "ଓଡ଼ିଶାଲାଇଭ୍ · ଶିଶୁ ସାହିତ୍ୟ ଉତ୍ସବ",
+          "url": "https://odisha.live/2023/09/11/childrens-novel-inaguration-odisha-news-odia-news/"
+        }
+      ],
+      "notes": [
+        "Read both original poems. Odia/English name and education-role searches checked; public professional contact matches indexed government case study.",
+        "Japan Anubhuti textbook authorship is a lead from teaching sites, not independently verified in primary textbook; not added. Group event images do not safely identify an individual portrait. No private contacts republished."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "008",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-f3f014cddd.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-8ab8f3ca6a.html",
+        "https://stars.education.gov.in/static/media/BestPracticesCaseStudy-STARS_September2023_Odisha.540618c164ac20a6198a.pdf",
+        "https://odisha.live/2023/09/11/childrens-novel-inaguration-odisha-news-odia-news/",
+        "https://www.shishukishora.com/news.php",
+        "https://lrnr.in/video/bsechse-odisha-class-5-odia-chapter-7-japan-anubhuti"
+      ],
+      "publication": "pending"
     },
     {
       "route": "/shishu/writers/809b37f8b67c.html",
@@ -2354,5 +2474,5 @@
       "notes": []
     }
   ],
-  "resume": "Batch 007 checked locally and ready for publication. 35/185 entries checked; 28 sourced profile introductions, 11 verified portraits. Next: ଡ. କମଳାକାନ୍ତ ଜେନା /shishu/writers/fb95b574ae09.html"
+  "resume": "Batch 008 locally verified, publish pending. 40/185 entries checked; 31 sourced introductions; 11 verified portrait assets on 13 directory entries. Next: ଡ.ବିଜୟା ପାତ୍ର /shishu/writers/809b37f8b67c.html"
 }
