@@ -1,0 +1,15 @@
+/* Quiet ink area, colour concentrated at the outer edges. No moving decoration. */
+body[data-story-wash="true"]{background-image:radial-gradient(ellipse at 0 22%,var(--story-tint) 0,transparent 38%),radial-gradient(ellipse at 100% 65%,var(--story-tint) 0,transparent 35%);background-attachment:fixed}
+.article-reading-text{position:relative;padding:20px 18px 54px;box-sizing:border-box;border-radius:10px}
+body[data-story-wash="true"] .article-reading-text:not(.article-reading-night){background:radial-gradient(ellipse at 0 0,var(--story-tint),transparent 160px),linear-gradient(var(--story-paper),var(--story-paper));color:#303d38}
+body[data-story-wash="true"] .article-reading-text:not(.article-reading-night)::after{content:'';position:absolute;bottom:6px;right:8px;width:34px;height:34px;background:url('/art/reader/kite.svg') center/contain no-repeat;opacity:.7;pointer-events:none}
+body[data-story-wash="false"] .article-reading-text:not(.article-reading-night){background:#fffdf7}
+body:has(.article-reading-night){background-image:none}
+.mag-quiet-reader[data-story-wash="true"]:not([data-theme="night"]){--paper:var(--story-paper);--page-wash:radial-gradient(ellipse at 0 0,var(--story-tint),transparent 42%),radial-gradient(ellipse at 100% 100%,var(--story-tint),transparent 37%)}
+.mag-quiet-reader[data-story-wash="true"]:not([data-theme="night"]) .quiet-spread-shell{background:var(--page-wash),var(--paper)}
+.mag-quiet-reader[data-story-wash="true"][data-columns="2"]:not([data-theme="night"]) .quiet-spread-shell{background:linear-gradient(90deg,transparent 46%,#75624612 49%,#75624624 49.8%,#fffefa99 50.15%,transparent 54%),var(--page-wash),var(--paper)}
+.mag-quiet-reader[data-story-wash="true"][data-final-single="true"]:not([data-theme="night"]) .quiet-spread-shell{background:transparent}
+.mag-quiet-reader[data-story-wash="true"][data-final-single="true"]:not([data-theme="night"]) .quiet-spread-shell::before{background:var(--page-wash),var(--paper)}
+.mag-quiet-reader[data-story-wash="false"] .quiet-corner{visibility:hidden}
+@media(max-width:600px){.article-reading-text{padding:16px 12px 48px}}
+@media print{body[data-story-wash]{background:none!important}.article-reading-text{background:none!important}.article-reading-text::after{display:none}}
