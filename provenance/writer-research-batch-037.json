@@ -1,0 +1,135 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/2eec0d5e026a.html",
+      "name": "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b526dcfdac.html",
+          "snapshot": "public/shishu/article_details-b526dcfdac.html"
+        }
+      ],
+      "notes": [
+        "Complete poem read; no identifying signature. Exact Odia/English searches yielded no reliable independent author biography or named photograph. Work-grounded introduction only; spelling variants not merged."
+      ],
+      "batch": "037",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/9012bd18bab1.html",
+      "name": "ହରି ପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c585fc853c.html",
+          "snapshot": "public/shishu/article_details-c585fc853c.html"
+        }
+      ],
+      "notes": [
+        "Complete story read; no identifying signature. Exact name and English searches found comments and name-only bibliography records but no shared contact,work or locality connecting to4fa2a98145f6 orcfe3bf05e6dd. Preserve separate profile; biography/photo and possible duplicate identity unresolved."
+      ],
+      "batch": "037",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://culture.odisha.gov.in/sites/default/files/2022-06/RRR_2015-16.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/4fa2a98145f6.html",
+      "name": "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "contributionCount": 11,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0c80175cc7.html",
+          "snapshot": "public/shishu/article_details-0c80175cc7.html"
+        }
+      ],
+      "notes": [
+        "Complete Gudi read including ending; no identifying signature. Same-name comments are not identity bridge. No corroborating source joins spacing variant9012bd18bab1 or orthographic variantcfe3bf05e6dd. Keep all issue contributions and separate identity; no name-only book/award/photo assigned."
+      ],
+      "batch": "037",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/test.php"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/08ddd798056f.html",
+      "name": "ହରିହର ଶୁକ୍ଳ",
+      "contributionCount": 11,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-02f4127adc.html",
+          "snapshot": "public/shishu/article_details-02f4127adc.html"
+        }
+      ],
+      "notes": [
+        "Complete poem read. Original published contact matches OdishaBahareOdia2014 NewDelhi coordinator list; supports identity beyond name, but old coordinator post not useful current-role claim. NBT2025 catalogue translator name lacks further bridge, so translated book not assigned. No verified named photo."
+      ],
+      "batch": "037",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://odishabahareodia.blogspot.com/2014/03/blog-post_979.html",
+        "https://www.nbtindia.gov.in/writereaddata/attachment/monday-march-3-202512-20-00-pmodia-catalouge-2025.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/0a644308bf04.html",
+      "name": "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହ",
+      "contributionCount": 5,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8f14d630d4.html",
+          "snapshot": "public/shishu/article_details-8f14d630d4.html"
+        }
+      ],
+      "notes": [
+        "Complete USB article read; additional original SonalikaTractor signature Gurujang,Khordha. External IITlibrary PanipagaBigyan and Sakala science essays found; no shared work/contact/locality bridge verified during this review. Name-only teacher record excluded. Work-based introduction only; no external career,award,book or portrait assigned."
+      ],
+      "batch": "037",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://koha.iitbbs.ac.in/bib/11936",
+        "https://www.thesakala.in/editorial/sakala-article-22-08-2024-2/"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀ",
+    "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ ଲେଖିକା",
+    "ହରିହର ଶୁକ୍ଳ କବି",
+    "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହ",
+    "Harapriya Dwivedi writer",
+    "Haripriya Pattnaik writer",
+    "Himanshu Sekhar Fatesingh biography"
+  ],
+  "validation": "Build,delivery,sharing,discovery,ebooks and merge checks passed. All contribution lists unchanged. Browser checked five profiles and English name search. Legacy preview synced."
+}
