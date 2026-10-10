@@ -7,7 +7,7 @@
       "route": "/shishu/writers/c89e02766cff.html",
       "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
-      "bio": "ଜୟକୃଷ୍ଣ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ତାଙ୍କର ଜନ୍ମ ପୁରୀ ଜିଲ୍ଲାର ସତ୍ୟବାଦୀ ଅଞ୍ଚଳର ଅଳଗୁମ୍ ଗାଁରେ ।",
+      "bio": "ଜୟକୃଷ୍ଣ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ତାଙ୍କର ଜନ୍ମ ପୁରୀ ଜିଲ୍ଲାର ସତ୍ୟବାଦୀ ଅଞ୍ଚଳର ଅଳଗୁମ୍ ଗାଁରେ । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ପରିଚୟ ଅନୁସାରେ, ତାଙ୍କର ନଅଟି କବିତା ବହି ଓ ଗୋଟିଏ ଗପ ବହି ପ୍ରକାଶ ପାଇଛି ।",
       "searchAliases": "Jayakrushna Sahu Jayakrishna Sahu",
       "portrait": "/portraits/jayakrushna-sahu-cartoon-natural-v1.webp",
       "sourcePortrait": "/media/26fd170518846c6c569529f0.jpg",
@@ -18,7 +18,7 @@
           "snapshot": "public/shishu/birthday_details-bb525959f7.html"
         }
       ],
-      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match. Batch 006: original birthday biography explicitly gives nine poetry books and one story book. Count is attributed to that profile, not asserted as an up-to-date total. Existing verified portrait retained; no specific award or book title inferred."
     },
     {
       "slug": "jayantika",
@@ -437,6 +437,23 @@
         }
       ],
       "identity": "Exact author name and distinctive Bharati Kutir/Dunguripali/Subarnapur signature match magazine and Dharitri column. Odisha Sambad interview is a promising same-name lead but no independent bridge to its photograph or book list established; those additions deferred."
+    },
+    {
+      "slug": "chaturbhuja-pahi",
+      "route": "/shishu/writers/4365113dce3c.html",
+      "name": "ଚତୁର୍ଭୁଜ ପହି",
+      "role": "କବି ଓ ସାହିତ୍ୟ ସଂଗଠକ",
+      "bio": "ଚତୁର୍ଭୁଜ ପହି ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ସେ କେନ୍ଦୁଝରର ସଢାସ୍ଥିତ ସାଇ ଚେତନା ସାହିତ୍ୟ ସଂସଦର ସମ୍ପାଦକ । ତାଙ୍କ କବିତା ‘ଠେକୁଆ ପାଇଲା ନୂଆ ଜୀବନ’ରେ ବଣର ଜୀବଜନ୍ତୁ ଏକାଠି ହୋଇ ରୋଗୀ ଠେକୁଆକୁ ସାହାଯ୍ୟ କରନ୍ତି ।",
+      "searchAliases": "Chaturbhuja Pahi Chaturbhuj Pahi",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଠେକୁଆ ପାଇଲା ନୂଆ ଜୀବନ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-dbfdaf075a.html",
+          "snapshot": "public/shishu/article_details-dbfdaf075a.html"
+        }
+      ],
+      "identity": "Exact byline and explicit Sai Chetana Sahitya Sansad, Sadha, Kendujhar secretary signature in September 2026 poem. Introduction and literary role rely on original magazine, not same-name event reports. No photograph verified."
     }
   ],
   "pendingResearch": [

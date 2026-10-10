@@ -1,0 +1,169 @@
+{
+  "reviewed": "2026-10-10",
+  "writers": [
+    {
+      "slug": "chaturbhuja-pahi",
+      "route": "/shishu/writers/4365113dce3c.html",
+      "name": "ଚତୁର୍ଭୁଜ ପହି",
+      "role": "କବି ଓ ସାହିତ୍ୟ ସଂଗଠକ",
+      "bio": "ଚତୁର୍ଭୁଜ ପହି ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ସେ କେନ୍ଦୁଝରର ସଢାସ୍ଥିତ ସାଇ ଚେତନା ସାହିତ୍ୟ ସଂସଦର ସମ୍ପାଦକ । ତାଙ୍କ କବିତା ‘ଠେକୁଆ ପାଇଲା ନୂଆ ଜୀବନ’ରେ ବଣର ଜୀବଜନ୍ତୁ ଏକାଠି ହୋଇ ରୋଗୀ ଠେକୁଆକୁ ସାହାଯ୍ୟ କରନ୍ତି ।",
+      "searchAliases": "Chaturbhuja Pahi Chaturbhuj Pahi",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଠେକୁଆ ପାଇଲା ନୂଆ ଜୀବନ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-dbfdaf075a.html",
+          "snapshot": "public/shishu/article_details-dbfdaf075a.html"
+        }
+      ],
+      "identity": "Exact byline and explicit Sai Chetana Sahitya Sansad, Sadha, Kendujhar secretary signature in September 2026 poem. Introduction and literary role rely on original magazine, not same-name event reports. No photograph verified."
+    },
+    {
+      "slug": "jayakrushna-sahu",
+      "route": "/shishu/writers/c89e02766cff.html",
+      "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
+      "bio": "ଜୟକୃଷ୍ଣ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ତାଙ୍କର ଜନ୍ମ ପୁରୀ ଜିଲ୍ଲାର ସତ୍ୟବାଦୀ ଅଞ୍ଚଳର ଅଳଗୁମ୍ ଗାଁରେ । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ପରିଚୟ ଅନୁସାରେ, ତାଙ୍କର ନଅଟି କବିତା ବହି ଓ ଗୋଟିଏ ଗପ ବହି ପ୍ରକାଶ ପାଇଛି ।",
+      "searchAliases": "Jayakrushna Sahu Jayakrishna Sahu",
+      "portrait": "/portraits/jayakrushna-sahu-cartoon-natural-v1.webp",
+      "sourcePortrait": "/media/26fd170518846c6c569529f0.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
+          "snapshot": "public/shishu/birthday_details-bb525959f7.html"
+        }
+      ],
+      "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match. Batch 006: original birthday biography explicitly gives nine poetry books and one story book. Count is attributed to that profile, not asserted as an up-to-date total. Existing verified portrait retained; no specific award or book title inferred."
+    }
+  ],
+  "outcomes": [
+    {
+      "route": "/shishu/writers/4365113dce3c.html",
+      "name": "ଚତୁର୍ଭୁଜ ପହି",
+      "contributionCount": 1,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଠେକୁଆ ପାଇଲା ନୂଆ ଜୀବନ",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-dbfdaf075a.html",
+          "snapshot": "public/shishu/article_details-dbfdaf075a.html"
+        }
+      ],
+      "notes": [
+        "Full original poem and organization signature reviewed; added concise biography with directly supported literary role.",
+        "Exact Odia name, English Chaturbhuja Pahi and Sai Chetana searches checked. Janata Khabar search result mentions Dishiba Nuabata, but full page fetch failed and stronger identity bridge absent. Former education-officer role and book title deferred. No verified portrait."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "006",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-dbfdaf075a.html",
+        "https://janatakhabar.in/kendujhar-10/",
+        "https://yugabdha.com/congratulations-to-the-beo/"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/b1204e468fea.html",
+      "name": "ଜିତେନ୍ଦ୍ର ଚନ୍ଦ୍ର ସାହୁ",
+      "contributionCount": 9,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Read original Ailo Ai and Ama Ghara Gadia. Basoi/Parjang/Dhenkanal signature and same published contact corroborate correspondence with shorter Jitendra Sahu byline; routes preserved.",
+        "Exact Odia name, English writer and Basoi locality searches did not establish useful external biography or photograph. Banamalli archive has same-name poems, but individual linked pages failed to fetch. No unsupported biography added."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "006",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-c4651b6014.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-5d57d06277.html",
+        "https://shishukishora.com/article_details.php?article_cd=229",
+        "https://blog.banamalli.org/2018_03_27_archive.html?m=1"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/74f717baed70.html",
+      "name": "ଜିତେନ୍ଦ୍ର ସାହୁ",
+      "contributionCount": 1,
+      "status": "checked-no-addition",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Read complete pond poem; same original locality and published contact connect shorter and full bylines. No route merge.",
+        "Searched shorter Odia name and literary publication references. Banamalli namesake lacks identity bridge; Kalahandi book-event participant cannot be assumed to be this Dhenkanal writer. Source-limited; no portrait or useful biographical addition verified."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "006",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-5d57d06277.html",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-c4651b6014.html",
+        "https://blog.banamalli.org/2018_03_27_archive.html?m=1",
+        "https://odishasambad.in/senrra-a-story-collection-of-dileswar-rana-has-been-unveiled/"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/ea5ac870c4bd.html",
+      "name": "ଜ୍ୟୋତିର୍ମୟୀ ମହାନ୍ତି",
+      "contributionCount": 1,
+      "status": "identity-unresolved",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [],
+      "notes": [
+        "Read complete Namati Mora Rocket and issue byline. Original has no locality or biographical signature to distinguish namesakes.",
+        "Odia name plus rocket/children literature searches identify a possible children-literature researcher/award winner, but no independent bridge to magazine author. Do not conflate with BARC chemist Jyotirmayee Mohanty. Awards, doctorate, birth year and photograph withheld; identity unresolved."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "006",
+      "researchUrls": [
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-38989975fa.html",
+        "https://shishukishora.com/old_issues_details.php?issue_cd=5",
+        "https://odiashishusahitya.blogspot.com/2015/11/",
+        "https://www.wikidata.org/wiki/Q106388467",
+        "http://odishasahityaakademi.org/sahitya-award8.php"
+      ],
+      "publication": "pending"
+    },
+    {
+      "route": "/shishu/writers/c89e02766cff.html",
+      "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "contributionCount": 20,
+      "status": "enriched",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
+          "snapshot": "public/shishu/birthday_details-bb525959f7.html"
+        }
+      ],
+      "notes": [
+        "Reviewed original named birthday biography and latest poem signature. Added nine poetry books and one story book, explicitly attributed to magazine biography rather than a current total.",
+        "Government book-selection search lead names Satasatika Gapa / Jayakrushna Sahu, Puri; no precise identity bridge verified, so title withheld. Unspecified awards not expanded. Existing verified portrait retained."
+      ],
+      "reviewed": "2026-10-10",
+      "batch": "006",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
+        "https://sishu.kabitawithoutborders.org/shishu/article_details-093c0c7a61.html",
+        "https://inpr.odisha.gov.in/sites/default/files/2024-01/RRRLF_2020-21%20%26%202021-22.pdf"
+      ],
+      "publication": "pending"
+    }
+  ],
+  "validation": {
+    "build": "passed: public delivery, sharing, discovery, ebook checks",
+    "contributions": "All 373 writer HTML contribution lists match HEAD, including archived routes.",
+    "browser": "Both changed biographies verified locally; Chaturbhuja search returns one correct result.",
+    "portraits": "No new identity-verified photo; existing placeholders and Jayakrushna portrait retained."
+  }
+}
