@@ -46,3 +46,6 @@ Baloo Bhaina 2 600 is display-only. Noto Sans Oriya remains the reading and cont
 
 ### Maintenance
 `public/children-identity.css` is the shared identity layer; all magazine pages load the same version. Add future colour and component rules there, using its semantic tokens. Keep this guide with the repository so future issues follow the same system. Check desktop and 390px phone layouts, focus states, reading contrast and the site build before publishing.
+
+## Little-reader UX
+Primary navigation has four labelled outline icons. Submission links remain in the footer. The homepage and issue introductions offer a clear start action; saved magazine progress on this device changes it to a continue action. The homepage can return to the last magazine read. No sign-in is required for reading. Reader arrows carry visible Odia Previous/Next labels; sound joins the collapsed reading settings. Controls use 48px targets where practical and spaced navigation. Existing article next/previous links are prominent; social actions remain after the story. No editorial prose, story titles or printed covers were changed.

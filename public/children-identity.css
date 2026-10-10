@@ -115,3 +115,27 @@ body.shishu.ia-site[data-story-wash="false"],body.shishu.ia-site:has(.article-re
 .shishu :is(a,button,input,textarea,select,summary):focus-visible{outline:3px solid var(--kid-blue);outline-offset:4px}
 .mag-quiet-reader:not([data-theme="night"]) .quiet-content .ia-article-head h1{color:var(--kid-blue)}
 @media(max-width:600px){.shishu .ia-header nav a{padding:7px 9px}.shishu .ia-issue-intro .ia-eyebrow{gap:6px}.shishu .ia-issue-intro .ia-eyebrow::before{flex-basis:24px;width:24px;height:30px}}
+
+/* Small-reader controls: labelled icons, generous targets, quiet story pages. */
+.shishu .ia-header nav{gap:8px 12px}
+.shishu .ia-header nav a{gap:7px;min-height:48px}
+.shishu [data-kid-icon]::before{content:'';width:22px;height:22px;flex:0 0 22px;background:currentColor;mask:var(--kid-icon) center/contain no-repeat}
+.shishu [data-kid-icon="home"]{--kid-icon:url("/art/ui/home.svg")}
+.shishu [data-kid-icon="archive"]{--kid-icon:url("/art/ui/archive.svg")}
+.shishu [data-kid-icon="book"]{--kid-icon:url("/art/ui/book.svg")}
+.shishu [data-kid-icon="writers"]{--kid-icon:url("/art/ui/writers.svg")}
+
+.shishu :is(.mag-edition-actions>a,.article-reading-tools summary,.article-reading-tools button,.mag-web-reading a,.ia-genre-nav a,.mag-shortcuts a){min-height:48px;box-sizing:border-box}
+.shishu .mag-web-reading a{padding:10px 16px;border:2px solid var(--kid-line);border-radius:16px;background:var(--kid-card);display:inline-flex;align-items:center}
+.shishu .mag-web-reading a:last-child{background:var(--kid-yellow);border-color:var(--kid-ink)}
+.mag-quiet-reader .quiet-bottom button{min-height:48px;min-width:92px;font-size:16px;white-space:nowrap;flex-shrink:0}
+.mag-quiet-reader .quiet-bottom [role="status"]{flex:1;min-width:0;text-align:center}
+.mag-quiet-reader .quiet-top button{min-height:48px}
+.mag-quiet-reader .quiet-options .page-sound-toggle{display:inline-flex;align-items:center;min-height:48px}
+@media(max-width:600px){
+ .shishu .ia-header nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%;gap:8px}
+ .shishu .ia-header nav a{justify-content:flex-start;padding:8px 10px}
+ .shishu .mag-edition-actions{gap:14px}
+ .shishu .mag-edition-actions .ia-button{line-height:1.7;text-align:center}
+ .mag-quiet-reader .quiet-bottom{gap:8px}.mag-quiet-reader .quiet-bottom button{min-width:82px;font-size:14px}
+}
