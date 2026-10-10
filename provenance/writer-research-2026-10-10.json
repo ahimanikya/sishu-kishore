@@ -1724,6 +1724,79 @@
         }
       ],
       "identity": "Full Hebu Jagatajita read; signature explicitly academy member, independently consistent with original academy membership list. No external books, awards or photo identity verified. Hatadihi literary-event namesake lacks contact/work bridge; Ratnakar Chaini and Ratnakar Rout excluded."
+    },
+    {
+      "slug": "accae4541e91",
+      "route": "/shishu/writers/accae4541e91.html",
+      "name": "ରତ୍ନାକର ନାୟକ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ରତ୍ନାକର ନାୟକଙ୍କ କବିତାରେ ଗଛ, ଫୁଲ ଓ ପରିବେଶ ପ୍ରତି ଭଲପାଇବାର କଥା ମିଳେ । ‘ଟିକି ବଗିଚାର ଫୁଲ କଢ଼ି’ କବିତାରେ ପିଲାମାନେ ଗଛର ଯତ୍ନ ନେବାକୁ ଆଗେଇ ଆସନ୍ତି । ‘ଗଛ ପଚାରୁଛି କୁହ’ କବିତା ଗଛର ଉପକାର ମନେ ପକାଇ ଦିଏ ।",
+      "searchAliases": "Ratnakar Nayak",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-943d440ace.html",
+          "snapshot": "public/shishu/article_details-943d440ace.html"
+        }
+      ],
+      "identity": "All three original poems read; signatures Bhabanipur/Jaraka Dharmasala Jajpur. OdishaLIVE review of Pashupakhira Kahani names same author but no locality/contact bridge, so books not assigned. Reviewer Bhaskar Parichha is the journalist described at end, not Ratnakar. No verified photograph. Literary introduction only."
+    },
+    {
+      "slug": "5721f5a8f48e",
+      "route": "/shishu/writers/5721f5a8f48e.html",
+      "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ ପିଲାଙ୍କ ପାଇଁ କବିତା ଓ ମଜାଳିଆ ଗପ ଲେଖନ୍ତି । ‘ପିଲାଟି ବୋଲି’ କବିତାରେ କାଗଜ ଚକିରୀ, ଡଙ୍ଗା ଓ ଉଡ଼ାଜାହାଜ ସହ ପିଲାଙ୍କ ବିଜ୍ଞାନ କଳ୍ପନା ଯୋଡ଼ି ହୋଇଛି । ‘ଚନ୍ଦାମାମୁଙ୍କର ରୋବଟ୍ ଡର’ ଗପରେ ଯନ୍ତ୍ରର ଭୁଲକୁ ନେଇ ହସର କାହାଣୀ ରହିଛି ।",
+      "searchAliases": "Rabindranath Majhi Rabindra Nath Majhi",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-aeee488b2e.html",
+          "snapshot": "public/shishu/article_details-aeee488b2e.html"
+        }
+      ],
+      "identity": "Full Pilati Boli and Chandamamu robot story read; latter signature Kabita Bhaban Jayadev Vihar Bhubaneswar. NBT catalogue and state bibliography list same-name translator/books, but independent work/contact identity bridge not established. LEISA PDF search snippet unreliable and mismatched contact, not used. No verified photo. Literary introduction only."
+    },
+    {
+      "slug": "fba8a7194ce5",
+      "route": "/shishu/writers/fba8a7194ce5.html",
+      "name": "ରାଜଶ୍ରୀ ନନ୍ଦ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ରାଜଶ୍ରୀ ନନ୍ଦଙ୍କ ‘ମୋ ଗାଁ’ କବିତାରେ ସବୁଜ କ୍ଷେତ, ପକ୍ଷୀଙ୍କ ସ୍ୱର ଓ ଗାଁର ପର୍ବପର୍ବାଣିର ଛବି ରହିଛି । ଗାଁର ସ୍ନେହ ଓ ମିଳିମିଶି ରହିବାର ଆନନ୍ଦକୁ କବିତାଟି ମନେ ପକାଇ ଦିଏ ।",
+      "searchAliases": "Rajashree Nanda Rajashri Nanda",
+      "portrait": null,
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e904ca66ec.html",
+          "snapshot": "public/shishu/article_details-e904ca66ec.html"
+        }
+      ],
+      "identity": "Full Mo Gan poem read with Bhubaneswar signature. Exact Odia name, poet and Shishira title searches yielded no verified biography or photograph. Other Nanda/Tripathy/Mahapatra namesakes excluded. Literary introduction only."
+    },
+    {
+      "slug": "5642d255a831",
+      "route": "/shishu/writers/5642d255a831.html",
+      "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ",
+      "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
+      "bio": "ଲକ୍ଷ୍ମୀଧର ନାୟକ ନୟାଗଡ଼ ଜିଲ୍ଲାର ବାଉଁଶିଆପଡ଼ାର ଶିଶୁ ସାହିତ୍ୟିକ । ତାଙ୍କ ପିଲାଙ୍କ ବହି ମଧ୍ୟରେ ‘ଆସରେ ମିତ ଗାଇବା ଗୀତ’, ‘ଗୀତ ମହକ’ ଓ ‘ଆମ ବଣରାଇଜର କାହାଣୀ’ ରହିଛି । ତାଙ୍କ ‘ବସନ୍ତ ରାଜା’ କବିତାରେ ଫୁଲ, ପକ୍ଷୀ ଓ ପ୍ରଜାପତି ସହ ବସନ୍ତର ସୌନ୍ଦର୍ଯ୍ୟ ଫୁଟିଉଠେ ।",
+      "searchAliases": "Lakshmidhar Nayak Laxmidhar Nayak Laxmidhara Nayak",
+      "portrait": "/portraits/lakshmidhar-nayak-cartoon-natural-v1.jpg",
+      "sources": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଲେଖକ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=248"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d7466cb6dc.html",
+          "snapshot": "public/shishu/article_details-d7466cb6dc.html"
+        }
+      ],
+      "identity": "Original birthday biography advt248 matches original poem by exact published contact and Baunshiapada Nayagarh. Three book titles explicitly named. Distinguished from historical Lakshmidhar Nayak (1913–2004), Adisya author and scientific-officer namesakes. Named page photograph downloaded and visually checked: adult man, short black hair, blue checked shirt; Cartoon Natural portrait completed and visually compared with source; source/prompt/versioned files preserved.",
+      "sourcePortrait": "/portraits/lakshmidhar-nayak-source-v1.jpg"
     }
   ],
   "pendingResearch": [

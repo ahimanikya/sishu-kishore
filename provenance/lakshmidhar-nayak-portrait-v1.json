@@ -1,0 +1,11 @@
+{
+  "sourcePage": "https://www.shishukishora.com/birthday_details.php?advt_cd=248",
+  "sourceImage": "https://www.shishukishora.com/images/laxmidhar_nayak.jpg",
+  "sourceAsset": "public/portraits/lakshmidhar-nayak-source-v1.jpg",
+  "generatedAsset": "public/portraits/lakshmidhar-nayak-cartoon-natural-v1.png",
+  "prompt": "Use case: identity-preserve. Asset type: Sishu Kishore writer portrait. Edit target: the supplied identity-verified photograph of Lakshmidhar Nayak. Convert this exact person into a warm classic Indian children's-magazine 2D Cartoon Natural illustration. Preserve his adult age, medium brown skin, serious neutral expression, short thick black hair shape, facial proportions, eyes, nose, lips, and blue-purple checked shirt with maroon collar. Head and shoulders square composition matching source, face straight toward viewer. Confident dark ink outlines, restrained flat color and simple shadows, subtle paper texture. Plain pale cream background. Faithful likeness, no invented accessories, no beautification, no grin, no text, no watermark, no photoreal skin, no 3D or gloss.",
+  "tool": "built-in image_gen",
+  "reviewed": "2026-10-10",
+  "identity": "Named original birthday page matches poem signature by exact contact and Baunshiapada Nayagarh locality.",
+  "visualReview": "Source and output visually checked. Facial proportions, short thick hair, neutral expression and checked shirt retained. Warm outlined paper illustration; no invented accessories or text."
+}

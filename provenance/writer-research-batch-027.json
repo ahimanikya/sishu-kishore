@@ -1,0 +1,147 @@
+{
+  "reviewed": "2026-10-10",
+  "outcomes": [
+    {
+      "route": "/shishu/writers/accae4541e91.html",
+      "name": "ରତ୍ନାକର ନାୟକ",
+      "contributionCount": 3,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-943d440ace.html",
+          "snapshot": "public/shishu/article_details-943d440ace.html"
+        }
+      ],
+      "notes": [
+        "All three original poems read; signatures Bhabanipur/Jaraka Dharmasala Jajpur. OdishaLIVE review of Pashupakhira Kahani names same author but no locality/contact bridge, so books not assigned. Reviewer Bhaskar Parichha is the journalist described at end, not Ratnakar. No verified photograph. Literary introduction only."
+      ],
+      "batch": "027",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://odisha.live/2018/11/29/book-review-pashupakhira-kahani/"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/5721f5a8f48e.html",
+      "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ",
+      "contributionCount": 4,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-aeee488b2e.html",
+          "snapshot": "public/shishu/article_details-aeee488b2e.html"
+        }
+      ],
+      "notes": [
+        "Full Pilati Boli and Chandamamu robot story read; latter signature Kabita Bhaban Jayadev Vihar Bhubaneswar. NBT catalogue and state bibliography list same-name translator/books, but independent work/contact identity bridge not established. LEISA PDF search snippet unreliable and mismatched contact, not used. No verified photo. Literary introduction only."
+      ],
+      "batch": "027",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/article_details.php?article_cd=206",
+        "https://shishukishora.com/article_details.php?article_cd=42",
+        "https://www.nbtindia.gov.in/writereaddata/attachment/monday-march-3-202512-20-00-pmodia-catalouge-2025.pdf",
+        "https://library.sonydigdemo.in/public/images/Odisha_Bibliography_2006.pdf"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/fba8a7194ce5.html",
+      "name": "ରାଜଶ୍ରୀ ନନ୍ଦ",
+      "contributionCount": 2,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e904ca66ec.html",
+          "snapshot": "public/shishu/article_details-e904ca66ec.html"
+        }
+      ],
+      "notes": [
+        "Full Mo Gan poem read with Bhubaneswar signature. Exact Odia name, poet and Shishira title searches yielded no verified biography or photograph. Other Nanda/Tripathy/Mahapatra namesakes excluded. Literary introduction only."
+      ],
+      "batch": "027",
+      "reviewed": "2026-10-10",
+      "researchUrls": [],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/262e7a578d40.html",
+      "name": "ରାଧାମାଧବ ରଥ",
+      "contributionCount": 14,
+      "status": "checked-no-addition",
+      "existingBiography": true,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ‘ମୋ ପାପା’ ପୁସ୍ତକ ପରିଚୟ",
+          "url": "https://shishukishora.com/book_details.php?book_cd=54"
+        }
+      ],
+      "notes": [
+        "Existing Mo Papa biography retained. Full Anukampa story read, Varthur Bengaluru signature. English/Odia literary search found no reliable additional biography or portrait; unrelated corporate, engineering and historical-poet results excluded. Original book page fetch currently failed; prior verified source retained."
+      ],
+      "batch": "027",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://shishukishora.com/book_details.php?book_cd=54"
+      ],
+      "publication": "pending-validation"
+    },
+    {
+      "route": "/shishu/writers/5642d255a831.html",
+      "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ",
+      "contributionCount": 8,
+      "status": "enriched",
+      "existingBiography": false,
+      "reviewScope": "Check identity, useful biography additions, and verified photograph; preserve source writing.",
+      "evidence": [
+        {
+          "label": "ଶିଶୁ କିଶୋର · ଲେଖକ ପରିଚୟ",
+          "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=248"
+        },
+        {
+          "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
+          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d7466cb6dc.html",
+          "snapshot": "public/shishu/article_details-d7466cb6dc.html"
+        }
+      ],
+      "notes": [
+        "Original birthday biography advt248 matches original poem by exact published contact and Baunshiapada Nayagarh. Three book titles explicitly named. Distinguished from historical Lakshmidhar Nayak (1913–2004), Adisya author and scientific-officer namesakes. Named page photograph downloaded and visually checked: adult man, short black hair, blue checked shirt; Cartoon Natural portrait generated, visually compared and saved with exact prompt/provenance."
+      ],
+      "batch": "027",
+      "reviewed": "2026-10-10",
+      "researchUrls": [
+        "https://www.shishukishora.com/birthday_details.php?advt_cd=248",
+        "https://shishukishora.com/article_details.php?article_cd=345",
+        "https://odia.pratilipi.com/story/kholajharka-by-lakshmidhar-nayak-qk6hrbmk0hmr",
+        "https://www.ameodia.com/odia-author/laxmidhara-nayak/"
+      ],
+      "publication": "pending-validation"
+    }
+  ],
+  "searchQueries": [
+    "ରତ୍ନାକର ନାୟକ କବି",
+    "ରତ୍ନାକର ନାୟକ ଧର୍ମଶାଳା",
+    "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ ସାହିତ୍ୟ",
+    "Rabindranath Majhi writer",
+    "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ କବିତା ଭବନ",
+    "ରାଜଶ୍ରୀ ନନ୍ଦ କବିତା",
+    "ରାଜଶ୍ରୀ ନନ୍ଦ ଲେଖିକା",
+    "ରାଜଶ୍ରୀ ନନ୍ଦ ଶିଶିର",
+    "ରାଧାମାଧବ ରଥ ଲେଖକ",
+    "Radhamadhab Rath writer",
+    "ଲକ୍ଷ୍ମୀଧର ନାୟକ ବାଉଁଶିଆପଡା",
+    "ଲକ୍ଷ୍ମୀଧର ନାୟକ ସାହିତ୍ୟ ନୟାଗଡ଼"
+  ],
+  "validation": "All build/check steps passed; complete contribution markup unchanged. Four profiles and English writer search verified in local browser. Existing sharing preview generator reused for new portrait."
+}
