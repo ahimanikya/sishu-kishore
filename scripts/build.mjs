@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {createHash} from 'node:crypto';
 fs.rmSync('dist',{recursive:true,force:true});fs.cpSync('public','dist',{recursive:true});
 // Preserve extensionless links shared from the former host. Relative reader assets
 // use a base URL so an index alias behaves like the original .html document.
@@ -14,4 +15,18 @@ function aliases(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true}
  }
 }}
 aliases('public/shishu');
+// Refresh changed reader/home assets on both regular pages and extensionless
+// aliases, even when the browser still has an earlier version cached.
+const readerAssets=['page-turn.js','edition-reader.js','edition-reader.css','shishu-magazine.js','shishu-magazine.css','children-art.css'];
+const versions=new Map(readerAssets.map(name=>['/'+name,createHash('sha256').update(fs.readFileSync(path.join('dist',name))).digest('hex').slice(0,12)]));
+function versionReaderAssets(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){
+ const file=path.join(dir,entry.name);
+ if(entry.isDirectory())versionReaderAssets(file);
+ else if(file.endsWith('.html')){
+  const html=fs.readFileSync(file,'utf8');
+  const updated=html.replace(/((?:src|href)=["'])(\/[^"'?]+)(?:\?[^"']*)?(["'])/g,(match,start,url,end)=>versions.has(url)?`${start}${url}?v=${versions.get(url)}${end}`:match);
+  if(updated!==html)fs.writeFileSync(file,updated);
+ }
+}}
+versionReaderAssets('dist');
 fs.writeFileSync('dist/.nojekyll','');

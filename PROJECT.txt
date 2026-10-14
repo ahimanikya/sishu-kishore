@@ -10,3 +10,5 @@ Editorial tools now use the independent Firebase project described in backend/RE
 Imported from the approved combined-site commit bcdab2661c73bd1cba3cff9e64715c09cce4599c. Source snapshot and original printed covers remain preserved in the existing project. This repository has independent Git history; pushes to main now build, verify and deploy automatically through GitHub Actions to GitHub Pages.
 
 Sharing: run scripts/prepare-sharing.py (BeautifulSoup and Pillow) after adding pages or changing art. Every HTML page has static Open Graph and Twitter metadata. Images are full-composition JPEG previews; pages without suitable artwork use the magazine cover. No author likeness is fabricated.
+
+Homepage direction (user request, 15 October 2026): show every current-issue article in publication order with equal card treatment, and all preserved children's drawings with their existing credits. Use ordinary responsive grids, not a three-item preview or sideways carousel. The earlier three-preview guidance is superseded. Rebuild the home artwork section alone with scripts/build-children-art.py --home-only; its source is provenance/children-art/artworks.json.

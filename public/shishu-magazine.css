@@ -65,23 +65,22 @@
 .shishu .ia-brand .mag-brand-crop{display:block;width:224px;height:59px;overflow:hidden;flex:none}
 .shishu .ia-brand .mag-brand-crop img{display:block;width:224px!important;max-width:100%!important;height:59px!important;object-fit:contain;transform:none}
 .mag-about-links{display:flex;flex-wrap:wrap;gap:18px 32px;padding:24px 0}
-.mag-browse-controls{display:flex;align-items:center;justify-content:flex-end;gap:16px;margin-top:18px}
-.mag-browse-controls[hidden]{display:none}
-.mag-browse-controls button{width:48px;height:48px;border:1px solid #b5b89d;border-radius:50%;background:#fffdf8;color:#354830;font-size:25px;cursor:pointer}
-.mag-browse-controls button:disabled{opacity:.35;cursor:default}
-.mag-browse-controls button:focus-visible,.mag-article-browser ol:focus-visible{outline:3px solid #9a502d;outline-offset:3px}
-.mag-browse-status{font-variant-numeric:tabular-nums;min-width:65px;text-align:center}
-.shishu .ia-main .mag-article-browser .ia-genre ol{display:flex;gap:24px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 14px;scroll-padding:2px}
-.shishu .ia-main .mag-article-browser .ia-article-card{flex:0 0 calc((100% - 48px)/3);scroll-snap-align:start}
 .mag-source-entry{border-top:1px solid #dedbcb;padding:30px 0;display:flow-root}
 .mag-source-entry>img{float:left;max-width:180px;height:auto;object-fit:contain;margin:0 24px 18px 0}
 .mag-source-entry h2{font-size:22px;line-height:1.7}
 .mag-source-entry p{overflow-wrap:anywhere}
 .mag-team{padding:18px 24px;background:#f3f4e9;border-radius:8px;margin-bottom:28px}
 .mag-editorial-note+.mag-editorial-note{border-top:1px solid #dedbcb;margin-top:36px;padding-top:24px}
-@media(max-width:700px){.shishu .ia-main .mag-article-browser .ia-article-card{flex-basis:calc((100% - 24px)/2)}}
-@media(max-width:520px){.shishu .ia-main .mag-article-browser .ia-article-card{flex-basis:100%}.mag-source-entry>img{float:none;display:block;margin:0 0 20px}.shishu .ia-brand .mag-brand-crop{width:184px;height:49px}.shishu .ia-brand .mag-brand-crop img{width:184px!important;height:49px!important;transform:none}}
-.mag-article-browser .ia-section-heading{flex-wrap:wrap;gap:12px 20px}
-.mag-article-browser .ia-section-heading h2{margin-right:auto!important}
-.mag-article-browser .mag-browse-controls{margin-top:0}
-@media(max-width:520px){.mag-article-browser .mag-browse-controls{width:100%;justify-content:space-between}}
+@media(max-width:520px){.mag-source-entry>img{float:none;display:block;margin:0 0 20px}.shishu .ia-brand .mag-brand-crop{width:184px;height:49px}.shishu .ia-brand .mag-brand-crop img{width:184px!important;height:49px!important;transform:none}}
+
+/* Every current-issue contribution gets the same card, in publication order. */
+.mag-home-jumps{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 28px}
+.mag-home-jumps a{display:inline-flex;align-items:center;min-height:48px;padding:8px 18px;border:1px solid #bfd9e8;border-radius:24px;background:#fff8df;color:#234955;text-decoration:none;box-sizing:border-box}
+.mag-home-jumps a:hover{text-decoration:underline;text-underline-offset:4px}
+.mag-home-articles,.art-home{scroll-margin-top:24px}
+.shishu .ia-main .mag-home-articles .ia-section-heading{flex-wrap:wrap;gap:12px 20px}
+.shishu .mag-home-articles #issue-articles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px;overflow:visible;padding:0;list-style:none}
+.shishu .ia-main .mag-home-articles .ia-article-card{min-width:0;height:100%}
+.shishu .ia-main .mag-home-articles .ia-article-card>a{height:100%;box-sizing:border-box}
+@media(max-width:900px){.shishu .mag-home-articles #issue-articles{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}}
+@media(max-width:560px){.shishu .mag-home-articles #issue-articles{grid-template-columns:1fr}.mag-home-jumps{gap:8px}.mag-home-jumps a{font-size:16px;padding-inline:14px}}

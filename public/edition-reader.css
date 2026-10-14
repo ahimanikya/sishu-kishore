@@ -80,3 +80,42 @@ body:has(main>.ia-article)>.ia-footer nav{margin-top:0;align-items:center}
 @media(max-width:600px){.mag-quiet-reader .quiet-page{margin:12px 18px}.mag-quiet-reader .quiet-content{width:calc(100vw - 36px)}}
 
 .quiet-top .page-sound-toggle{font-size:14px;white-space:nowrap;margin-left:0}.quiet-top [data-settings]{margin-left:auto}@media(max-width:420px){.quiet-top{gap:2px}.quiet-top button{font-size:13px;padding-inline:6px}}
+
+/* Covers are separate leaves, outside the reflowing article columns. */
+.mag-quiet-reader .quiet-cover-stage[hidden],.mag-quiet-reader .quiet-cover-front[hidden],.mag-quiet-reader .quiet-cover-back[hidden],.mag-quiet-reader .quiet-cover-actions [hidden]{display:none!important}
+.mag-quiet-reader .quiet-cover-stage{position:absolute;inset:10px;z-index:2;display:grid;grid-template-rows:minmax(0,1fr) auto;justify-items:center;gap:18px;padding:0 12px;box-sizing:border-box}
+.mag-quiet-reader .quiet-cover-book{position:relative;height:min(100%,120vw);align-self:center;max-height:650px;aspect-ratio:2/3;max-width:80vw;perspective:1400px;background:#f9f0d7;border-radius:3px 10px 10px 3px;box-shadow:5px 5px 0 #d4c6a4,9px 9px 0 -2px #b4a17a,12px 18px 30px #193d4d26}
+.mag-quiet-reader .quiet-cover-front,.mag-quiet-reader .quiet-cover-back{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;gap:12px;background:#fff8df;color:#234955;border:2px solid #315c66;border-left:8px solid #b53c43;border-radius:3px 8px 8px 3px;padding:20px 16px;box-sizing:border-box;transform-origin:left center;backface-visibility:hidden;overflow:hidden}
+.mag-quiet-reader .quiet-cover-brand{font-family:var(--kid-heading,inherit);font-size:clamp(26px,4.5vh,46px);line-height:1.5;text-align:center;flex:none}
+.mag-quiet-reader .quiet-cover-art{display:block;min-height:0;height:0;flex:1;width:100%;object-fit:contain;border-radius:3px}
+.mag-quiet-reader .quiet-cover-edition{margin:0;font-size:clamp(14px,2.5vh,20px);line-height:1.5;text-align:center;flex:none}
+.mag-quiet-reader .quiet-cover-back{justify-content:center;background:#e4eef0;border-left-color:#247fab}
+.mag-quiet-reader .quiet-back-leaf{width:35%;height:28%;object-fit:contain;margin:14px 0}
+.mag-quiet-reader .quiet-cover-back a{color:inherit;margin-top:12px;min-height:44px;display:flex;align-items:center}
+.mag-quiet-reader .quiet-cover-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;min-height:48px}
+.mag-quiet-reader .quiet-cover-actions button{background:var(--paper);font-size:15px;line-height:1.5}
+.mag-quiet-reader .quiet-cover-actions [data-open-cover]{background:#f2c34e;color:#234955;border:2px solid #234955;font-weight:600}
+.mag-quiet-reader:is([data-page-kind="front"],[data-page-kind="back"]) .quiet-spread-shell{background:transparent!important;box-shadow:none;border-color:transparent}
+.mag-quiet-reader:is([data-page-kind="front"],[data-page-kind="back"]) :is(.quiet-page,.quiet-print-header,.quiet-folios,.quiet-corner){visibility:hidden}
+.mag-quiet-reader .quiet-top [data-fullscreen]{display:flex;align-items:center;gap:6px;margin-left:auto;white-space:nowrap}
+.mag-quiet-reader .quiet-top [data-settings]{margin-left:0}
+.mag-quiet-reader .quiet-top [data-fullscreen][hidden]{display:none}
+@media(max-width:600px){
+ .mag-quiet-reader .quiet-cover-stage{inset:6px 0;gap:12px;padding:0 10px}
+ .mag-quiet-reader .quiet-cover-front,.mag-quiet-reader .quiet-cover-back{padding:14px 12px;gap:8px}
+ .mag-quiet-reader .quiet-top [data-fullscreen] span{display:none}
+ .mag-quiet-reader .quiet-cover-actions button{font-size:13px;padding:6px 12px}
+}
+@media(max-height:500px){
+ .mag-quiet-reader .quiet-cover-stage{gap:6px;inset:0}
+ .mag-quiet-reader .quiet-cover-front,.mag-quiet-reader .quiet-cover-back{padding:6px;gap:4px;border-left-width:4px}
+ .mag-quiet-reader .quiet-cover-brand{font-size:20px}.mag-quiet-reader .quiet-cover-edition{font-size:12px}
+}
+/* Fullscreen the reader frame, keeping the underlying magazine outside it. */
+.mag-quiet-reader .quiet-reader-frame{display:flex;flex-direction:column;flex:1;min-height:0;width:100%;height:100%;background:var(--desk,var(--paper));color:var(--ink)}
+.mag-quiet-reader .quiet-reader-frame:fullscreen{width:100vw;height:100dvh;overflow:hidden}
+
+/* Reuse an edition's composed cover, including its live Odia masthead. */
+.mag-quiet-reader .quiet-illustrated-cover{padding:0;gap:0}
+.mag-quiet-reader .quiet-illustrated-cover>.storybook-cover{flex:1;min-height:0;width:100%;box-shadow:none;overflow:hidden}
+.mag-quiet-reader .quiet-illustrated-cover>.storybook-cover .storybook-cover-art{width:100%;height:100%;object-fit:fill}
