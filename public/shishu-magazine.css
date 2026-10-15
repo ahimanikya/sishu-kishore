@@ -73,14 +73,19 @@
 .mag-editorial-note+.mag-editorial-note{border-top:1px solid #dedbcb;margin-top:36px;padding-top:24px}
 @media(max-width:520px){.mag-source-entry>img{float:none;display:block;margin:0 0 20px}.shishu .ia-brand .mag-brand-crop{width:184px;height:49px}.shishu .ia-brand .mag-brand-crop img{width:184px!important;height:49px!important;transform:none}}
 
-/* Every current-issue contribution gets the same card, in publication order. */
+/* A complete, compact homepage overview; larger issue cards keep their own layout. */
 .mag-home-jumps{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 28px}
 .mag-home-jumps a{display:inline-flex;align-items:center;min-height:48px;padding:8px 18px;border:1px solid #bfd9e8;border-radius:24px;background:#fff8df;color:#234955;text-decoration:none;box-sizing:border-box}
 .mag-home-jumps a:hover{text-decoration:underline;text-underline-offset:4px}
 .mag-home-articles,.art-home{scroll-margin-top:24px}
 .shishu .ia-main .mag-home-articles .ia-section-heading{flex-wrap:wrap;gap:12px 20px}
-.shishu .mag-home-articles #issue-articles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px;overflow:visible;padding:0;list-style:none}
-.shishu .ia-main .mag-home-articles .ia-article-card{min-width:0;height:100%}
-.shishu .ia-main .mag-home-articles .ia-article-card>a{height:100%;box-sizing:border-box}
-@media(max-width:900px){.shishu .mag-home-articles #issue-articles{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}}
+.shishu .mag-home-articles #issue-articles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;overflow:visible;padding:0;list-style:none}
+.shishu .mag-home-articles #issue-articles>.ia-article-card{min-width:0;height:100%;overflow:visible;padding:0;border:1px solid var(--home-line);border-radius:7px;box-shadow:none}
+.shishu .ia-main .mag-home-articles .ia-article-card>a{display:grid;grid-template-columns:88px minmax(0,1fr);grid-template-rows:auto 1fr;align-content:start;gap:4px 12px;height:100%;padding:14px 12px;box-sizing:border-box;border-radius:7px}
+.shishu .ia-main .mag-home-articles .ia-card-picture{grid-column:1;grid-row:1/3;width:88px;aspect-ratio:3/2;margin:0;border:1px solid var(--home-line);border-radius:4px;align-self:start}
+.shishu .ia-main .mag-home-articles .ia-card-title{grid-column:2;grid-row:1;padding:0;font-size:17px;line-height:1.65;overflow-wrap:break-word}
+.shishu .ia-main .mag-home-articles .ia-article-card small{grid-column:2;grid-row:2;padding:0;margin:0;font-size:14px;line-height:1.7;overflow-wrap:break-word}
+.shishu .ia-main .mag-home-articles .ia-article-card>a:hover{background:#faf4e4}
+.shishu .ia-main .mag-home-articles .ia-article-card>a:focus-visible{outline-offset:2px}
+@media(max-width:960px){.shishu .mag-home-articles #issue-articles{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.shishu .mag-home-articles #issue-articles{grid-template-columns:1fr}.mag-home-jumps{gap:8px}.mag-home-jumps a{font-size:16px;padding-inline:14px}}

@@ -25,7 +25,9 @@ nav='<nav class="art-issue-jumps" aria-label="ସଂଖ୍ୟା ବାଛନ୍
 def card(i,a,mini=False):
  image=f'<span class="art-mat"><img src="{a["local"]}" width="{a["width"]}" height="{a["height"]}" alt="{esc(a["display_caption"])}" loading="lazy" decoding="async"></span>'
  frame=f'<a class="art-frame tone-{i%4}" href="{a["local"]}" aria-label="{esc(a["display_caption"]+" — "+a["name"])}">{image}</a>'
- caption=f'<figcaption><h3>{esc(a["display_caption"])}</h3><p class="art-credit">{esc(a["name"])}</p>'
+ label=esc(a['display_caption'])
+ if mini:label=f'<a href="{a["local"]}">{label}</a>'
+ caption=f'<figcaption><h3>{label}</h3><p class="art-credit">{esc(a["name"])}</p>'
  if not mini:caption+=f'<p class="art-school">{esc(a["caption"])}</p><p class="art-source-issue">{esc(a["issue"])}</p>'
  return f'<figure class="art-card">{frame}{caption}</figcaption></figure>'
 sections=''.join(f'<section class="art-edition" aria-labelledby="art-issue-{n}"><h2 id="art-issue-{n}">ସଂଖ୍ୟା {od(n)}</h2><div class="art-grid">'+''.join(card(i,a) for i,a in group)+'</div></section>' for n,group in groups.items())
@@ -33,7 +35,13 @@ html=f'<!doctype html><html lang="or"><head>{meta}{head}<link rel="stylesheet" h
 if not home_only:(public/'shishu/activity_children.html').write_text(html)
 # All preserved drawings receive equal homepage space, as requested by the user.
 preview='<section class="art-home" id="home-art" aria-labelledby="art-home-title"><div class="art-home-heading"><div><p class="art-eyebrow">ପିଲାଙ୍କ ତୂଳୀରୁ</p><h2 id="art-home-title">ପିଲାଙ୍କ ଚିତ୍ର</h2></div><a class="art-gallery-link" href="/shishu/activity_children.html">ଚିତ୍ରଶାଳା →</a></div><div class="art-grid">'+''.join(card(i,a,True) for i,a in enumerate(items))+'</div></section>'
-home=home.replace('<section class="mag-editor-link">',preview+'<section class="mag-editor-link">').replace('</head>','<link rel="stylesheet" href="/children-art.css?v=1"></head>');(public/'shishu/index.html').write_text(home)
+home=home.replace('<section class="mag-editor-link">',preview+'<section class="mag-editor-link">').replace('</head>','<link rel="stylesheet" href="/children-art.css?v=1"></head>')
+# Keep the two contribution sections together, ahead of the browsing shortcuts.
+shortcuts=re.search(r'<nav\b[^>]*class="mag-shortcuts".*?</nav>',home,re.S)
+if shortcuts:
+ home=home.replace(shortcuts[0],'').replace('<section class="mag-editor-link">',shortcuts[0]+'<section class="mag-editor-link">')
+home=re.sub(r'(<a href="#home-art">).*?(</a>)',lambda m:m[1]+f'ପିଲାଙ୍କ ଚିତ୍ର · {od(len(items))} ↓'+m[2],home)
+(public/'shishu/index.html').write_text(home)
 if home_only:
  print(f'Updated homepage: all {len(items)} original drawings and their credits.')
  sys.exit(0)
