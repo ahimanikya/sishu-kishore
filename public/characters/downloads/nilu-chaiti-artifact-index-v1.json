@@ -1,0 +1,159 @@
+{
+  "cast": "Nilu–Chaiti",
+  "assembled": "2026-10-16",
+  "files": [
+    {
+      "file": "source-files/story-01-room-for-one-more/story-script-v1.txt",
+      "source": "2026-10-15/original-merchandise/story-01-room-for-one-more/story-script-v1.txt",
+      "bytes": 2710,
+      "sha256": "6b2c4e68a51c4e71994733f7a3461212e8ca3f921170a4367b6275e67f70b3df"
+    },
+    {
+      "file": "source-files/assets/cast-concept-v1.png",
+      "source": "2026-10-15/original-merchandise/assets/cast-concept-v1.png",
+      "bytes": 1903618,
+      "sha256": "d49e6eaa4ae4ad43d2ba0525a7db75bcf93506414c768317db4c63ae83445103",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/listener-model-v2.png",
+      "source": "2026-10-15/original-merchandise/assets/listener-model-v2.png",
+      "bytes": 1645129,
+      "sha256": "d493c23e114c9c4fba831fa810375ae601044f91f4f6619b46fd71f6e3db2849",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/experimenter-model-v2.png",
+      "source": "2026-10-15/original-merchandise/assets/experimenter-model-v2.png",
+      "bytes": 1666672,
+      "sha256": "bfdb045aef6cab596c3bd928973e35b24001421c1c48e75b5a9737ded007392d",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/bird-model-v2.png",
+      "source": "2026-10-15/original-merchandise/assets/bird-model-v2.png",
+      "bytes": 1535058,
+      "sha256": "889e7470f8a385b972db43860387f9d9d754fafd44edc23964559223481a898a",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/puppy-model-v2.png",
+      "source": "2026-10-15/original-merchandise/assets/puppy-model-v2.png",
+      "bytes": 1738671,
+      "sha256": "fde017392fe9ab5d8df0fb9979c7ce2c8038e7e9d397d8620499d437f1b9856c",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/listener-bookmark-v1.png",
+      "source": "2026-10-15/original-merchandise/assets/listener-bookmark-v1.png",
+      "bytes": 1407793,
+      "sha256": "9ccffdc2e79bccbd8eb7b601ce43e33fe59d783b036ecb1d2ec8635d4ad37fcf",
+      "dimensions_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "source-files/assets/experimenter-bookmark-v1.png",
+      "source": "2026-10-15/original-merchandise/assets/experimenter-bookmark-v1.png",
+      "bytes": 1456416,
+      "sha256": "654c679219a5e2b88ba9ca39829a8b5ccf87a192cd72f376f31ec48d2362f27c",
+      "dimensions_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "source-files/assets/bird-merch-v1.png",
+      "source": "2026-10-15/original-merchandise/assets/bird-merch-v1.png",
+      "bytes": 686467,
+      "sha256": "5d7c380e21b7fe9a6db1571747de702756a5a16018be8298d878f2f1c093dcbb",
+      "dimensions_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "file": "source-files/assets/puppy-merch-v1.png",
+      "source": "2026-10-15/original-merchandise/assets/puppy-merch-v1.png",
+      "bytes": 861885,
+      "sha256": "d01dacdac7272fba0897784031c160c4fbbd3e4989f440077cdd1f82f969047f",
+      "dimensions_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "file": "source-files/story-01-room-for-one-more/assets/rough-storyboard-v1.png",
+      "source": "2026-10-15/original-merchandise/story-01-room-for-one-more/assets/rough-storyboard-v1.png",
+      "bytes": 3412174,
+      "sha256": "8441629eab937904e49fd9c08a3855fb8bd9efdbde740047cda4cfd7f39245e9",
+      "dimensions_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "source-files/story-01-room-for-one-more/assets/finished-art-v2.png",
+      "source": "2026-10-15/original-merchandise/story-01-room-for-one-more/assets/finished-art-v2.png",
+      "bytes": 2526727,
+      "sha256": "0159cb8a8a5ce7ae12ed1eaf1597e557a78888c9e8e3703f58b3ca3cd65f51cc",
+      "dimensions_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "file": "source-files/story-01-room-for-one-more/qa/pdf/story-1.png",
+      "source": "2026-10-15/original-merchandise/story-01-room-for-one-more/qa/pdf/story-1.png",
+      "bytes": 1784684,
+      "sha256": "b384f8f5fdac90c2c89caf4868105abdfa3dedfe633bea09fa303890ef9ea76c",
+      "dimensions_px": [
+        1131,
+        1600
+      ]
+    },
+    {
+      "file": "source-files/story-01-room-for-one-more/assets/finished-art-v1.png",
+      "source": "2026-10-15/original-merchandise/story-01-room-for-one-more/assets/finished-art-v1.png",
+      "bytes": 2836187,
+      "sha256": "8bb9a2365f99f13748a00f8bc6e255f2d3c0b59106711b2f4627e79d868ff9d7",
+      "dimensions_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "file": "source-files/output/pdf/merchandise-a4-proof-v1.pdf",
+      "source": "2026-10-15/original-merchandise/output/pdf/merchandise-a4-proof-v1.pdf",
+      "bytes": 5176380,
+      "sha256": "bc59951b796f267b1741b8457c6299b39a1e86e15aea614912f19a9997e8a820"
+    },
+    {
+      "file": "source-files/output/pdf/adventure-book-a5-v2.pdf",
+      "source": "2026-10-15/original-merchandise/output/pdf/adventure-book-a5-v2.pdf",
+      "bytes": 5923237,
+      "sha256": "07086fc514ec0be06683327811d12cd302cae5279eb76a489f7682f3fadeb972"
+    },
+    {
+      "file": "reading-proof/nilu-chaiti-room-for-one-more-proof-v1.pdf",
+      "bytes": 3893310,
+      "sha256": "99bb97907f9f79fc079bcc2a987126dbf301b7480f41eb620a268c92a545053c"
+    }
+  ]
+}

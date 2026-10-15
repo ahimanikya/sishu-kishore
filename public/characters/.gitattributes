@@ -1,0 +1,5 @@
+# Reading proofs are binary artifacts, including PDFs with long text headers.
+downloads/*.pdf binary
+# Preserve the exact imported scripts and font licence, including whitespace.
+downloads/*-pilot-script-v1.txt -whitespace
+assets/OFL-Baloo-Bhaina-2.txt -whitespace

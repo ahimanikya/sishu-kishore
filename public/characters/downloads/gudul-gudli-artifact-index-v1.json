@@ -1,0 +1,147 @@
+{
+  "cast": "Gudul–Gudli",
+  "assembled": "2026-10-16",
+  "files": [
+    {
+      "file": "source-files/story-pilot/room-for-one-more-v1.txt",
+      "source": "2026-10-12/character-studio/story-pilot/room-for-one-more-v1.txt",
+      "bytes": 2850,
+      "sha256": "f8b972ec551d754f51f6ac42fd06a7070e758d9deb80540b9fa0e26ad1ef0b5b"
+    },
+    {
+      "file": "source-files/assets/gudul-head-construction-v1.png",
+      "source": "2026-10-12/character-studio/assets/gudul-head-construction-v1.png",
+      "bytes": 1910822,
+      "sha256": "68885ebfdfd20ee668a89aa543fbab707e0584cb14dbf96db6cf3b7696dbf664",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/gudul-finished-v2.png",
+      "source": "2026-10-12/character-studio/assets/gudul-finished-v2.png",
+      "bytes": 1763094,
+      "sha256": "fdbf3ac693b55494ca25bdebea194103016933ed3de7e781dc9f917ad70e826a",
+      "dimensions_px": [
+        1122,
+        1402
+      ]
+    },
+    {
+      "file": "source-files/assets/gudli-finished-v2.png",
+      "source": "2026-10-12/character-studio/assets/gudli-finished-v2.png",
+      "bytes": 1846523,
+      "sha256": "7a13d8501fd9a719a422ed36368285e83ae60cb57b6d89a59ead5456eb6b8c5b",
+      "dimensions_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "source-files/assets/parrot-finished-v1.png",
+      "source": "2026-10-12/character-studio/assets/parrot-finished-v1.png",
+      "bytes": 1792298,
+      "sha256": "0900c5f07aa3c62a765c531eb835e0ec7e4aa57673964ec775c25d00b2ddf4d5",
+      "dimensions_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "source-files/assets/elin-finished-v1.png",
+      "source": "2026-10-12/character-studio/assets/elin-finished-v1.png",
+      "bytes": 1674166,
+      "sha256": "bbe026f4b9e2cebf0fc2848cf35245e93c9a3da9d7a1637bdba93eab0647c52e",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/gudul-acting-western-v2.png",
+      "source": "2026-10-12/character-studio/assets/gudul-acting-western-v2.png",
+      "bytes": 1781803,
+      "sha256": "883c3dad11c60b902485e771c381bb72a858976e4b2830c180949188217e3737",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/gudli-acting-western-v2.png",
+      "source": "2026-10-12/character-studio/assets/gudli-acting-western-v2.png",
+      "bytes": 1870972,
+      "sha256": "f2415f194c57690d51ce50b3b32316a24e56fa0395c20d12990dfe67c8b8aa0d",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/parrot-acting-v1.png",
+      "source": "2026-10-12/character-studio/assets/parrot-acting-v1.png",
+      "bytes": 1974894,
+      "sha256": "7806ad3896e6cd96596aebffc403e8cdcf09bb1c767d533c6f512fb14b09d65b",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/assets/elin-acting-v2.png",
+      "source": "2026-10-12/character-studio/assets/elin-acting-v2.png",
+      "bytes": 1795860,
+      "sha256": "69bd4dbf6fe85c8a759adaf3d7c4e080b78ce9cee8c3213aa337ea77aeca8a0d",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "source-files/story-pilot/assets/storyboard-v4.png",
+      "source": "2026-10-12/character-studio/story-pilot/assets/storyboard-v4.png",
+      "bytes": 2261964,
+      "sha256": "cfa44c7b2827390d2471ee4b35810a9420a4a4712fb2755e5a5a4115e848a1cf",
+      "dimensions_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "source-files/story-pilot/assets/finished-art-v2.png",
+      "source": "2026-10-12/character-studio/story-pilot/assets/finished-art-v2.png",
+      "bytes": 2309168,
+      "sha256": "2cd21d7bc47eccf5fbe48610c34007cd9db3d35f66a867f7c6d6996800eeb958",
+      "dimensions_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "source-files/story-collection/pdf-edition/qa/page-03.png",
+      "source": "2026-10-12/character-studio/story-collection/pdf-edition/qa/page-03.png",
+      "bytes": 700991,
+      "sha256": "1d05bcd87a0215b15258442a5378d0ae1ecf8e204bee3b0553afd28ae14bdcc6",
+      "dimensions_px": [
+        1287,
+        910
+      ]
+    },
+    {
+      "file": "source-files/story-pilot/assets/staging-v2.png",
+      "source": "2026-10-12/character-studio/story-pilot/assets/staging-v2.png",
+      "bytes": 2284078,
+      "sha256": "f1f11ecede8dccdc430f00c531c86763f93dbdb963525f8957a488aeb60d500a",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "reading-proof/gudul-gudli-three-stories-v1.pdf",
+      "bytes": 24077498,
+      "sha256": "9159684343fadd48435c6a202c7431b14424077a2c8d18925565927ff72ddc6f"
+    }
+  ]
+}

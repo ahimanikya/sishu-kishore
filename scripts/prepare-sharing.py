@@ -5,7 +5,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from PIL import Image, ImageOps
 from urllib.parse import urlsplit, unquote
-import hashlib, json, re
+import argparse, hashlib, json, re
 
 ROOT=Path(__file__).resolve().parents[1]/'public'
 SETTINGS=json.loads((ROOT.parent/'scripts/site.json').read_text())
@@ -13,7 +13,15 @@ ORIGIN=SETTINGS['origin']
 SERVICE='https://shalandi-shishu-design-review.aquera-1216.chatgpt.site'
 FALLBACK=SETTINGS['fallback']
 OUT=ROOT/'social'; OUT.mkdir(exist_ok=True)
-manifest=[]
+parser=argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--scope', help='Optional directory within public, such as characters')
+args=parser.parse_args()
+SCOPE=(ROOT/args.scope).resolve() if args.scope else ROOT.resolve()
+if not SCOPE.is_relative_to(ROOT.resolve()) or not SCOPE.is_dir():
+    parser.error('scope must be an existing directory within public')
+manifest_path=ROOT.parent/'provenance/social-previews.json'
+scope_prefix='/'+SCOPE.relative_to(ROOT.resolve()).as_posix().strip('/')+'/'
+manifest=[entry for entry in json.loads(manifest_path.read_text()) if not entry['page'].startswith(scope_prefix)] if args.scope and manifest_path.exists() else []
 
 def preview(src):
     source=ROOT/src.lstrip('/')
@@ -29,6 +37,11 @@ def preview(src):
     return '/social/'+target.name
 
 def select_image(soup, path):
+    character_preview=soup.select_one('meta[name="character-preview"]')
+    if character_preview:
+        src=character_preview.get('content','')
+        if src.startswith('/characters/assets/') and (ROOT/src.lstrip('/')).is_file():
+            return src
     if '/writers/' in str(path):
         candidates=soup.select('main img[src*="portraits/"]')
     elif path.name in ['index.html','current_issue.html']:
@@ -41,7 +54,7 @@ def select_image(soup, path):
             return src
     return FALLBACK
 
-for path in sorted(ROOT.rglob('*.html')):
+for path in sorted(SCOPE.rglob('*.html')):
     soup=BeautifulSoup(path.read_text(),'html.parser')
     if not soup.head: continue
     before=soup.body.get_text() if soup.body else ''
@@ -66,5 +79,5 @@ for path in sorted(ROOT.rglob('*.html')):
     assert before==(soup.body.get_text() if soup.body else ''),path
     path.write_text(str(soup))
     manifest.append({'page':relative,'url':ORIGIN+route,'image':img,'source':artwork})
-(ROOT.parent/'provenance/social-previews.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
+manifest_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
 print(f'{len(manifest)} pages with previews, {len(list(OUT.glob("*.jpg")))} shared artwork images')

@@ -7216,5 +7216,53 @@
     "url": "https://sishu.kabitawithoutborders.org/unavailable.html",
     "image": "/social/555b09e45d35f58f.jpg",
     "source": "/art/shishu-durga-cartoon-v5.webp"
+  },
+  {
+    "page": "/characters/comparison.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/comparison.html",
+    "image": "/social/772881968f8332dc.jpg",
+    "source": "/characters/assets/koraput-ensemble.webp"
+  },
+  {
+    "page": "/characters/complete-report.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/complete-report.html",
+    "image": "/social/c52056da117f3137.jpg",
+    "source": "/characters/assets/nilu-ensemble.webp"
+  },
+  {
+    "page": "/characters/design-path.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/design-path.html",
+    "image": "/social/04c4242704a529bb.jpg",
+    "source": "/characters/assets/nilu-chaiti-storyboard.webp"
+  },
+  {
+    "page": "/characters/gudul-gudli.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/gudul-gudli.html",
+    "image": "/social/32c650c03d7b0555.jpg",
+    "source": "/characters/assets/gudul-ensemble.webp"
+  },
+  {
+    "page": "/characters/index.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/",
+    "image": "/social/c52056da117f3137.jpg",
+    "source": "/characters/assets/nilu-ensemble.webp"
+  },
+  {
+    "page": "/characters/koraput.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/koraput.html",
+    "image": "/social/772881968f8332dc.jpg",
+    "source": "/characters/assets/koraput-ensemble.webp"
+  },
+  {
+    "page": "/characters/nilu-chaiti.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/nilu-chaiti.html",
+    "image": "/social/c52056da117f3137.jpg",
+    "source": "/characters/assets/nilu-ensemble.webp"
+  },
+  {
+    "page": "/characters/sources.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/sources.html",
+    "image": "/social/32c650c03d7b0555.jpg",
+    "source": "/characters/assets/gudul-ensemble.webp"
   }
 ]
