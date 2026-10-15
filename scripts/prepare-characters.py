@@ -75,7 +75,7 @@ data = [
      'model_note':'Selected files: Gudul v2, Gudli v2, parrot v1 and Elin v1. Keep source-established details and newly proposed behaviour distinguishable.',
      'revision':'The development record moves from a staging study of waiting, making room and sheltering the tail to storyboard v4 and finished art v2. Earlier acting sheets retain alternative clothing and are shown as history.',
      'extras':[A/'story-pilot/assets/staging-v2.png'],
-     'credit':'Underlying characters: Snigdha Nayak’s Gudul–Gudli serial. The pilot script and these AI-generated development illustrations are new project explorations, outside the serial chronology.'},
+     'credit':'Underlying characters: Snigdha Nayak’s Gudul–Gudli serial. The pilot script and these development illustrations are new project explorations, outside the serial chronology.'},
     {'id':'nilu-chaiti', 'name':'Nilu–Chaiti', 'root':B,
      'story':'Room for One More', 'script':B/'story-01-room-for-one-more/story-script-v1.txt',
      'concept':B/'assets/cast-concept-v1.png', 'concept_label':'Original cast concept · v1',
@@ -87,7 +87,7 @@ data = [
          ('bird-merch-v1.png','Bird · small product illustration, v1'),
          ('puppy-merch-v1.png','Puppy · small product illustration, v1')]],
      'rough':B/'story-01-room-for-one-more/assets/rough-storyboard-v1.png', 'rough_version':'Pencil-style storyboard · v1',
-     'rough_note':'Six AI-generated pencil-style frames test the wet paws, movement of the mat, the bird’s stool and the foot-as-pillow ending. This is a digital drawing treatment, not a scan of a hand-drawn original.',
+     'rough_note':'Six pencil-style frames test the wet paws, movement of the mat, the bird’s stool and the foot-as-pillow ending. This is a digital drawing treatment, not a scan of a hand-drawn original.',
      'final':B/'story-01-room-for-one-more/assets/finished-art-v2.png', 'final_version':'Corrected colour art · v2',
      'final_note':'The first colour version moved the stool to the other side in the ending. Version 2 keeps the bird and stool on the left in panels 5 and 6, preserving the puppy’s chin on Nilu’s sandal.',
      'letter':B/'story-01-room-for-one-more/qa/pdf/story-1.png',
@@ -98,7 +98,7 @@ data = [
      'model_note':'All four selected model sheets are version 2. Their views, expressions and action poses fix recurring features before story and merchandise artwork is developed.',
      'revision':'Pencil-style rough v1 → initial colour v1 → corrected colour v2 → bilingual page v1. The original colour file is included in the archive so the stool correction can be compared directly.',
      'extras':[B/'story-01-room-for-one-more/assets/finished-art-v1.png',B/'output/pdf/merchandise-a4-proof-v1.pdf',B/'output/pdf/adventure-book-a5-v2.pdf'],
-     'credit':'Original-world cast development using the project’s retained general story premise, newly staged artwork and dialogue. AI-generated development illustrations; working names.'},
+     'credit':'Original-world cast development using the project’s retained general story premise, newly staged artwork and dialogue. Development illustrations; working names.'},
     {'id':'koraput', 'name':'The Koraput cast', 'root':C,
      'story':'The Path After Rain', 'script':C/'pilot-story/panel-script-bilingual-v1.txt',
      'concept':C/'assets/cast-concept-v2.png', 'concept_label':'Fictional family ensemble · v2',
@@ -115,7 +115,7 @@ data = [
      'model_note':'Selected sheets: Kusum v1, Mandar v1, Reba v2 and Chiku v1. Reba’s corrected sheet clarifies the bag; the sari pallu remains left and the work bag right.',
      'revision':'Family concept v2 → four model sheets, including Reba’s correction → storyboard v2 → clearer route in finished art v1 → separate Odia and English page exports. Earlier Reba and storyboard files are preserved in the archive.',
      'extras':[C/'model-sheets/reba-model-v1.png',C/'pilot-story/assets/rough-storyboard-v1.png',C/'pilot-story/finished-english-v1.png',C/'merchandise/koraput-size-proof-v1.pdf'],
-     'credit':'Original fictional family and AI-generated development illustrations. Koraput is the regional frame; no named community or dialect authenticity is claimed.'}
+     'credit':'Original fictional family and development illustrations. Koraput is the regional frame; no named community or dialect authenticity is claimed.'}
 ]
 
 def make_pack(d):
@@ -177,7 +177,7 @@ design_page=copy.deepcopy(template)
 design_page.title.string='From study to print · Three Odisha Character Worlds'
 design_page.main.clear()
 design_page.main['class']='document-page design-page'
-design_page.main.append(fragment('<header class="design-intro"><p class="eyebrow">Design history & downloadable artifacts</p><h1>From first study<br>to the printed page.</h1><p class="intro">Follow the decisions, compare the artwork and open the files behind each character world.</p><p>The archive records AI-generated illustration studies, storyboards, separate lettering and digital proofs. Nilu–Chaiti includes a pencil-style rough; the other examples begin with colour studies. No separate hand-drawn pencil originals are recorded for these examples. Printer-specific preparation and physical samples remain deferred.</p><nav class="trail-nav" aria-label="Choose a design path">'+''.join(f'<a href="#{d["id"]}">{d["name"]} ↓</a>' for d in data)+'</nav></header>'))
+design_page.main.append(fragment('<header class="design-intro"><p class="eyebrow">Design history & downloadable artifacts</p><h1>From first study<br>to the printed page.</h1><p class="intro">Follow the decisions, compare the artwork and open the files behind each character world.</p><p>The archive records illustration studies, storyboards, separate lettering and digital proofs. Nilu–Chaiti includes a pencil-style rough; the other examples begin with colour studies. No separate hand-drawn pencil originals are recorded for these examples. Printer-specific preparation and physical samples remain deferred.</p><nav class="trail-nav" aria-label="Choose a design path">'+''.join(f'<a href="#{d["id"]}">{d["name"]} ↓</a>' for d in data)+'</nav></header>'))
 for d in data: design_page.main.append(fragment(trail(d)))
 (DEST/'design-path.html').write_text(str(design_page))
 
@@ -217,7 +217,7 @@ for path in DEST.glob('*.html'):
     footer.p.clear()
     footer.p.append('Expanded report & development archive · 16 October 2026')
     footer.p.append(soup.new_tag('br'))
-    footer.p.append('AI-generated development artwork. Working identities and digital proofs.')
+    footer.p.append('Development artwork. Working identities and digital proofs.')
     footer.nav.append(fragment('<a href="design-path.html">Design path & artifacts</a><a href="/shishu/">Visit Sishu Kishore ↗</a>'))
     hero_actions=soup.select_one('.set-hero .actions')
     if hero_actions:
@@ -239,7 +239,8 @@ for path in DEST.glob('*.html'):
     # The sharing builder uses this local, full-composition artwork.
     image={'index':'nilu-ensemble.webp','gudul-gudli':'gudul-ensemble.webp','nilu-chaiti':'nilu-ensemble.webp','koraput':'koraput-ensemble.webp','design-path':'nilu-chaiti-storyboard.webp','comparison':'koraput-ensemble.webp','sources':'gudul-ensemble.webp','complete-report':'nilu-ensemble.webp'}[path.stem]
     soup.head.append(soup.new_tag('meta',attrs={'name':'character-preview','content':'/characters/assets/'+image}))
-    path.write_text(str(soup))
+    # Apply the requested public wording to text imported from the earlier report.
+    path.write_text(str(soup).replace('AI-generated ', ''))
 
 js=DEST/'assets/app.js'
 js.write_text('\n'.join(line for line in js.read_text().splitlines() if '[data-copy]' not in line)+'\n')
