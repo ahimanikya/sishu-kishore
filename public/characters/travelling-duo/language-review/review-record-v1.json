@@ -1,0 +1,16 @@
+{
+  "source_sha256": "fbefe0e340b06e6bffbc0892e3d6ad823d8f0e8132ccbd47021f0246c6b91ef2",
+  "paired_entries": 15,
+  "sourceText": "New Odia script written for this project; English companion prepared against every line.",
+  "checks": [
+    "All six actions and dialogue turns agree across languages.",
+    "Kaka's uncertainty remains explicit; audience endings are clearly invented.",
+    "Two listener endings, one unresolved original ending.",
+    "Uncle/nephew relationship and the final joke retained.",
+    "No traditional tale or named author's text copied."
+  ],
+  "independentReviewer": null,
+  "openPoints": [
+    "Fluent-reader check of the longer scarecrow line and colloquial ସେଇଆ before any print edition."
+  ]
+}

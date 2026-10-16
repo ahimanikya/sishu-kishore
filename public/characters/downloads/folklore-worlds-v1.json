@@ -1,0 +1,149 @@
+[
+  {
+    "id": "batare-katha",
+    "folder": "travelling-duo",
+    "number": "04",
+    "name": "Stories Along the Way",
+    "odia": "ବାଟରେ କଥା",
+    "names": "Benu & Madhab Kaka",
+    "short": "Batare Katha",
+    "theme": "Questions, journeys and shared stories",
+    "basis": "Original cast inspired by the Abolakara question-and-story tradition.",
+    "summary": "Benu always has another question. His storytelling uncle Madhab has a story for almost everything—and is learning to admit when he does not know. Their short journeys bring curiosity, humour and mutual discovery.",
+    "setting": "A fictional contemporary Odisha town and neighbouring villages; no exact district is assigned.",
+    "relationship": "An eleven-year-old nephew and his fifty-two-year-old paternal uncle, a former library assistant.",
+    "palette": "Leaf green, warm brown, cream, dusty indigo and muted brick red.",
+    "pilot": "The Two Endings",
+    "colour": "green",
+    "characters": [
+      {
+        "name": "Benu",
+        "odia": "ବେଣୁ",
+        "age": "11",
+        "role": "The questioner",
+        "model": "benu-model-v2.png",
+        "fields": {
+          "Role": "the questioner; Madhab's nephew.",
+          "Wants": "to be included in the grown-ups' conversation and trusted to find an answer himself.",
+          "Strength": "notices contradictions between an explanation and what is actually in front of him. Remembers a small detail that everyone else has skipped.",
+          "Flaw": "wants the answer so quickly that he interrupts the person who could help. Sometimes enjoys catching somebody out more than understanding them.",
+          "Vulnerability": "hides embarrassment behind one more question.",
+          "Growth": "learns to ask with care, listen to the whole answer and accept that some questions need time. His curiosity stays intact.",
+          "Humour": "takes a sweeping statement literally, then discovers that his own neat explanation has an equally inconvenient exception.",
+          "Habit": "starts a question with one raised finger, then raises another because he has thought of a second question before the first has been answered.",
+          "Voice": "quick, direct and specific. He can apologise without losing his spark.",
+          "Visual proposal": "compact, wiry silhouette; rounded triangular face; short side-swept hair with a small stubborn tuft; expressive eyebrows; simple loose shirt, knee-length shorts and sandals. A small notebook fits in his pocket.",
+          "Future palette proposal": "leaf green and warm brown, with a small ochre accent.",
+          "Avoid": "making every expression a knowing smirk; glasses and red kurta would also make him too close to the existing listener design."
+        }
+      },
+      {
+        "name": "Madhab Kaka",
+        "odia": "ମାଧବ କକା",
+        "age": "52",
+        "role": "The storyteller",
+        "model": "madhab-model-v1.png",
+        "fields": {
+          "Role": "storyteller, former library assistant, and Benu's father's younger brother. His occupation and family relationship are creative proposals.",
+          "Wants": "to keep the pleasure of shared storytelling alive and make his nephew feel welcome in it.",
+          "Strength": "remembers people, listens kindly and can make a crowded courtyard fall quiet at just the right moment in a story.",
+          "Flaw": "reaches for a familiar story before checking whether it fits the real situation. Occasionally pretends he remembers an ending better than he does.",
+          "Vulnerability": "worries that an admission of uncertainty will disappoint his listeners; Benu helps him discover that it can invite them in.",
+          "Growth": "becomes comfortable saying, \"I don't know yet. Let's find out.\"",
+          "Humour": "theatrical pauses, a dry reply, and the moment his own grand gesture is interrupted by an ordinary inconvenience.",
+          "Habit": "taps a folded umbrella lightly against his sandal while considering an answer; he never uses it to threaten or discipline the child.",
+          "Voice": "warm, measured and playful, capable of a short unadorned admission.",
+          "Visual proposal": "tall, long-limbed and upright; broad friendly nose; short salt-and-pepper hair and a small moustache. Rolled-sleeve cotton kurta, simply wrapped dhoti and practical sandals. Folded umbrella and cloth book bag.",
+          "Future palette proposal": "undyed cream, dusty indigo and muted brick red.",
+          "Avoid": "a guru costume, a ritual identity inferred from clothing, an all-knowing expression or a frail stoop. His clothes are proposed everyday choices."
+        }
+      }
+    ],
+    "source": "Abolakara supplies the broad relationship between a questioning companion and a storyteller. These names, family relationship, contemporary setting, appearances and scripts are new project work. No particular Manoj Das or Mohanty story is being relabelled.",
+    "revision": "The first pencil concept established the duo. The colour pass added mature grey temples and smile lines to Madhab. Benu model v2 removed a duplicated notebook in the writing pose. The six-panel rough became finished colour art; separate lettering and precise panel framing produced the Odia and English reading pages."
+  },
+  {
+    "id": "chhota-karigara",
+    "folder": "young-makers",
+    "number": "05",
+    "name": "The Young Makers",
+    "odia": "ଛୋଟ କାରିଗର",
+    "names": "Tara, Dinu Mamu & Kanu",
+    "short": "Young makers",
+    "theme": "Make, test, notice and try again",
+    "basis": "Original workshop cast inspired by Dharmapada’s young-maker theme.",
+    "summary": "Tara sees what a thing could become. Kanu tests what it actually does. Tara’s artisan uncle Dinu brings experience, patience and the occasional habit of helping too quickly. Their workshop adventures turn mistakes into shared discoveries.",
+    "setting": "A fictional contemporary settlement near Konark; the workshop is not a reconstruction of the temple’s construction.",
+    "relationship": "Twelve-year-old Tara, her thirty-nine-year-old maternal uncle Dinu, and ten-year-old neighbour Kanu.",
+    "palette": "Mustard and charcoal for Tara; faded blue and stone grey for Dinu; rust checks and muted blue for Kanu.",
+    "pilot": "The Wobbly Wheel",
+    "colour": "rust",
+    "characters": [
+      {
+        "name": "Tara",
+        "odia": "ତାରା",
+        "age": "12",
+        "role": "The maker",
+        "model": "tara-model-v1.png",
+        "fields": {
+          "Role": "the young maker; Dinu's niece and Kanu's friend.",
+          "Wants": "to make something useful enough for someone else to depend on.",
+          "Strength": "thinks in shapes, notices alignment and can explain an idea with a quick drawing or model.",
+          "Flaw": "becomes attached to a beautiful first version and skips the dull test that could reveal its weakness.",
+          "Vulnerability": "mistakes a failed prototype for evidence that she has no talent.",
+          "Growth": "learns that showing an unfinished attempt is part of working well.",
+          "Humour": "has an exact drawing for everything except where she left the pencil.",
+          "Habit": "turns an object slowly in her hands before deciding what is wrong.",
+          "Voice": "precise when describing shapes, impatient when defending an idea, warmly excited when somebody notices an improvement she has made.",
+          "Visual proposal": "tall, angular child silhouette; short practical bob tucked behind one ear; plain kurta, straight trousers and sandals. Soft cloth apron at the worktable only. The apron and drawing board create a recognisable pose.",
+          "Future palette proposal": "muted mustard, charcoal and clay red.",
+          "Avoid": "magical genius who never practises, miniature royal costume, or a costume presented as a verified historical artisan's garment."
+        }
+      },
+      {
+        "name": "Dinu Mamu",
+        "odia": "ଦିନୁ ମାମୁ",
+        "age": "39",
+        "role": "The mentor",
+        "model": "dinu-model-v1.png",
+        "fields": {
+          "Role": "Tara's mother's younger brother; a sculptor with a small workshop who also enjoys making simple models. This occupation and family are invented.",
+          "Wants": "to do dependable work and help the children enjoy the patience behind it.",
+          "Strength": "understands materials, spots where a test went wrong and can turn a complicated process into a manageable demonstration.",
+          "Flaw": "sometimes solves the problem for the children before they can try.",
+          "Vulnerability": "wants to protect them from disappointment because he remembers his own difficult early attempts.",
+          "Growth": "learns when to offer a question, when to wait and when to step in.",
+          "Humour": "gives a long explanation and then finds that Kanu has demonstrated the same point with a bottle cap and two scraps of paper.",
+          "Habit": "checks a surface with his palm, then looks again from another angle.",
+          "Voice": "practical and patient, with room for surprise and self-correction.",
+          "Visual proposal": "sturdy, grounded silhouette; wavy short hair and a modest moustache; cotton work shirt, loose trousers, sandals and a cloth at his waist.",
+          "Future palette proposal": "faded blue, stone grey and warm cream.",
+          "Avoid": "making him a sacred authority or only a dispenser of advice. His own work, deadlines and mistakes remain visible."
+        }
+      },
+      {
+        "name": "Kanu",
+        "odia": "କାନୁ",
+        "age": "10",
+        "role": "The tester",
+        "model": "kanu-model-v1.png",
+        "fields": {
+          "Role": "neighbour and friend; the tester who asks what happens in actual use.",
+          "Wants": "a useful part in the project, even when drawing is not his strength.",
+          "Strength": "notices wobble, weight, reach and other practical details. Can repeat a test in the same way and remember what changed.",
+          "Flaw": "calls an entire idea useless after its first spectacular failure.",
+          "Vulnerability": "worries that the maker gets the credit while the tester is only the person who is allowed to break things.",
+          "Growth": "learns to describe a failure precisely and recognise what already works.",
+          "Humour": "supplies an unexpected but practical test that punctures a grand claim.",
+          "Habit": "crouches to bring his eyes level with a wheel or work surface.",
+          "Voice": "short, concrete observations; pleasure in a well-timed sound effect.",
+          "Visual proposal": "shorter, rounder silhouette than Tara; cropped hair; small checked shirt, rolled trousers and sandals. A paper measurement strip can serve the pilot; do not give him a permanent heap of unrelated gadgets.",
+          "Future palette proposal": "rust red and cream, with muted blue.",
+          "Avoid": "comic fool, destructive sidekick or a child who exists only to praise Tara."
+        }
+      }
+    ],
+    "source": "Dharmapada is a traditional legendary reference for youthful craft and insight. Tara, Dinu and Kanu have their own contemporary lives and original plots. They do not depict Dharmapada or Bisu Maharana, and this series does not rewrite the legend’s ending.",
+    "revision": "The pencil concept established three silhouettes and the workshop relationship. The colour pass simplified Tara’s kurta and Dinu’s waist cloth. Three individual model sheets fixed views, expressions and actions before the wheel story was staged and lettered."
+  }
+]

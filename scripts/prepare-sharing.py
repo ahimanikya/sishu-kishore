@@ -40,7 +40,7 @@ def select_image(soup, path):
     character_preview=soup.select_one('meta[name="character-preview"]')
     if character_preview:
         src=character_preview.get('content','')
-        if src.startswith('/characters/assets/') and (ROOT/src.lstrip('/')).is_file():
+        if src.startswith(('/characters/assets/', '/characters/travelling-duo/', '/characters/young-makers/')) and (ROOT/src.lstrip('/')).is_file():
             return src
     if '/writers/' in str(path):
         candidates=soup.select('main img[src*="portraits/"]')

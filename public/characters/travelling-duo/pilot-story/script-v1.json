@@ -1,0 +1,200 @@
+{
+  "id": "two-endings",
+  "version": 1,
+  "date": "2026-10-17",
+  "world": "travelling-duo",
+  "title": {
+    "or": "ଦୁଇଟି ଶେଷ",
+    "en": "The Two Endings"
+  },
+  "sourceLanguage": "or",
+  "status": "Complete digital first-edition script; same-assistant bilingual review; independent fluent-reader review pending.",
+  "cast": [
+    {
+      "id": "madhab",
+      "or": "ମାଧବ କକା",
+      "en": "Madhab Kaka"
+    },
+    {
+      "id": "benu",
+      "or": "ବେଣୁ",
+      "en": "Benu"
+    },
+    {
+      "id": "girl",
+      "or": "ଝିଅଟି",
+      "en": "Girl"
+    },
+    {
+      "id": "boy",
+      "or": "ପୁଅଟି",
+      "en": "Boy"
+    }
+  ],
+  "panels": [
+    {
+      "n": 1,
+      "action": "Village courtyard, one leafy tree, plain low bench. Madhab sits on the right reading a brown borrowed book. Benu sits close on the left. Two younger listeners on the mat: girl with one braid and ochre dress, boy with blue shirt. Bag and closed umbrella rest beside the bench. Establish the four people and simple setting.",
+      "caption": {
+        "or": "ରବିବାର ଅପରାହ୍ଣ। ଗାଁର ଅଗଣାରେ ଗପ ଆସର।",
+        "en": "Sunday afternoon. A story gathering in the village courtyard."
+      },
+      "dialogue": [
+        {
+          "speaker": "madhab",
+          "or": "ମାଳୀ ତା’ର ହଜିଥିବା ଟୋପି ଖୋଜିବାକୁ ବାହାରିଲା…",
+          "en": "The gardener set off to find his missing hat…"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "action": "Closer view of Madhab on right and Benu left. The brown book is open near its back cover, with a visible torn final-page stub. Madhab looks surprised. Benu leans in, curious. No literal words inside the drawn book.",
+      "dialogue": [
+        {
+          "speaker": "madhab",
+          "or": "ଆରେ! ଶେଷ ପୃଷ୍ଠାଟା ନାହିଁ!",
+          "en": "Oh! The last page is missing!"
+        },
+        {
+          "speaker": "benu",
+          "or": "ତା’ପରେ କ’ଣ ହେଲା?",
+          "en": "What happened next?"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "action": "Same bench. Madhab offers a tentative open-hand gesture; Benu raises one questioning finger. Madhab's face is sheepish and honest, not superior. The missing-page book remains visible.",
+      "dialogue": [
+        {
+          "speaker": "madhab",
+          "or": "ବୋଧହୁଏ ଟୋପିଟା ଗଛରେ…",
+          "en": "Perhaps the hat was in a tree…"
+        },
+        {
+          "speaker": "benu",
+          "or": "ବହିରେ ସେଇଆ ଲେଖା ଅଛି?",
+          "en": "Is that what the book says?"
+        },
+        {
+          "speaker": "madhab",
+          "or": "ନା, ମୋର ମନେ ନାହିଁ। ଏଇଟା ମୋ ଅନୁମାନ।",
+          "en": "No. I can’t remember. I’m guessing."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "action": "Focus on the two listeners on the mat; each proposes an ending with excited hands. Above the girl, a small cloud-shaped imagined scene shows a bird nesting in a straw hat. Above the boy, a separate cloud-shaped imagined scene shows a straw hat on a scarecrow. These are imaginary, not events happening in the courtyard. Kaka's inviting hand can enter at edge; no written words.",
+      "dialogue": [
+        {
+          "speaker": "madhab",
+          "or": "ତୁମେ ହେଲେ ଗପଟା କେମିତି ସାରିବ?",
+          "en": "How would you end the story?"
+        },
+        {
+          "speaker": "girl",
+          "or": "ଟୋପି ଭିତରେ ଚଢ଼େଇ ବସା କରିଥିଲା!",
+          "en": "A bird had made a nest in the hat!"
+        },
+        {
+          "speaker": "boy",
+          "or": "ମୋ ଗପରେ ପବନ ଟୋପିଟା ନେଇ କାକତାଡ଼ୁଆକୁ ପିନ୍ଧାଇଦେଲା!",
+          "en": "In mine, the wind blew it onto a scarecrow!"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "action": "Benu writes in his one cream notebook; his shirt pocket is now empty. Kaka watches warmly with the borrowed brown book in his lap. The two younger listeners look pleased. Book and notebook are clearly distinct. Both invented endings are being recorded, not passed off as the missing original.",
+      "dialogue": [
+        {
+          "speaker": "benu",
+          "or": "ଏ ଦୁଇଟା ଆମ ଶେଷ। ବହିର ଶେଷଟା ତ ଏବେ ବି ଜଣାନାହିଁ!",
+          "en": "These are our two endings. We still don’t know the book’s!"
+        },
+        {
+          "speaker": "madhab",
+          "or": "ଯାହାଙ୍କଠୁ ବହି ଆଣିଛି, ତାଙ୍କୁ ପଚାରିବା।",
+          "en": "We’ll ask the person who lent me the book."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "action": "Wide final scene of Benu and Madhab leaving the courtyard together. Madhab carries the red bag at his left hip and folded blue umbrella in his right hand. Benu holds his open notebook, empty shirt pocket, grinning up at his uncle. Both walk at ease; same warm afternoon light.",
+      "dialogue": [
+        {
+          "speaker": "madhab",
+          "or": "ଆଜି ଗପଟା ଟିକେ ଲମ୍ବା ହୋଇଗଲା!",
+          "en": "Our story grew a little today!"
+        },
+        {
+          "speaker": "benu",
+          "or": "ମୋ ପ୍ରଶ୍ନର ତାଲିକା ବି!",
+          "en": "So did my list of questions!"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "sourceText": "New Odia script written for this project; English companion prepared against every line.",
+    "checks": [
+      "All six actions and dialogue turns agree across languages.",
+      "Kaka's uncertainty remains explicit; audience endings are clearly invented.",
+      "Two listener endings, one unresolved original ending.",
+      "Uncle/nephew relationship and the final joke retained.",
+      "No traditional tale or named author's text copied."
+    ],
+    "independentReviewer": null,
+    "openPoints": [
+      "Fluent-reader check of the longer scarecrow line and colloquial ସେଇଆ before any print edition."
+    ]
+  },
+  "artGeometry": {
+    "sheet": [
+      1024,
+      1536
+    ],
+    "crops": [
+      [
+        8,
+        8,
+        497,
+        489
+      ],
+      [
+        523,
+        8,
+        493,
+        489
+      ],
+      [
+        8,
+        515,
+        497,
+        487
+      ],
+      [
+        523,
+        515,
+        493,
+        487
+      ],
+      [
+        8,
+        1023,
+        497,
+        503
+      ],
+      [
+        523,
+        1023,
+        493,
+        503
+      ]
+    ],
+    "note": "CSS viewport extraction inside panel borders; original images unchanged."
+  }
+}
