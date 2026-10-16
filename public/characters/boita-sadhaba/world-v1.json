@@ -1,0 +1,101 @@
+{
+  "id": "boita-sadhaba",
+  "name": {
+    "or": "ବୋଇତର ସାଥୀ",
+    "en": "The Boita Crew"
+  },
+  "subtitle": {
+    "or": "ସାଧବ ପରିବାର ଓ ଓଡ଼ିଶାର ନୌବାଣିଜ୍ୟର ସ୍ମୃତି",
+    "en": "A Sadhaba family and Odisha’s maritime memory"
+  },
+  "setting": {
+    "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କଳ୍ପିତ ନଦୀବନ୍ଦର। ନିର୍ଦ୍ଦିଷ୍ଟ ବର୍ଷ ବା ବନ୍ଦରର ଅବିକଳ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+    "en": "A fictional river port in preindustrial coastal Odisha. No exact year or reconstruction of a particular port is claimed."
+  },
+  "characters": [
+    {
+      "id": "malati",
+      "name": {
+        "or": "ମାଳତୀ",
+        "en": "Malati"
+      },
+      "age": 12,
+      "role": {
+        "or": "ସୂକ୍ଷ୍ମ କଥା ଦେଖୁଥିବା ଝିଅ",
+        "en": "The attentive daughter"
+      },
+      "description": {
+        "or": "ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ବଡ଼ମାନଙ୍କ କାମରେ ନିଜର ଭାଗ ଚାହେଁ। ଛୋଟ ତ୍ରୁଟି ତା’ ଆଖିରୁ ଖସେନି; କେବେକେବେ କିନ୍ତୁ ସବୁ ନଜାଣି ଉତ୍ତର ଦେଇଦିଏ। ପଚାରିବା, ପରଖିବା ଓ ଦାୟିତ୍ୱ ନେବା ଶିଖୁଛି।",
+        "en": "Hema and Raghu’s daughter wants a real part in the adults’ work. She notices small mistakes, but sometimes answers before she understands the whole task. She is learning to ask, test and take responsibility."
+      },
+      "dress": {
+        "or": "ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, ଧଳା ଜାମା ଓ ସରୁ ହଳଦିଆ ଓଢ଼ଣି। ପୋଷାକର ପାଢ଼ିରେ ସଂଯତ ବୁଣା ନକ୍ସା।",
+        "en": "A long braid, rust-red wrap skirt, cream blouse and narrow ochre shoulder cloth, with restrained woven borders."
+      }
+    },
+    {
+      "id": "hema",
+      "name": {
+        "or": "ହେମା",
+        "en": "Hema"
+      },
+      "age": 40,
+      "role": {
+        "or": "କପଡ଼ା ବେପାର ଓ ପ୍ରସ୍ତୁତିର ଦାୟିତ୍ୱ",
+        "en": "The textile trader and organiser"
+      },
+      "description": {
+        "or": "କପଡ଼ାର ମାନ, ପୁଟୁଳି ଓ ହିସାବ ସେ ଦେଖନ୍ତି। ତାଙ୍କ କାମ କେବଳ ବିଦାୟ ଦେବା ନୁହେଁ; ଯାତ୍ରାର ପ୍ରସ୍ତୁତିରେ ତାଙ୍କର ସମାନ ଭାଗ। କାମ ଶୀଘ୍ର ସାରିବାକୁ ଯାଇ ମାଳତୀର ପ୍ରଶ୍ନ ଆଗରୁ ନିଜେ ଉତ୍ତର ଦେଇଦିଅନ୍ତି। ଏବେ ଝିଅକୁ ସମୟ ଦେବା ଶିଖୁଛନ୍ତି।",
+        "en": "She checks textile quality, bundles and accounts. Her contribution includes organising the voyage as well as the farewell. In a hurry, she can answer Malati’s questions for her; she is learning to leave room for her daughter to work things out."
+      },
+      "dress": {
+        "or": "ନୀଳ ସୂତା ଶାଢ଼ିରେ ଲାଲ ଓ ଧଳା ପାଢ଼ି, ସାଧା ଲାଲ ଜାମା, ନିମ୍ନ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର।",
+        "en": "An indigo cotton sari with red and cream borders, a plain red blouse, a low bun and modest jewellery."
+      }
+    },
+    {
+      "id": "raghu",
+      "name": {
+        "or": "ରଘୁ ସାଧବ",
+        "en": "Raghu Sadhaba"
+      },
+      "age": 44,
+      "role": {
+        "or": "ସମୁଦ୍ରପଥର ବଣିକ",
+        "en": "The merchant voyager"
+      },
+      "description": {
+        "or": "ଦୂର ଦେଶକୁ କପଡ଼ା ନେଇ ଯାଆନ୍ତି, ଫେରନ୍ତି ନୂଆ ଅନୁଭବ ଓ କାହାଣୀ ନେଇ। ଲୋକଙ୍କ ସହ ସହଜରେ ମିଶନ୍ତି। ଯାତ୍ରାର ଉତ୍ସାହରେ ଛୋଟ ପ୍ରସ୍ତୁତିକୁ ଅଣଦେଖା କରିପାରନ୍ତି; ସାଥୀମାନଙ୍କ ମତ ଶୁଣିବା ତାଙ୍କ ବିକାଶର ଅଂଶ।",
+        "en": "He carries textiles to distant places and returns with experiences and stories. He connects easily with people, but excitement about departure can make him overlook a small preparation. Listening to his companions is part of his growth."
+      },
+      "dress": {
+        "or": "ଧଳା ପାଢ଼ିଆ ଧୋତି, ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ, ଛୋଟ ନିଶ ଓ ସରଳ ଭାବେ ବନ୍ଧା ଚୁଟି। ରାଜମୁକୁଟ ବା ରାଜପୋଷାକ ନାହିଁ।",
+        "en": "A cream bordered dhoti, deep red uttariya, small moustache and simply tied hair; no royal costume."
+      }
+    },
+    {
+      "id": "hari",
+      "name": {
+        "or": "ହରି ନାଉରି",
+        "en": "Hari Nauri"
+      },
+      "age": 50,
+      "role": {
+        "or": "ଅଭିଜ୍ଞ ନାବିକ",
+        "en": "The experienced boatman"
+      },
+      "description": {
+        "or": "ବୋଇତ, ଦଉଡ଼ି ଓ ମାଲ ସଜାଇବାର କାମ ତାଙ୍କୁ ଭଲ ଜଣା। କମ୍ କହନ୍ତି, କାମ କରି ଦେଖାନ୍ତି। ଅନ୍ୟମାନେ ତାଙ୍କ ପରି ଜାଣନ୍ତି ବୋଲି କେବେକେବେ ଧରିନିଅନ୍ତି। ମାଳତୀର ପ୍ରଶ୍ନ ତାଙ୍କୁ ସ୍ପଷ୍ଟ କରି ବୁଝାଇବାର ସୁଯୋଗ ଦିଏ। ସେ ସମ୍ମାନିତ ସହକର୍ମୀ।",
+        "en": "He knows the vessel, ropes and cargo handling. He says little and demonstrates through work, sometimes assuming others know as much as he does. Malati’s questions give him a reason to explain clearly. He is a respected colleague."
+      },
+      "dress": {
+        "or": "କାମ ପାଇଁ ଛୋଟ କରି ପିନ୍ଧା ନୀଳ ଧୋତି, ଲାଲଧଳା ଗାମୁଛା, କାନ୍ଧରେ ସାଧା କପଡ଼ା ଓ ପାଚିଆ ଛୋଟ ଚୁଟି।",
+        "en": "A short indigo working dhoti, red-and-cream checked gamucha, plain shoulder cloth and short greying hair."
+      }
+    }
+  ],
+  "review": {
+    "or": "ଚରିତ୍ର ଓ କାହାଣୀ ନୂଆ ସୃଷ୍ଟି। ନୌବାଣିଜ୍ୟର ଐତିହ୍ୟ ଗବେଷଣାର ଭିତ୍ତି; ପୋଷାକ ଓ ବୋଇତର ଚିତ୍ର କଳ୍ପନାମୂଳକ ବ୍ୟାଖ୍ୟା। ସ୍ୱତନ୍ତ୍ର ଭାଷା ଓ ସାଂସ୍କୃତିକ ସମୀକ୍ଷା ବାକି।",
+    "en": "The characters and story are new fiction. Maritime heritage supplies the researched context; dress and vessel are interpretive designs. Independent language and cultural review remain pending."
+  }
+}
