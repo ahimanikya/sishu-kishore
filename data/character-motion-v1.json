@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "studies": [
+    {
+      "id": "koeli-listening-motion-v1",
+      "script": "koeli-little-sound",
+      "world": "koeli",
+      "duration": 8,
+      "archive": "koeli-films/motion-v1",
+      "page": "/characters/films/koeli-little-sound/motion-v1.html",
+      "title": {
+        "or": "ସେଇ ଛୋଟ ଶବ୍ଦ · ଚଳନର ନମୁନା",
+        "en": "That Little Sound · Motion study"
+      },
+      "intro": {
+        "or": "ଆଠ ସେକେଣ୍ଡର ଛୋଟ ପରୀକ୍ଷା। କୋଇଲି ମୁଣ୍ଡ ଢଳାଇ ଶୁଣେ। ଦୁଇଟି ପାଣି ଠୋପା ପଡ଼ିଲେ ପତ୍ର ଅଳ୍ପ ତଳକୁ ଯାଇ ଫେରେ।",
+        "en": "An eight-second test. Koeli tilts its head to listen. The leaf dips and settles as two water drops land."
+      },
+      "boundary": {
+        "or": "ଏହା ଚଳନ ଓ ଧ୍ୱନିର ପ୍ରଥମ ନମୁନା। ପୂରା ୪୮ ସେକେଣ୍ଡର ଗପ ଓ କଣ୍ଠ ଅଭିନୟ ବାକି।",
+        "en": "This is a first motion and sound study. The full 48-second story and voice performance remain ahead."
+      },
+      "description": {
+        "or": "ଡାଳରେ କୋଇଲିର ପାଦ ସ୍ଥିର। ମୁଣ୍ଡ ତଳକୁ ଢଳେ। ଉପର ଡାଳରୁ ପଡ଼ୁଥିବା ଠୋପା ତଳ ପତ୍ରକୁ ଛୁଏଁ। ଛୋଟ ଟପ୍ ଶବ୍ଦ ସହ ପତ୍ର ହଲେ।",
+        "en": "Koeli’s feet stay on the perch as its head tilts down. A drop from the upper twig touches the lower leaf. The leaf moves with a small tapping sound."
+      },
+      "development": {
+        "or": "ପୂର୍ବ ରଙ୍ଗୀନ ଦୃଶ୍ୟରୁ ପଛ ଦୃଶ୍ୟ ଓ ଅଲଗା ଚିତ୍ରଖଣ୍ଡ ପ୍ରସ୍ତୁତ ହେଲା। ଦେହ ଓ ପାଦ ସ୍ଥିର ରଖି ମୁଣ୍ଡକୁ ହଲାଗଲା। ପତ୍ର ନିଜ ଡେମ୍ଫରେ ହଲେ। ଧ୍ୱନି ଏହି ପରୀକ୍ଷା ପାଇଁ ତିଆରି; ପ୍ରକୃତିରୁ ରେକର୍ଡ ହୋଇନାହିଁ।",
+        "en": "The colour storyboard became a background plate and separate painted parts. The head moves while the body and feet stay fixed. The leaf pivots at its stem. The sound was synthesized for this study; it was not recorded outdoors."
+      },
+      "remaining": {
+        "or": "ପୂରା ଅଭିନୟ, ଥଣ୍ଟର ଚଳନ, ଓଡ଼ିଆ କଣ୍ଠ, ଶେଷ ଧ୍ୱନି ମିଶ୍ରଣ ଓ ସଂଳାପ ସହ ଉପଶୀର୍ଷକର ମେଳ ପରବର୍ତ୍ତୀ କାମ।",
+        "en": "Next come the full performance, bill movement, Odia voice, final sound mix and captions synchronized with dialogue."
+      },
+      "video": "koeli-listening-motion-v1.mp4",
+      "poster": "proof/frame-0.00.png",
+      "captions": {
+        "or": "captions-or-v1.vtt",
+        "en": "captions-en-v1.vtt"
+      },
+      "packFiles": [
+        "READ-ME.txt",
+        "background-v1.png",
+        "rig-v1.png",
+        "rig-v2.png",
+        "background-prompt-v1.txt",
+        "rig-prompt-v1.txt",
+        "rig-prompt-v2.txt",
+        "render-motion-v1.mjs",
+        "create-sound-study-v1.py",
+        "sound-study-v1.wav",
+        "sound-study-review-v1.json",
+        "koeli-listening-motion-v1.mp4",
+        "captions-or-v1.vtt",
+        "captions-en-v1.vtt"
+      ]
+    }
+  ]
+}

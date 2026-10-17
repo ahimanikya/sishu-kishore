@@ -64,6 +64,7 @@ if (ARCHIVE/'koeli/colour-study-v1.png').exists():
         if not s.select_one('link[href="/characters/assets/voices.css"]'):
             node=s.new_tag('link',rel='stylesheet',href='/characters/assets/voices.css');s.head.append(node)
         path.write_text(str(s).rstrip()+'\n')
-runpy.run_path(str(ROOT/'scripts/character-voices-pages.py'),init_globals=globals())
+voice_globals=runpy.run_path(str(ROOT/'scripts/character-voices-pages.py'),init_globals=globals())
+runpy.run_path(str(ROOT/'scripts/character-motion-pages.py'),init_globals=voice_globals)
 runpy.run_path(str(ROOT/'scripts/apply-character-credit.py'),run_name='__main__')
 print('Prepared available heritage voices.')
