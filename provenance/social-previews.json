@@ -7350,6 +7350,12 @@
     "source": "/characters/films/reba-one-last-seam/pencil-storyboard-v1.png"
   },
   {
+    "page": "/characters/films/saanta-wrong-ending/index.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/films/saanta-wrong-ending/",
+    "image": "/social/209e04107b1c7fff.jpg",
+    "source": "/characters/films/saanta-wrong-ending/colour-storyboard-v1.png"
+  },
+  {
     "page": "/characters/gudul-gudli.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/gudul-gudli.html",
     "image": "/social/32c650c03d7b0555.jpg",
@@ -7384,6 +7390,24 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/regional-dress.html",
     "image": "/social/0beb9690ffdb0428.jpg",
     "source": "/characters/assets/koraput-natural-v2.png"
+  },
+  {
+    "page": "/characters/scripts/abolakara-knot-for-what.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/abolakara-knot-for-what.html",
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/abolakara-last-word.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/abolakara-last-word.html",
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/abolakara-two-handfuls.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/abolakara-two-handfuls.html",
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
   },
   {
     "page": "/characters/scripts/benu-eight-and-twelve.html",
@@ -7690,6 +7714,24 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/reba-patch-faces-in.html",
     "image": "/social/153f7e033d48538f.jpg",
     "source": "/characters/assets/koraput-character-3.webp"
+  },
+  {
+    "page": "/characters/scripts/saanta-start-again.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/saanta-start-again.html",
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/saanta-umbrella-in-sun.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/saanta-umbrella-in-sun.html",
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/saanta-wrong-ending.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/saanta-wrong-ending.html",
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
   },
   {
     "page": "/characters/scripts/tara-keep-the-first.html",

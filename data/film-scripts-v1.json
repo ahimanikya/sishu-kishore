@@ -7372,6 +7372,1018 @@
           ]
         }
       ]
+    },
+    {
+      "id": "abolakara-knot-for-what",
+      "world": "abolakara",
+      "focus": {
+        "id": "abolakara",
+        "name": {
+          "or": "ଅବୋଲକରା",
+          "en": "Abolakara"
+        },
+        "profile": "/characters/abolakara.html#character-1"
+      },
+      "title": {
+        "or": "ଗଣ୍ଠିଟା କାହିଁକି?",
+        "en": "What Was the Knot For?"
+      },
+      "duration": 58,
+      "premise": {
+        "or": "ପୁଟୁଳିର ଗଣ୍ଠି ଖୋଲୁଖୋଲୁ ଅବୋଲକରା ପଚାରେ, ଗଣ୍ଠି ସତରେ କଥା ମନେପକାଏ କି? ସାଆନ୍ତଙ୍କ ଗପରେ ଗଣ୍ଠିଠାରୁ ଆଉ ଜଣେ ଅଧିକ କାମରେ ଆସେ।",
+        "en": "Untying the bundle, Abolakara asks whether a knot really helps someone remember. In Saanta’s tale, someone proves more useful than the knot."
+      },
+      "setting": {
+        "or": "ଓଡ଼ିଆ ଲୋକକଥାର ଗାଁବାଟ ଓ ବାଟୋଇଙ୍କ ବିଶ୍ରାମ ସ୍ଥାନ। ଅବୋଲକରା ଓ ତାଙ୍କ ଜ୍ଞାନୀ ମାଲିକଙ୍କ ଚରିତ୍ର ପାରମ୍ପରିକ; ଏହି ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ଏହି ପ୍ରକଳ୍ପର ନୂଆ ରଚନା। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଲେଖକଙ୍କ ଗପର ଅନୁବାଦ ନୁହେଁ। ସାଆନ୍ତ ଏଠାରେ ସମ୍ବୋଧନ, ବ୍ୟକ୍ତିଗତ ନାମ ନୁହେଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀ, ଗାଁ, ଜାତି ବା ଅବୋଲକରାର ବୟସ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Village paths and travellers’ resting places in a folktale Odisha. Abolakara and his learned master are traditional figures; the events and dialogue of this episode are newly written for this project, not a translation of a particular author’s story. Saanta is a form of address here, not a personal name. No exact century, village, caste or age for Abolakara is assigned."
+      },
+      "performance": {
+        "or": "କୌତୂହଳ → ଗପର ଭୁଲ୍ ଅନୁମାନ → ଝିଅର ଭୂମିକା ଧରିବା → ନିଜର ନୂଆ ପ୍ରଶ୍ନ।",
+        "en": "Curiosity → guessing the wrong ending → noticing the daughter’s part → a fresh question of his own."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ ସହ ମେଳ: ଅବୋଲକରାର ସରୁ ଦେହ, ଅସଜଡ଼ା କେଶ, ସାଧା ହଳଦିଆ ଛୋଟ ହାତର ଜାମା, ଆଣ୍ଠୁ ପାଖେ ଖୋସା କ୍ରିମ୍ ଧୋତି, ଡାହାଣ କାନ୍ଧରେ ନୀଳ କପଡ଼ା ଓ ଚପଲ। ସାଆନ୍ତଙ୍କ ପାଚିଆ ପତଳା କେଶ, ଛୋଟ ନିଶ, କ୍ରିମ୍ ଜାମା, ଲମ୍ବା ଧୋତି ଓ ବାମ କାନ୍ଧରେ ସରୁ ଧାରର ଚାଦର। ବସିବାବେଳେ ଧୋତିର କୁଞ୍ଚ ବଦଳିବ; କାନ୍ଧର ପଟ ବଦଳିବନି। ଗୋଟିଏ ପୁଟୁଳି, ଗୋଟିଏ ଆସନ ଓ ଗୋଟିଏ ବାଉଁଶ ବେଣ୍ଟର ଛତା। ପୋଷାକ ଏହି ପ୍ରକଳ୍ପର ବ୍ୟାଖ୍ୟା; ନିର୍ଦ୍ଦିଷ୍ଟ କାଳର ପ୍ରମାଣିତ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+        "en": "Continue the earlier character study: lean, unruly-haired Abolakara in a plain ochre short-sleeved top, cream dhoti tucked near the knees, blue cloth over his anatomical right shoulder and sandals. Saanta has thinning grey hair, a small moustache, a cream short-sleeved top, long dhoti and a narrow-bordered cloth over his anatomical left shoulder. Seated folds change; shoulder sides do not. One bundle, one mat and one bamboo-handled umbrella. These are project interpretations, not authenticated reconstructions of a particular period."
+      },
+      "continuity": {
+        "or": "ଗପ ଭିତରର ହାଟ, ଲୋକ ଓ ଝିଅ କେବଳ କଥାରେ ଆସନ୍ତି। ଦୃଶ୍ୟ ଦୁଇ ପଥିକଙ୍କ ପାଖେ ରହେ। ପୁଟୁଳିର ଗଣ୍ଠି ଖୋଲିଗଲା ପରେ ପୁଣି ବନ୍ଧା ଦେଖାଯିବନି।",
+        "en": "The market, man and daughter are narrated, not shown. Stay with the two travellers. Once the bundle is untied, do not show it tied again."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/abolakara/assets/colour-cast-v1.png",
+      "preview": "/characters/abolakara/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଛାଇରେ ବସି ଅବୋଲକରା ପୁଟୁଳିର ଗଣ୍ଠି ଖୋଲେ। ସାଆନ୍ତ ତାକୁ ଚାହାନ୍ତି।",
+            "en": "Sitting in the shade, Abolakara unties the bundle. Saanta looks at him."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା ଓ ପତ୍ରର ଶବ୍ଦ।",
+            "en": "Cloth rustling and leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ସାଆନ୍ତେ, ଗଣ୍ଠି ଦେଖି ସତରେ କଥା ମନେପଡ଼େ?",
+                "en": "Saanta, does seeing a knot really help you remember?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସାଆନ୍ତ ଗପ ଧରନ୍ତି। ଅବୋଲକରା ଖୋଲା କପଡ଼ା ଉପରେ ହାତ ରଖି ଶୁଣେ।",
+            "en": "Saanta begins a tale. Abolakara rests his hands on the open cloth and listens."
+          },
+          "sound": {
+            "or": "କଥା ଛଡ଼ା ଶାନ୍ତି।",
+            "en": "Quiet beneath the speech."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଜଣେ ଲୋକ ଲୁଣ ଆଣିବାକୁ ଗାମୁଛାରେ ଗଣ୍ଠି ପକାଇଲା। ହାଟରେ ଗଣ୍ଠି ଦେଖିଲା, ହେଲେ କାହିଁକି ପକାଇଥିଲା ଭୁଲିଗଲା।",
+                "en": "A man knotted his gamucha to remember to buy salt. At the market he saw the knot, but forgot what it was for."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଅବୋଲକରା ଆଗକୁ ଝୁଙ୍କେ। ସାଆନ୍ତ ହାଲୁକା ମୁଣ୍ଡ ହଲାନ୍ତି।",
+            "en": "Abolakara leans forward. Saanta gives a small shake of his head."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ତାହେଲେ ଖାଲି ହାତରେ ଫେରିଲା?",
+                "en": "Then he came back empty-handed?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ନା। ଝିଅ ସାଙ୍ଗରେ ଥିଲା। ସେ କହିଲା, “ବାପା, ଲୁଣ!”",
+                "en": "No. His daughter was with him. She said, “Bapa, the salt!”"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଅବୋଲକରା ଗଣ୍ଠି ଖୋଲା ଦୁଇ ମୁଣ୍ଡକୁ ଚାହିଁ ହସେ। ସାଆନ୍ତ ମଧ୍ୟ ହସନ୍ତି।",
+            "en": "Abolakara looks at the two untied ends and smiles. Saanta smiles too."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ନରମ ହସ।",
+            "en": "A soft shared laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ତେବେ ଝିଅକୁ କହିରଖିଲେ ହେଉନଥିଲା?",
+                "en": "Then couldn’t he have just told his daughter?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ସେଦିନ ସେ ବି ସେଇଆ ଭାବିଥିବ!",
+                "en": "He probably thought so that day too!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abolakara-last-word",
+      "world": "abolakara",
+      "focus": {
+        "id": "abolakara",
+        "name": {
+          "or": "ଅବୋଲକରା",
+          "en": "Abolakara"
+        },
+        "profile": "/characters/abolakara.html#character-1"
+      },
+      "title": {
+        "or": "ଶେଷ କଥା",
+        "en": "The Last Word"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ଶେଷ କଥା କହିବାକୁ ଚାହୁଁଥିବା ଜଣେ ହାଟୁଆର ଗପ ଶୁଣି ଅବୋଲକରା ଚୁପ୍ ରହିବାକୁ ଚେଷ୍ଟା କରେ। କିନ୍ତୁ ତା’ର ଆଉ ଗୋଟିଏ କଥା ଅଛି।",
+        "en": "After hearing of a market-goer who always wanted the last word, Abolakara tries staying quiet. But he has one more thing to say."
+      },
+      "setting": {
+        "or": "ଓଡ଼ିଆ ଲୋକକଥାର ଗାଁବାଟ ଓ ବାଟୋଇଙ୍କ ବିଶ୍ରାମ ସ୍ଥାନ। ଅବୋଲକରା ଓ ତାଙ୍କ ଜ୍ଞାନୀ ମାଲିକଙ୍କ ଚରିତ୍ର ପାରମ୍ପରିକ; ଏହି ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ଏହି ପ୍ରକଳ୍ପର ନୂଆ ରଚନା। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଲେଖକଙ୍କ ଗପର ଅନୁବାଦ ନୁହେଁ। ସାଆନ୍ତ ଏଠାରେ ସମ୍ବୋଧନ, ବ୍ୟକ୍ତିଗତ ନାମ ନୁହେଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀ, ଗାଁ, ଜାତି ବା ଅବୋଲକରାର ବୟସ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Village paths and travellers’ resting places in a folktale Odisha. Abolakara and his learned master are traditional figures; the events and dialogue of this episode are newly written for this project, not a translation of a particular author’s story. Saanta is a form of address here, not a personal name. No exact century, village, caste or age for Abolakara is assigned."
+      },
+      "performance": {
+        "or": "ଶେଷ ଉତ୍ତର ଦାବି → ଗପର ହସ ଧରିବା → ନିଜକୁ ଥାମିବା → ଶେଷରେ ଛୋଟ ପ୍ରଶ୍ନ।",
+        "en": "Demanding a last answer → seeing the joke → restraining himself → one small final question."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ ସହ ମେଳ: ଅବୋଲକରାର ସରୁ ଦେହ, ଅସଜଡ଼ା କେଶ, ସାଧା ହଳଦିଆ ଛୋଟ ହାତର ଜାମା, ଆଣ୍ଠୁ ପାଖେ ଖୋସା କ୍ରିମ୍ ଧୋତି, ଡାହାଣ କାନ୍ଧରେ ନୀଳ କପଡ଼ା ଓ ଚପଲ। ସାଆନ୍ତଙ୍କ ପାଚିଆ ପତଳା କେଶ, ଛୋଟ ନିଶ, କ୍ରିମ୍ ଜାମା, ଲମ୍ବା ଧୋତି ଓ ବାମ କାନ୍ଧରେ ସରୁ ଧାରର ଚାଦର। ବସିବାବେଳେ ଧୋତିର କୁଞ୍ଚ ବଦଳିବ; କାନ୍ଧର ପଟ ବଦଳିବନି। ଗୋଟିଏ ପୁଟୁଳି, ଗୋଟିଏ ଆସନ ଓ ଗୋଟିଏ ବାଉଁଶ ବେଣ୍ଟର ଛତା। ପୋଷାକ ଏହି ପ୍ରକଳ୍ପର ବ୍ୟାଖ୍ୟା; ନିର୍ଦ୍ଦିଷ୍ଟ କାଳର ପ୍ରମାଣିତ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+        "en": "Continue the earlier character study: lean, unruly-haired Abolakara in a plain ochre short-sleeved top, cream dhoti tucked near the knees, blue cloth over his anatomical right shoulder and sandals. Saanta has thinning grey hair, a small moustache, a cream short-sleeved top, long dhoti and a narrow-bordered cloth over his anatomical left shoulder. Seated folds change; shoulder sides do not. One bundle, one mat and one bamboo-handled umbrella. These are project interpretations, not authenticated reconstructions of a particular period."
+      },
+      "continuity": {
+        "or": "ହାଟର ଘଟଣା କେବଳ ସାଆନ୍ତଙ୍କ କଥାରେ। ଅବୋଲକରାକୁ ଅପମାନ କରି ଚୁପ୍ କରାଯାଏନି। ଶେଷ ବିରାମରେ ଦୁହେଁ ହସନ୍ତି।",
+        "en": "The market incident stays in Saanta’s narration. Abolakara is not humiliated into silence. Both share the final pause and smile."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/abolakara/assets/colour-cast-v1.png",
+      "preview": "/characters/abolakara/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସାଆନ୍ତ ଉଠିବାକୁ ହାତ ମାଟିରେ ରଖନ୍ତି। ଅବୋଲକରା ଗୋଟିଏ ଆଙ୍ଗୁଠି ଉଠାଏ।",
+            "en": "Saanta puts a hand on the ground to rise. Abolakara raises one finger."
+          },
+          "sound": {
+            "or": "ଚପଲ ମାଟିରେ ଘଷା।",
+            "en": "A sandal brushing the ground."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ଆଉ ଗୋଟିଏ କଥା, ସାଆନ୍ତେ।",
+                "en": "One more thing, Saanta."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ତୋତେ ଏବେ ହାଟର ସେ ଲୋକଟିର ଗପ କହିବି।",
+                "en": "Now I must tell you about that man at the market."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସାଆନ୍ତ ପୁଣି ବସନ୍ତି। ଗପର ଲୋକ ପରି ଟିକେ ଛାତି ଫୁଲାନ୍ତି।",
+            "en": "Saanta sits back down, puffing out his chest a little as the man in his tale."
+          },
+          "sound": {
+            "or": "ତାଙ୍କ କଣ୍ଠରେ ହାଲୁକା ଅଭିନୟ।",
+            "en": "A little character play in his voice."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ସବୁ ତର୍କରେ ଶେଷ କଥାଟା ସେ କହିବ। ଦିନେ ସନ୍ଧ୍ୟା ଯାଏଁ କହିଲା। ତା’ କଥାକୁ କେହି କାଟିଲେନି।",
+                "en": "He had to have the last word in every argument. One day he talked until evening. Nobody interrupted him."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଅବୋଲକରା ଭ୍ରୂ ଉଠାଏ। ସାଆନ୍ତ ଗୋଟିଏ ବିରାମ ପରେ ଗପ ସାରନ୍ତି।",
+            "en": "Abolakara raises his eyebrows. After a pause, Saanta finishes the tale."
+          },
+          "sound": {
+            "or": "ପତ୍ର ଖସିବାର ହାଲୁକା ଶବ୍ଦ।",
+            "en": "A leaf falls softly."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ସମସ୍ତେ ମାନିଗଲେ?",
+                "en": "Everyone agreed?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ସମସ୍ତେ ଘରକୁ ଚାଲିଯାଇଥିଲେ।",
+                "en": "Everyone had gone home."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଅବୋଲକରା ଆଙ୍ଗୁଠି ତଳକୁ କରେ। ଦୁହେଁ ଉଠିବାକୁ ପ୍ରସ୍ତୁତ। ଟିକେ ପରେ ସେ ପୁଣି ଚାହେଁ।",
+            "en": "Abolakara lowers his finger. They prepare to rise. A moment later, he looks back."
+          },
+          "sound": {
+            "or": "ନିରବତା ପରେ ଦୁହିଁଙ୍କ ହସ।",
+            "en": "Silence, then a shared laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ମୋ କଥାଟା ଚାଲିଲାବେଳେ କହିବି?",
+                "en": "Can I say my bit while we walk?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ତାହେଲେ ଚାଲ୍!",
+                "en": "Then come on!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abolakara-two-handfuls",
+      "world": "abolakara",
+      "focus": {
+        "id": "abolakara",
+        "name": {
+          "or": "ଅବୋଲକରା",
+          "en": "Abolakara"
+        },
+        "profile": "/characters/abolakara.html#character-1"
+      },
+      "title": {
+        "or": "ଦୁଇ ମୁଠା",
+        "en": "Two Handfuls"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ସାଆନ୍ତ ସମାନ ଭାଗ କରିବାକୁ କହିଲେ ଅବୋଲକରା ଖାଦ୍ୟର ପ୍ରତି ଦାନା ଗଣିବାକୁ ବସେ। ନିଜ ଭୋକର କଥା କହିବା ପରେ କାମଟା ସହଜ ହୁଏ।",
+        "en": "Asked to divide their food equally, Abolakara begins counting every grain. Saying how hungry he is makes the task simpler."
+      },
+      "setting": {
+        "or": "ଓଡ଼ିଆ ଲୋକକଥାର ଗାଁବାଟ ଓ ବାଟୋଇଙ୍କ ବିଶ୍ରାମ ସ୍ଥାନ। ଅବୋଲକରା ଓ ତାଙ୍କ ଜ୍ଞାନୀ ମାଲିକଙ୍କ ଚରିତ୍ର ପାରମ୍ପରିକ; ଏହି ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ଏହି ପ୍ରକଳ୍ପର ନୂଆ ରଚନା। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଲେଖକଙ୍କ ଗପର ଅନୁବାଦ ନୁହେଁ। ସାଆନ୍ତ ଏଠାରେ ସମ୍ବୋଧନ, ବ୍ୟକ୍ତିଗତ ନାମ ନୁହେଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀ, ଗାଁ, ଜାତି ବା ଅବୋଲକରାର ବୟସ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Village paths and travellers’ resting places in a folktale Odisha. Abolakara and his learned master are traditional figures; the events and dialogue of this episode are newly written for this project, not a translation of a particular author’s story. Saanta is a form of address here, not a personal name. No exact century, village, caste or age for Abolakara is assigned."
+      },
+      "performance": {
+        "or": "ନିଖୁଣ ସମାନ କରିବାର ଜିଦ୍ → ନିଜ ଭୋକ ଲୁଚାଇବା → ସିଧା କହିବା → ସହଜରେ ବାଣ୍ଟିବା।",
+        "en": "Insisting on exact equality → concealing his hunger → saying it plainly → sharing without the fuss."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ ସହ ମେଳ: ଅବୋଲକରାର ସରୁ ଦେହ, ଅସଜଡ଼ା କେଶ, ସାଧା ହଳଦିଆ ଛୋଟ ହାତର ଜାମା, ଆଣ୍ଠୁ ପାଖେ ଖୋସା କ୍ରିମ୍ ଧୋତି, ଡାହାଣ କାନ୍ଧରେ ନୀଳ କପଡ଼ା ଓ ଚପଲ। ସାଆନ୍ତଙ୍କ ପାଚିଆ ପତଳା କେଶ, ଛୋଟ ନିଶ, କ୍ରିମ୍ ଜାମା, ଲମ୍ବା ଧୋତି ଓ ବାମ କାନ୍ଧରେ ସରୁ ଧାରର ଚାଦର। ବସିବାବେଳେ ଧୋତିର କୁଞ୍ଚ ବଦଳିବ; କାନ୍ଧର ପଟ ବଦଳିବନି। ଗୋଟିଏ ପୁଟୁଳି, ଗୋଟିଏ ଆସନ ଓ ଗୋଟିଏ ବାଉଁଶ ବେଣ୍ଟର ଛତା। ପୋଷାକ ଏହି ପ୍ରକଳ୍ପର ବ୍ୟାଖ୍ୟା; ନିର୍ଦ୍ଦିଷ୍ଟ କାଳର ପ୍ରମାଣିତ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+        "en": "Continue the earlier character study: lean, unruly-haired Abolakara in a plain ochre short-sleeved top, cream dhoti tucked near the knees, blue cloth over his anatomical right shoulder and sandals. Saanta has thinning grey hair, a small moustache, a cream short-sleeved top, long dhoti and a narrow-bordered cloth over his anatomical left shoulder. Seated folds change; shoulder sides do not. One bundle, one mat and one bamboo-handled umbrella. These are project interpretations, not authenticated reconstructions of a particular period."
+      },
+      "continuity": {
+        "or": "ପୁଟୁଳିରେ ଶୁଖିଲା ଚୁଡ଼ା, ଦୁଇଟି ସଫା ପତ୍ର ଉପରେ। କେହି ଖାଇସାରିଥିବା ଖାଦ୍ୟ ଅନ୍ୟଜଣଙ୍କ ଭାଗକୁ ଫେରାନ୍ତିନି। ସମାନ ଭାଗ ଏଠାରେ ଦୁହିଁଙ୍କ ଆଲୋଚନା; ପାରମ୍ପରିକ ପ୍ରଥା ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Dry chuda from the bundle, on two clean leaves. No food already eaten from is returned to the other portion. This is a conversation between these two, not a claim about a traditional custom."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/abolakara/assets/colour-cast-v1.png",
+      "preview": "/characters/abolakara/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଅବୋଲକରା ଦୁଇ ପତ୍ରରେ ଚୁଡ଼ା ରଖେ। ଗୋଟିଏ ଭାଗରୁ ଆଉ ଗୋଟିଏକୁ ଅଳ୍ପ ଘୁଞ୍ଚାଏ।",
+            "en": "Abolakara puts flattened rice on two leaves, shifting a little between the portions."
+          },
+          "sound": {
+            "or": "ଶୁଖିଲା ଚୁଡ଼ା ଓ ପତ୍ରର ଶବ୍ଦ।",
+            "en": "Dry rice and leaf rustles."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଦୁଇଟି ସମାନ ଭାଗ କର।",
+                "en": "Make two equal portions."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ସମାନ ହେଉନି।",
+                "en": "They won’t come out equal."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଅବୋଲକରା ଗୋଟିଏ ଦାନା ଘୁଞ୍ଚାଇ ପୁଣି ଚାହେଁ। ସାଆନ୍ତ ଖାଦ୍ୟଠାରୁ ତା’ ମୁହଁକୁ ଚାହାନ୍ତି।",
+            "en": "Abolakara moves one flake and studies the portions again. Saanta looks from the food to his face."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A small pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଭୋକ କେତେ?",
+                "en": "How hungry are you?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ବହୁତ। ହେଲେ ତୁମ ଭାଗ…",
+                "en": "Very. But your share…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସାଆନ୍ତ ନିଜ ପାଇଁ ଛୋଟ ଭାଗଟି ଦେଖାନ୍ତି। ଅବୋଲକରାର ହାତ ଥାମେ।",
+            "en": "Saanta indicates the smaller portion for himself. Abolakara stops adjusting the food."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ଶବ୍ଦ ଥାମେ।",
+            "en": "The leaf rustle stops."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ମୋତେ ଏତିକି ହେବ। ତୁ ଆଗରୁ କହିଲୁନି କାହିଁକି?",
+                "en": "This will do for me. Why didn’t you say so?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ତୁମେ ସମାନ କହିଥିଲ।",
+                "en": "You said equal."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସାଆନ୍ତ ମୁଣ୍ଡ ହଲାଇ ହସନ୍ତି। ଅବୋଲକରା ଦୁଇ ଭାଗ ଅଲଗା ରଖେ; ଗଣିବା ଛାଡ଼େ।",
+            "en": "Saanta nods with a smile. Abolakara sets the portions apart and stops counting."
+          },
+          "sound": {
+            "or": "ନରମ ହସ, ତା’ପରେ ଖାଇବାର ଶାନ୍ତି।",
+            "en": "A soft laugh, then a quiet meal."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ହଁ, କହିଥିଲି। ଭୋକଟା ପଚାରିନଥିଲି।",
+                "en": "Yes, I did. I hadn’t asked about your hunger."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ଏବେ ଖାଇବା?",
+                "en": "Shall we eat now?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saanta-wrong-ending",
+      "world": "abolakara",
+      "focus": {
+        "id": "saanta",
+        "name": {
+          "or": "ସାଆନ୍ତ",
+          "en": "Saanta"
+        },
+        "profile": "/characters/abolakara.html#character-2"
+      },
+      "title": {
+        "or": "ଏ ଗଧ କେଉଁଠୁ ଆସିଲା?",
+        "en": "Where Did the Donkey Come From?"
+      },
+      "duration": 58,
+      "premise": {
+        "or": "କୁମ୍ଭାରର ଗପ କହୁକହୁ ସାଆନ୍ତଙ୍କ ମନକୁ ଅନ୍ୟ ଗପର ଗଧଟି ଚାଲିଆସେ। ଅବୋଲକରା ଧରିଦିଏ; ସାଆନ୍ତ ଭୁଲ୍ ମାନି ନିଜ ଗପକୁ ଫେରନ୍ତି।",
+        "en": "While telling a potter’s story, Saanta lets a donkey wander in from another tale. Abolakara catches it; Saanta admits his slip and returns to his story."
+      },
+      "setting": {
+        "or": "ଓଡ଼ିଆ ଲୋକକଥାର ଗାଁବାଟ ଓ ବାଟୋଇଙ୍କ ବିଶ୍ରାମ ସ୍ଥାନ। ଅବୋଲକରା ଓ ତାଙ୍କ ଜ୍ଞାନୀ ମାଲିକଙ୍କ ଚରିତ୍ର ପାରମ୍ପରିକ; ଏହି ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ଏହି ପ୍ରକଳ୍ପର ନୂଆ ରଚନା। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଲେଖକଙ୍କ ଗପର ଅନୁବାଦ ନୁହେଁ। ସାଆନ୍ତ ଏଠାରେ ସମ୍ବୋଧନ, ବ୍ୟକ୍ତିଗତ ନାମ ନୁହେଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀ, ଗାଁ, ଜାତି ବା ଅବୋଲକରାର ବୟସ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Village paths and travellers’ resting places in a folktale Odisha. Abolakara and his learned master are traditional figures; the events and dialogue of this episode are newly written for this project, not a translation of a particular author’s story. Saanta is a form of address here, not a personal name. No exact century, village, caste or age for Abolakara is assigned."
+      },
+      "performance": {
+        "or": "ଗପରେ ଆତ୍ମବିଶ୍ୱାସ → ଅନ୍ୟ ଗପ ମିଶିଯିବା → ଭୁଲ୍ ଧରି ହସିବା → ସଠିକ୍ ଶେଷକୁ ଫେରିବା।",
+        "en": "Confident storytelling → mixing up two tales → laughing at his slip → returning to the right ending."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ ସହ ମେଳ: ଅବୋଲକରାର ସରୁ ଦେହ, ଅସଜଡ଼ା କେଶ, ସାଧା ହଳଦିଆ ଛୋଟ ହାତର ଜାମା, ଆଣ୍ଠୁ ପାଖେ ଖୋସା କ୍ରିମ୍ ଧୋତି, ଡାହାଣ କାନ୍ଧରେ ନୀଳ କପଡ଼ା ଓ ଚପଲ। ସାଆନ୍ତଙ୍କ ପାଚିଆ ପତଳା କେଶ, ଛୋଟ ନିଶ, କ୍ରିମ୍ ଜାମା, ଲମ୍ବା ଧୋତି ଓ ବାମ କାନ୍ଧରେ ସରୁ ଧାରର ଚାଦର। ବସିବାବେଳେ ଧୋତିର କୁଞ୍ଚ ବଦଳିବ; କାନ୍ଧର ପଟ ବଦଳିବନି। ଗୋଟିଏ ପୁଟୁଳି, ଗୋଟିଏ ଆସନ ଓ ଗୋଟିଏ ବାଉଁଶ ବେଣ୍ଟର ଛତା। ପୋଷାକ ଏହି ପ୍ରକଳ୍ପର ବ୍ୟାଖ୍ୟା; ନିର୍ଦ୍ଦିଷ୍ଟ କାଳର ପ୍ରମାଣିତ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+        "en": "Continue the earlier character study: lean, unruly-haired Abolakara in a plain ochre short-sleeved top, cream dhoti tucked near the knees, blue cloth over his anatomical right shoulder and sandals. Saanta has thinning grey hair, a small moustache, a cream short-sleeved top, long dhoti and a narrow-bordered cloth over his anatomical left shoulder. Seated folds change; shoulder sides do not. One bundle, one mat and one bamboo-handled umbrella. These are project interpretations, not authenticated reconstructions of a particular period."
+      },
+      "continuity": {
+        "or": "ଦୁହେଁ ଛାଇରେ ବସି ରହିବେ; କୁମ୍ଭାର, ପିଲା, ହାଣ୍ଡି ବା ଗଧ ଚିତ୍ରରେ ଆସିବେନି। ସାଆନ୍ତଙ୍କ ହାତର ଭଙ୍ଗୀ ଓ ମୁହଁରେ ଗପ ରହିବ। ଏକ ପୁଟୁଳି, ଏକ ଖୋଲା ଆସନ ଓ ଏକ ବନ୍ଦ ଛତା ସ୍ଥିର ଜାଗାରେ।",
+        "en": "Both remain seated in shade. Do not draw the potter, child, pot or donkey. The tale lives in Saanta’s gestures and expressions. One bundle, one unrolled mat and one closed umbrella remain in fixed places."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/abolakara/assets/colour-cast-v1.png",
+      "preview": "/characters/abolakara/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଅବୋଲକରା ବାମରେ, ସାଆନ୍ତ ଡାହାଣରେ ଗଛଛାଇରେ ବସିଛନ୍ତି। ସାଆନ୍ତ ଦୁଇ ହାତରେ ଗୋଟିଏ ହାଣ୍ଡିର ଆକାର ଦେଖାନ୍ତି।",
+            "en": "Abolakara sits at left and Saanta at right beneath a tree. Saanta shapes an imaginary pot with his two hands."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ହାଲୁକା ଶବ୍ଦ; ଗପର କଣ୍ଠ ସ୍ପଷ୍ଟ।",
+            "en": "Light leaves; clear storytelling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "କୁମ୍ଭାର ଭାବିଲା, ହାଣ୍ଡିଟା ଫାଟିଛି। ପାଣି ଭରିଲେ ତଳୁ ବାହାରିଯାଉଛି।",
+                "en": "The potter thought his pot was cracked. Whenever he filled it, water ran out below."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସାଆନ୍ତ ଗୋଟିଏ ହାତରେ ଗପ ଆଗେଇନିଅନ୍ତି। ଅବୋଲକରା ମୁଣ୍ଡ କାତ କରି ତାକେ।",
+            "en": "Saanta carries the tale forward with one hand. Abolakara tilts his head."
+          },
+          "sound": {
+            "or": "କଥା ମଝିରେ ଥମକ।",
+            "en": "A hitch in the narration."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ତା’ପରେ ଗଧଟା ଆସି—",
+                "en": "Then the donkey came along—"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ଗଧ? ହାଣ୍ଡି ପାଖକୁ?",
+                "en": "A donkey? To the pot?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସାଆନ୍ତ ହାତ ଥାମନ୍ତି, ଉପରକୁ ଚାହିଁ ମନେପକାନ୍ତି, ତା’ପରେ ନିଜେ ହସନ୍ତି। ଅବୋଲକରା ହସ ଚାପିରଖେନି।",
+            "en": "Saanta stops, glances up to remember, then laughs at himself. Abolakara lets his smile show."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ଛୋଟ ହସ।",
+            "en": "A short shared laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଆରେ, ସେ ଆଉ ଗୋଟେ ଗପରେ! ଏଠି ତ ଛୋଟ ପିଲାଟିଏ ଥିଲା।",
+                "en": "Oh, that belongs to another story! There was a small child in this one."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସାଆନ୍ତ ହାତରେ ଅଦୃଶ୍ୟ ଢାଳିବା ପାତ୍ର ଟିକେ କାତ କରି ଦେଖାନ୍ତି। ଅବୋଲକରା ତାଙ୍କ ହାତକୁ ଚାହେଁ।",
+            "en": "Saanta tilts an imaginary pouring vessel with one hand. Abolakara follows the gesture."
+          },
+          "sound": {
+            "or": "ହସ ଶାନ୍ତ ହୁଏ; ଶେଷ କଥା ପାଇଁ ବିରାମ।",
+            "en": "The laughter settles; a pause for the ending."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ପିଲାଟି କହିଲା, “ହାଣ୍ଡି ଫାଟିନି। ତୁମେ ବାହାରେ ଢାଳୁଛ!”",
+                "en": "The child said, “The pot isn’t cracked. You’re pouring outside it!”"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ଆଜି ତୁମ ଗପ ବି ଟିକେ ବାହାରେ ପଡ଼ିଲା।",
+                "en": "Your story spilled a little outside today too."
+              }
+            }
+          ]
+        }
+      ],
+      "storyboard": {
+        "sheet": "/characters/films/saanta-wrong-ending/colour-storyboard-v1.png",
+        "page": "/characters/films/saanta-wrong-ending/index.html",
+        "archive": "abolakara-films",
+        "file": "colour-storyboard-v1.png",
+        "medium": {
+          "or": "ରଙ୍ଗୀନ ଦୃଶ୍ୟଖସଡ଼ା · ଗପରେ ଗୋଟିଏ ଭୁଲ୍",
+          "en": "Colour storyboard · A slip in the story"
+        },
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ଦୃଶ୍ୟରେ ୫୮ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। ସାଆନ୍ତଙ୍କ ଗପରେ ଅନ୍ୟ ଗପର ଗଧ ପଶିଆସେ। ହାତର ଭଙ୍ଗୀ, ଭୁଲ୍ ଧରିବାର ବିରାମ ଓ ଦୁହିଁଙ୍କ ହସ ପାଇଁ ସମୟ ରହେ। କଣ୍ଠ ଓ ଚଳନ ବାକି।",
+          "en": "A 58-second pacing study in four still frames. A donkey from another tale wanders into Saanta’s story. There is room for gestures, the moment he notices his slip, and their shared laugh. Voices and movement remain ahead."
+        },
+        "development": {
+          "or": "ଚାଲିବାର ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନରୁ ବସି କହିବାର ଭଙ୍ଗୀକୁ ଆସିଛୁ। ଅବୋଲକରାର ଡାହାଣ କାନ୍ଧର ନୀଳ କପଡ଼ା ଓ ସାଆନ୍ତଙ୍କ ବାମ କାନ୍ଧର ଚାଦର ରହିଛି। ଭିତର ଗପର ଘଟଣା ହାତର ଭଙ୍ଗୀରେ ଆସେ; ନୂଆ ଲୋକ ବା ଗଧ ଚିତ୍ରରେ ନାହାନ୍ତି। ଦୁଇଜଣଙ୍କ ପାଖରେ ଗୋଟିଏ ପୁଟୁଳି, ଗୋଟିଏ ଆସନ ଓ ଗୋଟିଏ ବନ୍ଦ ଛତା। ଏହା ଅଭିନୟର ଖସଡ଼ା; ଚଳନ ସମୟରେ ହାତ ଓ ପୋଷାକର କୁଞ୍ଚ ପୁଣି ଯାଞ୍ଚ ହେବ।",
+          "en": "The walking character study becomes a seated storytelling exchange. Abolakara keeps his blue cloth on the right shoulder; Saanta keeps his bordered cloth on the left. The inner tale is carried by gestures, with no additional people or donkey pictured. One bundle, one mat and one closed umbrella accompany the pair. This is an acting study; hands and cloth folds need another continuity check during animation."
+        }
+      }
+    },
+    {
+      "id": "saanta-start-again",
+      "world": "abolakara",
+      "focus": {
+        "id": "saanta",
+        "name": {
+          "or": "ସାଆନ୍ତ",
+          "en": "Saanta"
+        },
+        "profile": "/characters/abolakara.html#character-2"
+      },
+      "title": {
+        "or": "ଗପଟା ଶୁଣିଛି",
+        "en": "I Have Heard This One"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ସାଆନ୍ତ ଜଣା ଗପ ଆରମ୍ଭ କରିବା ମାତ୍ରେ ଅବୋଲକରା ଅଟକାଏ। କିଏ ଶେଷଟା ଶୁଣିଥିଲା, ସେ କଥାରେ ଦୁହିଁଙ୍କ ସ୍ମୃତି ଅଲଗା।",
+        "en": "As Saanta begins a familiar tale, Abolakara stops him. They remember differently who stayed awake to hear its ending."
+      },
+      "setting": {
+        "or": "ଓଡ଼ିଆ ଲୋକକଥାର ଗାଁବାଟ ଓ ବାଟୋଇଙ୍କ ବିଶ୍ରାମ ସ୍ଥାନ। ଅବୋଲକରା ଓ ତାଙ୍କ ଜ୍ଞାନୀ ମାଲିକଙ୍କ ଚରିତ୍ର ପାରମ୍ପରିକ; ଏହି ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ଏହି ପ୍ରକଳ୍ପର ନୂଆ ରଚନା। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଲେଖକଙ୍କ ଗପର ଅନୁବାଦ ନୁହେଁ। ସାଆନ୍ତ ଏଠାରେ ସମ୍ବୋଧନ, ବ୍ୟକ୍ତିଗତ ନାମ ନୁହେଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀ, ଗାଁ, ଜାତି ବା ଅବୋଲକରାର ବୟସ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Village paths and travellers’ resting places in a folktale Odisha. Abolakara and his learned master are traditional figures; the events and dialogue of this episode are newly written for this project, not a translation of a particular author’s story. Saanta is a form of address here, not a personal name. No exact century, village, caste or age for Abolakara is assigned."
+      },
+      "performance": {
+        "or": "ଜଣା ଗପରେ ଆରାମ → ଶ୍ରୋତା ଶୁଣିସାରିଛି ଭାବିବା → ନିଜେ ଶୋଇପଡ଼ିଥିବା ମନେପଡ଼ିବା → ଶ୍ରୋତାକୁ ଗପ ଧରିବାକୁ ଦେବା।",
+        "en": "Settling into a familiar story → assuming the listener heard it → remembering his own nap → inviting the listener to take over."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ ସହ ମେଳ: ଅବୋଲକରାର ସରୁ ଦେହ, ଅସଜଡ଼ା କେଶ, ସାଧା ହଳଦିଆ ଛୋଟ ହାତର ଜାମା, ଆଣ୍ଠୁ ପାଖେ ଖୋସା କ୍ରିମ୍ ଧୋତି, ଡାହାଣ କାନ୍ଧରେ ନୀଳ କପଡ଼ା ଓ ଚପଲ। ସାଆନ୍ତଙ୍କ ପାଚିଆ ପତଳା କେଶ, ଛୋଟ ନିଶ, କ୍ରିମ୍ ଜାମା, ଲମ୍ବା ଧୋତି ଓ ବାମ କାନ୍ଧରେ ସରୁ ଧାରର ଚାଦର। ବସିବାବେଳେ ଧୋତିର କୁଞ୍ଚ ବଦଳିବ; କାନ୍ଧର ପଟ ବଦଳିବନି। ଗୋଟିଏ ପୁଟୁଳି, ଗୋଟିଏ ଆସନ ଓ ଗୋଟିଏ ବାଉଁଶ ବେଣ୍ଟର ଛତା। ପୋଷାକ ଏହି ପ୍ରକଳ୍ପର ବ୍ୟାଖ୍ୟା; ନିର୍ଦ୍ଦିଷ୍ଟ କାଳର ପ୍ରମାଣିତ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+        "en": "Continue the earlier character study: lean, unruly-haired Abolakara in a plain ochre short-sleeved top, cream dhoti tucked near the knees, blue cloth over his anatomical right shoulder and sandals. Saanta has thinning grey hair, a small moustache, a cream short-sleeved top, long dhoti and a narrow-bordered cloth over his anatomical left shoulder. Seated folds change; shoulder sides do not. One bundle, one mat and one bamboo-handled umbrella. These are project interpretations, not authenticated reconstructions of a particular period."
+      },
+      "continuity": {
+        "or": "ଏହି ପର୍ବରେ ଗପର ଆରମ୍ଭ ମାତ୍ର ଆସେ; ପୂରା ଭିତର ଗପ ଦିଆଯାଇନାହିଁ। ହସ ସାଆନ୍ତଙ୍କ ନିଦକୁ ନେଇ, ବୟସକୁ ନେଇ ଉପହାସ ନୁହେଁ।",
+        "en": "Only the beginning of the inner story is given in this episode, not a complete nested tale. The humour is about Saanta’s nap, not mockery of age."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/abolakara/assets/colour-cast-v1.png",
+      "preview": "/characters/abolakara/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସାଆନ୍ତ ଆସନରେ ଆରାମରେ ବସି ଗପ ଧରନ୍ତି। ଅବୋଲକରା ସଙ୍ଗେସଙ୍ଗେ ଚାହେଁ।",
+            "en": "Saanta settles comfortably on the mat and starts. Abolakara looks up at once."
+          },
+          "sound": {
+            "or": "ଆସନର ହାଲୁକା ଶବ୍ଦ।",
+            "en": "The mat rustles."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଜଣେ ବୁଢ଼ୀର ତିନିଟି ଝୁଡ଼ି ଥିଲା—",
+                "en": "An old woman had three baskets—"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ଏ ଗପଟା କାଲି କହିଥିଲ।",
+                "en": "You told this one yesterday."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସାଆନ୍ତ ମୁଣ୍ଡ ହଲାଇ ମନେପକାନ୍ତି। ଅବୋଲକରା ହସ ଚାପେ।",
+            "en": "Saanta nods, trying to recall. Abolakara holds back a smile."
+          },
+          "sound": {
+            "or": "ଏକ ଛୋଟ ବିରାମ।",
+            "en": "A brief pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ତେବେ ଶେଷଟା କହ।",
+                "en": "Then tell me the ending."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ତୁମେ ତ ଶେଷ କରିନଥିଲ।",
+                "en": "You didn’t finish it."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସାଆନ୍ତ ଭ୍ରୂ କୁଞ୍ଚାନ୍ତି, ତା’ପରେ ନିଜେ ବୁଝି ହସନ୍ତି।",
+            "en": "Saanta frowns briefly, then understands and smiles."
+          },
+          "sound": {
+            "or": "ହସ ମଝିରେ କଥା।",
+            "en": "Speech through a smile."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ତୁ ଶୋଇପଡ଼ିଥିଲୁ?",
+                "en": "Had you fallen asleep?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ମୁଁ ନୁହେଁ, ସାଆନ୍ତେ। ତୁମେ!",
+                "en": "Not me, Saanta. You!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସାଆନ୍ତ ସିଧା ହୋଇ ବସନ୍ତି। ଅବୋଲକରା ଗପ କହିବା ଭଙ୍ଗୀରେ ହାତ ଉଠାଏ।",
+            "en": "Saanta sits upright. Abolakara lifts a hand to tell the story."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ଶବ୍ଦ ଓ ଅବୋଲକରାର କଣ୍ଠ।",
+            "en": "Leaves and Abolakara’s voice."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଆଚ୍ଛା, ତୁ ଯେତିକି ଶୁଣିଥିଲୁ କହ। ଆଜି ମୁଁ ଶୁଣିବି।",
+                "en": "All right. Tell me as much as you heard. Today I’ll listen."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ଆଖି ଖୋଲା ରଖିବ କିନ୍ତୁ!",
+                "en": "Keep your eyes open, though!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saanta-umbrella-in-sun",
+      "world": "abolakara",
+      "focus": {
+        "id": "saanta",
+        "name": {
+          "or": "ସାଆନ୍ତ",
+          "en": "Saanta"
+        },
+        "profile": "/characters/abolakara.html#character-2"
+      },
+      "title": {
+        "or": "ଖରାରେ ଛତା",
+        "en": "An Umbrella in the Sun"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ଖରାରେ ଛତା ଖୋଲିବା ଦେଖି ଅବୋଲକରା ବର୍ଷା ବିଷୟରେ ପ୍ରଶ୍ନ କରେ। ସାଆନ୍ତ ବଡ଼ ବ୍ୟାଖ୍ୟା ଆରମ୍ଭ କରି ନିଜର ସରଳ କାରଣ କହନ୍ତି।",
+        "en": "Seeing the umbrella open in sunshine, Abolakara asks about rain. Saanta begins an elaborate explanation, then gives his simple reason."
+      },
+      "setting": {
+        "or": "ଓଡ଼ିଆ ଲୋକକଥାର ଗାଁବାଟ ଓ ବାଟୋଇଙ୍କ ବିଶ୍ରାମ ସ୍ଥାନ। ଅବୋଲକରା ଓ ତାଙ୍କ ଜ୍ଞାନୀ ମାଲିକଙ୍କ ଚରିତ୍ର ପାରମ୍ପରିକ; ଏହି ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ଏହି ପ୍ରକଳ୍ପର ନୂଆ ରଚନା। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଲେଖକଙ୍କ ଗପର ଅନୁବାଦ ନୁହେଁ। ସାଆନ୍ତ ଏଠାରେ ସମ୍ବୋଧନ, ବ୍ୟକ୍ତିଗତ ନାମ ନୁହେଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀ, ଗାଁ, ଜାତି ବା ଅବୋଲକରାର ବୟସ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Village paths and travellers’ resting places in a folktale Odisha. Abolakara and his learned master are traditional figures; the events and dialogue of this episode are newly written for this project, not a translation of a particular author’s story. Saanta is a form of address here, not a personal name. No exact century, village, caste or age for Abolakara is assigned."
+      },
+      "performance": {
+        "or": "ଜ୍ଞାନୀ ଉତ୍ତର ଦେବାର ଅଭ୍ୟାସ → ନିଜ ଅସୁବିଧା କହିବା → ଛାଇ ବାଣ୍ଟିବା → ଦୁହିଁଙ୍କ ପାଦ ମେଳାଇବା।",
+        "en": "Habitually giving a learned answer → admitting his discomfort → sharing shade → matching their steps."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ ସହ ମେଳ: ଅବୋଲକରାର ସରୁ ଦେହ, ଅସଜଡ଼ା କେଶ, ସାଧା ହଳଦିଆ ଛୋଟ ହାତର ଜାମା, ଆଣ୍ଠୁ ପାଖେ ଖୋସା କ୍ରିମ୍ ଧୋତି, ଡାହାଣ କାନ୍ଧରେ ନୀଳ କପଡ଼ା ଓ ଚପଲ। ସାଆନ୍ତଙ୍କ ପାଚିଆ ପତଳା କେଶ, ଛୋଟ ନିଶ, କ୍ରିମ୍ ଜାମା, ଲମ୍ବା ଧୋତି ଓ ବାମ କାନ୍ଧରେ ସରୁ ଧାରର ଚାଦର। ବସିବାବେଳେ ଧୋତିର କୁଞ୍ଚ ବଦଳିବ; କାନ୍ଧର ପଟ ବଦଳିବନି। ଗୋଟିଏ ପୁଟୁଳି, ଗୋଟିଏ ଆସନ ଓ ଗୋଟିଏ ବାଉଁଶ ବେଣ୍ଟର ଛତା। ପୋଷାକ ଏହି ପ୍ରକଳ୍ପର ବ୍ୟାଖ୍ୟା; ନିର୍ଦ୍ଦିଷ୍ଟ କାଳର ପ୍ରମାଣିତ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+        "en": "Continue the earlier character study: lean, unruly-haired Abolakara in a plain ochre short-sleeved top, cream dhoti tucked near the knees, blue cloth over his anatomical right shoulder and sandals. Saanta has thinning grey hair, a small moustache, a cream short-sleeved top, long dhoti and a narrow-bordered cloth over his anatomical left shoulder. Seated folds change; shoulder sides do not. One bundle, one mat and one bamboo-handled umbrella. These are project interpretations, not authenticated reconstructions of a particular period."
+      },
+      "continuity": {
+        "or": "ପ୍ରଥମେ ବନ୍ଦ, ତା’ପରେ ସେଇ ଗୋଟିଏ ଛତା ଖୋଲେ। ଛତାର ଛାଇ ସୂର୍ଯ୍ୟ ଦିଗ ସହ ମେଳିବ। ଦୁହିଁଙ୍କୁ ଜବରଦସ୍ତ ଗୋଟିଏ ଛୋଟ ଛାଇରେ ଫିଟ୍ କରାଯିବନି; ପାଖାପାଖି ଚାଲି ମୁଣ୍ଡରେ ଛାଇ ପଡ଼ିବ। କୌଣସି ପାଗ ପୂର୍ବାନୁମାନର ଦାବି ନାହିଁ।",
+        "en": "The same single umbrella starts closed, then opens. Its shadow follows the sun’s direction. Do not squeeze both bodies into an implausibly small shadow; they walk close enough to shade their heads. No weather prediction is claimed."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/abolakara/assets/colour-cast-v1.png",
+      "preview": "/characters/abolakara/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଖୋଲା ଗାଁବାଟରେ ସାଆନ୍ତ ଥମି ଛତା ଖୋଲନ୍ତି। ଅବୋଲକରା ଆକାଶକୁ ଚାହେଁ।",
+            "en": "On an open village path, Saanta stops to open his umbrella. Abolakara looks at the sky."
+          },
+          "sound": {
+            "or": "ଛତା ଖୋଲିବାର ଶବ୍ଦ ଓ ପାଦ ଥାମିବା।",
+            "en": "The umbrella opens; footsteps stop."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ବର୍ଷା ଆସିବ କି, ସାଆନ୍ତେ?",
+                "en": "Is rain coming, Saanta?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସାଆନ୍ତ ଆକାଶ ଆଡ଼କୁ ଗୋଟିଏ ହାତ ଉଠାଇ କହିବାକୁ ଯାଆନ୍ତି। ଅବୋଲକରା ତାଙ୍କ କପାଳକୁ ଦେଖେ।",
+            "en": "Saanta lifts one hand towards the sky to explain. Abolakara looks at his forehead."
+          },
+          "sound": {
+            "or": "ଗରମ ଦିନର ଶାନ୍ତ ପରିବେଶ।",
+            "en": "A quiet hot day."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଆକାଶର ରଙ୍ଗ ଦେଖିଲେ—",
+                "en": "If you look at the colour of the sky—"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ତୁମ କପାଳରେ ତ ଝାଳ।",
+                "en": "There’s sweat on your forehead."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସାଆନ୍ତ ହାତ ତଳକୁ କରି ହସନ୍ତି। ଛତାକୁ ଅବୋଲକରା ଆଡ଼କୁ ଟିକେ ଘୁଞ୍ଚାନ୍ତି।",
+            "en": "Saanta lowers his hand and smiles. He moves the umbrella a little towards Abolakara."
+          },
+          "sound": {
+            "or": "ଅଳ୍ପ ହସ ଓ ଛତା କପଡ଼ାର ଶବ୍ଦ।",
+            "en": "A little laugh and umbrella fabric."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ହଁ, ଖରା ଲାଗୁଛି। ଏତିକି କହିଲେ ହୋଇଥାଆନ୍ତା।",
+                "en": "Yes, I’m hot. I could have just said that."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ମୋତେ ବି।",
+                "en": "So am I."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଦୁହେଁ ପାଖାପାଖି ଚାଲନ୍ତି। ସାଆନ୍ତ ଅବୋଲକରାର ପାଦ ସହ ଗତି ମେଳାନ୍ତି।",
+            "en": "They walk close together. Saanta matches his pace to Abolakara’s."
+          },
+          "sound": {
+            "or": "ଧୀର ପାଦ ଶବ୍ଦ।",
+            "en": "Slow footsteps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ତାହେଲେ ପାଖକୁ ଆ।",
+                "en": "Then come closer."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଅବୋଲକରା",
+                "en": "Abolakara"
+              },
+              "text": {
+                "or": "ଛତା ସାଙ୍ଗରେ ଚାଲିବି, ନା ତୁମ ସାଙ୍ଗରେ?",
+                "en": "Am I walking with you, or with the umbrella?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ସାଆନ୍ତ",
+                "en": "Saanta"
+              },
+              "text": {
+                "or": "ଆଜି ଦୁହିଁଙ୍କ ସାଙ୍ଗରେ।",
+                "en": "Today, with both."
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
   "updated": "2026-10-18"
