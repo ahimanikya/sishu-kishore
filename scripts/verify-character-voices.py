@@ -58,7 +58,7 @@ counts=Counter((s['world'],s['focus']['id']) for s in focused)
 for (world,focus),count in counts.items():
  if count!=3:errors.append([world,focus,'expected three drafts',count])
 for script in focused:
- if script['focus']['id'] in ['bird','puppy'] and any(line['speaker']['en'] in ['The bird','The puppy'] for scene in script['scenes'] for line in scene['lines']):errors.append([script['id'],'ordinary animal has dialogue'])
+ if script['focus']['id'] in ['bird','puppy','chiku'] and any(line['speaker']['en'] in ['The bird','The puppy','Chiku'] for scene in script['scenes'] for line in scene['lines']):errors.append([script['id'],'ordinary animal has dialogue'])
  for key in ['setting','performance','wardrobe','continuity']:
   if not all(script.get(key,{}).get(lang) for lang in ['or','en']):errors.append([script['id'],'missing paired brief',key])
  board=script.get('storyboard')

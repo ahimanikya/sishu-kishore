@@ -1943,6 +1943,1589 @@
           "lines": []
         }
       ]
+    },
+    {
+      "id": "kusum-one-empty-space",
+      "world": "koraput",
+      "focus": {
+        "id": "kusum",
+        "name": {
+          "or": "କୁସୁମ",
+          "en": "Kusum"
+        },
+        "profile": "/characters/koraput.html#character-1"
+      },
+      "title": {
+        "or": "ଟିକେ ଜାଗା ରହୁ",
+        "en": "Leave a Little Room"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ହାଟକୁ ନେବା ଝୁଡ଼ିକୁ କୁସୁମ ଖାଲି ବ୍ୟାଗ୍‌ରେ ପୂରାଇଦିଏ। ଫେରିବା ବେଳର ଜିନିଷ ପାଇଁ ଜାଗା ଭାବି ସେ ନିଜ ଯୋଜନା ବଦଳାଏ।",
+        "en": "Kusum fills the market basket with empty bags. Thinking about what they will bring home makes her change the plan."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ସବୁ ତିଆରି ବୋଲି ନିଶ୍ଚିତ → ନୂଆ ପ୍ରଶ୍ନରେ ଅଟକିବା → ନିଜେ ସଜାଡ଼ିବା।",
+        "en": "Certain everything is ready → stopped by a new question → reorganising for herself."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ। ନୂଆ ଦୃଶ୍ୟରେ ରେବାଙ୍କ କାମର ପୋଷାକ ଅଧ୍ୟୟନ ବ୍ୟବହାର ହେବ: କ୍ରିମ୍ ଶାଢ଼ୀ, ଗାଢ଼ ଲାଲ ଧାର, ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ନିଜ ଡାହାଣ କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ କାମ ପାଇଁ ଟିକେ ଛୋଟ ଲମ୍ବ। ତଳ ଖୋସା, ଡାହାଣ ହାତରେ ଗୋଟିଏ ଚୁଡ଼ି। ଏହି କୋଟପାଡ଼ ପ୍ରେରିତ ଚିତ୍ରକଳ୍ପର ପିନ୍ଧଣି ଯାଞ୍ଚ ବାକି; ପୁରୁଣା ବାମ କାନ୍ଧର ମଡେଲ୍‌କୁ ସଂରକ୍ଷିତ ରଖାଯାଇଛି।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume. New scenes use Reba’s working-wardrobe study: cream sari, maroon border, short-sleeved blouse, secured end at her anatomical right shoulder and a slightly shorter working length. Low bun and one bangle on the right wrist. This Kotpad-informed illustrated interpretation still needs a practical draping check; the earlier left-shoulder model remains in the archive."
+      },
+      "continuity": {
+        "or": "ଏକ ଝୁଡ଼ି ଓ ତିନି ଖାଲି ସୂତା ବ୍ୟାଗ୍। ସବୁ ବ୍ୟାଗ୍ ଫେରି ଦେଖାଯିବ; ମୋଡ଼ିଲେ ଆକାର କମିବ, ଅଦୃଶ୍ୟ ହେବନି।",
+        "en": "One basket and three empty cotton bags. All bags remain accounted for; folding reduces their bulk without making them disappear."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-1.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୁସୁମ ତିନି ଖାଲି ବ୍ୟାଗ୍ ଝୁଡ଼ିରେ ରଖି ଥାପୁଡ଼ାଏ। ଝୁଡ଼ି ମୁହଁ ପର୍ଯ୍ୟନ୍ତ ଭରିଛି।",
+            "en": "Kusum pats three empty bags into a basket filled to the rim."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ଖସ୍‌ଖସ୍।",
+            "en": "Cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ହୋଇଗଲା। ସବୁ ନେଇଛି।",
+                "en": "Ready. I’ve packed everything."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମନ୍ଦାର ଝୁଡ଼ି ଭିତରକୁ ଚାହେଁ। କୁସୁମ ତା’କୁ ଆଶ୍ୱସ୍ତ ଭାବେ ଦେଖେ।",
+            "en": "Mandar peers into the basket. Kusum gives him a confident look."
+          },
+          "sound": {
+            "or": "ପାଖରେ ଚପଲର ଶବ୍ଦ।",
+            "en": "Sandals nearby."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ଆଉ ହାଟରୁ ଆଣିବା ଜିନିଷ?",
+                "en": "And the things we bring from the market?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "କୁସୁମ ଝୁଡ଼ି ମଝିରେ ହାତ ରଖେ; ଜାଗା ନାହିଁ। ସେ ବ୍ୟାଗ୍ ବାହାର କରି ଗୋଟିଏ ଭାଙ୍ଗେ, ଦ୍ୱିତୀୟଟି ମନ୍ଦାରକୁ ଦିଏ।",
+            "en": "Kusum tries to fit her hand into the middle. No room. She takes the bags out, folds one and hands the second to Mandar."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଭାଙ୍ଗିବାର ନରମ ଶବ୍ଦ।",
+            "en": "Soft folds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ଏଇଟା ଭାଙ୍ଗିଦେ। ମୁଁ ବେଶି ଫୁଲେଇ ରଖିଥିଲି।",
+                "en": "Fold this one. I left them all puffed up."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଭଙ୍ଗା ବ୍ୟାଗ୍ ଝୁଡ଼ି ତଳେ ରହେ। ମଝିରେ ଜାଗା। ରେବା ଝୁଡ଼ି ଉଠାନ୍ତି; କୁସୁମ ଖାଲି ଜାଗାକୁ ଥରେ ଚାହିଁ ହସେ।",
+            "en": "The folded bags sit at the bottom with room above. Reba lifts the basket. Kusum looks once at the empty space and smiles."
+          },
+          "sound": {
+            "or": "ଝୁଡ଼ି ଉଠିବା ଓ ଦୁଆରର ଶବ୍ଦ।",
+            "en": "Basket lifting and the door."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ଏବେ ଚାଲିବା?",
+                "en": "Shall we go now?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ହଁ। ଏଥର ଫେରିବା ପାଇଁ ବି ତିଆରି।",
+                "en": "Yes. Ready for coming back too."
+              }
+            }
+          ]
+        }
+      ],
+      "wardrobeImage": "/characters/regional-dress/assets/reba-wardrobe-study-v1.png"
+    },
+    {
+      "id": "kusum-let-me-finish",
+      "world": "koraput",
+      "focus": {
+        "id": "kusum",
+        "name": {
+          "or": "କୁସୁମ",
+          "en": "Kusum"
+        },
+        "profile": "/characters/koraput.html#character-1"
+      },
+      "title": {
+        "or": "ଆଗେ ଶୁଣ",
+        "en": "Hear Me Out"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ମନ୍ଦାର କିଛି କହିବା ଆଗରୁ କୁସୁମ ବ୍ୟାଗ୍ ଆଣିଦିଏ। ସେ ଆଉ ଅନୁମାନ ନକରି ଶୁଣିଲେ ଛୋଟ କାମଟି ସହଜ ହୁଏ।",
+        "en": "Kusum fetches a bag before Mandar can finish speaking. Listening instead of guessing makes the small task easier."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ତରତର ସାହାଯ୍ୟ → ଦ୍ୱିତୀୟ ଅନୁମାନରେ ନିଜକୁ ଥାମିବା → ସାଙ୍ଗକୁ କଥା ସାରିବାକୁ ଦେବା।",
+        "en": "Rushing to help → stopping a second guess → letting her cousin finish."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume."
+      },
+      "continuity": {
+        "or": "ମନ୍ଦାରର ଖାତା ଓ ପେନ୍‌ସିଲ୍ ମାଟିରେ ଅଛି। କୁସୁମ ଆଣିଥିବା ଖାଲି ବ୍ୟାଗ୍ ଶେଷରେ ପାଖରେ ରହିବ। ନୂଆ ଅଦୃଶ୍ୟ ଜିନିଷ ଆସିବନି।",
+        "en": "Mandar’s notebook and pencil are established on the ground. The empty bag Kusum brings stays beside them at the end. No unexplained new prop appears."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-1.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମନ୍ଦାର ଖାତା ଉପରେ ଏକ ଡବା ରଖିଛି। କୁସୁମ ତା’ ପାଖକୁ ଆସେ।",
+            "en": "Mandar has a box resting on his notebook. Kusum approaches."
+          },
+          "sound": {
+            "or": "ଖାତା ପୃଷ୍ଠାର ଶବ୍ଦ।",
+            "en": "Notebook pages."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "କୁସୁମ, ମୋତେ ଟିକେ…",
+                "en": "Kusum, could you just…"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ବ୍ୟାଗ୍ ଦରକାର? ଆଣୁଛି।",
+                "en": "Need a bag? I’ll get one."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୁସୁମ ବ୍ୟାଗ୍ ଆଣି ପାତେ। ମନ୍ଦାର ଡବାକୁ ଦେଖାଏ। ସେ ଆଉ ଗୋଟିଏ ଉତ୍ତର ଦେବାକୁ ଯାଇ ଥାମେ।",
+            "en": "Kusum opens the bag. Mandar points at the box. She starts another answer, then stops herself."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ନା… କହ।",
+                "en": "No… go on."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମନ୍ଦାର ଖାତା ତଳୁ ବାହାର କରିବାକୁ ହାତ ବଢ଼ାଏ। କୁସୁମ ଡବା ଧରେ।",
+            "en": "Mandar reaches for the notebook underneath. Kusum holds the box."
+          },
+          "sound": {
+            "or": "ଡବା ଉଠିବା ଓ କାଗଜ ଖସିବାର ଶବ୍ଦ।",
+            "en": "Box lifting and paper sliding."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ଏଇଟା ଟିକେ ଧର। ଖାତାଟା କାଢ଼ିବି।",
+                "en": "Hold this a moment. I want my notebook."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମନ୍ଦାର ଖାତା ଖୋଲେ। ଖାଲି ବ୍ୟାଗ୍ ଦୁହିଁଙ୍କ ପାଖରେ ପଡ଼ିଛି। କୁସୁମ ତାକୁ ଭାଙ୍ଗି ନିଜ ତଳେ ରଖି ବସେ।",
+            "en": "Mandar opens the notebook. The empty bag lies beside them. Kusum folds it under herself as a sitting pad."
+          },
+          "sound": {
+            "or": "ଛୋଟ ହସ।",
+            "en": "A small laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ବ୍ୟାଗ୍‌ଟା ମୋ କାମରେ ଲାଗିଲା।",
+                "en": "The bag turned out to be for me."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kusum-change-the-row",
+      "world": "koraput",
+      "focus": {
+        "id": "kusum",
+        "name": {
+          "or": "କୁସୁମ",
+          "en": "Kusum"
+        },
+        "profile": "/characters/koraput.html#character-1"
+      },
+      "title": {
+        "or": "ଧାଡ଼ି ବଦଳିଲା",
+        "en": "A Different Row"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "କୁସୁମ ସବୁ କପଡ଼ା ଟୁକୁଡ଼ାକୁ ରଙ୍ଗ ଅନୁସାରେ ସଜାଏ। ରେବା ଲମ୍ବା ଟୁକୁଡ଼ା ଖୋଜିଲେ ସେ ନିଜ ସୁନ୍ଦର ଧାଡ଼ିର ଆଉ ଏକ ବ୍ୟବସ୍ଥା କରେ।",
+        "en": "Kusum sorts cloth scraps by colour. When Reba needs long pieces, Kusum finds another way to organise her neat rows."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ନିଜ ବ୍ୟବସ୍ଥାରେ ଗର୍ବ → କାମର ଆବଶ୍ୟକତା ଦେଖିବା → ପୁଣି ସଜାଇବାର ଆନନ୍ଦ।",
+        "en": "Pride in her system → seeing what the work needs → enjoying a new arrangement."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ। ନୂଆ ଦୃଶ୍ୟରେ ରେବାଙ୍କ କାମର ପୋଷାକ ଅଧ୍ୟୟନ ବ୍ୟବହାର ହେବ: କ୍ରିମ୍ ଶାଢ଼ୀ, ଗାଢ଼ ଲାଲ ଧାର, ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ନିଜ ଡାହାଣ କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ କାମ ପାଇଁ ଟିକେ ଛୋଟ ଲମ୍ବ। ତଳ ଖୋସା, ଡାହାଣ ହାତରେ ଗୋଟିଏ ଚୁଡ଼ି। ଏହି କୋଟପାଡ଼ ପ୍ରେରିତ ଚିତ୍ରକଳ୍ପର ପିନ୍ଧଣି ଯାଞ୍ଚ ବାକି; ପୁରୁଣା ବାମ କାନ୍ଧର ମଡେଲ୍‌କୁ ସଂରକ୍ଷିତ ରଖାଯାଇଛି।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume. New scenes use Reba’s working-wardrobe study: cream sari, maroon border, short-sleeved blouse, secured end at her anatomical right shoulder and a slightly shorter working length. Low bun and one bangle on the right wrist. This Kotpad-informed illustrated interpretation still needs a practical draping check; the earlier left-shoulder model remains in the archive."
+      },
+      "continuity": {
+        "or": "ଧୋଇ ରଖା ସୂତା ଟୁକୁଡ଼ା; କଇଁଚି ବା ଛୁଞ୍ଚି ପିଲାଙ୍କ ପାଖରେ ନାହିଁ। ଶେଷରେ ଲମ୍ବା ଓ ଛୋଟ ଦୁଇ ଧାଡ଼ି। ଏହା ସ୍ୱତନ୍ତ୍ର ହସ୍ତତନ୍ତ ନକ୍ସା ଶିକ୍ଷା ନୁହେଁ।",
+        "en": "Clean cotton scraps; no scissors or needles near the children. End with long and short rows. This is not presented as instruction in a named textile tradition."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-1.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୁସୁମ ଚଟେଇରେ କ୍ରିମ୍ ଓ ଲାଲ ଟୁକୁଡ଼ାକୁ ଅଲଗା ଧାଡ଼ିରେ ସଜାଏ। ମନ୍ଦାର ଶେଷ ଟୁକୁଡ଼ା ଦିଏ।",
+            "en": "Kusum arranges cream and red scraps in separate rows. Mandar hands over the last piece."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା।",
+            "en": "Cloth brushing."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ଲାଲ ଏପଟେ, କ୍ରିମ୍ ସେପଟେ।",
+                "en": "Red here, cream there."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରେବା ଗୋଟିଏ ଲମ୍ବା ଟୁକୁଡ଼ା ଦେଖାନ୍ତି। କୁସୁମ ଦୁଇ ଧାଡ଼ି ଭିତରେ ଖୋଜେ।",
+            "en": "Reba shows a long strip. Kusum searches through both rows."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ହାଲୁକା ଖସ୍‌ଖସ୍।",
+            "en": "Light cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ଏମିତି ଲମ୍ବା ଆଉ ଦୁଇଟା ମିଳିବ?",
+                "en": "Can you find two more long ones like this?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "କୁସୁମ ନିଜ ଧାଡ଼ିକୁ ଚାହେଁ, ତା’ପରେ ଲମ୍ବା ଟୁକୁଡ଼ା ସବୁ ଆଗକୁ ଆଣେ। ମନ୍ଦାର ଛୋଟଗୁଡ଼ିକୁ ପଛରେ ରଖେ।",
+            "en": "Kusum looks at her rows, then brings all the long strips forward. Mandar puts the shorter pieces behind."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ଧୀର କାମର ଶବ୍ଦ।",
+            "en": "Quiet sounds of two people sorting."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ଆଜି ରଙ୍ଗ ଅପେକ୍ଷା ଲମ୍ବା ଦରକାର।",
+                "en": "Today we need the long ones first."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ରେବା ଦୁଇ ଟୁକୁଡ଼ା ନିଅନ୍ତି। କୁସୁମ ଏକ ଅତି ଛୋଟ ଟୁକୁଡ଼ା ପାଇଁ ତୃତୀୟ ଛୋଟ ଧାଡ଼ି କରେ।",
+            "en": "Reba takes two strips. Kusum makes a tiny third row for one very small scrap."
+          },
+          "sound": {
+            "or": "ମନ୍ଦାରର ହସ।",
+            "en": "Mandar laughs."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ତା’ ପାଇଁ ଏକା ଧାଡ଼ି?",
+                "en": "A whole row just for that?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ସବୁଠୁ ଛୋଟ ଧାଡ଼ି।",
+                "en": "The smallest row."
+              }
+            }
+          ]
+        }
+      ],
+      "wardrobeImage": "/characters/regional-dress/assets/reba-wardrobe-study-v1.png"
+    },
+    {
+      "id": "mandar-rustling-bag",
+      "world": "koraput",
+      "focus": {
+        "id": "mandar",
+        "name": {
+          "or": "ମନ୍ଦାର",
+          "en": "Mandar"
+        },
+        "profile": "/characters/koraput.html#character-2"
+      },
+      "title": {
+        "or": "ବ୍ୟାଗ୍ ଭିତରେ କିଏ?",
+        "en": "Who Is in the Bag?"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ଖାଲି ବ୍ୟାଗ୍ ପାଖରେ ଖସ୍‌ଖସ୍ ଶବ୍ଦ ଶୁଣି ମନ୍ଦାର ଏକ ବଡ଼ ଗପ ଆରମ୍ଭ କରେ। ନିଜେ ଦେଖିବାକୁ ଯାଇ ବ୍ୟାଗ୍ ପଛର ଶୁଖିଲା ପତ୍ର ପାଏ।",
+        "en": "A rustle near an empty bag gives Mandar the beginning of a grand tale. Looking for himself, he discovers a dry leaf behind it."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ଗପ ଆରମ୍ଭ → ସତର୍କ ଦେଖିବା → ନିଜ ଗପର ଶେଷ ବଦଳାଇ ହସାଇବା।",
+        "en": "Starting a tale → looking carefully → changing his ending to make everyone laugh."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume."
+      },
+      "continuity": {
+        "or": "ପତ୍ର ବ୍ୟାଗ୍ ପଛରେ ଆରମ୍ଭରୁ ରହିବ; ଶବ୍ଦ ତାହାରୁ। ଭିତରେ ପଶୁ ନାହିଁ। କୌଣସି ଅଜଣା ଜୀବକୁ ଛୁଇଁବା ଦୃଶ୍ୟ ନାହିଁ।",
+        "en": "The leaf is behind the bag from the start and causes the sound. There is no animal inside and no handling of an unknown creature."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-2.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବାରଣ୍ଡାରେ ଝୁଲିଥିବା ଖାଲି ବ୍ୟାଗ୍ ପବନରେ ହଲେ। ତା’ ପଛରେ ଏକ ଶୁଖିଲା ପତ୍ର କାନ୍ଥରେ ଘଷେ। ମନ୍ଦାର ଅଟକେ।",
+            "en": "An empty hanging bag sways. A dry leaf caught behind it brushes the wall. Mandar stops."
+          },
+          "sound": {
+            "or": "ଖସ୍‌ଖସ୍, ବିରାମ, ପୁଣି ଖସ୍‌ଖସ୍।",
+            "en": "Rustle, pause, rustle."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "କୁସୁମ, ବ୍ୟାଗ୍‌ଟା କଥା କହୁଛି!",
+                "en": "Kusum, the bag is talking!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମନ୍ଦାର କାନ ପାତି ଅତି ଗମ୍ଭୀର ଭାବ କରେ। କୁସୁମ ହସ ଲୁଚାଇ ବ୍ୟାଗ୍ ପଛକୁ ଦେଖାଏ।",
+            "en": "Mandar listens with exaggerated seriousness. Kusum hides a smile and points behind the bag."
+          },
+          "sound": {
+            "or": "ପବନ ଓ କପଡ଼ା।",
+            "en": "Wind and cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ପଛ ପଟଟା ଦେଖିଲୁ?",
+                "en": "Did you look behind it?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମନ୍ଦାର ଦୂରରୁ ପାଖକୁ ସରି ଦେଖେ। ପତ୍ର ଦେଖାଯାଏ। ପବନ ଥାମିଲେ ଶବ୍ଦ ବି ଥାମେ।",
+            "en": "Mandar moves sideways to look from a little distance. The leaf comes into view. Wind and rustle stop together."
+          },
+          "sound": {
+            "or": "ଶବ୍ଦ ହଠାତ୍ ଥାମେ।",
+            "en": "The rustle stops."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ଓଃ, ପତ୍ରଟା!",
+                "en": "Oh, it’s the leaf!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମନ୍ଦାର ଖାଲି ହାତରେ ପତ୍ର ହଲିବା ପରି ଅଭିନୟ କରେ। କୁସୁମ ହସେ। ପଛରେ ପତ୍ର ପୁଣି ହଲେ।",
+            "en": "Mandar acts out the leaf with his empty hands. Kusum laughs. Behind him, the leaf begins moving again."
+          },
+          "sound": {
+            "or": "ଖସ୍‌ଖସ୍ ଓ ହସ।",
+            "en": "Rustling and laughter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ମୋ ଗପରେ ବାଘ ଥିଲା। ଏବେ ପତ୍ର ହେଲା।",
+                "en": "My story had a tiger. Now it has a leaf."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mandar-small-audience",
+      "world": "koraput",
+      "focus": {
+        "id": "mandar",
+        "name": {
+          "or": "ମନ୍ଦାର",
+          "en": "Mandar"
+        },
+        "profile": "/characters/koraput.html#character-2"
+      },
+      "title": {
+        "or": "ଜଣେ ଶ୍ରୋତା କମିଗଲା",
+        "en": "One Listener Less"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ମନ୍ଦାର ନିଜ ଗପର ଶ୍ରୋତାଙ୍କୁ ଗଣିଲାବେଳେ ଚିକୁକୁ ବି ଗଣେ। ଚିକୁ ଚାଲିଗଲେ ତା’ର ଗପ ଅଟକେ, ପୁଣି ହସରେ ଆରମ୍ଭ ହୁଏ।",
+        "en": "Mandar counts Chiku among his listeners. When the squirrel leaves, his story falters, then begins again with a laugh."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ବଡ଼ କଥକର ଭଙ୍ଗୀ → ଶ୍ରୋତା ଚାଲିଯିବାରେ ଅଟକିବା → ଅବଶିଷ୍ଟ ଲୋକଙ୍କ ସହ ସତ କଥାବାର୍ତ୍ତା।",
+        "en": "Grand storyteller pose → losing a listener → talking naturally with the people who remain."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ। ନୂଆ ଦୃଶ୍ୟରେ ରେବାଙ୍କ କାମର ପୋଷାକ ଅଧ୍ୟୟନ ବ୍ୟବହାର ହେବ: କ୍ରିମ୍ ଶାଢ଼ୀ, ଗାଢ଼ ଲାଲ ଧାର, ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ନିଜ ଡାହାଣ କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ କାମ ପାଇଁ ଟିକେ ଛୋଟ ଲମ୍ବ। ତଳ ଖୋସା, ଡାହାଣ ହାତରେ ଗୋଟିଏ ଚୁଡ଼ି। ଏହି କୋଟପାଡ଼ ପ୍ରେରିତ ଚିତ୍ରକଳ୍ପର ପିନ୍ଧଣି ଯାଞ୍ଚ ବାକି; ପୁରୁଣା ବାମ କାନ୍ଧର ମଡେଲ୍‌କୁ ସଂରକ୍ଷିତ ରଖାଯାଇଛି।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume. New scenes use Reba’s working-wardrobe study: cream sari, maroon border, short-sleeved blouse, secured end at her anatomical right shoulder and a slightly shorter working length. Low bun and one bangle on the right wrist. This Kotpad-informed illustrated interpretation still needs a practical draping check; the earlier left-shoulder model remains in the archive."
+      },
+      "continuity": {
+        "or": "ଚିକୁ ପଛ କାନ୍ଥରେ ନିଜେ ପରିବେଶ ଦେଖେ; ଗପ ବୁଝୁଛି ବୋଲି ଦେଖାଇବା ନାହିଁ। ମନ୍ଦାରର କାନ୍ଧ କପଡ଼ା ବାମେ ରହିବ।",
+        "en": "Chiku surveys its surroundings on the rear wall; do not imply it understands the story. Mandar’s shoulder cloth stays on his left."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-2.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମନ୍ଦାର ଠିଆ, କୁସୁମ ଓ ରେବା ବସିଛନ୍ତି। ପଛ କାନ୍ଥରେ ଚିକୁ। ମନ୍ଦାର ତିନି ଆଙ୍ଗୁଠି ଦେଖାଏ।",
+            "en": "Mandar stands before seated Kusum and Reba. Chiku is on the back wall. Mandar holds up three fingers."
+          },
+          "sound": {
+            "or": "ଅଗଣାର ଶବ୍ଦ।",
+            "en": "Courtyard sounds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ଆଜି ମୋ ଗପ ତିନିଜଣ ଶୁଣିବେ।",
+                "en": "Three listeners for my story today."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସେ ଦୁଇ ହାତ ବଢ଼ାଇ ବଡ଼ କିଛି ଦେଖାଏ। ଚିକୁ ପଛରୁ ଡାଳକୁ ଚାଲିଯାଏ।",
+            "en": "He spreads his arms to describe something enormous. Chiku moves from the wall to a branch behind him."
+          },
+          "sound": {
+            "or": "ପତ୍ର ଓ ଛୋଟ ପାଦ ଶବ୍ଦ।",
+            "en": "Leaves and little claws."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ସେତେବେଳେ ଏତେ ବଡ଼…",
+                "en": "And then, something this big…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମନ୍ଦାର ପଛକୁ ଚାହେଁ। ଖାଲି କାନ୍ଥ। ତା’ ହାତ ତଳକୁ ଆସେ। ରେବା ମନଦେଇ ତା’କୁ ଚାହିଁଛନ୍ତି।",
+            "en": "Mandar looks back at the empty wall. His arms drop. Reba is still watching him attentively."
+          },
+          "sound": {
+            "or": "ଏକ ବିରାମ।",
+            "en": "A pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ଆମେ ଦୁଇଜଣ ତ ଅଛୁ।",
+                "en": "The two of us are still here."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ମନ୍ଦାର ଦୁହିଁଙ୍କ ପାଖେ ବସେ। ଛୋଟ ସ୍ୱରରେ ଗପ ଆରମ୍ଭ କରେ। କୁସୁମ ଆଗକୁ ଝୁଙ୍କେ।",
+            "en": "Mandar sits beside them and starts in a quieter voice. Kusum leans in."
+          },
+          "sound": {
+            "or": "ନରମ କଥା ଓ ଦୂର ପତ୍ର।",
+            "en": "Quiet speech and distant leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ତାହେଲେ ଆଗରୁ କହୁଛି। ଏତେ ବଡ଼ କିଛି ନଥିଲା…",
+                "en": "Then I’ll start again. It wasn’t really that big…"
+              }
+            }
+          ]
+        }
+      ],
+      "wardrobeImage": "/characters/regional-dress/assets/reba-wardrobe-study-v1.png"
+    },
+    {
+      "id": "mandar-long-shadow",
+      "world": "koraput",
+      "focus": {
+        "id": "mandar",
+        "name": {
+          "or": "ମନ୍ଦାର",
+          "en": "Mandar"
+        },
+        "profile": "/characters/koraput.html#character-2"
+      },
+      "title": {
+        "or": "ଲମ୍ବା ଲାଞ୍ଜର ଛାଇ",
+        "en": "The Long Tail Shadow"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "କାନ୍ଥରେ ଚିକୁର ବଡ଼ ଛାଇ ଦେଖି ମନ୍ଦାର ଚମକେ। ନିଜ ଛାଇକୁ ଦେଖିଲେ ସେ ଗୋଟିଏ ନୂଆ ଅଭିନୟ ପାଏ।",
+        "en": "Chiku’s large shadow startles Mandar. Looking at his own shadow gives him a new performance."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ଛୋଟ ଚମକ → ଆଲୋକର ଦିଗ ଦେଖିବା → ନିଜ ଅଭିନୟରେ ମଜା।",
+        "en": "A small start → tracing the light → playful acting."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume."
+      },
+      "continuity": {
+        "or": "ସନ୍ଧ୍ୟା ପୂର୍ବର ତଳ ସୂର୍ଯ୍ୟ ଏକେ ଦିଗରେ। ଚିକୁ ଛୋଟ ରହିବ; ଛାଇ ବଡ଼ ହେବ। ଏହା ମନ୍ଦାରର କଳ୍ପନା, ବଡ଼ ପଶୁ ନୁହେଁ।",
+        "en": "Low late-afternoon sunlight stays in one direction. Chiku remains small while its shadow stretches. The grand animal is Mandar’s fancy, not a real larger creature."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-2.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କାନ୍ଥ ଉପରେ ଚିକୁ ବସେ। ତା’ ଲାଞ୍ଜର ଲମ୍ବା ଛାଇ ପାଖ କାନ୍ଥରେ ପଡ଼େ। ମନ୍ଦାର ପ୍ରଥମେ ଛାଇ ଦେଖେ।",
+            "en": "Chiku sits on a wall. Its tail casts a long shadow onto the adjacent wall. Mandar sees the shadow first."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପତ୍ର।",
+            "en": "Light leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ଏତେ ବଡ଼ ଲାଞ୍ଜ!",
+                "en": "What a huge tail!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୁସୁମ ଉପରକୁ ଚାହେଁ। ମନ୍ଦାର ତା’ ଦୃଷ୍ଟିକୁ ଅନୁସରଣ କରି ଛୋଟ ଚିକୁକୁ ଦେଖେ।",
+            "en": "Kusum looks up. Mandar follows her gaze to the small squirrel."
+          },
+          "sound": {
+            "or": "ଚିକୁର ହାଲୁକା ପାଦ ଶବ୍ଦ।",
+            "en": "Light squirrel steps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ଉପରେ କିଏ ଅଛି ଦେଖ।",
+                "en": "Look who’s up there."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମନ୍ଦାର ନିଜ ଛାଇ ପାଖେ ଠିଆ ହୁଏ। ହାତ ଉଠାଇଲେ ଛାଇର ହାତ ବଡ଼ ଦିଶେ। ସେ ଚାଲିବାର ଭଙ୍ଗୀ ବଦଳାଏ।",
+            "en": "Mandar stands beside his own shadow. His raised hand looks large on the wall. He changes his walk."
+          },
+          "sound": {
+            "or": "ଦୁଇ ଧୀର ଚପଲ ଟପ୍।",
+            "en": "Two slow sandal taps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ମୁଁ ବି ବଡ଼ ହୋଇଗଲି!",
+                "en": "I’ve grown too!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମନ୍ଦାର ଲମ୍ବା ପାଦ ପକାଏ; କୁସୁମ ତା’ ପାଖେ ନିଜ ଛାଇ ଯୋଡ଼େ। ଚିକୁ ନିଜ ବାଟେ ଡାଳକୁ ଯାଏ।",
+            "en": "Mandar takes long steps; Kusum adds her own shadow beside his. Chiku goes on towards a branch."
+          },
+          "sound": {
+            "or": "ହସ ଓ ପତ୍ର ହଲିବାର ଶବ୍ଦ।",
+            "en": "Laughter and moving leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ଘର ଦୁଆରେ ମୁଣ୍ଡ ବାଜିବ!",
+                "en": "Mind your head at the door!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reba-one-last-seam",
+      "world": "koraput",
+      "focus": {
+        "id": "reba",
+        "name": {
+          "or": "ରେବା ମାଉସୀ",
+          "en": "Reba Mausi"
+        },
+        "profile": "/characters/koraput.html#character-3"
+      },
+      "title": {
+        "or": "ଏଇ ସିଲେଇଟା ସରୁ",
+        "en": "Just This Seam"
+      },
+      "duration": 58,
+      "premise": {
+        "or": "ରେବା ଆଉ ଟିକେ କାମ ସାରିବାକୁ କହି ପିଲାଙ୍କ ଗପ ଶୁଣିପାରନ୍ତିନି। ହାତର ସିଲେଇ ସାରି ସେ ନିଜେ କାମ ରଖି ଗପ ପାଇଁ ବସନ୍ତି।",
+        "en": "Reba keeps asking for a little longer and misses the children’s story. After finishing the seam in her hands, she puts the work down and makes time to listen."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "କାମରେ ବୁଡ଼ିରହିବା → ନିଜ ଅଧା ଶୁଣା ଉତ୍ତର ଧରିପକାଇବା → ସଚେତନ ବିରାମ ଓ ମନଦେଇ ଶୁଣିବା।",
+        "en": "Absorbed work → catching her own half-heard answer → a deliberate pause and full attention."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ। ନୂଆ ଦୃଶ୍ୟରେ ରେବାଙ୍କ କାମର ପୋଷାକ ଅଧ୍ୟୟନ ବ୍ୟବହାର ହେବ: କ୍ରିମ୍ ଶାଢ଼ୀ, ଗାଢ଼ ଲାଲ ଧାର, ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ନିଜ ଡାହାଣ କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ କାମ ପାଇଁ ଟିକେ ଛୋଟ ଲମ୍ବ। ତଳ ଖୋସା, ଡାହାଣ ହାତରେ ଗୋଟିଏ ଚୁଡ଼ି। ଏହି କୋଟପାଡ଼ ପ୍ରେରିତ ଚିତ୍ରକଳ୍ପର ପିନ୍ଧଣି ଯାଞ୍ଚ ବାକି; ପୁରୁଣା ବାମ କାନ୍ଧର ମଡେଲ୍‌କୁ ସଂରକ୍ଷିତ ରଖାଯାଇଛି।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume. New scenes use Reba’s working-wardrobe study: cream sari, maroon border, short-sleeved blouse, secured end at her anatomical right shoulder and a slightly shorter working length. Low bun and one bangle on the right wrist. This Kotpad-informed illustrated interpretation still needs a practical draping check; the earlier left-shoulder model remains in the archive."
+      },
+      "continuity": {
+        "or": "ରେବା ନିଜ ଡାହାଣ କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ ଡାହାଣ ହାତର ଗୋଟିଏ ଚୁଡ଼ି ରଖିବେ। ସେଇ ଏକ ବ୍ୟାଗ୍, ଶେଷ ଛୋଟ ସିଲେଇ। ଛୁଞ୍ଚି କେବଳ ତାଙ୍କ ହାତରେ; ଶେଷରେ ଛୁଞ୍ଚି ଗଦିରେ ରଖି ଡବା ବନ୍ଦ କରିବେ।",
+        "en": "Reba’s secured sari end stays on her anatomical right shoulder, with one bangle on her right wrist. One bag and its last short seam. Only she handles the needle; she puts it in a needle cushion and closes the box before stopping."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-3.webp",
+      "scenes": [
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ରେବା ବାରଣ୍ଡାରେ ବସି ବ୍ୟାଗ୍‌ର ଶେଷ ସିଲେଇ କରନ୍ତି। କୁସୁମ ଓ ମନ୍ଦାର ପାଖରେ ଅପେକ୍ଷା କରୁଛନ୍ତି। ସେ ମୁହଁ ନଉଠାଇ କଥା କହନ୍ତି।",
+            "en": "Reba sits on the veranda finishing a bag seam. Kusum and Mandar wait nearby. She speaks without looking up."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଓ ସୂତା ଟାଣିବାର ଶବ୍ଦ।",
+            "en": "Cloth and thread pulling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ଏଇ ସିଲେଇଟା ସରୁ। ତା’ପରେ ଶୁଣିବି।",
+                "en": "Just let me finish this seam. Then I’ll listen."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମନ୍ଦାର ଦୁଇ ହାତରେ ଗୋଟିଏ ଛୋଟ ଗୋଲ ଦେଖାଇ କହେ। ରେବା ଅଭ୍ୟାସରେ ମୁଣ୍ଡ ହଲାନ୍ତି, କିନ୍ତୁ ଅନ୍ୟ ଉତ୍ତର ଦିଅନ୍ତି। କୁସୁମ ତାଙ୍କୁ ଚାହେଁ।",
+            "en": "Mandar makes a little circle with his hands. Reba nods automatically but answers something else. Kusum looks at her."
+          },
+          "sound": {
+            "or": "ମନ୍ଦାରର କଥା; ସୂତାର ଶବ୍ଦ ଥାମେ।",
+            "en": "Mandar’s voice; the thread sound stops."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ତା’ପରେ ମୋ ଗୋଲା ଗଡ଼ିଗଲା।",
+                "en": "Then my ball rolled away."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ହଁ, ବ୍ୟାଗ୍‌ଟା ସରିଗଲା।",
+                "en": "Yes, the bag is finished."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ରେବା ମୁଣ୍ଡ ଉଠାଇ ପିଲାଙ୍କ ମୁହଁ ଦେଖନ୍ତି। ନିଜ ଭୁଲ୍ ବୁଝି ହସନ୍ତି। ଛୁଞ୍ଚି ଗଦିରେ ରଖି ଛୋଟ ଡବା ବନ୍ଦ କରନ୍ତି।",
+            "en": "Reba looks up at their faces and smiles at her mistake. She puts the needle in its cushion and closes the small box."
+          },
+          "sound": {
+            "or": "ଡବା ବନ୍ଦ ହେବାର ଟିକ୍।",
+            "en": "A little click as the box closes."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ମୁଁ ତ ବ୍ୟାଗ୍‌ର କଥା ଶୁଣୁଥିଲି! ଆଗରୁ କହ।",
+                "en": "I was still listening to the bag! Start again."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ରେବା ବ୍ୟାଗ୍ ଓ ବନ୍ଦ ଡବାକୁ ପାଖରେ ରଖି ପିଲାଙ୍କ ଆଡ଼କୁ ବୁଲି ବସନ୍ତି। ମନ୍ଦାର ହାତରେ ଗୋଲା ଗଡ଼ିବା ଦେଖାଏ। କୁସୁମ ନିଜ ପାଦ ଦେଖାଇ ଗପରେ ଯୋଗଦିଏ।",
+            "en": "Reba puts the bag and closed box aside and turns towards the children. Mandar acts out the rolling ball; Kusum points to her foot and joins in."
+          },
+          "sound": {
+            "or": "କଥା ଓ ଏକାଠି ହସ। ଶେଷରେ ନିରବ ଧ୍ୟାନ।",
+            "en": "Talk and a shared laugh. End with quiet attention."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ଗୋଲାଟା ମୋ ପାଦରେ ଅଟକିଗଲା।",
+                "en": "The ball stopped at my foot."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ତା’ପରେ?",
+                "en": "And then?"
+              }
+            }
+          ]
+        }
+      ],
+      "wardrobeImage": "/characters/regional-dress/assets/reba-wardrobe-study-v1.png",
+      "storyboard": {
+        "sheet": "/characters/films/reba-one-last-seam/pencil-storyboard-v1.png",
+        "page": "/characters/films/reba-one-last-seam/index.html",
+        "archive": "koraput-films",
+        "file": "pencil-storyboard-v1.png",
+        "medium": {
+          "or": "ପେନ୍‌ସିଲ୍ ଓ ହାଲୁକା ରଙ୍ଗ · ଗତିର ପରୀକ୍ଷା",
+          "en": "Pencil and light colour · A pacing study"
+        },
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ଦୃଶ୍ୟରେ ୫୮ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। କଣ୍ଠ ବା ଧ୍ୱନି ରେକର୍ଡ ନାହିଁ। ରେବାଙ୍କ କାମର ପୋଷାକ ଅଧ୍ୟୟନକୁ ଏହି ଦୃଶ୍ୟରେ ପରୀକ୍ଷା କରାଯାଇଛି।",
+          "en": "A 58-second pacing study using four still frames, with no recorded voice or sound. This scene tests Reba’s working-wardrobe study."
+        },
+        "development": {
+          "or": "ପୂର୍ବ ଚରିତ୍ରର ମୁହଁ, ବେଣୀ, କପଡ଼ା ଓ ସମ୍ପର୍କ ରଖି ନୂଆ ଘଟଣା ଆଙ୍କାଗଲା। ରେବାଙ୍କ ଡାହାଣ କାନ୍ଧର ଗଣ୍ଠି ଓ ଡାହାଣ ହାତର ଗୋଟିଏ ଚୁଡ଼ି ପ୍ରତି ଦୃଶ୍ୟରେ ଯାଞ୍ଚ ହେଲା। ଡବା ବନ୍ଦ କରିବା ପରେ ସେ ପିଲାଙ୍କ ଆଡ଼କୁ ବୁଲି ବସନ୍ତି। ପିନ୍ଧଣିର ବ୍ୟବହାରିକ ଯାଞ୍ଚ, ହାତର ମଧ୍ୟବର୍ତ୍ତୀ ଚଳନ ଓ କଣ୍ଠ ଏବେ ବାକି।",
+          "en": "The new scene retains the established faces, plaits, clothes and relationships. Reba’s right-shoulder knot and single right-wrist bangle were checked across the frames. Closing the sewing box precedes her turn towards the children. Practical draping checks, the hand movements between poses and voices remain ahead."
+        }
+      }
+    },
+    {
+      "id": "reba-other-pocket",
+      "world": "koraput",
+      "focus": {
+        "id": "reba",
+        "name": {
+          "or": "ରେବା ମାଉସୀ",
+          "en": "Reba Mausi"
+        },
+        "profile": "/characters/koraput.html#character-3"
+      },
+      "title": {
+        "or": "ଅନ୍ୟ ପକେଟ୍‌ରେ",
+        "en": "In the Other Pocket"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ହାଟର ତାଲିକା ଖୋଜି ରେବା ଏକେ ପକେଟ୍ ଦୁଇଥର ଦେଖନ୍ତି। କୁସୁମର ଛୋଟ ସ୍ମରଣରେ ସେ ତାହା ନିଜ ବ୍ୟାଗ୍‌ରେ ପାଆନ୍ତି।",
+        "en": "Reba checks the same pocket twice for the market list. Kusum’s small reminder helps her find it in her own bag."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ତରତର ଖୋଜା → ସ୍ମରଣ ଗ୍ରହଣ → ନିଜ ଅଭ୍ୟାସକୁ ନେଇ ହାଲୁକା ହସ।",
+        "en": "Hurried searching → accepting a reminder → gentle amusement at her own habit."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ। ନୂଆ ଦୃଶ୍ୟରେ ରେବାଙ୍କ କାମର ପୋଷାକ ଅଧ୍ୟୟନ ବ୍ୟବହାର ହେବ: କ୍ରିମ୍ ଶାଢ଼ୀ, ଗାଢ଼ ଲାଲ ଧାର, ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ନିଜ ଡାହାଣ କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ କାମ ପାଇଁ ଟିକେ ଛୋଟ ଲମ୍ବ। ତଳ ଖୋସା, ଡାହାଣ ହାତରେ ଗୋଟିଏ ଚୁଡ଼ି। ଏହି କୋଟପାଡ଼ ପ୍ରେରିତ ଚିତ୍ରକଳ୍ପର ପିନ୍ଧଣି ଯାଞ୍ଚ ବାକି; ପୁରୁଣା ବାମ କାନ୍ଧର ମଡେଲ୍‌କୁ ସଂରକ୍ଷିତ ରଖାଯାଇଛି।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume. New scenes use Reba’s working-wardrobe study: cream sari, maroon border, short-sleeved blouse, secured end at her anatomical right shoulder and a slightly shorter working length. Low bun and one bangle on the right wrist. This Kotpad-informed illustrated interpretation still needs a practical draping check; the earlier left-shoulder model remains in the archive."
+      },
+      "continuity": {
+        "or": "କ୍ରିମ୍ ବ୍ୟାଗ୍‌ର ବାହାରେ ଲାଲ ପକେଟ୍, ଭିତରେ ଛୋଟ ପକେଟ୍। ପ୍ରଥମ ଦୃଶ୍ୟରେ ଭିତର ପକେଟ୍‌ରେ ତାଲିକାର ଧାର ଦର୍ଶକ ଦେଖିପାରିବେ।",
+        "en": "Cream bag with an outer red pocket and a small inner pocket. Let the viewer glimpse the list’s edge in the inner pocket in the first shot."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-3.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରେବା ହାଟକୁ ଯିବା ଆଗରୁ ବ୍ୟାଗ୍‌ର ବାହାର ପକେଟ୍ ଦେଖନ୍ତି। ତାଲିକା ନାହିଁ।",
+            "en": "Before leaving for the market, Reba checks the bag’s outer pocket. No list."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଖସ୍‌ଖସ୍।",
+            "en": "Cloth rustles."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ତାଲିକାଟା ଏଇଠି ରଖିଥିଲି।",
+                "en": "I put the list right here."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସେ ଚାରିଆଡ଼େ ଚାହିଁ ପୁଣି ସେଇ ପକେଟ୍ ଦେଖନ୍ତି। କୁସୁମ ତାଙ୍କ ପାଖକୁ ଆସେ।",
+            "en": "She looks around, then checks the same pocket again. Kusum comes beside her."
+          },
+          "sound": {
+            "or": "ଏକ ଛୋଟ ନିଶ୍ୱାସ।",
+            "en": "A small breath."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "କାଲି ଭିତର ପକେଟ୍‌ରେ ରଖିଲନି?",
+                "en": "Didn’t you put it in the inner pocket yesterday?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ରେବା ଭିତର ପକେଟ୍ ଖୋଲି ତାଲିକା ପାଆନ୍ତି। ନିଜ ହାତରେ ତାକୁ ସିଧା କରନ୍ତି।",
+            "en": "Reba opens the inner pocket and finds the list. She smooths it with her hand."
+          },
+          "sound": {
+            "or": "କାଗଜ ଖୋଲିବାର ଶବ୍ଦ।",
+            "en": "Paper unfolding."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ହଁ। ନିରାପଦରେ ରଖି ନିଜେ ଭୁଲିଗଲି।",
+                "en": "Yes. Kept it safe, then forgot where."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ରେବା ତାଲିକା ପୁଣି ସେଇ ଭିତର ପକେଟ୍‌ରେ ରଖନ୍ତି, କୁସୁମକୁ ଦେଖାଇ। କୁସୁମ ମୁଣ୍ଡ ହଲାଏ।",
+            "en": "Reba puts the list back in the inner pocket, making sure Kusum sees. Kusum nods."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ହସ ଓ ବାହାରକୁ ପାଦ।",
+            "en": "A quiet laugh and departing steps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ଏଥର ଦୁଇଜଣ ମନେ ରଖିବା।",
+                "en": "This time we’ll both remember."
+              }
+            }
+          ]
+        }
+      ],
+      "wardrobeImage": "/characters/regional-dress/assets/reba-wardrobe-study-v1.png"
+    },
+    {
+      "id": "reba-patch-faces-in",
+      "world": "koraput",
+      "focus": {
+        "id": "reba",
+        "name": {
+          "or": "ରେବା ମାଉସୀ",
+          "en": "Reba Mausi"
+        },
+        "profile": "/characters/koraput.html#character-3"
+      },
+      "title": {
+        "or": "ତଳ ପଟର ମରାମତି",
+        "en": "The Repair Underneath"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ପୁରୁଣା ବ୍ୟାଗ୍‌ର ତଳେ ରେବା ଏକ ଟୁକୁଡ଼ା ଲଗାନ୍ତି। ମନ୍ଦାର ତାହା କେହି ଦେଖିବେନି ବୋଲି କହିଲେ ସେ ଖାଲି ବ୍ୟାଗ୍‌ରେ ଏକ ହାଲୁକା ଜିନିଷ ରଖି କାମଟା ଦେଖାନ୍ତି।",
+        "en": "Reba patches the bottom of an old bag. When Mandar says nobody will see it, she shows him what the repair does."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ନିଜ କାମରେ ଧ୍ୟାନ → ପ୍ରଶ୍ନ ଶୁଣିବା → ବଡ଼ ଉପଦେଶ ବିନା କାମ କରି ଉତ୍ତର।",
+        "en": "Concentration → hearing a question → answering through the object rather than a lecture."
+      },
+      "wardrobe": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, କ୍ରିମ୍ ବ୍ଲାଉଜ୍‌ର ହାତରେ ମାଟିଆ ଲାଲ ଧାର ଓ ମାଟିଆ ଲାଲ ସ୍କର୍ଟର ତଳେ ଦୁଇ ହାଲୁକା ଧାର। ମନ୍ଦାରର ସବୁଜ ସାର୍ଟ, ମାଟିଆ ହଳଦିଆ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ନିଜ ବାମ କାନ୍ଧରେ କ୍ରିମ୍ କପଡ଼ା। ସାଧାରଣ ଚପଲ। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ପୋଷାକ, କୌଣସି ସମୁଦାୟର ନିର୍ଦ୍ଦିଷ୍ଟ ସଜ ନୁହେଁ। ନୂଆ ଦୃଶ୍ୟରେ ରେବାଙ୍କ କାମର ପୋଷାକ ଅଧ୍ୟୟନ ବ୍ୟବହାର ହେବ: କ୍ରିମ୍ ଶାଢ଼ୀ, ଗାଢ଼ ଲାଲ ଧାର, ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ନିଜ ଡାହାଣ କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ କାମ ପାଇଁ ଟିକେ ଛୋଟ ଲମ୍ବ। ତଳ ଖୋସା, ଡାହାଣ ହାତରେ ଗୋଟିଏ ଚୁଡ଼ି। ଏହି କୋଟପାଡ଼ ପ୍ରେରିତ ଚିତ୍ରକଳ୍ପର ପିନ୍ଧଣି ଯାଞ୍ଚ ବାକି; ପୁରୁଣା ବାମ କାନ୍ଧର ମଡେଲ୍‌କୁ ସଂରକ୍ଷିତ ରଖାଯାଇଛି।",
+        "en": "Kusum keeps two plaits, cream blouse with rust sleeve bands, and rust skirt with two pale hem bands. Mandar wears a green shirt, ochre shorts and a cream cloth on his anatomical left shoulder. Ordinary sandals. These are the fictional children’s clothes, not a prescribed community costume. New scenes use Reba’s working-wardrobe study: cream sari, maroon border, short-sleeved blouse, secured end at her anatomical right shoulder and a slightly shorter working length. Low bun and one bangle on the right wrist. This Kotpad-informed illustrated interpretation still needs a practical draping check; the earlier left-shoulder model remains in the archive."
+      },
+      "continuity": {
+        "or": "ଆଗରୁ ସିଲେଇ ସରିଥିବା ବ୍ୟାଗ୍; ଏହି ଦୃଶ୍ୟରେ ଖୋଲା ଛୁଞ୍ଚି ନାହିଁ। ମରାମତି ଭିତର ତଳେ, ବାହାର ଲାଲ ପକେଟ୍ ସହ ମିଶିବନି। ହାଲୁକା କାଠ ଚାମଚରେ ପରୀକ୍ଷା।",
+        "en": "The stitching is already complete; no exposed needle in this scene. The repair sits inside the base, distinct from the outer red pocket. Test it with a light wooden spoon."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-natural-v2.png",
+      "preview": "/characters/assets/koraput-character-3.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରେବା ବ୍ୟାଗ୍ ଓଲଟାଇ ଭିତର ତଳର ସିଲେଇ ଦେଖନ୍ତି। ମନ୍ଦାର ଝୁଙ୍କି ଦେଖେ।",
+            "en": "Reba turns the bag inside out and examines the seam at its base. Mandar leans over to see."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଓଲଟିବାର ଶବ୍ଦ।",
+            "en": "Cloth turning."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ଏଇଟା ତ କେହି ଦେଖିବେନି।",
+                "en": "Nobody will see that bit."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରେବା ବ୍ୟାଗ୍ ସିଧା କରି ଖୋଲା ମୁହଁ ତା’ ଆଡ଼କୁ କରନ୍ତି। ମନ୍ଦାର ପାଖର କାଠ ଚାମଚ ଉଠାଏ।",
+            "en": "Reba turns the bag right side out and holds it open towards him. Mandar picks up the wooden spoon beside them."
+          },
+          "sound": {
+            "or": "ଛୋଟ କାଠ ଟକ୍।",
+            "en": "A small wooden tap."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ଏଇଟା ଭିତରେ ରଖ।",
+                "en": "Put that inside."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଚାମଚ ତଳେ ରହେ। ରେବା ବ୍ୟାଗ୍ ଅଳ୍ପ ଉଠାନ୍ତି। ମନ୍ଦାର ତଳକୁ ଦେଖେ—କିଛି ଖସେନି।",
+            "en": "The spoon settles at the base. Reba lifts the bag a little. Mandar looks underneath. Nothing falls out."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ଥପ୍, ତା’ପରେ ବିରାମ।",
+            "en": "A soft thump, then a pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ଏବେ ଆଉ ଖସିବନି।",
+                "en": "Now it won’t fall through."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ରେବା ତା’କୁ ବ୍ୟାଗ୍ ଧରିବାକୁ ଦିଅନ୍ତି। ସେ ଦୁଇ ହାତରେ ଧରି ପୁଣି ତଳକୁ ଦେଖେ। ରେବା ହସି ନିଜ ଟୁକୁଡ଼ା ଡବା ବନ୍ଦ କରନ୍ତି।",
+            "en": "Reba lets him hold the bag. He takes both handles and checks underneath again. Smiling, she closes her scrap box."
+          },
+          "sound": {
+            "or": "ଡବା ବନ୍ଦ ଓ ହାଲୁକା ହସ।",
+            "en": "Box closing and a soft laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରେବା ମାଉସୀ",
+                "en": "Reba Mausi"
+              },
+              "text": {
+                "or": "ଅଦେଖା ଜାଗାରେ ବି କାମ ଅଛି।",
+                "en": "There’s work in the bits you don’t see too."
+              }
+            }
+          ]
+        }
+      ],
+      "wardrobeImage": "/characters/regional-dress/assets/reba-wardrobe-study-v1.png"
+    },
+    {
+      "id": "chiku-round-the-stone",
+      "world": "koraput",
+      "focus": {
+        "id": "chiku",
+        "name": {
+          "or": "ଚିକୁ",
+          "en": "Chiku"
+        },
+        "profile": "/characters/koraput.html#character-4"
+      },
+      "title": {
+        "or": "ପଥରର ଅନ୍ୟ ପଟେ",
+        "en": "Around the Stone"
+      },
+      "duration": 50,
+      "premise": {
+        "or": "ଚିକୁ ଧରିଥିବା ଛୋଟ ଶୁଖିଲା ମଞ୍ଜି ଖସି ପଥର ପଛକୁ ଗଡ଼େ। ଏପଟରୁ ନପାଇ ସେ ଅନ୍ୟ ପଟେ ଯାଇ ତାହା ଉଠାଏ।",
+        "en": "A small dry seed slips from Chiku’s paws and rolls behind a stone. Unable to reach from this side, the squirrel goes around."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ନିଜ ଖାଦ୍ୟରେ ଧ୍ୟାନ → ଛୋଟ ବାଧା → ବାଟ ବଦଳାଇ ପୁଣି ନିଜ କାମ।",
+        "en": "Attending to food → a small obstacle → a different route back to its own business."
+      },
+      "wardrobe": {
+        "or": "ଚିକୁ ଏକ ମୁକ୍ତଜୀବୀ ଗୁଣ୍ଡୁଚି ମୂଷା। ପିଠିରେ ତିନି ଲମ୍ବା ହାଲୁକା ଦାଗ, କ୍ରିମ୍ ପେଟ, ଛୋଟ ଗୋଲ କାନ ଓ ଘନ ଲାଞ୍ଜ। ପୋଷାକ ବା ଅଳଙ୍କାର ନାହିଁ। ପିଲାଙ୍କ ତୁଳନାରେ ଆକାର ଛୋଟ ରହିବ।",
+        "en": "Chiku is a free-living three-striped palm squirrel: three pale longitudinal back stripes, cream underside, small rounded ears and a bushy tail. No clothes or ornaments. Keep its small scale relative to the children."
+      },
+      "continuity": {
+        "or": "ମଞ୍ଜିଟି ଗୋଟିଏ; ପଥର ପାଖରେ କ୍ୟାମେରା ବଦଳିଲେ ବି ତା’ ସ୍ଥାନ ମେଳିବ। ମଣିଷ ଖାଦ୍ୟ ଦେଉନାହାନ୍ତି। ଏହା ଏକ କାଳ୍ପନିକ ଛୋଟ ଘଟଣା, ପଶୁ ଆଚରଣର ପାଠ ନୁହେଁ।",
+        "en": "One seed, with consistent position when the camera changes. No human feeding. This is an imagined small incident, not a lesson claiming a fixed animal behaviour."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-character-4.webp",
+      "preview": "/characters/assets/koraput-character-4.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଅଗଣା ଧାରରେ ଚିକୁ ଦୁଇ ଆଗ ପାଦରେ ଛୋଟ ଶୁଖିଲା ମଞ୍ଜି ଧରିଛି। ପାଖେ ଏକ ଛୋଟ ପଥର।",
+            "en": "At the courtyard edge, Chiku holds a small dry seed in its forepaws. A small stone is nearby."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପତ୍ର ଓ ମଞ୍ଜି କାମୁଡ଼ିବାର ଶବ୍ଦ।",
+            "en": "Leaves and faint nibbling."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମଞ୍ଜି ଖସି ପଥର ପଛକୁ ଗଡ଼େ। ଚିକୁ ତଳକୁ ଝୁଙ୍କି ଆଗ ପାଦ ବଢ଼ାଏ, କିନ୍ତୁ ମଞ୍ଜି ଆହୁରି ଟିକେ ଦୂରରେ।",
+            "en": "The seed slips and rolls behind the stone. Chiku bends down and reaches, but it is just beyond the paw."
+          },
+          "sound": {
+            "or": "ଛୋଟ ଟିକ୍ ଓ ପାଦର ଖସ୍‌ଖସ୍।",
+            "en": "A tiny tick and scratching paws."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚିକୁ ଅଟକେ, ନାକ ତଳକୁ କରି ପଥର ପାଖ ଦେଇ ଘୂରେ। ମଞ୍ଜି ଏବେ ଆଗରେ।",
+            "en": "Chiku pauses, lowers its nose and goes around the stone. The seed is now in front of it."
+          },
+          "sound": {
+            "or": "ମାଟିରେ ଛୋଟ ପାଦ।",
+            "en": "Small paws on earth."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଚିକୁ ମଞ୍ଜି ଧରି ପଥର ଉପରେ ବସେ। ପଛ ଚିତ୍ରରେ ପିଲାମାନେ ନିଜ କାମ କରୁଛନ୍ତି। ଚିକୁ ପୁଣି କାମୁଡ଼େ।",
+            "en": "Chiku picks up the seed and sits on the stone. The children go about their work in the distant background. Chiku resumes nibbling."
+          },
+          "sound": {
+            "or": "ପୁଣି କାମୁଡ଼ିବା ଓ ଅଗଣାର ଦୂର ଶବ୍ଦ।",
+            "en": "Nibbling resumes over distant courtyard sounds."
+          },
+          "lines": []
+        }
+      ]
+    },
+    {
+      "id": "chiku-leaf-on-tail",
+      "world": "koraput",
+      "focus": {
+        "id": "chiku",
+        "name": {
+          "or": "ଚିକୁ",
+          "en": "Chiku"
+        },
+        "profile": "/characters/koraput.html#character-4"
+      },
+      "title": {
+        "or": "ଲାଞ୍ଜରେ ପତ୍ର",
+        "en": "A Leaf on the Tail"
+      },
+      "duration": 50,
+      "premise": {
+        "or": "ଶୁଖିଲା ପତ୍ର ମଝିରୁ ବାହାରି ଚିକୁ ନିଜ ଲାଞ୍ଜରେ ଲାଗିଥିବା ଗୋଟିଏ ପତ୍ର ସହ ଆଗକୁ ଯାଏ। ଝାଡ଼ିଦେଲେ ପତ୍ର ଅଲଗା, ଚିକୁ ଅଲଗା ବାଟେ।",
+        "en": "Chiku comes through dry leaves with one caught in its tail. A shake separates their paths."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ସ୍ୱଚ୍ଛନ୍ଦ ଦୌଡ଼ → ପଛର ଛୁଆଁ ଅନୁଭବ → ଲାଞ୍ଜ ଝାଡ଼ି ଚାଲିଯିବା।",
+        "en": "Easy movement → noticing a touch behind → shaking it off and continuing."
+      },
+      "wardrobe": {
+        "or": "ଚିକୁ ଏକ ମୁକ୍ତଜୀବୀ ଗୁଣ୍ଡୁଚି ମୂଷା। ପିଠିରେ ତିନି ଲମ୍ବା ହାଲୁକା ଦାଗ, କ୍ରିମ୍ ପେଟ, ଛୋଟ ଗୋଲ କାନ ଓ ଘନ ଲାଞ୍ଜ। ପୋଷାକ ବା ଅଳଙ୍କାର ନାହିଁ। ପିଲାଙ୍କ ତୁଳନାରେ ଆକାର ଛୋଟ ରହିବ।",
+        "en": "Chiku is a free-living three-striped palm squirrel: three pale longitudinal back stripes, cream underside, small rounded ears and a bushy tail. No clothes or ornaments. Keep its small scale relative to the children."
+      },
+      "continuity": {
+        "or": "ଗୋଟିଏ ହାଲୁକା ଶୁଖିଲା ପତ୍ର ଲୋମରେ ଅଳ୍ପ ଲାଗିଥାଏ; କଣ୍ଟା ବା ବନ୍ଧନ ନୁହେଁ। ପିଲାମାନେ ଚିକୁକୁ ଧରିବେନି। ଶେଷରେ ପତ୍ର ମାଟିରେ ରହିବ।",
+        "en": "One light dry leaf is loosely caught in the fur, without thorns or entanglement. The children do not handle Chiku. The leaf stays on the ground at the end."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-character-4.webp",
+      "preview": "/characters/assets/koraput-character-4.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚିକୁ ଶୁଖିଲା ପତ୍ର ଭିତରୁ ବାହାରି ଛୋଟ ଧାରକୁ ଆସେ। ଲାଞ୍ଜରେ ଏକ ପତ୍ର ଲାଗିଛି।",
+            "en": "Chiku comes out through dry leaves onto a low edge. A leaf clings to its tail."
+          },
+          "sound": {
+            "or": "ପତ୍ର ମଚ୍‌ମଚ୍।",
+            "en": "Dry leaves crinkle."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚିକୁ ଅଟକି ମୁଣ୍ଡ ପଛକୁ ବୁଲାଏ। ଲାଞ୍ଜ ହଲିଲେ ପତ୍ର ହଲେ। ଦୂରରୁ ମନ୍ଦାର ଦେଖେ।",
+            "en": "Chiku pauses and turns its head back. The leaf moves with the tail. Mandar watches from a distance."
+          },
+          "sound": {
+            "or": "ଏକ ହାଲୁକା ଖସ୍‌ଖସ୍।",
+            "en": "A soft rustle."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ପତ୍ରଟା ବି ସାଙ୍ଗରେ ଯାଉଛି।",
+                "en": "The leaf is coming along too."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚିକୁ ଥରେ ଦେହ ଓ ଲାଞ୍ଜ ଝାଡ଼େ। ପତ୍ର ଛିଡ଼ି ଧୀରେ ତଳକୁ ଖସେ।",
+            "en": "Chiku shakes its body and tail once. The leaf comes free and drifts down."
+          },
+          "sound": {
+            "or": "ଝଟ୍ ଓ ପତ୍ରର ମୃଦୁ ପଡ଼ିବା।",
+            "en": "A shake and a light landing."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଚିକୁ ଗଛକୁ ଚଢ଼ିଯାଏ। ମନ୍ଦାର ପତ୍ରକୁ ଚାହିଁ ତା’ପରେ ଉପରକୁ ଚାହେଁ। ପତ୍ର ମାଟିରେ ରହିଛି।",
+            "en": "Chiku climbs the tree. Mandar looks at the leaf, then upwards. The leaf stays on the ground."
+          },
+          "sound": {
+            "or": "ଗଛରେ ଛୋଟ ପାଦ ଓ ହାଲୁକା ହସ।",
+            "en": "Little claws on bark and a quiet laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମନ୍ଦାର",
+                "en": "Mandar"
+              },
+              "text": {
+                "or": "ତା’ ଯାତ୍ରା ଏଇଠି ସରିଲା।",
+                "en": "That’s the end of the leaf’s trip."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chiku-wall-crossing",
+      "world": "koraput",
+      "focus": {
+        "id": "chiku",
+        "name": {
+          "or": "ଚିକୁ",
+          "en": "Chiku"
+        },
+        "profile": "/characters/koraput.html#character-4"
+      },
+      "title": {
+        "or": "କାନ୍ଥର ବାଟ",
+        "en": "Along the Wall"
+      },
+      "duration": 50,
+      "premise": {
+        "or": "କାନ୍ଥରେ ପଡ଼ିଥିବା ଏକ ଖାଲି ଝୁଡ଼ି ଚିକୁର ବାଟ ଅଟକାଏ। ସେ ଝୁଡ଼ି ଭିତରେ ପଶିବା ବଦଳରେ ତଳ ଧାର ଦେଇ ଘୂରିଯାଏ।",
+        "en": "An empty basket lies across Chiku’s route along a wall. Instead of going inside it, the squirrel travels around the lower ledge."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର କୋରାପୁଟ ପାହାଡ଼ ଅଞ୍ଚଳର ଏକ କାଳ୍ପନିକ ଗାଁ। ରେବା ମାଉସୀଙ୍କ ଅଗଣା ଓ ବାରଣ୍ଡା। କୁସୁମ ଓ ମନ୍ଦାର ଦୁଇ ଭଉଣୀଙ୍କ ପିଲା; ରେବା ଦୁହିଁଙ୍କ ମାଉସୀ।",
+        "en": "A fictional village in the present-day Koraput hills. Reba Mausi’s courtyard and veranda. Kusum and Mandar are cousins; Reba is aunt to both."
+      },
+      "performance": {
+        "or": "ପରିଚିତ ବାଟରେ ଗତି → ଅଟକି ଦେଖିବା → ଅନ୍ୟ ଧାରରୁ ନିଜେ ଆଗକୁ ଯିବା।",
+        "en": "Moving along a familiar route → stopping to inspect → continuing by another ledge."
+      },
+      "wardrobe": {
+        "or": "ଚିକୁ ଏକ ମୁକ୍ତଜୀବୀ ଗୁଣ୍ଡୁଚି ମୂଷା। ପିଠିରେ ତିନି ଲମ୍ବା ହାଲୁକା ଦାଗ, କ୍ରିମ୍ ପେଟ, ଛୋଟ ଗୋଲ କାନ ଓ ଘନ ଲାଞ୍ଜ। ପୋଷାକ ବା ଅଳଙ୍କାର ନାହିଁ। ପିଲାଙ୍କ ତୁଳନାରେ ଆକାର ଛୋଟ ରହିବ।",
+        "en": "Chiku is a free-living three-striped palm squirrel: three pale longitudinal back stripes, cream underside, small rounded ears and a bushy tail. No clothes or ornaments. Keep its small scale relative to the children."
+      },
+      "continuity": {
+        "or": "ଝୁଡ଼ି ଖାଲି ଓ ଗୋଟିଏ ସ୍ଥାନରେ। କୌଣସି ଫାନ୍ଦ ନାହିଁ। କାନ୍ଥର ତଳ ଧାର ଆରମ୍ଭରୁ ଦେଖାଯିବ। ମନ୍ଦାର ଚିକୁ ପାଇଁ ଝୁଡ଼ି ରଖିନାହିଁ।",
+        "en": "The empty basket stays in one place and is not a trap. Establish the lower ledge in the opening shot. Mandar did not place the basket for the squirrel."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#koraput",
+      "referenceImage": "/characters/assets/koraput-character-4.webp",
+      "preview": "/characters/assets/koraput-character-4.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଅଗଣାର ନିମ୍ନ କାନ୍ଥରେ ଚିକୁ ଦୌଡ଼ିଆସେ। କାନ୍ଥର ଚଉଡ଼ା ଅଂଶରେ ଏକ ଖାଲି ଝୁଡ଼ି ଶୁଖୁଛି। ତଳେ ସରୁ ଧାର।",
+            "en": "Chiku runs along a low courtyard wall. An empty basket dries on a wider part, with a narrow ledge below."
+          },
+          "sound": {
+            "or": "ଛୋଟ ଦ୍ରୁତ ପାଦ।",
+            "en": "Quick small paws."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚିକୁ ଝୁଡ଼ି ଆଗରେ ଅଟକେ। ମୁଣ୍ଡ ଏପଟ ସେପଟ କରି ଦେଖେ। ପିଲାମାନେ ଦୂରରେ ନିଜ ବ୍ୟାଗ୍ ଧରିଛନ୍ତି।",
+            "en": "Chiku stops before the basket and looks from side to side. The children hold their bags at a distance."
+          },
+          "sound": {
+            "or": "ଏକ ଛୋଟ ବିରାମ; ଦୂର କଥା।",
+            "en": "A brief pause and distant speech."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚିକୁ ତଳ ଧାରକୁ ଓହ୍ଲାଇ ଝୁଡ଼ିର ପଛ ଦେଇ ଘୂରେ। ତା’ ଲାଞ୍ଜର ଶେଷ ଅଂଶ କିଛିକ୍ଷଣ ଦେଖାଯାଏ।",
+            "en": "Chiku drops onto the lower ledge and passes behind the basket. The tail tip remains visible for a moment."
+          },
+          "sound": {
+            "or": "ପଥର ଉପରେ ପାଦ ଘଷା।",
+            "en": "Paws brushing stone."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଝୁଡ଼ିର ଅନ୍ୟ ପଟରେ ଚିକୁ ଉପରକୁ ଆସି ପୁଣି ଦୌଡ଼େ। କୁସୁମ ଦେଖେ, ତା’ପରେ ନିଜ ବ୍ୟାଗ୍ ଉଠାଏ।",
+            "en": "Chiku reappears on the other side and runs on. Kusum watches, then picks up her own bag."
+          },
+          "sound": {
+            "or": "ଦୌଡ଼ୁଥିବା ପାଦ ଓ ଦୂର ପତ୍ର।",
+            "en": "Running paws and distant leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୁସୁମ",
+                "en": "Kusum"
+              },
+              "text": {
+                "or": "ସେ ତ ଆଗେ ଚାଲିଗଲା।",
+                "en": "It’s gone on ahead."
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
   "updated": "2026-10-17"

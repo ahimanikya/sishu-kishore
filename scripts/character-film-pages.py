@@ -24,7 +24,9 @@ for script in film_data['scripts']:
             if script.get(key):
                 body+='<article>'+bi(label,'h2')+bi(script[key])+'</article>'
                 txt += [label['or']+' / '+label['en'],script[key]['or'],script[key]['en'],'']
-        body+='</div>'+link(script['referenceImage'],'ନିର୍ବାଚିତ ଚରିତ୍ର ଓ ପୋଷାକ ଦେଖନ୍ତୁ','View the established character and clothing reference')+'</section>'
+        body+='</div>'+link(script['referenceImage'],'ଚରିତ୍ର ଓ ପୋଷାକର ପୂର୍ବ ଦୃଶ୍ୟ ଦେଖନ୍ତୁ','View the earlier character and clothing scene')
+        if script.get('wardrobeImage'):body+=' · '+link(script['wardrobeImage'],'କାମର ପୋଷାକର ନୂଆ ଅଧ୍ୟୟନ','New working-wardrobe study')
+        body+='</section>'
     elapsed=0
     for i,scene in enumerate(script['scenes']):
         heading=scene_heading(i+1,elapsed,elapsed+scene['seconds'])
@@ -41,13 +43,14 @@ for script in film_data['scripts']:
         dest=ROOT/'public'/board['sheet'].lstrip('/');dest.parent.mkdir(parents=True,exist_ok=True)
         shutil.copy2(ARCHIVE/board['archive']/board['file'],dest)
         title=pair(script['title']['or']+' · ସମୟଧରା ଖସଡ଼ା',script['title']['en']+' · Timed storyboard')
-        body='<header>'+bi(pair('ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଗତିର ପରୀକ୍ଷା','Pencil frames · A pacing study'),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(board['note'])+link('/characters/scripts/'+sid+'.html','ପୂରା ପାଠ୍ୟ ଓ ପୋଷାକର ନିର୍ଦ୍ଦେଶ','Full script and wardrobe notes')+'</header>'
+        body='<header>'+bi(board.get('medium',pair('ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଗତିର ପରୀକ୍ଷା','Pencil frames · A pacing study')),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(board['note'])+link('/characters/scripts/'+sid+'.html','ପୂରା ପାଠ୍ୟ ଓ ପୋଷାକର ନିର୍ଦ୍ଦେଶ','Full script and wardrobe notes')+'</header>'
         first=script['scenes'][0]
         body+='<section class="storyboard-player" id="preview"><div class="storyboard-stage" role="img" aria-label="'+esc(first['action']['or'])+'" data-aria-label-or="'+esc(first['action']['or'])+'" data-aria-label-en="'+esc(first['action']['en'])+'" style="background-image:url('+board['sheet']+');background-position:0% 0%"></div>'
         body+='<div class="storyboard-controls" hidden>'+bi(pair('ଚଳାନ୍ତୁ','Play'),'button','type="button" data-player-play')+bi(pair('ପୂର୍ବ ଦୃଶ୍ୟ','Previous scene'),'button','type="button" data-player-previous')+bi(pair('ପର ଦୃଶ୍ୟ','Next scene'),'button','type="button" data-player-next')+'<label for="storyboard-time">'+bi(pair('ସମୟ','Time'),'span')+'</label><input id="storyboard-time" type="range" min="0" max="'+str(script['duration'])+'" step="0.1" value="0"><output for="storyboard-time" data-player-clock>0:00 / 0:'+str(script['duration'])+'</output></div>'
         body+='<div class="storyboard-caption"><p class="eyebrow" data-player-scene aria-live="polite">'+bi(scene_heading(1,0,first['seconds']),'span')+'</p>'+bi(pair('ସଂଳାପର ଖସଡ଼ା · କଣ୍ଠ ରେକର୍ଡ ନାହିଁ','Draft dialogue · No recorded voice'),'p','class="caption"')+'<div data-player-dialogue>'+dialogue(first['lines'])+'</div></div></section>'
-        body+='<section id="all-frames">'+bi(pair('ଚାରିଟି ଦୃଶ୍ୟ ଏକାଠି','All four frames'),'h2')+image(board['sheet'],'ସଂଶୋଧିତ ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ, ବାମରୁ ଡାହାଣକୁ, ତା’ପରେ ତଳ ଧାଡ଼ି।','Corrected pencil frames, read left to right, then the lower row.')+'</section>'
-        body+='<section id="development">'+bi(pair('ଏହି ଧାପରେ କ’ଣ ବଦଳିଲା','What changed at this stage'),'h2')+bi(pair('ପ୍ରଥମ ଚିତ୍ରରେ ଅତିରିକ୍ତ ହାତ ଥିଲା। ତାହା ସଂଶୋଧନ କରାଗଲା। ନୀଳୁର ସାର୍ଟର ବେକ ଓ ଚଇତିର ଟ୍ୟୁନିକ୍‌କୁ ପୂର୍ବ ମଡେଲ୍ ସହ ମେଳାଗଲା। ଏହି ଖସଡ଼ା ଅଭିନୟର ମୁହୂର୍ତ୍ତ ଯାଞ୍ଚ କରେ; ଚଳନ ଓ କଣ୍ଠ ଏବେ ବାକି।','The first drawing had an extra hand, which was corrected. Nilu’s neckline and Chaiti’s tunic were brought back into line with the character reference. This draft tests the acting beats; movement and voices remain to be made.'))+link(script['referenceImage'],'ପୂର୍ବ ରଙ୍ଗୀନ ଚରିତ୍ର ଅଧ୍ୟୟନ','Earlier colour character study')+' · '+link('/characters/downloads/nilu-chaiti-film-scripts-v1.zip','ପାଠ୍ୟ ଓ ଦୃଶ୍ୟ ଫାଇଲ୍ · ZIP','Scripts and storyboard files · ZIP')+'</section>'+bi(REVIEW)
+        body+='<section id="all-frames">'+bi(pair('ଚାରିଟି ଦୃଶ୍ୟ ଏକାଠି','All four frames'),'h2')+image(board['sheet'],'ନିର୍ବାଚିତ ଦୃଶ୍ୟଖସଡ଼ା, ବାମରୁ ଡାହାଣକୁ, ତା’ପରେ ତଳ ଧାଡ଼ି।','Selected storyboard frames, read left to right, then the lower row.')+'</section>'
+        development=board.get('development',pair('ପ୍ରଥମ ଚିତ୍ରରେ ଅତିରିକ୍ତ ହାତ ଥିଲା। ତାହା ସଂଶୋଧନ କରାଗଲା। ନୀଳୁର ସାର୍ଟର ବେକ ଓ ଚଇତିର ଟ୍ୟୁନିକ୍‌କୁ ପୂର୍ବ ମଡେଲ୍ ସହ ମେଳାଗଲା। ଏହି ଖସଡ଼ା ଅଭିନୟର ମୁହୂର୍ତ୍ତ ଯାଞ୍ଚ କରେ; ଚଳନ ଓ କଣ୍ଠ ଏବେ ବାକି।','The first drawing had an extra hand, which was corrected. Nilu’s neckline and Chaiti’s tunic were brought back into line with the character reference. This draft tests the acting beats; movement and voices remain to be made.'))
+        body+='<section id="development">'+bi(pair('ଏହି ଧାପରେ କ’ଣ ବଦଳିଲା','What changed at this stage'),'h2')+bi(development)+link(script['referenceImage'],'ପୂର୍ବ ରଙ୍ଗୀନ ଚରିତ୍ର ଅଧ୍ୟୟନ','Earlier colour character study')+' · '+link('/characters/downloads/'+script['world']+'-film-scripts-v1.zip','ପାଠ୍ୟ ଓ ଦୃଶ୍ୟ ଫାଇଲ୍ · ZIP','Scripts and storyboard files · ZIP')+'</section>'+bi(REVIEW)
         payload=json.dumps({'duration':script['duration'],'scenes':script['scenes']},ensure_ascii=False).replace('</','<\\/')
         body+='<script type="application/json" id="storyboard-data">'+payload+'</script><script defer src="/characters/assets/storyboard-player.js"></script>'
         shell('films/'+sid+'/index',title,body,board['sheet'])
@@ -83,13 +86,19 @@ for wid,written in groups.items():
         z.writestr('READ-ME.txt','Concept and creative direction: Ahimanikya Satapathy\n\n'+str(len(written))+' first bilingual film-script drafts. Three per character.\nStoryboards are selected still frames, not completed films.\nIndependent fluent Odia and cultural review pending. Timing is provisional.\nRegional clothing sources: https://sishu.kabitawithoutborders.org/characters/regional-dress.html\n')
         z.writestr('manifest-sha256.json',json.dumps({name:hashlib.sha256(z.read(name)).hexdigest() for name in z.namelist()},indent=2))
 
-# The design archive and overview expose the new artifacts, not only the plan.
+# The design archive and overview expose every completed script batch.
 boards=[s for s in film_data['scripts'] if s.get('storyboard')]
+cast_names={w['id']:w['name'] for w in json.loads((ROOT/'data/character-production-v1.json').read_text())['worlds']}
 for filename in ['index.html','design-path.html','complete-report.html']:
     p=OUT/filename;s=BeautifulSoup(p.read_text(),'html.parser')
     for old in s.select('#film-development-milestone'):old.decompose()
-    section='<section class="report-section voices-addition" id="film-development-milestone">'+bi(pair('ପାଠ୍ୟରୁ ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ','From scripts to pencil frames'),'h2')
-    section+=bi(pair('ନୀଳୁ–ଚଇତିର ଚାରି ଚରିତ୍ର ପାଇଁ ୧୨ଟି ନୂଆ ଦ୍ୱିଭାଷୀ ପାଠ୍ୟ। ପ୍ରତି ପାଠ୍ୟରେ ପୋଷାକ, ଚଳନ ଓ ଦୃଶ୍ୟର ମେଳ ସମ୍ପର୍କିତ ନିର୍ଦ୍ଦେଶ ଅଛି।','Twelve new bilingual scripts for Nilu–Chaiti’s four characters. Each script includes clothing, movement and shot-continuity notes.'))
-    for script in boards:section+='<p>'+link(script['storyboard']['page'],script['title']['or']+' · ସମୟଧରା ଦୃଶ୍ୟନମୁନା',script['title']['en']+' · Timed storyboard')+'</p>'
-    section+='<p>'+link('/characters/story-lab.html#nilu-chaiti','୧୨ଟି ପାଠ୍ୟ ପଢ଼ନ୍ତୁ','Read the twelve scripts')+' · '+link('/characters/downloads/nilu-chaiti-film-scripts-v1.zip','ପାଠ୍ୟ ଓ ଚିତ୍ର ଫାଇଲ୍ · ZIP','Scripts and artwork files · ZIP')+'</p></section>'
+    section='<section class="report-section voices-addition" id="film-development-milestone">'+bi(pair('ପାଠ୍ୟରୁ ଦୃଶ୍ୟଖସଡ଼ା','From scripts to storyboards'),'h2')
+    section+=bi(pair('ନୂଆ ପାଠ୍ୟରେ ପ୍ରତି ଚରିତ୍ରର ନିଜ ଭୂମିକା, ପୋଷାକ, ଚଳନ ଓ ଦୃଶ୍ୟର ମେଳ ସମ୍ପର୍କିତ ନିର୍ଦ୍ଦେଶ ଅଛି। ପାଠ୍ୟ, ସ୍ଥିର ଦୃଶ୍ୟ ଓ ସମ୍ପୂର୍ଣ୍ଣ ଚଳଚ୍ଚିତ୍ରର ସ୍ଥିତି ଅଲଗା।','The new scripts give each character a leading contribution, with clothing, movement and shot-continuity notes. Scripts, still storyboards and completed films are tracked separately.'))
+    section+='<div class="voice-sections">'
+    for wid,written in groups.items():
+        section+='<article>'+bi(cast_names[wid],'h3')+bi(pair(f'ଦ୍ୱିଭାଷୀ ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା: {len(written)}।',f'First bilingual script drafts: {len(written)}.'))
+        for script in written:
+            if script.get('storyboard'):section+='<p>'+link(script['storyboard']['page'],script['title']['or']+' · ସମୟଧରା ଦୃଶ୍ୟନମୁନା',script['title']['en']+' · Timed storyboard')+'</p>'
+        section+='<p>'+link('/characters/story-lab.html#'+wid,'ସବୁ ପାଠ୍ୟ ପଢ଼ନ୍ତୁ','Read all the scripts')+' · '+link('/characters/downloads/'+wid+'-film-scripts-v1.zip','ପାଠ୍ୟ ଓ ଚିତ୍ର ଫାଇଲ୍ · ZIP','Scripts and artwork files · ZIP')+'</p></article>'
+    section+='</div></section>'
     s.main.append(BeautifulSoup(section,'html.parser'));p.write_text(str(s).rstrip()+'\n')

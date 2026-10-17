@@ -7326,6 +7326,12 @@
     "source": "/characters/films/nilu-hold-this-end/pencil-storyboard-v4.png"
   },
   {
+    "page": "/characters/films/reba-one-last-seam/index.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/films/reba-one-last-seam/",
+    "image": "/social/d4523e1ab5bee58d.jpg",
+    "source": "/characters/films/reba-one-last-seam/pencil-storyboard-v1.png"
+  },
+  {
     "page": "/characters/gudul-gudli.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/gudul-gudli.html",
     "image": "/social/32c650c03d7b0555.jpg",
@@ -7398,6 +7404,24 @@
     "source": "/characters/assets/nilu-chaiti-character-2.webp"
   },
   {
+    "page": "/characters/scripts/chiku-leaf-on-tail.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chiku-leaf-on-tail.html",
+    "image": "/social/4deb47993eb96f8f.jpg",
+    "source": "/characters/assets/koraput-character-4.webp"
+  },
+  {
+    "page": "/characters/scripts/chiku-round-the-stone.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chiku-round-the-stone.html",
+    "image": "/social/4deb47993eb96f8f.jpg",
+    "source": "/characters/assets/koraput-character-4.webp"
+  },
+  {
+    "page": "/characters/scripts/chiku-wall-crossing.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chiku-wall-crossing.html",
+    "image": "/social/4deb47993eb96f8f.jpg",
+    "source": "/characters/assets/koraput-character-4.webp"
+  },
+  {
     "page": "/characters/scripts/koeli-first-line.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/koeli-first-line.html",
     "image": "/social/c023323588236ac6.jpg",
@@ -7414,6 +7438,42 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/koeli-your-turn.html",
     "image": "/social/c023323588236ac6.jpg",
     "source": "/characters/koeli/assets/colour-study-v1.png"
+  },
+  {
+    "page": "/characters/scripts/kusum-change-the-row.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/kusum-change-the-row.html",
+    "image": "/social/b7b0195fda3cfe42.jpg",
+    "source": "/characters/assets/koraput-character-1.webp"
+  },
+  {
+    "page": "/characters/scripts/kusum-let-me-finish.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/kusum-let-me-finish.html",
+    "image": "/social/b7b0195fda3cfe42.jpg",
+    "source": "/characters/assets/koraput-character-1.webp"
+  },
+  {
+    "page": "/characters/scripts/kusum-one-empty-space.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/kusum-one-empty-space.html",
+    "image": "/social/b7b0195fda3cfe42.jpg",
+    "source": "/characters/assets/koraput-character-1.webp"
+  },
+  {
+    "page": "/characters/scripts/mandar-long-shadow.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/mandar-long-shadow.html",
+    "image": "/social/5073d82518b359cc.jpg",
+    "source": "/characters/assets/koraput-character-2.webp"
+  },
+  {
+    "page": "/characters/scripts/mandar-rustling-bag.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/mandar-rustling-bag.html",
+    "image": "/social/5073d82518b359cc.jpg",
+    "source": "/characters/assets/koraput-character-2.webp"
+  },
+  {
+    "page": "/characters/scripts/mandar-small-audience.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/mandar-small-audience.html",
+    "image": "/social/5073d82518b359cc.jpg",
+    "source": "/characters/assets/koraput-character-2.webp"
   },
   {
     "page": "/characters/scripts/nilu-hold-this-end.html",
@@ -7450,6 +7510,24 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/puppy-not-fetch.html",
     "image": "/social/439e1254331b952d.jpg",
     "source": "/characters/assets/nilu-chaiti-character-4.webp"
+  },
+  {
+    "page": "/characters/scripts/reba-one-last-seam.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/reba-one-last-seam.html",
+    "image": "/social/153f7e033d48538f.jpg",
+    "source": "/characters/assets/koraput-character-3.webp"
+  },
+  {
+    "page": "/characters/scripts/reba-other-pocket.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/reba-other-pocket.html",
+    "image": "/social/153f7e033d48538f.jpg",
+    "source": "/characters/assets/koraput-character-3.webp"
+  },
+  {
+    "page": "/characters/scripts/reba-patch-faces-in.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/reba-patch-faces-in.html",
+    "image": "/social/153f7e033d48538f.jpg",
+    "source": "/characters/assets/koraput-character-3.webp"
   },
   {
     "page": "/characters/sources.html",
