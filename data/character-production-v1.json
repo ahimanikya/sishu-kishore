@@ -50,7 +50,8 @@
       "status": {
         "or": "ପୂର୍ବ ସୃଜନର ସଂରକ୍ଷିତ ସେଟ୍। ପୁରୁଣା ଉତ୍ସ ଓ ସମ୍ପର୍କ ସହ ରହିବ। ନୂଆ ମୌଳିକ ଚଳଚ୍ଚିତ୍ରର କାମ ନୀଳୁ–ଚଇତିରୁ ଆଗେଇବ।",
         "en": "Retained as the earlier development set with its original source relationships. New original film work proceeds through Nilu–Chaiti."
-      }
+      },
+      "scriptTarget": 0
     },
     {
       "id": "nilu-chaiti",
@@ -64,9 +65,10 @@
       },
       "wardrobe": "central-coastal",
       "status": {
-        "or": "ଚରିତ୍ର ଓ ପଢ଼ିବା ଗପ ଅଛି। ପ୍ରତି ଚରିତ୍ରର ତିନିଟି ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟ ଲେଖିବା ବାକି।",
-        "en": "Character studies and reading stories exist. Three film scripts centred on each character remain to be written."
-      }
+        "or": "ଚାରି ଚରିତ୍ର ପାଇଁ ତିନିଟି କରି ମୋଟ ୧୨ଟି ଦ୍ୱିଭାଷୀ ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା ପ୍ରସ୍ତୁତ। ‘ଏ ପଟଟା ଧର’ର ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ ଓ ସମୟଧରା ନମୁନା ଅଛି। କଣ୍ଠ, ଚଳନ ଓ ସମ୍ପୂର୍ଣ୍ଣ ଚଳଚ୍ଚିତ୍ର ବାକି।",
+        "en": "Twelve first bilingual film-script drafts are ready: three for each of the four characters. Hold This End has pencil frames and a timed preview. Voices, animation and completed films remain ahead."
+      },
+      "scriptTarget": 12
     },
     {
       "id": "koraput",
@@ -82,7 +84,8 @@
       "status": {
         "or": "ପ୍ରଥମ ଗପ ଓ ଚରିତ୍ର ଅଛି। ପୋଷାକ ଯାଞ୍ଚ ପରେ ପ୍ରତି ଚରିତ୍ରର ତିନିଟି ପାଠ୍ୟ।",
         "en": "The pilot and character studies exist. Wardrobe checks precede three scripts for each character."
-      }
+      },
+      "scriptTarget": 12
     },
     {
       "id": "batare-katha",
@@ -99,7 +102,8 @@
       "status": {
         "or": "ମୌଳିକ ଯାତ୍ରୀଦଳ; ଅବୋଲକରାଠାରୁ ଅଲଗା। ପ୍ରଥମ ପଢ଼ିବା ଗପ ପ୍ରସ୍ତୁତ, ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟ ବାକି।",
         "en": "An original travelling pair, distinct from Abolakara. A first reading story is available; film scripts remain to be developed."
-      }
+      },
+      "scriptTarget": 6
     },
     {
       "id": "chhota-karigara",
@@ -116,7 +120,8 @@
       "status": {
         "or": "ମୌଳିକ କାରିଗରଦଳ; ଧରମାର ଲୋକକଥାଠାରୁ ଅଲଗା। ନୂଆ ପାଠ୍ୟରେ ପ୍ରତି ଚରିତ୍ରର ନିଜ ନିଷ୍ପତ୍ତି ରହିବ।",
         "en": "Original makers, separate from the Dharama legend. New scripts will give each character a consequential choice."
-      }
+      },
+      "scriptTarget": 9
     },
     {
       "id": "boita-sadhaba",
@@ -133,7 +138,8 @@
       "status": {
         "or": "ପ୍ରଥମ ଗପ ଅଛି। ନାବିକଙ୍କ କାମ, ପରିବାର ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିରୁ ନୂଆ ପାଠ୍ୟ ଗଢ଼ିବ।",
         "en": "The first story exists. Further scripts will grow from boat work, family relationships and preparing a voyage."
-      }
+      },
+      "scriptTarget": 12
     },
     {
       "id": "abolakara",
@@ -147,9 +153,10 @@
       },
       "wardrobe": "period",
       "status": {
-        "or": "ପାରମ୍ପରିକ ଚରିତ୍ରଙ୍କ ସହ ପ୍ରଥମ ନୂଆ ପର୍ବ ‘ପାଣିର ବାଟ’। ପାଠ୍ୟ ଓ ଚିତ୍ରର କାମ ଚାଲିଛି।",
-        "en": "The Water Path is the first new episode with the traditional pair. Script and artwork are in development."
-      }
+        "or": "ପ୍ରଥମ ପଢ଼ିବା ପର୍ବର ପାଠ୍ୟ, ଖସଡ଼ା ଓ ରଙ୍ଗୀନ ପୃଷ୍ଠା ପ୍ରସ୍ତୁତ। ପ୍ରତି ଚରିତ୍ର ପାଇଁ ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର କାମ ବାକି।",
+        "en": "The first reading episode has a script, storyboard and colour page. The character-centred film-script batch remains to be written."
+      },
+      "scriptTarget": 6
     },
     {
       "id": "dharmapada",
@@ -163,9 +170,10 @@
       },
       "wardrobe": "period",
       "status": {
-        "or": "ଲୋକକଥାର ଉତ୍ସ ଅଧ୍ୟୟନ ହୋଇଛି। ପ୍ରଥମ ପର୍ବରେ ବାପା–ପୁଅଙ୍କ ଭେଟ; ପାଠ୍ୟ ଓ ଚିତ୍ରର କାମ ବାକି।",
-        "en": "Sources for the legend have been studied. The first episode will centre on the father–son reunion; script and artwork remain in progress."
-      }
+        "or": "ପ୍ରଥମ ପଢ଼ିବା ପର୍ବର ପାଠ୍ୟ, ଖସଡ଼ା ଓ ରଙ୍ଗୀନ ପୃଷ୍ଠା ପ୍ରସ୍ତୁତ। ପ୍ରତି ଚରିତ୍ର ପାଇଁ ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର କାମ ବାକି।",
+        "en": "The first reading episode has a script, storyboard and colour page. The character-centred film-script batch remains to be written."
+      },
+      "scriptTarget": 9
     },
     {
       "id": "koeli",
@@ -180,7 +188,8 @@
       "status": {
         "or": "ଚରିତ୍ର ଅଧ୍ୟୟନ, ଛୋଟ ଡାକ ଓ ତିନିଟି ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା ଅଛି। ପରବର୍ତ୍ତୀ କାମ: ଦୃଶ୍ୟଖସଡ଼ା, ସମୟଧରା ନମୁନା ଓ କଣ୍ଠ।",
         "en": "Character studies, the written refrain and three first film-script drafts are available. Storyboards, timed previews and voices are next."
-      }
+      },
+      "scriptTarget": 3
     }
   ],
   "filmStatus": {

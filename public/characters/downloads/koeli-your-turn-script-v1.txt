@@ -3,7 +3,7 @@ Concept and creative direction: Ahimanikya Satapathy
 First film-script draft. Timing is a target, not a recorded performance.
 Independent fluent Odia review pending.
 
-SCENE 1 — 0–12 sec
+ଦୃଶ୍ୟ 1 · 0–12 ସେକେଣ୍ଡ / Scene 1 · 0–12 seconds
 ଡାଳରେ କୋଇଲି। ଚିତ୍ର ବାହାରୁ ଜଣେ ପିଲା ନିଜ ଗପ କହିବାକୁ ଆଗ୍ରହ କରେ।
 Koeli is on its branch. A child outside the frame wants to tell a story.
 Sound: ଅଗଣାର ସାଧାରଣ ହାଲୁକା ଶବ୍ଦ। / Quiet courtyard sounds.
@@ -12,7 +12,7 @@ Child: Can I tell one today?
 କୋଇଲି: କହ। ବାଘର ଗପ?
 Koeli: Go on. A tiger story?
 
-SCENE 2 — 12–24 sec
+ଦୃଶ୍ୟ 2 · 12–24 ସେକେଣ୍ଡ / Scene 2 · 12–24 seconds
 କୋଇଲି ଆଗକୁ ଢଳି ନିଜେ ଅନୁମାନ କରେ। ପିଲା ଆରମ୍ଭ କରିବାକୁ ଯାଇ ଅଟକେ।
 Koeli leans forward with another guess. The child starts, then stops.
 Sound: କଥା ଆରମ୍ଭ ହୋଇ ପୁଣି ବିରାମ। / A false start, then a pause.
@@ -21,7 +21,7 @@ Child: No, at our house…
 କୋଇଲି: ଚୋର ଆସିଥିଲା?
 Koeli: Was there a thief?
 
-SCENE 3 — 24–36 sec
+ଦୃଶ୍ୟ 3 · 24–36 ସେକେଣ୍ଡ / Scene 3 · 24–36 seconds
 ପିଲାର କଥା ଶୁଣି କୋଇଲି ନିଜ ଥଣ୍ଟ ବନ୍ଦ କରେ। ଡାଳରେ ଟିକେ ପଛକୁ ସରେ।
 Koeli hears the child, closes its beak and settles a little further back on the branch.
 Sound: ପତ୍ରର ମୃଦୁ ଶବ୍ଦ। / A soft rustle of leaves.
@@ -30,7 +30,7 @@ Child: Will you listen first?
 କୋଇଲି: ହଁ। ଏଥର ତୁମ ଗପ।
 Koeli: Yes. Your story this time.
 
-SCENE 4 — 36–48 sec
+ଦୃଶ୍ୟ 4 · 36–48 ସେକେଣ୍ଡ / Scene 4 · 36–48 seconds
 କୋଇଲି ମନଦେଇ ଶୁଣେ। ପିଲା କହିଲାବେଳେ ତା’ ଆଖିରେ ହସ। କଥା ନକହି ଏହି ଭାବରେ ଶେଷ।
 Koeli listens. Its eyes brighten as the child speaks. End on this reaction without another interruption.
 Sound: ପିଲାର କଥା ଓ ଛୋଟ ହସ। / The child’s voice and a small laugh.

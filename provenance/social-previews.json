@@ -7320,6 +7320,12 @@
     "source": "/characters/dharmapada/assets/colour-cast-v1.png"
   },
   {
+    "page": "/characters/films/nilu-hold-this-end/index.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/films/nilu-hold-this-end/",
+    "image": "/social/accd505e64b95e79.jpg",
+    "source": "/characters/films/nilu-hold-this-end/pencil-storyboard-v4.png"
+  },
+  {
     "page": "/characters/gudul-gudli.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/gudul-gudli.html",
     "image": "/social/32c650c03d7b0555.jpg",
@@ -7356,6 +7362,42 @@
     "source": "/characters/assets/koraput-natural-v2.png"
   },
   {
+    "page": "/characters/scripts/bird-empty-step.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/bird-empty-step.html",
+    "image": "/social/fb3241b11dfee85c.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-3.webp"
+  },
+  {
+    "page": "/characters/scripts/bird-shallow-splash.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/bird-shallow-splash.html",
+    "image": "/social/fb3241b11dfee85c.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-3.webp"
+  },
+  {
+    "page": "/characters/scripts/bird-wrong-perch.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/bird-wrong-perch.html",
+    "image": "/social/fb3241b11dfee85c.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-3.webp"
+  },
+  {
+    "page": "/characters/scripts/chaiti-one-more-dot.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chaiti-one-more-dot.html",
+    "image": "/social/f499b471e2d73616.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-2.webp"
+  },
+  {
+    "page": "/characters/scripts/chaiti-open-knot.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chaiti-open-knot.html",
+    "image": "/social/f499b471e2d73616.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-2.webp"
+  },
+  {
+    "page": "/characters/scripts/chaiti-paper-bridge.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chaiti-paper-bridge.html",
+    "image": "/social/f499b471e2d73616.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-2.webp"
+  },
+  {
     "page": "/characters/scripts/koeli-first-line.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/koeli-first-line.html",
     "image": "/social/c023323588236ac6.jpg",
@@ -7372,6 +7414,42 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/koeli-your-turn.html",
     "image": "/social/c023323588236ac6.jpg",
     "source": "/characters/koeli/assets/colour-study-v1.png"
+  },
+  {
+    "page": "/characters/scripts/nilu-hold-this-end.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/nilu-hold-this-end.html",
+    "image": "/social/cb28e75da028f81b.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-1.webp"
+  },
+  {
+    "page": "/characters/scripts/nilu-not-my-mark.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/nilu-not-my-mark.html",
+    "image": "/social/cb28e75da028f81b.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-1.webp"
+  },
+  {
+    "page": "/characters/scripts/nilu-wrong-foot.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/nilu-wrong-foot.html",
+    "image": "/social/cb28e75da028f81b.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-1.webp"
+  },
+  {
+    "page": "/characters/scripts/puppy-long-way.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/puppy-long-way.html",
+    "image": "/social/439e1254331b952d.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-4.webp"
+  },
+  {
+    "page": "/characters/scripts/puppy-loud-tin.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/puppy-loud-tin.html",
+    "image": "/social/439e1254331b952d.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-4.webp"
+  },
+  {
+    "page": "/characters/scripts/puppy-not-fetch.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/puppy-not-fetch.html",
+    "image": "/social/439e1254331b952d.jpg",
+    "source": "/characters/assets/nilu-chaiti-character-4.webp"
   },
   {
     "page": "/characters/sources.html",

@@ -88,26 +88,15 @@ shell('regional-dress',r['title'],body,'/characters/assets/koraput-natural-v2.pn
 
 film_path=ROOT/'data/film-scripts-v1.json'
 film_data=json.loads(film_path.read_text()) if film_path.exists() else {'scripts':[]}
-for script in film_data['scripts']:
-    body='<header>'+bi(pair('ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟ · ପ୍ରଥମ ଖସଡ଼ା','Film script · First draft'),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(script['premise'])+'</header>'
-    body+=bi(pair('ଲକ୍ଷ୍ୟ ସମୟ: '+str(script['duration'])+' ସେକେଣ୍ଡ। କଣ୍ଠ ରେକର୍ଡ ଓ ଚଳଚ୍ଚିତ୍ର ବାକି।','Target duration: '+str(script['duration'])+' seconds. Voice recording and film production remain ahead.'),'p','class="voice-boundary"')
-    elapsed=0;txt=['Concept and creative direction: Ahimanikya Satapathy',script['title']['or']+' / '+script['title']['en'],'First film-script draft. Timing is a target, not a recorded performance.','Independent fluent Odia review pending.','']
-    for i,scene in enumerate(script['scenes']):
-        body+='<section>'+bi(pair('ଦୃଶ୍ୟ '+str(i+1)+' · '+str(elapsed)+'–'+str(elapsed+scene['seconds'])+' ସେକେଣ୍ଡ','Scene '+str(i+1)+' · '+str(elapsed)+'–'+str(elapsed+scene['seconds'])+' seconds'),'h2')+bi(scene['action'])+bi(scene['sound'],'p','class="caption"')
-        txt+=['SCENE '+str(i+1)+' — '+str(elapsed)+'–'+str(elapsed+scene['seconds'])+' sec',scene['action']['or'],scene['action']['en'],'Sound: '+scene['sound']['or']+' / '+scene['sound']['en']]
-        for line in scene['lines']:
-            body+='<p>'+bi(line['speaker'],'strong')+'<br>'+bi(line['text'],'span')+'</p>'
-            txt+=[line['speaker']['or']+': '+line['text']['or'],line['speaker']['en']+': '+line['text']['en']]
-        body+='</section>';elapsed+=scene['seconds'];txt+=['']
-    assert elapsed==script['duration'],script['id']
-    filename=script['id']+'-script-v1.txt';(OUT/'downloads'/filename).write_text('\n'.join(txt)+'\n')
-    body+=bi(REVIEW)+link('/characters/downloads/'+filename,'ଦୁଇ ଭାଷାର ପାଠ୍ୟ ଡାଉନଲୋଡ୍','Download the paired script','button secondary')+'<p>'+link('/characters/story-lab.html#'+script['world'],'← କାମର ତାଲିକା','← Production list')+'</p>'
-    shell('scripts/'+script['id'],script['title'],body,'/characters/koeli/assets/colour-study-v1.png')
+runpy.run_path(str(ROOT/'scripts/character-film-pages.py'),init_globals=globals())
 
 production=json.loads((ROOT/'data/character-production-v1.json').read_text())
 body='<header>'+bi(pair('କାମର ପରବର୍ତ୍ତୀ ଧାପ','The next stages of the work'),'p','class="eyebrow"')+bi(production['title'],'h1')+bi(production['intro'])+'</header><section class="voice-refrain">'+bi(pair('ପ୍ରତି ପାଠ୍ୟ ପାଇଁ ଏହି କ୍ରମ','The cycle for each script'),'h2')+'<ol class="production-loop">'
 for step in production['loop']:body+='<li>'+bi(step)+'</li>'
 body+='</ol></section>'+bi(production['filmStatus'],'p','class="voice-boundary"')
+target=sum(w.get('scriptTarget',0) for w in production['worlds'])
+written_count=len(film_data['scripts']);board_count=sum(bool(s.get('storyboard')) for s in film_data['scripts'])
+body+=bi(pair(f'ପାଠ୍ୟର ଖସଡ଼ା: {written_count} / {target}। ସମୟଧରା ଦୃଶ୍ୟନମୁନା: {board_count}। ସମ୍ପୂର୍ଣ୍ଣ ଚଳଚ୍ଚିତ୍ର: 0।',f'Script drafts: {written_count} of {target}. Timed storyboards: {board_count}. Completed films: 0.'),'p','class="production-count"')
 body+='<section>'+link('/characters/regional-dress.html','ପ୍ରଥମେ ପୋଷାକ ଓ ଅଞ୍ଚଳର ଅଧ୍ୟୟନ →','Start with the clothing and regional references →')+'</section>'
 for entry in production['worlds']:
     wid=entry['id'];ready=next((w for w in available if w['id']==wid),None)
@@ -122,9 +111,23 @@ for entry in production['worlds']:
     if ready:body+='<p>'+link(f'/characters/{wid}/language-review/index.html','ଦୁଇ ଭାଷାର ପାଠ୍ୟ ଯାଞ୍ଚ','Review the paired dialogue')+'</p>'
     written=[script for script in film_data['scripts'] if script['world']==wid]
     if written:
-        body+=bi(pair('ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ଖସଡ଼ା','Film-script drafts'),'h3')+'<ul>'
-        for script in written:body+='<li>'+link('/characters/scripts/'+script['id']+'.html',script['title']['or'],script['title']['en'])+'</li>'
-        body+='</ul>'
+        body+=bi(pair('ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ଖସଡ଼ା','Film-script drafts'),'h3')
+        focused={}
+        for script in written:
+            key=script.get('focus',{}).get('id','all');focused.setdefault(key,[]).append(script)
+        body+='<div class="voice-sections">'
+        for key,items in focused.items():
+            body+='<article>'
+            if key!='all':body+=bi(items[0]['focus']['name'],'h4')
+            body+='<ul>'
+            for script in items:
+                body+='<li>'+link('/characters/scripts/'+script['id']+'.html',script['title']['or'],script['title']['en'])
+                if script.get('storyboard'):body+='<br>'+link(script['storyboard']['page'],'ସମୟଧରା ଦୃଶ୍ୟ →','Timed storyboard →')
+                body+='</li>'
+            body+='</ul></article>'
+        body+='</div>'
+        pack=OUT/'downloads'/(wid+'-film-scripts-v1.zip')
+        if pack.exists():body+=link('/characters/downloads/'+pack.name,'ଏହି ଦଳର ସମସ୍ତ ପାଠ୍ୟ · ZIP','All scripts for this cast · ZIP','button secondary')
     body+='</section>'
 shell('story-lab',production['title'],body,'/characters/koeli/assets/colour-study-v1.png')
 

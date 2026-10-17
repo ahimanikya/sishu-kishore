@@ -1,26 +1,1949 @@
 {
- "version":1,
- "credit":"Concept and creative direction: Ahimanikya Satapathy",
- "stage":"script-draft",
- "review":"Independent fluent Odia review pending; no recorded voices or finished film",
- "scripts":[
-  {"id":"koeli-first-line","world":"koeli","title":{"or":"ଆରମ୍ଭଟା କେଉଁଠି?","en":"Where Did the Beginning Go?"},"duration":45,"premise":{"or":"ଉତ୍ସାହରେ କୋଇଲି ଗପର ଶେଷ ଆଗରୁ କହିଦିଏ। ପିଲାର ପ୍ରଶ୍ନ ଶୁଣି ସେ ଆରମ୍ଭକୁ ଫେରେ।","en":"Koeli gets excited and gives away the ending. A child’s question brings the bird back to the beginning."},"scenes":[
-   {"seconds":8,"action":{"or":"ସକାଳ। ଡାଳରେ କୋଇଲି ଆଗକୁ ଢଳେ। ତଳେ ବସିଥିବା ପିଲାମାନେ ଚିତ୍ରର ବାହାରେ।","en":"Morning. Koeli leans forward on a branch. The listening children are below, outside the frame."},"sound":{"or":"ପତ୍ରର ହାଲୁକା ଶବ୍ଦ; ଏକ ଛୋଟ କୁହୁ ଡାକ।","en":"Soft leaves; one short kuhu call."},"lines":[{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ଶେଷରେ ବ୍ୟାଗ୍‌ଟା ଗଛରେ ମିଳିଲା!","en":"And in the end, they found the bag in the tree!"}}]},
-   {"seconds":12,"action":{"or":"କୋଇଲି ଉତ୍ତର ପାଇଁ ଅପେକ୍ଷା କରେ। ତଳୁ ଜଣେ ପିଲା ପଚାରେ।","en":"Koeli waits for a reaction. A child calls up from below."},"sound":{"or":"ଏକ ଛୋଟ ନିରବ ବିରାମ।","en":"A brief quiet pause."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"କାହା ବ୍ୟାଗ୍?","en":"Whose bag?"}},{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ଓହୋ! ଆରମ୍ଭଟା ତ କହିନି!","en":"Oh! I forgot the beginning!"}}]},
-   {"seconds":12,"action":{"or":"କୋଇଲି ମୁଣ୍ଡ ଢଳାଇ ଭାବେ। ପିଲାଟି ହସେ; କୋଇଲି ତା’ ସହ ହସେ।","en":"Koeli tilts its head to think. The child laughs, and Koeli joins in."},"sound":{"or":"ଛୋଟ ହସ; ପତ୍ର ଶବ୍ଦ ଚାଲିଥାଏ।","en":"A small laugh over the continuing leaves."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"ଏଥର ଆଗରୁ କହ।","en":"Start at the beginning this time."}},{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ହଁ। ପ୍ରଥମେ ଗୋଟେ ବ୍ୟାଗ୍ ଥିଲା…","en":"Right. First, there was a bag…"}}]},
-   {"seconds":13,"action":{"or":"କୋଇଲି ପୁଣି ଅଟକେ। ତଳକୁ ଚାହେଁ। ଶୁଣିବାରେ ଗପ ଶେଷ।","en":"Koeli stops again and looks down. End on the act of listening."},"sound":{"or":"ହାଲୁକା ହସ, ତା’ପରେ ନିରବତା।","en":"A gentle laugh, then quiet."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"ଆଉ ବ୍ୟାଗ୍‌ଟା କାହାର ଥିଲା?","en":"And whose bag was it?"}},{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ଆଚ୍ଛା, ତୁମେ ପଚାର। ମୁଁ କହୁଛି।","en":"All right. You ask, and I’ll tell you."}}]}
-  ]},
-  {"id":"koeli-little-sound","world":"koeli","title":{"or":"ସେଇ ଛୋଟ ଶବ୍ଦ","en":"That Little Sound"},"duration":48,"premise":{"or":"ନିଜ ଗୀତ ଭିତରେ କୋଇଲି ଏକ ଛୋଟ ଶବ୍ଦ ଶୁଣିପାରେନି। ଗୀତ ଥାମିଲେ ଏକ ପତ୍ରରେ ପଡ଼ୁଥିବା ପାଣି ଠୋପା ମିଳେ।","en":"Koeli’s own song hides a tiny sound. When it stops, the bird discovers a drop falling onto a leaf."},"scenes":[
-   {"seconds":12,"action":{"or":"ବର୍ଷା ଛାଡ଼ିଛି। କୋଇଲି ଗାଏ। ପାଖ ଡାଳରୁ ପାଣି ଠୋପା ପଡ଼େ।","en":"The rain has stopped. Koeli sings while a drop falls from a nearby branch."},"sound":{"or":"କୁହୁ ଡାକ; ତା’ ତଳେ ଏକ ଟପ୍।","en":"Kuhu calls with a faint tap underneath."},"lines":[{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ଆଉ ଥରେ ଶୁଣ—କୁହୁ!","en":"Listen once more—kuhu!"}}]},
-   {"seconds":12,"action":{"or":"ତଳୁ ଜଣେ ପିଲା ଶୁଣିବାକୁ କହେ। କୋଇଲି ଗୀତ ଥାମେ, ମୁଣ୍ଡ ଢଳାଏ।","en":"A child below asks it to listen. Koeli stops singing and tilts its head."},"sound":{"or":"ଗୀତ ଥାମେ; ଟପ୍ ଶବ୍ଦ ସ୍ପଷ୍ଟ ହୁଏ।","en":"The song stops; the tap becomes clear."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"ଟିକେ ରୁହ। ସେ ଶବ୍ଦଟା ଶୁଣୁଛ?","en":"Wait. Can you hear that little sound?"}}]},
-   {"seconds":12,"action":{"or":"ପତ୍ରରେ ଆଉ ଗୋଟିଏ ଠୋପା ପଡ଼େ। କୋଇଲି ତଳକୁ ଝୁଙ୍କି ଦେଖେ; ପତ୍ର ଛୁଏଁନି।","en":"Another drop lands on a leaf. Koeli leans down to see, without touching it."},"sound":{"or":"ଟପ୍। ଏକ ବିରାମ। ପୁଣି ଟପ୍।","en":"Tap. A pause. Tap again."},"lines":[{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ଏତିକି ଠୋପାରୁ ଏତେ ଶବ୍ଦ!","en":"All that sound from one little drop!"}}]},
-   {"seconds":12,"action":{"or":"କୋଇଲି ପିଲାଙ୍କ ଆଡ଼କୁ ତାକେ, ପୁଣି ପତ୍ରକୁ। ଶେଷ କିଛି ସେକେଣ୍ଡରେ କଥା ନାହିଁ।","en":"Koeli looks towards the children, then back at the leaf. Leave the final seconds without dialogue."},"sound":{"or":"ଆଉ ଦୁଇଟି ଠୋପା ଓ ହାଲୁକା ପବନ।","en":"Two more drops and a light breeze."},"lines":[{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ଏଥର ମୁଁ ବି ଶୁଣିବି।","en":"This time I’ll listen too."}}]}
-  ]},
-  {"id":"koeli-your-turn","world":"koeli","title":{"or":"ଏଥର ତୁମ ଗପ","en":"Your Story This Time"},"duration":48,"premise":{"or":"କୋଇଲି ଗପର ନାମ ଜାଣିବା ଆଗରୁ ଅନୁମାନ କରେ। ଶେଷରେ ନିଜ କଥା ଥାମି ନୂଆ କଥକ ପାଇଁ ସ୍ଥାନ ଦିଏ।","en":"Koeli guesses a story before hearing it. Finally it makes room for a new storyteller."},"scenes":[
-   {"seconds":12,"action":{"or":"ଡାଳରେ କୋଇଲି। ଚିତ୍ର ବାହାରୁ ଜଣେ ପିଲା ନିଜ ଗପ କହିବାକୁ ଆଗ୍ରହ କରେ।","en":"Koeli is on its branch. A child outside the frame wants to tell a story."},"sound":{"or":"ଅଗଣାର ସାଧାରଣ ହାଲୁକା ଶବ୍ଦ।","en":"Quiet courtyard sounds."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"ଆଜି ମୁଁ କହିବି?","en":"Can I tell one today?"}},{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"କହ। ବାଘର ଗପ?","en":"Go on. A tiger story?"}}]},
-   {"seconds":12,"action":{"or":"କୋଇଲି ଆଗକୁ ଢଳି ନିଜେ ଅନୁମାନ କରେ। ପିଲା ଆରମ୍ଭ କରିବାକୁ ଯାଇ ଅଟକେ।","en":"Koeli leans forward with another guess. The child starts, then stops."},"sound":{"or":"କଥା ଆରମ୍ଭ ହୋଇ ପୁଣି ବିରାମ।","en":"A false start, then a pause."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"ନା, ଆମ ଘରେ…","en":"No, at our house…"}},{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ଚୋର ଆସିଥିଲା?","en":"Was there a thief?"}}]},
-   {"seconds":12,"action":{"or":"ପିଲାର କଥା ଶୁଣି କୋଇଲି ନିଜ ଥଣ୍ଟ ବନ୍ଦ କରେ। ଡାଳରେ ଟିକେ ପଛକୁ ସରେ।","en":"Koeli hears the child, closes its beak and settles a little further back on the branch."},"sound":{"or":"ପତ୍ରର ମୃଦୁ ଶବ୍ଦ।","en":"A soft rustle of leaves."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"ଆଗେ ଶୁଣିବ?","en":"Will you listen first?"}},{"speaker":{"or":"କୋଇଲି","en":"Koeli"},"text":{"or":"ହଁ। ଏଥର ତୁମ ଗପ।","en":"Yes. Your story this time."}}]},
-   {"seconds":12,"action":{"or":"କୋଇଲି ମନଦେଇ ଶୁଣେ। ପିଲା କହିଲାବେଳେ ତା’ ଆଖିରେ ହସ। କଥା ନକହି ଏହି ଭାବରେ ଶେଷ।","en":"Koeli listens. Its eyes brighten as the child speaks. End on this reaction without another interruption."},"sound":{"or":"ପିଲାର କଥା ଓ ଛୋଟ ହସ।","en":"The child’s voice and a small laugh."},"lines":[{"speaker":{"or":"ପିଲା","en":"Child"},"text":{"or":"ଆମ ବିଲେଇ ନିଜ ଛାଇକୁ ଧରିବାକୁ ଯାଇଥିଲା!","en":"Our cat tried to catch its own shadow!"}}]}
-  ]}
- ]
+  "version": 1,
+  "credit": "Concept and creative direction: Ahimanikya Satapathy",
+  "stage": "script-draft",
+  "review": "Independent fluent Odia review pending; no recorded voices or finished film",
+  "scripts": [
+    {
+      "id": "koeli-first-line",
+      "world": "koeli",
+      "title": {
+        "or": "ଆରମ୍ଭଟା କେଉଁଠି?",
+        "en": "Where Did the Beginning Go?"
+      },
+      "duration": 45,
+      "premise": {
+        "or": "ଉତ୍ସାହରେ କୋଇଲି ଗପର ଶେଷ ଆଗରୁ କହିଦିଏ। ପିଲାର ପ୍ରଶ୍ନ ଶୁଣି ସେ ଆରମ୍ଭକୁ ଫେରେ।",
+        "en": "Koeli gets excited and gives away the ending. A child’s question brings the bird back to the beginning."
+      },
+      "scenes": [
+        {
+          "seconds": 8,
+          "action": {
+            "or": "ସକାଳ। ଡାଳରେ କୋଇଲି ଆଗକୁ ଢଳେ। ତଳେ ବସିଥିବା ପିଲାମାନେ ଚିତ୍ରର ବାହାରେ।",
+            "en": "Morning. Koeli leans forward on a branch. The listening children are below, outside the frame."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ହାଲୁକା ଶବ୍ଦ; ଏକ ଛୋଟ କୁହୁ ଡାକ।",
+            "en": "Soft leaves; one short kuhu call."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ଶେଷରେ ବ୍ୟାଗ୍‌ଟା ଗଛରେ ମିଳିଲା!",
+                "en": "And in the end, they found the bag in the tree!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୋଇଲି ଉତ୍ତର ପାଇଁ ଅପେକ୍ଷା କରେ। ତଳୁ ଜଣେ ପିଲା ପଚାରେ।",
+            "en": "Koeli waits for a reaction. A child calls up from below."
+          },
+          "sound": {
+            "or": "ଏକ ଛୋଟ ନିରବ ବିରାମ।",
+            "en": "A brief quiet pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "କାହା ବ୍ୟାଗ୍?",
+                "en": "Whose bag?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ଓହୋ! ଆରମ୍ଭଟା ତ କହିନି!",
+                "en": "Oh! I forgot the beginning!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୋଇଲି ମୁଣ୍ଡ ଢଳାଇ ଭାବେ। ପିଲାଟି ହସେ; କୋଇଲି ତା’ ସହ ହସେ।",
+            "en": "Koeli tilts its head to think. The child laughs, and Koeli joins in."
+          },
+          "sound": {
+            "or": "ଛୋଟ ହସ; ପତ୍ର ଶବ୍ଦ ଚାଲିଥାଏ।",
+            "en": "A small laugh over the continuing leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "ଏଥର ଆଗରୁ କହ।",
+                "en": "Start at the beginning this time."
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ହଁ। ପ୍ରଥମେ ଗୋଟେ ବ୍ୟାଗ୍ ଥିଲା…",
+                "en": "Right. First, there was a bag…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 13,
+          "action": {
+            "or": "କୋଇଲି ପୁଣି ଅଟକେ। ତଳକୁ ଚାହେଁ। ଶୁଣିବାରେ ଗପ ଶେଷ।",
+            "en": "Koeli stops again and looks down. End on the act of listening."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ହସ, ତା’ପରେ ନିରବତା।",
+            "en": "A gentle laugh, then quiet."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "ଆଉ ବ୍ୟାଗ୍‌ଟା କାହାର ଥିଲା?",
+                "en": "And whose bag was it?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ଆଚ୍ଛା, ତୁମେ ପଚାର। ମୁଁ କହୁଛି।",
+                "en": "All right. You ask, and I’ll tell you."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "koeli-little-sound",
+      "world": "koeli",
+      "title": {
+        "or": "ସେଇ ଛୋଟ ଶବ୍ଦ",
+        "en": "That Little Sound"
+      },
+      "duration": 48,
+      "premise": {
+        "or": "ନିଜ ଗୀତ ଭିତରେ କୋଇଲି ଏକ ଛୋଟ ଶବ୍ଦ ଶୁଣିପାରେନି। ଗୀତ ଥାମିଲେ ଏକ ପତ୍ରରେ ପଡ଼ୁଥିବା ପାଣି ଠୋପା ମିଳେ।",
+        "en": "Koeli’s own song hides a tiny sound. When it stops, the bird discovers a drop falling onto a leaf."
+      },
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବର୍ଷା ଛାଡ଼ିଛି। କୋଇଲି ଗାଏ। ପାଖ ଡାଳରୁ ପାଣି ଠୋପା ପଡ଼େ।",
+            "en": "The rain has stopped. Koeli sings while a drop falls from a nearby branch."
+          },
+          "sound": {
+            "or": "କୁହୁ ଡାକ; ତା’ ତଳେ ଏକ ଟପ୍।",
+            "en": "Kuhu calls with a faint tap underneath."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ଆଉ ଥରେ ଶୁଣ—କୁହୁ!",
+                "en": "Listen once more—kuhu!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତଳୁ ଜଣେ ପିଲା ଶୁଣିବାକୁ କହେ। କୋଇଲି ଗୀତ ଥାମେ, ମୁଣ୍ଡ ଢଳାଏ।",
+            "en": "A child below asks it to listen. Koeli stops singing and tilts its head."
+          },
+          "sound": {
+            "or": "ଗୀତ ଥାମେ; ଟପ୍ ଶବ୍ଦ ସ୍ପଷ୍ଟ ହୁଏ।",
+            "en": "The song stops; the tap becomes clear."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "ଟିକେ ରୁହ। ସେ ଶବ୍ଦଟା ଶୁଣୁଛ?",
+                "en": "Wait. Can you hear that little sound?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ପତ୍ରରେ ଆଉ ଗୋଟିଏ ଠୋପା ପଡ଼େ। କୋଇଲି ତଳକୁ ଝୁଙ୍କି ଦେଖେ; ପତ୍ର ଛୁଏଁନି।",
+            "en": "Another drop lands on a leaf. Koeli leans down to see, without touching it."
+          },
+          "sound": {
+            "or": "ଟପ୍। ଏକ ବିରାମ। ପୁଣି ଟପ୍।",
+            "en": "Tap. A pause. Tap again."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ଏତିକି ଠୋପାରୁ ଏତେ ଶବ୍ଦ!",
+                "en": "All that sound from one little drop!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୋଇଲି ପିଲାଙ୍କ ଆଡ଼କୁ ତାକେ, ପୁଣି ପତ୍ରକୁ। ଶେଷ କିଛି ସେକେଣ୍ଡରେ କଥା ନାହିଁ।",
+            "en": "Koeli looks towards the children, then back at the leaf. Leave the final seconds without dialogue."
+          },
+          "sound": {
+            "or": "ଆଉ ଦୁଇଟି ଠୋପା ଓ ହାଲୁକା ପବନ।",
+            "en": "Two more drops and a light breeze."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ଏଥର ମୁଁ ବି ଶୁଣିବି।",
+                "en": "This time I’ll listen too."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "koeli-your-turn",
+      "world": "koeli",
+      "title": {
+        "or": "ଏଥର ତୁମ ଗପ",
+        "en": "Your Story This Time"
+      },
+      "duration": 48,
+      "premise": {
+        "or": "କୋଇଲି ଗପର ନାମ ଜାଣିବା ଆଗରୁ ଅନୁମାନ କରେ। ଶେଷରେ ନିଜ କଥା ଥାମି ନୂଆ କଥକ ପାଇଁ ସ୍ଥାନ ଦିଏ।",
+        "en": "Koeli guesses a story before hearing it. Finally it makes room for a new storyteller."
+      },
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଡାଳରେ କୋଇଲି। ଚିତ୍ର ବାହାରୁ ଜଣେ ପିଲା ନିଜ ଗପ କହିବାକୁ ଆଗ୍ରହ କରେ।",
+            "en": "Koeli is on its branch. A child outside the frame wants to tell a story."
+          },
+          "sound": {
+            "or": "ଅଗଣାର ସାଧାରଣ ହାଲୁକା ଶବ୍ଦ।",
+            "en": "Quiet courtyard sounds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "ଆଜି ମୁଁ କହିବି?",
+                "en": "Can I tell one today?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "କହ। ବାଘର ଗପ?",
+                "en": "Go on. A tiger story?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୋଇଲି ଆଗକୁ ଢଳି ନିଜେ ଅନୁମାନ କରେ। ପିଲା ଆରମ୍ଭ କରିବାକୁ ଯାଇ ଅଟକେ।",
+            "en": "Koeli leans forward with another guess. The child starts, then stops."
+          },
+          "sound": {
+            "or": "କଥା ଆରମ୍ଭ ହୋଇ ପୁଣି ବିରାମ।",
+            "en": "A false start, then a pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "ନା, ଆମ ଘରେ…",
+                "en": "No, at our house…"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ଚୋର ଆସିଥିଲା?",
+                "en": "Was there a thief?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ପିଲାର କଥା ଶୁଣି କୋଇଲି ନିଜ ଥଣ୍ଟ ବନ୍ଦ କରେ। ଡାଳରେ ଟିକେ ପଛକୁ ସରେ।",
+            "en": "Koeli hears the child, closes its beak and settles a little further back on the branch."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ମୃଦୁ ଶବ୍ଦ।",
+            "en": "A soft rustle of leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "ଆଗେ ଶୁଣିବ?",
+                "en": "Will you listen first?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କୋଇଲି",
+                "en": "Koeli"
+              },
+              "text": {
+                "or": "ହଁ। ଏଥର ତୁମ ଗପ।",
+                "en": "Yes. Your story this time."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କୋଇଲି ମନଦେଇ ଶୁଣେ। ପିଲା କହିଲାବେଳେ ତା’ ଆଖିରେ ହସ। କଥା ନକହି ଏହି ଭାବରେ ଶେଷ।",
+            "en": "Koeli listens. Its eyes brighten as the child speaks. End on this reaction without another interruption."
+          },
+          "sound": {
+            "or": "ପିଲାର କଥା ଓ ଛୋଟ ହସ।",
+            "en": "The child’s voice and a small laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ପିଲା",
+                "en": "Child"
+              },
+              "text": {
+                "or": "ଆମ ବିଲେଇ ନିଜ ଛାଇକୁ ଧରିବାକୁ ଯାଇଥିଲା!",
+                "en": "Our cat tried to catch its own shadow!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nilu-hold-this-end",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "nilu",
+        "name": {
+          "or": "ନୀଳୁ",
+          "en": "Nilu"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-1"
+      },
+      "title": {
+        "or": "ଏ ପଟଟା ଧର",
+        "en": "Hold This End"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "କପଡ଼ା ଭାଙ୍ଗିବା ଆଗରୁ ନୀଳୁ ସବୁ ମାପିବାକୁ ଚାହେଁ। ଚଇତି ଅନ୍ୟ ପଟ ଧରି ଅପେକ୍ଷା କରୁଛି—ତାହା ସେ ଟିକେ ଡେରିରେ ଦେଖେ।",
+        "en": "Nilu wants to measure everything before folding a cloth. He is slow to notice that Chaiti is still holding the other end."
+      },
+      "setting": {
+        "or": "ନୂଆପାଟଣା–ମାଣିଆବନ୍ଧ ପ୍ରେରିତ କାଳ୍ପନିକ ବୁଣାପଡ଼ାରେ ପିଲାଙ୍କ ଭ୍ରମଣ। ଏହା ସେମାନଙ୍କ ସ୍ଥାୟୀ ଘରର ଠିକଣା ନୁହେଁ।",
+        "en": "The children visit a fictional weaving neighbourhood inspired by Nuapatna–Maniabandha. This does not establish their permanent home."
+      },
+      "performance": {
+        "or": "ଯୋଜନାରେ ବୁଡ଼ିରହିବା → ସାଙ୍ଗର କ୍ଲାନ୍ତ ହାତ ଦେଖିବା → ନିଜେ ହସି କାମରେ ହାତ ଲଗାଇବା।",
+        "en": "Absorbed planning → noticing a friend’s tired arms → a sheepish smile and practical help."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ। ବୁଣାକାରଙ୍କ ସାଧା ଶାଢ଼ୀ, ସରୁ ନୀଳ ଧାର ଓ ଛୋଟ ହାତର ବ୍ଲାଉଜ୍ ପୂର୍ବ ଅଧ୍ୟୟନରୁ ରହିବ। କାମବେଳେ କାନି ନିୟନ୍ତ୍ରିତ; ଏହା ଜଣେ କାଳ୍ପନିକ ମଣିଷଙ୍କ ପୋଷାକ, ସମସ୍ତ ବୁଣାକାରଙ୍କ ନୁହେଁ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising. The weaver retains the previous study’s plain sari, narrow blue border and short-sleeved blouse, with the sari end kept clear of the work. This is one fictional person’s wardrobe, not a uniform for weavers."
+      },
+      "continuity": {
+        "or": "ସେଇ ଗୋଟିଏ ହାଲୁକା, ସାଧା ଆୟତାକାର ସୂତା କପଡ଼ା। ଧାରରେ ଛୋଟ ନୀଳ ସିଲେଇ; ଅତିରିକ୍ତ ନକ୍ସା ନାହିଁ। ଚଇତି ବାମେ, ନୀଳୁ ଡାହାଣେ। ତନ୍ତ ଏହି ଦୃଶ୍ୟରେ ବନ୍ଦ। ଚଟେଇରେ ପିଲାମାନେ ଖାଲି ପାଦରେ।",
+        "en": "One light, plain rectangular cotton cloth with a small blue edge stitch; no added decorative pattern. Chaiti stays screen left, Nilu screen right. The loom is idle in this scene. The children are barefoot on the mat."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-1.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବାରଣ୍ଡାରେ ଚଇତି କପଡ଼ାର ଦୁଇ କୋଣ ଧରିଛି। ନୀଳୁ ଅନ୍ୟ ପଟ ପାଖେ ବସି ମଝି ଖୋଜୁଛି। ପଛରେ ବୁଣାକାର ଭଙ୍ଗା କପଡ଼ା ରଖନ୍ତି।",
+            "en": "On the veranda, Chaiti holds two corners. Nilu crouches at the opposite end, looking for the middle. Behind them, the weaver puts folded cloth aside."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ମୃଦୁ ଶବ୍ଦ; ଦୂର ଅଗଣାର ଶବ୍ଦ।",
+            "en": "Soft cloth movement and distant courtyard sounds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଆଗେ ମଝିଟା ଠିକ୍ କରିଦିଏ।",
+                "en": "Let me find the exact middle first."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ନୀଳୁ ଗୋଟିଏ କୋଣ ମେଳାଏ, ପୁଣି ଖୋଲେ। ଚଇତିର ହାତ ଟିକେ ତଳକୁ ଖସେ। ସେ ନୀଳୁକୁ ଚାହେଁ।",
+            "en": "Nilu aligns a corner, then opens it again. Chaiti’s arms sink a little. She looks at him."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପବନ। କଥା ଆଗରୁ ଛୋଟ ବିରାମ।",
+            "en": "A light breeze. A short pause before the line."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ମଝିଟା ମିଳିଲା? ମୋ ହାତ ଥକିଗଲାଣି।",
+                "en": "Found it? My arms are getting tired."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ନୀଳୁ ମୁଣ୍ଡ ଉଠାଏ। ତୁରନ୍ତ ଠିଆ ହୋଇ ଦୁଇ କୋଣ ଧରେ। ଦୁହେଁ ଗୋଟିଏ ପାଦ ଆଗକୁ ଯାଇ କୋଣ ମେଳାନ୍ତି।",
+            "en": "Nilu looks up, rises and takes both corners. They each step forward and bring the ends together."
+          },
+          "sound": {
+            "or": "ଚଟେଇରେ ନରମ ପାଦ ଶବ୍ଦ, କପଡ଼ାର ଫଡ଼ଫଡ଼।",
+            "en": "Soft barefoot steps on the mat and a flutter of cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଓହୋ! ମୁଁ ଏ ପଟଟା ଧରୁଛି।",
+                "en": "Oh! I’ll hold this end."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଦୁହେଁ ଭଙ୍ଗା କପଡ଼ା ଚଟେଇରେ ରଖନ୍ତି। ଗୋଟିଏ ଧାର ଟିକେ ବାହାରେ। ନୀଳୁ ଆଙ୍ଗୁଠି ବଢ଼ାଏ, ଚଇତିକୁ ଚାହିଁ ହସେ। ଦୁହେଁ ଏକାଠି ସଜାଡ଼ନ୍ତି।",
+            "en": "They put the folded cloth on the mat. One edge sticks out. Nilu reaches to adjust it, catches Chaiti’s eye and smiles. They straighten it together."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ଛୋଟ ହସ। ଶେଷ ତିନି ସେକେଣ୍ଡ କଥା ନାହିଁ।",
+            "en": "A small shared laugh. No dialogue for the last three seconds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏବେ ମାପିବୁ?",
+                "en": "Measuring it now?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଏତିକି ସଜାଡ଼ିଦିଏ!",
+                "en": "Just this little bit!"
+              }
+            }
+          ]
+        }
+      ],
+      "storyboard": {
+        "sheet": "/characters/films/nilu-hold-this-end/pencil-storyboard-v4.png",
+        "page": "/characters/films/nilu-hold-this-end/index.html",
+        "archive": "nilu-chaiti-films",
+        "file": "pencil-storyboard-v4.png",
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟରେ ୫୪ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। ଏଥିରେ କଣ୍ଠ ବା ଧ୍ୱନି ରେକର୍ଡ ନାହିଁ। ହାତ ଓ ବେକର ପୋଷାକ ସଂଶୋଧନ ପରେ ଚତୁର୍ଥ ଖସଡ଼ା ରଖାଯାଇଛି।",
+          "en": "A 54-second pacing study using four still pencil frames. There is no recorded voice or sound. The fourth draft is retained after correcting hands and garment necklines."
+        }
+      }
+    },
+    {
+      "id": "nilu-wrong-foot",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "nilu",
+        "name": {
+          "or": "ନୀଳୁ",
+          "en": "Nilu"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-1"
+      },
+      "title": {
+        "or": "କେଉଁ ପାଦ?",
+        "en": "Which Foot?"
+      },
+      "duration": 50,
+      "premise": {
+        "or": "ଚଇତିର ନୂଆ ଖେଳର ନିୟମ ପଚାରି ପଚାରି ନୀଳୁ ପ୍ରଥମ ଥରେ ଭୁଲ୍ ପାଦ ପକାଏ। ଭୁଲ୍‌ଟା ହିଁ ତାକୁ ଖେଳ ଭିତରକୁ ନିଏ।",
+        "en": "Nilu asks so many questions about Chaiti’s new game that he steps with the wrong foot. The mistake finally gets him playing."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ନିଶ୍ଚିତ ହେବାକୁ ଚାହିଁବା → ଭୁଲ୍ ଧରାପଡ଼ିବା → ଲଜ୍ଜା ଛାଡ଼ି ଖେଳରେ ଯୋଗଦେବା।",
+        "en": "Seeking certainty → being caught out → dropping his embarrassment and joining in."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ମାଟିରେ ତିନିଟି ଛୋଟ ଗୋଲ ଦାଗ; ଏହା ପିଲାଙ୍କ ନିଜ ଖେଳ, କୌଣସି ପାରମ୍ପରିକ ଖେଳର ପୁନର୍ନିର୍ମାଣ ନୁହେଁ। ଚପଲ ଓ ପାଦର ସ୍ଥାନ ପ୍ରତି ଦୃଶ୍ୟରେ ମେଳିବ।",
+        "en": "Three small circles on the ground. This is the children’s invented game, not a reconstruction of a traditional game. Track sandals and foot positions between shots."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-1.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି ତିନିଟି ଗୋଲ ଦାଗ ଭିତରେ ପାଦ ପକାଇ ଦେଖାଏ। ନୀଳୁ ପାଖରେ ଠିଆ ହୋଇ ଆଙ୍ଗୁଠିରେ ଗଣେ।",
+            "en": "Chaiti demonstrates steps through three circles. Nilu stands beside her, counting on his fingers."
+          },
+          "sound": {
+            "or": "ପାଦର ଟପ୍ ଟପ୍।",
+            "en": "Light foot taps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏଠି ଗୋଟେ ପାଦ, ତା’ପରେ ଦୁଇଟା।",
+                "en": "One foot here, then both."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ନୀଳୁ ଗୋଟିଏ ପାଦ ଉଠାଇ ଅଟକି ରହେ। ଚଇତି ଦୁଇ ପାଦରେ ଆରାମରେ ଠିଆ।",
+            "en": "Nilu lifts a foot and holds it there. Chaiti stands comfortably on both feet."
+          },
+          "sound": {
+            "or": "ପବନ ଓ ଏକ ଅଟକା ନିଶ୍ୱାସ।",
+            "en": "A breeze and a held breath."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଡାହାଣ ଆଗେ? ନା ବାମ?",
+                "en": "Right first? Or left?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଯେଉଁଟା ଇଚ୍ଛା।",
+                "en": "Whichever you like."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ନୀଳୁ ଦୁଇ ପାଦରେ ପ୍ରଥମ ଗୋଲରେ ପଶେ। ନିଜେ ତଳକୁ ଚାହିଁ ଭୁଲ୍ ଦେଖେ। ଚଇତି କିଛି କହିବା ଆଗରୁ ସେ ହସିପକାଏ।",
+            "en": "Nilu steps into the first circle with both feet. He looks down and sees his mistake. He laughs before Chaiti can say anything."
+          },
+          "sound": {
+            "or": "ଏକାଠି ଦୁଇ ପାଦର ଶବ୍ଦ, ତା’ପରେ ହସ।",
+            "en": "Two feet landing together, then laughter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଦୁଇଟାର ଇଚ୍ଛା ହେଲା!",
+                "en": "They both wanted a turn!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଚଇତି ପାଖରେ ଆଉ ଗୋଟିଏ ଗୋଲ କରେ। ନୀଳୁ ତା’ ପରେ ଆଉ ଗୋଟିଏ କରେ। ଦୁହେଁ ନୂଆ ବାଟରେ ଖେଳନ୍ତି।",
+            "en": "Chaiti draws another circle alongside. Nilu adds one beyond it. They try their growing path together."
+          },
+          "sound": {
+            "or": "ପାଦ ଓ ହସ; ସଙ୍ଗୀତ ଦରକାର ନାହିଁ।",
+            "en": "Footsteps and laughter; no music needed."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ପୁଣି ଥରେ?",
+                "en": "Again?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଏଥର ମୋତେ ଦେଖ।",
+                "en": "Watch me this time."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nilu-not-my-mark",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "nilu",
+        "name": {
+          "or": "ନୀଳୁ",
+          "en": "Nilu"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-1"
+      },
+      "title": {
+        "or": "ଏ ଦାଗଟା ମୋର",
+        "en": "That Mark Is Mine"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "କାଗଜରେ ନିଜ ଓଦା ଆଙ୍ଗୁଠିର ଦାଗ ଦେଖି ନୀଳୁ ଚୁପ୍ ରହିଯାଏ। ଚଇତି ପକ୍ଷୀକୁ ଚାହିଁଲେ ସେ କଥା କହେ।",
+        "en": "Nilu falls quiet when his damp finger marks their paper. When Chaiti looks towards the bird, he speaks up."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ଆଶ୍ଚର୍ଯ୍ୟ → କହିବାକୁ ଦ୍ୱିଧା → ନିଜ କାମ ସ୍ୱୀକାର କରି ସାଙ୍ଗ ସହ ରହିବା।",
+        "en": "Surprise → hesitation → owning what he did and staying alongside his friend."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "କାଗଜର ବାମ ତଳ କୋଣରେ ସେଇ ଗୋଟିଏ ଓଦା ଦାଗ ରହିବ। ପକ୍ଷୀ କାଗଜ ଛୁଏଁନି। ନୀଳୁର ଆଙ୍ଗୁଠି ଆଗରୁ ଓଦା ବୋଲି ସ୍ପଷ୍ଟ ଦେଖାଇବା।",
+        "en": "The same damp mark stays at the lower left of the paper. The bird never touches it. Establish Nilu’s wet fingertips before the mark appears."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-1.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି କାଗଜରେ ଅଗଣାର ଚିତ୍ର କରୁଛି। ହାତ ଧୋଇ ଆସିଥିବା ନୀଳୁ ଗୋଟିଏ କୋଣ ଧରେ। ଓଦା ଦାଗ ହୁଏ।",
+            "en": "Chaiti is drawing the courtyard. Nilu, just back from washing his hands, holds a corner. A damp mark appears."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍‌ର ଖସ୍‌ଖସ୍।",
+            "en": "Pencil scratching."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏ ପଟଟା ଧରିଥା।",
+                "en": "Hold this side."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ନୀଳୁ ହାତ ହଟାଏ। ଚଇତି ଦାଗ ଦେଖି ପାଖ କାନ୍ଥର ପକ୍ଷୀକୁ ଚାହେଁ। ପକ୍ଷୀ ନିଜ ପର ସଜାଉଛି।",
+            "en": "Nilu takes his hand away. Chaiti sees the mark and glances at the bird on the wall. The bird is preening."
+          },
+          "sound": {
+            "or": "ଏକ ଛୋଟ ଚିଁ ଓ ବିରାମ।",
+            "en": "A little chirp and a pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏଇଟା କେମିତି ହେଲା?",
+                "en": "How did that happen?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ନୀଳୁ ନିଜ ହାତ ଆଗକୁ ଦେଖାଏ। ଚଇତି ପକ୍ଷୀଠାରୁ ମୁହଁ ଫେରାଏ। ନୀଳୁ ଦାଗ ପୋଛିବାକୁ ଯାଇ ଅଟକେ।",
+            "en": "Nilu holds out his hand. Chaiti looks back from the bird. He reaches to rub the mark, then stops."
+          },
+          "sound": {
+            "or": "ମୃଦୁ କଥା; କୌଣସି ନାଟକୀୟ ସଙ୍ଗୀତ ନାହିଁ।",
+            "en": "Quiet speech; no dramatic music."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ମୋ ହାତ ଓଦା ଥିଲା। ମୁଁ କରିଛି।",
+                "en": "My hand was wet. I did it."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଘଷନି। ଟିକେ ଶୁଖୁ।",
+                "en": "Don’t rub it. Let it dry."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "କାଗଜ ତଳେ ରହେ। ଦୁହେଁ ପାଖରେ ବସି ପକ୍ଷୀକୁ ଦେଖନ୍ତି। ପକ୍ଷୀ ଗୋଟିଏ ଗୋଡ଼ ଉଠାଇ ପର ଭିତରେ ରଖେ।",
+            "en": "They leave the paper flat and sit nearby watching the bird. It tucks one foot into its feathers."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପତ୍ର ଶବ୍ଦ ଓ ଦୁହିଁଙ୍କ ହସ।",
+            "en": "Leaves and a shared chuckle."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ତା’ର ତ ହାତ ବି ନାହିଁ!",
+                "en": "It doesn’t even have hands!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chaiti-paper-bridge",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "chaiti",
+        "name": {
+          "or": "ଚଇତି",
+          "en": "Chaiti"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-2"
+      },
+      "title": {
+        "or": "କାଗଜ ଠିଆ ହେଲା",
+        "en": "The Paper Stood Up"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ଚଇତିର ସମତଳ କାଗଜ ପୋଲ ମଝିରେ ନଇଁଯାଏ। ମୋଡ଼ ପକାଇ ପୁଣି ଚେଷ୍ଟା କଲେ ନୂଆ ଖେଳ ମିଳେ।",
+        "en": "Chaiti’s flat paper bridge sags. Folding it and trying again gives her a new game."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ତରତର ସଫଳତା ଘୋଷଣା → ନଇଁଯିବା ଦେଖିବା → ଚେଷ୍ଟା ବଦଳାଇବା ଓ ହସିବା।",
+        "en": "Announcing success too soon → seeing the sag → changing the attempt and enjoying it."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ଦୁଇଟି ଛୋଟ ସମାନ କାଠ ଖଣ୍ଡ ମାଟିରେ। ପୋଲ କେବଳ ଛୋଟ କାଗଜ ଗୋଲା ପାଇଁ; ପିଲା ବା ପଶୁ ତା’ ଉପରେ ଚଢ଼ିବେନି। ମୋଡ଼ ସବୁ ଦୃଶ୍ୟରେ ମେଳିବ।",
+        "en": "Two low, equal wooden blocks sit on the ground. The bridge is only for a tiny paper ball, never a child or animal. Preserve the fold pattern across shots."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-2.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି ଦୁଇ କାଠ ଖଣ୍ଡ ଉପରେ ସମତଳ କାଗଜ ରଖେ। ଛୋଟ କାଗଜ ଗୋଲା ମଝିରେ ରଖିଲେ ପୋଲ ନଇଁଯାଏ।",
+            "en": "Chaiti lays a flat sheet over two blocks. A tiny paper ball at the centre makes it sag."
+          },
+          "sound": {
+            "or": "କାଗଜର ମଚ୍‌ମଚ୍।",
+            "en": "Paper crinkling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ମୋ ପୋଲ ହୋଇଗଲା… ଆରେ!",
+                "en": "My bridge is ready… oh!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେ ଗୋଲା ହଟାଏ। କାଗଜକୁ ଏପଟ ସେପଟ ମୋଡ଼ି ଛୋଟ ପଙ୍ଖା ପରି କରେ। ନୀଳୁ ଗୋଟିଏ କାଠ ଖଣ୍ଡ ଧରିଥାଏ।",
+            "en": "She removes the ball and makes alternating folds like a small fan. Nilu steadies one block."
+          },
+          "sound": {
+            "or": "ଧୀରେ ମୋଡ଼ ପକାଇବାର ଶବ୍ଦ।",
+            "en": "Slow, distinct paper folds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏଥର ଏମିତି କରି ଦେଖେ।",
+                "en": "Let me try it this way."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମୋଡ଼ା କାଗଜ କାଠ ଖଣ୍ଡକୁ ଯୋଡ଼େ। ଚଇତି ଗୋଲାକୁ ଅତି ଧୀରେ ରଖେ। ଏଥର ତାହା ରହିଯାଏ। ସେ ନୀଳୁକୁ ଚାହେଁ।",
+            "en": "The folded sheet spans the blocks. Chaiti lowers the ball carefully. It stays this time. She looks at Nilu."
+          },
+          "sound": {
+            "or": "ଗୋଲା ପଡ଼ିବାର କୋମଳ ଶବ୍ଦ ଓ ନିରବତା।",
+            "en": "A soft landing and a quiet pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ରହିଲା!",
+                "en": "It stayed!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଚଇତି ଆଙ୍ଗୁଠିରେ ପୋଲକୁ ଟିକେ ଛୁଏଁ। ଗୋଲା ମୋଡ଼ ଭିତରେ ଗଡ଼ି ତଳକୁ ଆସେ। ସେ ହାତ ପାତି ଧରେ।",
+            "en": "Chaiti lightly touches the bridge. The ball rolls along a fold and drops into her waiting palm."
+          },
+          "sound": {
+            "or": "କାଗଜ ଖସ୍‌ଖସ୍ ଓ ହସ।",
+            "en": "Paper rustle and laughter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ପୋଲ ହେଲା, ଖେଳ ବି ହେଲା!",
+                "en": "A bridge—and a game!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chaiti-open-knot",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "chaiti",
+        "name": {
+          "or": "ଚଇତି",
+          "en": "Chaiti"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-2"
+      },
+      "title": {
+        "or": "ଖୋଲିବ କେମିତି?",
+        "en": "How Will It Open?"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "କପଡ଼ା ପୁଡ଼ିଆରେ ଚଇତି ଗଣ୍ଠି ପରେ ଗଣ୍ଠି ପକାଏ। ଖୋଲିବା ବେଳକୁ ନିଜ କାମ ପାଇଁ ନିଜେ ଧୈର୍ଯ୍ୟ ଧରେ।",
+        "en": "Chaiti adds knot after knot to a cloth parcel. Opening it takes more patience than tying it."
+      },
+      "setting": {
+        "or": "ନୂଆପାଟଣା–ମାଣିଆବନ୍ଧ ପ୍ରେରିତ କାଳ୍ପନିକ ବୁଣାପଡ଼ାରେ ପିଲାଙ୍କ ଭ୍ରମଣ। ଏହା ସେମାନଙ୍କ ସ୍ଥାୟୀ ଘରର ଠିକଣା ନୁହେଁ।",
+        "en": "The children visit a fictional weaving neighbourhood inspired by Nuapatna–Maniabandha. This does not establish their permanent home."
+      },
+      "performance": {
+        "or": "ଜୋରରେ ବାନ୍ଧିବାର ଗର୍ବ → ନିଜେ ଅଟକିବା → ସାହାଯ୍ୟ ନେଇ ପୁଣି କରିବା।",
+        "en": "Pride in a firm knot → getting stuck → accepting help and trying again."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ। ବୁଣାକାରଙ୍କ ସାଧା ଶାଢ଼ୀ, ସରୁ ନୀଳ ଧାର ଓ ଛୋଟ ହାତର ବ୍ଲାଉଜ୍ ପୂର୍ବ ଅଧ୍ୟୟନରୁ ରହିବ। କାମବେଳେ କାନି ନିୟନ୍ତ୍ରିତ; ଏହା ଜଣେ କାଳ୍ପନିକ ମଣିଷଙ୍କ ପୋଷାକ, ସମସ୍ତ ବୁଣାକାରଙ୍କ ନୁହେଁ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising. The weaver retains the previous study’s plain sari, narrow blue border and short-sleeved blouse, with the sari end kept clear of the work. This is one fictional person’s wardrobe, not a uniform for weavers."
+      },
+      "continuity": {
+        "or": "କେବଳ ଅଭ୍ୟାସ ପାଇଁ ଖାଲି କପଡ଼ା ପୁଡ଼ିଆ ଓ ମୋଟା ସୂତା ଡୋର। ତନ୍ତର ସୂତା ନୁହେଁ। ବୁଣାକାରଙ୍କ ହାତ କାନି ତଳୁ ସ୍ୱଚ୍ଛନ୍ଦରେ ଚଳିବ।",
+        "en": "An empty practice cloth parcel and thick cotton cord, not yarn from the loom. The weaver’s arms move freely beneath the secured sari end."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-2.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି ଖାଲି କପଡ଼ା ପୁଡ଼ିଆରେ ଡୋର ବାନ୍ଧେ। ପ୍ରଥମ ଗଣ୍ଠି ଉପରେ ଆଉ ଗୋଟିଏ ପକାଏ।",
+            "en": "Chaiti ties a cord around an empty practice parcel and adds another knot over the first."
+          },
+          "sound": {
+            "or": "ଡୋର ଓ କପଡ଼ା ଘଷିବାର ଶବ୍ଦ।",
+            "en": "Cord rubbing against cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏବେ ଆଉ ଖୋଲିବନି!",
+                "en": "Now it won’t come undone!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବୁଣାକାର ହାତ ପାତନ୍ତି। ଚଇତି ପୁଡ଼ିଆ ଦିଏ। ସେ ପୁଣି ଚଇତିକୁ ଫେରାଇଦିଅନ୍ତି।",
+            "en": "The weaver holds out a hand. Chaiti passes the parcel over; the weaver passes it back."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବୁଣାକାର",
+                "en": "Weaver"
+              },
+              "text": {
+                "or": "ଭଲ। ଏବେ ଖୋଲି ଦେଖା।",
+                "en": "Good. Now show me how it opens."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଚଇତି ଗଣ୍ଠି ଟାଣେ, ଛାଡ଼େ। ବୁଣାକାରଙ୍କୁ ଚାହିଁ ପୁଡ଼ିଆ ମଝିରେ ରଖେ। ଦୁହେଁ ଧୀରେ ଗଣ୍ଠି ଢିଲା କରନ୍ତି।",
+            "en": "Chaiti tugs at the knot, then stops. She looks at the weaver and sets the parcel between them. Together they slowly loosen it."
+          },
+          "sound": {
+            "or": "ଡୋରର ହାଲୁକା ଶବ୍ଦ; ନୀରବ କାମ।",
+            "en": "Quiet cord sounds while they work."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଟିକେ ସାହାଯ୍ୟ କରିବେ?",
+                "en": "Will you help me a little?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବୁଣାକାର ଢିଲା ଫାଶ ଦେଖାନ୍ତି। ଚଇତି ତାକୁ ଖୋଲେ, ନିଜେ ପୁଣି ବାନ୍ଧେ, ପୁଣି ଖୋଲେ। ଶେଷରେ ନିଜେ ହସେ।",
+            "en": "The weaver demonstrates a loose loop. Chaiti opens it, ties it again herself, then opens it once more. She smiles at her own test."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ଶବ୍ଦ ଓ ମୃଦୁ ହସ।",
+            "en": "Cloth sounds and a quiet laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏବେ ବନ୍ଦ ବି, ଖୋଲା ବି!",
+                "en": "Now it closes—and opens!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chaiti-one-more-dot",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "chaiti",
+        "name": {
+          "or": "ଚଇତି",
+          "en": "Chaiti"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-2"
+      },
+      "title": {
+        "or": "ଆଉ ଗୋଟିଏ ଟିପା",
+        "en": "One More Dot"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ଚଇତି ନିଜ କାଗଜ ବ୍ୟାଗ୍‌ରେ ଟିପା ଦିଏ। ଅତି ଜୋରରେ ଦବାଇଲେ ଗୋଟିଏ ଟିପା ବଡ଼ ହୋଇଯାଏ; ସେ ତାକୁ ଲୁଚାଇବା ବଦଳରେ ଦେଖି ନୂଆ ଚିତ୍ର ଭାବେ।",
+        "en": "Chaiti stamps dots onto her paper bag. One hard press leaves a large blot; she looks at it and finds another picture."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ତରତର କାମ → ଅଟକି ଦେଖିବା → ନିଜ ଭୁଲ୍‌ରୁ ଖେଳ ଖୋଜିବା।",
+        "en": "Rushing → stopping to look → finding play in her own mistake."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ଶିଶୁଙ୍କ ପାଇଁ ଉପଯୁକ୍ତ ଧୋଇହେବା ରଙ୍ଗ, ପୁରୁଣା ଖବରକାଗଜ ଓ ନିଜ କାଗଜ ବ୍ୟାଗ୍। ଡାହାଣ ହାତର ଆଙ୍ଗୁଠିର ରଙ୍ଗ ଓ ବ୍ୟାଗ୍‌ର ବଡ଼ ଦାଗ ସ୍ଥାନ ବଦଳିବନି। ଏହା କୌଣସି ପାରମ୍ପରିକ ନକ୍ସାର ନାମରେ ଦେଖାଯିବନି।",
+        "en": "Child-appropriate washable paint, old newspaper and her own paper bag. Keep the paint on her right fingertips and the large blot in the same place. Do not present the invented marks as a named traditional motif."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-2.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି ଖବରକାଗଜ ଉପରେ ନିଜ କାଗଜ ବ୍ୟାଗ୍ ରଖି ଗୋଲ ଟିପା ଦେଉଛି। ନୀଳୁ ଶୁଖିଲା ପଟ ଧରିଥାଏ।",
+            "en": "Chaiti stamps round dots on her paper bag over newspaper. Nilu holds the dry edge."
+          },
+          "sound": {
+            "or": "ଟପ୍, ଟପ୍, ଟପ୍।",
+            "en": "Tap, tap, tap."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଆଉ ଗୋଟିଏ ଟିପା।",
+                "en": "One more dot."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସେ ଜୋରରେ ଦବାଏ। ରଙ୍ଗ ବଡ଼ ଦାଗ ହୋଇଯାଏ। ଚଇତି ହାତ ଉଠାଇ ଅଟକିଯାଏ।",
+            "en": "She presses too hard. The paint spreads into a large blot. Chaiti lifts her hand and stops."
+          },
+          "sound": {
+            "or": "ଓଦା ରଙ୍ଗର ଛପ୍; ତା’ପରେ ବିରାମ।",
+            "en": "A wet squish, then a pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଓହୋ… ଏଇଟା ତ ବଡ଼ ହୋଇଗଲା।",
+                "en": "Oh… that one grew."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେ ବ୍ୟାଗ୍‌ଟା ଟିକେ ବୁଲାଇ ଦେଖେ। ଦାଗ ପାଖରେ ଦୁଇ ସରୁ ରେଖା ଟାଣି ଏକ ମଜାଳିଆ ଲମ୍ବାଗୋଡ଼ିଆ ପକ୍ଷୀ କରେ।",
+            "en": "She turns the bag a little. Two thin lines beside the blot make a funny long-legged bird."
+          },
+          "sound": {
+            "or": "ତୁଳୀର ମୃଦୁ ଶବ୍ଦ।",
+            "en": "A soft brush sound."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଏତେ ଲମ୍ବା ଗୋଡ଼?",
+                "en": "Legs that long?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଚଇତି ନିଜ ପାଦ ଲମ୍ବା କରି ସେଇ ପକ୍ଷୀ ପରି ଚାଲି ଦେଖାଏ। ବ୍ୟାଗ୍ ଶୁଖିବାକୁ ରହେ; ନୀଳୁ ହସେ।",
+            "en": "Chaiti stretches her steps to walk like the bird. The bag stays flat to dry while Nilu laughs."
+          },
+          "sound": {
+            "or": "ଅଜବ ଲମ୍ବା ପାଦର ଟପ୍ ଟପ୍ ଓ ହସ।",
+            "en": "Funny long steps and laughter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ମୋ ପକ୍ଷୀ ଏମିତି ଚାଲେ!",
+                "en": "That’s how my bird walks!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bird-empty-step",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "bird",
+        "name": {
+          "or": "ପକ୍ଷୀ",
+          "en": "The bird"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-3"
+      },
+      "title": {
+        "or": "ଖାଲି ପାହାଚ",
+        "en": "The Empty Step"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ପକ୍ଷୀଟି ପାହାଚରେ ରହିଥିବା ଶୁଖିଲା ପତ୍ର ନେବାକୁ ଆସେ। ପିଲାଙ୍କ ପାଖକୁ ଆସି ପୁଣି ଫେରେ; ଖାଲି ସ୍ଥାନ ମିଳିଲେ ନିଜେ ବାଛେ।",
+        "en": "The bird wants a dry leaf on the step. It approaches and retreats near the children, then makes its own choice when they move aside."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ସତର୍କ ଇଚ୍ଛା → ଦୁଇଥର ମନ ବଦଳାଇବା → ନିଜେ ଆଗକୁ ଆସିବା। ପକ୍ଷୀ କଥା କହିବନି।",
+        "en": "Cautious interest → two changes of mind → choosing to approach. The bird has no spoken dialogue."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ଛୋଟ ବାଦାମୀ ପକ୍ଷୀ, ଛୋଟ ଲାଞ୍ଜ, ଝୁଟି ନାହିଁ। ଜାତି ଧାର୍ଯ୍ୟ ନୁହେଁ। ପତ୍ର ଗୋଟିଏ ହିଁ। ପିଲାମାନେ ଡାକିବେ ବା ଧରିବେନି।",
+        "en": "Small brown bird, short tail, no crest; species remains unspecified. One consistent leaf. The children neither lure nor handle it."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-3.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ପାହାଚରେ ଛୋଟ ଶୁଖିଲା ପତ୍ର। ପକ୍ଷୀ କାନ୍ଥରୁ ତଳକୁ ଆସି ଦୁଇଥର ଡେଇଁଥାଏ। ପାଖେ ପିଲାମାନେ ବସିଛନ୍ତି।",
+            "en": "A little dry leaf lies on the step. The bird drops from the wall and hops twice towards it. The children sit nearby."
+          },
+          "sound": {
+            "or": "ପକ୍ଷ ଓ ପତ୍ରର ହାଲୁକା ଶବ୍ଦ।",
+            "en": "Light wings and a leaf rustle."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି ଦେଖିବାକୁ ଆଗକୁ ଝୁଙ୍କେ। ପକ୍ଷୀ ପୁଣି କାନ୍ଥକୁ ଫେରେ। ମୁଣ୍ଡ ବୁଲାଇ ପତ୍ର ଓ ପିଲାଙ୍କୁ ଦେଖେ।",
+            "en": "Chaiti leans forward to see. The bird returns to the wall, looking between the leaf and the children."
+          },
+          "sound": {
+            "or": "ଏକ ଛୋଟ ଚିଁ।",
+            "en": "One short chirp."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ପୁଣି ଫେରିଗଲା।",
+                "en": "It went back again."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ନୀଳୁ ଟିକେ ପଛକୁ ସରେ। ଚଇତି ବି ସରେ। ପକ୍ଷୀ ତଳକୁ ଆସେ, ଅଟକେ, ତା’ପରେ ପତ୍ର ଉଠାଏ।",
+            "en": "Nilu moves back a little; Chaiti follows. The bird comes down, pauses, then picks up the leaf."
+          },
+          "sound": {
+            "or": "କିଛି ସେକେଣ୍ଡ କେବଳ ଅଗଣାର ଶବ୍ଦ।",
+            "en": "Several seconds of courtyard sound alone."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଏଠି ବସି ଦେଖିବା।",
+                "en": "Let’s watch from here."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ପତ୍ର ଧରି ପକ୍ଷୀ କାନ୍ଥକୁ ଫେରେ। ପତ୍ର ଘୂରି ମୁହଁ ଢାଙ୍କିଦିଏ। ସେ ଠୋଣ୍ଟର ଧରଣ ବଦଳାଇ ଉଡ଼ିଯାଏ। ପିଲାମାନେ ଚୁପ୍‌ଚାପ୍ ହସନ୍ତି।",
+            "en": "The bird returns to the wall with the leaf. It swings across its face; the bird adjusts its grip and flies off. The children smile quietly."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ଖସ୍‌ଖସ୍ ଓ ପକ୍ଷର ଫଡ଼ଫଡ଼।",
+            "en": "Leaf rustle and wingbeats."
+          },
+          "lines": []
+        }
+      ]
+    },
+    {
+      "id": "bird-shallow-splash",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "bird",
+        "name": {
+          "or": "ପକ୍ଷୀ",
+          "en": "The bird"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-3"
+      },
+      "title": {
+        "or": "ଛୋଟ ଛିଟା",
+        "en": "A Little Splash"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ସଫା ଅଗଭୀର ପାଣିରେ ପକ୍ଷୀ ଧୀରେ ପଶେ। ପିଲାମାନେ ବଡ଼ କିଛି ଅପେକ୍ଷା କରୁଥିଲେ, ଗୋଟିଏ ଛିଟାରେ ନୀଳୁର ଚଷମାରେ ଠୋପା ପଡ଼େ।",
+        "en": "The bird steps cautiously into clean shallow water. While the children wait for something grand, a small splash dots Nilu’s glasses."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ଧାରରେ ପରୀକ୍ଷା → ପାଣିରେ ଆରାମ → ପର ଝାଡ଼ି ନିଜ କାମରେ ଫେରିବା।",
+        "en": "Testing the rim → enjoying the water → shaking out and going about its own business."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ତଳେ ରଖା ଚଉଡ଼ା ଅଗଭୀର ପାତ୍ର; ପାଣିର ଗଭୀରତା ଓ ପାତ୍ରର ଆକାର ମେଳିବ। ନୀଳୁ ଦୂରରେ ତଳେ ବସିଛି। ଚଷମାରେ ଗୋଟିଏ ଛୋଟ ଠୋପା, ବଡ଼ ହାସ୍ୟକର ଜଳବିସ୍ଫୋରଣ ନୁହେଁ।",
+        "en": "A wide shallow dish at ground level; keep its depth and scale consistent. Nilu sits low at a respectful distance. One small drop on the glasses, not an exaggerated burst of water."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-3.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ପକ୍ଷୀ ପାତ୍ର ଧାରରେ ବସି ପାଣିକୁ ଚାହେଁ। ନୀଳୁ ଓ ଚଇତି ଦୂରରେ ବସି ଦେଖନ୍ତି।",
+            "en": "The bird perches at the dish edge and looks into the water. Nilu and Chaiti watch from a little distance."
+          },
+          "sound": {
+            "or": "ଅଗଣାର ପବନ, ଏକ ଚିଁ।",
+            "en": "Courtyard breeze and one chirp."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ପକ୍ଷୀ ଏକ ପାଦ ପାଣିରେ ରଖେ, ପୁଣି ଉଠାଏ। ମୁଣ୍ଡ ଢଳାଇ ଅନ୍ୟ ପାଦ ବଢ଼ାଏ। ପିଲାମାନେ ସ୍ଥିର ରହନ୍ତି।",
+            "en": "The bird dips one foot, lifts it, tilts its head and tries the other. The children stay still."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ଟୁପ୍ ଓ ବିରାମ।",
+            "en": "A tiny plip and a pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏବେ ପଶିବ କି?",
+                "en": "Is it going in now?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ପକ୍ଷୀ ଅଗଭୀର ପାଣିରେ ବସି ଥରେ ପକ୍ଷ ଝାଡ଼େ। ଏକ ଛୋଟ ଠୋପା ନୀଳୁର ଚଷମାରେ ପଡ଼େ। ସେ ଚମକେ, ପୁଣି ସ୍ଥିର ହୁଏ।",
+            "en": "The bird settles in the shallow water and shakes its wings once. A small drop reaches Nilu’s glasses. He blinks, then settles again."
+          },
+          "sound": {
+            "or": "ଛୋଟ ଛପ୍ ଓ ଚଇତିର ଦବା ହସ।",
+            "en": "A little splash and Chaiti’s stifled laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ମୋ ପାଖକୁ ବି ଆସିଲା।",
+                "en": "Some came my way too."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ପକ୍ଷୀ ଧାରକୁ ଆସି ପର ଝାଡ଼େ। ନୀଳୁ ଚଷମା ପୋଛି ଉପରକୁ ଚାହିଁଲେ ପକ୍ଷୀ କାନ୍ଥରେ ନିଜ ପର ସଜାଉଛି।",
+            "en": "The bird hops onto the rim and shakes. Nilu wipes his glasses; when he looks up, the bird is on the wall preening."
+          },
+          "sound": {
+            "or": "ପରର ଝଟ୍‌ଝଟ୍; ଶେଷରେ ପତ୍ର ଶବ୍ଦ।",
+            "en": "A feather shake, then leaves."
+          },
+          "lines": []
+        }
+      ]
+    },
+    {
+      "id": "bird-wrong-perch",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "bird",
+        "name": {
+          "or": "ପକ୍ଷୀ",
+          "en": "The bird"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-3"
+      },
+      "title": {
+        "or": "ଏଠି ବସିବି?",
+        "en": "Sit Here?"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ଚଇତି ଏକ କାଗଜ ପକ୍ଷୀର ଚିତ୍ର ଦେଖାଇବାକୁ ଚାହେଁ। ସତ ପକ୍ଷୀ ଚିତ୍ର ପାଖକୁ ନଯାଇ ବାଡ଼ର ଅନ୍ୟ ପଟ ବାଛେ।",
+        "en": "Chaiti wants to show the bird her paper bird. The real bird has its own choice of perch."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ସତର୍କ ଅବତରଣ → ଡୋଲୁଥିବା ଜିନିଷ ଏଡ଼ାଇବା → ସ୍ଥିର ଡାଳ ବାଛି ଆରାମ।",
+        "en": "Cautious landing → avoiding something that sways → choosing a stable branch and settling."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "କାଗଜ ପକ୍ଷୀ ଡୋରରେ ତଳେ ଝୁଲିଛି, ସତ ପକ୍ଷୀ ତା’କୁ ଛୁଏଁନି। ଶେଷ ଡାଳ ଆରମ୍ଭରୁ ଚିତ୍ରରେ ଥିବ। କୌଣସି ମଣିଷର ହାତରେ ପକ୍ଷୀ ବସିବନି।",
+        "en": "A paper bird hangs low on a cord; the real bird does not touch it. Establish the final branch in the opening view. No perching on a person’s hand."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-3.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି ନିଜ ଚିତ୍ରର କାଗଜ ପକ୍ଷୀ ବାଡ଼ରେ ଝୁଲାଏ। ପାଖ ଡାଳରେ ବାଦାମୀ ପକ୍ଷୀ ଆସି ବସେ।",
+            "en": "Chaiti hangs her paper bird on the fence. The brown bird lands on a nearby branch."
+          },
+          "sound": {
+            "or": "କାଗଜର ଫଡ଼ଫଡ଼ ଓ ଛୋଟ ଚିଁ।",
+            "en": "Paper flutter and a small chirp."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଦେଖ, ତୋ ପରି କରିଛି।",
+                "en": "Look, I made one like you."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ପବନରେ କାଗଜ ପକ୍ଷୀ ଘୂରେ। ସତ ପକ୍ଷୀ ମୁଣ୍ଡ ଢଳାଇ ଦେଖେ, ତା’ପରେ ଅନ୍ୟ ଡାଳକୁ ଡେଇଁଯାଏ।",
+            "en": "The paper bird turns in the breeze. The real bird tilts its head, then hops to another branch."
+          },
+          "sound": {
+            "or": "ଡୋରର ହାଲୁକା ଘଷା ଓ ପକ୍ଷ।",
+            "en": "A faint cord rub and wings."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଚଇତି ନିଜେ ଦୁଇ ପାଦ ସରି ପକ୍ଷୀକୁ ଦେଖେ। ନୀଳୁ ତା’ ଚିତ୍ର ଓ ପକ୍ଷୀର ଭିନ୍ନ ଛୋଟ ଲାଞ୍ଜ ଦେଖେ।",
+            "en": "Chaiti takes two steps to see the bird. Nilu looks between her drawing and the real bird’s shorter tail."
+          },
+          "sound": {
+            "or": "ପତ୍ର ଶବ୍ଦ।",
+            "en": "Leaves rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ତୋ ଚିତ୍ରର ଲାଞ୍ଜ ବଡ଼ ହୋଇଛି।",
+                "en": "Your drawing has a bigger tail."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସତ ପକ୍ଷୀ ଡାଳରେ ସ୍ଥିର ହୋଇ ବସେ। ଚଇତି ନୂଆ ଛୋଟ କାଗଜରେ ତାକୁ ଦେଖି ଆଙ୍କେ; ପୁରୁଣା ଚିତ୍ର ପବନରେ ଘୂରୁଥାଏ।",
+            "en": "The bird settles on its branch. Chaiti watches and draws on a new small sheet. The first paper bird keeps turning in the breeze."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍ ଶବ୍ଦ ଓ ଏକ ମୃଦୁ ଚିଁ।",
+            "en": "Pencil marks and a soft chirp."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ରହ। ଏଥର ଦେଖିକି କରୁଛି।",
+                "en": "Stay there. I’m looking properly this time."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "puppy-loud-tin",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "puppy",
+        "name": {
+          "or": "କୁକୁରଛୁଆ",
+          "en": "The puppy"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-4"
+      },
+      "title": {
+        "or": "ସେ ଶବ୍ଦଟା",
+        "en": "That Noise"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ଖାଲି ଡବା ଗଡ଼ିବା ଶବ୍ଦରେ କୁକୁରଛୁଆ ପଛକୁ ହଟେ। ପିଲାଙ୍କ ଖେଳ ଥାମେ। ସେ ନିଜ ସମୟରେ ଫେରିଆସି ଅନ୍ୟ ଜିନିଷ ବାଛେ।",
+        "en": "A rolling empty tin makes the puppy retreat. The children pause their game; it returns in its own time and chooses something else."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ଚମକି ପଛକୁ ହଟିବା → ଦୂରରୁ ଦେଖିବା → ନିଜେ ଫେରିବା। ଭୟକୁ ହାସ୍ୟର ବସ୍ତୁ କରିବା ନାହିଁ।",
+        "en": "Startling and retreating → watching from a distance → choosing to return. Fear is not the joke."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ଲାଲଚେ ବାଦାମୀ ଦେହ, କ୍ରିମ୍ ଛାତି, ଧଳା ପାଦ। ଡବାର ଧାର ମସୃଣ; ପିଲାମାନେ ତା’କୁ ହଟାଇଦିଅନ୍ତି। ଛୁଆକୁ ଡାକି ବା ଟାଣି ଆଣିବା ନାହିଁ।",
+        "en": "Russet coat, cream chest, white paws. The smooth-edged tin is removed by the children. Nobody calls or pulls the puppy back."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-4.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ନୀଳୁର ହାତରୁ ଖାଲି ଡବା ମାଟିରେ ଗଡ଼େ। କୁକୁରଛୁଆ ଚମକି ବାରଣ୍ଡାର ସ୍ତମ୍ଭ ପଛକୁ ଯାଏ।",
+            "en": "An empty tin rolls from Nilu’s hand. The puppy startles and retreats behind a veranda post."
+          },
+          "sound": {
+            "or": "ଏକ ଛୋଟ ଖଡ଼ଖଡ଼; ଅତି ଜୋର ନୁହେଁ।",
+            "en": "A short rattle, not an excessively loud effect."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଚଇତି ଡବା ଧରି ତଳେ ରଖିଦିଏ। ଦୁହେଁ ଛୁଆଠାରୁ ଦୂରରେ ବସନ୍ତି। ଛୁଆ ମୁଣ୍ଡ ଟିକେ ବାହାରକୁ କରେ।",
+            "en": "Chaiti stops the tin and sets it aside. Both children sit at a distance. The puppy peeks around the post."
+          },
+          "sound": {
+            "or": "ଡବା ଶାନ୍ତ। ଅଗଣାର ମୃଦୁ ଶବ୍ଦ।",
+            "en": "The tin is silent. Quiet courtyard sound."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଶବ୍ଦରେ ଚମକିଗଲା।",
+                "en": "That noise startled it."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ନୀଳୁ ଡବା ପରିବର୍ତ୍ତେ ଏକ ନରମ କପଡ଼ା ଗୋଲା ନିଜ ପାଖେ ରଖେ। ଦୁହେଁ ନିଜେ ନିଜେ ଧୀରେ ଖେଳନ୍ତି। ଛୁଆ ଦେଖେ।",
+            "en": "Nilu puts a soft cloth ball beside him. The children play quietly between themselves. The puppy watches."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଗୋଲାର ନରମ ଥପ୍।",
+            "en": "Soft thumps from the cloth ball."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଏଇଟାରେ ଖେଳିବା।",
+                "en": "Let’s use this."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଛୁଆ ନିଜେ ଆଗକୁ ଆସି ଗୋଲା ଶୁଙ୍ଘେ। ତା’ପରେ ଗୋଲା ପାଖରେ ଶୋଇ ମୁଣ୍ଡ ରଖେ। ପିଲାମାନେ ହସି ଆଉ ଗୋଟିଏ କପଡ଼ା ନିଅନ୍ତି।",
+            "en": "The puppy approaches and sniffs the ball. Then it lies beside it and rests its chin there. Smiling, the children reach for another scrap of cloth."
+          },
+          "sound": {
+            "or": "ନାକର ଶୁଁ ଓ ଆରାମର ନିଶ୍ୱାସ।",
+            "en": "A sniff and a relaxed breath."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏଇଟା ଏବେ ତା’ର ତକିଆ।",
+                "en": "That one’s a pillow now."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "puppy-long-way",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "puppy",
+        "name": {
+          "or": "କୁକୁରଛୁଆ",
+          "en": "The puppy"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-4"
+      },
+      "title": {
+        "or": "ଲମ୍ବା ବାଟ",
+        "en": "The Long Way Round"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ଚଇତି ଛୋଟ ରାସ୍ତା ଦେଖାଏ, କିନ୍ତୁ କୁକୁରଛୁଆ ଭିଜା ମାଟି ଏଡ଼ାଇ ଧୀରେ ଆସେ। ନୀଳୁ ନିଜ ଚପଲ ଦେଖି ହସେ।",
+        "en": "Chaiti points out a shortcut, but the puppy slowly avoids the wet ground. Nilu looks at his own sandals and laughs."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ମାଟି ଶୁଙ୍ଘିବା → ପାଦ ଫେରାଇବା → ଶୁଖିଲା ବାଟ ବାଛି ଯୋଗଦେବା।",
+        "en": "Sniffing the ground → drawing a paw back → taking the dry route to rejoin the others."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ବର୍ଷା ପରର ଛୋଟ ଭିଜା ସ୍ଥାନ; ଗଭୀର ପାଣି ବା ରାସ୍ତାର ବିପଦ ନାହିଁ। ନୀଳୁର ଗୋଟିଏ ଚପଲରେ କାଦୁଅ ଦାଗ ଆରମ୍ଭରୁ ରହିବ; ଛୁଆର ଧଳା ପାଦ ଶୁଖିଲା ରହିବ।",
+        "en": "A small wet patch after rain, without deep water or road hazards. Establish mud on one of Nilu’s sandals early; the puppy’s white paws remain dry."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-4.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ପିଲାମାନେ ବାରଣ୍ଡାକୁ ଯାଇଛନ୍ତି। ଛୁଆ ଅଗଣାର ଛୋଟ ଭିଜା ସ୍ଥାନ ପାଖେ ଅଟକେ। ନୀଳୁର ଚପଲରେ କାଦୁଅ ଲାଗିଛି।",
+            "en": "The children reach the veranda. The puppy stops by a small wet patch. One of Nilu’s sandals is muddy."
+          },
+          "sound": {
+            "or": "ବର୍ଷା ପରର ଟୋପା ଓ ପାଦ ଶବ୍ଦ।",
+            "en": "Drips after rain and footsteps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ଏଇ ବାଟେ ଆସିଲେ ଶୀଘ୍ର ହେବ।",
+                "en": "This way is quicker."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଛୁଆ ନାକ ତଳକୁ କରେ। ଆଗ ପାଦ ବଢ଼ାଇ ପୁଣି ଫେରାଇନିଏ। ମୁଣ୍ଡ ବୁଲାଇ ଶୁଖିଲା ଧାର ଦେଖେ।",
+            "en": "The puppy lowers its nose, reaches a front paw forward and draws it back. It looks towards the dry edge."
+          },
+          "sound": {
+            "or": "ଶୁଁ ଶୁଁ ଓ ହାଲୁକା ପବନ।",
+            "en": "Sniffing and a light breeze."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଛୁଆ ଶୁଖିଲା ଧାର ଦେଇ ଘୂରିଆସେ। ମଝିରେ ପଡ଼ିଥିବା ପତ୍ର ଶୁଙ୍ଘିବାକୁ ଅଟକେ। ପିଲାମାନେ ଅପେକ୍ଷା କରନ୍ତି।",
+            "en": "It walks around the dry edge, stopping to sniff a fallen leaf on the way. The children wait."
+          },
+          "sound": {
+            "or": "ଧୀର ପାଦ ଓ ପତ୍ର।",
+            "en": "Slow paws and a leaf."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ତା’ର ତର ନାହିଁ।",
+                "en": "It’s in no hurry."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଛୁଆ ଶୁଖିଲା ପାଦରେ ପାହାଚକୁ ଆସେ। ନୀଳୁ ତା’ ପାଦ ଦେଖେ, ତା’ପରେ ନିଜ କାଦୁଅ ଚପଲ। ଚଇତି ହସି ଚପଲ ଖୋଲିବା ଜାଗା ଦେଖାଏ।",
+            "en": "The puppy reaches the step with dry paws. Nilu looks at them, then at his muddy sandal. Chaiti smiles and points to the place for removing sandals."
+          },
+          "sound": {
+            "or": "ଛୋଟ ହସ; ପାହାଚରେ ନରମ ପାଦ।",
+            "en": "A small laugh and soft paws on the step."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ମୁଁ ହିଁ ତରତର ହେଲି।",
+                "en": "I was the one in a hurry."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "puppy-not-fetch",
+      "world": "nilu-chaiti",
+      "focus": {
+        "id": "puppy",
+        "name": {
+          "or": "କୁକୁରଛୁଆ",
+          "en": "The puppy"
+        },
+        "profile": "/characters/nilu-chaiti.html#character-4"
+      },
+      "title": {
+        "or": "ଫେରାଇ ଆଣିବୁ?",
+        "en": "Bring It Back?"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ନୀଳୁ ଭାବେ କୁକୁରଛୁଆ ଗୋଲା ଫେରାଇ ଆଣିବ। ଛୁଆ ଗୋଲା ପାଖରେ ନିଜେ ଖେଳେ; ଶେଷରେ ନୀଳୁ ତା’ ପାଖେ ଯାଇ ବସେ।",
+        "en": "Nilu expects the puppy to bring a ball back. The puppy plays with it on its own; eventually Nilu goes over to join it."
+      },
+      "setting": {
+        "or": "ବର୍ତ୍ତମାନର ଓଡ଼ିଶା। ଏକ ଛାଇଆ ଅଗଣା ଓ ବାରଣ୍ଡା; ଗାଁ ବା ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "Present-day Odisha. A shaded courtyard and veranda; no village or district has been fixed."
+      },
+      "performance": {
+        "or": "ନୂଆ ଜିନିଷରେ ଆଗ୍ରହ → ନିଜ ଖେଳ → ପାଖରେ ସାଙ୍ଗକୁ ସ୍ୱୀକାର କରିବା।",
+        "en": "Interest in a new object → its own game → accepting quiet company alongside."
+      },
+      "wardrobe": {
+        "or": "ନୀଳୁର ଛୋଟ ଲାଲ ସୂତା ସାର୍ଟ, ତା’ ନିଜ ବାମ ପଟେ ନୀଳ ପକେଟ୍ ଓ କ୍ରିମ୍ ରଙ୍ଗର ଛୋଟ ପ୍ୟାଣ୍ଟ। ଚଇତିର ନୀଳ ଢିଲା ଟ୍ୟୁନିକ୍‌ର ବେକରେ ସରୁ ସୁନେଲି ଧାର ଓ ମାଟିଆ ହଳଦିଆ ପ୍ୟାଣ୍ଟ। ବସିବା ଓ ଉଠିବା ସହ ଅଣ୍ଟା ଓ ଆଣ୍ଠୁର କୁଞ୍ଚ ବଦଳିବ।",
+        "en": "Nilu wears a short red cotton shirt with a blue pocket on his anatomical left and cream cropped trousers. Chaiti wears a loose blue tunic with a narrow gold neckline and muted ochre trousers. Folds at the waist and knees respond to sitting and rising."
+      },
+      "continuity": {
+        "or": "ମୁହଁରେ ସମ୍ପୂର୍ଣ୍ଣ ପଶିନଥିବା ନରମ ବଡ଼ କପଡ଼ା ଗୋଲା। ଛୁଆର ଗଳାରେ ଅଳଙ୍କାର ବା ପୋଷାକ ନାହିଁ। ପିଲାମାନେ ଗୋଲା ଛଡ଼ାଇ ନେବେନି।",
+        "en": "A soft cloth ball too large to fit wholly in the puppy’s mouth. No costume or decorative collar. The children do not grab it away."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/nilu-chaiti-natural-v3.png",
+      "preview": "/characters/assets/nilu-chaiti-character-4.webp",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ନୀଳୁ ନରମ ଗୋଲା ମାଟିରେ ଟିକେ ଗଡ଼ାଏ। ଛୁଆ ତା’ ପଛେ ଯାଇ ପାଦରେ ଅଟକାଏ। ନୀଳୁ ହାତ ପାତି ଅପେକ୍ଷା କରେ।",
+            "en": "Nilu rolls a soft ball a short distance. The puppy follows and stops it with a paw. Nilu waits with his hand open."
+          },
+          "sound": {
+            "or": "ନରମ ଗୋଲା ଗଡ଼ିବା ଓ ପାଦ।",
+            "en": "Soft rolling and paws."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ନୀଳୁ",
+                "en": "Nilu"
+              },
+              "text": {
+                "or": "ଏପଟକୁ ଆଣ।",
+                "en": "Bring it over here."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଛୁଆ ଗୋଲା ଶୁଙ୍ଘେ, ଆଗ ପାଦ ତଳେ ରଖି ନାକରେ ଠେଲେ। ଗୋଲା ଅଳ୍ପ ଗଡ଼େ। ଛୁଆ ପୁଣି ତା’ ପଛେ ଯାଏ।",
+            "en": "The puppy sniffs, pins the ball under a front paw and nudges it. The ball rolls a little; the puppy follows again."
+          },
+          "sound": {
+            "or": "ନାକର ଶୁଁ ଓ ଗୋଲାର ଥପ୍।",
+            "en": "Sniffing and soft ball thumps."
+          },
+          "lines": []
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ନୀଳୁର ପାତିଥିବା ହାତ ଧୀରେ ତଳକୁ ଯାଏ। ଚଇତି ଛୁଆର ଖେଳ ଦେଖି ହସେ।",
+            "en": "Nilu’s waiting hand slowly drops. Chaiti smiles at the puppy’s game."
+          },
+          "sound": {
+            "or": "ମୃଦୁ ହସ।",
+            "en": "A quiet laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଚଇତି",
+                "en": "Chaiti"
+              },
+              "text": {
+                "or": "ସେ ତ ନିଜେ ଖେଳୁଛି।",
+                "en": "It’s playing its own game."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ନୀଳୁ ଧୀରେ ଛୁଆ ପାଖରେ ଦୂରତା ରଖି ବସେ। ଛୁଆର ନାକରେ ଠେଲା ଖାଇ ଗୋଲା ତା’ ପାଖକୁ ଆସେ। ସେ ହାଲୁକା ଫେରାଇଦିଏ। ଛୁଆ ପୁଣି ପାଦରେ ଧରେ।",
+            "en": "Nilu sits nearby, leaving space. A nudge from the puppy sends the ball his way. He gently rolls it back; the puppy pins it again."
+          },
+          "sound": {
+            "or": "ଗୋଲାର ଦୁଇ ନରମ ଥପ୍। ଶେଷରେ କଥା ନାହିଁ।",
+            "en": "Two soft ball thumps. End without dialogue."
+          },
+          "lines": []
+        }
+      ]
+    }
+  ],
+  "updated": "2026-10-17"
 }
