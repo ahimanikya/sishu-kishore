@@ -43,7 +43,7 @@ if (ARCHIVE/'koeli/colour-study-v1.png').exists():
         if f.is_file():shutil.copy2(f,dest/f.name)
     body='<header>'+bi(k['role'],'p','class="eyebrow"')+bi(k['name'],'h1')+bi(k['subtitle'],'p','class="voice-deck"')+bi(k['intro'])+'</header>'
     body+=image('/characters/koeli/assets/colour-study-v1.png','କୋଇଲିର ତିନି ଭଙ୍ଗୀ: ଗାଏ, ଶୁଣେ, ଗପ କହିବାକୁ ଆଗେଇଆସେ।','Koeli sings, listens and leans forward to begin a tale.')
-    body+='<div class="voice-sections">'+''.join('<section>'+bi(x['title'],'h2')+bi(x['text'])+'</section>' for x in k['sections'])+'</div>'
+    body+='<div class="voice-sections">'+''.join('<section'+(' id="'+esc(x['id'],quote=True)+'"' if x.get('id') else '')+'>'+bi(x['title'],'h2')+bi(x['text'])+'</section>' for x in k['sections'])+'</div>'
     body+='<section class="voice-refrain">'+bi(pair('କୋଇଲିର ଛୋଟ ଡାକ','Koeli’s little refrain'),'h2')+bi(k['refrain'],'p')+'</section>'
     body+='<section>'+bi(pair('ପ୍ରଥମ ପରିଚୟ','A first introduction'),'h2')+'<div class="voice-three">'+''.join('<article>'+bi(x['title'],'h3')+bi(x['line'])+'</article>' for x in k['opening'])+'</div></section>'
     body+='<section id="development">'+bi(pair('ଖସଡ଼ାରୁ ରଙ୍ଗୀନ ରୂପ','From first study to colour'),'h2')+image('/characters/koeli/assets/pencil-study-v1.png','ପ୍ରଥମ ପେନ୍‌ସିଲ୍ ଅଧ୍ୟୟନ','First pencil study')+bi(pair('ପ୍ରଥମ ଖସଡ଼ାରେ ଦେହ, ଲାଞ୍ଜ ଓ ଡାଳ ଧରିବାର ଭଙ୍ଗୀ ଖୋଜାଗଲା। ରଙ୍ଗୀନ ରୂପରେ ପରର ଖୁଟିନାଟି କମାଇ ମୁଣ୍ଡ ଓ ଚାଲିଚଳଣର ଭାବକୁ ଗୁରୁତ୍ୱ ଦିଆଗଲା।','The first study explored the body, tail and grip. The colour version simplifies feather detail and gives attention to the head and posture.'))+'</section>'

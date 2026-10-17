@@ -101,9 +101,7 @@ body+='<section>'+link('/characters/regional-dress.html','ପ୍ରଥମେ ପ
 for entry in production['worlds']:
     wid=entry['id'];ready=next((w for w in available if w['id']==wid),None)
     body+='<section id="'+wid+'">'+bi(entry['name'],'h2')+bi(entry['characters'],'p','class="eyebrow"')
-    if ready:
-        body+=bi(pair('ପ୍ରଥମ ପର୍ବର ପାଠ୍ୟ, ଖସଡ଼ା ଓ ରଙ୍ଗୀନ ପଢ଼ିବା ପୃଷ୍ଠା ପ୍ରସ୍ତୁତ। ପରବର୍ତ୍ତୀ କାମ: ପ୍ରତି ଚରିତ୍ର ପାଇଁ ଆଉ ପାଠ୍ୟ ଓ ଚଳଚ୍ଚିତ୍ରର ପ୍ରଥମ ନମୁନା।','The first episode has a script, storyboard and colour reading page. Further character-centred scripts and the first film preview are next.'))
-    else:body+=bi(entry['status'])
+    body+=bi(entry['status'])
     if (OUT/(wid+'.html')).exists():body+=link('/characters/'+wid+'.html','ଚରିତ୍ର ପରିଚୟ','Character profiles')+' · '
     if entry.get('wardrobe'):body+=link('/characters/regional-dress.html#'+entry['wardrobe'],'ପୋଷାକର ଦିଗ','Wardrobe direction')+' · '
     reader=f'/characters/{wid}/pilot-story/finished-page-v1.html' if ready else entry.get('reader')
@@ -178,6 +176,12 @@ with zipfile.ZipFile(koeli_pack,'w',compression=zipfile.ZIP_DEFLATED) as z:
         if script['world']=='koeli':
             z.write(OUT/'downloads'/(script['id']+'-script-v1.txt'),'scripts/'+script['id']+'-v1.txt')
             z.writestr('scripts/'+script['id']+'-v1.json',json.dumps(script,ensure_ascii=False,indent=2))
+            if script.get('storyboard'):
+                board=script['storyboard'];src=ARCHIVE/board['archive'];prefix='storyboards/'+script['id']+'/'
+                z.write(src/board['file'],prefix+board['file'])
+                for name in board.get('draftFiles',[]):z.write(src/name,prefix+'earlier-drafts/'+name)
+                for f in sorted(src.glob('storyboard-prompt-v*.txt')):z.write(f,prefix+f.name)
+                for name in board.get('productionFiles',[]):z.write(src/name,prefix+'preparation/'+name)
     z.writestr('manifest-sha256.json',json.dumps({name:hashlib.sha256(z.read(name)).hexdigest() for name in z.namelist()},indent=2))
 
 world_nav=[('gudul-gudli','ଗୁଡ଼ୁଲ୍–ଗୁଡ଼ଲି','Gudul–Gudli'),('nilu-chaiti','ନୀଳୁ–ଚଇତି','Nilu–Chaiti'),('koraput','କୋରାପୁଟ','Koraput'),('batare-katha','ବାଟରେ କଥା','Batare Katha'),('chhota-karigara','ଛୋଟ କାରିଗର','Young Makers'),('boita-sadhaba','ବୋଇତର ସାଥୀ','The Boita Crew')]+[(w['id'],w['name']['or'],w['name']['en']) for w in available]

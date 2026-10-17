@@ -27,7 +27,8 @@
         "text": {
           "or": "କୌତୂହଳୀ, ସ୍ନେହଶୀଳ, ଟିକେ ଚଗଲା। କୋଇଲିର ସୁର ମନେରହେ, ହେଲେ ଗପର କ୍ରମ କେବେ ଗୋଳମାଳ ହୁଏ। ପିଲା ସୁଧାରିଦେଲେ ମନଦେଇ ଶୁଣେ। ଗପ କହିବାର ଇଚ୍ଛା ଯେତେ, ଅନ୍ୟର ଗପ ଶୁଣିବାର ଆନନ୍ଦ ବି ସେତେ।",
           "en": "Curious, affectionate and a little mischievous. Koeli remembers a tune but sometimes muddles the order of a tale. When a child corrects it, the bird listens. The pleasure of hearing someone else’s story matters as much as telling one."
-        }
+        },
+        "id": "character"
       },
       {
         "title": {
@@ -57,7 +58,8 @@
         "text": {
           "or": "ଚିତ୍ରର ଆଧାର ପୁରୁଷ ଏସୀୟ କୋଇଲି: କଳା ଦେହ, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା ଓ ଡାଳ ଧରିବାରେ ଭାବ ଦେଖାଯାଏ। ପୋଷାକ ବା ଅଳଙ୍କାର ଦରକାର ନାହିଁ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଆମ ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।",
           "en": "The visual reference is a male Asian koel: dark plumage, a long tail, pale bill and restrained reddish eyes. A head tilt, opening beak and grip on a branch carry expression. Clothes and ornaments are unnecessary. The species is not exclusive to Odisha; our connection comes through Odia speech and literary memory."
-        }
+        },
+        "id": "appearance"
       }
     ],
     "refrain": {

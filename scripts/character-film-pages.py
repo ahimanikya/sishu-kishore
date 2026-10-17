@@ -10,21 +10,25 @@ def scene_heading(i,start,end):
 
 for script in film_data['scripts']:
     sid=script['id'];board=script.get('storyboard');focus=script.get('focus')
+    appearance_only=script.get('appearanceOnly',False)
+    reference_label=pair('ରୂପ ଓ ଚଳନର ସୂତ୍ର','Appearance and movement references') if appearance_only else pair('ପୋଷାକର ଅଧ୍ୟୟନ','Clothing references')
+    visual_title=pair('ରୂପ ଓ ଚଳନ','Appearance and movement') if appearance_only else pair('ପୋଷାକ ଓ ଚଳନ','Clothing and movement')
+    full_script_label=pair('ପୂରା ପାଠ୍ୟ ଓ ଚଳନର ନିର୍ଦ୍ଦେଶ','Full script and movement notes') if appearance_only else pair('ପୂରା ପାଠ୍ୟ ଓ ପୋଷାକର ନିର୍ଦ୍ଦେଶ','Full script and wardrobe notes')
     preview=script.get('preview','/characters/koeli/assets/colour-study-v1.png')
     body='<header>'+bi(pair('ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟ · ପ୍ରଥମ ଖସଡ଼ା','Film script · First draft'),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(script['premise'])+'</header>'
     body+=bi(pair('ଲକ୍ଷ୍ୟ ସମୟ: '+str(script['duration'])+' ସେକେଣ୍ଡ। କଣ୍ଠ ରେକର୍ଡ ଓ ଚଳଚ୍ଚିତ୍ର ବାକି।','Target duration: '+str(script['duration'])+' seconds. Voice recording and film production remain ahead.'),'p','class="voice-boundary"')
     if focus:
-        body+='<p>'+link(focus['profile'],focus['name']['or']+' · ଚରିତ୍ର ପରିଚୟ',focus['name']['en']+' · Character profile')+' · '+link(script['wardrobeLink'],'ପୋଷାକର ଅଧ୍ୟୟନ','Clothing references')+'</p>'
+        body+='<p>'+link(focus['profile'],focus['name']['or']+' · ଚରିତ୍ର ପରିଚୟ',focus['name']['en']+' · Character profile')+' · '+link(script['wardrobeLink'],reference_label['or'],reference_label['en'])+'</p>'
     if board:body+=link(board['page'],'ସମୟଧରା ଦୃଶ୍ୟନମୁନା ଦେଖନ୍ତୁ →','Play the timed storyboard →','button')
     txt=['ପରିକଳ୍ପନା ଓ ସୃଜନ ନିର୍ଦ୍ଦେଶନା: Ahimanikya Satapathy','Concept and creative direction: Ahimanikya Satapathy',script['title']['or']+' / '+script['title']['en'],'ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା। ସମୟ ଏକ ଲକ୍ଷ୍ୟ; କଣ୍ଠ ରେକର୍ଡ ହୋଇନାହିଁ।','First film-script draft. Timing is a target, not a recorded performance.','ସ୍ୱାଧୀନ ଦକ୍ଷ ଓଡ଼ିଆ ଯାଞ୍ଚ ବାକି।','Independent fluent Odia review pending.','']
-    metadata=[('setting',pair('ସ୍ଥାନ ଓ ସମୟ','Place and time')),('performance',pair('ଭାବର ପରିବର୍ତ୍ତନ','The performance turn')),('wardrobe',pair('ପୋଷାକ ଓ ଚଳନ','Clothing and movement')),('continuity',pair('ପ୍ରତି ଦୃଶ୍ୟରେ ମେଳ','Continuity between shots'))]
+    metadata=[('setting',pair('ସ୍ଥାନ ଓ ସମୟ','Place and time')),('performance',pair('ଭାବର ପରିବର୍ତ୍ତନ','The performance turn')),('wardrobe',visual_title),('continuity',pair('ପ୍ରତି ଦୃଶ୍ୟରେ ମେଳ','Continuity between shots'))]
     if script.get('setting'):
         body+='<section class="script-context"><div class="voice-sections">'
         for key,label in metadata:
             if script.get(key):
                 body+='<article>'+bi(label,'h2')+bi(script[key])+'</article>'
                 txt += [label['or']+' / '+label['en'],script[key]['or'],script[key]['en'],'']
-        body+='</div>'+link(script['referenceImage'],'ଚରିତ୍ର ଓ ପୋଷାକର ପୂର୍ବ ଦୃଶ୍ୟ ଦେଖନ୍ତୁ','View the earlier character and clothing scene')
+        body+='</div>'+ (link(script['referenceImage'],'ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ','Earlier character study') if appearance_only else link(script['referenceImage'],'ଚରିତ୍ର ଓ ପୋଷାକର ପୂର୍ବ ଦୃଶ୍ୟ ଦେଖନ୍ତୁ','View the earlier character and clothing scene'))
         if script.get('wardrobeImage'):body+=' · '+link(script['wardrobeImage'],'କାମର ପୋଷାକର ନୂଆ ଅଧ୍ୟୟନ','New working-wardrobe study')
         body+='</section>'
     elapsed=0
@@ -48,7 +52,7 @@ for script in film_data['scripts']:
         assert header[:8]==b'\x89PNG\r\n\x1a\n',board['sheet']
         width,height=struct.unpack('>II',header[16:24])
         title=pair(script['title']['or']+' · ସମୟଧରା ଖସଡ଼ା',script['title']['en']+' · Timed storyboard')
-        body='<header>'+bi(board.get('medium',pair('ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଗତିର ପରୀକ୍ଷା','Pencil frames · A pacing study')),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(board['note'])+link('/characters/scripts/'+sid+'.html','ପୂରା ପାଠ୍ୟ ଓ ପୋଷାକର ନିର୍ଦ୍ଦେଶ','Full script and wardrobe notes')+'</header>'
+        body='<header>'+bi(board.get('medium',pair('ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଗତିର ପରୀକ୍ଷା','Pencil frames · A pacing study')),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(board['note'])+link('/characters/scripts/'+sid+'.html',full_script_label['or'],full_script_label['en'])+'</header>'
         first=script['scenes'][0]
         body+='<section class="storyboard-player" id="preview"><div class="storyboard-stage" role="img" aria-label="'+esc(first['action']['or'])+'" data-aria-label-or="'+esc(first['action']['or'])+'" data-aria-label-en="'+esc(first['action']['en'])+'" style="background-image:url('+board['sheet']+');background-position:0% 0%;aspect-ratio:'+str(width)+'/'+str(height)+'"></div>'
         body+='<div class="storyboard-controls" hidden>'+bi(pair('ଚଳାନ୍ତୁ','Play'),'button','type="button" data-player-play')+bi(pair('ପୂର୍ବ ଦୃଶ୍ୟ','Previous scene'),'button','type="button" data-player-previous')+bi(pair('ପର ଦୃଶ୍ୟ','Next scene'),'button','type="button" data-player-next')+'<label for="storyboard-time">'+bi(pair('ସମୟ','Time'),'span')+'</label><input id="storyboard-time" type="range" min="0" max="'+str(script['duration'])+'" step="0.1" value="0"><output for="storyboard-time" data-player-clock>0:00 / 0:'+str(script['duration'])+'</output></div>'
@@ -92,6 +96,7 @@ for wid,written in groups.items():
                 for name in board.get('draftFiles',[]):
                     z.write(src/name,'storyboards/'+script['id']+'/earlier-drafts/'+name)
                 for f in sorted(src.glob('storyboard-prompt-v*.txt')):z.write(f,'storyboards/'+script['id']+'/'+f.name)
+                for name in board.get('productionFiles',[]):z.write(src/name,'storyboards/'+script['id']+'/preparation/'+name)
         z.writestr('READ-ME.txt','ପରିକଳ୍ପନା ଓ ସୃଜନ ନିର୍ଦ୍ଦେଶନା: Ahimanikya Satapathy\nConcept and creative direction: Ahimanikya Satapathy\n\nଦ୍ୱିଭାଷୀ ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା: '+str(len(written))+'। ପ୍ରତି ଚରିତ୍ର ପାଇଁ ତିନିଟି।\n'+str(len(written))+' first bilingual film-script drafts. Three per character.\n\nଦୃଶ୍ୟଖସଡ଼ାରେ ଚୟନିତ ସ୍ଥିର ଚିତ୍ର ଅଛି; ସମ୍ପୂର୍ଣ୍ଣ ଚଳଚ୍ଚିତ୍ର ବାକି।\nStoryboards are selected still frames, not completed films.\nସ୍ୱାଧୀନ ଦକ୍ଷ ଓଡ଼ିଆ ଓ ସାଂସ୍କୃତିକ ଯାଞ୍ଚ ବାକି। ସମୟ ପରିବର୍ତ୍ତନଯୋଗ୍ୟ।\nIndependent fluent Odia and cultural review pending. Timing is provisional.\nପୋଷାକର ଅଞ୍ଚଳୀୟ ସୂତ୍ର / Regional clothing sources: https://sishu.kabitawithoutborders.org/characters/regional-dress.html\n')
         z.writestr('manifest-sha256.json',json.dumps({name:hashlib.sha256(z.read(name)).hexdigest() for name in z.namelist()},indent=2))
 

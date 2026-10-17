@@ -139,7 +139,35 @@
             }
           ]
         }
-      ]
+      ],
+      "focus": {
+        "id": "koeli",
+        "name": {
+          "or": "କୋଇଲି",
+          "en": "Koeli"
+        },
+        "profile": "/characters/koeli.html#character"
+      },
+      "setting": {
+        "or": "ଗଛ ଥିବା ଏକ ସାଧାରଣ ଓଡ଼ିଆ ଅଗଣାର କଳ୍ପିତ ଗପ ସମୟ। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ବା ଐତିହାସିକ ଘଟଣା ନୁହେଁ। ପିଲାଙ୍କ କଣ୍ଠ ଡାଳ ତଳୁ ଆସେ; ସେମାନେ ଚିତ୍ର ବାହାରେ। କୋଇଲି ଏହି ସଂଗ୍ରହର ସାହିତ୍ୟିକ କଥକ। ନୀଳୁ–ଚଇତିର ସାଧାରଣ ପକ୍ଷୀ ସାଥୀଠାରୁ ତା’ର ଭୂମିକା ଅଲଗା।",
+        "en": "An imagined story time in an ordinary Odia courtyard with a tree, without a named district or historical event. Children speak from below the branch and remain outside the frame. Koeli is the collection’s literary narrator, with a different role from Nilu–Chaiti’s ordinary bird companion."
+      },
+      "performance": {
+        "or": "ଉତ୍ସାହରେ ଶେଷ କହିଦେବା → ପ୍ରଶ୍ନ ଶୁଣି ଭୁଲ୍ ଧରିବା → ନିଜ ସହ ହସିବା → ପିଲାକୁ ପ୍ରଶ୍ନ କରିବାର ସମୟ ଦେବା।",
+        "en": "Giving away the ending in excitement → noticing the mistake → laughing at itself → making time for the child’s questions."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ପୁରୁଷ ଏସୀୟ କୋଇଲି ଅଧ୍ୟୟନ ସହ ମେଳ: ନୀଳଚେ କଳା ପର, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଧୂସର–ସବୁଜ ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ପୋଷାକ, ଅଳଙ୍କାର ବା ମଣିଷର ହାତ ନାହିଁ। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା, ଦେହ ଆଗକୁ ଝୁଙ୍କାଇବା ଓ ଦୁଇ ପାଦରେ ଡାଳ ଧରିବାରେ ଅଭିନୟ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଏହି ଚରିତ୍ରର ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।",
+        "en": "Keep the earlier male Asian koel study: blue-black feathers, long tail, pale grey-green bill and restrained reddish eyes. No clothes, ornaments or human hands. Act through head tilts, an opening bill, a forward lean and two feet gripping the branch. The species is not exclusive to Odisha; this character’s connection comes through Odia speech and literary memory."
+      },
+      "continuity": {
+        "or": "ଗୋଟିଏ ପକ୍ଷୀ, ଗୋଟିଏ ଡାଳ, ଏକ ସକାଳର ଆଲୋକ। ବ୍ୟାଗ୍‌ଟା କେବଳ କୁହାଯାଉଥିବା ଗପରେ; ଡାଳରେ ଟଙ୍ଗା ଦେଖାଯିବନି। ପିଲାଙ୍କ ଶବ୍ଦ ଚିତ୍ର ବାହାରୁ। ଗପର ସମ୍ପୂର୍ଣ୍ଣ ବ୍ୟାଗ୍ ଘଟଣା ଏହି ପର୍ବରେ ଖୋଲାଯାଏନି।",
+        "en": "One bird, one branch and consistent morning light. The bag exists only in the narrated story; do not hang one on the branch. Children remain offscreen. This episode does not resolve the entire bag story."
+      },
+      "appearanceOnly": true,
+      "wardrobeLink": "/characters/koeli.html#appearance",
+      "referenceImage": "/characters/koeli/assets/colour-study-v1.png",
+      "preview": "/characters/koeli/assets/colour-study-v1.png"
     },
     {
       "id": "koeli-little-sound",
@@ -246,7 +274,62 @@
             }
           ]
         }
-      ]
+      ],
+      "focus": {
+        "id": "koeli",
+        "name": {
+          "or": "କୋଇଲି",
+          "en": "Koeli"
+        },
+        "profile": "/characters/koeli.html#character"
+      },
+      "setting": {
+        "or": "ଗଛ ଥିବା ଏକ ସାଧାରଣ ଓଡ଼ିଆ ଅଗଣାର କଳ୍ପିତ ଗପ ସମୟ। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ବା ଐତିହାସିକ ଘଟଣା ନୁହେଁ। ପିଲାଙ୍କ କଣ୍ଠ ଡାଳ ତଳୁ ଆସେ; ସେମାନେ ଚିତ୍ର ବାହାରେ। କୋଇଲି ଏହି ସଂଗ୍ରହର ସାହିତ୍ୟିକ କଥକ। ନୀଳୁ–ଚଇତିର ସାଧାରଣ ପକ୍ଷୀ ସାଥୀଠାରୁ ତା’ର ଭୂମିକା ଅଲଗା।",
+        "en": "An imagined story time in an ordinary Odia courtyard with a tree, without a named district or historical event. Children speak from below the branch and remain outside the frame. Koeli is the collection’s literary narrator, with a different role from Nilu–Chaiti’s ordinary bird companion."
+      },
+      "performance": {
+        "or": "ନିଜ ଗୀତରେ ମଗ୍ନ → ପିଲାର କଥାରେ ଥାମିବା → ଛୋଟ ଶବ୍ଦର ଉତ୍ସ ଦେଖିବା → ଶେଷରେ ନିଜେ ଶୁଣିବାକୁ ବାଛିବା।",
+        "en": "Absorbed in its song → stopping at the child’s request → finding the small sound → choosing to listen at the end."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ପୁରୁଷ ଏସୀୟ କୋଇଲି ଅଧ୍ୟୟନ ସହ ମେଳ: ନୀଳଚେ କଳା ପର, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଧୂସର–ସବୁଜ ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ପୋଷାକ, ଅଳଙ୍କାର ବା ମଣିଷର ହାତ ନାହିଁ। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା, ଦେହ ଆଗକୁ ଝୁଙ୍କାଇବା ଓ ଦୁଇ ପାଦରେ ଡାଳ ଧରିବାରେ ଅଭିନୟ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଏହି ଚରିତ୍ରର ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।",
+        "en": "Keep the earlier male Asian koel study: blue-black feathers, long tail, pale grey-green bill and restrained reddish eyes. No clothes, ornaments or human hands. Act through head tilts, an opening bill, a forward lean and two feet gripping the branch. The species is not exclusive to Odisha; this character’s connection comes through Odia speech and literary memory."
+      },
+      "continuity": {
+        "or": "ବର୍ଷା ଥାମିଯାଇଛି; ନୂଆ ବର୍ଷା ପଡ଼ୁନି। ପାଖ ଉପର ଡାଳରୁ ରହିଯାଇଥିବା ପାଣି ତଳ ପତ୍ରରେ ପଡ଼େ। ସେଇ ଡାଳ ଓ ସେଇ ପତ୍ର ସବୁ ଦୃଶ୍ୟରେ ଏକ ଜାଗାରେ। କୋଇଲି ପତ୍ରକୁ ଛୁଏଁନି; ପାଦ ଡାଳ ଧରିଥାଏ। ଠୋପା ଓ ପତ୍ରର ଛୋଟ ଚଳନ ଧ୍ୱନି ସହ ମେଳିବ। ପିଲାର କଣ୍ଠ ଚିତ୍ର ବାହାରୁ।",
+        "en": "The rain has stopped; no fresh rain falls. Residual water drops from a nearby upper twig onto a lower leaf. The same twig and leaf stay in the same positions across shots. Koeli does not touch the leaf; both feet grip its perch. Drop impact and the leaf’s small movement must match the sound. The child speaks offscreen."
+      },
+      "appearanceOnly": true,
+      "wardrobeLink": "/characters/koeli.html#appearance",
+      "referenceImage": "/characters/koeli/assets/colour-study-v1.png",
+      "preview": "/characters/koeli/assets/colour-study-v1.png",
+      "storyboard": {
+        "sheet": "/characters/films/koeli-little-sound/colour-storyboard-v2.png",
+        "page": "/characters/films/koeli-little-sound/index.html",
+        "archive": "koeli-films",
+        "file": "colour-storyboard-v2.png",
+        "draftFiles": [
+          "colour-storyboard-v1.png"
+        ],
+        "productionFiles": [
+          "film-preparation-v1.json",
+          "recording-guide-v1.txt",
+          "subtitles-or-timing-draft.vtt",
+          "subtitles-en-timing-draft.vtt"
+        ],
+        "medium": {
+          "or": "ରଙ୍ଗୀନ ଦୃଶ୍ୟଖସଡ଼ା · ଗୀତରୁ ଶୁଣିବାକୁ",
+          "en": "Colour storyboard · From singing to listening"
+        },
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ଦୃଶ୍ୟରେ ୪୮ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। କୋଇଲି ନିଜ ଗୀତ ଥାମି ଏକ ପାଣି ଠୋପାର ଶବ୍ଦ ଶୁଣେ। ଏହି ନମୁନା ନିରବ; କଣ୍ଠ, ଠୋପାର ଧ୍ୱନି ଓ ଚଳନ ପରବର୍ତ୍ତୀ ଧାପ।",
+          "en": "A 48-second pacing study in four still frames. Koeli stops singing to hear a water drop. This preview is silent; voices, the drop’s sound and movement are the next stage."
+        },
+        "development": {
+          "or": "ତିନି ଭଙ୍ଗୀର ଚରିତ୍ର ଅଧ୍ୟୟନରୁ ଏକ ଡାଳରେ ଏକ ଛୋଟ ଘଟଣାକୁ ଆସିଛୁ। ନୀଳଚେ କଳା ପର, ଲମ୍ବା ଲାଞ୍ଜ ଓ ହାଲୁକା ଥଣ୍ଟ ରହିଛି। ମୁଣ୍ଡର ଦିଗ ଓ ଦେହ ଝୁଙ୍କିବାରେ ଧ୍ୟାନ ବଦଳେ। ପିଲା ଚିତ୍ର ବାହାରେ ରହେ। ଏକ ଉପର ଡାଳ ଓ ଏକ ତଳ ପତ୍ର ପାଣି ଠୋପାର ପଥକୁ ସ୍ପଷ୍ଟ କରେ। ପ୍ରଥମ ଚିତ୍ରରେ ପକ୍ଷୀ ବସିଥିବା ଡାଳ ଠୋପାର ବାଟ ଅଟକାଉଥିଲା। ଦ୍ୱିତୀୟ ଚିତ୍ରରେ ଡାଳର ଶେଷ ଛୋଟ କରି ବାଟ ଖୋଲାଗଲା। ଦୁଇ ଚିତ୍ର, ନିର୍ଦ୍ଦେଶ, କଣ୍ଠ ପ୍ରସ୍ତୁତି ଓ ଦୁଇ ଭାଷାର ଉପଶୀର୍ଷକ ସମୟର ଖସଡ଼ା ZIPରେ ଅଛି। କଣ୍ଠ ରେକର୍ଡ ପରେ ସମୟ ସଜଡ଼ାଯିବ। ଚଳନ ତିଆରିବେଳେ ଠୋପା ପଡ଼ିବା, ପତ୍ର ହଲିବା ଓ ଧ୍ୱନି ଏକାଠି ମେଳିବ।",
+          "en": "The three-pose character study becomes a small event on one perch. Blue-black feathers, long tail and pale bill remain. Head direction and body lean show the shift in attention. The child stays offscreen. An upper twig and lower leaf make the drop’s path clear. The first drawing’s perch blocked the drop. In the second, the branch end is shortened to clear its path. Both drawings, briefs, recording notes and draft subtitle timings in both languages are in the ZIP. Timings need adjustment after recording. During animation, the falling drop, leaf movement and sound must be timed together."
+        }
+      }
     },
     {
       "id": "koeli-your-turn",
@@ -383,7 +466,35 @@
             }
           ]
         }
-      ]
+      ],
+      "focus": {
+        "id": "koeli",
+        "name": {
+          "or": "କୋଇଲି",
+          "en": "Koeli"
+        },
+        "profile": "/characters/koeli.html#character"
+      },
+      "setting": {
+        "or": "ଗଛ ଥିବା ଏକ ସାଧାରଣ ଓଡ଼ିଆ ଅଗଣାର କଳ୍ପିତ ଗପ ସମୟ। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ବା ଐତିହାସିକ ଘଟଣା ନୁହେଁ। ପିଲାଙ୍କ କଣ୍ଠ ଡାଳ ତଳୁ ଆସେ; ସେମାନେ ଚିତ୍ର ବାହାରେ। କୋଇଲି ଏହି ସଂଗ୍ରହର ସାହିତ୍ୟିକ କଥକ। ନୀଳୁ–ଚଇତିର ସାଧାରଣ ପକ୍ଷୀ ସାଥୀଠାରୁ ତା’ର ଭୂମିକା ଅଲଗା।",
+        "en": "An imagined story time in an ordinary Odia courtyard with a tree, without a named district or historical event. Children speak from below the branch and remain outside the frame. Koeli is the collection’s literary narrator, with a different role from Nilu–Chaiti’s ordinary bird companion."
+      },
+      "performance": {
+        "or": "ଗପ ଆଗରୁ ଅନୁମାନ → ପିଲାକୁ ଅଟକାଇଦେବା ବୁଝିବା → ଥଣ୍ଟ ବନ୍ଦ କରି ଅପେକ୍ଷା → ଅନ୍ୟର ଗପରେ ଆନନ୍ଦ।",
+        "en": "Guessing before the story → realising it has interrupted → closing its bill and waiting → enjoying someone else’s story."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ପୁରୁଷ ଏସୀୟ କୋଇଲି ଅଧ୍ୟୟନ ସହ ମେଳ: ନୀଳଚେ କଳା ପର, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଧୂସର–ସବୁଜ ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ପୋଷାକ, ଅଳଙ୍କାର ବା ମଣିଷର ହାତ ନାହିଁ। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା, ଦେହ ଆଗକୁ ଝୁଙ୍କାଇବା ଓ ଦୁଇ ପାଦରେ ଡାଳ ଧରିବାରେ ଅଭିନୟ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଏହି ଚରିତ୍ରର ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।",
+        "en": "Keep the earlier male Asian koel study: blue-black feathers, long tail, pale grey-green bill and restrained reddish eyes. No clothes, ornaments or human hands. Act through head tilts, an opening bill, a forward lean and two feet gripping the branch. The species is not exclusive to Odisha; this character’s connection comes through Odia speech and literary memory."
+      },
+      "continuity": {
+        "or": "ବାଘ ଓ ଚୋର କୋଇଲିର ଭୁଲ୍ ଅନୁମାନ; ସେମାନେ ଚିତ୍ରରେ ଆସନ୍ତିନି। ବିଲେଇ ବି କେବଳ ପିଲାର କଥାରେ। ଏକ ପକ୍ଷୀ ଓ ଏକ ଡାଳ; ପଛକୁ ସରିବାବେଳେ ପାଦର ଧରା ଓ ଭାର ମେଳିବ। ଶେଷ ଦୃଶ୍ୟରେ କୋଇଲି ପୁଣି କଥା କହିବନି।",
+        "en": "Tiger and thief are Koeli’s mistaken guesses and are not pictured. The cat also remains in the child’s words. One bird and one branch; keep grip and balance coherent as the bird settles back. Koeli does not interrupt again in the final scene."
+      },
+      "appearanceOnly": true,
+      "wardrobeLink": "/characters/koeli.html#appearance",
+      "referenceImage": "/characters/koeli/assets/colour-study-v1.png",
+      "preview": "/characters/koeli/assets/colour-study-v1.png"
     },
     {
       "id": "nilu-hold-this-end",
