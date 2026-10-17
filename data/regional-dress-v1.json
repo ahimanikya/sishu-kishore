@@ -54,8 +54,8 @@
         "en": "Cuttack–Nuapatna and the coastal region"
       },
       "observed": {
-        "or": "ନୂଆପାଟଣାର ଖଣ୍ଡୁଆ ଦଲିଲର କାମବେଳର ଫଟୋରେ ସାଧା ଓ ଛାପା ସାର୍ଟ ଦେଖାଯାଏ। ଏହି ପୁରୁଣା ଦଲିଲରେ ମନ୍ଦିର ପାଇଁ ବିଶେଷ ବୁଣା ଓ ଅନ୍ୟ ଉତ୍ପାଦ ଅଲଗା ଭାବେ ବର୍ଣ୍ଣିତ। ପିନ୍ଧା ପୋଷାକ ଓ ତିଆରି ହେଉଥିବା ପୋଷାକକୁ ଅଲଗା ଦେଖିବା।",
-        "en": "Workplace photographs in the Nuapatna Khandua report show plain and patterned shirts. The archival report also distinguishes special temple textiles from other products. We observe what people wear separately from what they produce."
+        "or": "ନୂଆପାଟଣାର ଖଣ୍ଡୁଆ ଦଲିଲର କାମବେଳର ଫଟୋରେ ସାଧା ଓ ଛାପା ସାର୍ଟ ଦେଖାଯାଏ। ଏହି ପୁରୁଣା ଦଲିଲରେ ମନ୍ଦିର ପାଇଁ ବିଶେଷ ବୁଣା ଓ ଅନ୍ୟ ଉତ୍ପାଦ ଅଲଗା ଭାବେ ବର୍ଣ୍ଣିତ। ପିନ୍ଧା ପୋଷାକ ଓ ତିଆରି ହେଉଥିବା ପୋଷାକକୁ ଅଲଗା ଦେଖିବା। ଭୁବନେଶ୍ୱରର ପଥର କାରିଗରଙ୍କ D’Source ଫଟୋରେ ଚେକ୍ ସାର୍ଟ, ଢିଲା ପ୍ୟାଣ୍ଟ ଓ ଚପଲ ପିନ୍ଧି ତଳେ ବସି କାମ କରିବା ଦେଖାଯାଏ। ଏହା ଗୋଟିଏ କାମଘରର ଉଦାହରଣ।",
+        "en": "Workplace photographs in the Nuapatna Khandua report show plain and patterned shirts. The archival report also distinguishes special temple textiles from other products. We observe what people wear separately from what they produce. A D’Source photograph of a Bhubaneswar stone-carving workshop shows a worker seated low in a checked shirt, loose trousers and sandals. It documents one workshop, not an artisan uniform."
       },
       "direction": {
         "or": "ନୀଳୁ–ଚଇତି ଓ ସମକାଳୀନ ପିଲାଙ୍କ ପୋଷାକରେ ସାଧା ସାର୍ଟ, ଫ୍ରକ୍, ସ୍କର୍ଟ ବା ହାଫ୍ ପ୍ୟାଣ୍ଟ ରହିପାରେ। ବଡ଼ମାନଙ୍କ ଶାଢ଼ୀ ଓ ଧୋତିର କୁଞ୍ଚ, କାନି ଓ କାମବେଳର ଖୋସାକୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଦୃଶ୍ୟ ସହ ମେଳାଇବା।",
@@ -63,7 +63,8 @@
       },
       "sourceIds": [
         "khandua",
-        "kachha-drape"
+        "kachha-drape",
+        "bhubaneswar-workwear"
       ]
     },
     {
@@ -272,6 +273,18 @@
       "note": {
         "or": "ପୃଷ୍ଠା ୧୭–୧୯ର କାମବେଳର ଫଟୋ ଦେଖାଯାଇଛି। ସାଙ୍ଗରେ ଥିବା ପରିଦର୍ଶକଙ୍କ ପୋଷାକକୁ ଗାଁର ସାଧାରଣ ପୋଷାକ ବୋଲି ଧରାଯାଇନାହିଁ।",
         "en": "Working photographs on pages 17–19 were inspected. Visitors shown alongside artisans are not treated as evidence of a village dress code."
+      }
+    },
+    {
+      "id": "bhubaneswar-workwear",
+      "title": {
+        "or": "ଭୁବନେଶ୍ୱରର ପଥର କାରିଗର · D’Source / NID",
+        "en": "Bhubaneswar stone-carving workshop · D’Source / NID"
+      },
+      "url": "https://www.dsource.in/sites/default/files/resource/stone-carving-bhubaneswar-orissa/making-process/minigallery/14358/04.jpg",
+      "note": {
+        "or": "ଦଲିଲ: ପ୍ରଫେସର ବିଭୁଦତ୍ତ ବରାଳ, ଦିବ୍ୟଦର୍ଶନ ସି. ଏସ୍. ଓ ଆକାଶ ଶର୍ମା, NID ବେଙ୍ଗାଲୁରୁ। ଫଟୋର ସ୍ଥାନ ଭୁବନେଶ୍ୱର; ଆମ କାଳ୍ପନିକ କାମଘର କୋଣାର୍କ ପାଖରେ। ଫଟୋର ଲିଙ୍କ୍ ଅଛି, ପୁନଃପ୍ରକାଶ ନୁହେଁ।",
+        "en": "Documentation by Prof. Bibhudutta Baral, Divyadarshan C. S. and Aakash Sharma, NID Bengaluru. The photographed location is Bhubaneswar; our fictional workshop is near Konark. Photograph linked, not republished."
       }
     }
   ],

@@ -4428,6 +4428,1250 @@
           ]
         }
       ]
+    },
+    {
+      "id": "tara-show-the-model",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "tara",
+        "name": {
+          "or": "ତାରା",
+          "en": "Tara"
+        },
+        "profile": "/characters/chhota-karigara.html#character-1"
+      },
+      "title": {
+        "or": "ନମୁନାଟା ଦେଖ",
+        "en": "Look at the Model"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ତାରା ସୁନ୍ଦର ଚିତ୍ର ଦେଖାଏ, କିନ୍ତୁ ଠିଆ ହେଉନଥିବା କାଗଜର ନମୁନା ଲୁଚାଏ। କାନୁର ହାତରେ ଦେଲା ପରେ କେଉଁଠି ବଦଳାଇବାକୁ ହେବ, ସେ ଦେଖିପାରେ।",
+        "en": "Tara shows her neat drawing but hides the paper model that will not stand. Letting Kanu hold it helps her see where it needs changing."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ସୁନ୍ଦର ଚିତ୍ରରେ ଗର୍ବ → ନମୁନା ଦେଖାଇବାକୁ ଲାଜ → ହାତକୁ ଦେବା → ପରବର୍ତ୍ତୀ ଭାଙ୍ଗ ଚିହ୍ନିବା।",
+        "en": "Proud of the drawing → embarrassed by the model → handing it over → finding the next fold to change."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ଏକ ଚିତ୍ର ଓ ଏକ ଖାଲି କାଗଜ ପେନ୍‌ସିଲ୍ ଷ୍ଟାଣ୍ଡ। ତଳ ଭାଙ୍ଗ ଅସମାନ। କାନୁ ହାତରେ ଧରିଲେ ଠିଆ ରହେ; ନିଜେ ସଜାଡ଼ିଯାଏନି। ଶେଷରେ ତାରା ଚିହ୍ନ ଦିଏ, ମରାମତି ସାରିଗଲା ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "One drawing and one empty folded-paper pencil holder with an uneven base fold. It stands while Kanu supports it; it does not repair itself. Tara marks the next change at the end, without claiming the repair is finished."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/tara-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ଟେବୁଲ୍‌ରେ ନିଜ ପେନ୍‌ସିଲ୍ ଷ୍ଟାଣ୍ଡର ଚିତ୍ର ଦେଖାଏ। ପାଖର କାଗଜ ନମୁନାକୁ ଚିତ୍ର ପଛେ ଘୁଞ୍ଚାଏ।",
+            "en": "Tara shows her drawing of a pencil holder, sliding the paper model behind it."
+          },
+          "sound": {
+            "or": "କାଗଜ ଘଷା।",
+            "en": "Paper sliding."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏମିତି ହେବ।",
+                "en": "It will look like this."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କାନୁ ଚିତ୍ର ପଛରୁ ଦେଖାଯାଉଥିବା ନମୁନାକୁ ଚାହେଁ। ତାରା ତାକୁ ଧରି ରଖିଛି।",
+            "en": "Kanu looks at the model peeping from behind the drawing. Tara keeps a hand on it."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ହାତରେ ଧରି ଦେଖିବି?",
+                "en": "May I hold it?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏବେ ଠିଆ ହେଉନି।",
+                "en": "It won’t stand yet."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ତାରା ଧୀରେ ନମୁନା ଦିଏ। କାନୁ ତଳେ ଆଙ୍ଗୁଠି ରଖି ସିଧା କରେ। ତାରା ନଇଁ ତଳ ଭାଙ୍ଗ ଦେଖେ।",
+            "en": "Tara slowly hands it over. Kanu supports the base with a finger. Tara bends to inspect the bottom fold."
+          },
+          "sound": {
+            "or": "କାଗଜର ହାଲୁକା ଖସ୍‌ଖସ୍।",
+            "en": "Light paper rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏଇ ଭାଙ୍ଗଟା ଉପରକୁ ଉଠିଛି।",
+                "en": "This fold is sticking up."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "କାନୁ ଧରିଥାଏ। ତାରା ଭାଙ୍ଗ ପାଖରେ ଛୋଟ ପେନ୍‌ସିଲ୍ ଚିହ୍ନ ଦିଏ। ଏଥର ଚିତ୍ର ଓ ନମୁନା ପାଖାପାଖି ରଖେ।",
+            "en": "Kanu keeps holding it while Tara adds a small pencil mark beside the fold. She puts the drawing and model side by side."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍‌ର ଛୋଟ ଶବ୍ଦ।",
+            "en": "A small pencil mark."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଚିତ୍ରରେ ଏଇଟା ଦେଖାଯାଉନଥିଲା।",
+                "en": "The drawing didn’t show that bit."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tara-last-leaf",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "tara",
+        "name": {
+          "or": "ତାରା",
+          "en": "Tara"
+        },
+        "profile": "/characters/chhota-karigara.html#character-1"
+      },
+      "title": {
+        "or": "ଶେଷ ପତ୍ରଟା",
+        "en": "The Last Leaf"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "କାଗଜ ଧାରରେ ତାରା ଚାରିଟି ପତ୍ର ଆଙ୍କିବାକୁ ଚାହେଁ। ଶେଷଟି ପାଇଁ ଜାଗା ନଥିବାରୁ ରଙ୍ଗ ଦେବା ଆଗରୁ ସେ ଆକାର ଓ ଫାଙ୍କ ପୁଣି ଦେଖେ।",
+        "en": "Tara wants four leaves along a paper border. With no room for the last one, she rethinks the size and spacing before adding colour."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ପ୍ରଥମ ନକ୍ସାରେ ମଗ୍ନ → ଶେଷ ଫାଙ୍କରେ ଅଟକିବା → ସାରା ଧାର ଏକାଠି ଭାବିବା।",
+        "en": "Absorbed in the first design → stopped by the last gap → considering the whole border together."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ଏକ ସିଧା କାଗଜ ପଟି, ପେନ୍‌ସିଲ୍ ଓ ରବର। ଚାରିଟି ସାଧା ପତ୍ର ନୂଆ ଅଭ୍ୟାସ ନକ୍ସା, କୌଣସି ପାରମ୍ପରିକ ନକ୍ସାର ନାମ ନାହିଁ। ପୁରୁଣା ରେଖା ପୋଛିବା ଦେଖାଯିବ; କାଗଜ ଲମ୍ବ ବଦଳିବନି।",
+        "en": "One straight paper strip, pencil and eraser. Four simple leaves form a new practice design, not a named traditional motif. Show the old marks being erased; the strip does not change length."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/tara-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା କାଗଜ ଧାରରେ ତିନିଟି ବଡ଼ ପତ୍ର ଆଙ୍କିଛି। ଶେଷ ଖାଲି ଜାଗା ପାଖରେ ପେନ୍‌ସିଲ୍ ଅଟକେ।",
+            "en": "Tara has drawn three large leaves along the strip. Her pencil stops at the space left over."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍ ଘଷା ଥମେ।",
+            "en": "The pencil stops scratching."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଚତୁର୍ଥଟା କେଉଁଠି ଯିବ?",
+                "en": "Where will the fourth one go?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କାନୁ ଛୋଟ ଶେଷ ଫାଙ୍କକୁ ଚାହେଁ। ତାରା ଚତୁର୍ଥ ପତ୍ରକୁ ଚିପି ଆଙ୍କିବାକୁ ଯାଇ ଥାମେ।",
+            "en": "Kanu looks at the small final gap. Tara starts to squeeze a fourth leaf into it, then stops."
+          },
+          "sound": {
+            "or": "ଛୋଟ ହସ।",
+            "en": "A little laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଏଇଟା ତ ଅତି ଛୋଟ ହୋଇଯିବ।",
+                "en": "That one will be tiny."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ତାରା ପୁରୁଣା ହାଲୁକା ରେଖା ପୋଛେ। ସାରା ପଟିରେ ଚାରିଟି ଛୋଟ ଜାଗା ଚିହ୍ନେ। କାନୁ ପଟିର ଶେଷ ଧରେ।",
+            "en": "Tara erases the light outlines and marks four smaller spaces across the full strip. Kanu holds its far end."
+          },
+          "sound": {
+            "or": "ରବର ଓ କାଗଜର ଶବ୍ଦ।",
+            "en": "Eraser on paper."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଆଗେ ଚାରିଟା ପାଇଁ ଜାଗା କରିବି।",
+                "en": "First I’ll make room for all four."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ନୂଆ ଛୋଟ ପତ୍ରର ଚାରି ଖସଡ଼ା ମେଳିଛି। ତାରା ପଟିକୁ ଦୂରରୁ ଦେଖେ; ରଙ୍ଗ ଏବେ ବି ବନ୍ଦ।",
+            "en": "Four smaller leaf outlines now fit. Tara holds the strip away to look; the colours are still unopened."
+          },
+          "sound": {
+            "or": "କାଗଜ ଉଠିବା।",
+            "en": "Paper lifting."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏବେ ଶେଷ ପତ୍ରଟା ବି ଆରାମରେ ରହିବ।",
+                "en": "Now the last leaf has room too."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tara-keep-the-first",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "tara",
+        "name": {
+          "or": "ତାରା",
+          "en": "Tara"
+        },
+        "profile": "/characters/chhota-karigara.html#character-1"
+      },
+      "title": {
+        "or": "ପ୍ରଥମଟା ରହୁ",
+        "en": "Keep the First One"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ତାରାର ନୂଆ ମାଟି ପାତ୍ର ଭଲରେ ଠିଆ ରହେ। ପୁରୁଣା ଡଗମଗ ପାତ୍ରକୁ ସେ ଲୁଚାଇବାକୁ ଯାଏ, ପରେ ଦୁହିଁକୁ ପାଖାପାଖି ରଖି ନିଜ ବଦଳ ଦେଖେ।",
+        "en": "Tara’s new clay bowl stands steadily. She starts to hide the old rocking one, then puts them side by side to see what she changed."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ନୂଆ କାମରେ ଖୁସି → ପୁରୁଣାଟିକୁ ଲୁଚାଇବା → ତଫାତ ଦେଖିବା → ପ୍ରଥମ ଚେଷ୍ଟାକୁ ରଖିବା।",
+        "en": "Pleased with the new work → hiding the old attempt → noticing the difference → choosing to keep the first one."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ଦୁଇଟି ଶୁଖିଲା ଛୋଟ ଅଭ୍ୟାସ ପାତ୍ର। ପୁରୁଣାଟିର ତଳ ଟିକେ ଗୋଲା; ନୂଆଟିର ତଳ ସମାନ। ଏଗୁଡ଼ିକ ଆଗରୁ ତିଆରି, ଦୃଶ୍ୟ ଭିତରେ ମାଟି ଶୁଖେନି। ପାତ୍ର ଭାଙ୍ଗିବା ବା ଫିଙ୍ଗିବା ନାହିଁ।",
+        "en": "Two small dry practice bowls. The older one has a rounded uneven base; the newer one has a flatter base. Both were made earlier; clay does not dry within the scene. Neither bowl is broken or thrown away."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/tara-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ନୂଆ ପାତ୍ର ଟେବୁଲ୍‌ରେ ରଖେ। ସେ ଭଲରେ ରହେ। ପୁରୁଣା ପାତ୍ରକୁ ସେ ପଛକୁ ଘୁଞ୍ଚାଏ।",
+            "en": "Tara sets down the new bowl. It sits steadily. She slides the older bowl behind it."
+          },
+          "sound": {
+            "or": "ମାଟି ପାତ୍ରର ନରମ ଟକ୍।",
+            "en": "A soft clay tap."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏଇଟା ରହିବ। ଆଗରଟା ରଖିଦିଏ।",
+                "en": "This one can stay. I’ll put the old one away."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଦିନୁ ପୁରୁଣା ପାତ୍ରକୁ ଦେଖନ୍ତି। ତାରା ତାକୁ ହାତରେ ଉଠାଇ ଧରିଥାଏ।",
+            "en": "Dinu looks at the older bowl. Tara holds it in her hands."
+          },
+          "sound": {
+            "or": "ଏକ ବିରାମ।",
+            "en": "A pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ତଳଟା କେତେ ବଦଳେଇଛୁ?",
+                "en": "How much did you change the base?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ତାରା ଦୁଇ ପାତ୍ରକୁ ଓଲଟାଇ ପାଖାପାଖି ରଖେ। ପୁରୁଣାଟିର ଉଠା ତଳ ଓ ନୂଆଟିର ସମାନ ତଳ ଦେଖେ।",
+            "en": "Tara turns both bowls over side by side, comparing the old rounded base with the newer flat one."
+          },
+          "sound": {
+            "or": "ଦୁଇଟି ହାଲୁକା ଟକ୍।",
+            "en": "Two light taps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏତେ! ମୁଁ ଭୁଲିଯାଇଥିଲି।",
+                "en": "That much! I’d forgotten."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସେ ଦୁହିଁକୁ ସିଧା କରି ଆଗରେ ରଖେ। ପୁରୁଣା ପାତ୍ର ପୁଣି ଟିକେ ଡଗମଗ କଲେ ତାରା ହସି ତାକୁ ଥାମେ।",
+            "en": "She turns them upright and leaves both in front. When the old bowl rocks a little, Tara smiles and steadies it."
+          },
+          "sound": {
+            "or": "ଛୋଟ ଡଗମଗ ଶବ୍ଦ।",
+            "en": "A little rocking sound."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ପ୍ରଥମଟା ରହୁ। ନହେଲେ ତଫାତ କେମିତି ଦେଖିବି?",
+                "en": "Keep the first one. Otherwise how will I see the difference?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dinu-wait-a-moment",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "dinu",
+        "name": {
+          "or": "ଦିନୁ ମାମୁ",
+          "en": "Dinu Mamu"
+        },
+        "profile": "/characters/chhota-karigara.html#character-2"
+      },
+      "title": {
+        "or": "ଟିକେ ରୁହ, ମାମୁ",
+        "en": "Wait a Moment, Mamu"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ତାରାର କାଗଜ ଟ୍ରେର ଶେଷ କୋଣ ଦେଖି ଦିନୁ ସାହାଯ୍ୟ ପାଇଁ ହାତ ବଢ଼ାନ୍ତି। ତାରା ଆଉଥରେ ଚେଷ୍ଟା କରିବାକୁ ଚାହିଁଲେ ସେ ନିଜ ହାତ ଫେରାଇ ଅପେକ୍ଷା କରନ୍ତି।",
+        "en": "Dinu reaches to help with the last corner of Tara’s paper tray. When she asks for another try, he draws his hand back and waits."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ସାହାଯ୍ୟ ପାଇଁ ଆଗୁଆ ହାତ → ପିଲାର କଥା ଶୁଣି ଥମିବା → ଅପେକ୍ଷାର ଅଭ୍ୟାସ → ନିଜ ତରତରକୁ ନେଇ ହସ।",
+        "en": "A hand reaching too soon → stopping to hear the child → practising waiting → laughing at his own hurry."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ଏକ ଛୋଟ ହାଲୁକା କାଗଜ ଟ୍ରେ, ଚାରି ତଳ ଭାଙ୍ଗ ଓ ଆଗରୁ କଟା ଟ୍ୟାବ୍। ତିନି କୋଣ ଆଗରୁ ବନ୍ଧା; ତାରା ଶେଷ କୋଣର ଟ୍ୟାବ୍ ଖୋସେ। କାନୁ ତଳ ଧରେ। କଇଁଚି ବା ଧାରୁଆ ଯନ୍ତ୍ର ନାହିଁ। ଶେଷରେ ଗୋଟିଏ ପେନ୍‌ସିଲ୍ ରଖାଯାଏ।",
+        "en": "One small light paper tray with scored folds and tabs cut earlier. Three corners are secured; Tara tucks the final corner tab while Kanu holds the base. No scissors or sharp tools in this scene. One pencil goes into the finished tray."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/dinu-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ଟେବୁଲ୍‌ରେ କାଗଜ ଟ୍ରେର ଶେଷ କୋଣ ଧରିଛି। କାନୁ ତଳ ଧରେ। ଦିନୁ କୋଣଟି ଧରିବାକୁ ହାତ ବଢ଼ାନ୍ତି।",
+            "en": "Tara holds the last open corner of the paper tray while Kanu steadies its base. Dinu reaches to take the corner."
+          },
+          "sound": {
+            "or": "କାଗଜର ଖସ୍‌ଖସ୍।",
+            "en": "Paper rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ଏଇଟା ମୁଁ…",
+                "en": "I can just…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ନିଜ ହାତ ସେଇଠି ରଖି ମାମୁଙ୍କୁ ଚାହେଁ। ଦିନୁଙ୍କ ହାତ କାଗଜ ଛୁଇଁବା ଆଗରୁ ଅଟକେ।",
+            "en": "Tara keeps her hands in place and looks up at her uncle. His hand stops before touching the paper."
+          },
+          "sound": {
+            "or": "ଛୋଟ ନୀରବତା।",
+            "en": "A little silence."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଟିକେ ରୁହ, ମାମୁ। ଆଉଥରେ କରେ?",
+                "en": "Wait a moment, Mamu. Can I try again?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଦିନୁ ହାତ ଫେରାଇ ଦୁଇ ହାତ ପଛରେ ରଖନ୍ତି। ତାରା ଆଙ୍ଗୁଠିରେ ଭାଙ୍ଗ ଚାପି ଟ୍ୟାବ୍ ଖୋସେ। କାନୁ ଟ୍ରେ ଘୁଞ୍ଚିବାକୁ ଦିଏନି।",
+            "en": "Dinu draws back and rests both hands behind him. Tara presses the fold and tucks the tab. Kanu keeps the tray from sliding."
+          },
+          "sound": {
+            "or": "କାଗଜ ଭାଙ୍ଗର ସାନ ଶବ୍ଦ।",
+            "en": "The soft crease of paper."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ହଉ, ମୁଁ ଦେଖୁଛି।",
+                "en": "All right. I’m watching."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ତାରା ଓ କାନୁ ହାତ ଛାଡ଼ନ୍ତି; ଚାରି କୋଣ ରହେ। କାନୁ ଗୋଟିଏ ପେନ୍‌ସିଲ୍ ଭିତରେ ରଖେ। ଦିନୁ ହାତ ପଛେ ରଖି ହସନ୍ତି।",
+            "en": "Tara and Kanu let go; all four corners stay in place. Kanu puts one pencil inside. Dinu keeps his hands behind him and smiles."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍‌ର ଛୋଟ ଟକ୍।",
+            "en": "A small pencil tap."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ମୋର ହିଁ ବେଶି ତରତର।",
+                "en": "I was the one in a hurry."
+              }
+            }
+          ]
+        }
+      ],
+      "storyboard": {
+        "sheet": "/characters/films/dinu-wait-a-moment/pencil-storyboard-v1.png",
+        "page": "/characters/films/dinu-wait-a-moment/index.html",
+        "archive": "young-makers-films",
+        "file": "pencil-storyboard-v1.png",
+        "medium": {
+          "or": "ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଗତିର ପରୀକ୍ଷା",
+          "en": "Pencil frames · A pacing study"
+        },
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ଦୃଶ୍ୟରେ ୫୪ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। ଦିନୁ ଟିକେ ଅପେକ୍ଷା କଲେ ତାରା ଓ କାନୁ ଶେଷ କୋଣଟି ସାରନ୍ତି। କଣ୍ଠ ଓ ଚଳନ ପରବର୍ତ୍ତୀ ଧାପ।",
+          "en": "A 54-second pacing study with four still frames. Dinu waits while Tara and Kanu finish the last corner. Voice and movement are later stages."
+        },
+        "development": {
+          "or": "ପୂର୍ବ ମଡେଲ୍‌ର ତିନି ଅଲଗା ଦେହରେଖା ଓ କାମର ପୋଷାକ ରହିଛି। ଦିନୁଙ୍କ ଆଗୁଆ ହାତ ପଛକୁ ଫେରେ; କାଗଜ ଟ୍ରେର ଶେଷ କୋଣ ଖୋଲାରୁ ବନ୍ଧା ହୁଏ। ଏହି ଧାପରେ ସ୍ଥିର ଭଙ୍ଗୀ ଅଛି; ଟ୍ୟାବ୍ ଖୋସିବାର ମଧ୍ୟବର୍ତ୍ତୀ ଚଳନ ଓ କଣ୍ଠ ଅଭିନୟ ବାକି।",
+          "en": "The three established silhouettes and work clothes remain. Dinu’s reaching hand withdraws; the tray’s last corner moves from open to secured. These are still acting poses; the in-between movement of tucking the tab and the voice performance remain ahead."
+        }
+      }
+    },
+    {
+      "id": "dinu-my-crooked-line",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "dinu",
+        "name": {
+          "or": "ଦିନୁ ମାମୁ",
+          "en": "Dinu Mamu"
+        },
+        "profile": "/characters/chhota-karigara.html#character-2"
+      },
+      "title": {
+        "or": "ମୋ ଧାଡ଼ି ବି ବଙ୍କା",
+        "en": "My Line Is Crooked Too"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ଦିନୁ ନିଜ କାମ ପାଇଁ କାଗଜରେ ଏକ ଧାର ଆଙ୍କନ୍ତି। କାନୁ ଟିକେ କାତ ଦେଖିଲେ ସେ ରୁଲର୍ ଆଣି ନିଜ ରେଖା ପୁଣି କରନ୍ତି।",
+        "en": "Dinu draws a border on a paper plan for his own work. When Kanu notices a tilt, Dinu gets the ruler and redraws it."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ଅଭ୍ୟାସରେ ଶୀଘ୍ର ରେଖା → ଛୋଟ ମତ ଶୁଣିବା → ମାପି ଦେଖିବା → ବିନା ବାହାନାରେ ନିଜ ଭୁଲ୍ ସଜାଡ଼ିବା।",
+        "en": "A quick practised line → hearing a small observation → checking it → correcting his own mistake without an excuse."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ରେଖା କାଗଜର ଯୋଜନାରେ, ପଥରରେ ନୁହେଁ। ରବରରେ ପୋଛାଯାଇପାରେ; ଖୋଦା ପଥର ଫେରି ପୂରା ହୁଏନି। କାନୁ କେବଳ ଦେଖାଏ, ଯନ୍ତ୍ର ଚଳାଏନି।",
+        "en": "The line is on a paper plan, not carved stone. It can be erased; carved material does not grow back. Kanu points out what he sees without operating tools."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/dinu-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଦିନୁ ଟେବୁଲ୍‌ରେ ଛୋଟ ଫଳକର କାଗଜ ଯୋଜନା ରଖି ହାତରେ ଧାର ଆଙ୍କନ୍ତି। କାନୁ ପାଖେ ଠିଆ।",
+            "en": "Dinu draws a border freehand on a paper plan for a small panel. Kanu stands nearby."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍ ଘଷା।",
+            "en": "Pencil on paper."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ଏଇ ଧାରଟା ହୋଇଗଲା।",
+                "en": "That border is done."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କାନୁ ମୁଣ୍ଡ କାତ କରି ରେଖାକୁ ଚାହେଁ। ଦିନୁ ତା’ ନଜରକୁ ଅନୁସରଣ କରନ୍ତି।",
+            "en": "Kanu tilts his head at the line. Dinu follows his gaze."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ବିରାମ।",
+            "en": "A small pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଏପଟେ ଟିକେ ଉଠିଯାଇଛି।",
+                "en": "It rises a little on this side."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଦିନୁ ରୁଲର୍ ରଖି ରେଖା ମେଳାନ୍ତି। ଶେଷ ଆଡ଼େ ଫାଙ୍କ ଦେଖାଯାଏ। ସେ ରବର ଉଠାନ୍ତି।",
+            "en": "Dinu lays down the ruler. A gap appears at the far end of his line. He picks up the eraser."
+          },
+          "sound": {
+            "or": "ରୁଲର୍‌ର ଟକ୍, ରବର ଘଷା।",
+            "en": "Ruler tapping, eraser rubbing."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ହଁ, ମୋ ଧାଡ଼ି ବି ବଙ୍କା।",
+                "en": "Yes, my line is crooked too."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଦିନୁ ରୁଲର୍ ଧରି ନୂଆ ହାଲୁକା ରେଖା ଟାଣନ୍ତି। କାନୁ ଅନ୍ୟ ପଟୁ ଦେଖେ।",
+            "en": "Dinu holds the ruler and draws a fresh light line. Kanu looks from the other side."
+          },
+          "sound": {
+            "or": "ଧୀର ପେନ୍‌ସିଲ୍ ଶବ୍ଦ।",
+            "en": "A slower pencil stroke."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ଏଥର ଦୁଇ ପଟୁ ଦେଖିବା।",
+                "en": "This time, let’s look from both sides."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dinu-room-for-my-work",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "dinu",
+        "name": {
+          "or": "ଦିନୁ ମାମୁ",
+          "en": "Dinu Mamu"
+        },
+        "profile": "/characters/chhota-karigara.html#character-2"
+      },
+      "title": {
+        "or": "ମୋ ପାଇଁ ଟିକେ ଜାଗା",
+        "en": "A Little Room for My Work"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ପିଲାଙ୍କ କାଗଜ ଓ ନମୁନାରେ ଟେବୁଲ୍ ଭରିଛି। ନିଜ ଛୋଟ ମାଟି ଫଳକ ନେଇ ଦିନୁ ଆସନ୍ତି। ତାଙ୍କ କାମ ପାଇଁ ବି ଜାଗା ଦରକାର।",
+        "en": "The table is full of the children’s drawings and models. Dinu arrives with a small clay tile of his own. His work needs a place too."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ନିଜ କାମ ପାଇଁ ଆସିବା → ଜାଗା ନପାଇ ଥାମିବା → ସିଧା ସାହାଯ୍ୟ ମାଗିବା → ମିଳିମିଶି ଟେବୁଲ୍ ବ୍ୟବହାର।",
+        "en": "Arriving with his own work → finding no space → asking directly → sharing the worktable."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ହାତରେ ଧରିହେବା ଛୋଟ ମାଟି ଫଳକ ଏକ ହାଲୁକା କାଠ ପଟାରେ ରହିଛି; ଭାରୀ ପଥର ନୁହେଁ। କାଗଜ ଗୁଛାଇ ଖାଲି ଜାଗା ହୁଏ। ପିଲାଙ୍କ କାମ ଫିଙ୍ଗାଯାଏନି।",
+        "en": "A hand-sized clay tile rests on a light wooden board, not a heavy stone block. Stacking papers creates the space. The children’s work is not discarded."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/dinu-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ଓ କାନୁଙ୍କ ଚିତ୍ର ଓ ହାଲୁକା ନମୁନା ଟେବୁଲ୍‌ରେ ବିଛାଇଛି। ଦିନୁ ଛୋଟ ପଟା ଧରି ଆସନ୍ତି।",
+            "en": "Tara and Kanu’s drawings and light models cover the table. Dinu comes over carrying a small board."
+          },
+          "sound": {
+            "or": "କାଗଜ ଓ ହାଲୁକା ପାଦଶବ୍ଦ।",
+            "en": "Paper and light footsteps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ମୋ କାମଟା କେଉଁଠି ରଖିବି?",
+                "en": "Where shall I put my work?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ଦୁଇ କାଗଜ ଘୁଞ୍ଚାଇ ଅତି ଛୋଟ ଜାଗା ଦେଖାଏ। ଦିନୁ ପଟାକୁ ତା’ ଉପରେ ନରଖି ଆକାର ମେଳାନ୍ତି।",
+            "en": "Tara moves two sheets to reveal a tiny space. Dinu compares the board with it without setting it down."
+          },
+          "sound": {
+            "or": "ଛୋଟ ହସ।",
+            "en": "A little laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ମୋ ପଟାଟା ଏତେ ଛୋଟ ନୁହେଁ।",
+                "en": "My board isn’t quite that small."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "କାନୁ କାଗଜ ଏକାଠି କରେ। ତାରା ନିଜ ଦୁଇ ନମୁନାକୁ ଏକ ପାଖେ ରଖେ। ଦିନୁ ଅପେକ୍ଷା କରନ୍ତି।",
+            "en": "Kanu stacks the papers. Tara puts her two models together at one side. Dinu waits."
+          },
+          "sound": {
+            "or": "କାଗଜ ଗୁଛାଇବା।",
+            "en": "Papers being stacked."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଏବେ ହେବ?",
+                "en": "Will it fit now?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଦିନୁ ପଟା ରଖନ୍ତି। ତିନିଜଣଙ୍କ କାମ ପାଇଁ ଜାଗା ଅଛି। ସେ ମାଟି ଫଳକକୁ ନିଜ ଆଡ଼କୁ ବୁଲାନ୍ତି; ପିଲାମାନେ ନିଜ କାମ ଧରନ୍ତି।",
+            "en": "Dinu sets down the board. There is space for all three. He turns the clay tile towards himself while the children return to their work."
+          },
+          "sound": {
+            "or": "ପଟା ରଖିବାର ନରମ ଶବ୍ଦ।",
+            "en": "The board settling softly."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଦିନୁ ମାମୁ",
+                "en": "Dinu Mamu"
+              },
+              "text": {
+                "or": "ହଁ। ଆଜି ମୁଁ ବି ଏଠି କାମ କରିପାରିବି।",
+                "en": "Yes. I can work here today too."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kanu-this-corner",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "kanu",
+        "name": {
+          "or": "କାନୁ",
+          "en": "Kanu"
+        },
+        "profile": "/characters/chhota-karigara.html#character-3"
+      },
+      "title": {
+        "or": "ଏଇ କୋଣଟା",
+        "en": "This Corner"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "କାଗଜ ଡବାର ଢାଙ୍କୁଣି ଲାଗୁନଥିବାରୁ କାନୁ ପୂରା ଡବାକୁ ଖରାପ କହେ। ପୁଣି ଦେଖିଲେ ଗୋଟିଏ କୋଣ ହିଁ ଅଟକୁଥିବା ବୁଝେ।",
+        "en": "When a paper box lid will not close, Kanu dismisses the whole box. A second look shows him that one corner is catching."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ସମଗ୍ର କାମକୁ ଖରାପ କହିବା → ଧୀରେ ପୁଣି ଦେଖିବା → ନିର୍ଦ୍ଦିଷ୍ଟ ଜାଗା ଚିହ୍ନିବା → କଥା ସଜାଡ଼ିବା।",
+        "en": "Dismissing the whole thing → looking again slowly → finding the exact spot → correcting his description."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ଖାଲି କାଗଜ ଡବା ଓ ଅଲଗା ଢାଙ୍କୁଣି। ଗୋଟିଏ କୋଣର ଭାଙ୍ଗ ବାହାରକୁ ଉଠିଛି; ଅନ୍ୟ ତିନି ପଟ ମେଳେ। ଶେଷରେ ଚିହ୍ନ ଦିଆଯାଏ, ତୁରନ୍ତ ଚମତ୍କାର ମରାମତି ନୁହେଁ।",
+        "en": "An empty paper box and a separate lid. One corner fold protrudes; the other three sides fit. The scene ends with a mark for the repair, not an instant magical fix."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/kanu-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କାନୁ ଖାଲି ଡବା ଉପରେ ଢାଙ୍କୁଣି ରଖେ। ଗୋଟିଏ କୋଣ ଉଠି ରହେ। ସେ ହାତ ଛାଡ଼ିଦିଏ।",
+            "en": "Kanu puts the lid on an empty box. One corner stays raised. He lets go."
+          },
+          "sound": {
+            "or": "କାଗଜର ଟକ୍।",
+            "en": "A paper tap."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଏଇଟା କିଛି କାମର ନୁହେଁ।",
+                "en": "This is no use."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ଡବାକୁ ଘୁରାଇନେଇ ଧୀରେ ଢାଙ୍କୁଣି ରଖିବାକୁ କହେ। କାନୁ ଏଥର ତଳକୁ ଝୁଙ୍କି ଦେଖେ।",
+            "en": "Tara turns the box and asks him to lower the lid slowly. This time Kanu bends down to watch."
+          },
+          "sound": {
+            "or": "ଧୀର କାଗଜ ଘଷା।",
+            "en": "Slow paper brushing."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "କେଉଁଠି ଅଟକୁଛି ଦେଖା।",
+                "en": "Show me where it catches."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "କାନୁ ଢାଙ୍କୁଣିର ଉଠା କୋଣ ପାଖରେ ଆଙ୍ଗୁଠି ରଖେ। ଅନ୍ୟ ପଟ ମେଳୁଥିବା ସେ ଦେଖେ।",
+            "en": "Kanu puts a finger beside the raised corner and notices that the other sides fit."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ଛୁଆଁ।",
+            "en": "A light touch."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଏଇ କୋଣଟା। ବାକି ତ ମେଳୁଛି।",
+                "en": "This corner. The rest fits."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେ କୋଣ ପାଖରେ ଛୋଟ ପେନ୍‌ସିଲ୍ ଚିହ୍ନ ଦିଏ। ତାରା ଢାଙ୍କୁଣି ଉଠାଏ, କାନୁ ଡବା ଧରିରଖେ।",
+            "en": "He makes a small pencil mark beside the corner. Tara lifts the lid while Kanu holds the box."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍ ଓ କାଗଜ।",
+            "en": "Pencil and paper."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ପୂରା ଡବା ନୁହେଁ। ଏଇ କୋଣଟା ବଦଳାଇବା।",
+                "en": "Not the whole box. Let’s change this corner."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kanu-same-start",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "kanu",
+        "name": {
+          "or": "କାନୁ",
+          "en": "Kanu"
+        },
+        "profile": "/characters/chhota-karigara.html#character-3"
+      },
+      "title": {
+        "or": "ଏକା ଜାଗାରୁ",
+        "en": "From the Same Place"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "କାନୁ ଛୋଟ କାଗଜ ସିଲିଣ୍ଡରକୁ କେବେ ଠେଲେ, କେବେ ଛାଡ଼େ। ଦୁଇ ପରୀକ୍ଷା ମେଳୁନଥିବାରୁ ସେ ଏକା ଚିହ୍ନରୁ ବିନା ଠେଲାରେ ପୁଣି ଛାଡ଼େ।",
+        "en": "Kanu sometimes pushes a small paper cylinder and sometimes releases it. When the trials do not match, he starts again from one mark without pushing."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ଫଳ ଦେଖି ତରତର ନିଷ୍କର୍ଷ → ନିଜ ହାତର ତଫାତ ଦେଖିବା → ପୁଣି ଏକା ଭାବରେ ପରୀକ୍ଷା।",
+        "en": "A hurried conclusion from the result → noticing what his own hand changed → trying again consistently."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ହାଲୁକା ଖାଲି କାଗଜ ସିଲିଣ୍ଡର, ଟିକେ ଢାଲୁ ଛୋଟ ପଟା ଓ ସମତଳ ଟେବୁଲ୍। ଉଚ୍ଚତା, ସିଲିଣ୍ଡର ଓ ଆରମ୍ଭ ଚିହ୍ନ ବଦଳିବନି। ସବୁ ଥର ନିର୍ଭୁଲ ଏକା ଦୂରତା ଯିବ ବୋଲି ଦାବି ନାହିଁ। ଧାରରୁ ଖସିବା ପୂର୍ବରୁ ପାଖର ନରମ କପଡ଼ା ଅଟକାଏ।",
+        "en": "A light empty paper cylinder, a short low ramp and a level tabletop. Keep the height, cylinder and start mark unchanged. Do not claim every trial travels exactly the same distance. A soft cloth beyond the test area stops it before the table edge."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/kanu-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କାନୁ ଛୋଟ ପଟାରୁ କାଗଜ ସିଲିଣ୍ଡର ଛାଡ଼େ। ପୁଣି ଉଠାଇ ଏଥର ଟିକେ ଠେଲେ; ସେ ଆଗକୁ ବେଶି ଗଡ଼େ।",
+            "en": "Kanu releases the paper cylinder from the ramp, then retrieves it and gives it a small push on the second try. It rolls farther."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ଗଡ଼ିବାର ଶବ୍ଦ।",
+            "en": "Light rolling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଏଥର ବେଶି ଗଲା!",
+                "en": "It went farther this time!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ତାରା ପଟା ନୁହେଁ, କାନୁର ହାତକୁ ଚାହେଁ। କାନୁ ନିଜ ଆଙ୍ଗୁଠିର ଠେଲା ଭଙ୍ଗୀ ମନେପକାଏ।",
+            "en": "Tara looks at Kanu’s hand rather than the ramp. Kanu recalls the little flick of his finger."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏଥର ଠେଲିଥିଲୁ?",
+                "en": "Did you push it that time?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ହଁ, ଟିକେ।",
+                "en": "Yes, a little."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "କାନୁ ପଟାରେ ଆରମ୍ଭର ଛୋଟ ଚିହ୍ନ ଦିଏ। ସିଲିଣ୍ଡର ସେଇଠି ରଖି ହାତ ଉପରକୁ ଉଠାଏ, ଆଗକୁ ଠେଲେନି।",
+            "en": "Kanu marks a starting place. He puts the cylinder there and lifts his hand away without pushing forward."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍‌ର ଚିହ୍ନ, ଗଡ଼ିବା।",
+            "en": "Pencil mark, then rolling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଏବେ ଖାଲି ଛାଡ଼ୁଛି।",
+                "en": "Now I’m only letting go."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସେ ସିଲିଣ୍ଡର ଉଠାଇ ପୁଣି ସେଇ ଚିହ୍ନରେ ରଖେ। ତାରା ଏଥର ତା’ ହାତ ଓ ସିଲିଣ୍ଡର ଦୁହିଁକୁ ଦେଖେ।",
+            "en": "He returns the cylinder to the same mark. This time Tara watches both his hand and the cylinder."
+          },
+          "sound": {
+            "or": "ଆଉ ଏକ ହାଲୁକା ଗଡ଼ିବା।",
+            "en": "Another light roll."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ଆଉଥରେ। ମୋ ଆଙ୍ଗୁଠି ବି ଏଥର ଚୁପ୍ ରହୁ।",
+                "en": "Again. My finger can stay out of it this time."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kanu-two-names",
+      "world": "chhota-karigara",
+      "focus": {
+        "id": "kanu",
+        "name": {
+          "or": "କାନୁ",
+          "en": "Kanu"
+        },
+        "profile": "/characters/chhota-karigara.html#character-3"
+      },
+      "title": {
+        "or": "ଦୁଇଟି ନାମ",
+        "en": "Two Names"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ମିଳିମିଶି ତିଆରି ଓ ଯାଞ୍ଚ କରିଥିବା ଛୋଟ କାମରେ ତାରା ନାମ ଲେଖେ। କାନୁ ନିଜ ଭୂମିକା କହିଲେ ଚିଠିରେ ତା’ ନାମ ପାଇଁ ବି ଜାଗା ହୁଏ।",
+        "en": "Tara writes a name card for the small project they made and tested together. When Kanu names his contribution, there is room for his name too."
+      },
+      "setting": {
+        "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+      },
+      "performance": {
+        "or": "ନିଜ କାମ ଦେଖାଯାଉନଥିବା ଅନୁଭବ → ସିଧା ନିଜ ଭୂମିକା କହିବା → ନିଜେ ନାମ ଲେଖିବା।",
+        "en": "Feeling his contribution is missing → saying what he did → writing his own name."
+      },
+      "wardrobe": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "continuity": {
+        "or": "ଆଗରୁ ସାରିଥିବା ଏକ ଛୋଟ କାଗଜ ଟ୍ରେ ଓ ଅଲଗା ନାମଚିଠି। ତାରାର ନାମ ପରେ କାନୁର ନାମ ଯୋଡ଼ାଯାଏ; ତାରାର ନାମ ପୋଛାଯାଏନି। ଚିତ୍ର ହେଲେ ଚିଠିର ଓଡ଼ିଆ ଅକ୍ଷର ପୃଥକ୍ ଯାଞ୍ଚ କରି ବସାଇବା। ତାରା ଭୁଲିଥିଲା, ଜାଣିଶୁଣି ସାଙ୍ଗର ଶ୍ରେୟ ନେଉନଥିଲା।",
+        "en": "One small paper tray completed earlier and a separate name card. Kanu’s name is added beside Tara’s; hers is not erased. If illustrated, typeset and check the card’s Odia lettering separately. Tara overlooked the testing credit rather than deliberately taking it."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/young-makers-natural-v2.png",
+      "preview": "/characters/young-makers/model-sheets/kanu-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସମ୍ପୂର୍ଣ୍ଣ ଟ୍ରେ ପାଖରେ ତାରା ଏକ ଛୋଟ କାଗଜରେ ନିଜ ନାମ ଲେଖେ। କାନୁ ଚୁପ୍ ହୋଇ ଚାହେଁ।",
+            "en": "Beside the completed tray, Tara writes her name on a small card. Kanu watches quietly."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍ ଘଷା।",
+            "en": "Pencil scratching."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ଏବେ କିଏ କରିଛି ଜଣାପଡ଼ିବ।",
+                "en": "Now people will know who made it."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କାନୁ ଟ୍ରେର ଯାଞ୍ଚ କରିଥିବା କୋଣକୁ ଛୁଏ। ତାରା ତା’ ଆଡ଼କୁ ଚାହେଁ।",
+            "en": "Kanu touches the corner he tested. Tara looks towards him."
+          },
+          "sound": {
+            "or": "ହାଲୁକା କାଗଜ ଟକ୍।",
+            "en": "A light paper tap."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ମୁଁ ତ ଯାଞ୍ଚ କରିଥିଲି।",
+                "en": "I did the testing."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ତାରା ଚିଠିକୁ ଦେଖି ନିଜ ନାମ ପାଖର ଖାଲି ଜାଗାକୁ ଆଙ୍ଗୁଠି ଦିଏ। ସେ ପେନ୍‌ସିଲ୍ କାନୁକୁ ଦିଏ।",
+            "en": "Tara looks at the card and points to the space beside her name. She hands Kanu the pencil."
+          },
+          "sound": {
+            "or": "ପେନ୍‌ସିଲ୍ ହାତ ବଦଳାଏ।",
+            "en": "The pencil changes hands."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ତାରା",
+                "en": "Tara"
+              },
+              "text": {
+                "or": "ହଁ। ତୋ ନାମ ବି ଲେଖ।",
+                "en": "Yes. Put your name there too."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "କାନୁ ନିଜ ନାମ ଲେଖେ। ଦୁହେଁ ଚିଠିକୁ ଟ୍ରେ ପାଖେ ରଖନ୍ତି। କାନୁ ଶେଷଥର ପାଇଁ କୋଣ ଛୁଇଁ ଦେଖେ।",
+            "en": "Kanu writes his name. They set the card beside the tray. He gives the corner one final check."
+          },
+          "sound": {
+            "or": "ଛୋଟ ଟକ୍, ଦୁହିଁଙ୍କ ହସ।",
+            "en": "A small tap and a shared laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "କାନୁ",
+                "en": "Kanu"
+              },
+              "text": {
+                "or": "ନାମ ଲେଖିଲି ବୋଲି ଯାଞ୍ଚ ବନ୍ଦ ନୁହେଁ।",
+                "en": "Having my name there doesn’t stop me checking."
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
   "updated": "2026-10-17"
