@@ -7338,6 +7338,12 @@
     "source": "/characters/films/malati-stay-a-moment/pencil-storyboard-v3.png"
   },
   {
+    "page": "/characters/films/mother-message-from-me/index.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/films/mother-message-from-me/",
+    "image": "/social/f456cb1a261062d1.jpg",
+    "source": "/characters/films/mother-message-from-me/colour-storyboard-v2.png"
+  },
+  {
     "page": "/characters/films/nilu-hold-this-end/index.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/films/nilu-hold-this-end/",
     "image": "/social/accd505e64b95e79.jpg",
@@ -7446,6 +7452,24 @@
     "source": "/characters/assets/nilu-chaiti-character-3.webp"
   },
   {
+    "page": "/characters/scripts/bisu-listen-again.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/bisu-listen-again.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/bisu-sour-berry.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/bisu-sour-berry.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/bisu-we-made-it.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/bisu-we-made-it.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
     "page": "/characters/scripts/chaiti-one-more-dot.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chaiti-one-more-dot.html",
     "image": "/social/f499b471e2d73616.jpg",
@@ -7480,6 +7504,24 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/chiku-wall-crossing.html",
     "image": "/social/4deb47993eb96f8f.jpg",
     "source": "/characters/assets/koraput-character-4.webp"
+  },
+  {
+    "page": "/characters/scripts/dharama-from-here.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/dharama-from-here.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/dharama-saying-bapa.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/dharama-saying-bapa.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/dharama-show-you-home.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/dharama-show-you-home.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
   },
   {
     "page": "/characters/scripts/dinu-my-crooked-line.html",
@@ -7642,6 +7684,24 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/mandar-small-audience.html",
     "image": "/social/5073d82518b359cc.jpg",
     "source": "/characters/assets/koraput-character-2.webp"
+  },
+  {
+    "page": "/characters/scripts/mother-knot-he-can-open.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/mother-knot-he-can-open.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/mother-message-from-me.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/mother-message-from-me.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/scripts/mother-one-for-me.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/mother-one-for-me.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
   },
   {
     "page": "/characters/scripts/nilu-hold-this-end.html",

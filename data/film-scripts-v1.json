@@ -8384,6 +8384,1363 @@
           ]
         }
       ]
+    },
+    {
+      "id": "dharama-saying-bapa",
+      "world": "dharmapada",
+      "focus": {
+        "id": "dharama",
+        "name": {
+          "or": "ଧରମା",
+          "en": "Dharama"
+        },
+        "profile": "/characters/dharmapada.html#character-1"
+      },
+      "title": {
+        "or": "ବାପା ବୋଲି ଡାକିଲି",
+        "en": "I Just Called You Bapa"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ଭେଟ ହୋଇସାରିଛି, ହେଲେ “ବାପା” ବୋଲି ସିଧା ଡାକିବା ଧରମା ପାଇଁ ଏବେ ବି ନୂଆ। ସେ ଗୋଟିଏ ଛୋଟ ଡାକ ଦେଇ ଉତ୍ତରକୁ ଅପେକ୍ଷା କରେ।",
+        "en": "They have met, but calling out “Bapa” to his father is still new for Dharama. He tries a small call and waits for the answer."
+      },
+      "setting": {
+        "or": "ବାପା–ପୁଅଙ୍କ ଭେଟ ପରେ କୋଣାର୍କର କାମସ୍ଥଳ ପାଖର ଭୂମିସ୍ତରର ବିଶ୍ରାମ ସ୍ଥାନ। ହାତୁଡ଼ି, ପଥର କଟା ଓ ଭାର ଉଠା କାମରୁ ଅଲଗା। ମାଆ ଏଠାରେ ଉପସ୍ଥିତ ନାହାନ୍ତି। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "After the reunion, in a ground-level resting space near the Konark workplace, separate from hammering, stone cutting and lifting. Mother is not present here. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "କହିବାର ସଙ୍କୋଚ → ଡାକିବା → ଉତ୍ତର ଶୁଣି ଆରାମ → ପୁଣି ସହଜରେ ଡାକିବା।",
+        "en": "Hesitation → calling out → relief at the answer → saying it again with ease."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ଏହା ପ୍ରଥମ ଚିହ୍ନାପରିଚୟ ପରର ମୁହୂର୍ତ୍ତ। ନାମ ବା କୋଳି ଦେଖି ଚିହ୍ନିବାର ପୂର୍ବ ଦୃଶ୍ୟ ପୁଣି ହୁଏନି। ବିଶୁଙ୍କ ହାତରେ କୌଣସି ଯନ୍ତ୍ର ନାହିଁ।",
+        "en": "This is after recognition. Do not repeat the earlier name-and-berries reunion. Bisu holds no tool."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଧରମା ବିଶୁଙ୍କ ପାଖେ ବସିଛି। କିଛି କହିବାକୁ ମୁହଁ ଖୋଲି ପୁଣି ଥାମେ।",
+            "en": "Dharama sits beside Bisu, opening his mouth to speak, then stopping."
+          },
+          "sound": {
+            "or": "ଦୂର ପତ୍ର ଓ ହାଲୁକା ପବନ।",
+            "en": "Distant leaves and a light breeze."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ବାପା…",
+                "en": "Bapa…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବିଶୁ ଧରମା ଆଡ଼କୁ ପୂରା ମୁହଁ ବୁଲାନ୍ତି। ଧରମା ତାଙ୍କ ଆଖିକୁ ଚାହେଁ।",
+            "en": "Bisu turns fully towards him. Dharama looks into his eyes."
+          },
+          "sound": {
+            "or": "କଥା ପାଇଁ ଏକ ଶାନ୍ତ ବିରାମ।",
+            "en": "A quiet pause for him to speak."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ହଁ ରେ, କହ।",
+                "en": "Yes, son?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା ତଳକୁ ଚାହିଁ ଟିକେ ହସେ। ହାତରେ କୋଳି ପୁଟୁଳିର ଖାଲି କପଡ଼ା ଗୁଛାଏ।",
+            "en": "Dharama looks down with a small smile, arranging the empty fruit cloth in his hands."
+          },
+          "sound": {
+            "or": "ନରମ କପଡ଼ା ଘଷା।",
+            "en": "Soft cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "କିଛି ନାହିଁ। ଡାକିଦେଲି।",
+                "en": "Nothing. I just wanted to call you."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ବିଶୁ ପାଖେ ସେ ବସି ରହେ। ଏଥର ମୁହଁ ଉଠାଇ ସିଧା ଡାକେ।",
+            "en": "He stays beside Bisu. This time he looks up and calls without hesitation."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ନରମ ହସ।",
+            "en": "A small shared laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ବାପା।",
+                "en": "Bapa."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ଶୁଣୁଛି।",
+                "en": "I’m listening."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dharama-from-here",
+      "world": "dharmapada",
+      "focus": {
+        "id": "dharama",
+        "name": {
+          "or": "ଧରମା",
+          "en": "Dharama"
+        },
+        "profile": "/characters/dharmapada.html#character-1"
+      },
+      "title": {
+        "or": "ମୋ ଏଠୁ ଦେଖ",
+        "en": "Look from Here"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ପାଖରେ ରଖା ସମ୍ପୂର୍ଣ୍ଣ ପତ୍ର ଆକୃତିର କାରୁକାମ ଧରମାକୁ ଏକ ପଟରୁ ବଙ୍କା ଲାଗେ। ସେ ଭୁଲ୍ କହିଦେବା ଆଗରୁ ବାପାଙ୍କୁ ନିଜ ଜାଗାରୁ ଦେଖିବାକୁ କହେ।",
+        "en": "A completed leaf carving resting nearby looks bent from Dharama’s position. Before declaring it wrong, he asks his father to look from where he is."
+      },
+      "setting": {
+        "or": "ବାପା–ପୁଅଙ୍କ ଭେଟ ପରେ କୋଣାର୍କର କାମସ୍ଥଳ ପାଖର ଭୂମିସ୍ତରର ବିଶ୍ରାମ ସ୍ଥାନ। ହାତୁଡ଼ି, ପଥର କଟା ଓ ଭାର ଉଠା କାମରୁ ଅଲଗା। ମାଆ ଏଠାରେ ଉପସ୍ଥିତ ନାହାନ୍ତି। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "After the reunion, in a ground-level resting space near the Konark workplace, separate from hammering, stone cutting and lifting. Mother is not present here. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ଅଲଗା କିଛି ଦେଖିବା → ସଙ୍କୋଚରେ ପଚାରିବା → ନିଜ ଦେଖିବା ସ୍ଥାନ ବୁଝାଇବା → ଛାଇ ଓ ଆକୃତିର ଫରକ ଧରିବା।",
+        "en": "Noticing something odd → asking hesitantly → showing his viewpoint → distinguishing shadow from form."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ସମ୍ପୂର୍ଣ୍ଣ ଛୋଟ କାରୁକାମ ତଳ ପଟାରେ ସ୍ଥିର ଅଛି। କେହି ଉଠାନ୍ତି ବା କାଟନ୍ତିନି। ଧରମା କାରୁକାମକୁ ଠିକ୍ କରେନି; ଦେଖିବାର ଫରକ ବୁଝେ। ଆଲୋକ ଦିଗ ଚାରି ଦୃଶ୍ୟରେ ସମାନ।",
+        "en": "A small completed carving rests securely on a low board. Nobody lifts or cuts it. Dharama does not repair it; he understands a difference in viewpoint. The light direction stays fixed."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଧରମା ଛାଇରେ ବସି ପାଖ ପଟାର ପତ୍ର କାରୁକାମକୁ ଚାହେଁ। ଗୋଟିଏ ଧାର ଗାଢ଼ ଛାଇରେ ଅଛି।",
+            "en": "Dharama sits in shade, looking at a leaf carving on a nearby board. One edge lies in deep shadow."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ହାଲୁକା ଶବ୍ଦ।",
+            "en": "Light leaf sounds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ବାପା, ଏ ଧାରଟା ବଙ୍କା କି?",
+                "en": "Bapa, is this edge bent?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବିଶୁ ନିଜ ଜାଗାରୁ ଦେଖନ୍ତି। ଧରମା ପାଖର ଖାଲି ସ୍ଥାନ ଦେଖାଏ।",
+            "en": "Bisu looks from his own position. Dharama indicates the space beside him."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A brief pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ମୋତେ ତ ସେମିତି ଲାଗୁନି।",
+                "en": "It doesn’t look that way to me."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ମୋ ଏଠୁ ଥରେ ଦେଖ।",
+                "en": "Look from here once."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବିଶୁ ଧରମା ପାଖେ ବସନ୍ତି। ଦୁହେଁ ସେଇ ଧାରକୁ ଦେଖନ୍ତି।",
+            "en": "Bisu sits beside Dharama. Both look at the same edge."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ହାଲୁକା ଘଷା।",
+            "en": "A light cloth rustle."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ହଁ, ଏଠୁ ଛାଇଟା ଧାର ସହ ମିଶୁଛି।",
+                "en": "Yes. From here the shadow merges with the edge."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା ମୁଣ୍ଡ ଟିକେ ଘୁଞ୍ଚାଇ ପୁଣି ଦେଖେ। ପଥର ଛୁଏନି। ମୁହଁରେ ବୁଝିବାର ହସ।",
+            "en": "Dharama moves his head a little and looks again without touching the stone. A smile of recognition appears."
+          },
+          "sound": {
+            "or": "ଶାନ୍ତିରେ ଶେଷ କଥା।",
+            "en": "The last words in the quiet."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଏବେ ଅଲଗା ଦିଶୁଛି। ଧାର ନୁହେଁ, ଛାଇ ଥିଲା।",
+                "en": "Now they look separate. It was the shadow, not the edge."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dharama-show-you-home",
+      "world": "dharmapada",
+      "focus": {
+        "id": "dharama",
+        "name": {
+          "or": "ଧରମା",
+          "en": "Dharama"
+        },
+        "profile": "/characters/dharmapada.html#character-1"
+      },
+      "title": {
+        "or": "ଘରଟା ଦେଖାଇଦେଉଛି",
+        "en": "Let Me Show You Home"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ବିଶୁଙ୍କ ମନର ଅଗଣାଠାରୁ ଧରମା ଜାଣିଥିବା ଅଗଣା ଟିକେ ଅଲଗା। ଧରମା ମାଟିରେ ଆଙ୍ଗୁଠିରେ ଆକି ନୂଆ ଡାଳ ଓ ମାଆଙ୍କ ବସିବା ଜାଗା ଦେଖାଏ।",
+        "en": "The courtyard Bisu remembers differs a little from the one Dharama knows. Dharama draws in the earth to show a new branch and where his mother sits."
+      },
+      "setting": {
+        "or": "ବାପା–ପୁଅଙ୍କ ଭେଟ ପରେ କୋଣାର୍କର କାମସ୍ଥଳ ପାଖର ଭୂମିସ୍ତରର ବିଶ୍ରାମ ସ୍ଥାନ। ହାତୁଡ଼ି, ପଥର କଟା ଓ ଭାର ଉଠା କାମରୁ ଅଲଗା। ମାଆ ଏଠାରେ ଉପସ୍ଥିତ ନାହାନ୍ତି। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "After the reunion, in a ground-level resting space near the Konark workplace, separate from hammering, stone cutting and lifting. Mother is not present here. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ବାପାଙ୍କ ସ୍ମୃତି ଶୁଣିବା → ନିଜ ଘରର ଫରକ କହିବା → ନିଜେ ଦେଖାଇବା → ଛୋଟ ଘରକଥାରେ ଦୁହିଁଙ୍କୁ ଯୋଡ଼ିବା।",
+        "en": "Hearing his father’s memory → explaining what has changed → showing it himself → finding connection in a small detail of home."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ନୂଆ ଡାଳ ଓ ବସିବା ଜାଗା ଏହି ପର୍ବର କଳ୍ପନା, ଲୋକକଥାର ଦଲିଲ ନୁହେଁ। ଆଙ୍କାଟି ଅଗଣାର ସରଳ ସୂଚନା; ସ୍ଥାପତ୍ୟ ମାପ ନୁହେଁ। ମାଆ ଦୃଶ୍ୟରେ ଆସନ୍ତିନି।",
+        "en": "The new branch and sitting place are invented details for this episode, not documented folklore. The drawing is a simple suggestion of a courtyard, not an architectural plan. Mother is not shown."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବିଶୁ ଓ ଧରମା ଖାଲି ମାଟି ପାଖେ ବସି କୋଳି ଗଛର କଥା କହନ୍ତି।",
+            "en": "Bisu and Dharama sit beside a patch of earth, talking about the berry tree."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପବନ।",
+            "en": "A light breeze."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ବାରଣ୍ଡା ପଟେ ତ ଡାଳ ନଥିଲା।",
+                "en": "There wasn’t a branch towards the veranda."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଧରମା ଆଙ୍ଗୁଠିରେ ମାଟିରେ ଗଛ ଓ ଗୋଟିଏ ଡାଳର ସରଳ ରେଖା ଆଙ୍କେ।",
+            "en": "With his finger, Dharama draws simple lines for a tree and a branch in the earth."
+          },
+          "sound": {
+            "or": "ଆଙ୍ଗୁଠି ମାଟିରେ ଘଷା।",
+            "en": "A finger brushing earth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଏବେ ଅଛି। ଏମିତି ବଢ଼ିଛି।",
+                "en": "There is now. It has grown like this."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେ ପାଖରେ ଗୋଟିଏ ଛୋଟ ଚିହ୍ନ କରେ। ବିଶୁ ମୁଣ୍ଡ ନୁଆଇ ଦେଖନ୍ତି।",
+            "en": "He makes a small mark beside it. Bisu bends his head to see."
+          },
+          "sound": {
+            "or": "କଥା ମଝିରେ ଶାନ୍ତି।",
+            "en": "A quiet pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ମାଆ ଏଇଠି ବସେ। ଖରା ହେଲେ ବି ଛାଇ ରହେ।",
+                "en": "Ma sits here. It stays shady even in the sun."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା ଆଙ୍କାର ଆଉ ଏକ ପଟ ଦେଖାଏ। ଏଥର ବିଶୁ ନିଜେ ପ୍ରଶ୍ନ କରନ୍ତି।",
+            "en": "Dharama points to another part of his drawing. This time Bisu asks a question."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ କଥା ସହ ପବନ।",
+            "en": "Their voices and the breeze."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ତୁ କେଉଁଠି ବସୁ?",
+                "en": "Where do you sit?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ତା’ ପାଖରେ। ଘରଟା ପୁଣି ଦେଖାଇଦେଉଛି।",
+                "en": "Beside her. Let me show you the rest of home."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bisu-listen-again",
+      "world": "dharmapada",
+      "focus": {
+        "id": "bisu",
+        "name": {
+          "or": "ବିଶୁ ମହାରଣା",
+          "en": "Bisu Maharana"
+        },
+        "profile": "/characters/dharmapada.html#character-2"
+      },
+      "title": {
+        "or": "ଆଉ ଥରେ କହ",
+        "en": "Tell Me Again"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ବିଶୁ ପୁଅର କଥା ଶୁଣୁଥିବାବେଳେ ମନ କାମ ଆଡ଼କୁ ଚାଲିଯାଏ। ଶୁଣିଛନ୍ତି ବୋଲି ଭାବ ନଦେଇ ସେ ଆଉ ଥରେ କହିବାକୁ ମାଗନ୍ତି।",
+        "en": "While his son talks, Bisu’s attention drifts back to work. Rather than pretend he heard, he asks Dharama to tell him again."
+      },
+      "setting": {
+        "or": "ବାପା–ପୁଅଙ୍କ ଭେଟ ପରେ କୋଣାର୍କର କାମସ୍ଥଳ ପାଖର ଭୂମିସ୍ତରର ବିଶ୍ରାମ ସ୍ଥାନ। ହାତୁଡ଼ି, ପଥର କଟା ଓ ଭାର ଉଠା କାମରୁ ଅଲଗା। ମାଆ ଏଠାରେ ଉପସ୍ଥିତ ନାହାନ୍ତି। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "After the reunion, in a ground-level resting space near the Konark workplace, separate from hammering, stone cutting and lifting. Mother is not present here. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ଆଧା ଧ୍ୟାନ → ନିଜେ ଧରିପାରିବା → ଶୁଣିନଥିବା ମାନିବା → ପୁଅକୁ ପୂରା ସମୟ ଦେବା।",
+        "en": "Half listening → catching himself → admitting he missed it → giving his son his full attention."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ବିଶୁଙ୍କ ଚାହାଣି ମାତ୍ର ଦୂର କାମସ୍ଥଳକୁ ଯାଏ; ତାଙ୍କ ହାତରେ ଯନ୍ତ୍ର ନାହିଁ। କୌଣସି କାମ ବା ନିରାପତ୍ତା ଦାୟିତ୍ୱ ଅଧାରେ ଛାଡ଼ନ୍ତିନି; ଏହା ବିଶ୍ରାମ ସମୟ।",
+        "en": "Only Bisu’s gaze drifts towards the distant workplace; he holds no tool. He is on a break, not abandoning an unfinished task or safety responsibility."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଧରମା ଅଗଣାର ଏକ ଘଟଣା କହୁଛି। ବିଶୁ ମୁଣ୍ଡ ହଲାନ୍ତି, ହେଲେ ଚାହାଣି ଦୂରକୁ ଯାଇଛି।",
+            "en": "Dharama describes something from home. Bisu nods, but his gaze has wandered."
+          },
+          "sound": {
+            "or": "ଦୂରରେ ମଣିଷଙ୍କ କଥା, ପାଖରେ ପୁଅର କଣ୍ଠ।",
+            "en": "Distant voices; his son’s voice nearby."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ତା’ପରେ ମାଆ ହସିଦେଲା।",
+                "en": "Then Ma laughed."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବିଶୁ ମୁହଁ ଫେରାଇ ପଚାରନ୍ତି। ଧରମା ଟିକେ ଥାମେ।",
+            "en": "Bisu turns back and asks. Dharama pauses."
+          },
+          "sound": {
+            "or": "ଛୋଟ ନିରବତା।",
+            "en": "A brief silence."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "କାହିଁକି ହସିଲା?",
+                "en": "Why did she laugh?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଏଇ ଏବେ କହିଲି ତ।",
+                "en": "I just told you."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବିଶୁ ନିଜ ଭୁଲ୍ ବୁଝି ପୁଅ ଆଡ଼କୁ ପୂରା ବୁଲି ବସନ୍ତି।",
+            "en": "Realising his lapse, Bisu turns his whole body towards his son."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା ପରେ ଶାନ୍ତି।",
+            "en": "A cloth rustle, then quiet."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ମନଟା କାମ ଆଡ଼କୁ ଯାଇଥିଲା। ଆଉ ଥରେ କହିବୁ?",
+                "en": "My mind had gone back to work. Will you tell me again?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା ଦୁଇ ହାତରେ ଛୋଟ ବୃତ୍ତ ଦେଖାଏ। ବିଶୁ ଏଥର ତା’ ହାତ ଓ ମୁହଁକୁ ଚାହିଁ ଶୁଣନ୍ତି।",
+            "en": "Dharama makes a small circle with his hands. This time Bisu watches his hands and face as he listens."
+          },
+          "sound": {
+            "or": "ଧରମାର କଥା ଓ ବିଶୁଙ୍କ ହସ।",
+            "en": "Dharama’s words and Bisu’s laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ବଡ଼ ପିଠା ବୋଲି ଏତିକି ଟିକିଏ କରିଥିଲି!",
+                "en": "I called it a big pitha, but I’d made it this tiny!"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ଏତିକି? ତେବେ ହସିବ ତ!",
+                "en": "That tiny? No wonder she laughed!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bisu-sour-berry",
+      "world": "dharmapada",
+      "focus": {
+        "id": "bisu",
+        "name": {
+          "or": "ବିଶୁ ମହାରଣା",
+          "en": "Bisu Maharana"
+        },
+        "profile": "/characters/dharmapada.html#character-2"
+      },
+      "title": {
+        "or": "ଖଟା ନା ମିଠା?",
+        "en": "Sour or Sweet?"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ଘରର କୋଳି ଖାଇ ବିଶୁଙ୍କ ମୁହଁ ବଦଳିଯାଏ। ଧରମା ପଚାରେ ଭଲ ଲାଗିଲା କି ନାହିଁ। ଖଟା ହେଲେ ବି ବିଶୁ ଆଉ ଗୋଟିଏ ବାଛନ୍ତି।",
+        "en": "A berry from home changes Bisu’s expression. Dharama wonders whether he likes it. Even though it is sour, Bisu chooses another."
+      },
+      "setting": {
+        "or": "ବାପା–ପୁଅଙ୍କ ଭେଟ ପରେ କୋଣାର୍କର କାମସ୍ଥଳ ପାଖର ଭୂମିସ୍ତରର ବିଶ୍ରାମ ସ୍ଥାନ। ହାତୁଡ଼ି, ପଥର କଟା ଓ ଭାର ଉଠା କାମରୁ ଅଲଗା। ମାଆ ଏଠାରେ ଉପସ୍ଥିତ ନାହାନ୍ତି। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "After the reunion, in a ground-level resting space near the Konark workplace, separate from hammering, stone cutting and lifting. Mother is not present here. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ଘରର ସ୍ୱାଦର ଆଶା → ଖଟାରେ ମୁହଁ ବଦଳିବା → ନିଜ ମୁହଁ ନେଇ ହସ → ଆଉ ଗୋଟିଏ ଖାଇବାର ଇଚ୍ଛା।",
+        "en": "Anticipating a taste of home → reacting to the sourness → laughing at his own face → wanting another."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ପୂର୍ବ ପର୍ବର ସେଇ ଛୋଟ ଗାଢ଼ ରଙ୍ଗର କୋଳି, ସଫା କପଡ଼ା ଉପରେ। ନିର୍ଦ୍ଦିଷ୍ଟ ଫଳଜାତି ଦାବି ନାହିଁ। ଖାଇବା ପୂର୍ବରୁ ହାତ ସଫା; ମାଆ ଖରାପ ଫଳ ପଠାଇଥିବା ଭଳି ଭାବ ନୁହେଁ। ଖଟା ସ୍ୱାଦ ମାତ୍ର।",
+        "en": "The same small dark berries as the earlier episode, on clean cloth. No precise species claim. Hands are clean before eating. Do not imply Mother sent spoiled fruit: it is simply a sour taste."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବିଶୁ ସଫା କପଡ଼ାରୁ ଗୋଟିଏ କୋଳି ନେଇ ଖାଆନ୍ତି। ଧରମା ତାଙ୍କୁ ଦେଖୁଛି।",
+            "en": "Bisu takes a berry from the clean cloth and eats it. Dharama watches him."
+          },
+          "sound": {
+            "or": "ପତ୍ରର ହାଲୁକା ଶବ୍ଦ।",
+            "en": "Light leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ଘରର କୋଳି…",
+                "en": "Berries from home…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବିଶୁଙ୍କ ଆଖି ଟିକେ ବୁଜିହୁଏ, ଓଠ ସଙ୍କୁଚିତ ହୁଏ। ଧରମା ଭ୍ରୂ ଉଠାଏ।",
+            "en": "Bisu’s eyes narrow a little and his lips pucker. Dharama raises his eyebrows."
+          },
+          "sound": {
+            "or": "କଥା ଆଗରୁ ଏକ ବିରାମ।",
+            "en": "A pause before the question."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଭଲ ଲାଗିଲାନି?",
+                "en": "Don’t you like it?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ବିଶୁ ନିଜ ମୁହଁ ଲୁଚାନ୍ତିନି। ହସି ମୁଣ୍ଡ ହଲାନ୍ତି। ଧରମା ମଧ୍ୟ ହସେ।",
+            "en": "Bisu does not hide his expression. He nods and laughs; Dharama joins him."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ହସ।",
+            "en": "A shared laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ଭଲ ଲାଗିଲା। ଖଟା ବି ଲାଗିଲା।",
+                "en": "I like it. It’s sour too."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ତୁମ ମୁହଁ ଆଗେ କହିଦେଲା।",
+                "en": "Your face told me first."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ବିଶୁ ଆଉ ଗୋଟିଏ କୋଳି ନେଇ ଟିକେ ଦେଖନ୍ତି। ଧରମା ଆଶ୍ଚର୍ଯ୍ୟ ହୋଇ ହସେ।",
+            "en": "Bisu takes another berry and looks at it for a moment. Dharama smiles in surprise."
+          },
+          "sound": {
+            "or": "ଶାନ୍ତ କଥା ଓ ପତ୍ର।",
+            "en": "Quiet speech and leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଆଉ ଗୋଟିଏ?",
+                "en": "Another?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ହଁ। ଏଇ ସ୍ୱାଦଟା ମନେ ଥିଲା।",
+                "en": "Yes. This is the taste I remembered."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bisu-we-made-it",
+      "world": "dharmapada",
+      "focus": {
+        "id": "bisu",
+        "name": {
+          "or": "ବିଶୁ ମହାରଣା",
+          "en": "Bisu Maharana"
+        },
+        "profile": "/characters/dharmapada.html#character-2"
+      },
+      "title": {
+        "or": "ଆମେ କରିଛୁ",
+        "en": "We Made It"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ବଡ଼ କାମ ଦେଖି ଧରମା ସବୁ ବାପା କରିଛନ୍ତି ବୋଲି ଭାବେ। ବିଶୁ ତାକୁ ଅନ୍ୟ କାରିଗରଙ୍କ କାମ ଦେଖିବାର ଏକ ଆରମ୍ଭ ଦିଅନ୍ତି।",
+        "en": "Looking at the scale of the work, Dharama assumes his father made it all. Bisu helps him begin noticing other craftspeople’s contributions."
+      },
+      "setting": {
+        "or": "ବାପା–ପୁଅଙ୍କ ଭେଟ ପରେ କୋଣାର୍କର କାମସ୍ଥଳ ପାଖର ଭୂମିସ୍ତରର ବିଶ୍ରାମ ସ୍ଥାନ। ହାତୁଡ଼ି, ପଥର କଟା ଓ ଭାର ଉଠା କାମରୁ ଅଲଗା। ମାଆ ଏଠାରେ ଉପସ୍ଥିତ ନାହାନ୍ତି। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "After the reunion, in a ground-level resting space near the Konark workplace, separate from hammering, stone cutting and lifting. Mother is not present here. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ପୁଅର ପ୍ରଶଂସା ଶୁଣିବା → ନିଜ ଭାଗ ଅଲଗା କହିବା → ଅନ୍ୟ କାରିଗରଙ୍କ ହାତର କାମ ଦେଖାଇବା → ସେମାନଙ୍କୁ ଭେଟିବାର ଇଚ୍ଛା ଜଗାଇବା।",
+        "en": "Hearing his son’s admiration → naming his own part → pointing out another craftsperson’s work → inviting curiosity about the people behind it."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "କାରିଗରଙ୍କ ନିର୍ଦ୍ଦିଷ୍ଟ ସଂଖ୍ୟା, ନାମ ବା ଐତିହାସିକ ଶ୍ରମ ବିଭାଗ ଦାବି ନାହିଁ। ବିଶୁ ସମ୍ପୂର୍ଣ୍ଣ କାରୁକାମକୁ ଦେଖାନ୍ତି; ଧରମା କାମରେ ହାତ ଦିଏନି।",
+        "en": "No exact workforce count, names or documented historical division of labour is asserted. Bisu points to completed carving; Dharama does not join the work."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଧରମା ବିଶ୍ରାମ ସ୍ଥାନରୁ ଦୂର କାମକୁ ଚାହେଁ। ବିଶୁ ପାଖେ ବସିଛନ୍ତି।",
+            "en": "Dharama looks towards the distant work from the resting place. Bisu sits beside him."
+          },
+          "sound": {
+            "or": "ଦୂର ମଣିଷଙ୍କ କଥା।",
+            "en": "Distant voices."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଏତେ ସବୁ ତୁମେ କରିଛ?",
+                "en": "You made all this?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବିଶୁ ପୁଅ ଆଡ଼କୁ ମୁହଁ କରି ହାଲୁକା ମୁଣ୍ଡ ହଲାନ୍ତି।",
+            "en": "Bisu turns towards his son and gently shakes his head."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A brief pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ଆମେ କରିଛୁ। ମୋ ହାତର କାମ ତା’ର ଗୋଟିଏ ଅଂଶ।",
+                "en": "We made it. I made only a part."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେ ପାଖରେ ରଖା ସମ୍ପୂର୍ଣ୍ଣ ପତ୍ର କାରୁକାମ ଦେଖାନ୍ତି। ନିଜେ ତା’ ଧାରକୁ ଧ୍ୟାନରେ ଦେଖନ୍ତି।",
+            "en": "He points to a completed leaf carving nearby and studies its edge with interest."
+          },
+          "sound": {
+            "or": "ପବନ ଓ ନରମ କଥା।",
+            "en": "Breeze and soft speech."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ଏ ପତ୍ରଟା ଆଉ ଜଣଙ୍କର। ଧାରଟା କେତେ ସୁନ୍ଦର କରିଛନ୍ତି, ଦେଖ।",
+                "en": "Someone else made this leaf. Look how beautifully they finished the edge."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା କାରୁକାମରୁ ମୁହଁ ଫେରାଇ ବାପାଙ୍କୁ ଚାହେଁ। ବିଶୁ ହସନ୍ତି।",
+            "en": "Dharama looks from the carving back to his father. Bisu smiles."
+          },
+          "sound": {
+            "or": "କଥା ପରେ ଛୋଟ ବିରାମ।",
+            "en": "A small pause after the words."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ତାଙ୍କୁ ଭେଟିବି?",
+                "en": "Can I meet them?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବିଶୁ ମହାରଣା",
+                "en": "Bisu Maharana"
+              },
+              "text": {
+                "or": "ବିଶ୍ରାମକୁ ଆସିଲେ ଚିହ୍ନାଇଦେବି।",
+                "en": "I’ll introduce you when they come for a rest."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mother-message-from-me",
+      "world": "dharmapada",
+      "focus": {
+        "id": "mother",
+        "name": {
+          "or": "ଧରମାର ମାଆ",
+          "en": "Dharama’s mother"
+        },
+        "profile": "/characters/dharmapada.html#character-3"
+      },
+      "title": {
+        "or": "ମୋ କଥାଟିଏ",
+        "en": "A Message from Me"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ପୁଅକୁ ବାପାଙ୍କ ପାଇଁ ଛୋଟ ନିର୍ଦ୍ଦେଶ ଦେଇସାରି ମାଆ ଥାମନ୍ତି। ତାଙ୍କ ନିଜର ଆଉ ଗୋଟିଏ କଥା ଅଛି। ସେ ତାହା ନିଜ ଶବ୍ଦରେ କହନ୍ତି।",
+        "en": "After giving her son a practical message for his father, Mother pauses. She has something of her own to add, and says it in her own words."
+      },
+      "setting": {
+        "or": "ଯାତ୍ରା ପୂର୍ବରୁ ଘର ଅଗଣା ଓ ବାରଣ୍ଡା। ମାଆ ଓ ପୁଅଙ୍କ କଥା। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "The home courtyard and veranda before the journey. A conversation between mother and son. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ଅଭ୍ୟାସର ଯତ୍ନ → ନିଜ କଥା କହିବାର ସଙ୍କୋଚ → ସିଧା ସ୍ନେହ ପ୍ରକାଶ → ପୁଅ ସହ ଛୋଟ ହସ।",
+        "en": "Practical care → hesitating over her own message → expressing affection plainly → a small smile with her son."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ମାଆ ଡାହାଣରେ ବାରଣ୍ଡାର ନିମ୍ନ ଧାରରେ ବସିଛନ୍ତି; ଧରମା ବାମରେ ଠିଆ। ଗୋଟିଏ ବନ୍ଧା କୋଳି ପୁଟୁଳି ସବୁ ଦୃଶ୍ୟରେ ତା’ ଦୁଇ ହାତରେ। ମାଆଙ୍କ ପାଖେ ଗୋଟିଏ ଛୋଟ ଖାଲି ଝୁଡ଼ି। କଥାବେଳେ କେହି ଚାଲିଯାଆନ୍ତିନି, ବାପା ଦୃଶ୍ୟରେ ଆସନ୍ତିନି।",
+        "en": "Mother sits at right on a low veranda edge; Dharama stands at left. One tied berry bundle remains in both of his hands throughout. One small empty basket rests beside Mother. Nobody leaves during the exchange; Father is not shown."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଆ ବାରଣ୍ଡାରେ ବସିଛନ୍ତି। ଧରମା ଦୁଇ ହାତରେ ପୁଟୁଳି ଧରି ତାଙ୍କୁ ପଚାରେ।",
+            "en": "Mother sits on the veranda. Holding the bundle in both hands, Dharama asks her a question."
+          },
+          "sound": {
+            "or": "ଅଗଣାର ହାଲୁକା ପତ୍ର ଶବ୍ଦ।",
+            "en": "Light leaves in the courtyard."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ମାଆ, ବାପାଙ୍କୁ ଆଉ କ’ଣ କହିବି?",
+                "en": "Ma, what else shall I tell Bapa?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଆ ଛୋଟ ହାତ ଭଙ୍ଗୀରେ ମନେପକାନ୍ତି। ତା’ପରେ ହାତ କୋଳରେ ରଖି ଥାମନ୍ତି।",
+            "en": "Mother makes a small reminding gesture, then rests her hand in her lap and pauses."
+          },
+          "sound": {
+            "or": "କଥା ପରେ ଶାନ୍ତି।",
+            "en": "Quiet after the words."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ଠିକ୍ ବେଳେ ଖାଇବେ ବୋଲି କହିବୁ। ଆଉ…",
+                "en": "Tell him to eat on time. And…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା ଟିକେ ଆଗକୁ ଝୁଙ୍କେ। ମାଆ ତାକୁ ଚାହିଁ ଧୀରେ ନିଜ କଥା କହନ୍ତି।",
+            "en": "Dharama leans forward a little. Mother looks at him and quietly adds her own message."
+          },
+          "sound": {
+            "or": "ପତ୍ର ଶବ୍ଦ ତଳେ ନରମ କଣ୍ଠ।",
+            "en": "A soft voice beneath the leaves."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଆଉ କ’ଣ?",
+                "en": "And what?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ତାଙ୍କୁ ଭାରି ମନେପଡ଼ୁଛି। ସେଇଟା ବି କହିବୁ।",
+                "en": "I miss him very much. Tell him that too."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା ମୁଣ୍ଡ ହଲାଏ। ମାଆଙ୍କ ମୁହଁର ସଙ୍କୋଚ କମେ; ଦୁହେଁ ଟିକେ ହସନ୍ତି।",
+            "en": "Dharama nods. Mother’s hesitation eases, and they share a small smile."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ ଓ ଶାନ୍ତ ଅଗଣା।",
+            "en": "A small pause and the quiet courtyard."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଏଇଆ କହିବି?",
+                "en": "Shall I say it just like that?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ହଁ। ଯେମିତି କହିଲି।",
+                "en": "Yes. Just as I said it."
+              }
+            }
+          ]
+        }
+      ],
+      "storyboard": {
+        "sheet": "/characters/films/mother-message-from-me/colour-storyboard-v2.png",
+        "page": "/characters/films/mother-message-from-me/index.html",
+        "archive": "dharama-films",
+        "file": "colour-storyboard-v2.png",
+        "draftFiles": [
+          "colour-storyboard-v1.png"
+        ],
+        "medium": {
+          "or": "ରଙ୍ଗୀନ ଦୃଶ୍ୟଖସଡ଼ା · ମାଆଙ୍କ ନିଜ କଥା",
+          "en": "Colour storyboard · Mother’s own words"
+        },
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ଦୃଶ୍ୟରେ ୫୬ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। ନିର୍ଦ୍ଦେଶ ଦେବାରୁ ନିଜ ମନକଥା କହିବା ପର୍ଯ୍ୟନ୍ତ ମାଆଙ୍କ ଛୋଟ ବିରାମ ଓ ହସକୁ ସମୟ ଦିଆଯାଇଛି। କଣ୍ଠ, ଚଳନ ଓ ସମ୍ପୂର୍ଣ୍ଣ ଚଳଚ୍ଚିତ୍ର ବାକି।",
+          "en": "A 56-second pacing study in four still frames. Time is left for Mother’s pause and smile as she moves from instructions to her own feelings. Voices, movement and the completed film remain ahead."
+        },
+        "development": {
+          "or": "ପୂର୍ବ ପଢ଼ିବା ପର୍ବର କୋଳି ପୁଟୁଳି ରହିଛି, କିନ୍ତୁ ଏହି ମୁହୂର୍ତ୍ତର ଧ୍ୟାନ ମାଆଙ୍କ ନିଜ କଥାରେ। ଘର ବାରଣ୍ଡାରେ ମାଆ ଓ ପୁଅ ମାତ୍ର; ବାପା କୋଣାର୍କରେ ଅଛନ୍ତି। ମାଆଙ୍କ ସରୁ ଧାରର ଶାଢ଼ୀ ଓ ଧରମାର ନୀଳ କପଡ଼ା ଦୁହିଁଙ୍କ ବାମ କାନ୍ଧରେ ରହେ। ଗୋଟିଏ ବନ୍ଧା ପୁଟୁଳି ଓ ଗୋଟିଏ ଝୁଡ଼ିର ସ୍ଥାନ ମେଳାଯାଇଛି। ପ୍ରଥମ ଚିତ୍ରରେ ଧରମାର ଚାହାଣି ମାଆଙ୍କ ମୁହଁ ଉପରକୁ ଯାଉଥିଲା; ଦ୍ୱିତୀୟ ଚିତ୍ରରେ ଆଖି ଓ ମୁଣ୍ଡର ଭଙ୍ଗୀ ସଜଡ଼ାଗଲା। ଦୁଇ ଚିତ୍ର ଓ ନିର୍ଦ୍ଦେଶ ZIPରେ ଅଛି। ଚଳନ ତିଆରିବେଳେ ହାତ, କାନି ଓ ବସିବାର କୁଞ୍ଚ ପୁଣି ଯାଞ୍ଚ ହେବ।",
+          "en": "The berry bundle continues from the earlier reading episode, while attention turns to Mother’s own message. Only mother and son are at the home veranda; Father is at Konark. Her narrow-bordered sari and Dharama’s blue cloth stay on their anatomical left shoulders. One tied bundle and one basket are tracked across the frames. The first drawing had Dharama looking above his mother’s face; the second adjusts his eyes and chin for natural eye contact. Both versions and their briefs are in the ZIP. Hands, sari end and seated folds need another check during animation."
+        }
+      }
+    },
+    {
+      "id": "mother-knot-he-can-open",
+      "world": "dharmapada",
+      "focus": {
+        "id": "mother",
+        "name": {
+          "or": "ଧରମାର ମାଆ",
+          "en": "Dharama’s mother"
+        },
+        "profile": "/characters/dharmapada.html#character-3"
+      },
+      "title": {
+        "or": "ତୁ ଖୋଲିପାରିବୁ ତ?",
+        "en": "Can You Open It?"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ମାଆ ପୁଟୁଳି ଭଲକରି ବାନ୍ଧିଦିଅନ୍ତି। କିନ୍ତୁ ପୁଅ ଖୋଲିବାକୁ ଗଲେ ଅସୁବିଧା ହୁଏ। ସେ ନିଜ ଗଣ୍ଠି ଖୋଲି ତା’ ହାତରେ ଦେଇ ଦେଖନ୍ତି।",
+        "en": "Mother ties the bundle firmly, but her son struggles to open it. She undoes her knot and lets him try with his own hands."
+      },
+      "setting": {
+        "or": "ଯାତ୍ରା ପୂର୍ବରୁ ଘର ଅଗଣା ଓ ବାରଣ୍ଡା। ମାଆ ଓ ପୁଅଙ୍କ କଥା। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "The home courtyard and veranda before the journey. A conversation between mother and son. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ନିଜେ ସବୁ ସଜାଡ଼ିଦେବା → ପୁଅର ଅସୁବିଧା ଦେଖିବା → ନିଜ କାମ ବଦଳାଇବା → ସେ ପାରିବା ଯାଏଁ ଅପେକ୍ଷା।",
+        "en": "Arranging everything herself → noticing his difficulty → changing her own work → waiting for him to manage it."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ଏହା ଛୋଟ କୋଳି ପୁଟୁଳିର ସାଧା ବନ୍ଧନ, ଦଉଡ଼ି ବା ଭାର ଧରିବା ଗଣ୍ଠିର ପାଠ ନୁହେଁ। ଫଳ କୋଳ ବା ନିମ୍ନ ପଟା ଉପରେ ରହେ; ଛିଟିକି ପଡ଼େନି। ନୂଆ ପୁଟୁଳି ଆସେନି।",
+        "en": "This is the simple closure of a small berry bundle, not a rope or load-bearing knot lesson. Fruit stays supported on a lap or low board and does not spill. No second bundle appears."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଆ ଛୋଟ କପଡ଼ାରେ କୋଳି ବାନ୍ଧି ଗଣ୍ଠି ଟିକେ ଟାଣନ୍ତି। ଧରମା ହାତ ବଢ଼ାଏ।",
+            "en": "Mother ties berries in the small cloth and tightens the knot a little. Dharama reaches for it."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ନରମ ଟାଣ।",
+            "en": "A soft pull of cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ଖୋଲିଯିବନି।",
+                "en": "It won’t come undone."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ପୁଟୁଳି ପଟାରେ ରଖି ଧରମା ଗଣ୍ଠି ଖୋଲିବାକୁ ଚେଷ୍ଟା କରେ। ମାଆ ତା’ ହାତକୁ ଦେଖନ୍ତି।",
+            "en": "Resting the bundle on a board, Dharama tries to untie it. Mother watches his hands."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା ପରେ ବିରାମ।",
+            "en": "Cloth rustling, then a pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ମୋ ହାତରେ ବି ଖୋଲୁନି।",
+                "en": "It won’t come undone for me either."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଆ ହସି ନିଜ ଗଣ୍ଠି ଖୋଲନ୍ତି। କପଡ଼ାର ଦୁଇ ମୁଣ୍ଡ ଧରମାକୁ ଦିଅନ୍ତି।",
+            "en": "Mother smiles and unties her knot. She gives the cloth ends to Dharama."
+          },
+          "sound": {
+            "or": "ଛୋଟ ହସ।",
+            "en": "A small laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ବେଶି ଟାଣିଦେଇଛି। ତୁ ଥରେ ବାନ୍ଧ।",
+                "en": "I pulled it too tight. You try tying it."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଧରମା ବାନ୍ଧି ପୁଣି ଖୋଲେ। ମାଆ ହାତ ବଢ଼ାଇ ନେଇନଯାଇ ଅପେକ୍ଷା କରନ୍ତି।",
+            "en": "Dharama ties it, then opens it again. Mother waits without taking over."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଓ ଶେଷରେ ନରମ ହସ।",
+            "en": "Cloth and a soft laugh at the end."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ଏବେ ପାରୁଛି।",
+                "en": "I can do it now."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ତାହେଲେ ହେଲା।",
+                "en": "Then that will do."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mother-one-for-me",
+      "world": "dharmapada",
+      "focus": {
+        "id": "mother",
+        "name": {
+          "or": "ଧରମାର ମାଆ",
+          "en": "Dharama’s mother"
+        },
+        "profile": "/characters/dharmapada.html#character-3"
+      },
+      "title": {
+        "or": "ଏଇଟା ମୋର",
+        "en": "This One Is Mine"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ସବୁ କୋଳି ପୁଟୁଳିକୁ ଯିବ ବୋଲି ଧରମା ଭାବେ। ମାଆ ନିଜ ପାଇଁ ଗୋଟିଏ ରଖି ହସନ୍ତି। ଘରର ଫଳରେ ତାଙ୍କ ନିଜ ପସନ୍ଦ ବି ଅଛି।",
+        "en": "Dharama thinks every berry is going into the bundle. Mother keeps one for herself with a smile. She has her own favourite taste from the tree."
+      },
+      "setting": {
+        "or": "ଯାତ୍ରା ପୂର୍ବରୁ ଘର ଅଗଣା ଓ ବାରଣ୍ଡା। ମାଆ ଓ ପୁଅଙ୍କ କଥା। ଧରମା ଓ ବିଶୁ ମହାରଣା କୋଣାର୍କ ସହ ଜଡ଼ିତ ଲୋକକଥାର ଚରିତ୍ର। ଘରର ଫଳ ଓ ବାପା–ପୁଅଙ୍କ ଭେଟର ସୂତ୍ର ପୂର୍ବ ପଢ଼ିବା ପର୍ବରେ ରହିଛି। ଏହି ଛୋଟ ପର୍ବର ଘଟଣା ଓ ସଂଳାପ ନୂଆ କଳ୍ପନା; ପ୍ରମାଣିତ ଜୀବନୀ ବା ପୂରା କିମ୍ବଦନ୍ତୀର ପୁନଃକଥନ ନୁହେଁ। ଏହି ଚିତ୍ରରେ ଧରମା ବାର ବର୍ଷର ପିଲା। ମାଆଙ୍କ ପାଇଁ ବ୍ୟକ୍ତିଗତ ନାମ ଗଢ଼ାଯାଇନାହିଁ।",
+        "en": "The home courtyard and veranda before the journey. A conversation between mother and son. Dharama and Bisu Maharana belong to the folk legend associated with Konark. The fruit-from-home and father–son reunion motifs appear in the earlier reading episode. This short episode’s events and dialogue are newly imagined, not a verified biography or a retelling of the entire legend. Dharama is portrayed here as twelve. No personal name is invented for his mother."
+      },
+      "performance": {
+        "or": "ସମସ୍ତଙ୍କ ପାଇଁ ବାଛିବା → ନିଜ ପସନ୍ଦ ରଖିବା → ପୁଅର ଆଶ୍ଚର୍ଯ୍ୟରେ ହସ → ଦୁହେଁ ଏକାଠି ଖାଇବା।",
+        "en": "Choosing for everyone → keeping her own favourite → smiling at her son’s surprise → sharing a taste together."
+      },
+      "wardrobe": {
+        "or": "ପୂର୍ବ ଚିତ୍ର ସହ ମେଳ: ଧରମାର ଛୋଟ ଅସଜଡ଼ା କେଶ, ବାମ କାନ୍ଧ ଦେଇ ଛାତିରେ ନୀଳ କପଡ଼ା ଓ ଚାଲିବା ପାଇଁ ଖୋସା କ୍ରିମ୍ ତଳ ବସ୍ତ୍ର। ବିଶୁଙ୍କ କଳା ଢେଉଖେଳା କେଶ, ନିଶ, ବାମ କାନ୍ଧରେ ମାଟିଆ ଲାଲ କପଡ଼ା ଓ ସରୁ ଧାରର କ୍ରିମ୍ କାମ ଧୋତି। ମାଆଙ୍କ ସାଧା ହଳଦିଆ ଶାଢ଼ୀରେ ସରୁ ମାଟିଆ ଲାଲ ଧାର, ସେଇ ରଙ୍ଗର ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ବାମ କାନ୍ଧରେ କାନି, ତଳ ଖୋସା, ଅଳ୍ପ ଚୁଡ଼ି ଓ ଛୋଟ ବିନ୍ଦି। ସମସ୍ତେ ଖାଲି ପାଦରେ। ବସିବା ଓ ହାତ ବଢ଼ାଇବାବେଳେ କପଡ଼ାର ଖୋସା ଓ କାନ୍ଧର ପଟ ମେଳିବ। ଏହା ପ୍ରକଳ୍ପର ଚିତ୍ରକଳ୍ପ; ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Continue the earlier drawings: Dharama’s short unruly hair, plain blue upper cloth crossing the chest over his anatomical left shoulder, and cream lower wrap secured for walking. Bisu has dark wavy hair, a moustache, rust cloth over the anatomical left shoulder and a cream working dhoti with a narrow edge. Mother wears a plain ochre-yellow sari with narrow rust borders, a rust short-sleeved blouse, sari end over her anatomical left shoulder, low bun, modest bangles and a small bindi. All are barefoot. Keep waist tucks and shoulder sides consistent as they sit and reach. These are project interpretations, not authenticated thirteenth-century costumes."
+      },
+      "continuity": {
+        "or": "ଘରେ ଯାତ୍ରା ପୂର୍ବର ଦୃଶ୍ୟ। କୋଳି ଆଗରୁ ସଫା; ହାତ ସଫା। ମାଆ ପାଇଁ ରଖା ଫଳ ଓ ବାପାଙ୍କ ପାଇଁ ପୁଟୁଳି ଅଲଗା। ଖାଇସାରିଥିବା ଫଳ ପୁଟୁଳିକୁ ଫେରେନି।",
+        "en": "At home before departure. The berries and hands are already clean. Fruit kept for Mother is separate from Father’s bundle. Nothing eaten from goes back into the bundle."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "preview": "/characters/dharmapada/assets/colour-cast-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଆ ଝୁଡ଼ିରୁ କୋଳି ନେଇ କପଡ଼ା ଉପରେ ରଖନ୍ତି। ଗୋଟିଏ କୋଳି ନିଜ ପାଖେ ରଖିଦିଅନ୍ତି।",
+            "en": "Mother transfers berries from the basket onto the cloth, setting one beside herself."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଓ ଝୁଡ଼ିର ହାଲୁକା ଶବ୍ଦ।",
+            "en": "Light cloth and basket sounds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ସେଇଟା ରହିଗଲା।",
+                "en": "You left that one out."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଆ ସେ କୋଳିକୁ ଚାହିଁ ହସନ୍ତି। ଧରମା ଏହାକୁ ପୁଟୁଳିରେ ରଖିବାକୁ ହାତ ବଢ଼ାଇ ଥାମେ।",
+            "en": "Mother looks at the berry and smiles. Dharama starts to reach for it, then stops."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A brief pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ରହିଲାନି। ରଖିଛି। ଏଇଟା ମୋର।",
+                "en": "I didn’t forget it. I kept it. This one is mine."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସେ କୋଳି ଉଠାଇ ଧରମାକୁ ଦେଖାନ୍ତି। ପୁଅର ମୁହଁରେ ହସ ଆସେ।",
+            "en": "She lifts the berry to show Dharama. A smile comes to his face."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ହସ।",
+            "en": "Their laughter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ତୁମ ପାଇଁ ବି ବାଛୁଛ?",
+                "en": "You’re choosing one for yourself too?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ମୁଁ ବି ଖାଇବି ତ!",
+                "en": "I want one too!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ମାଆ ନିଜ କୋଳି ଖାଆନ୍ତି। ଧରମା ଝୁଡ଼ିରୁ ନିଜ ପାଇଁ ଗୋଟିଏ ନିଏ। ବାପାଙ୍କ ପୁଟୁଳି ପାଖେ ରହେ।",
+            "en": "Mother eats her berry. Dharama takes one from the basket for himself. Father’s bundle stays beside them."
+          },
+          "sound": {
+            "or": "ଶାନ୍ତ ଅଗଣା ଓ ଅଳ୍ପ କଥା।",
+            "en": "A quiet courtyard and a few words."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଆ",
+                "en": "Mother"
+              },
+              "text": {
+                "or": "ତୋ ପାଇଁ ବାଛ। ସବୁଠାରୁ ବଡ଼ଟା ବାଛିବୁ ବୋଲି ଜାଣିଛି।",
+                "en": "Choose yours. I know you’ll choose the biggest."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ଧରମା",
+                "en": "Dharama"
+              },
+              "text": {
+                "or": "ତୁମେ ଆଗରୁ ଜାଣିଛ!",
+                "en": "You knew already!"
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
   "updated": "2026-10-18"
