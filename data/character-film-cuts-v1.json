@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "cuts": [{
+    "id": "chiku-around-the-stone-first-cut-v1",
+    "script": "chiku-round-the-stone",
+    "world": "koraput",
+    "archive": "chiku-film-v1",
+    "duration": 50,
+    "page": "/characters/films/chiku-round-the-stone/first-cut-v1.html",
+    "title": {"or": "ପଥରର ଅନ୍ୟ ପଟେ · ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା", "en": "Around the Stone · Animated first cut"},
+    "intro": {"or": "ଚିକୁର ମଞ୍ଜିଟି ପଥର ପଛକୁ ଗଡ଼ିଯାଏ। ଆଗ ପାଦ ବଢ଼ାଇ ନ ପାଇବାରୁ ସେ ପଥର ପାଖ ଦେଇ ଘୂରିଆସେ। ଦୂରରେ କୁସୁମ ଓ ମନ୍ଦାର ନିଜ ଥଳି ଭାଙ୍ଗୁଛନ୍ତି।", "en": "Chiku’s seed rolls behind a stone. When a reaching paw cannot find it, the squirrel goes around. In the distance, Kusum and Mandar fold their bag."},
+    "boundary": {"or": "୫୦ ସେକେଣ୍ଡର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା। ଚଳନ ଓ ଧ୍ୱନି ଅଛି; ସଂଳାପ ନାହିଁ। ପାଦର ଗତି, ମଞ୍ଜି ଉଠାଇବା ଓ କାମୁଡ଼ିବାର ଭଙ୍ଗୀ ଆହୁରି ସୁଧାରିବାକୁ ଅଛି।", "en": "A 50-second animated first cut with sound and no dialogue. Paw timing, the pickup transition and nibbling performance still need refinement."},
+    "description": {"or": "ଚିକୁ ମଞ୍ଜି କାମୁଡ଼େ, ମଞ୍ଜି ଖସିଯାଏ, ସେ ପାଦ ବଢ଼ାଏ ଓ ପଥର ପଛ ପଟ ଦେଇ ଘୂରେ। ପର ଦୃଶ୍ୟରେ ପଥର ଉପରେ ବସି ପୁଣି ଖାଏ। ପିଲାମାନେ ତାକୁ ଖାଦ୍ୟ ଦିଅନ୍ତି ନାହିଁ।", "en": "Chiku nibbles, loses the seed, reaches and walks around the back of the stone. A cut shows the squirrel seated on the stone, eating again. The children do not feed it."},
+    "development": {"or": "ଚରିତ୍ର ଅଧ୍ୟୟନରୁ ଚାରି ଦୃଶ୍ୟର ରଙ୍ଗୀନ ଖସଡ଼ା, ତା’ପରେ ପଛ ଦୃଶ୍ୟ ଓ ଅଲଗା ଭଙ୍ଗୀର ଚିତ୍ର। ଆଠଟି ଗୁଣ୍ଡୁଚିମୂଷା ଭଙ୍ଗୀ ଓ ଦୁଇଟି ପିଲାଙ୍କ ଭଙ୍ଗୀକୁ ସମୟ ଅନୁସାରେ ଯୋଡ଼ାଗଲା। ଧ୍ୱନି ଏହି ଖସଡ଼ା ପାଇଁ ତିଆରି; ବାହାରେ ରେକର୍ଡ ହୋଇନାହିଁ।", "en": "Character studies led to a four-frame colour storyboard, then a background and separate pose drawings. Eight squirrel poses and two poses of the children form a limited-animation sequence. The sound was synthesized for this cut, not recorded outdoors."},
+    "clothing": {"or": "କୁସୁମର ଦୁଇ ବେଣୀ, ସାଧା ସୂତା ଟପ୍ ଓ ସ୍କର୍ଟ; ମନ୍ଦାରର ସାର୍ଟ, ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ବାମ କାନ୍ଧର କପଡ଼ା। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ଦୈନିକ ପୋଷାକ। ସମଗ୍ର କୋରାପୁଟର ଏକମାତ୍ର ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।", "en": "Kusum keeps two plaits, a simple cotton top and skirt; Mandar keeps his shirt, shorts and cloth over the left shoulder. These are the fictional children’s everyday clothes, not a claim that all of Koraput dresses alike."},
+    "remaining": {"or": "ପରବର୍ତ୍ତୀ ସଂଶୋଧନରେ ଭଙ୍ଗୀ ମଝିର ଚଳନ, ପାଦର ମାଟି ସହ ମେଳ ଓ ମଞ୍ଜି ଉଠାଇ ବସିବାର ପରିବର୍ତ୍ତନ ଆହୁରି ସ୍ପଷ୍ଟ ହେବ।", "en": "The next pass will refine movement between poses, paw contact with the ground and the transition from retrieving the seed to sitting with it."},
+    "video": "around-the-stone-first-cut-v1.mp4",
+    "poster": "proof/frame-0.00.png",
+    "storyboard": "colour-storyboard-v1.png",
+    "captions": {"or": "captions-or-v1.vtt", "en": "captions-en-v1.vtt"},
+    "packFiles": ["READ-ME.txt", "colour-storyboard-v1.png", "storyboard-prompt-v1.txt", "background-v1.png", "background-prompt-v1.txt", "poses-v1.png", "poses-v2.png", "poses-prompt-v1.txt", "poses-prompt-v2.txt", "props-children-v1.png", "props-children-prompt-v1.txt", "render-film-v1.mjs", "create-sound-v1.py", "sound-v1.wav", "sound-review-v1.json", "captions-or-v1.vtt", "captions-en-v1.vtt", "around-the-stone-first-cut-v1.mp4", "baloo-bhaina-2.ttf", "OFL-Baloo-Bhaina-2.txt"]
+  }]
+}

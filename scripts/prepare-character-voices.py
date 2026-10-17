@@ -66,5 +66,6 @@ if (ARCHIVE/'koeli/colour-study-v1.png').exists():
         path.write_text(str(s).rstrip()+'\n')
 voice_globals=runpy.run_path(str(ROOT/'scripts/character-voices-pages.py'),init_globals=globals())
 runpy.run_path(str(ROOT/'scripts/character-motion-pages.py'),init_globals=voice_globals)
+runpy.run_path(str(ROOT/'scripts/character-film-cut-pages.py'),init_globals=voice_globals)
 runpy.run_path(str(ROOT/'scripts/apply-character-credit.py'),run_name='__main__')
 print('Prepared available heritage voices.')
