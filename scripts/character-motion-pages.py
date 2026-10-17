@@ -22,18 +22,22 @@ for study in motion_data['studies']:
     for lang,label in [('or','ଓଡ଼ିଆ'),('en','English')]:
         body+='<track kind="captions" srclang="'+lang+'" label="'+label+'" src="'+folder+study['captions'][lang]+'"'+(' default' if lang=='or' else '')+'>'
     body+=link(video,'ଭିଡିଓ ଖୋଲନ୍ତୁ','Open the video')+'</video>'+bi(study['description'],'p','id="motion-description"')
-    body+=bi(pair('ନିଜେ ଚଳାନ୍ତୁ। ଛୋଟ ଟପ୍ ଶବ୍ଦ ଅଛି; ସଂଳାପ ନାହିଁ। CCରେ ଦୁଇ ଭାଷାର ଶବ୍ଦ ବର୍ଣ୍ଣନା ଅଛି।','Press play to watch. There are quiet tapping sounds and no dialogue. CC offers sound descriptions in both languages.'),'p','class="caption"')
+    body+=bi(study.get('playerNote',pair('ନିଜେ ଚଳାନ୍ତୁ। ଛୋଟ ଟପ୍ ଶବ୍ଦ ଅଛି; ସଂଳାପ ନାହିଁ। CCରେ ଦୁଇ ଭାଷାର ଶବ୍ଦ ବର୍ଣ୍ଣନା ଅଛି।','Press play to watch. There are quiet tapping sounds and no dialogue. CC offers sound descriptions in both languages.')),'p','class="caption"')
     body+='<p>'+link(video,'ଭିଡିଓ ଡାଉନଲୋଡ୍ · MP4','Download the video · MP4','button secondary')+' '+link(pack,'ଚିତ୍ର, ଧ୍ୱନି ଓ ଚଳନ ଫାଇଲ୍ · ZIP','Artwork, sound and motion files · ZIP','button secondary')+'</p></section>'
     body+='<section>'+bi(pair('ଚିତ୍ରରୁ ଚଳନ','From drawings to movement'),'h2')+bi(study['development'])+'<p>'+link('/characters/films/'+study['script']+'/index.html','ପୂର୍ବ ଚାରି ଦୃଶ୍ୟର ଖସଡ଼ା','Earlier four-frame storyboard')+' · '+link('/characters/scripts/'+study['script']+'.html','ପୂରା ଦ୍ୱିଭାଷୀ ପାଠ୍ୟ','Full bilingual script')+'</p></section>'
+    if study.get('wardrobe'):
+        body+='<section>'+bi(pair('ପୋଷାକ ଓ ଦୈନନ୍ଦିନ ଜୀବନ','Clothes and daily life'),'h2')+bi(study['wardrobe'])+'<p>'+link(study['wardrobeLink'],'ପୋଷାକର ଅଞ୍ଚଳୀୟ ସୂତ୍ର','Regional clothing references')+' · '+link(study['profile'],'ଚରିତ୍ର ଅଧ୍ୟୟନ','Character study')+'</p></section>'
     body+='<section>'+bi(pair('ପରବର୍ତ୍ତୀ କାମ','Next work'),'h2')+bi(study['remaining'])+bi(REVIEW)+'</section><script defer src="/characters/assets/motion-player.js"></script>'
     body+=journey
     shell(study['page'].removeprefix('/characters/').removesuffix('.html'),study['title'],body,poster)
 
     # Keep the new rendered artifact reachable through every existing path.
     targets=['index.html','design-path.html','complete-report.html','story-lab.html',study['world']+'.html','scripts/'+study['script']+'.html','films/'+study['script']+'/index.html']
+    if study.get('wardrobeLink'):targets.append('regional-dress.html')
     for filename in targets:
         page=OUT/filename;s=BeautifulSoup(page.read_text(),'html.parser')
         for old in s.select('#'+study['id']):old.decompose()
-        feature='<section class="report-section voices-addition motion-milestone" id="'+study['id']+'">'+bi(pair('ପ୍ରଥମ ଚଳନର ନମୁନା','First motion study'),'h2')
-        feature+=bi(study['intro'])+bi(study['boundary'])+'<p>'+link(study['page'],'କୋଇଲିର ଚଳନ ଦେଖନ୍ତୁ · ୮ ସେକେଣ୍ଡ →','Watch Koeli move · 8 seconds →','button')+'</p></section>'
+        feature='<section class="report-section voices-addition motion-milestone" id="'+study['id']+'">'+bi(study.get('featureTitle',pair('ପ୍ରଥମ ଚଳନର ନମୁନା','First motion study')),'h2')
+        watch=study.get('watchLabel',pair('କୋଇଲିର ଚଳନ ଦେଖନ୍ତୁ · ୮ ସେକେଣ୍ଡ →','Watch Koeli move · 8 seconds →'))
+        feature+=bi(study['intro'])+bi(study['boundary'])+'<p>'+link(study['page'],watch['or'],watch['en'],'button')+'</p></section>'
         s.main.append(BeautifulSoup(feature,'html.parser'));page.write_text(str(s).rstrip()+'\n')
