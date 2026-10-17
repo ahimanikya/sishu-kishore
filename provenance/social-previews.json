@@ -7320,6 +7320,12 @@
     "source": "/characters/dharmapada/assets/colour-cast-v1.png"
   },
   {
+    "page": "/characters/films/benu-my-story-first/index.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/films/benu-my-story-first/",
+    "image": "/social/18ef86460a46f7be.jpg",
+    "source": "/characters/films/benu-my-story-first/pencil-storyboard-v1.png"
+  },
+  {
     "page": "/characters/films/nilu-hold-this-end/index.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/films/nilu-hold-this-end/",
     "image": "/social/accd505e64b95e79.jpg",
@@ -7366,6 +7372,24 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/regional-dress.html",
     "image": "/social/0beb9690ffdb0428.jpg",
     "source": "/characters/assets/koraput-natural-v2.png"
+  },
+  {
+    "page": "/characters/scripts/benu-eight-and-twelve.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/benu-eight-and-twelve.html",
+    "image": "/social/512d40d53a761180.jpg",
+    "source": "/characters/travelling-duo/model-sheets/benu-model-v2.png"
+  },
+  {
+    "page": "/characters/scripts/benu-my-story-first.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/benu-my-story-first.html",
+    "image": "/social/512d40d53a761180.jpg",
+    "source": "/characters/travelling-duo/model-sheets/benu-model-v2.png"
+  },
+  {
+    "page": "/characters/scripts/benu-which-left.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/benu-which-left.html",
+    "image": "/social/512d40d53a761180.jpg",
+    "source": "/characters/travelling-duo/model-sheets/benu-model-v2.png"
   },
   {
     "page": "/characters/scripts/bird-empty-step.html",
@@ -7456,6 +7480,24 @@
     "url": "https://sishu.kabitawithoutborders.org/characters/scripts/kusum-one-empty-space.html",
     "image": "/social/b7b0195fda3cfe42.jpg",
     "source": "/characters/assets/koraput-character-1.webp"
+  },
+  {
+    "page": "/characters/scripts/madhab-dry-books.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/madhab-dry-books.html",
+    "image": "/social/b04e1ab5ee125ea5.jpg",
+    "source": "/characters/travelling-duo/model-sheets/madhab-model-v1.png"
+  },
+  {
+    "page": "/characters/scripts/madhab-longer-way.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/madhab-longer-way.html",
+    "image": "/social/b04e1ab5ee125ea5.jpg",
+    "source": "/characters/travelling-duo/model-sheets/madhab-model-v1.png"
+  },
+  {
+    "page": "/characters/scripts/madhab-quiet-knock.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/madhab-quiet-knock.html",
+    "image": "/social/b04e1ab5ee125ea5.jpg",
+    "source": "/characters/travelling-duo/model-sheets/madhab-model-v1.png"
   },
   {
     "page": "/characters/scripts/mandar-long-shadow.html",

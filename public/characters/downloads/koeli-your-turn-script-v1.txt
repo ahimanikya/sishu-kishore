@@ -1,12 +1,15 @@
+ପରିକଳ୍ପନା ଓ ସୃଜନ ନିର୍ଦ୍ଦେଶନା: Ahimanikya Satapathy
 Concept and creative direction: Ahimanikya Satapathy
 ଏଥର ତୁମ ଗପ / Your Story This Time
+ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା। ସମୟ ଏକ ଲକ୍ଷ୍ୟ; କଣ୍ଠ ରେକର୍ଡ ହୋଇନାହିଁ।
 First film-script draft. Timing is a target, not a recorded performance.
+ସ୍ୱାଧୀନ ଦକ୍ଷ ଓଡ଼ିଆ ଯାଞ୍ଚ ବାକି।
 Independent fluent Odia review pending.
 
 ଦୃଶ୍ୟ 1 · 0–12 ସେକେଣ୍ଡ / Scene 1 · 0–12 seconds
 ଡାଳରେ କୋଇଲି। ଚିତ୍ର ବାହାରୁ ଜଣେ ପିଲା ନିଜ ଗପ କହିବାକୁ ଆଗ୍ରହ କରେ।
 Koeli is on its branch. A child outside the frame wants to tell a story.
-Sound: ଅଗଣାର ସାଧାରଣ ହାଲୁକା ଶବ୍ଦ। / Quiet courtyard sounds.
+ଧ୍ୱନି / Sound: ଅଗଣାର ସାଧାରଣ ହାଲୁକା ଶବ୍ଦ। / Quiet courtyard sounds.
 ପିଲା: ଆଜି ମୁଁ କହିବି?
 Child: Can I tell one today?
 କୋଇଲି: କହ। ବାଘର ଗପ?
@@ -15,7 +18,7 @@ Koeli: Go on. A tiger story?
 ଦୃଶ୍ୟ 2 · 12–24 ସେକେଣ୍ଡ / Scene 2 · 12–24 seconds
 କୋଇଲି ଆଗକୁ ଢଳି ନିଜେ ଅନୁମାନ କରେ। ପିଲା ଆରମ୍ଭ କରିବାକୁ ଯାଇ ଅଟକେ।
 Koeli leans forward with another guess. The child starts, then stops.
-Sound: କଥା ଆରମ୍ଭ ହୋଇ ପୁଣି ବିରାମ। / A false start, then a pause.
+ଧ୍ୱନି / Sound: କଥା ଆରମ୍ଭ ହୋଇ ପୁଣି ବିରାମ। / A false start, then a pause.
 ପିଲା: ନା, ଆମ ଘରେ…
 Child: No, at our house…
 କୋଇଲି: ଚୋର ଆସିଥିଲା?
@@ -24,7 +27,7 @@ Koeli: Was there a thief?
 ଦୃଶ୍ୟ 3 · 24–36 ସେକେଣ୍ଡ / Scene 3 · 24–36 seconds
 ପିଲାର କଥା ଶୁଣି କୋଇଲି ନିଜ ଥଣ୍ଟ ବନ୍ଦ କରେ। ଡାଳରେ ଟିକେ ପଛକୁ ସରେ।
 Koeli hears the child, closes its beak and settles a little further back on the branch.
-Sound: ପତ୍ରର ମୃଦୁ ଶବ୍ଦ। / A soft rustle of leaves.
+ଧ୍ୱନି / Sound: ପତ୍ରର ମୃଦୁ ଶବ୍ଦ। / A soft rustle of leaves.
 ପିଲା: ଆଗେ ଶୁଣିବ?
 Child: Will you listen first?
 କୋଇଲି: ହଁ। ଏଥର ତୁମ ଗପ।
@@ -33,7 +36,7 @@ Koeli: Yes. Your story this time.
 ଦୃଶ୍ୟ 4 · 36–48 ସେକେଣ୍ଡ / Scene 4 · 36–48 seconds
 କୋଇଲି ମନଦେଇ ଶୁଣେ। ପିଲା କହିଲାବେଳେ ତା’ ଆଖିରେ ହସ। କଥା ନକହି ଏହି ଭାବରେ ଶେଷ।
 Koeli listens. Its eyes brighten as the child speaks. End on this reaction without another interruption.
-Sound: ପିଲାର କଥା ଓ ଛୋଟ ହସ। / The child’s voice and a small laugh.
+ଧ୍ୱନି / Sound: ପିଲାର କଥା ଓ ଛୋଟ ହସ। / The child’s voice and a small laugh.
 ପିଲା: ଆମ ବିଲେଇ ନିଜ ଛାଇକୁ ଧରିବାକୁ ଯାଇଥିଲା!
 Child: Our cat tried to catch its own shadow!
 

@@ -16,7 +16,7 @@ for script in film_data['scripts']:
     if focus:
         body+='<p>'+link(focus['profile'],focus['name']['or']+' · ଚରିତ୍ର ପରିଚୟ',focus['name']['en']+' · Character profile')+' · '+link(script['wardrobeLink'],'ପୋଷାକର ଅଧ୍ୟୟନ','Clothing references')+'</p>'
     if board:body+=link(board['page'],'ସମୟଧରା ଦୃଶ୍ୟନମୁନା ଦେଖନ୍ତୁ →','Play the timed storyboard →','button')
-    txt=['Concept and creative direction: Ahimanikya Satapathy',script['title']['or']+' / '+script['title']['en'],'First film-script draft. Timing is a target, not a recorded performance.','Independent fluent Odia review pending.','']
+    txt=['ପରିକଳ୍ପନା ଓ ସୃଜନ ନିର୍ଦ୍ଦେଶନା: Ahimanikya Satapathy','Concept and creative direction: Ahimanikya Satapathy',script['title']['or']+' / '+script['title']['en'],'ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା। ସମୟ ଏକ ଲକ୍ଷ୍ୟ; କଣ୍ଠ ରେକର୍ଡ ହୋଇନାହିଁ।','First film-script draft. Timing is a target, not a recorded performance.','ସ୍ୱାଧୀନ ଦକ୍ଷ ଓଡ଼ିଆ ଯାଞ୍ଚ ବାକି।','Independent fluent Odia review pending.','']
     metadata=[('setting',pair('ସ୍ଥାନ ଓ ସମୟ','Place and time')),('performance',pair('ଭାବର ପରିବର୍ତ୍ତନ','The performance turn')),('wardrobe',pair('ପୋଷାକ ଓ ଚଳନ','Clothing and movement')),('continuity',pair('ପ୍ରତି ଦୃଶ୍ୟରେ ମେଳ','Continuity between shots'))]
     if script.get('setting'):
         body+='<section class="script-context"><div class="voice-sections">'
@@ -31,7 +31,7 @@ for script in film_data['scripts']:
     for i,scene in enumerate(script['scenes']):
         heading=scene_heading(i+1,elapsed,elapsed+scene['seconds'])
         body+='<section id="scene-'+str(i+1)+'">'+bi(heading,'h2')+bi(scene['action'])+bi(scene['sound'],'p','class="caption"')+dialogue(scene['lines'])+'</section>'
-        txt += [heading['or']+' / '+heading['en'],scene['action']['or'],scene['action']['en'],'Sound: '+scene['sound']['or']+' / '+scene['sound']['en']]
+        txt += [heading['or']+' / '+heading['en'],scene['action']['or'],scene['action']['en'],'ଧ୍ୱନି / Sound: '+scene['sound']['or']+' / '+scene['sound']['en']]
         for line in scene['lines']:txt += [line['speaker']['or']+': '+line['text']['or'],line['speaker']['en']+': '+line['text']['en']]
         elapsed+=scene['seconds'];txt+=['']
     assert elapsed==script['duration'],sid
@@ -61,6 +61,8 @@ for script in film_data['scripts']:
     if script.get('focus'):groups[script['world']].append(script)
 for wid,written in groups.items():
     p=OUT/(wid+'.html');s=BeautifulSoup(p.read_text(),'html.parser')
+    for label in s.select('[data-en="All six character worlds"]'):
+        label['data-en']='All eight character worlds'
     for node in s.select('[data-film-profile]'):node.decompose()
     section='<section class="report-section" id="film-scripts" data-film-profile><header>'+bi(pair('ଚରିତ୍ରଙ୍କ ନିଜ ଛୋଟ ଗପ','Short stories led by each character'),'h2')+bi(pair('ପ୍ରତି ଚରିତ୍ର ପାଇଁ ତିନିଟି ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା। ଓଡ଼ିଆ ଓ ଇଂରାଜୀରେ ପଢ଼ନ୍ତୁ।','Three first film-script drafts for each character, in Odia and English.'))+'</header><div class="voice-sections">'
     focus_groups=defaultdict(list)
@@ -83,7 +85,7 @@ for wid,written in groups.items():
                 board=script['storyboard'];src=ARCHIVE/board['archive']
                 z.write(src/board['file'],'storyboards/'+script['id']+'/'+board['file'])
                 for f in sorted(src.glob('storyboard-prompt-v*.txt')):z.write(f,'storyboards/'+script['id']+'/'+f.name)
-        z.writestr('READ-ME.txt','Concept and creative direction: Ahimanikya Satapathy\n\n'+str(len(written))+' first bilingual film-script drafts. Three per character.\nStoryboards are selected still frames, not completed films.\nIndependent fluent Odia and cultural review pending. Timing is provisional.\nRegional clothing sources: https://sishu.kabitawithoutborders.org/characters/regional-dress.html\n')
+        z.writestr('READ-ME.txt','ପରିକଳ୍ପନା ଓ ସୃଜନ ନିର୍ଦ୍ଦେଶନା: Ahimanikya Satapathy\nConcept and creative direction: Ahimanikya Satapathy\n\nଦ୍ୱିଭାଷୀ ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା: '+str(len(written))+'। ପ୍ରତି ଚରିତ୍ର ପାଇଁ ତିନିଟି।\n'+str(len(written))+' first bilingual film-script drafts. Three per character.\n\nଦୃଶ୍ୟଖସଡ଼ାରେ ଚୟନିତ ସ୍ଥିର ଚିତ୍ର ଅଛି; ସମ୍ପୂର୍ଣ୍ଣ ଚଳଚ୍ଚିତ୍ର ବାକି।\nStoryboards are selected still frames, not completed films.\nସ୍ୱାଧୀନ ଦକ୍ଷ ଓଡ଼ିଆ ଓ ସାଂସ୍କୃତିକ ଯାଞ୍ଚ ବାକି। ସମୟ ପରିବର୍ତ୍ତନଯୋଗ୍ୟ।\nIndependent fluent Odia and cultural review pending. Timing is provisional.\nପୋଷାକର ଅଞ୍ଚଳୀୟ ସୂତ୍ର / Regional clothing sources: https://sishu.kabitawithoutborders.org/characters/regional-dress.html\n')
         z.writestr('manifest-sha256.json',json.dumps({name:hashlib.sha256(z.read(name)).hexdigest() for name in z.namelist()},indent=2))
 
 # The design archive and overview expose every completed script batch.

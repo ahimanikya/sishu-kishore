@@ -52,6 +52,16 @@ for script in scripts:
  page=OUT/'scripts'/(script['id']+'.html')
  if not page.exists():errors.append([script['id'],'missing script page'])
  elif any(line['text']['or'] not in page.read_text() or line['text']['en'].replace('&','&amp;').replace('"','&quot;') not in page.read_text() for scene in script['scenes'] for line in scene['lines']):errors.append([script['id'],'script dialogue coverage'])
+ text_path=OUT/'downloads'/(script['id']+'-script-v1.txt')
+ if not text_path.exists():errors.append([script['id'],'missing text download'])
+ else:
+  text=text_path.read_text()
+  if not text.startswith('ପରିକଳ୍ପନା ଓ ସୃଜନ ନିର୍ଦ୍ଦେଶନା:'):errors.append([script['id'],'download needs Odia-first introductory text'])
+  for scene in script['scenes']:
+   for lang in ['or','en']:
+    if scene['action'][lang] not in text or scene['sound'][lang] not in text:errors.append([script['id'],'download scene coverage',lang])
+    for line in scene['lines']:
+     if line['text'][lang] not in text:errors.append([script['id'],'download dialogue coverage',lang])
 # Paired source coverage and the selected storyboard must survive packaging.
 focused=[s for s in scripts if s.get('focus')]
 counts=Counter((s['world'],s['focus']['id']) for s in focused)
@@ -76,7 +86,9 @@ for world in set(s['world'] for s in focused):
    if hashlib.sha256(z.read(name)).hexdigest()!=digest:errors.append([world,'film pack checksum',name])
   expected=[s for s in scripts if s['world']==world]
   if json.loads(z.read('scripts-v1.json'))!=expected:errors.append([world,'pack script coverage'])
+  if not re.search('[\u0b00-\u0b7f]',z.read('READ-ME.txt').decode()):errors.append([world,'pack introductory text needs Odia'])
   for script in expected:
+   if z.read('scripts/'+script['id']+'.txt')!=(OUT/'downloads'/(script['id']+'-script-v1.txt')).read_bytes():errors.append([script['id'],'pack text differs from download'])
    if script.get('storyboard'):
     b=script['storyboard'];name='storyboards/'+script['id']+'/'+b['file']
     if hashlib.sha256(z.read(name)).digest()!=hashlib.sha256((PUB/b['sheet'].lstrip('/')).read_bytes()).digest():errors.append([script['id'],'pack storyboard differs'])

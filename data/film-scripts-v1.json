@@ -3526,6 +3526,908 @@
           ]
         }
       ]
+    },
+    {
+      "id": "benu-which-left",
+      "world": "batare-katha",
+      "focus": {
+        "id": "benu",
+        "name": {
+          "or": "ବେଣୁ",
+          "en": "Benu"
+        },
+        "profile": "/characters/batare-katha.html#character-1"
+      },
+      "title": {
+        "or": "କାହାର ବାମ ପଟ?",
+        "en": "Whose Left?"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ବେଣୁ ଓ ମାଧବ ମୁହାଁମୁହିଁ ଠିଆହୋଇ ବାମ ପଟକୁ ଯିବା କଥା କହନ୍ତି। ଦୁହେଁ ଅଲଗା ଦିଗ ଦେଖାଇଲେ ବେଣୁ କକାଙ୍କ ପାଖରେ ଯାଇ ଠିଆହୁଏ।",
+        "en": "Facing each other, Benu and Madhab discuss turning left. When they point in different directions, Benu moves beside his uncle."
+      },
+      "setting": {
+        "or": "ଆଜିର ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ଛୋଟ ସହର ଓ ପାଖ ଗାଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ନାହିଁ। ଏଗାର ବର୍ଷର ବେଣୁ ଓ ତା’ ବାପାଙ୍କ ସାନଭାଇ, ବାଉନ ବର୍ଷର ମାଧବ କକା। ମାଧବ ପୂର୍ବରୁ ପାଠାଗାର ସହାୟକ ଥିଲେ।",
+        "en": "A fictional present-day Odisha town and neighbouring villages; no exact district is assigned. Eleven-year-old Benu and his father’s younger brother, fifty-two-year-old Madhab Kaka, a former library assistant."
+      },
+      "performance": {
+        "or": "ଉତ୍ତରରେ ନିଶ୍ଚିତ → ଦୁଇ ଦିଗ ଦେଖି ଅଟକିବା → ନିଜ ଜାଗା ବଦଳାଇ ବୁଝିବା।",
+        "en": "Certain of the answer → puzzled by two directions → understanding by changing his own position."
+      },
+      "wardrobe": {
+        "or": "ବେଣୁର ଢିଲା ସବୁଜ ଛୋଟ ହାତର ସାର୍ଟ, ବାମ ଛାତି ପକେଟ୍‌ରେ ଛୋଟ ଖାତା, ବାଦାମୀ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ଚପଲ। ମାଧବଙ୍କ କ୍ରିମ୍ ସୂତା କୁର୍ତ୍ତାର ହାତ ମୋଡ଼ା; ସାଧା ଧୋତିରେ ସରୁ ମଳିନ ନୀଳ ଧାର। ବାମ କାନ୍ଧରେ ଇଟାଲାଲ ବହିଥଳି, ଡାହାଣ ହାତରେ ବନ୍ଦ ନୀଳ ଛତା। ବସିଲେ ଥଳି ଓ ଛତା ପାଖରେ ରଖିବେ। ଧୋତିର କୁଞ୍ଚ ଓ ତଳ ଧାର ବସିବା, ଚାଲିବାରେ ସ୍ୱାଭାବିକ ରହିବ। ଏହା ଚରିତ୍ରଙ୍କ ଦୈନିକ ପସନ୍ଦ; ଧାର୍ଯ୍ୟ ନଥିବା ଜିଲ୍ଲାର ନିର୍ଦ୍ଦିଷ୍ଟ ପୋଷାକ ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "Benu wears a loose green short-sleeved shirt, a pocket notebook at his left chest, brown shorts and sandals. Madhab wears a cream cotton kurta with rolled sleeves and a simply wrapped dhoti with a narrow dusty-blue border. Rust cloth book bag on his left shoulder; folded blue umbrella in his right hand. When seated, he sets both beside him. Keep the dhoti’s folds and hem plausible when sitting and walking. These are the characters’ everyday choices, not a claimed costume of an unassigned district."
+      },
+      "continuity": {
+        "or": "ପାଠାଗାର ଅଗଣାରେ କାମ; ଚଳନ୍ତା ରାସ୍ତାରେ ନୁହେଁ। ମୁହାଁମୁହିଁ ସମୟରେ ଦୁହିଁଙ୍କ ନିଜ ବାମ ହାତ ବିପରୀତ ଦିଗ ଦେଖାଏ; ପାଖାପାଖି ହେଲେ ଏକା ଦିଗ। ଛତା ଓ ଥଳି ପ୍ରଥମରୁ ବେଞ୍ଚରେ ରହିବ।",
+        "en": "Use the reading-room courtyard, away from moving traffic. Facing each other, their anatomical left hands point opposite ways; standing together, they point the same way. Umbrella and bag are on the bench from the start."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/batare-katha-natural-v2.png",
+      "preview": "/characters/travelling-duo/model-sheets/benu-model-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବେଣୁ ଓ ମାଧବ ଅଗଣାରେ ମୁହାଁମୁହିଁ। ବେଣୁ ଗେଟ୍‌ର ବାଟ ପଚାରେ।",
+            "en": "Benu and Madhab face each other in the courtyard. Benu asks the way to the gate."
+          },
+          "sound": {
+            "or": "ଅଗଣାରେ ପତ୍ରର ଶବ୍ଦ।",
+            "en": "Leaves in the courtyard."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଏଠୁ ବାମକୁ?",
+                "en": "Left from here?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ହଁ, ବାମକୁ।",
+                "en": "Yes, left."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଦୁହେଁ ନିଜ ବାମ ହାତ ବଢ଼ାନ୍ତି। ଦୁଇ ବିପରୀତ ଦିଗ। ବେଣୁ ପ୍ରଥମେ ନିଜ ହାତ, ତା’ପରେ କକାଙ୍କ ହାତ ଦେଖେ।",
+            "en": "Both raise their left hands, pointing opposite ways. Benu looks from his own hand to his uncle’s."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A brief pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ହେଲେ ତୁମେ ସେପଟକୁ ଦେଖାଉଛ!",
+                "en": "But you’re pointing that way!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବେଣୁ ନିଜ ହାତ ତଳକୁ କରି କକାଙ୍କ ପାଖରେ ଯାଇ ଠିଆହୁଏ। ଦୁହେଁ ଏବେ ଏକା ଆଡ଼କୁ ମୁହଁ କରିଛନ୍ତି। ସେ ପୁଣି ବାମ ହାତ ବଢ଼ାଏ।",
+            "en": "Benu lowers his hand and steps beside Madhab. Now facing the same way, he raises his left hand again."
+          },
+          "sound": {
+            "or": "ଚପଲର ଦୁଇଟି ଶବ୍ଦ।",
+            "en": "Two sandal steps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଆଚ୍ଛା, ଏବେ ମିଶିଲା।",
+                "en": "Ah, now they match."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଧବ ଥଳି ଓ ଛତା ନିଅନ୍ତି। ବେଣୁ ତାଙ୍କ ପାଖରେ ରହି ଗେଟ୍ ଆଡ଼କୁ ଚାଲେ।",
+            "en": "Madhab picks up the bag and umbrella. Benu stays beside him as they walk towards the gate."
+          },
+          "sound": {
+            "or": "ଥଳି ଉଠିବା, ଧୀର ପାଦଶବ୍ଦ।",
+            "en": "Bag lifting, unhurried footsteps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ଏବେ ଗେଟ୍ ମିଳିବ ତ?",
+                "en": "Can we find the gate now?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ହଁ। ବାମ ପଟ ଦୁଇଟା ଥିଲା!",
+                "en": "Yes. We had two lefts!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "benu-my-story-first",
+      "world": "batare-katha",
+      "focus": {
+        "id": "benu",
+        "name": {
+          "or": "ବେଣୁ",
+          "en": "Benu"
+        },
+        "profile": "/characters/batare-katha.html#character-1"
+      },
+      "title": {
+        "or": "ଆଗେ ମୋ ଗପ",
+        "en": "My Story First"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ଆଜି ବେଣୁ ଗପ କହିବ। ମାଧବ ମଝିରେ ପ୍ରଶ୍ନ କଲେ ସେ ଅଟକେ—ତା’ପରେ ନିଜର ପ୍ରଶ୍ନ କରିବା ଅଭ୍ୟାସ ମନେପକାଇ ଦୁହେଁ ହସନ୍ତି।",
+        "en": "Today Benu will tell the story. Madhab’s question stops him halfway through; recognising his own habit, Benu finds a way for them both to laugh."
+      },
+      "setting": {
+        "or": "ଆଜିର ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ଛୋଟ ସହର ଓ ପାଖ ଗାଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ନାହିଁ। ଏଗାର ବର୍ଷର ବେଣୁ ଓ ତା’ ବାପାଙ୍କ ସାନଭାଇ, ବାଉନ ବର୍ଷର ମାଧବ କକା। ମାଧବ ପୂର୍ବରୁ ପାଠାଗାର ସହାୟକ ଥିଲେ।",
+        "en": "A fictional present-day Odisha town and neighbouring villages; no exact district is assigned. Eleven-year-old Benu and his father’s younger brother, fifty-two-year-old Madhab Kaka, a former library assistant."
+      },
+      "performance": {
+        "or": "ଗପ କହିବାର ଉତ୍ସାହ → କଥା କଟିବାରେ ବିରକ୍ତି → ନିଜ ଅଭ୍ୟାସକୁ ଚିହ୍ନି ହସିବା → ପୁଣି ଗପ।",
+        "en": "Eager to tell → irritated by an interruption → recognising his own habit with a smile → returning to the story."
+      },
+      "wardrobe": {
+        "or": "ବେଣୁର ଢିଲା ସବୁଜ ଛୋଟ ହାତର ସାର୍ଟ, ବାମ ଛାତି ପକେଟ୍‌ରେ ଛୋଟ ଖାତା, ବାଦାମୀ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ଚପଲ। ମାଧବଙ୍କ କ୍ରିମ୍ ସୂତା କୁର୍ତ୍ତାର ହାତ ମୋଡ଼ା; ସାଧା ଧୋତିରେ ସରୁ ମଳିନ ନୀଳ ଧାର। ବାମ କାନ୍ଧରେ ଇଟାଲାଲ ବହିଥଳି, ଡାହାଣ ହାତରେ ବନ୍ଦ ନୀଳ ଛତା। ବସିଲେ ଥଳି ଓ ଛତା ପାଖରେ ରଖିବେ। ଧୋତିର କୁଞ୍ଚ ଓ ତଳ ଧାର ବସିବା, ଚାଲିବାରେ ସ୍ୱାଭାବିକ ରହିବ। ଏହା ଚରିତ୍ରଙ୍କ ଦୈନିକ ପସନ୍ଦ; ଧାର୍ଯ୍ୟ ନଥିବା ଜିଲ୍ଲାର ନିର୍ଦ୍ଦିଷ୍ଟ ପୋଷାକ ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "Benu wears a loose green short-sleeved shirt, a pocket notebook at his left chest, brown shorts and sandals. Madhab wears a cream cotton kurta with rolled sleeves and a simply wrapped dhoti with a narrow dusty-blue border. Rust cloth book bag on his left shoulder; folded blue umbrella in his right hand. When seated, he sets both beside him. Keep the dhoti’s folds and hem plausible when sitting and walking. These are the characters’ everyday choices, not a claimed costume of an unassigned district."
+      },
+      "continuity": {
+        "or": "ଦୁହେଁ ପାଠାଗାର ବାରଣ୍ଡାରେ ବସିଛନ୍ତି। ବେଣୁ ବାମେ, ମାଧବ ଡାହାଣେ। ବେଣୁର ଖାତା ସାର୍ଟରେ; ମାଧବଙ୍କ ଥଳି ଓ ବନ୍ଦ ଛତା ତାଙ୍କ ପାଖରେ। ଗପର ଡଙ୍ଗା କେବଳ କଥାରେ—ଦୃଶ୍ୟରେ ପ୍ରକୃତ ଡଙ୍ଗା ବା ଅନ୍ୟ ଚରିତ୍ର ଆସିବନି। ମାଧବ ଥଟ୍ଟାରେ ବେଣୁକୁ ଛୋଟ କରିବେନି।",
+        "en": "Both sit on the reading-room verandah, Benu on screen left and Madhab on screen right. Notebook stays in Benu’s shirt; bag and folded umbrella remain beside Madhab. The boat exists only in Benu’s spoken tale, not as an inserted boat or extra cast. Madhab’s humour must not belittle him."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/batare-katha-natural-v2.png",
+      "preview": "/characters/travelling-duo/model-sheets/benu-model-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବେଣୁ ବସି ଦୁଇ ହାତରେ ଛୋଟ ଡଙ୍ଗାର ଆକାର ଦେଖାଏ। ମାଧବ ତା’ ଆଡ଼କୁ ଚାହିଁ ଶୁଣନ୍ତି।",
+            "en": "Seated, Benu cups his hands to show a little boat. Madhab turns towards him and listens."
+          },
+          "sound": {
+            "or": "ଦୂରରେ ପତ୍ର ହଲିବାର ଶବ୍ଦ।",
+            "en": "Leaves moving in the distance."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଆଜି ମୁଁ କହିବି। ଗୋଟେ ଛୋଟ ଡଙ୍ଗା ଥିଲା…",
+                "en": "Today I’ll tell it. There was a little boat…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଧବ ଗୋଟିଏ ଆଙ୍ଗୁଠି ଟିକେ ଉଠାନ୍ତି। ବେଣୁର ହାତ ଅଟକିଯାଏ। ତା’ ଉତ୍ସାହ ଟିକେ ଭାଙ୍ଗେ।",
+            "en": "Madhab raises one finger a little. Benu’s hands stop, and his enthusiasm falters."
+          },
+          "sound": {
+            "or": "ଗପ ମଝିରେ ବିରାମ।",
+            "en": "A pause inside the tale."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "କାହାର ଡଙ୍ଗା?",
+                "en": "Whose boat?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଆଗେ ଗପଟା ଶୁଣ!",
+                "en": "Let me tell it first!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଧବ ହାତ ତଳକୁ କରନ୍ତି। ବେଣୁ ତାଙ୍କ ହାତକୁ ଚାହିଁ ନିଜର ଗୋଟିଏ ଆଙ୍ଗୁଠି ଉଠାଏ, ପୁଣି ତଳକୁ କରି ହସେ।",
+            "en": "Madhab lowers his hand. Looking at it, Benu raises one finger of his own, then lowers it with a smile."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ନିଶ୍ୱାସ, ଦୁହିଁଙ୍କ ଛୋଟ ହସ।",
+            "en": "A small breath and a shared laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ଏଇ ପ୍ରଶ୍ନ କରିବା ଅଭ୍ୟାସଟା ଚିହ୍ନା ଲାଗୁଛି।",
+                "en": "This question-asking habit feels familiar."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ମୋଠୁ ଶିଖିଲ?",
+                "en": "Did you learn it from me?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ମାଧବ ନିଜ ଦୁଇ ହାତ ଆଣ୍ଠୁରେ ରଖି ଶୁଣନ୍ତି। ବେଣୁ ପୁଣି ଡଙ୍ଗାର ଆକାର କରେ। ଏଥର ଧୀରେ ଆରମ୍ଭ କରେ।",
+            "en": "Madhab rests both hands on his knees and listens. Benu makes the boat shape again, starting more slowly this time."
+          },
+          "sound": {
+            "or": "ଗପ ଚାଲିବାର ସ୍ୱର; ଅଲଗା ଶିକ୍ଷାବାଣୀ ନାହିଁ।",
+            "en": "The tale resumes; no added moral narration."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଡଙ୍ଗାଟା ମୋ ଗପର। ଏବେ ସେ ବାହାରିଲା…",
+                "en": "The boat belongs to my story. And now it set off…"
+              }
+            }
+          ]
+        }
+      ],
+      "storyboard": {
+        "sheet": "/characters/films/benu-my-story-first/pencil-storyboard-v1.png",
+        "page": "/characters/films/benu-my-story-first/index.html",
+        "archive": "batare-katha-films",
+        "file": "pencil-storyboard-v1.png",
+        "medium": {
+          "or": "ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଗତିର ପରୀକ୍ଷା",
+          "en": "Pencil frames · A pacing study"
+        },
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ଦୃଶ୍ୟରେ ୫୬ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। ବେଣୁ ଆଜି ଗପ କହେ, କକା ଶୁଣନ୍ତି। କଣ୍ଠ ଓ ଧ୍ୱନି ରେକର୍ଡ ବାକି।",
+          "en": "A 56-second pacing study with four still frames. Benu tells the story today and his uncle listens. Voice and sound recording remain ahead."
+        },
+        "development": {
+          "or": "ପୂର୍ବ ଚରିତ୍ର ମଡେଲ୍‌ରୁ ବେଣୁର ସାର୍ଟ ପକେଟ୍, ମାଧବଙ୍କ ଧୋତିର ଧାର, ଥଳି ଓ ଛତା ରହିଛି। ହାତର ଅଙ୍ଗଭଙ୍ଗୀରେ ଗପ କହିବା ଓ କଥା କାଟିବାର ପାଳି ବଦଳେ। ଡଙ୍ଗା କେବଳ ସଂଳାପରେ ରହେ। ସ୍ଥିର ଦୃଶ୍ୟ ମଝିର ଚଳନ ଓ କଣ୍ଠ ଅଭିନୟ ପରବର୍ତ୍ତୀ କାମ।",
+          "en": "The established shirt pocket, dhoti border, bag and umbrella carry into the scene. Hand gestures mark the changing roles of teller and questioner. The boat remains in the dialogue only. Movement between the still poses and voice performance are later stages."
+        }
+      }
+    },
+    {
+      "id": "benu-eight-and-twelve",
+      "world": "batare-katha",
+      "focus": {
+        "id": "benu",
+        "name": {
+          "or": "ବେଣୁ",
+          "en": "Benu"
+        },
+        "profile": "/characters/batare-katha.html#character-1"
+      },
+      "title": {
+        "or": "ତୁମର ଆଠ, ମୋର ବାର",
+        "en": "Your Eight, My Twelve"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ଅଗଣାର ଏକା ବାଟରେ ମାଧବଙ୍କ ଆଠ ପାଦ, ବେଣୁର ବାର। ଗଣନା ଭୁଲ୍ ଭାବିଥିବା ବେଣୁ ଦୁହିଁଙ୍କ ପାଦ ପକାଇବା ଦେଖେ।",
+        "en": "Across the same courtyard, Madhab counts eight steps and Benu twelve. Suspecting a counting mistake, Benu looks at how they walk."
+      },
+      "setting": {
+        "or": "ଆଜିର ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ଛୋଟ ସହର ଓ ପାଖ ଗାଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ନାହିଁ। ଏଗାର ବର୍ଷର ବେଣୁ ଓ ତା’ ବାପାଙ୍କ ସାନଭାଇ, ବାଉନ ବର୍ଷର ମାଧବ କକା। ମାଧବ ପୂର୍ବରୁ ପାଠାଗାର ସହାୟକ ଥିଲେ।",
+        "en": "A fictional present-day Odisha town and neighbouring villages; no exact district is assigned. Eleven-year-old Benu and his father’s younger brother, fifty-two-year-old Madhab Kaka, a former library assistant."
+      },
+      "performance": {
+        "or": "ନିଜ ଗଣନା ଠିକ୍ ବୋଲି ଜିଦ୍ → ପାଦର ଫାଙ୍କ ଦେଖିବା → ତଫାତକୁ ଖେଳରେ ନେବା।",
+        "en": "Insisting his count is right → noticing the space between steps → turning the difference into play."
+      },
+      "wardrobe": {
+        "or": "ବେଣୁର ଢିଲା ସବୁଜ ଛୋଟ ହାତର ସାର୍ଟ, ବାମ ଛାତି ପକେଟ୍‌ରେ ଛୋଟ ଖାତା, ବାଦାମୀ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ଚପଲ। ମାଧବଙ୍କ କ୍ରିମ୍ ସୂତା କୁର୍ତ୍ତାର ହାତ ମୋଡ଼ା; ସାଧା ଧୋତିରେ ସରୁ ମଳିନ ନୀଳ ଧାର। ବାମ କାନ୍ଧରେ ଇଟାଲାଲ ବହିଥଳି, ଡାହାଣ ହାତରେ ବନ୍ଦ ନୀଳ ଛତା। ବସିଲେ ଥଳି ଓ ଛତା ପାଖରେ ରଖିବେ। ଧୋତିର କୁଞ୍ଚ ଓ ତଳ ଧାର ବସିବା, ଚାଲିବାରେ ସ୍ୱାଭାବିକ ରହିବ। ଏହା ଚରିତ୍ରଙ୍କ ଦୈନିକ ପସନ୍ଦ; ଧାର୍ଯ୍ୟ ନଥିବା ଜିଲ୍ଲାର ନିର୍ଦ୍ଦିଷ୍ଟ ପୋଷାକ ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "Benu wears a loose green short-sleeved shirt, a pocket notebook at his left chest, brown shorts and sandals. Madhab wears a cream cotton kurta with rolled sleeves and a simply wrapped dhoti with a narrow dusty-blue border. Rust cloth book bag on his left shoulder; folded blue umbrella in his right hand. When seated, he sets both beside him. Keep the dhoti’s folds and hem plausible when sitting and walking. These are the characters’ everyday choices, not a claimed costume of an unassigned district."
+      },
+      "continuity": {
+        "or": "ଏକା ଆରମ୍ଭ ଓ ଶେଷ ସ୍ଥାନ, ସମତଳ ଶୁଖିଲା ଅଗଣା। ଆଠ ଓ ବାର ଏହି କାଳ୍ପନିକ ଦୃଶ୍ୟର ଗଣନା; ଗଣିତର ଧାର୍ଯ୍ୟ ଅନୁପାତ ନୁହେଁ। ପୁଣି ଚାଲିଲେ ଲମ୍ବା ଓ ଛୋଟ ପାଦର ଫାଙ୍କ ଦେଖାଯିବ। ଛତା ଓ ଥଳି ବେଞ୍ଚରେ।",
+        "en": "Same start and finish on a level dry courtyard. Eight and twelve are counts in this invented scene, not a fixed mathematical ratio. On the second pass show the different step lengths. Umbrella and bag stay on the bench."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/batare-katha-natural-v2.png",
+      "preview": "/characters/travelling-duo/model-sheets/benu-model-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବେଣୁ ଓ ମାଧବ ଅଗଣାର ଗୋଟିଏ ଧାରରେ ଠିଆ। ଅନ୍ୟ ଧାରର ଖୁଣ୍ଟକୁ ଦେଖାଇ ବେଣୁ ଗଣି ଚାଲିବାକୁ କହେ।",
+            "en": "Benu and Madhab stand at one edge of the courtyard. Pointing to a post at the other edge, Benu suggests counting their steps."
+          },
+          "sound": {
+            "or": "ଚପଲ ମାଟିରେ ଘଷା।",
+            "en": "Sandals shifting on the ground."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଖୁଣ୍ଟ ଯାଏ କେତେ ପାଦ? ଗଣିବା।",
+                "en": "How many steps to the post? Let’s count."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ଦୁହେଁ ଏକା ଶେଷ ସ୍ଥାନରେ ପହଞ୍ଚନ୍ତି। ବେଣୁ ନିଜ ଗଣନା କହେ; କକାଙ୍କ ଉତ୍ତର ଶୁଣି ଆଶ୍ଚର୍ଯ୍ୟ ହୁଏ।",
+            "en": "Both reach the same finishing point. Benu gives his count, then looks surprised by Madhab’s answer."
+          },
+          "sound": {
+            "or": "ଶେଷ ଦୁଇ ପାଦ, ତା’ପରେ ଥମିବା।",
+            "en": "The final steps, then stillness."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ବାର। ତୁମର?",
+                "en": "Twelve. Yours?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ଆଠ।",
+                "en": "Eight."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେମାନେ ଆରମ୍ଭ ସ୍ଥାନକୁ ଫେରନ୍ତି। ବେଣୁ ଏଥର ମାଧବଙ୍କ ପାଦ ପାଖେ ନିଜର ଛୋଟ ପାଦ ପକାଇ ତଫାତ ଦେଖେ।",
+            "en": "They return to the start. This time Benu watches Madhab’s longer step beside his own shorter one."
+          },
+          "sound": {
+            "or": "ଧୀର ଦୁଇ ଯୋଡ଼ା ପାଦଶବ୍ଦ।",
+            "en": "Two sets of slow footsteps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଓଃ, ତୁମେ ଏତେ ଦୂର ପାଦ ପକାଉଛ!",
+                "en": "Oh! Your steps go that far!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବେଣୁ ନିଜର ସହଜ ପାଦରେ ଚାଲେ। ମାଧବ ତା’ ପାଖରେ ଗତି କମାନ୍ତି। ଦୁହେଁ ଖୁଣ୍ଟ ଆଡ଼କୁ ଯାଆନ୍ତି।",
+            "en": "Benu walks with his own comfortable steps. Madhab slows beside him as they head towards the post."
+          },
+          "sound": {
+            "or": "ସ୍ୱାଭାବିକ ପାଦଶବ୍ଦ ଓ ଛୋଟ ହସ।",
+            "en": "Easy footsteps and a small laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ତୁମର ପାଦ ଲମ୍ବା। ମୋର ଗଣନା ଲମ୍ବା।",
+                "en": "Your steps are longer. My counting is longer."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "madhab-quiet-knock",
+      "world": "batare-katha",
+      "focus": {
+        "id": "madhab",
+        "name": {
+          "or": "ମାଧବ କକା",
+          "en": "Madhab Kaka"
+        },
+        "profile": "/characters/batare-katha.html#character-2"
+      },
+      "title": {
+        "or": "ଆସ୍ତେ ଠକ୍‌ଠକ୍",
+        "en": "A Quiet Knock"
+      },
+      "duration": 52,
+      "premise": {
+        "or": "ଗପରେ କବାଟର ଶବ୍ଦ କେମିତି ଥିଲା, ମାଧବଙ୍କର ମନେପଡ଼ୁନି। ବେଣୁର ବଡ଼ ଠକ୍‌ଠକ୍ ଶୁଣି ସେ ନିଜର ଛୋଟ, ଲାଜକୁଳା ଶବ୍ଦ ଖୋଜନ୍ତି।",
+        "en": "Madhab cannot recall the knock in his story. Benu tries a loud one; it helps Madhab find the small, hesitant sound he wants."
+      },
+      "setting": {
+        "or": "ଆଜିର ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ଛୋଟ ସହର ଓ ପାଖ ଗାଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ନାହିଁ। ଏଗାର ବର୍ଷର ବେଣୁ ଓ ତା’ ବାପାଙ୍କ ସାନଭାଇ, ବାଉନ ବର୍ଷର ମାଧବ କକା। ମାଧବ ପୂର୍ବରୁ ପାଠାଗାର ସହାୟକ ଥିଲେ।",
+        "en": "A fictional present-day Odisha town and neighbouring villages; no exact district is assigned. Eleven-year-old Benu and his father’s younger brother, fifty-two-year-old Madhab Kaka, a former library assistant."
+      },
+      "performance": {
+        "or": "ଠିକ୍ ଶବ୍ଦ ମନେ ନପଡ଼ିବା → ପୁତୁରାର ଚେଷ୍ଟା ଶୁଣିବା → ନିଜ ଅଭିନୟରେ ନୂଆ ଶବ୍ଦ ଖୋଜିବା।",
+        "en": "Unable to recall the sound → listening to his nephew’s attempt → finding a sound through performance."
+      },
+      "wardrobe": {
+        "or": "ବେଣୁର ଢିଲା ସବୁଜ ଛୋଟ ହାତର ସାର୍ଟ, ବାମ ଛାତି ପକେଟ୍‌ରେ ଛୋଟ ଖାତା, ବାଦାମୀ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ଚପଲ। ମାଧବଙ୍କ କ୍ରିମ୍ ସୂତା କୁର୍ତ୍ତାର ହାତ ମୋଡ଼ା; ସାଧା ଧୋତିରେ ସରୁ ମଳିନ ନୀଳ ଧାର। ବାମ କାନ୍ଧରେ ଇଟାଲାଲ ବହିଥଳି, ଡାହାଣ ହାତରେ ବନ୍ଦ ନୀଳ ଛତା। ବସିଲେ ଥଳି ଓ ଛତା ପାଖରେ ରଖିବେ। ଧୋତିର କୁଞ୍ଚ ଓ ତଳ ଧାର ବସିବା, ଚାଲିବାରେ ସ୍ୱାଭାବିକ ରହିବ। ଏହା ଚରିତ୍ରଙ୍କ ଦୈନିକ ପସନ୍ଦ; ଧାର୍ଯ୍ୟ ନଥିବା ଜିଲ୍ଲାର ନିର୍ଦ୍ଦିଷ୍ଟ ପୋଷାକ ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "Benu wears a loose green short-sleeved shirt, a pocket notebook at his left chest, brown shorts and sandals. Madhab wears a cream cotton kurta with rolled sleeves and a simply wrapped dhoti with a narrow dusty-blue border. Rust cloth book bag on his left shoulder; folded blue umbrella in his right hand. When seated, he sets both beside him. Keep the dhoti’s folds and hem plausible when sitting and walking. These are the characters’ everyday choices, not a claimed costume of an unassigned district."
+      },
+      "continuity": {
+        "or": "ଏହା ମାଧବଙ୍କ କଳ୍ପିତ ଗପର ଅଭ୍ୟାସ; କୌଣସି ପ୍ରକାଶିତ ଗଳ୍ପର ହୁବହୁ ପାଠ ନୁହେଁ। ଦୁହେଁ ଖାଲି କାଠ ବେଞ୍ଚର ଧାରରେ ଆଙ୍ଗୁଠିର ଗଣ୍ଠିରେ ଠକ୍ କରିବେ। ପ୍ରକୃତ କବାଟରେ କେହି ଆସିବେନି। ଅତି ଜୋରରେ ହାତ ମାରିବା ନାହିଁ।",
+        "en": "A rehearsal of Madhab’s invented tale, not verbatim text from a published work. Both tap the empty wooden bench edge with their knuckles. No real visitor appears at the door. Keep the tap light enough not to hurt a hand."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/batare-katha-natural-v2.png",
+      "preview": "/characters/travelling-duo/model-sheets/madhab-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଧବ ଗପ କହୁଥିବା ବେଳେ ବେଞ୍ଚ ଆଡ଼କୁ ହାତ ବଢ଼ାଇ ଥାମନ୍ତି। ବେଣୁ ଅପେକ୍ଷା କରେ।",
+            "en": "Madhab reaches towards the bench during his tale, then stops. Benu waits."
+          },
+          "sound": {
+            "or": "ଅଧା କଥା ପରେ ନୀରବତା।",
+            "en": "Silence after an unfinished line."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ତା’ପରେ କବାଟରେ… ଶବ୍ଦଟା କେମିତି ଥିଲା?",
+                "en": "Then, at the door… what did that knock sound like?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ବେଣୁ ବେଞ୍ଚରେ ଦୁଇଟି ସ୍ପଷ୍ଟ ଠକ୍ କରେ। ମାଧବ ଶୁଣି ମୁଣ୍ଡ ଟିକେ କାତ କରନ୍ତି।",
+            "en": "Benu gives the bench two clear taps. Madhab listens, tilting his head slightly."
+          },
+          "sound": {
+            "or": "ଦୁଇଟି ଠକ୍।",
+            "en": "Two distinct taps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଏମିତି?",
+                "en": "Like that?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ସେ ତ ଟିକେ ଲାଜ କରୁଥିଲା।",
+                "en": "They were feeling a little shy."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଧବ ନିଜ ଗଣ୍ଠିରେ ବେଞ୍ଚକୁ ହାଲୁକା ଛୁଅନ୍ତି—ଦୁଇ ଠକ୍ ମଝିରେ ବିରାମ। ବେଣୁ ଶୁଣିବା ପାଇଁ ଝୁଙ୍କେ।",
+            "en": "Madhab taps softly with a pause between the two sounds. Benu leans closer to hear."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ଠକ୍… ବିରାମ… ଠକ୍।",
+            "en": "A soft tap… pause… tap."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ବୋଧେ ଏମିତି।",
+                "en": "Perhaps like this."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବେଣୁ ଆଉ ଠକ୍ କରେନି। ଦୁହେଁ କଳ୍ପିତ କବାଟ ଖୋଲିବାକୁ ଅପେକ୍ଷା କଲାପରି ବସନ୍ତି। ମାଧବ ଗପ ଆରମ୍ଭ କରନ୍ତି।",
+            "en": "Benu does not tap again. For a moment they sit as if waiting for the imaginary door to open. Madhab resumes his tale."
+          },
+          "sound": {
+            "or": "ସାନ ବିରାମ ପରେ ମାଧବଙ୍କ ସ୍ୱର।",
+            "en": "Madhab’s voice after a small pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଭିତର ଲୋକ ଶୁଣିଲେ ତ?",
+                "en": "Did the person inside hear?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ଶୁଣିଲେ। ଗପଟା ସେଇଠୁ ଆରମ୍ଭ।",
+                "en": "They did. That’s where the story begins."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "madhab-longer-way",
+      "world": "batare-katha",
+      "focus": {
+        "id": "madhab",
+        "name": {
+          "or": "ମାଧବ କକା",
+          "en": "Madhab Kaka"
+        },
+        "profile": "/characters/batare-katha.html#character-2"
+      },
+      "title": {
+        "or": "ଆଜି ଏଇ ବାଟ",
+        "en": "This Way Today"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ମାଧବଙ୍କ ମନେଥିବା ଛୋଟ ବାଟର ଗେଟ୍ ବନ୍ଦ। ନିଜ ସ୍ମୃତିକୁ ଜୋର ନଦେଇ ସେ ବେଣୁ ସହ ଖୋଲା ବାଟରେ ଯାଆନ୍ତି।",
+        "en": "The gate on Madhab’s remembered shortcut is closed. He lets go of the old route and takes the open way with Benu."
+      },
+      "setting": {
+        "or": "ଆଜିର ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ଛୋଟ ସହର ଓ ପାଖ ଗାଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ନାହିଁ। ଏଗାର ବର୍ଷର ବେଣୁ ଓ ତା’ ବାପାଙ୍କ ସାନଭାଇ, ବାଉନ ବର୍ଷର ମାଧବ କକା। ମାଧବ ପୂର୍ବରୁ ପାଠାଗାର ସହାୟକ ଥିଲେ।",
+        "en": "A fictional present-day Odisha town and neighbouring villages; no exact district is assigned. Eleven-year-old Benu and his father’s younger brother, fifty-two-year-old Madhab Kaka, a former library assistant."
+      },
+      "performance": {
+        "or": "ଚିହ୍ନା ବାଟରେ ନିଶ୍ଚିତ → ବନ୍ଦ ଗେଟ୍ ଦେଖି ଥମିବା → ଛୋଟ ସ୍ୱୀକାର → ଚାଲିଚାଲି ଗପ।",
+        "en": "Confident in a familiar route → stopped by the closed gate → a simple admission → a story as they walk."
+      },
+      "wardrobe": {
+        "or": "ବେଣୁର ଢିଲା ସବୁଜ ଛୋଟ ହାତର ସାର୍ଟ, ବାମ ଛାତି ପକେଟ୍‌ରେ ଛୋଟ ଖାତା, ବାଦାମୀ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ଚପଲ। ମାଧବଙ୍କ କ୍ରିମ୍ ସୂତା କୁର୍ତ୍ତାର ହାତ ମୋଡ଼ା; ସାଧା ଧୋତିରେ ସରୁ ମଳିନ ନୀଳ ଧାର। ବାମ କାନ୍ଧରେ ଇଟାଲାଲ ବହିଥଳି, ଡାହାଣ ହାତରେ ବନ୍ଦ ନୀଳ ଛତା। ବସିଲେ ଥଳି ଓ ଛତା ପାଖରେ ରଖିବେ। ଧୋତିର କୁଞ୍ଚ ଓ ତଳ ଧାର ବସିବା, ଚାଲିବାରେ ସ୍ୱାଭାବିକ ରହିବ। ଏହା ଚରିତ୍ରଙ୍କ ଦୈନିକ ପସନ୍ଦ; ଧାର୍ଯ୍ୟ ନଥିବା ଜିଲ୍ଲାର ନିର୍ଦ୍ଦିଷ୍ଟ ପୋଷାକ ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "Benu wears a loose green short-sleeved shirt, a pocket notebook at his left chest, brown shorts and sandals. Madhab wears a cream cotton kurta with rolled sleeves and a simply wrapped dhoti with a narrow dusty-blue border. Rust cloth book bag on his left shoulder; folded blue umbrella in his right hand. When seated, he sets both beside him. Keep the dhoti’s folds and hem plausible when sitting and walking. These are the characters’ everyday choices, not a claimed costume of an unassigned district."
+      },
+      "continuity": {
+        "or": "ପାଠାଗାର ଅଗଣାର ଏକ ବନ୍ଦ ପାର୍ଶ୍ୱ ଗେଟ୍ ଓ ଖୋଲା ମୁଖ୍ୟ ବାଟ। ଦୁହେଁ ବନ୍ଦ ଗେଟ୍ ଚଢ଼ିବେନି ବା ତାଲା ଛୁଇଁବେନି। ମାଧବଙ୍କ ଧୋତିର ତଳ ଧାର ଚପଲ ତଳେ ପଡ଼ିବନି। ଛତା ତଳମୁହାଁ, ଦେହ ପାଖରେ।",
+        "en": "A closed side gate and an open main path in the reading-room courtyard. Neither climbs the gate nor handles the lock. Madhab’s dhoti hem stays clear of his sandals. The folded umbrella points down, close to his body."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/batare-katha-natural-v2.png",
+      "preview": "/characters/travelling-duo/model-sheets/madhab-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଧବ ଅଗଣାର ପାର୍ଶ୍ୱ ବାଟକୁ ମୁହଁ କରନ୍ତି। ବେଣୁ ତାଙ୍କ ସହ ଚାଲେ।",
+            "en": "Madhab turns towards the side path. Benu walks with him."
+          },
+          "sound": {
+            "or": "ଚପଲ ଓ ଥଳିର ହାଲୁକା ଶବ୍ଦ।",
+            "en": "Sandals and the soft movement of the bag."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ଏପଟେ ଗଲେ ଶୀଘ୍ର ପହଞ୍ଚିବା।",
+                "en": "This way will get us there sooner."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "କିଛି ଦୂରରୁ ବନ୍ଦ ଗେଟ୍ ଦେଖାଯାଏ। ଦୁହେଁ ଅଟକନ୍ତି। ମାଧବ ତାଲାକୁ ଦେଖି ଚୁପ୍ ହୁଅନ୍ତି।",
+            "en": "The closed gate comes into view ahead. They stop. Madhab notices the lock and falls quiet."
+          },
+          "sound": {
+            "or": "ପାଦଶବ୍ଦ ଥମେ।",
+            "en": "Footsteps stop."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଆଜି ତ ବନ୍ଦ।",
+                "en": "It’s closed today."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଧବ ଖୋଲା ମୁଖ୍ୟ ବାଟ ଆଡ଼କୁ ବୁଲନ୍ତି। ବେଣୁ ତାଙ୍କ ସହ ବୁଲେ।",
+            "en": "Madhab turns towards the open main path. Benu turns with him."
+          },
+          "sound": {
+            "or": "ପୁଣି ପାଦଶବ୍ଦ।",
+            "en": "Footsteps resume."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ହଁ। ମୋର ମନେଥିବା ବାଟଟା ଆଜି ଚାଲିବନି।",
+                "en": "Yes. The way I remember won’t work today."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଦୁହେଁ ଖୋଲା ବାଟରେ ଧୀରେ ଚାଲନ୍ତି। ମାଧବ ଗପ କହିବା ଆରମ୍ଭ କଲେ ବେଣୁ ତାଙ୍କ ଆଡ଼କୁ ଚାହେଁ।",
+            "en": "They walk along the open path. As Madhab starts a story, Benu looks towards him."
+          },
+          "sound": {
+            "or": "ଚାଲିବା ସହ ଧୀର କଥା।",
+            "en": "Unhurried talk over walking."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ଏଇ ସମୟରେ ଗୋଟେ ଛୋଟ ଗପ ହୋଇଯିବ।",
+                "en": "There’s time for a little story on the way."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଗପଟା ବି ଛୋଟ ବାଟ ନେବ ତ?",
+                "en": "Will the story take a shortcut too?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "madhab-dry-books",
+      "world": "batare-katha",
+      "focus": {
+        "id": "madhab",
+        "name": {
+          "or": "ମାଧବ କକା",
+          "en": "Madhab Kaka"
+        },
+        "profile": "/characters/batare-katha.html#character-2"
+      },
+      "title": {
+        "or": "ବହି ପାଇଁ ଶୁଖିଲା ଜାଗା",
+        "en": "A Dry Place for the Books"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ବର୍ଷା ପରେ ପାଠାଗାରକୁ ଫେରି ମାଧବ ଭିଜା ଛତାକୁ ବହିଥଳି ପାଖରେ ରଖନ୍ତି। ପାଣି ବୁନ୍ଦା ଦେଖି ସେ ଗପ ଥାମି ଜିନିଷ ସଜାଡ଼ନ୍ତି।",
+        "en": "Returning to the reading room after rain, Madhab puts his wet umbrella beside the book bag. A drip makes him pause his story and rearrange things."
+      },
+      "setting": {
+        "or": "ଆଜିର ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ଛୋଟ ସହର ଓ ପାଖ ଗାଁ। ନିର୍ଦ୍ଦିଷ୍ଟ ଜିଲ୍ଲା ଧାର୍ଯ୍ୟ ନାହିଁ। ଏଗାର ବର୍ଷର ବେଣୁ ଓ ତା’ ବାପାଙ୍କ ସାନଭାଇ, ବାଉନ ବର୍ଷର ମାଧବ କକା। ମାଧବ ପୂର୍ବରୁ ପାଠାଗାର ସହାୟକ ଥିଲେ।",
+        "en": "A fictional present-day Odisha town and neighbouring villages; no exact district is assigned. Eleven-year-old Benu and his father’s younger brother, fifty-two-year-old Madhab Kaka, a former library assistant."
+      },
+      "performance": {
+        "or": "ଗପରେ ମଗ୍ନ → ପାଣି ବୁନ୍ଦା ଦେଖି ଧ୍ୟାନ ଫେରିବା → ନିଜ ଛୋଟ ଭୁଲ୍ ସଜାଡ଼ିବା → ଗପ ପୁଣି ଧରିବା।",
+        "en": "Absorbed in his tale → brought back by a drip → correcting his small mistake → picking up the story again."
+      },
+      "wardrobe": {
+        "or": "ବେଣୁର ଢିଲା ସବୁଜ ଛୋଟ ହାତର ସାର୍ଟ, ବାମ ଛାତି ପକେଟ୍‌ରେ ଛୋଟ ଖାତା, ବାଦାମୀ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ଚପଲ। ମାଧବଙ୍କ କ୍ରିମ୍ ସୂତା କୁର୍ତ୍ତାର ହାତ ମୋଡ଼ା; ସାଧା ଧୋତିରେ ସରୁ ମଳିନ ନୀଳ ଧାର। ବାମ କାନ୍ଧରେ ଇଟାଲାଲ ବହିଥଳି, ଡାହାଣ ହାତରେ ବନ୍ଦ ନୀଳ ଛତା। ବସିଲେ ଥଳି ଓ ଛତା ପାଖରେ ରଖିବେ। ଧୋତିର କୁଞ୍ଚ ଓ ତଳ ଧାର ବସିବା, ଚାଲିବାରେ ସ୍ୱାଭାବିକ ରହିବ। ଏହା ଚରିତ୍ରଙ୍କ ଦୈନିକ ପସନ୍ଦ; ଧାର୍ଯ୍ୟ ନଥିବା ଜିଲ୍ଲାର ନିର୍ଦ୍ଦିଷ୍ଟ ପୋଷାକ ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "Benu wears a loose green short-sleeved shirt, a pocket notebook at his left chest, brown shorts and sandals. Madhab wears a cream cotton kurta with rolled sleeves and a simply wrapped dhoti with a narrow dusty-blue border. Rust cloth book bag on his left shoulder; folded blue umbrella in his right hand. When seated, he sets both beside him. Keep the dhoti’s folds and hem plausible when sitting and walking. These are the characters’ everyday choices, not a claimed costume of an unassigned district."
+      },
+      "continuity": {
+        "or": "ବର୍ଷା ସରିଛି। ବାରଣ୍ଡା ଭିତରେ ବେଞ୍ଚ ଶୁଖିଲା। ଭିଜା ଛତା ଆରମ୍ଭରେ ଥଳି ପାଖେ; ଶେଷରେ ବାହାର ଦୁଆର ଧାରରେ ନିରାପଦରେ ରହିବ, ଚାଲିବା ବାଟରେ ନୁହେଁ। ଥଳିର ବାହାରେ ଅଳ୍ପ ପାଣି; ଦୁଇ ବହି ଶୁଖିଲା ରହେ। ଗାମୁଛା ପ୍ରଥମ ଦୃଶ୍ୟରୁ ବେଞ୍ଚରେ।",
+        "en": "The rain has stopped. The bench inside the verandah is dry. The wet umbrella starts beside the bag and ends safely at the outer doorway, clear of the walking route. Only a little water reaches the bag’s exterior; both books stay dry. The gamucha is established on the bench in the first shot."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "referenceImage": "/characters/assets/batare-katha-natural-v2.png",
+      "preview": "/characters/travelling-duo/model-sheets/madhab-model-v1.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଧବ ଶୁଖିଲା ବେଞ୍ଚରେ ବହିଥଳି ରଖି ତା’ ପାଖେ ବନ୍ଦ ଭିଜା ଛତା ଆଉଜାନ୍ତି। ବେଣୁ ତାଙ୍କ ଗପ ଶୁଣୁଛି। ବେଞ୍ଚ ଅନ୍ୟ ଧାରରେ ଗାମୁଛା।",
+            "en": "Madhab puts his book bag on the dry bench and leans the folded wet umbrella beside it. Benu listens to his story. A gamucha lies at the other end of the bench."
+          },
+          "sound": {
+            "or": "ବାହାର ଛାତରୁ ଶେଷ ପାଣି ବୁନ୍ଦା।",
+            "en": "The last roof drips outside."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ତା’ପରେ ସେ କହିଲା—",
+                "en": "And then they said—"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଛତାରୁ ଏକ ବୁନ୍ଦା ଥଳିର ବାହାରେ ପଡ଼େ। ମାଧବ ଦେଖି କଥା ଥାମନ୍ତି। ସେ ଥଳି ଖୋଲି ଦୁଇ ବହି ବାହାର କରନ୍ତି।",
+            "en": "A drip from the umbrella touches the outside of the bag. Madhab sees it and stops speaking. He opens the bag and takes out two books."
+          },
+          "sound": {
+            "or": "ଟପ୍। ତା’ପରେ କପଡ଼ା ଓ ବହିର ଶବ୍ଦ।",
+            "en": "Drip. Then cloth and books."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ଓହୋ, ଏଇଟା ଏଠି ରଖିଦେଲି!",
+                "en": "Oh, I put this right here!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ବେଣୁ ଦୁଇ ଶୁଖିଲା ବହି ଧରେ। ମାଧବ ଛତାକୁ ବାହାର ଧାରରେ ରଖି ଗାମୁଛାରେ ଥଳିର ପାଣି ପୋଛନ୍ତି।",
+            "en": "Benu holds the two dry books. Madhab moves the umbrella to the outer edge and uses the gamucha to blot the bag."
+          },
+          "sound": {
+            "or": "କପଡ଼ାରେ ହାଲୁକା ପୋଛା।",
+            "en": "Soft blotting with cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ବେଣୁ",
+                "en": "Benu"
+              },
+              "text": {
+                "or": "ଗପଟା କେଉଁଠି ରହିଲା?",
+                "en": "Where did the story get to?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ମାଧବ ଥଳି ଶୁଖିଲା ପାଖରେ ଖୋଲା ରଖନ୍ତି। ବହି ଦୁହିଁଙ୍କ ମଝିରେ। ସେ ବସି ବେଣୁ ଆଡ଼କୁ ଚାହାନ୍ତି।",
+            "en": "Madhab leaves the bag open in the dry area. The books rest between them. He sits and turns to Benu."
+          },
+          "sound": {
+            "or": "ପୁଣି ବସିବା, ବାହାରେ ହାଲୁକା ଟପ୍।",
+            "en": "Settling onto the bench, a faint drip outside."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଧବ କକା",
+                "en": "Madhab Kaka"
+              },
+              "text": {
+                "or": "ସେ ଏଯାଏ କିଛି କହିନି। ଆମ ପାଇଁ ଅପେକ୍ଷା କରୁଛି।",
+                "en": "They haven’t said it yet. They’re waiting for us."
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
   "updated": "2026-10-17"
