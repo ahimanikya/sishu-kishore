@@ -2,7 +2,7 @@
 import hashlib,zipfile
 for cut in json.loads((ROOT/'data/character-film-cuts-v1.json').read_text())['cuts']:
     source=ARCHIVE/cut['archive']
-    folder='/characters/films/'+cut['script']+'/first-cut-v1/'
+    folder='/characters/films/'+cut['script']+'/'+Path(cut['page']).stem+'/'
     dest=ROOT/'public'/folder.lstrip('/');dest.mkdir(parents=True,exist_ok=True)
     for name in [cut['video'],cut['storyboard'],*cut['captions'].values()]:shutil.copy2(source/name,dest/name)
     shutil.copy2(source/cut['poster'],dest/'poster.png')
@@ -18,13 +18,20 @@ for cut in json.loads((ROOT/'data/character-film-cuts-v1.json').read_text())['cu
     body+=link(video,'ଭିଡିଓ ଖୋଲନ୍ତୁ','Open the video')+'</video>'+bi(cut['description'],'p','id="film-description"')
     body+=bi(pair('ନିଜେ ଚଳାନ୍ତୁ। CCରେ ଓଡ଼ିଆ ଓ ଇଂରାଜୀ ଶବ୍ଦ ବର୍ଣ୍ଣନା ବାଛନ୍ତୁ।','Press play. CC offers sound descriptions in Odia and English.'),'p','class="caption"')+'<p>'+link(video,'ଭିଡିଓ ଡାଉନଲୋଡ୍ · MP4','Download video · MP4','button secondary')+' '+link(pack,'ଚିତ୍ର, ଧ୍ୱନି ଓ ଚଳନ ଫାଇଲ୍ · ZIP','Artwork, sound and animation files · ZIP','button secondary')+'</p></section>'
     body+='<section id="development">'+bi(pair('ଚିତ୍ରରୁ ଚଳଚ୍ଚିତ୍ର','From drawings to film'),'h2')+bi(cut['development'])+image(folder+cut['storyboard'],'ଚାରି ଦୃଶ୍ୟର ପ୍ରଥମ ରଙ୍ଗୀନ ଖସଡ଼ା।','The first four-frame colour storyboard.')+'<p>'+link('/characters/scripts/'+cut['script']+'.html','ଦୁଇ ଭାଷାର ପୂରା ପାଠ୍ୟ','Full bilingual script')+' · '+link('/characters/koraput.html#character-4','ଚିକୁର ଚରିତ୍ର ଅଧ୍ୟୟନ','Chiku’s character study')+'</p></section>'
+    if cut.get('previous'):
+        body+='<p>'+link(cut['previous'],'ପୂର୍ବ ଖସଡ଼ା ଦେଖନ୍ତୁ','View the earlier cut')+'</p>'
+    if cut.get('supersededBy'):
+        body+='<p>'+link(cut['supersededBy'],'ନୂଆ ସଂଶୋଧିତ ଖସଡ଼ା ଦେଖନ୍ତୁ','Watch the revised cut','button')+'</p>'
     body+='<section>'+bi(pair('ପୋଷାକ ଓ ଦୈନନ୍ଦିନ ଜୀବନ','Clothes and daily life'),'h2')+bi(cut['clothing'])+link('/characters/regional-dress.html#koraput','କୋରାପୁଟର ପୋଷାକ ସମ୍ପର୍କିତ ସୂତ୍ର','Koraput clothing references')+'</section>'
     body+='<section>'+bi(pair('ପରବର୍ତ୍ତୀ ସଂଶୋଧନ','Next refinement'),'h2')+bi(cut['remaining'])+bi(REVIEW)+'</section><script defer src="/characters/assets/motion-player.js"></script>'+journey
     shell(cut['page'].removeprefix('/characters/').removesuffix('.html'),cut['title'],body,poster)
     for filename in ['index.html','design-path.html','complete-report.html','story-lab.html',cut['world']+'.html','scripts/'+cut['script']+'.html','regional-dress.html']:
         page=OUT/filename;s=BeautifulSoup(page.read_text(),'html.parser')
         for old in s.select('#'+cut['id']):old.decompose()
-        feature='<section class="report-section voices-addition" id="'+cut['id']+'">'+bi(pair('ଚିକୁର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା','Chiku’s first animated cut'),'h2')+bi(cut['intro'])+bi(cut['boundary'])+'<p>'+link(cut['page'],'ଚିକୁର ଗପ ଦେଖନ୍ତୁ · ୫୦ ସେକେଣ୍ଡ →','Watch Chiku’s story · 50 seconds →','button')+'</p></section>'
+        if not cut.get('featured',True):
+            page.write_text(str(s).rstrip()+'\n')
+            continue
+        feature='<section class="report-section voices-addition" id="'+cut['id']+'">'+bi(cut.get('featureTitle',pair('ଚିକୁର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା','Chiku’s first animated cut')),'h2')+bi(cut['intro'])+bi(cut['boundary'])+'<p>'+link(cut['page'],'ଚିକୁର ଗପ ଦେଖନ୍ତୁ · ୫୦ ସେକେଣ୍ଡ →','Watch Chiku’s story · 50 seconds →','button')+'</p></section>'
         s.main.append(BeautifulSoup(feature,'html.parser'))
         if filename=='scripts/'+cut['script']+'.html':
             note=s.select_one('.voice-boundary')
