@@ -2,26 +2,389 @@
   "version": 1,
   "date": "2026-10-17",
   "koeli": {
-    "name": {"or":"କୋଇଲି", "en":"Koeli"},
-    "subtitle": {"or":"ଗୀତରେ ଡାକେ, ଗପରେ ମିଶାଏ।", "en":"A song to gather us. A story to share."},
-    "intro": {"or":"ଗଛ ଡାଳରେ ବସି କୋଇଲି ପ୍ରଥମେ ଶୁଣେ। ଗୋଟିଏ ଛୋଟ ସୁରରେ ଡାକେ, ତା’ପରେ ଗପ ଆରମ୍ଭ କରେ। କେବେ ନିଜ ଉତ୍ସାହରେ ଶେଷ କଥାଟି ଆଗରୁ କହିଦିଏ—ପୁଣି ହସି ଆରମ୍ଭକୁ ଫେରେ।", "en":"Koeli listens from a branch, gathers everyone with a small tune, then begins a story. Sometimes excitement lets the ending slip out too soon—and Koeli laughs and starts again."},
-    "role": {"or":"ସଂଗ୍ରହର ଗପ ସାଥୀ", "en":"The collection’s storytelling companion"},
+    "name": {
+      "or": "କୋଇଲି",
+      "en": "Koeli"
+    },
+    "subtitle": {
+      "or": "ଗୀତରେ ଡାକେ, ଗପରେ ମିଶାଏ।",
+      "en": "A song to gather us. A story to share."
+    },
+    "intro": {
+      "or": "ଗଛ ଡାଳରେ ବସି କୋଇଲି ପ୍ରଥମେ ଶୁଣେ। ଗୋଟିଏ ଛୋଟ ସୁରରେ ଡାକେ, ତା’ପରେ ଗପ ଆରମ୍ଭ କରେ। କେବେ ନିଜ ଉତ୍ସାହରେ ଶେଷ କଥାଟି ଆଗରୁ କହିଦିଏ—ପୁଣି ହସି ଆରମ୍ଭକୁ ଫେରେ।",
+      "en": "Koeli listens from a branch, gathers everyone with a small tune, then begins a story. Sometimes excitement lets the ending slip out too soon—and Koeli laughs and starts again."
+    },
+    "role": {
+      "or": "ସଂଗ୍ରହର ଗପ ସାଥୀ",
+      "en": "The collection’s storytelling companion"
+    },
     "sections": [
-      {"title":{"or":"କୋଇଲିର ସ୍ୱଭାବ", "en":"A personality to recognise"},"text":{"or":"କୌତୂହଳୀ, ସ୍ନେହଶୀଳ, ଟିକେ ଚଗଲା। କୋଇଲିର ସୁର ମନେରହେ, ହେଲେ ଗପର କ୍ରମ କେବେ ଗୋଳମାଳ ହୁଏ। ପିଲା ସୁଧାରିଦେଲେ ମନଦେଇ ଶୁଣେ। ଗପ କହିବାର ଇଚ୍ଛା ଯେତେ, ଅନ୍ୟର ଗପ ଶୁଣିବାର ଆନନ୍ଦ ବି ସେତେ।", "en":"Curious, affectionate and a little mischievous. Koeli remembers a tune but sometimes muddles the order of a tale. When a child corrects it, the bird listens. The pleasure of hearing someone else’s story matters as much as telling one."}},
-      {"title":{"or":"ପ୍ରତି ଜଗତରେ ଏକ ଛୋଟ ସ୍ୱାଗତ", "en":"A small welcome to each world"},"text":{"or":"କୋଇଲି ଗଳ୍ପର ଆରମ୍ଭ ଓ ଶେଷରେ ପାଠକଙ୍କ ସହ କଥା କହିପାରେ। ବୋଇତର ଯାତ୍ରା, ଅବୋଲକରାର ପ୍ରଶ୍ନ ବା ଧରମାର ଗପକୁ ପରିଚୟ କରାଏ। ଐତିହାସିକ ଘଟଣାର ପ୍ରତ୍ୟକ୍ଷ ସାକ୍ଷୀ ବୋଲି କହେନାହିଁ। ନୀଳୁ–ଚଇତିର ପକ୍ଷୀ ସାଥୀ ନିଜ ସାଧାରଣ ଆଚରଣରେ ରହେ।", "en":"Koeli can speak to readers at the beginning and end of a story: introducing a boat’s departure, Abolakara’s question or Dharama’s tale. It is a literary narrator, not an eyewitness to historical events. Nilu–Chaiti’s existing bird companion keeps its ordinary animal behaviour."}},
-      {"title":{"or":"ଗୀତ ଓ କଥାର ସ୍ୱର", "en":"Song and speaking voice"},"text":{"or":"ଛୋଟ ବାକ୍ୟ, ସ୍ୱାଭାବିକ ଓଡ଼ିଆ, ଶୁଣିବା ପାଇଁ ବିରାମ। କୋଇଲି ସବୁବେଳେ ଉପଦେଶ ଦିଏନାହିଁ; ପାଠକଙ୍କୁ ଭାବିବାକୁ ଏକ ପ୍ରଶ୍ନ ଛାଡ଼ିଦିଏ। ତଳର ଦୁଇ ଧାଡ଼ି ଏହି ଚରିତ୍ର ପାଇଁ ନୂଆ ଲେଖା; ପାରମ୍ପରିକ ଗୀତର ଉଦ୍ଧୃତି ନୁହେଁ। ଏବେ ଏହା ଲିଖିତ ପାଠ, ରେକର୍ଡ ହୋଇଥିବା ଗୀତ ନୁହେଁ।", "en":"Short sentences, natural Odia and room to listen. Koeli leaves a question with the reader instead of explaining every lesson. The two lines below are newly written for this character, not quoted from a traditional song. They are a written refrain; no song recording has been produced."}},
-      {"title":{"or":"ସରଳ ରୂପ, ଚିହ୍ନା ଚାଲିଚଳଣ", "en":"A simple, recognisable bird"},"text":{"or":"ଚିତ୍ରର ଆଧାର ପୁରୁଷ ଏସୀୟ କୋଇଲି: କଳା ଦେହ, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା ଓ ଡାଳ ଧରିବାରେ ଭାବ ଦେଖାଯାଏ। ପୋଷାକ ବା ଅଳଙ୍କାର ଦରକାର ନାହିଁ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଆମ ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।", "en":"The visual reference is a male Asian koel: dark plumage, a long tail, pale bill and restrained reddish eyes. A head tilt, opening beak and grip on a branch carry expression. Clothes and ornaments are unnecessary. The species is not exclusive to Odisha; our connection comes through Odia speech and literary memory."}}
+      {
+        "title": {
+          "or": "କୋଇଲିର ସ୍ୱଭାବ",
+          "en": "A personality to recognise"
+        },
+        "text": {
+          "or": "କୌତୂହଳୀ, ସ୍ନେହଶୀଳ, ଟିକେ ଚଗଲା। କୋଇଲିର ସୁର ମନେରହେ, ହେଲେ ଗପର କ୍ରମ କେବେ ଗୋଳମାଳ ହୁଏ। ପିଲା ସୁଧାରିଦେଲେ ମନଦେଇ ଶୁଣେ। ଗପ କହିବାର ଇଚ୍ଛା ଯେତେ, ଅନ୍ୟର ଗପ ଶୁଣିବାର ଆନନ୍ଦ ବି ସେତେ।",
+          "en": "Curious, affectionate and a little mischievous. Koeli remembers a tune but sometimes muddles the order of a tale. When a child corrects it, the bird listens. The pleasure of hearing someone else’s story matters as much as telling one."
+        }
+      },
+      {
+        "title": {
+          "or": "ପ୍ରତି ଜଗତରେ ଏକ ଛୋଟ ସ୍ୱାଗତ",
+          "en": "A small welcome to each world"
+        },
+        "text": {
+          "or": "କୋଇଲି ଗଳ୍ପର ଆରମ୍ଭ ଓ ଶେଷରେ ପାଠକଙ୍କ ସହ କଥା କହିପାରେ। ବୋଇତର ଯାତ୍ରା, ଅବୋଲକରାର ପ୍ରଶ୍ନ ବା ଧରମାର ଗପକୁ ପରିଚୟ କରାଏ। ଐତିହାସିକ ଘଟଣାର ପ୍ରତ୍ୟକ୍ଷ ସାକ୍ଷୀ ବୋଲି କହେନାହିଁ। ନୀଳୁ–ଚଇତିର ପକ୍ଷୀ ସାଥୀ ନିଜ ସାଧାରଣ ଆଚରଣରେ ରହେ।",
+          "en": "Koeli can speak to readers at the beginning and end of a story: introducing a boat’s departure, Abolakara’s question or Dharama’s tale. It is a literary narrator, not an eyewitness to historical events. Nilu–Chaiti’s existing bird companion keeps its ordinary animal behaviour."
+        }
+      },
+      {
+        "title": {
+          "or": "ଗୀତ ଓ କଥାର ସ୍ୱର",
+          "en": "Song and speaking voice"
+        },
+        "text": {
+          "or": "ଛୋଟ ବାକ୍ୟ, ସ୍ୱାଭାବିକ ଓଡ଼ିଆ, ଶୁଣିବା ପାଇଁ ବିରାମ। କୋଇଲି ସବୁବେଳେ ଉପଦେଶ ଦିଏନାହିଁ; ପାଠକଙ୍କୁ ଭାବିବାକୁ ଏକ ପ୍ରଶ୍ନ ଛାଡ଼ିଦିଏ। ତଳର ଦୁଇ ଧାଡ଼ି ଏହି ଚରିତ୍ର ପାଇଁ ନୂଆ ଲେଖା; ପାରମ୍ପରିକ ଗୀତର ଉଦ୍ଧୃତି ନୁହେଁ। ଏବେ ଏହା ଲିଖିତ ପାଠ, ରେକର୍ଡ ହୋଇଥିବା ଗୀତ ନୁହେଁ।",
+          "en": "Short sentences, natural Odia and room to listen. Koeli leaves a question with the reader instead of explaining every lesson. The two lines below are newly written for this character, not quoted from a traditional song. They are a written refrain; no song recording has been produced."
+        }
+      },
+      {
+        "title": {
+          "or": "ସରଳ ରୂପ, ଚିହ୍ନା ଚାଲିଚଳଣ",
+          "en": "A simple, recognisable bird"
+        },
+        "text": {
+          "or": "ଚିତ୍ରର ଆଧାର ପୁରୁଷ ଏସୀୟ କୋଇଲି: କଳା ଦେହ, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା ଓ ଡାଳ ଧରିବାରେ ଭାବ ଦେଖାଯାଏ। ପୋଷାକ ବା ଅଳଙ୍କାର ଦରକାର ନାହିଁ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଆମ ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।",
+          "en": "The visual reference is a male Asian koel: dark plumage, a long tail, pale bill and restrained reddish eyes. A head tilt, opening beak and grip on a branch carry expression. Clothes and ornaments are unnecessary. The species is not exclusive to Odisha; our connection comes through Odia speech and literary memory."
+        }
+      }
     ],
-    "refrain": {"or":"କୁହୁ କୁହୁ, ଶୁଣ ଟିକେ—\nଗପଟିଏ ଆଣିଛି ତୁମ ପାଇଁ।", "en":"Kuhu, kuhu, listen awhile—\nI’ve brought a story for you."},
+    "refrain": {
+      "or": "କୁହୁ କୁହୁ, ଶୁଣ ଟିକେ—\nଗପଟିଏ ଆଣିଛି ତୁମ ପାଇଁ।",
+      "en": "Kuhu, kuhu, listen awhile—\nI’ve brought a story for you."
+    },
     "opening": [
-      {"title":{"or":"ଶୁଣେ", "en":"Listens"},"line":{"or":"ଟିକେ ରୁହ। ସେ କ’ଣ କହୁଛି, ଶୁଣିବା।", "en":"Wait a moment. Let’s hear what they’re saying."}},
-      {"title":{"or":"ଡାକେ", "en":"Calls"},"line":{"or":"କୁହୁ! ସମସ୍ତେ ଆସିଗଲ?", "en":"Kuhu! Is everyone here?"}},
-      {"title":{"or":"ଗପ ଆରମ୍ଭ କରେ", "en":"Begins a story"},"line":{"or":"ଶୁଣିବ? ଆଜି ଗୋଟେ ଗପ ଅଛି!", "en":"Want to listen? I have a story today!"}}
+      {
+        "title": {
+          "or": "ଶୁଣେ",
+          "en": "Listens"
+        },
+        "line": {
+          "or": "ଟିକେ ରୁହ। ସେ କ’ଣ କହୁଛି, ଶୁଣିବା।",
+          "en": "Wait a moment. Let’s hear what they’re saying."
+        }
+      },
+      {
+        "title": {
+          "or": "ଡାକେ",
+          "en": "Calls"
+        },
+        "line": {
+          "or": "କୁହୁ! ସମସ୍ତେ ଆସିଗଲ?",
+          "en": "Kuhu! Is everyone here?"
+        }
+      },
+      {
+        "title": {
+          "or": "ଗପ ଆରମ୍ଭ କରେ",
+          "en": "Begins a story"
+        },
+        "line": {
+          "or": "ଶୁଣିବ? ଆଜି ଗୋଟେ ଗପ ଅଛି!",
+          "en": "Want to listen? I have a story today!"
+        }
+      }
     ],
     "sources": [
-      {"title":{"or":"ପକ୍ଷୀ ପରିଚୟ · କର୍ନେଲ୍ eBird", "en":"Bird identification · Cornell eBird"},"url":"https://ebird.org/species/asikoe2/MY-03","note":{"or":"ପୁରୁଷ ଓ ସ୍ତ୍ରୀ କୋଇଲିର ରୂପ ଭିନ୍ନ। ଏଠାରେ ପୁରୁଷ ପକ୍ଷୀର ରୂପ ଚୟନିତ।", "en":"Male and female koels differ in appearance. The selected design uses the male’s plumage."}},
-      {"title":{"or":"ଓଡ଼ିଆ ସାହିତ୍ୟରେ କେଶବ କୋଇଲି · ଓଡ଼ିଶା ରିଭ୍ୟୁ, ମାର୍ଚ୍ଚ ୨୦୧୪", "en":"Kesaba Koili in Odia literature · Odisha Review, March 2014"},"url":"https://magazines.odisha.gov.in/Orissareview/2014/mar/engpdf/march-or-14.pdf","note":{"or":"ମାର୍କଣ୍ଡ ଦାସଙ୍କ କୃତି ଏକ ସାହିତ୍ୟିକ ସୂତ୍ର। ଏହି ଚରିତ୍ରର କଥା ଓ ଗୀତ ସେଠାରୁ ନିଆଯାଇନାହିଁ।", "en":"Markanda Das’s work provides a literary reference. This character’s dialogue and refrain are newly written."}}
+      {
+        "title": {
+          "or": "ପକ୍ଷୀ ପରିଚୟ · କର୍ନେଲ୍ eBird",
+          "en": "Bird identification · Cornell eBird"
+        },
+        "url": "https://ebird.org/species/asikoe2/MY-03",
+        "note": {
+          "or": "ପୁରୁଷ ଓ ସ୍ତ୍ରୀ କୋଇଲିର ରୂପ ଭିନ୍ନ। ଏଠାରେ ପୁରୁଷ ପକ୍ଷୀର ରୂପ ଚୟନିତ।",
+          "en": "Male and female koels differ in appearance. The selected design uses the male’s plumage."
+        }
+      },
+      {
+        "title": {
+          "or": "ଓଡ଼ିଆ ସାହିତ୍ୟରେ କେଶବ କୋଇଲି · ଓଡ଼ିଶା ରିଭ୍ୟୁ, ମାର୍ଚ୍ଚ ୨୦୧୪",
+          "en": "Kesaba Koili in Odia literature · Odisha Review, March 2014"
+        },
+        "url": "https://magazines.odisha.gov.in/Orissareview/2014/mar/engpdf/march-or-14.pdf",
+        "note": {
+          "or": "ମାର୍କଣ୍ଡ ଦାସଙ୍କ କୃତି ଏକ ସାହିତ୍ୟିକ ସୂତ୍ର। ଏହି ଚରିତ୍ରର କଥା ଓ ଗୀତ ସେଠାରୁ ନିଆଯାଇନାହିଁ।",
+          "en": "Markanda Das’s work provides a literary reference. This character’s dialogue and refrain are newly written."
+        }
+      }
     ]
   },
-  "worlds": []
+  "worlds": [
+    {
+      "id": "abolakara",
+      "name": {
+        "or": "ଅବୋଲକରା ଓ ସାଆନ୍ତ",
+        "en": "Abolakara & Saanta"
+      },
+      "subtitle": {
+        "or": "ପ୍ରଶ୍ନ ଆଗେ। ଯାତ୍ରା ପରେ।",
+        "en": "The question comes first. The journey can wait."
+      },
+      "kind": {
+        "or": "ଓଡ଼ିଆ ଲୋକକଥାର ଚରିତ୍ର · ନୂଆ ପର୍ବ",
+        "en": "Odia folktale characters · A new episode"
+      },
+      "intro": {
+        "or": "ବାଟରେ ଅଜବ କିଛି ଦେଖିଲେ ଅବୋଲକରା ଅଟକିଯାଏ। ଉତ୍ତର ନଶୁଣି ଆଗକୁ ଯିବନି। ସାଆନ୍ତଙ୍କ ପାଖରେ ଗପ ଅଛି, ହେଲେ ଏହି ସାଥୀର ପର ପ୍ରଶ୍ନ ପାଇଁ ସବୁବେଳେ ପ୍ରସ୍ତୁତ ନଥାଆନ୍ତି।",
+        "en": "When something on the road puzzles Abolakara, he stops. He will not move on without an explanation. Saanta has a story to tell, though he is not always ready for his companion’s next question."
+      },
+      "boundary": {
+        "or": "ଅବୋଲକରା ଓ ତାଙ୍କ ଜ୍ଞାନୀ ସାଆନ୍ତ ଓଡ଼ିଆ ଲୋକକଥାରୁ ଆସିଛନ୍ତି। ଏହି ରୂପ, ସଂଳାପ ଓ ‘ପାଣିର ବାଟ’ ପର୍ବ ଏହି ପ୍ରକଳ୍ପର ନୂଆ ବ୍ୟାଖ୍ୟା। କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଲେଖକଙ୍କ ପ୍ରକାଶିତ ଗଳ୍ପର ଅନୁବାଦ ନୁହେଁ।",
+        "en": "Abolakara and his learned master belong to Odia folktale tradition. These designs, dialogue and the episode The Water Path are new interpretations for this project, not a translation of a particular author’s published story."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଓଡ଼ିଆ ଲୋକକଥାର ଯାତ୍ରାପଥ: ଗାଁ ଦାଣ୍ଡ, ଛାଇ, କୂଅ ଓ ବାଟୋଇଙ୍କ ବିଶ୍ରାମ ସ୍ଥାନ। ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀ ବା ଗାଁ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "A journey through a folktale Odisha: village paths, shade, a well and a resting place for travellers. No exact century or village is claimed."
+      },
+      "profiles": [
+        {
+          "name": {
+            "or": "ଅବୋଲକରା",
+            "en": "Abolakara"
+          },
+          "role": {
+            "or": "ପ୍ରଶ୍ନକାରୀ ଯୁବ ସାଥୀ",
+            "en": "The young questioning companion"
+          },
+          "details": [
+            {
+              "title": {
+                "or": "ଇଚ୍ଛା ଓ ଶକ୍ତି",
+                "en": "Desire and strength"
+              },
+              "text": {
+                "or": "ନିଜ ଆଖିରେ ଦେଖିଥିବା କଥା ବୁଝିବାକୁ ଚାହେଁ। ପଦବୀ ଦେଖି ଚୁପ୍ ହୁଏନାହିଁ। ସମସ୍ତେ ସାଧାରଣ ଭାବୁଥିବା କଥାରେ ସେ ପ୍ରଶ୍ନ ଖୋଜେ।",
+                "en": "He wants to understand what he sees. Status does not silence him. He finds a question in things everyone else has stopped noticing."
+              }
+            },
+            {
+              "title": {
+                "or": "ହସ ଓ ଦୁର୍ବଳତା",
+                "en": "Humour and friction"
+              },
+              "text": {
+                "or": "ଭୋକିଲା ସାଆନ୍ତ ଖାଇବାକୁ ବସିଲାବେଳେ ବି ତା’ ପ୍ରଶ୍ନ ସରେନି। କେବେ ଶୁଣିବା ଆଗରୁ ନିଷ୍ପତ୍ତି କରେ। ନିଜ ଭୁଲ୍ ଧରାପଡ଼ିଲେ ଆଉ ଗୋଟିଏ ପ୍ରଶ୍ନ କରିଦିଏ।",
+                "en": "His questions continue even when a hungry Saanta sits down to eat. Sometimes he decides too soon. When his own mistake becomes clear, another question is already on its way."
+              }
+            },
+            {
+              "title": {
+                "or": "ରୂପ ଓ ଅଭ୍ୟାସ",
+                "en": "Appearance and habits"
+              },
+              "text": {
+                "or": "ଏହି ଚିତ୍ରରେ ଯୁବକ ରୂପ, ସରୁ ଦେହ, ଅସଜଡ଼ା ଛୋଟ କେଶ ଓ ଚଳନ୍ତି ଭ୍ରୂ। ସାଧା ସୂତା ପୋଷାକ, ଚପଲ, ଛୋଟ ପୁଟୁଳି ଓ ଗୁଡ଼ା ଆସନ। ନିର୍ଦ୍ଦିଷ୍ଟ ବୟସ ପାରମ୍ପରିକ ପ୍ରମାଣ ଭାବେ ଦିଆଯାଇନାହିଁ।",
+                "en": "A youthful, lean interpretation with short unruly hair and mobile eyebrows. Plain cotton clothing, sandals, a small bundle and rolled mat. The visual age is a design choice, not a documented traditional age."
+              }
+            }
+          ]
+        },
+        {
+          "name": {
+            "or": "ସାଆନ୍ତ",
+            "en": "Saanta"
+          },
+          "role": {
+            "or": "ଜ୍ଞାନୀ ପଥିକ ଓ କଥକ",
+            "en": "The learned traveller and storyteller"
+          },
+          "details": [
+            {
+              "title": {
+                "or": "ସମ୍ପର୍କ ଓ ଭୂମିକା",
+                "en": "Relationship and role"
+              },
+              "text": {
+                "or": "ପାରମ୍ପରିକ କଥାରେ ଅବୋଲକରାଙ୍କ ମାଲିକ ଓ ଯାତ୍ରାର ଜ୍ଞାନୀ ବଡ଼। ‘ସାଆନ୍ତ’ ଏଠାରେ ସମ୍ବୋଧନ, ନୂଆ ବ୍ୟକ୍ତିଗତ ନାମ ନୁହେଁ। ଏହି ବ୍ୟାଖ୍ୟାରେ ଅବୋଲକରାର ପ୍ରଶ୍ନ ଓ ମର୍ଯ୍ୟାଦାକୁ ସ୍ଥାନ ମିଳେ।",
+                "en": "The learned elder and master in the traditional travelling pair. Saanta is used here as a form of address, not an invented personal name. This interpretation gives Abolakara’s questions and dignity room within that unequal relationship."
+              }
+            },
+            {
+              "title": {
+                "or": "ସ୍ୱଭାବ ଓ ହସ",
+                "en": "Temperament and humour"
+              },
+              "text": {
+                "or": "ଗପର ଘଟଣା ମନେରଖନ୍ତି, କହିବାର ସମୟ ବୁଝନ୍ତି। ହେଲେ ନିଜ ଭୋକ ଓ ବିଶ୍ରାମକୁ ମଧ୍ୟ ଗୁରୁତ୍ୱ ଦିଅନ୍ତି। ଅବୋଲକରା ଅଟକିଲେ ମୁଣ୍ଡ ଫେରାଇ ତାକନ୍ତି—ଆଉ ଗୋଟିଏ ଗପ କହିବାକୁ ହେବ!",
+                "en": "He remembers a tale and knows how to pace it. He also values lunch and a rest. When Abolakara stops, Saanta turns back with a look that says another story will be needed."
+              }
+            },
+            {
+              "title": {
+                "or": "ରୂପ ଓ ସାମଗ୍ରୀ",
+                "en": "Appearance and belongings"
+              },
+              "text": {
+                "or": "ପାଚିଆ କେଶ, ଛୋଟ ନିଶ, ସାଧା ଧୋତି ଓ କାନ୍ଧରେ ଚାଦର। ବାଉଁଶ ବେଣ୍ଟର ଛତା ଯାତ୍ରାର କାମରେ ଆସେ। ପୋଷାକ ଓ ମୁହଁ ଏହି ପ୍ରକଳ୍ପର ବ୍ୟାଖ୍ୟା।",
+                "en": "Greying hair, a small moustache, a plain dhoti and shoulder cloth. A bamboo-handled umbrella belongs to the journey. Costume and facial features are this project’s interpretation."
+              }
+            }
+          ]
+        }
+      ],
+      "relationship": {
+        "or": "ଅବୋଲକରାର ଅଧୈର୍ଯ୍ୟ ଗପ ଆରମ୍ଭ କରାଏ; ସାଆନ୍ତଙ୍କ ବିରାମ ତାକୁ ଶୁଣିବାକୁ ଶିଖାଏ। ଜଣଙ୍କ ପ୍ରଶ୍ନ ଓ ଅନ୍ୟଜଣଙ୍କ ଅଭିଜ୍ଞତା ଏକାଠି ଗଳ୍ପ ଗଢ଼େ।",
+        "en": "Abolakara’s impatience starts the story; Saanta’s pauses give him a reason to listen. One brings the question and the other brings experience. Their exchange makes the tale."
+      },
+      "visual": {
+        "or": "ସାଧା ସୂତା ପୋଷାକ, ଗୁଡ଼ା ଆସନ ଓ ଛତା ଯାତ୍ରାକୁ ଚିହ୍ନାଏ। ଗଛଛାଇରେ ଦୁହିଁଙ୍କ ଅଲଗା ଧ୍ୟାନ ଓ ବସିବା ଭଙ୍ଗୀରେ ହସ ରହେ। ଐତିହ୍ୟ ଚିହ୍ନର ଭିଡ଼ ଆବଶ୍ୟକ ନୁହେଁ।",
+        "en": "Plain cotton, a rolled mat and an umbrella establish the journey. Different postures and competing interests create the humour beneath the tree. The scene needs few heritage symbols."
+      },
+      "sources": [
+        {
+          "title": {
+            "or": "କୈଳାଶ ପଟ୍ଟନାୟକ · ଲୋକରତ୍ନ, ୨୦୧୩",
+            "en": "Kailash Pattanaik · Lokaratna, 2013"
+          },
+          "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/8920e957-babc-45d4-9981-6b8bbe821a5b/content#page=143",
+          "note": {
+            "or": "ଅବୋଲକରାର ପ୍ରଶ୍ନ ଓ ଯାତ୍ରାର କଥକ ସମ୍ପର୍କ ପାଇଁ ସୂତ୍ର। ପୃଷ୍ଠା ୧୪୩–୧୪୫।",
+            "en": "A source for the insistent questioner and travelling storyteller frame, PDF pages 143–145."
+          }
+        },
+        {
+          "title": {
+            "or": "ଅବୋଲକରା · ପ୍ରତୀକ ପଟ୍ଟନାୟକଙ୍କ ପ୍ରକଳ୍ପ ପରିଚୟ",
+            "en": "Abolakara · Prateek Pattanaik’s project introduction"
+          },
+          "url": "https://pattaprateek.com/abolakara/",
+          "note": {
+            "or": "ଓଡ଼ିଆ ବନାନ ଓ ମୌଖିକ ଗଳ୍ପ ପରମ୍ପରାର ପରିଚୟ। ସେହି ପ୍ରକଳ୍ପର ଅନୁବାଦ ବା ଚିତ୍ର ଏଠାରେ ପୁନଃବ୍ୟବହୃତ ହୋଇନାହିଁ।",
+            "en": "Reference for the Odia spelling and oral storytelling tradition. That project’s translations and illustrations are not reused here."
+          }
+        }
+      ],
+      "story": {
+        "title": {
+          "or": "ପାଣିର ବାଟ",
+          "en": "The Water Path"
+        },
+        "note": {
+          "or": "ପାରମ୍ପରିକ ଅବୋଲକରା ଚରିତ୍ରକୁ ନେଇ ଏକ ନୂଆ ଛଅଦୃଶ୍ୟର ଗପ।",
+          "en": "A newly written six-panel episode with the traditional Abolakara characters."
+        },
+        "koeli": {
+          "or": "ଆଜି ବାଟ ଦୁଇଟି। ଅବୋଲକରାର ପ୍ରଶ୍ନ ଗୋଟିଏ।",
+          "en": "Two paths today. And one question from Abolakara."
+        },
+        "panels": [
+          {
+            "alt": {
+              "or": "ଦୁଇ ବାଟ ମୁହଁରେ ଅବୋଲକରା ଅଟକିଛି; ସାଆନ୍ତ ଫେରି ଦେଖୁଛନ୍ତି।",
+              "en": "Abolakara stops at a fork; Saanta turns back."
+            },
+            "caption": {
+              "or": "ଏକ ବାଟ ଛୋଟ। ଅନ୍ୟଟି ଗାଁ ଦେଇ ବୁଲିଯାଏ।",
+              "en": "One path is short. The other winds through the village."
+            },
+            "lines": [
+              {
+                "speaker": "ଅବୋଲକରା",
+                "speakerEn": "Abolakara",
+                "or": "ସାଆନ୍ତେ, ଲମ୍ବା ବାଟରେ ଏତେ ପାଦଚିହ୍ନ କାହିଁକି?",
+                "en": "Saanta, why are there so many footprints on the longer path?"
+              }
+            ]
+          },
+          {
+            "alt": {
+              "or": "ସାଆନ୍ତ ଖାଇବା ପୁଟୁଳିକୁ ଦେଖନ୍ତି; ଅବୋଲକରା ଆସନଟି ତଳେ ରଖେ।",
+              "en": "Saanta looks at the food bundle; Abolakara puts down the rolled mat."
+            },
+            "lines": [
+              {
+                "speaker": "ସାଆନ୍ତ",
+                "speakerEn": "Saanta",
+                "or": "ଆଗେ ଟିକେ ଖାଇବା।",
+                "en": "Let’s eat something first."
+              },
+              {
+                "speaker": "ଅବୋଲକରା",
+                "speakerEn": "Abolakara",
+                "or": "ଆମ କଥା ମନେଅଛି? ଆଗେ ଉତ୍ତର!",
+                "en": "Remember our agreement? The answer first!"
+              }
+            ]
+          },
+          {
+            "alt": {
+              "or": "ଦୁହେଁ ଗଛଛାଇରେ ବସନ୍ତି; ସାଆନ୍ତ ଗପ ଆରମ୍ଭ କରନ୍ତି।",
+              "en": "They sit in the shade and Saanta begins a tale."
+            },
+            "lines": [
+              {
+                "speaker": "ସାଆନ୍ତ",
+                "speakerEn": "Saanta",
+                "or": "ବସ୍ ତାହେଲେ। ଏ ଗାଁରେ ଜଣେ ବୁଢ଼ୀ ବାଟୋଇଙ୍କ ପାଇଁ ପାଣି ରଖୁଥିଲା।",
+                "en": "Sit, then. An old woman in this village used to keep water for travellers."
+              }
+            ]
+          },
+          {
+            "alt": {
+              "or": "ଗପ ଭିତରେ: ବୁଢ଼ୀଙ୍କ ଖାଲି ମାଟିଘଡ଼ା ଜଣେ ବାଟୋଇ ପାଣି ଆଣି ଭରୁଛି।",
+              "en": "Inside the tale, a traveller refills the old woman’s empty earthen water jar."
+            },
+            "caption": {
+              "or": "ଦିନେ ପାଣି ସରିଗଲା। ଜଣେ ବାଟୋଇ କୂଅରୁ ଆଣି ଘଡ଼ା ଭରିଦେଲା। ତା’ପରେ ଆଉ ଜଣେ।",
+              "en": "One day the water ran out. A traveller fetched more from the well. Next time, someone else did."
+            },
+            "lines": []
+          },
+          {
+            "alt": {
+              "or": "ପୁଣି ଗଛଛାଇରେ: ଅବୋଲକରା ଗାଁ ବାଟକୁ ଦେଖେ; ସାଆନ୍ତ ହସନ୍ତି।",
+              "en": "Back beneath the tree, Abolakara looks towards the village while Saanta smiles."
+            },
+            "lines": [
+              {
+                "speaker": "ଅବୋଲକରା",
+                "speakerEn": "Abolakara",
+                "or": "ତାହେଲେ ପାଣି ପାଇଁ ସମସ୍ତେ ବୁଲିଯାଆନ୍ତି?",
+                "en": "So everyone takes the longer way for water?"
+              },
+              {
+                "speaker": "ସାଆନ୍ତ",
+                "speakerEn": "Saanta",
+                "or": "କେହି ପିଇବାକୁ। କେହି ଭରିଦେବାକୁ।",
+                "en": "Some to drink. Some to fill the jar."
+              }
+            ]
+          },
+          {
+            "alt": {
+              "or": "ଅବୋଲକରା ଗୁଡ଼ା ଆସନ ଉଠାଇ ଗାଁ ବାଟେ ଯାଏ; ସାଆନ୍ତ ଖାଇବା ପୁଟୁଳି ଧରି ପଛେ ଯାଆନ୍ତି।",
+              "en": "Abolakara picks up the mat and takes the village path; Saanta follows with the food bundle."
+            },
+            "lines": [
+              {
+                "speaker": "ଅବୋଲକରା",
+                "speakerEn": "Abolakara",
+                "or": "ଚାଲନ୍ତୁ। ଆଜି ଘଡ଼ାଟା ମୁଁ ଭରିବି।",
+                "en": "Come on. Today I’ll fill it."
+              },
+              {
+                "speaker": "ସାଆନ୍ତ",
+                "speakerEn": "Saanta",
+                "or": "ଆଉ ମୁଁ ଖାଇବି!",
+                "en": "And I’ll finally eat!"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
 }

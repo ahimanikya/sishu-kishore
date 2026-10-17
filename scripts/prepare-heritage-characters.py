@@ -9,3 +9,4 @@ if not script.is_file():
     raise SystemExit('The preserved heritage editorial source is required. Set CHARACTER_HERITAGE_SOURCE to its folder. See CHARACTERS-HERITAGE.txt.')
 runpy.run_path(str(script),run_name='__main__')
 runpy.run_path(str(repository/'scripts/apply-character-credit.py'),run_name='__main__')
+runpy.run_path(str(repository/'scripts/prepare-character-voices.py'),run_name='__main__')

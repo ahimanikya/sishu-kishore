@@ -27,7 +27,12 @@ def shell(name,title,body,preview):
     for el in s.select('meta[name=description],meta[property="og:description"],meta[name="twitter:description"]'):el['content']=s.main.get_text(' ',strip=True)[:240]
     if not s.select_one('link[href="/characters/assets/voices.css"]'):
         el=s.new_tag('link',rel='stylesheet',href='/characters/assets/voices.css');s.head.append(el)
-    (OUT/(name+'.html')).write_text(str(s)+'\n')
+    # Nested story readers must keep the collection shell's links rooted.
+    for a in s.select('.site-header a[href],.site-footer a[href]'):
+        href=a['href']
+        if not href.startswith(('/', '#', 'https:', 'http:')):a['href']='/characters/'+href
+    dest=OUT/(name+'.html');dest.parent.mkdir(parents=True,exist_ok=True)
+    dest.write_text(str(s)+'\n')
 def source_list(sources):
     return '<section id="sources">'+bi(pair('ଉତ୍ସ ଓ ନୂଆ ବ୍ୟାଖ୍ୟା','Sources and interpretation'),'h2')+''.join('<p>'+link(x['url'],x['title']['or'],x['title']['en'])+'</p>'+bi(x['note']) for x in sources)+'</section>'
 
@@ -59,5 +64,6 @@ if (ARCHIVE/'koeli/colour-study-v1.png').exists():
         if not s.select_one('link[href="/characters/assets/voices.css"]'):
             node=s.new_tag('link',rel='stylesheet',href='/characters/assets/voices.css');s.head.append(node)
         path.write_text(str(s)+'\n')
+runpy.run_path(str(ROOT/'scripts/character-voices-pages.py'),init_globals=globals())
 runpy.run_path(str(ROOT/'scripts/apply-character-credit.py'),run_name='__main__')
 print('Prepared available heritage voices.')
