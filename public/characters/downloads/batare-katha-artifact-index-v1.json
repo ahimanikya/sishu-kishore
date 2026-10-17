@@ -43,8 +43,8 @@
     },
     {
       "file": "travelling-duo/language-review/index.html",
-      "bytes": 4722,
-      "sha256": "3e18a7590f170985d8cbe20096d76dd322a9e0db9aad498b6b3058de837cd3f6"
+      "bytes": 4731,
+      "sha256": "056881b6adc039d0346e802a3f0594926abbd22ec3e7850f7f712e3a6bec34b2"
     },
     {
       "file": "travelling-duo/language-review/review-record-v1.json",
@@ -173,8 +173,8 @@
     },
     {
       "file": "travelling-duo/pilot-story/script-v1.json",
-      "bytes": 6935,
-      "sha256": "fbefe0e340b06e6bffbc0892e3d6ad823d8f0e8132ccbd47021f0246c6b91ef2"
+      "bytes": 6932,
+      "sha256": "5c5305f5b6798929a184e9508296aa2fa03f55d9ea942613a0a004c36edcd1ce"
     },
     {
       "file": "index.html",
@@ -183,8 +183,8 @@
     },
     {
       "file": "READ-ME.txt",
-      "bytes": 1297,
-      "sha256": "2b42a945256a9dd2d152a56add5778e138c19ec05629c6b595a08f1cac4949c7"
+      "bytes": 1290,
+      "sha256": "100846084b0f832c7f87d9db0bd48d5055b9540512851bc75fa4e4a7298413db"
     }
   ]
 }

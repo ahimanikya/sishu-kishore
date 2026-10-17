@@ -43,8 +43,8 @@
     },
     {
       "file": "young-makers/language-review/index.html",
-      "bytes": 4616,
-      "sha256": "1844e25eee37e6466610718b93ee1bf7a574d99621d00504968c7ec5550417cb"
+      "bytes": 4625,
+      "sha256": "5c5750ceb86691dde3a832e30ff58a5077a4593e8828e1d1c5bb1f7c5a3935a0"
     },
     {
       "file": "young-makers/language-review/review-record-v1.json",
@@ -173,8 +173,8 @@
     },
     {
       "file": "young-makers/pilot-story/script-v1.json",
-      "bytes": 7468,
-      "sha256": "9fecc2d7ad177e82d184badd395cefa015fb672d030db3a420806901cdcc7e5a"
+      "bytes": 7465,
+      "sha256": "5b438f5731aad60084c13f2cbd043079411383ee21bcb319fa86965d86016166"
     },
     {
       "file": "index.html",
@@ -183,8 +183,8 @@
     },
     {
       "file": "READ-ME.txt",
-      "bytes": 1238,
-      "sha256": "33004061ca0f346e64a74f2cee57cbf6a3b0df789ca49490dd398491b33b1a6b"
+      "bytes": 1231,
+      "sha256": "52205edaee6e8b1bf915b7b34b1f7761440f0630934e56ff5d68487257bd3fb9"
     }
   ]
 }
