@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "date": "2026-10-17",
+  "koeli": {
+    "name": {"or":"କୋଇଲି", "en":"Koeli"},
+    "subtitle": {"or":"ଗୀତରେ ଡାକେ, ଗପରେ ମିଶାଏ।", "en":"A song to gather us. A story to share."},
+    "intro": {"or":"ଗଛ ଡାଳରେ ବସି କୋଇଲି ପ୍ରଥମେ ଶୁଣେ। ଗୋଟିଏ ଛୋଟ ସୁରରେ ଡାକେ, ତା’ପରେ ଗପ ଆରମ୍ଭ କରେ। କେବେ ନିଜ ଉତ୍ସାହରେ ଶେଷ କଥାଟି ଆଗରୁ କହିଦିଏ—ପୁଣି ହସି ଆରମ୍ଭକୁ ଫେରେ।", "en":"Koeli listens from a branch, gathers everyone with a small tune, then begins a story. Sometimes excitement lets the ending slip out too soon—and Koeli laughs and starts again."},
+    "role": {"or":"ସଂଗ୍ରହର ଗପ ସାଥୀ", "en":"The collection’s storytelling companion"},
+    "sections": [
+      {"title":{"or":"କୋଇଲିର ସ୍ୱଭାବ", "en":"A personality to recognise"},"text":{"or":"କୌତୂହଳୀ, ସ୍ନେହଶୀଳ, ଟିକେ ଚଗଲା। କୋଇଲିର ସୁର ମନେରହେ, ହେଲେ ଗପର କ୍ରମ କେବେ ଗୋଳମାଳ ହୁଏ। ପିଲା ସୁଧାରିଦେଲେ ମନଦେଇ ଶୁଣେ। ଗପ କହିବାର ଇଚ୍ଛା ଯେତେ, ଅନ୍ୟର ଗପ ଶୁଣିବାର ଆନନ୍ଦ ବି ସେତେ।", "en":"Curious, affectionate and a little mischievous. Koeli remembers a tune but sometimes muddles the order of a tale. When a child corrects it, the bird listens. The pleasure of hearing someone else’s story matters as much as telling one."}},
+      {"title":{"or":"ପ୍ରତି ଜଗତରେ ଏକ ଛୋଟ ସ୍ୱାଗତ", "en":"A small welcome to each world"},"text":{"or":"କୋଇଲି ଗଳ୍ପର ଆରମ୍ଭ ଓ ଶେଷରେ ପାଠକଙ୍କ ସହ କଥା କହିପାରେ। ବୋଇତର ଯାତ୍ରା, ଅବୋଲକରାର ପ୍ରଶ୍ନ ବା ଧରମାର ଗପକୁ ପରିଚୟ କରାଏ। ଐତିହାସିକ ଘଟଣାର ପ୍ରତ୍ୟକ୍ଷ ସାକ୍ଷୀ ବୋଲି କହେନାହିଁ। ନୀଳୁ–ଚଇତିର ପକ୍ଷୀ ସାଥୀ ନିଜ ସାଧାରଣ ଆଚରଣରେ ରହେ।", "en":"Koeli can speak to readers at the beginning and end of a story: introducing a boat’s departure, Abolakara’s question or Dharama’s tale. It is a literary narrator, not an eyewitness to historical events. Nilu–Chaiti’s existing bird companion keeps its ordinary animal behaviour."}},
+      {"title":{"or":"ଗୀତ ଓ କଥାର ସ୍ୱର", "en":"Song and speaking voice"},"text":{"or":"ଛୋଟ ବାକ୍ୟ, ସ୍ୱାଭାବିକ ଓଡ଼ିଆ, ଶୁଣିବା ପାଇଁ ବିରାମ। କୋଇଲି ସବୁବେଳେ ଉପଦେଶ ଦିଏନାହିଁ; ପାଠକଙ୍କୁ ଭାବିବାକୁ ଏକ ପ୍ରଶ୍ନ ଛାଡ଼ିଦିଏ। ତଳର ଦୁଇ ଧାଡ଼ି ଏହି ଚରିତ୍ର ପାଇଁ ନୂଆ ଲେଖା; ପାରମ୍ପରିକ ଗୀତର ଉଦ୍ଧୃତି ନୁହେଁ। ଏବେ ଏହା ଲିଖିତ ପାଠ, ରେକର୍ଡ ହୋଇଥିବା ଗୀତ ନୁହେଁ।", "en":"Short sentences, natural Odia and room to listen. Koeli leaves a question with the reader instead of explaining every lesson. The two lines below are newly written for this character, not quoted from a traditional song. They are a written refrain; no song recording has been produced."}},
+      {"title":{"or":"ସରଳ ରୂପ, ଚିହ୍ନା ଚାଲିଚଳଣ", "en":"A simple, recognisable bird"},"text":{"or":"ଚିତ୍ରର ଆଧାର ପୁରୁଷ ଏସୀୟ କୋଇଲି: କଳା ଦେହ, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା ଓ ଡାଳ ଧରିବାରେ ଭାବ ଦେଖାଯାଏ। ପୋଷାକ ବା ଅଳଙ୍କାର ଦରକାର ନାହିଁ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଆମ ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।", "en":"The visual reference is a male Asian koel: dark plumage, a long tail, pale bill and restrained reddish eyes. A head tilt, opening beak and grip on a branch carry expression. Clothes and ornaments are unnecessary. The species is not exclusive to Odisha; our connection comes through Odia speech and literary memory."}}
+    ],
+    "refrain": {"or":"କୁହୁ କୁହୁ, ଶୁଣ ଟିକେ—\nଗପଟିଏ ଆଣିଛି ତୁମ ପାଇଁ।", "en":"Kuhu, kuhu, listen awhile—\nI’ve brought a story for you."},
+    "opening": [
+      {"title":{"or":"ଶୁଣେ", "en":"Listens"},"line":{"or":"ଟିକେ ରୁହ। ସେ କ’ଣ କହୁଛି, ଶୁଣିବା।", "en":"Wait a moment. Let’s hear what they’re saying."}},
+      {"title":{"or":"ଡାକେ", "en":"Calls"},"line":{"or":"କୁହୁ! ସମସ୍ତେ ଆସିଗଲ?", "en":"Kuhu! Is everyone here?"}},
+      {"title":{"or":"ଗପ ଆରମ୍ଭ କରେ", "en":"Begins a story"},"line":{"or":"ଶୁଣିବ? ଆଜି ଗୋଟେ ଗପ ଅଛି!", "en":"Want to listen? I have a story today!"}}
+    ],
+    "sources": [
+      {"title":{"or":"ପକ୍ଷୀ ପରିଚୟ · କର୍ନେଲ୍ eBird", "en":"Bird identification · Cornell eBird"},"url":"https://ebird.org/species/asikoe2/MY-03","note":{"or":"ପୁରୁଷ ଓ ସ୍ତ୍ରୀ କୋଇଲିର ରୂପ ଭିନ୍ନ। ଏଠାରେ ପୁରୁଷ ପକ୍ଷୀର ରୂପ ଚୟନିତ।", "en":"Male and female koels differ in appearance. The selected design uses the male’s plumage."}},
+      {"title":{"or":"ଓଡ଼ିଆ ସାହିତ୍ୟରେ କେଶବ କୋଇଲି · ଓଡ଼ିଶା ରିଭ୍ୟୁ, ମାର୍ଚ୍ଚ ୨୦୧୪", "en":"Kesaba Koili in Odia literature · Odisha Review, March 2014"},"url":"https://magazines.odisha.gov.in/Orissareview/2014/mar/engpdf/march-or-14.pdf","note":{"or":"ମାର୍କଣ୍ଡ ଦାସଙ୍କ କୃତି ଏକ ସାହିତ୍ୟିକ ସୂତ୍ର। ଏହି ଚରିତ୍ରର କଥା ଓ ଗୀତ ସେଠାରୁ ନିଆଯାଇନାହିଁ।", "en":"Markanda Das’s work provides a literary reference. This character’s dialogue and refrain are newly written."}}
+    ]
+  },
+  "worlds": []
+}
