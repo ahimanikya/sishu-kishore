@@ -1,27 +1,293 @@
 {
   "date": "2026-10-17",
-  "title": {"or":"ପୋଷାକରେ ମଣିଷ ଓ ତାଙ୍କ ଅଞ୍ଚଳ","en":"Clothing, people and place"},
-  "intro": {"or":"ଓଡ଼ିଶାର ସବୁ ମଣିଷଙ୍କ ପୋଷାକ ଏକାପରି ନୁହେଁ। ଚରିତ୍ର କେଉଁଠି ରହେ, କେଉଁ ସମୟର, କ’ଣ କାମ କରେ ଓ ସେଦିନ କ’ଣ କରୁଛି—ଏସବୁ ଦେଖି ପୋଷାକ ଚୟନ ହୁଏ। କେବଳ ଏକ ବୁଣା ଚିହ୍ନ ଯୋଡ଼ିଦେଲେ ଅଞ୍ଚଳର ପରିଚୟ ସମ୍ପୂର୍ଣ୍ଣ ହୁଏନାହିଁ।","en":"People across Odisha do not share one costume. We choose clothing through a character’s home, period, work and activity that day. A woven motif alone cannot carry a regional identity."},
+  "title": {
+    "or": "ପୋଷାକରେ ମଣିଷ ଓ ତାଙ୍କ ଅଞ୍ଚଳ",
+    "en": "Clothing, people and place"
+  },
+  "intro": {
+    "or": "ଓଡ଼ିଶାର ସବୁ ମଣିଷଙ୍କ ପୋଷାକ ଏକାପରି ନୁହେଁ। ଚରିତ୍ର କେଉଁଠି ରହେ, କେଉଁ ସମୟର, କ’ଣ କାମ କରେ ଓ ସେଦିନ କ’ଣ କରୁଛି—ଏସବୁ ଦେଖି ପୋଷାକ ଚୟନ ହୁଏ। କେବଳ ଏକ ବୁଣା ଚିହ୍ନ ଯୋଡ଼ିଦେଲେ ଅଞ୍ଚଳର ପରିଚୟ ସମ୍ପୂର୍ଣ୍ଣ ହୁଏନାହିଁ।",
+    "en": "People across Odisha do not share one costume. We choose clothing through a character’s home, period, work and activity that day. A woven motif alone cannot carry a regional identity."
+  },
   "principles": [
-    {"or":"କପଡ଼ାର ଓଜନ, ଲମ୍ବ, କୁଞ୍ଚ, ଖୋସା ଓ ପିନ୍ଧିବାର ଭଙ୍ଗୀ ଆଗେ ଦେଖିବା। ତା’ପରେ ରଙ୍ଗ ଓ ନକ୍ସା।","en":"Observe cloth weight, length, folds, tucks and drape first; colour and pattern follow."},
-    {"or":"ଘର, ସ୍କୁଲ୍, କାମ ଓ ପର୍ବ ପାଇଁ ଅଲଗା ପୋଷାକ ହୋଇପାରେ। ପ୍ରତିଦିନର ଦୃଶ୍ୟରେ ସବୁବେଳେ ପର୍ବର ସଜ ଦରକାର ନାହିଁ।","en":"Home, school, work and festivals may call for different clothes. Everyday scenes need an everyday wardrobe."},
-    {"or":"କୌଣସି ଅଞ୍ଚଳର ବୁଣାକଳା ସେଠାରେ ସମସ୍ତଙ୍କ ଦୈନିକ ପୋଷାକର ପ୍ରମାଣ ନୁହେଁ। ପୁରୁଣା ଫଟୋକୁ ଆଜିର ସବୁ ମଣିଷଙ୍କ ରୂପ ବୋଲି ଧରିବା ନାହିଁ।","en":"A weaving centre does not prove what every resident wears. An archival photograph does not represent everyone living there today."},
-    {"or":"ମୁହଁ ବା ଚର୍ମର ରଙ୍ଗରେ ଅଞ୍ଚଳ ଚିହ୍ନାଇବା ନାହିଁ। ଅଲଗା ମଣିଷଙ୍କ ଅଲଗା ରୂପ, ସ୍ୱଭାବ ଓ ଅଭ୍ୟାସ ରହିବ।","en":"We do not use one face or skin tone as a regional marker. Individuals keep their own appearance, personality and habits."}
+    {
+      "or": "କପଡ଼ାର ଓଜନ, ଲମ୍ବ, କୁଞ୍ଚ, ଖୋସା ଓ ପିନ୍ଧିବାର ଭଙ୍ଗୀ ଆଗେ ଦେଖିବା। ତା’ପରେ ରଙ୍ଗ ଓ ନକ୍ସା।",
+      "en": "Observe cloth weight, length, folds, tucks and drape first; colour and pattern follow."
+    },
+    {
+      "or": "ଘର, ସ୍କୁଲ୍, କାମ ଓ ପର୍ବ ପାଇଁ ଅଲଗା ପୋଷାକ ହୋଇପାରେ। ପ୍ରତିଦିନର ଦୃଶ୍ୟରେ ସବୁବେଳେ ପର୍ବର ସଜ ଦରକାର ନାହିଁ।",
+      "en": "Home, school, work and festivals may call for different clothes. Everyday scenes need an everyday wardrobe."
+    },
+    {
+      "or": "କୌଣସି ଅଞ୍ଚଳର ବୁଣାକଳା ସେଠାରେ ସମସ୍ତଙ୍କ ଦୈନିକ ପୋଷାକର ପ୍ରମାଣ ନୁହେଁ। ପୁରୁଣା ଫଟୋକୁ ଆଜିର ସବୁ ମଣିଷଙ୍କ ରୂପ ବୋଲି ଧରିବା ନାହିଁ।",
+      "en": "A weaving centre does not prove what every resident wears. An archival photograph does not represent everyone living there today."
+    },
+    {
+      "or": "ମୁହଁ ବା ଚର୍ମର ରଙ୍ଗରେ ଅଞ୍ଚଳ ଚିହ୍ନାଇବା ନାହିଁ। ଅଲଗା ମଣିଷଙ୍କ ଅଲଗା ରୂପ, ସ୍ୱଭାବ ଓ ଅଭ୍ୟାସ ରହିବ।",
+      "en": "We do not use one face or skin tone as a regional marker. Individuals keep their own appearance, personality and habits."
+    }
   ],
   "regions": [
-    {"id":"western","name":{"or":"ପଶ୍ଚିମ ଓଡ଼ିଶା · ସମ୍ବଲପୁର, ବରଗଡ଼ ଓ ସୁବର୍ଣ୍ଣପୁର","en":"Western Odisha · Sambalpur, Bargarh and Subarnapur"},"observed":{"or":"ସମ୍ବଲପୁର ଅଞ୍ଚଳର କର୍ଡୋଲାରେ ବାନ୍ଧକଳା ଓ ହସ୍ତତନ୍ତ ବୁଣାର ଦଲିଲ ମିଳେ। ଏହା ଏକ ଅଞ୍ଚଳୀୟ ବୁଣା ପରମ୍ପରା; ସବୁ ପୋଷାକର ଏକ ନାମ ନୁହେଁ।","en":"Odisha Tourism documents bandha weaving and pit looms at Kardola near Sambalpur. This establishes a regional textile tradition, not a single name for every garment."},"direction":{"or":"ପଶ୍ଚିମ ଓଡ଼ିଶାର ନୂଆ ଚରିତ୍ର ତିଆରି ହେଲେ ଗୋଟିଏ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିବାର ଓ ଗାଁରୁ ଆରମ୍ଭ କରିବା। ଦୈନିକ ସୂତା ପୋଷାକ, କାମରେ ଗାମୁଛାର ବ୍ୟବହାର ଓ ପର୍ବର ପୋଷାକକୁ ଅଲଗା ଅଧ୍ୟୟନ କରିବା।","en":"For a future western Odisha cast, begin with a particular family and village. Study everyday cotton, how a gamucha is used at work, and festive clothing separately. A large matching ikat pattern on every person is not the default."},"sourceIds":["kardola","textiles"]},
-    {"id":"central-coastal","name":{"or":"କଟକ–ନୂଆପାଟଣା ଓ ଉପକୂଳ ଅଞ୍ଚଳ","en":"Cuttack–Nuapatna and the coastal region"},"observed":{"or":"ନୂଆପାଟଣାର ଖଣ୍ଡୁଆ ନେଇ ବସ୍ତ୍ର କମିଟିର ଦଲିଲରେ ଶାଢ଼ୀ ସହ ଚାଦର, ଷ୍ଟୋଲ୍ ଓ ଅନ୍ୟ ପୋଷାକର ଉଲ୍ଲେଖ ଅଛି। ମନ୍ଦିର ପାଇଁ ବିଶେଷ ବୁଣା ଓ ସାଧାରଣ ବ୍ୟବହାରକୁ ଏକାଠି କରିବା ଠିକ୍ ନୁହେଁ।","en":"The Textiles Committee’s Nuapatna documentation distinguishes saris, chadors, stoles and other products. Special temple textiles and everyday clothing should not be treated as interchangeable."},"direction":{"or":"ନୀଳୁ–ଚଇତି ଓ ସମକାଳୀନ ପିଲାଙ୍କ ପୋଷାକରେ ସାଧା ସାର୍ଟ, ଫ୍ରକ୍, ସ୍କର୍ଟ ବା ହାଫ୍ ପ୍ୟାଣ୍ଟ ରହିପାରେ। ବଡ଼ମାନଙ୍କ ଶାଢ଼ୀ ଓ ଧୋତିର କୁଞ୍ଚ, କାନି ଓ କାମବେଳର ଖୋସାକୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଦୃଶ୍ୟ ସହ ମେଳାଇବା।","en":"Contemporary children can wear ordinary shirts, frocks, skirts or shorts. For adults, record the sari’s end, the dhoti’s folds and the way cloth is tucked for the particular activity. Use a textile reference only when it fits the household and occasion."},"sourceIds":["khandua"]},
-    {"id":"koraput","name":{"or":"କୋରାପୁଟ · କୋଟପାଡ଼ ଓ ପାହାଡ଼ ଅଞ୍ଚଳ","en":"Koraput · Kotpad and the hill region"},"observed":{"or":"କୋଟପାଡ଼ର ବୁଣା ବିଷୟକ ଦଲିଲରେ ପ୍ରାକୃତିକ ରଙ୍ଗର ଲାଲ, ବାଦାମୀ ଓ କଳା ରୂପ ଦେଖାଯାଏ। ଗଦବାଙ୍କ କେରଙ୍ଗ ଏକ ସ୍ୱତନ୍ତ୍ର ସମୁଦାୟର ପୋଷାକ; ତାକୁ ସମଗ୍ର କୋରାପୁଟର ସାଧାରଣ ପୋଷାକ ବୋଲି ଦେଖାଇବା ନାହିଁ।","en":"Kotpad documentation records natural red, brown and black dye colours. Gadaba kerang belongs to a specific community and context; it is not a general costume for everyone in Koraput."},"direction":{"or":"କୁସୁମ, ମନ୍ଦାର ଓ ରେବା ମାଉସୀ କାଳ୍ପନିକ ଚରିତ୍ର। ସେମାନଙ୍କ ପାଇଁ ସୂତା ପୋଷାକର ସରଳ ଆକୃତି, ଅଳ୍ପ ଧାର ଓ ଚାଲିବାକୁ ସୁବିଧା ରହିବ। ଭିନ୍ନ ସମୁଦାୟର ମୁଣ୍ଡସଜ, ଅଳଙ୍କାର ଓ ପବିତ୍ର ପୋଷାକ ମିଶାଇବା ନାହିଁ।","en":"Kusum, Mandar and Reba Mausi remain fictional characters. Their wardrobe uses practical cotton shapes, restrained borders and room to move. We will not combine different communities’ headdresses, ornaments or sacred garments into an invented costume."},"sourceIds":["kotpad","gadaba","museum"]},
-    {"id":"ganjam","name":{"or":"ଦକ୍ଷିଣ ଉପକୂଳ · ଗଞ୍ଜାମ ଓ ବ୍ରହ୍ମପୁର","en":"Southern coast · Ganjam and Berhampur"},"observed":{"or":"ବ୍ରହ୍ମପୁରୀ ପାଟ ଓ ବୋମକେଇ ଓଡ଼ିଶାର ଅଲଗା ବୁଣା ପରମ୍ପରା। ଉତ୍ପାଦନ ସ୍ଥାନ ଓ ପରବର୍ତ୍ତୀ ବ୍ୟବହାର ଅଲଗା ପ୍ରଶ୍ନ।","en":"Brahmapuri patta and Bomkai are distinct Odisha textile traditions. Where a fabric is made and how people later wear it are separate questions."},"direction":{"or":"ଏହି ଅଞ୍ଚଳର ଚରିତ୍ର ହେଲେ ଘର ଓ କାମର ପୋଷାକ ପ୍ରଥମେ ଦେଖିବା। ପାଟ ଶାଢ଼ୀ ବା ଯୋଡ଼କୁ ଯଥାଯଥ ଅବସରରେ ବ୍ୟବହାର କରିବା। ଏଯାଏଁ ଏହି ସଂଗ୍ରହରେ ଅଲଗା ଗଞ୍ଜାମ ଚରିତ୍ରଦଳ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।","en":"A cast from this region would begin with domestic and working clothes, with silk saris or joda used for a suitable occasion. This collection does not yet have a specifically Ganjam cast."},"sourceIds":["textiles","gi"]},
-    {"id":"period","name":{"or":"ବୋଇତ, ଅବୋଲକରା ଓ ଧରମା · ସମୟର ଭେଦ","en":"Boita, Abolakara and Dharama · Period matters"},"observed":{"or":"ଆଜିର ଶାଢ଼ୀର ଫଟୋ ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପୋଷାକର ପ୍ରମାଣ ନୁହେଁ। ଲୋକକଥା, ଐତିହାସିକ ସ୍ଥାପତ୍ୟ ଓ ଆଜିର ପର୍ବର ପୋଷାକକୁ ଅଲଗା ରଖିବା।","en":"A photograph of a present-day sari cannot establish a thirteenth-century costume. Folktale interpretation, historical architecture and contemporary festival dress need separate evidence."},"direction":{"or":"ବୋଇତ ଦଳରେ ଡଙ୍ଗାର କାମ ପାଇଁ ସୁବିଧାଜନକ ପୋଷାକ; ଅବୋଲକରାରେ ଯାତ୍ରାର ଧୋତି, ଗାମୁଛା ଓ ଛତା; ଧରମାରେ କାରିଗର ପରିବାରର ସରଳ ବସ୍ତ୍ର। ଏଗୁଡ଼ିକ ଚିତ୍ରକଳ୍ପ, ନିର୍ଭୁଲ ଐତିହାସିକ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।","en":"The Boita crew needs clothing that permits boat work; Abolakara needs travel clothes, a gamucha and umbrella; Dharama’s family needs a restrained craft-workplace wardrobe. These remain illustrated interpretations, not exact historical reconstructions."},"sourceIds":[]}
+    {
+      "id": "western",
+      "name": {
+        "or": "ପଶ୍ଚିମ ଓଡ଼ିଶା · ସମ୍ବଲପୁର, ବରଗଡ଼ ଓ ସୁବର୍ଣ୍ଣପୁର",
+        "en": "Western Odisha · Sambalpur, Bargarh and Subarnapur"
+      },
+      "observed": {
+        "or": "କର୍ଡୋଲାର ବୁଣାକାରଙ୍କ ଫଟୋରେ କାମ କରୁଥିବା ଲୋକଙ୍କ ଭିନ୍ନ ପୋଷାକ ଦେଖାଯାଏ—ଶାଢ଼ୀ ଓ ଛୋଟ ହାତର ବ୍ଲାଉଜ୍, ଛାପା ପୋଷାକ, ସାଧା ଗଞ୍ଜି। ବୁଣାଯାଉଥିବା ବସ୍ତ୍ର ଓ ବୁଣାକାର ପିନ୍ଧିଥିବା ବସ୍ତ୍ର ସବୁବେଳେ ଏକା ନୁହେଁ।",
+        "en": "The university’s Kardola photographs show varied working clothes: saris with short-sleeved blouses, patterned everyday garments and a plain vest at the loom. The cloth being woven is not necessarily the cloth the weaver is wearing."
+      },
+      "direction": {
+        "or": "ପଶ୍ଚିମ ଓଡ଼ିଶାର ନୂଆ ଚରିତ୍ର ତିଆରି ହେଲେ ଗୋଟିଏ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିବାର ଓ ଗାଁରୁ ଆରମ୍ଭ କରିବା। ଦୈନିକ ସୂତା ପୋଷାକ, କାମରେ ଗାମୁଛାର ବ୍ୟବହାର ଓ ପର୍ବର ପୋଷାକକୁ ଅଲଗା ଅଧ୍ୟୟନ କରିବା।",
+        "en": "For a future western Odisha cast, begin with a particular family and village. Study everyday cotton, how a gamucha is used at work, and festive clothing separately. A large matching ikat pattern on every person is not the default."
+      },
+      "sourceIds": [
+        "kardola-field",
+        "kardola",
+        "textiles"
+      ]
+    },
+    {
+      "id": "central-coastal",
+      "name": {
+        "or": "କଟକ–ନୂଆପାଟଣା ଓ ଉପକୂଳ ଅଞ୍ଚଳ",
+        "en": "Cuttack–Nuapatna and the coastal region"
+      },
+      "observed": {
+        "or": "ନୂଆପାଟଣାର ଖଣ୍ଡୁଆ ଦଲିଲର କାମବେଳର ଫଟୋରେ ସାଧା ଓ ଛାପା ସାର୍ଟ ଦେଖାଯାଏ। ଏହି ପୁରୁଣା ଦଲିଲରେ ମନ୍ଦିର ପାଇଁ ବିଶେଷ ବୁଣା ଓ ଅନ୍ୟ ଉତ୍ପାଦ ଅଲଗା ଭାବେ ବର୍ଣ୍ଣିତ। ପିନ୍ଧା ପୋଷାକ ଓ ତିଆରି ହେଉଥିବା ପୋଷାକକୁ ଅଲଗା ଦେଖିବା।",
+        "en": "Workplace photographs in the Nuapatna Khandua report show plain and patterned shirts. The archival report also distinguishes special temple textiles from other products. We observe what people wear separately from what they produce."
+      },
+      "direction": {
+        "or": "ନୀଳୁ–ଚଇତି ଓ ସମକାଳୀନ ପିଲାଙ୍କ ପୋଷାକରେ ସାଧା ସାର୍ଟ, ଫ୍ରକ୍, ସ୍କର୍ଟ ବା ହାଫ୍ ପ୍ୟାଣ୍ଟ ରହିପାରେ। ବଡ଼ମାନଙ୍କ ଶାଢ଼ୀ ଓ ଧୋତିର କୁଞ୍ଚ, କାନି ଓ କାମବେଳର ଖୋସାକୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଦୃଶ୍ୟ ସହ ମେଳାଇବା।",
+        "en": "Contemporary children can wear ordinary shirts, frocks, skirts or shorts. For adults, record the sari’s end, the dhoti’s folds and the way cloth is tucked for the particular activity. Use a textile reference only when it fits the household and occasion."
+      },
+      "sourceIds": [
+        "khandua",
+        "kachha-drape"
+      ]
+    },
+    {
+      "id": "koraput",
+      "name": {
+        "or": "କୋରାପୁଟ · କୋଟପାଡ଼ ଓ ପାହାଡ଼ ଅଞ୍ଚଳ",
+        "en": "Koraput · Kotpad and the hill region"
+      },
+      "observed": {
+        "or": "କୋଟପାଡ଼ର ବୁଣା ବିଷୟକ ଦଲିଲରେ ପ୍ରାକୃତିକ ରଙ୍ଗର ଲାଲ, ବାଦାମୀ ଓ କଳା ରୂପ ଦେଖାଯାଏ। ଗଦବାଙ୍କ କେରଙ୍ଗ ଏକ ସ୍ୱତନ୍ତ୍ର ସମୁଦାୟର ପୋଷାକ; ତାକୁ ସମଗ୍ର କୋରାପୁଟର ସାଧାରଣ ପୋଷାକ ବୋଲି ଦେଖାଇବା ନାହିଁ।",
+        "en": "Kotpad documentation records natural red, brown and black dye colours. Gadaba kerang belongs to a specific community and context; it is not a general costume for everyone in Koraput."
+      },
+      "direction": {
+        "or": "ରେବା ମାଉସୀଙ୍କ ନୂଆ ଅଧ୍ୟୟନରେ କାମ ପାଇଁ ବନ୍ଧା କାନି, ଡାହାଣ କାନ୍ଧର ଗଣ୍ଠି ଓ ଟିକେ ଛୋଟ ଲମ୍ବ ପରୀକ୍ଷା କରାଯାଇଛି। କୁସୁମ ଓ ମନ୍ଦାରଙ୍କ ଦୈନିକ ପୋଷାକ ରହିବ। ଏହି କାଳ୍ପନିକ ଦଳରେ ଭିନ୍ନ ସମୁଦାୟର ଅଳଙ୍କାର ମିଶାଯିବନି।",
+        "en": "Reba’s new study tests a secured sari end, right-shoulder knot and shorter working length. Kusum and Mandar retain everyday children’s clothes. The fictional cast does not combine ornaments from different communities."
+      },
+      "sourceIds": [
+        "kotpad",
+        "gadaba",
+        "museum",
+        "kotpad-drape"
+      ]
+    },
+    {
+      "id": "ganjam",
+      "name": {
+        "or": "ଦକ୍ଷିଣ ଉପକୂଳ · ଗଞ୍ଜାମ ଓ ବ୍ରହ୍ମପୁର",
+        "en": "Southern coast · Ganjam and Berhampur"
+      },
+      "observed": {
+        "or": "ବ୍ରହ୍ମପୁରୀ ପାଟ ଓ ବୋମକେଇ ଓଡ଼ିଶାର ଅଲଗା ବୁଣା ପରମ୍ପରା। ଉତ୍ପାଦନ ସ୍ଥାନ ଓ ପରବର୍ତ୍ତୀ ବ୍ୟବହାର ଅଲଗା ପ୍ରଶ୍ନ।",
+        "en": "Brahmapuri patta and Bomkai are distinct Odisha textile traditions. Where a fabric is made and how people later wear it are separate questions."
+      },
+      "direction": {
+        "or": "ଏହି ଅଞ୍ଚଳର ଚରିତ୍ର ହେଲେ ଘର ଓ କାମର ପୋଷାକ ପ୍ରଥମେ ଦେଖିବା। ପାଟ ଶାଢ଼ୀ ବା ଯୋଡ଼କୁ ଯଥାଯଥ ଅବସରରେ ବ୍ୟବହାର କରିବା। ଏଯାଏଁ ଏହି ସଂଗ୍ରହରେ ଅଲଗା ଗଞ୍ଜାମ ଚରିତ୍ରଦଳ ଧାର୍ଯ୍ୟ ହୋଇନାହିଁ।",
+        "en": "A cast from this region would begin with domestic and working clothes, with silk saris or joda used for a suitable occasion. This collection does not yet have a specifically Ganjam cast."
+      },
+      "sourceIds": [
+        "textiles",
+        "gi"
+      ]
+    },
+    {
+      "id": "northern",
+      "name": {
+        "or": "ଉତ୍ତର ଓଡ଼ିଶା · ସମୁଦାୟ ଓ ପିନ୍ଧଣି",
+        "en": "Northern Odisha · Community and drape"
+      },
+      "observed": {
+        "or": "Border&Fallର ସାନ୍ତାଳ ପିନ୍ଧଣି ଉଦାହରଣରେ ବାମ ଅଣ୍ଟାରେ ଚଉଡ଼ା ଭାଙ୍ଗ ଓ କାନି ଖୋସା ଦେଖାଯାଏ। ଅଞ୍ଚଳ ଭିତରେ ବି ଭିନ୍ନ ସମୁଦାୟର ପିନ୍ଧଣି ଅଲଗା।",
+        "en": "Border&Fall’s Santhal example records a broad fold and secured sari end at the left waist. Community differences remain important within a region."
+      },
+      "direction": {
+        "or": "ଏଯାଏଁ ଉତ୍ତର ଓଡ଼ିଶାର ଅଲଗା ଦଳ ନାହିଁ। ନୂଆ ଚରିତ୍ର ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ ସ୍ଥାନ ଓ ସମୁଦାୟର ଅଧ୍ୟୟନ ଦରକାର। ଏହି ନମୁନାକୁ ସାଧାରଣ ଓଡ଼ିଆ ପିନ୍ଧଣି ନାମ ଦେବା ନାହିଁ।",
+        "en": "There is no northern Odisha cast yet. A future character needs a specific place and community brief; this example should not be relabelled as a universal Odia drape."
+      },
+      "sourceIds": [
+        "santhal-drape"
+      ]
+    },
+    {
+      "id": "period",
+      "name": {
+        "or": "ବୋଇତ, ଅବୋଲକରା ଓ ଧରମା · ସମୟର ଭେଦ",
+        "en": "Boita, Abolakara and Dharama · Period matters"
+      },
+      "observed": {
+        "or": "ଆଜିର ଶାଢ଼ୀର ଫଟୋ ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପୋଷାକର ପ୍ରମାଣ ନୁହେଁ। ଲୋକକଥା, ଐତିହାସିକ ସ୍ଥାପତ୍ୟ ଓ ଆଜିର ପର୍ବର ପୋଷାକକୁ ଅଲଗା ରଖିବା।",
+        "en": "A photograph of a present-day sari cannot establish a thirteenth-century costume. Folktale interpretation, historical architecture and contemporary festival dress need separate evidence."
+      },
+      "direction": {
+        "or": "ବୋଇତ ଦଳରେ ଡଙ୍ଗାର କାମ ପାଇଁ ସୁବିଧାଜନକ ପୋଷାକ; ଅବୋଲକରାରେ ଯାତ୍ରାର ଧୋତି, ଗାମୁଛା ଓ ଛତା; ଧରମାରେ କାରିଗର ପରିବାରର ସରଳ ବସ୍ତ୍ର। ଏଗୁଡ଼ିକ ଚିତ୍ରକଳ୍ପ, ନିର୍ଭୁଲ ଐତିହାସିକ ପୁନର୍ନିର୍ମାଣ ନୁହେଁ।",
+        "en": "The Boita crew needs clothing that permits boat work; Abolakara needs travel clothes, a gamucha and umbrella; Dharama’s family needs a restrained craft-workplace wardrobe. These remain illustrated interpretations, not exact historical reconstructions."
+      },
+      "sourceIds": []
+    }
   ],
   "sources": [
-    {"id":"kardola","title":{"or":"କର୍ଡୋଲା ବୁଣାକାର ଗାଁ · ଓଡ଼ିଶା ପର୍ଯ୍ୟଟନ","en":"Kardola Weavers Village · Odisha Tourism"},"url":"https://odishatourism.gov.in/en/places/kardola-weavers-village","note":{"or":"ବାନ୍ଧକଳା ଓ ସ୍ଥାନ ସମ୍ପର୍କିତ ସୂତ୍ର।","en":"Reference for the weaving practice and location; not a universal dress code."}},
-    {"id":"textiles","title":{"or":"ଓଡ଼ିଶାର ହସ୍ତତନ୍ତ · ଓଡ଼ିଶା ପର୍ଯ୍ୟଟନ","en":"Odisha’s handlooms · Odisha Tourism"},"url":"https://odishatourism.gov.in/en/arts-crafts-handloom","note":{"or":"ଅଞ୍ଚଳୀୟ ବୁଣା ପରମ୍ପରାର ପରିଚୟ।","en":"An introduction to distinct textile traditions and craft centres."}},
-    {"id":"khandua","title":{"or":"ଖଣ୍ଡୁଆ ଶାଢ଼ୀ ଓ ବସ୍ତ୍ର · ବସ୍ତ୍ର କମିଟି, ୨୦୦୮","en":"Khandua Sarees & Fabrics · Textiles Committee, 2008"},"url":"https://handlooms.nic.in/assets/img/Publications/Khandua%20Sarees%20and%20Fabrics635701510233313459.pdf","note":{"or":"ନୂଆପାଟଣା, ବୁଣାର ଉତ୍ପାଦ ଓ ବ୍ୟବହାର। ପୁରୁଣା ଦଲିଲର ଦାମ ଆଜିର ଦାମ ନୁହେଁ।","en":"Documentation of Nuapatna’s production and textile uses. Historical prices are not current prices."}},
-    {"id":"kotpad","title":{"or":"କୋଟପାଡ଼ ବୁଣାକାରଙ୍କ ଜଗତ · Dastkari Haat Samiti","en":"The World of Kotpad Weavers · Dastkari Haat Samiti"},"url":"https://artsandculture.google.com/story/the-world-of-kotpad-weavers-dastkari-haat-samiti/lgUBvIKDpPimLQ?hl=en","note":{"or":"ଲେଖା: ଜୟା ଜେଟଲୀ। ଫଟୋ: ଚିରଦୀପ ଚୌଧୁରୀ। କାରିଗର ଓ ତାଙ୍କ ପରିବେଶର ଦଲିଲ; ଏଠାରେ ଫଟୋ ପୁନଃପ୍ରକାଶିତ ହୋଇନାହିଁ।","en":"Text by Jaya Jaitly; photographs by Chirodeep Chaudhuri. A documented community context. Photographs are linked, not republished here."}},
-    {"id":"gadaba","title":{"or":"ଗଦବା ଜୀବନର ଝଲକ · ତନୁଜା ସେଠୀ","en":"Glimpses of the Gadaba Way of Life · Tanuja Sethi"},"url":"https://www.sahapedia.org/glimpses-of-the-gadaba-way-of-life","note":{"or":"କାମ କରିବା ସମୟର ଶରୀର ଭଙ୍ଗୀ ଓ ପୋଷାକ, କେରଙ୍ଗ ବୁଣାର ପ୍ରସଙ୍ଗ। ଫଟୋର ମଣିଷଙ୍କ ମୁହଁ ଆମ ଚରିତ୍ର ପାଇଁ ନକଲ ହୋଇନାହିଁ।","en":"Reference for working posture, clothing and the context of kerang weaving. The photographed people’s likenesses are not copied into our cast."}},
-    {"id":"museum","title":{"or":"ଓଡ଼ିଶା ଆଦିବାସୀ ସଂଗ୍ରହାଳୟ · ପୃଷ୍ଠା ୯","en":"Tribal Museum, Odisha · Page 9"},"url":"https://tribal.nic.in/repository/ViewDoc.aspx?RepositoryNo=TRI22-08-2017164233&file=Docs%2FTRI22-08-2017164233.pdf","note":{"or":"ଲମତାପୁଟର ଗଦବା କେରଙ୍ଗର ଧାର, ବୁଣା ଓ ଅବସର ସମ୍ପର୍କିତ ଦଲିଲ।","en":"A photographed Gadaba kerang example from Lamptaput, with notes on stripes, weaving and occasions of use."}},
-    {"id":"gi","title":{"or":"ହସ୍ତତନ୍ତର ଭୌଗୋଳିକ ପରିଚୟ ତାଲିକା","en":"Registered handloom geographical indications"},"url":"https://handlooms.nic.in/assets/img/information_handlooms/106%20GI%20registered%20Handloom%20Products%20as%20on%2004.09.2025.pdf","note":{"or":"ବିଭିନ୍ନ ବସ୍ତ୍ରର ନାମକୁ ଅଲଗା ରଖିବା ପାଇଁ ସୂତ୍ର।","en":"A reference for distinguishing textile names; registration does not establish everyday wear."}}
-  ]
+    {
+      "id": "kardola",
+      "title": {
+        "or": "କର୍ଡୋଲା ବୁଣାକାର ଗାଁ · ଓଡ଼ିଶା ପର୍ଯ୍ୟଟନ",
+        "en": "Kardola Weavers Village · Odisha Tourism"
+      },
+      "url": "https://odishatourism.gov.in/en/places/kardola-weavers-village",
+      "note": {
+        "or": "ବାନ୍ଧକଳା ଓ ସ୍ଥାନ ସମ୍ପର୍କିତ ସୂତ୍ର।",
+        "en": "Reference for the weaving practice and location; not a universal dress code."
+      }
+    },
+    {
+      "id": "textiles",
+      "title": {
+        "or": "ଓଡ଼ିଶାର ହସ୍ତତନ୍ତ · ଓଡ଼ିଶା ପର୍ଯ୍ୟଟନ",
+        "en": "Odisha’s handlooms · Odisha Tourism"
+      },
+      "url": "https://odishatourism.gov.in/en/arts-crafts-handloom",
+      "note": {
+        "or": "ଅଞ୍ଚଳୀୟ ବୁଣା ପରମ୍ପରାର ପରିଚୟ।",
+        "en": "An introduction to distinct textile traditions and craft centres."
+      }
+    },
+    {
+      "id": "khandua",
+      "title": {
+        "or": "ଖଣ୍ଡୁଆ ଶାଢ଼ୀ ଓ ବସ୍ତ୍ର · ବସ୍ତ୍ର କମିଟି, ୨୦୦୮",
+        "en": "Khandua Sarees & Fabrics · Textiles Committee, 2008"
+      },
+      "url": "https://handlooms.nic.in/assets/img/Publications/Khandua%20Sarees%20and%20Fabrics635701510233313459.pdf",
+      "note": {
+        "or": "ନୂଆପାଟଣା, ବୁଣାର ଉତ୍ପାଦ ଓ ବ୍ୟବହାର। ପୁରୁଣା ଦଲିଲର ଦାମ ଆଜିର ଦାମ ନୁହେଁ।",
+        "en": "Documentation of Nuapatna’s production and textile uses. Historical prices are not current prices."
+      }
+    },
+    {
+      "id": "kotpad",
+      "title": {
+        "or": "କୋଟପାଡ଼ ବୁଣାକାରଙ୍କ ଜଗତ · Dastkari Haat Samiti",
+        "en": "The World of Kotpad Weavers · Dastkari Haat Samiti"
+      },
+      "url": "https://artsandculture.google.com/story/the-world-of-kotpad-weavers-dastkari-haat-samiti/lgUBvIKDpPimLQ?hl=en",
+      "note": {
+        "or": "ଲେଖା: ଜୟା ଜେଟଲୀ। ଫଟୋ: ଚିରଦୀପ ଚୌଧୁରୀ। କାରିଗର ଓ ତାଙ୍କ ପରିବେଶର ଦଲିଲ; ଏଠାରେ ଫଟୋ ପୁନଃପ୍ରକାଶିତ ହୋଇନାହିଁ।",
+        "en": "Text by Jaya Jaitly; photographs by Chirodeep Chaudhuri. A documented community context. Photographs are linked, not republished here."
+      }
+    },
+    {
+      "id": "gadaba",
+      "title": {
+        "or": "ଗଦବା ଜୀବନର ଝଲକ · ତନୁଜା ସେଠୀ",
+        "en": "Glimpses of the Gadaba Way of Life · Tanuja Sethi"
+      },
+      "url": "https://www.sahapedia.org/glimpses-of-the-gadaba-way-of-life",
+      "note": {
+        "or": "କାମ କରିବା ସମୟର ଶରୀର ଭଙ୍ଗୀ ଓ ପୋଷାକ, କେରଙ୍ଗ ବୁଣାର ପ୍ରସଙ୍ଗ। ଫଟୋର ମଣିଷଙ୍କ ମୁହଁ ଆମ ଚରିତ୍ର ପାଇଁ ନକଲ ହୋଇନାହିଁ।",
+        "en": "Reference for working posture, clothing and the context of kerang weaving. The photographed people’s likenesses are not copied into our cast."
+      }
+    },
+    {
+      "id": "museum",
+      "title": {
+        "or": "ଓଡ଼ିଶା ଆଦିବାସୀ ସଂଗ୍ରହାଳୟ · ପୃଷ୍ଠା ୯",
+        "en": "Tribal Museum, Odisha · Page 9"
+      },
+      "url": "https://tribal.nic.in/repository/ViewDoc.aspx?RepositoryNo=TRI22-08-2017164233&file=Docs%2FTRI22-08-2017164233.pdf",
+      "note": {
+        "or": "ଲମତାପୁଟର ଗଦବା କେରଙ୍ଗର ଧାର, ବୁଣା ଓ ଅବସର ସମ୍ପର୍କିତ ଦଲିଲ।",
+        "en": "A photographed Gadaba kerang example from Lamptaput, with notes on stripes, weaving and occasions of use."
+      }
+    },
+    {
+      "id": "gi",
+      "title": {
+        "or": "ହସ୍ତତନ୍ତର ଭୌଗୋଳିକ ପରିଚୟ ତାଲିକା",
+        "en": "Registered handloom geographical indications"
+      },
+      "url": "https://handlooms.nic.in/assets/img/information_handlooms/106%20GI%20registered%20Handloom%20Products%20as%20on%2004.09.2025.pdf",
+      "note": {
+        "or": "ବିଭିନ୍ନ ବସ୍ତ୍ରର ନାମକୁ ଅଲଗା ରଖିବା ପାଇଁ ସୂତ୍ର।",
+        "en": "A reference for distinguishing textile names; registration does not establish everyday wear."
+      }
+    },
+    {
+      "id": "kotpad-drape",
+      "title": {
+        "or": "କୋଟପାଡ଼ ପିନ୍ଧଣି · Border&Fall",
+        "en": "Kotapad drape · Border&Fall"
+      },
+      "url": "https://artsandculture.google.com/asset/no-63-kotapad-drape-orissa-india/VAGXmouK4H2jeg",
+      "note": {
+        "or": "କାମ ପାଇଁ ହାତ ଖୋଲା ରଖୁଥିବା ପିନ୍ଧଣିର ଦଲିଲ। ଏହି ପ୍ରଦର୍ଶନର ବସ୍ତ୍ର ଓ ବ୍ଲାଉଜ୍ ଆଧୁନିକ ଶୈଳୀରେ ଚୟନିତ।",
+        "en": "Documents a hands-free drape with work-related length changes. The demonstration’s textile and blouse are modern styling choices, not evidence for all local wardrobes."
+      }
+    },
+    {
+      "id": "santhal-drape",
+      "title": {
+        "or": "ଉତ୍ତର ଓଡ଼ିଶାର ସାନ୍ତାଳ ପିନ୍ଧଣି · Border&Fall",
+        "en": "Northern Odisha Santhal drape · Border&Fall"
+      },
+      "url": "https://artsandculture.google.com/asset/no-62-santhal-drape-orissa-india/awHNTNG2eGNvlA",
+      "note": {
+        "or": "ସମୁଦାୟ-ନିର୍ଦ୍ଦିଷ୍ଟ ଉଦାହରଣ; ଉତ୍ତର ଓଡ଼ିଶାର ସମସ୍ତଙ୍କ ପୋଷାକ ନୁହେଁ।",
+        "en": "A community-specific example, not the dress of everyone in northern Odisha."
+      }
+    },
+    {
+      "id": "kachha-drape",
+      "title": {
+        "or": "କଚ୍ଛା ନୃତ୍ୟ ପିନ୍ଧଣି · Border&Fall",
+        "en": "Kachha dance drape · Border&Fall"
+      },
+      "url": "https://artsandculture.google.com/asset/no-68-kachha-drape-orissa-india/KwHjA60rbNftOg?hl=en",
+      "note": {
+        "or": "ନୃତ୍ୟ ଓ ଅଧିକ ଚଳନ ପାଇଁ ଦଲିଲ; ଦୈନିକ ଘରୋଇ ପୋଷାକର ଡିଫଲ୍ଟ ନୁହେଁ।",
+        "en": "Documented as a dance drape allowing mobility; not a default for ordinary household scenes."
+      }
+    },
+    {
+      "id": "kardola-field",
+      "title": {
+        "or": "କର୍ଡୋଲାର କ୍ଷେତ୍ର ଅଧ୍ୟୟନ · ଓଡ଼ିଶା ରାଜ୍ୟ ମୁକ୍ତ ବିଶ୍ୱବିଦ୍ୟାଳୟ",
+        "en": "Kardola field report · Odisha State Open University"
+      },
+      "url": "https://www.osou.ac.in/docs/osou_1578271485.pdf#page=17",
+      "note": {
+        "or": "ପୃଷ୍ଠା ୧୭–୧୯ର କାମବେଳର ଫଟୋ ଦେଖାଯାଇଛି। ସାଙ୍ଗରେ ଥିବା ପରିଦର୍ଶକଙ୍କ ପୋଷାକକୁ ଗାଁର ସାଧାରଣ ପୋଷାକ ବୋଲି ଧରାଯାଇନାହିଁ।",
+        "en": "Working photographs on pages 17–19 were inspected. Visitors shown alongside artisans are not treated as evidence of a village dress code."
+      }
+    }
+  ],
+  "study": {
+    "title": {
+      "or": "ରେବା ମାଉସୀ · କାମ ପାଇଁ ପୋଷାକ ଅଧ୍ୟୟନ",
+      "en": "Reba Mausi · A wardrobe study for work"
+    },
+    "caption": {
+      "or": "କାନ୍ଧରେ ବନ୍ଧା କାନି ଓ ଚଳାଚଳ ପାଇଁ ଲମ୍ବର ପରୀକ୍ଷା। ଏହା କୋଟପାଡ଼ ପିନ୍ଧଣି ସୂତ୍ରରୁ ପ୍ରେରିତ ଚିତ୍ରକଳ୍ପ; ପିନ୍ଧି ଯାଞ୍ଚ କରାଯାଇଥିବା ନମୁନା ନୁହେଁ।",
+      "en": "A study of a secured sari end and a working length. This illustrated interpretation is informed by the Kotpad drape reference; it has not been tested on a wearer."
+    },
+    "note": {
+      "or": "ମୁହଁ, ଖୋସା ଓ ବ୍ୟାଗ୍ ମରାମତିର କାମ ପୂର୍ବ ଅଧ୍ୟୟନରୁ ରହିଛି। କପଡ଼ାର ଯୋଡ଼, ପଛ କୁଞ୍ଚ ଓ ବସିବାବେଳର ଟାଣକୁ ଅନ୍ତିମ ମଡେଲ୍ ପୂର୍ବରୁ ଯାଞ୍ଚ କରିବା।",
+      "en": "Her face, low bun and bag repair action continue from the earlier study. Cloth continuity, back pleats and tension when sitting need a practical draping check before this becomes the final model."
+    },
+    "image": "reba-wardrobe-study-v1.png"
+  }
 }

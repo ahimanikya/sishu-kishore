@@ -64,16 +64,45 @@ for w in DATA['worlds']:
 r=json.loads((ROOT/'data/regional-dress-v1.json').read_text())
 body='<header>'+bi(pair('ମଣିଷ ଆଗେ। ପୋଷାକ ତାଙ୍କ ଜୀବନର ଅଂଶ।','People first. Clothing belongs to their lives.'),'p','class="eyebrow"')+bi(r['title'],'h1')+bi(r['intro'])+'</header><section><div class="voice-sections">'
 for p in r['principles']:body+='<article>'+bi(p)+'</article>'
-body+='</div></section>'
+body+='</div></section><nav class="wardrobe-contents">'+''.join(link('#'+region['id'],region['name']['or'],region['name']['en'])+' · ' for region in r['regions'])+link('#reba-study','ରେବାଙ୍କ ନୂଆ ଅଧ୍ୟୟନ','Reba’s new study')+'</nav>'
 for region in r['regions']:
     body+='<section id="'+region['id']+'">'+bi(region['name'],'h2')+bi(region['observed'])+bi(region['direction'])
     for sid in region['sourceIds']:
         source=next(s for s in r['sources'] if s['id']==sid)
         body+=link(source['url'],source['title']['or'],source['title']['en'])+'<br>'
     body+='</section>'
-body+=image('/characters/assets/koraput-natural-v2.png','କୋରାପୁଟ ଦଳର ବର୍ତ୍ତମାନ ଅଧ୍ୟୟନ: ବ୍ୟାଗ୍ ମରାମତି। ଏହା କାଳ୍ପନିକ ଚରିତ୍ରର ଚିତ୍ର।','Current Koraput study: repairing a bag. This is a fictional character scene.')
+study=r.get('study')
+if study:
+    study_dir=OUT/'regional-dress/assets';study_dir.mkdir(parents=True,exist_ok=True)
+    for f in (ARCHIVE/'regional-dress').iterdir():
+        if f.is_file():shutil.copy2(f,study_dir/f.name)
+    study_section='<section id="reba-study">'+bi(study['title'],'h2')+image('/characters/regional-dress/assets/'+study['image'],study['caption']['or'],study['caption']['en'])+bi(study['note'])+link('https://artsandculture.google.com/asset/no-63-kotapad-drape-orissa-india/VAGXmouK4H2jeg','ପିନ୍ଧଣିର ସୂତ୍ର · Border&Fall','Drape reference · Border&Fall')+'</section>'
+    body+=study_section
+    for filename in ['koraput.html','design-path.html']:
+        p=OUT/filename;s=BeautifulSoup(p.read_text(),'html.parser')
+        for old in s.select('#reba-study'):old.decompose()
+        s.main.append(BeautifulSoup(study_section,'html.parser'));p.write_text(str(s).rstrip()+'\n')
+body+=image('/characters/assets/koraput-natural-v2.png','ପୂର୍ବ ଅଧ୍ୟୟନ: ବ୍ୟାଗ୍ ମରାମତି। ଚରିତ୍ରର ମୁହଁ ଓ କାମ ନୂଆ ପୋଷାକ ଅଧ୍ୟୟନରେ ରହିଛି।','Earlier study: repairing a bag. The character’s face and action continue in the new wardrobe study.')
 body+=source_list(r['sources'])+bi(pair('ଏହି ଅଧ୍ୟୟନ ଏକ ଆରମ୍ଭ। ପ୍ରତି ଚରିତ୍ରର ପୋଷାକକୁ ମଡେଲ୍ ଚିତ୍ରରେ ଯାଞ୍ଚ କରିବା ବାକି।','This is an initial reference study. Character-by-character wardrobe checks on the model sheets remain to be completed.'))
 shell('regional-dress',r['title'],body,'/characters/assets/koraput-natural-v2.png')
+
+film_path=ROOT/'data/film-scripts-v1.json'
+film_data=json.loads(film_path.read_text()) if film_path.exists() else {'scripts':[]}
+for script in film_data['scripts']:
+    body='<header>'+bi(pair('ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟ · ପ୍ରଥମ ଖସଡ଼ା','Film script · First draft'),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(script['premise'])+'</header>'
+    body+=bi(pair('ଲକ୍ଷ୍ୟ ସମୟ: '+str(script['duration'])+' ସେକେଣ୍ଡ। କଣ୍ଠ ରେକର୍ଡ ଓ ଚଳଚ୍ଚିତ୍ର ବାକି।','Target duration: '+str(script['duration'])+' seconds. Voice recording and film production remain ahead.'),'p','class="voice-boundary"')
+    elapsed=0;txt=['Concept and creative direction: Ahimanikya Satapathy',script['title']['or']+' / '+script['title']['en'],'First film-script draft. Timing is a target, not a recorded performance.','Independent fluent Odia review pending.','']
+    for i,scene in enumerate(script['scenes']):
+        body+='<section>'+bi(pair('ଦୃଶ୍ୟ '+str(i+1)+' · '+str(elapsed)+'–'+str(elapsed+scene['seconds'])+' ସେକେଣ୍ଡ','Scene '+str(i+1)+' · '+str(elapsed)+'–'+str(elapsed+scene['seconds'])+' seconds'),'h2')+bi(scene['action'])+bi(scene['sound'],'p','class="caption"')
+        txt+=['SCENE '+str(i+1)+' — '+str(elapsed)+'–'+str(elapsed+scene['seconds'])+' sec',scene['action']['or'],scene['action']['en'],'Sound: '+scene['sound']['or']+' / '+scene['sound']['en']]
+        for line in scene['lines']:
+            body+='<p>'+bi(line['speaker'],'strong')+'<br>'+bi(line['text'],'span')+'</p>'
+            txt+=[line['speaker']['or']+': '+line['text']['or'],line['speaker']['en']+': '+line['text']['en']]
+        body+='</section>';elapsed+=scene['seconds'];txt+=['']
+    assert elapsed==script['duration'],script['id']
+    filename=script['id']+'-script-v1.txt';(OUT/'downloads'/filename).write_text('\n'.join(txt)+'\n')
+    body+=bi(REVIEW)+link('/characters/downloads/'+filename,'ଦୁଇ ଭାଷାର ପାଠ୍ୟ ଡାଉନଲୋଡ୍','Download the paired script','button secondary')+'<p>'+link('/characters/story-lab.html#'+script['world'],'← କାମର ତାଲିକା','← Production list')+'</p>'
+    shell('scripts/'+script['id'],script['title'],body,'/characters/koeli/assets/colour-study-v1.png')
 
 production=json.loads((ROOT/'data/character-production-v1.json').read_text())
 body='<header>'+bi(pair('କାମର ପରବର୍ତ୍ତୀ ଧାପ','The next stages of the work'),'p','class="eyebrow"')+bi(production['title'],'h1')+bi(production['intro'])+'</header><section class="voice-refrain">'+bi(pair('ପ୍ରତି ପାଠ୍ୟ ପାଇଁ ଏହି କ୍ରମ','The cycle for each script'),'h2')+'<ol class="production-loop">'
@@ -91,6 +120,11 @@ for entry in production['worlds']:
     reader=f'/characters/{wid}/pilot-story/finished-page-v1.html' if ready else entry.get('reader')
     if reader:body+=link(reader,'ପ୍ରଥମ ଗପ','First story')
     if ready:body+='<p>'+link(f'/characters/{wid}/language-review/index.html','ଦୁଇ ଭାଷାର ପାଠ୍ୟ ଯାଞ୍ଚ','Review the paired dialogue')+'</p>'
+    written=[script for script in film_data['scripts'] if script['world']==wid]
+    if written:
+        body+=bi(pair('ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ଖସଡ଼ା','Film-script drafts'),'h3')+'<ul>'
+        for script in written:body+='<li>'+link('/characters/scripts/'+script['id']+'.html',script['title']['or'],script['title']['en'])+'</li>'
+        body+='</ul>'
     body+='</section>'
 shell('story-lab',production['title'],body,'/characters/koeli/assets/colour-study-v1.png')
 
@@ -102,7 +136,46 @@ for filename in ['index.html','design-path.html','complete-report.html','sources
     for w in available:
         extra+='<article>'+bi(w['name'],'h3')+bi(w['intro'])+link('/characters/'+w['id']+'.html','ଚରିତ୍ର, ଗପ ଓ ସୃଜନ ଫାଇଲ୍ →','Characters, story and development files →')+'</article>'
     extra+='</div><p>'+link('/characters/regional-dress.html','ପୋଷାକ ଓ ଅଞ୍ଚଳ','Clothing and place')+' · '+link('/characters/story-lab.html','ପାଠ୍ୟରୁ ଚଳଚ୍ଚିତ୍ର','Scripts to films')+'</p></section>'
-    s.main.append(BeautifulSoup(extra,'html.parser'));p.write_text(str(s)+'\n')
+    s.main.append(BeautifulSoup(extra,'html.parser'));p.write_text(str(s).rstrip()+'\n')
+
+# The full report carries the same profiles as the individual pages.
+p=OUT/'complete-report.html';s=BeautifulSoup(p.read_text(),'html.parser')
+for old in s.select('[data-voice-full]'):old.decompose()
+for w in available:
+    main=BeautifulSoup((OUT/(w['id']+'.html')).read_text(),'html.parser').main
+    article=s.new_tag('article',attrs={'class':'full-set heritage-voice-set','data-voice-full':w['id']})
+    for node in list(main.contents):article.append(node)
+    for node in article.select('[id]'):node['id']=w['id']+'-'+node['id']
+    for node in article.select('[id*="-character-"]'):node['class']=['heritage-profile']
+    for node in article.select('h1'):node.name='h2'
+    s.main.append(article)
+guide=BeautifulSoup((OUT/'koeli.html').read_text(),'html.parser').main
+article=s.new_tag('article',attrs={'class':'guide-character','data-voice-full':'koeli'})
+for node in list(guide.contents):article.append(node)
+for node in article.select('[id]'):node['id']='koeli-'+node['id']
+for node in article.select('h1'):node.name='h2'
+s.main.append(article);p.write_text(str(s).rstrip()+'\n')
+
+p=OUT/'comparison.html';s=BeautifulSoup(p.read_text(),'html.parser')
+for node in s.select('[data-voice-comparison]'):node.decompose()
+for w in available:
+    th=s.new_tag('th',scope='col',attrs={'data-voice-comparison':w['id']});th.append(BeautifulSoup(bi(w['name'],'span'),'html.parser'));s.select_one('thead tr').append(th)
+    values=[w['kind'],pair('ପରିବାର ଓ କାରିଗରଙ୍କ ସମ୍ପର୍କ','Family and craftspeople') if w['id']=='dharmapada' else pair('ପ୍ରଶ୍ନକାରୀ ଓ କଥକ','Questioner and storyteller'),w['subtitle'],w['setting'],w['story']['title'],pair('ଡିଜିଟାଲ୍ ଚରିତ୍ର ଓ ଗଳ୍ପ ଅଧ୍ୟୟନ','Digital character and story studies'),pair('ଭାଷା ଓ ପୋଷାକ ଯାଞ୍ଚ; ପରବର୍ତ୍ତୀ ପାଠ୍ୟ','Language and wardrobe review; further scripts')]
+    for row,v in zip(s.select('tbody tr'),values):
+        td=s.new_tag('td',attrs={'data-voice-comparison':w['id']});td.append(BeautifulSoup(bi(v,'span'),'html.parser'));row.append(td)
+s.main.append(BeautifulSoup('<p data-voice-comparison="guide">'+link('/characters/koeli.html','କୋଇଲି ସଂଗ୍ରହର ଗପ ସାଥୀ। ତାହା ଅଲଗା ନବମ ଗଳ୍ପଜଗତ ନୁହେଁ।','Koeli is the collection’s storytelling companion, separate from the story-world count.')+'</p>','html.parser'))
+p.write_text(str(s).rstrip()+'\n')
+
+koeli_pack=OUT/'downloads/koeli-development-v1.zip'
+with zipfile.ZipFile(koeli_pack,'w',compression=zipfile.ZIP_DEFLATED) as z:
+    files=[f for f in (ARCHIVE/'koeli').iterdir() if f.is_file()]
+    for f in files:z.write(f,f.name)
+    z.writestr('character-v1.json',json.dumps(DATA['koeli'],ensure_ascii=False,indent=2))
+    for script in film_data['scripts']:
+        if script['world']=='koeli':
+            z.write(OUT/'downloads'/(script['id']+'-script-v1.txt'),'scripts/'+script['id']+'-v1.txt')
+            z.writestr('scripts/'+script['id']+'-v1.json',json.dumps(script,ensure_ascii=False,indent=2))
+    z.writestr('manifest-sha256.json',json.dumps({name:hashlib.sha256(z.read(name)).hexdigest() for name in z.namelist()},indent=2))
 
 world_nav=[('gudul-gudli','ଗୁଡ଼ୁଲ୍–ଗୁଡ଼ଲି','Gudul–Gudli'),('nilu-chaiti','ନୀଳୁ–ଚଇତି','Nilu–Chaiti'),('koraput','କୋରାପୁଟ','Koraput'),('batare-katha','ବାଟରେ କଥା','Batare Katha'),('chhota-karigara','ଛୋଟ କାରିଗର','Young Makers'),('boita-sadhaba','ବୋଇତର ସାଥୀ','The Boita Crew')]+[(w['id'],w['name']['or'],w['name']['en']) for w in available]
 nav=link('/characters/index.html','ପରିଚୟ','Overview')+'<details class="world-menu"><summary>'+bi(pair('ଚରିତ୍ରଦଳ','Worlds'),'span')+'</summary><div>'+''.join(link('/characters/'+wid+'.html',o,e) for wid,o,e in world_nav)+'</div></details>'+link('/characters/koeli.html','କୋଇଲି','Koeli')+link('/characters/story-lab.html','ଗପ ଓ ଚଳଚ୍ଚିତ୍ର','Scripts & films')+link('/characters/design-path.html','ଚିତ୍ରର ଯାତ୍ରା','Design path')
@@ -113,6 +186,14 @@ for p in OUT.rglob('*.html'):
     if not s.select_one('link[href="/characters/assets/voices.css"]'):
         s.head.append(s.new_tag('link',rel='stylesheet',href='/characters/assets/voices.css'))
     if s.select_one('.brand-mark'):s.select_one('.brand-mark').string=str(6+len(available))
+    for old in s.select('.voice-journey'):old.decompose()
+    journey='<aside class="voice-journey">'+link('/characters/index.html','ଚରିତ୍ରଙ୍କ ଜଗତ','Character worlds')+' · '+link('/characters/regional-dress.html','ପୋଷାକ ଓ ଅଞ୍ଚଳ','Clothing and place')+' · '+link('/characters/story-lab.html','ଗପରୁ ଚଳଚ୍ଚିତ୍ର','Stories to films')+'</aside>'
+    if s.main:s.main.append(BeautifulSoup(journey,'html.parser'))
+    elif s.body:s.body.append(BeautifulSoup(journey,'html.parser'))
+    if p.name=='koeli.html':
+        for old in s.select('[data-koeli-download]'):old.decompose()
+        item=BeautifulSoup(link('/characters/downloads/koeli-development-v1.zip','କୋଇଲିର ସୃଜନ ଫାଇଲ୍ · ZIP','Koeli development files · ZIP'),'html.parser').a;item['data-koeli-download']='';s.main.append(item)
+        item=BeautifulSoup('<p data-koeli-download="">'+link('/characters/story-lab.html#koeli','କୋଇଲିର ତିନିଟି ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟ →','Koeli’s three film-script drafts →')+'</p>','html.parser');s.main.append(item)
     # Only collection counts change: six-panel story references remain intact.
     count=6+len(available);english={6:'Six',7:'Seven',8:'Eight'}[count];odia={6:'ଛଅଟି',7:'ସାତଟି',8:'ଆଠଟି'}[count]
     total=22+sum(len(w['profiles']) for w in available)
@@ -128,4 +209,4 @@ for p in OUT.rglob('*.html'):
     output=re.sub(r'(?:21|22|24|27) characters\.',str(total)+' characters.',output)
     digits=str(total).translate(str.maketrans('0123456789','୦୧୨୩୪୫୬୭୮୯'))
     output=re.sub(r'(?:୨୧|୨୨|୨୪|୨୭)ଟି ଚରିତ୍ର।',digits+'ଟି ଚରିତ୍ର।',output)
-    p.write_text(output+'\n')
+    p.write_text(output.rstrip()+'\n')

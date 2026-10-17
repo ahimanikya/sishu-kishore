@@ -32,7 +32,7 @@ def shell(name,title,body,preview):
         href=a['href']
         if not href.startswith(('/', '#', 'https:', 'http:')):a['href']='/characters/'+href
     dest=OUT/(name+'.html');dest.parent.mkdir(parents=True,exist_ok=True)
-    dest.write_text(str(s)+'\n')
+    dest.write_text(str(s).rstrip()+'\n')
 def source_list(sources):
     return '<section id="sources">'+bi(pair('ଉତ୍ସ ଓ ନୂଆ ବ୍ୟାଖ୍ୟା','Sources and interpretation'),'h2')+''.join('<p>'+link(x['url'],x['title']['or'],x['title']['en'])+'</p>'+bi(x['note']) for x in sources)+'</section>'
 
@@ -55,7 +55,7 @@ if (ARCHIVE/'koeli/colour-study-v1.png').exists():
     target=index.select_one('#creative-process')
     if target:target.insert_before(BeautifulSoup(feature,'html.parser'))
     else:index.main.append(BeautifulSoup(feature,'html.parser'))
-    (OUT/'index.html').write_text(str(index)+'\n')
+    (OUT/'index.html').write_text(str(index).rstrip()+'\n')
     for path in OUT.rglob('*.html'):
         s=BeautifulSoup(path.read_text(),'html.parser')
         nav=s.select_one('.site-header nav')
@@ -63,7 +63,7 @@ if (ARCHIVE/'koeli/colour-study-v1.png').exists():
             node=BeautifulSoup(link('/characters/koeli.html','କୋଇଲି','Koeli'),'html.parser').a;node['data-koeli-nav']='';nav.append(node)
         if not s.select_one('link[href="/characters/assets/voices.css"]'):
             node=s.new_tag('link',rel='stylesheet',href='/characters/assets/voices.css');s.head.append(node)
-        path.write_text(str(s)+'\n')
+        path.write_text(str(s).rstrip()+'\n')
 runpy.run_path(str(ROOT/'scripts/character-voices-pages.py'),init_globals=globals())
 runpy.run_path(str(ROOT/'scripts/apply-character-credit.py'),run_name='__main__')
 print('Prepared available heritage voices.')

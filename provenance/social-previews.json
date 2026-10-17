@@ -7220,14 +7220,14 @@
   {
     "page": "/characters/abolakara/language-review/index.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/abolakara/language-review/",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
   },
   {
     "page": "/characters/abolakara/pilot-story/finished-page-v1.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/abolakara/pilot-story/finished-page-v1.html",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
+    "image": "/social/ac43d730f8fe961b.jpg",
+    "source": "/characters/abolakara/assets/colour-cast-v1.png"
   },
   {
     "page": "/characters/abolakara.html",
@@ -7302,6 +7302,24 @@
     "source": "/characters/assets/nilu-chaiti-storyboard.webp"
   },
   {
+    "page": "/characters/dharmapada/language-review/index.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/dharmapada/language-review/",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/dharmapada/pilot-story/finished-page-v1.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/dharmapada/pilot-story/finished-page-v1.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
+    "page": "/characters/dharmapada.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/dharmapada.html",
+    "image": "/social/c2a43b510ea472d3.jpg",
+    "source": "/characters/dharmapada/assets/colour-cast-v1.png"
+  },
+  {
     "page": "/characters/gudul-gudli.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/gudul-gudli.html",
     "image": "/social/32c650c03d7b0555.jpg",
@@ -7338,6 +7356,24 @@
     "source": "/characters/assets/koraput-natural-v2.png"
   },
   {
+    "page": "/characters/scripts/koeli-first-line.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/koeli-first-line.html",
+    "image": "/social/c023323588236ac6.jpg",
+    "source": "/characters/koeli/assets/colour-study-v1.png"
+  },
+  {
+    "page": "/characters/scripts/koeli-little-sound.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/koeli-little-sound.html",
+    "image": "/social/c023323588236ac6.jpg",
+    "source": "/characters/koeli/assets/colour-study-v1.png"
+  },
+  {
+    "page": "/characters/scripts/koeli-your-turn.html",
+    "url": "https://sishu.kabitawithoutborders.org/characters/scripts/koeli-your-turn.html",
+    "image": "/social/c023323588236ac6.jpg",
+    "source": "/characters/koeli/assets/colour-study-v1.png"
+  },
+  {
     "page": "/characters/sources.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/sources.html",
     "image": "/social/32c650c03d7b0555.jpg",
@@ -7346,8 +7382,8 @@
   {
     "page": "/characters/story-lab.html",
     "url": "https://sishu.kabitawithoutborders.org/characters/story-lab.html",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
+    "image": "/social/c023323588236ac6.jpg",
+    "source": "/characters/koeli/assets/colour-study-v1.png"
   },
   {
     "page": "/characters/travelling-duo/language-review/index.html",
