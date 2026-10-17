@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "title": {
     "or": "ଚରିତ୍ରରୁ ଗପ, ଗପରୁ ଚଳଚ୍ଚିତ୍ର",
     "en": "From characters to stories to films"
@@ -130,14 +130,14 @@
         "en": "The Boita Crew"
       },
       "characters": {
-        "or": "ମାଳତୀ, ହେମା, ରଘୁ ସାଧବ, ହରି ନାଉରୀ",
+        "or": "ମାଳତୀ, ହେମା, ରଘୁ ସାଧବ, ହରି ନାଉରି",
         "en": "Malati, Hema, Raghu Sadhaba, Hari Nauri"
       },
       "wardrobe": "period",
       "reader": "/characters/boita-sadhaba/pilot-story/finished-page-v1.html",
       "status": {
-        "or": "ପ୍ରଥମ ଗପ ଅଛି। ନାବିକଙ୍କ କାମ, ପରିବାର ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିରୁ ନୂଆ ପାଠ୍ୟ ଗଢ଼ିବ।",
-        "en": "The first story exists. Further scripts will grow from boat work, family relationships and preparing a voyage."
+        "or": "ମାଳତୀ, ହେମା, ରଘୁ ଓ ହରିଙ୍କ ପାଇଁ ତିନିଟି କରି ମୋଟ ୧୨ଟି ଦ୍ୱିଭାଷୀ ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା ପ୍ରସ୍ତୁତ। “ଆଉ ଟିକେ ବସ”ର ଚାରିଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ ଓ ସମୟଧରା ନମୁନା ଅଛି। କଣ୍ଠ ଓ ଚଳଚ୍ଚିତ୍ର ବାକି।",
+        "en": "Twelve first bilingual script drafts are ready: three each for Malati, Hema, Raghu and Hari. Sit a Little Longer has four pencil frames and a timed preview. Voices and films remain ahead."
       },
       "scriptTarget": 12
     },

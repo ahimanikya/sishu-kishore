@@ -5672,7 +5672,1707 @@
           ]
         }
       ]
+    },
+    {
+      "id": "malati-count-what",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "malati",
+        "name": {
+          "or": "ମାଳତୀ",
+          "en": "Malati"
+        },
+        "profile": "/characters/boita-sadhaba.html#malati"
+      },
+      "title": {
+        "or": "କ’ଣ ଗଣୁଛୁ?",
+        "en": "What Are We Counting?"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ମାଳତୀ ଚାରି ପୁଟୁଳି ଦେଖି ମାଆଙ୍କ ତିନି ସଂଖ୍ୟାକୁ ଭୁଲ୍ କହେ। ଛୋଟ ନମୁନା ପୁଟୁଳିଟି ଅଲଗା ବୋଲି ଜାଣି ସେ ଆଗେ କ’ଣ ଗଣାଯାଉଛି ପଚାରେ।",
+        "en": "Seeing four bundles, Malati thinks her mother’s count of three is wrong. The small sample parcel belongs separately; she learns to ask what they are counting."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ଶୀଘ୍ର ଭୁଲ୍ ଧରିବା → କାମର ଭେଦ ଜାଣିବା → ନିଜେ ଦୁଇ ଗୋଷ୍ଠୀ ଚିହ୍ନିବା।",
+        "en": "Quick correction → understanding the distinction → identifying the two groups herself."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ତିନି ବଡ଼ ବସ୍ତ୍ର ପୁଟୁଳି ଓ ଗୋଟିଏ ଛୋଟ ନମୁନା ପୁଟୁଳି। ସଂଖ୍ୟା ବଦଳିବନି। ମାଳତୀ କେବଳ ଛୋଟଟି ଘୁଞ୍ଚାଏ; ଭାରୀ ପୁଟୁଳି ଉଠାଏନି।",
+        "en": "Exactly three large textile bundles and one small sample parcel throughout. Malati moves only the light sample, not heavy cargo."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଛାଇରେ ରଖା ପୁଟୁଳିଗୁଡ଼ିକୁ ହେମା ଦେଖାନ୍ତି। ମାଳତୀ ଆଙ୍ଗୁଠିରେ ଗଣେ।",
+            "en": "Hema indicates the bundles in the shade. Malati counts on her fingers."
+          },
+          "sound": {
+            "or": "ଦୂର ନଦୀର ଶବ୍ଦ।",
+            "en": "Distant river sounds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ବୋଇତରେ ଯିବ ତିନି ପୁଟୁଳି।",
+                "en": "Three bundles go on the boita."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "କିନ୍ତୁ ଏଠି ଚାରିଟା!",
+                "en": "But there are four here!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହେମା ଛୋଟ ପୁଟୁଳିର ଖୋଲା ମୁହଁରୁ ନମୁନା ବସ୍ତ୍ର ଦେଖାନ୍ତି।",
+            "en": "Hema shows the sample cloths at the open top of the little parcel."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା।",
+            "en": "Cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଏଇଟା ଦେଖାଇବା ନମୁନା। ମୋ ପାଖେ ରହିବ।",
+                "en": "These are the samples. They stay with me."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଳତୀ ଛୋଟ ପୁଟୁଳିଟି ମାଆଙ୍କ ପାଖେ ରଖି ବଡ଼ ତିନିଟିକୁ ପୁଣି ଦେଖେ।",
+            "en": "Malati puts the sample beside Hema and looks again at the other three."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପୁଟୁଳି ରଖିବା।",
+            "en": "A light parcel settling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ତାହେଲେ ଯିବା ପୁଟୁଳି ଗଣୁଛୁ?",
+                "en": "So we’re counting the ones that leave?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ହେମା ମୁଣ୍ଡ ହଲାନ୍ତି। ମାଳତୀ ତିନିଟି ଓ ଅଲଗା ଛୋଟଟି ଦେଖାଏ।",
+            "en": "Hema nods. Malati points to the group of three, then to the separate sample."
+          },
+          "sound": {
+            "or": "ଛୋଟ ହସ।",
+            "en": "A small laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ତିନିଟା ଯିବ। ଗୋଟିଏ ତୋ ପାଖେ। ଏବେ ମେଳିଲା।",
+                "en": "Three go. One stays with you. Now it adds up."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "malati-small-parcel",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "malati",
+        "name": {
+          "or": "ମାଳତୀ",
+          "en": "Malati"
+        },
+        "profile": "/characters/boita-sadhaba.html#malati"
+      },
+      "title": {
+        "or": "ମୋ ଛୋଟ ପୁଟୁଳି",
+        "en": "My Small Parcel"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ବଡ଼ମାନଙ୍କ ପରି କାମ ଚାହୁଁଥିବା ମାଳତୀକୁ ଛୋଟ ନମୁନା ପୁଟୁଳି ମିଳେ। ତା’ ଭିତରେ କ’ଣ ଅଛି ମନେରଖିବା ବି ଦାୟିତ୍ୱ ବୋଲି ସେ ଧରିପାରେ।",
+        "en": "Malati wants a proper task and gets a small sample parcel. Remembering what is inside gives her a responsibility of her own."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ଛୋଟ କାମ ପାଇ ମୁହଁ ଶୁଖିବା → ପ୍ରଶ୍ନରେ ଅଟକିବା → ଧ୍ୟାନରେ ଦେଖିବା → ଦାୟିତ୍ୱ ନେବା।",
+        "en": "Disappointed by a small task → pausing at a question → looking carefully → taking responsibility."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଦୁଇ ଛୋଟ ବସ୍ତ୍ର ନମୁନା: ଗୋଟିଏ ସାଧା, ଗୋଟିଏ ଧାରରେ ସରୁ ଲାଲ ରେଖା। ଏହି ନକ୍ସାକୁ କୌଣସି ନାମିତ ଐତିହାସିକ ବୁଣା ବୋଲି କୁହାଯିବନି। ପିଲା ଭାରୀ ମାଲ ନେବନି।",
+        "en": "Two small textile samples: one plain, one with a narrow red edge. Do not label the design as a named historical weave. The child does not handle heavy cargo."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହେମା ମାଳତୀକୁ ହାଲୁକା ନମୁନା ପୁଟୁଳି ଦିଅନ୍ତି। ସେ ପାଖର ବଡ଼ ମାଲକୁ ଚାହେଁ।",
+            "en": "Hema hands Malati a light sample parcel. She glances at the larger cargo."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା।",
+            "en": "Cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ମୋ ପାଇଁ ଖାଲି ଏତିକି?",
+                "en": "Only this little one for me?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହେମା ତା’ ହାତର ପୁଟୁଳିକୁ ଦେଖାନ୍ତି। ମାଳତୀ ଉତ୍ତର ଦେବାକୁ ଯାଇ ଥାମେ।",
+            "en": "Hema indicates the parcel. Malati starts to answer, then stops."
+          },
+          "sound": {
+            "or": "ଏକ ବିରାମ।",
+            "en": "A pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଲାଲ ଧାର ଥିବାଟା କେଉଁଠି?",
+                "en": "Where is the one with the red edge?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଳତୀ ପୁଟୁଳି ଖୋଲି ଦୁଇ ନମୁନା ଦେଖେ। ଲାଲ ଧାରଟି ଉପରେ ରଖେ।",
+            "en": "Malati opens the parcel, examines both samples and puts the red-edged one on top."
+          },
+          "sound": {
+            "or": "ଦୁଇ ହାଲୁକା ଭାଙ୍ଗ।",
+            "en": "Two soft folds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ଏଇଟା। ଅନ୍ୟଟା ସାଧା।",
+                "en": "This one. The other is plain."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସେ ଦୁଇଟିକୁ ଗୁଛାଇ ପୁଟୁଳି ଧରେ। ଏଥର ବଡ଼ ମାଲକୁ ଚାହେଁନି।",
+            "en": "She arranges the two pieces and holds her parcel, without looking back at the large bundles."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପାଦଶବ୍ଦ।",
+            "en": "Light footsteps."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ଏଇଟା ମୁଁ ରଖୁଛି। ମାଗିଲେ ଠିକ୍‌ଟା ଦେବି।",
+                "en": "I’ll keep this. I’ll find the right one when you ask."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "malati-stay-a-moment",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "malati",
+        "name": {
+          "or": "ମାଳତୀ",
+          "en": "Malati"
+        },
+        "profile": "/characters/boita-sadhaba.html#malati"
+      },
+      "title": {
+        "or": "ଆଉ ଟିକେ ବସ",
+        "en": "Sit a Little Longer"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ରଘୁ ଯାତ୍ରାର ପୁଟୁଳି ଧରିଥିବାବେଳେ ମାଳତୀ ତାଙ୍କୁ ଡାକେ। ତା’ର କିଛି ଜିନିଷ ଦରକାର ନାହିଁ; ବାପାଙ୍କ ସହ ଆଉ ଟିକେ ବସିବାକୁ ଚାହେଁ।",
+        "en": "Malati calls to Raghu as he takes up his travelling parcel. She does not want an object; she wants a little more time beside her father."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ଡାକିବାକୁ ସଂକୋଚ → ଜିନିଷ ବିଷୟରେ ନୁହେଁ ବୋଲି କହିବା → ନିଜ ଇଚ୍ଛା ସିଧା କହିବା → ଶାନ୍ତ ଏକାଠି ବସିବା।",
+        "en": "Hesitating to call → clarifying that nothing needs fetching → asking for what she wants → sitting together quietly."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଘାଟର ଭିତର ପଟେ ଚଉଡ଼ା ନିମ୍ନ ବେଞ୍ଚ; ପାଣି ଧାର ନୁହେଁ। ବୋଇତ ଦୃଶ୍ୟ ବାହାରେ ଘାଟରେ ବନ୍ଧା, ପାଲ ଗୁଡ଼ା। ରଘୁଙ୍କ ଏକ ହାଲୁକା ବ୍ୟକ୍ତିଗତ ପୁଟୁଳି। ଶେଷରେ ସେ ବେଞ୍ଚ ପାଖେ ରହେ। ମାଳତୀର ଗୋଟିଏ ବେଣୀ, କାନ୍ଧ କପଡ଼ା ଡାହାଣ କାନ୍ଧରେ; ରଘୁଙ୍କ ଉତ୍ତରୀୟ ବାମ କାନ୍ଧରେ।",
+        "en": "A broad low bench on the inland side of the landing, away from the water’s edge. Boat moored off-screen, sail furled. Raghu has one light personal parcel, which ends beside the bench. Malati has one braid and her cloth over her right shoulder; Raghu’s uttariya stays over his left shoulder."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଳତୀ ବେଞ୍ଚରେ ବସିଛି। ରଘୁ ପାଖର ହାଲୁକା ପୁଟୁଳି ଉଠାନ୍ତି। ସେ ତାଙ୍କୁ ଚାହିଁ ଡାକେ।",
+            "en": "Malati sits on the bench. Raghu picks up his light parcel beside it. She looks up and calls."
+          },
+          "sound": {
+            "or": "ଦୂର ପାଣି, କପଡ଼ା ଘଷା।",
+            "en": "Distant water and rustling cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ବାପା…",
+                "en": "Bapa…"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରଘୁ ପୁଟୁଳି ଧରି ମାଳତୀ ଆଡ଼କୁ ବୁଲନ୍ତି। ସେ ଛୋଟ କରି ମୁଣ୍ଡ ନାଡ଼େ।",
+            "en": "Raghu turns towards her with the parcel. Malati gives a small shake of her head."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A small pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "କିଛି ଆଣିବାକୁ ଭୁଲିଗଲି?",
+                "en": "Have I forgotten to bring something?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ନା। କିଛି ଦରକାର ନାହିଁ।",
+                "en": "No. I don’t need anything."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ମାଳତୀ ଟିକେ ଘୁଞ୍ଚି ନିଜ ପାଖେ ଜାଗା କରେ। ରଘୁ ବୁଝି ପୁଟୁଳି ତଳେ ରଖନ୍ତି।",
+            "en": "Malati shifts along the bench, making room beside her. Raghu understands and puts the parcel down."
+          },
+          "sound": {
+            "or": "ପୁଟୁଳି ରଖିବାର ନରମ ଶବ୍ଦ।",
+            "en": "The parcel settling softly."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ଆଉ ଟିକେ ବସ।",
+                "en": "Sit a little longer."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 18,
+          "action": {
+            "or": "ରଘୁ ପାଖେ ବସନ୍ତି। ମାଳତୀ ତାଙ୍କୁ ଚାହିଁ ଟିକେ ହସେ। ଦୁହେଁ ଚୁପ୍‌ରେ ରହନ୍ତି; ପୁଟୁଳି ବେଞ୍ଚ ପାଖେ।",
+            "en": "Raghu sits beside her. Malati looks at him with a small smile. They stay quiet; the parcel rests beside the bench."
+          },
+          "sound": {
+            "or": "ଶାନ୍ତ ପାଣି ଓ ଦୂର କାମର ଶବ୍ଦ। ଶେଷରେ କଥା ନାହିଁ।",
+            "en": "Quiet water and distant work. No line over the final pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ହଉ। ଟିକେ ବସିବା।",
+                "en": "All right. We can sit a little."
+              }
+            }
+          ]
+        }
+      ],
+      "storyboard": {
+        "sheet": "/characters/films/malati-stay-a-moment/pencil-storyboard-v3.png",
+        "page": "/characters/films/malati-stay-a-moment/index.html",
+        "archive": "boita-films",
+        "file": "pencil-storyboard-v3.png",
+        "draftFiles": [
+          "pencil-storyboard-v1.png",
+          "pencil-storyboard-v2.png"
+        ],
+        "medium": {
+          "or": "ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଶାନ୍ତ ମୁହୂର୍ତ୍ତ",
+          "en": "Pencil frames · A quiet moment"
+        },
+        "note": {
+          "or": "ଚାରିଟି ସ୍ଥିର ଦୃଶ୍ୟରେ ୫୬ ସେକେଣ୍ଡର ଗତି ପରୀକ୍ଷା। ମାଳତୀ ବାପାଙ୍କୁ ଆଉ ଟିକେ ବସିବାକୁ କହେ। ଶେଷର ନିରବତା ପାଇଁ ସମୟ ରହିଛି। କଣ୍ଠ ଓ ଚଳନ ବାକି।",
+          "en": "A 56-second pacing study in four still frames. Malati asks her father to sit a little longer, with time left for the final silence. Voices and movement remain ahead."
+        },
+        "development": {
+          "or": "ପୂର୍ବ ଚିତ୍ରର ବେଣୀ, ସରୁ କାନ୍ଧ କପଡ଼ା, ଧୋତି ଓ ଉତ୍ତରୀୟ ରହିଛି। ପ୍ରସ୍ଥାନର ବଡ଼ ଦୃଶ୍ୟରୁ ଦୁଇଜଣଙ୍କ ଛୋଟ କଥାକୁ ନଜର ଆସିଛି। ପୁଟୁଳି ଉଠି ପୁଣି ତଳେ ରହେ। ପ୍ରଥମ ଖସଡ଼ାରେ ବୋଇତର ସ୍ଥାନ ବଦଳୁଥିଲା; ଚୟନିତ ଦୃଶ୍ୟରେ ପଛ ଦୃଶ୍ୟକୁ ନଦୀ ଓ ଦୂର କୂଳରେ ସୀମିତ ରଖାଗଲା। ବୋଇତ ଦୃଶ୍ୟ ବାହାରେ ବନ୍ଧା ରହିଛି। ପୂର୍ବ ଦୁଇ ଖସଡ଼ା ଓ ଚିତ୍ର ନିର୍ଦ୍ଦେଶ ZIPରେ ଅଛି। ବସିବାବେଳର କୁଞ୍ଚ ଓ ହାତର ମଧ୍ୟବର୍ତ୍ତୀ ଚଳନ ପରବର୍ତ୍ତୀ ଧାପରେ ଯାଞ୍ଚ ହେବ।",
+          "en": "The braid, narrow shoulder cloth, dhoti and uttariya continue from the earlier artwork. Attention moves from the broad departure scene to a small conversation. The parcel is picked up, then set down. The boat drifted between the first draft’s frames, so the selected background is limited to the river and distant shore. The boat remains moored off-screen. The two earlier drawings and all drawing briefs are in the ZIP. Seated cloth folds and the in-between hand movement need checking during animation."
+        }
+      }
+    },
+    {
+      "id": "hema-let-her-answer",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "hema",
+        "name": {
+          "or": "ହେମା",
+          "en": "Hema"
+        },
+        "profile": "/characters/boita-sadhaba.html#hema"
+      },
+      "title": {
+        "or": "ସେ କହୁ",
+        "en": "Let Her Answer"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ରଘୁ ମାଳତୀକୁ ପଚାରିଲେ ହେମା ଆଗେ ଉତ୍ତର ଦେବାକୁ ଯାଆନ୍ତି। ଝିଅର ଉଠା ହାତ ଦେଖି ସେ ଥାମନ୍ତି।",
+        "en": "When Raghu asks Malati a question, Hema starts answering. Her daughter’s raised hand makes her pause."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ଅଭ୍ୟାସରେ ଆଗେ କହିବା → ଝିଅକୁ ଲକ୍ଷ୍ୟ କରିବା → କଥା ଛାଡ଼ିଦେବା → ଶୁଣିବା।",
+        "en": "Answering by habit → noticing her daughter → leaving the answer to her → listening."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଦୁଇ ଖୋଲା ହାଲୁକା ନମୁନା ପୁଟୁଳି। ଗୋଟିଏରେ ଧାର ଥିବା ବସ୍ତ୍ର, ଅନ୍ୟଟିରେ ସାଧା। ହେମା ମାଳତୀର ମୁହଁରେ କଥା ବସାଇବେନି।",
+        "en": "Two open light sample parcels: bordered cloth in one, plain cloth in the other. Hema does not supply Malati’s answer after inviting her to speak."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଳତୀ ସଜାଇଥିବା ଦୁଇ ନମୁନା ପାଖେ ରଘୁ ଥାମନ୍ତି। ହେମା ପାଖେ ବସିଛନ୍ତି।",
+            "en": "Raghu stops beside the samples Malati has arranged. Hema sits nearby."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା।",
+            "en": "Cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ମାଳତୀ, ଦୁଇଟାକୁ ଅଲଗା କାହିଁକି ରଖିଲୁ?",
+                "en": "Malati, why did you put these separately?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହେମା ଉତ୍ତର ଆରମ୍ଭ କରନ୍ତି। ମାଳତୀ ନିଜ ହାତ ଟିକେ ଉଠାଏ।",
+            "en": "Hema begins answering. Malati lifts her hand a little."
+          },
+          "sound": {
+            "or": "କଥା ମଝିରେ ବିରାମ।",
+            "en": "A pause mid-sentence."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଏପଟେ ଯେଉଁ…",
+                "en": "The ones on this side…"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ମାଆ, ମୁଁ କହିବି?",
+                "en": "Ma, may I tell him?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ହେମା ମାଳତୀକୁ ଚାହିଁ ମୁଣ୍ଡ ହଲାନ୍ତି। ନିଜ ହାତ କୋଳରେ ରଖନ୍ତି।",
+            "en": "Hema looks at Malati and nods, resting her hands in her lap."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପବନ।",
+            "en": "A light breeze."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ହଁ, ତୁ କହ। ତୁ ହିଁ ସଜାଇଛୁ।",
+                "en": "Yes, you tell him. You arranged them."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ମାଳତୀ ଦୁଇ ଭିନ୍ନ ଧାର ଦେଖାଏ। ହେମା ଆଉ କଥା ଯୋଡ଼ନ୍ତିନି।",
+            "en": "Malati shows the different edges. Hema listens without adding to her answer."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ହାଲୁକା ଫଡ଼ଫଡ଼।",
+            "en": "Soft fluttering cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ଏଗୁଡ଼ିକର ଧାର ଅଛି। ଏଗୁଡ଼ିକ ସାଧା। ଖୋଜିବା ସହଜ ହେବ।",
+                "en": "These have borders. These are plain. They’ll be easier to find."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hema-damp-fold",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "hema",
+        "name": {
+          "or": "ହେମା",
+          "en": "Hema"
+        },
+        "profile": "/characters/boita-sadhaba.html#hema"
+      },
+      "title": {
+        "or": "ଭିତର ଭାଙ୍ଗଟା",
+        "en": "The Inner Fold"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ରଘୁ ପୁଟୁଳି ବାନ୍ଧିବାକୁ ଚାହାନ୍ତି। ହେମା ଭିତର ଭାଙ୍ଗରେ ଓଦା ଦାଗ ଦେଖି ବସ୍ତ୍ରକୁ ପୁଣି ମେଲାନ୍ତି।",
+        "en": "Raghu is ready to wrap the cloth. Hema finds a damp patch in an inner fold and opens it out again."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ପ୍ରସ୍ତୁତିର ତରତର → ନିଜ ଯାଞ୍ଚରେ ଅଟଳ → ଦୁହେଁ ମିଶି ଅପେକ୍ଷା ପାଇଁ ବସ୍ତ୍ର ମେଲାଇବା।",
+        "en": "Departure hurry → standing by her inspection → spreading the cloth together and allowing time."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଗୋଟିଏ କପଡ଼ା, ଭିତର ଭାଙ୍ଗରେ ଦୃଶ୍ୟମାନ ଓଦା ଦାଗ। ମେଲାଇଲେ ତୁରନ୍ତ ଶୁଖିଯିବନି। ଶେଷରେ ସଫା ଉଚ୍ଚ ପଟାରେ ଖୋଲା ରହେ; ଯାତ୍ରା ସମୟ ଧାର୍ଯ୍ୟ ହୁଏନି।",
+        "en": "One textile with a visible damp patch inside a fold. Opening it does not dry it instantly. It ends spread on a clean raised board; no sailing deadline is set."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରଘୁ ଖୋଲା ପୁଟୁଳିର ଢାକଣା କପଡ଼ା ଧରନ୍ତି। ହେମା ଭିତର ବସ୍ତ୍ରର ଭାଙ୍ଗ ଖୋଲନ୍ତି।",
+            "en": "Raghu holds the outer wrapping while Hema opens an inner fold of the textile."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଖୋଲିବା।",
+            "en": "Cloth unfolding."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ଏଇଟା ବାନ୍ଧିଦେବା?",
+                "en": "Shall we tie this one up?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହେମା ଭିତର ଓଦା ଦାଗ ଦେଖାନ୍ତି। ରଘୁ ହାତ ଥାମନ୍ତି।",
+            "en": "Hema points to a damp patch inside. Raghu stops his hands."
+          },
+          "sound": {
+            "or": "କାମ ଥାମିବାର ବିରାମ।",
+            "en": "A pause in the work."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଟିକେ ରୁହ। ଭିତରଟା ଏବେ ବି ଓଦା।",
+                "en": "Wait. It’s still damp inside."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେ କପଡ଼ା ମେଲାନ୍ତି, ରଘୁ ଅନ୍ୟ ପଟ ଧରନ୍ତି। ଦାଗ ଦେଖାଯାଉଛି।",
+            "en": "She opens the cloth; Raghu takes the other side. The patch remains visible."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ଲମ୍ବା ଘଷା।",
+            "en": "A long rustle of cloth."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଉପରଟା ଦେଖି ମୁଁ ବି ଶୁଖିଛି ଭାବିଥିଲି।",
+                "en": "I thought it was dry too, looking at the outside."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଦୁହେଁ କପଡ଼ାକୁ ସଫା ଉଚ୍ଚ ପଟାରେ ମେଲାଇ ରଖନ୍ତି। ହେମା ଶେଷ ଭାଙ୍ଗ ଖୋଲନ୍ତି।",
+            "en": "They spread it on a clean raised board. Hema opens the last fold."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପବନ।",
+            "en": "A light breeze."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଏଇଟା ଶୁଖୁ। ସେତିକିବେଳେ ଅନ୍ୟ କାମ କରିବା।",
+                "en": "Let this dry. We can do the other work meanwhile."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hema-kept-piece",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "hema",
+        "name": {
+          "or": "ହେମା",
+          "en": "Hema"
+        },
+        "profile": "/characters/boita-sadhaba.html#hema"
+      },
+      "title": {
+        "or": "ଏଇ ଖଣ୍ଡଟା ରହୁ",
+        "en": "Keep This Piece"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ପୁରୁଣା ଛୋଟ ବସ୍ତ୍ର ଖଣ୍ଡକୁ ମାଳତୀ ନୂଆ ନମୁନା ସହ ରଖେ। ହେମା ତାକୁ ଅଲଗା କରନ୍ତି; ତାଙ୍କ ମାଆଙ୍କ ସହ ପ୍ରଥମ ମାଲ ସଜାଇବାର ସ୍ମୃତି ସେଥିରେ ଅଛି।",
+        "en": "Malati puts an old cloth piece with the new samples. Hema sets it aside: it reminds her of preparing her first consignment with her own mother."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ପୁରୁଣା କପଡ଼ା ଚିହ୍ନିବା → ନିଜ ଛୋଟବେଳର କଥା ଖୋଲିବା → ଝିଅ ସହ ସ୍ମୃତି ବାଣ୍ଟିବା।",
+        "en": "Recognising an old piece → opening a memory of her younger self → sharing it with her daughter."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଗୋଟିଏ ହାତରେ ଧରିହେବା ପୁରୁଣା ବସ୍ତ୍ର ଖଣ୍ଡ। ଏହା ପରିବାରର କାଳ୍ପନିକ ସ୍ମୃତି, ପ୍ରମାଣିତ ଐତିହାସିକ ବସ୍ତୁ ନୁହେଁ। ହେମା ନିଜେ ବୁଣିଥିଲେ ବୋଲି କୁହାଯାଏନି।",
+        "en": "One hand-sized old textile piece. A fictional family keepsake, not an authenticated historical object. The scene does not claim Hema wove it herself."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଳତୀ ନମୁନା ଗୁଛାଉଛି। ହେମା ପୁରୁଣା ଛୋଟ ଖଣ୍ଡଟିକୁ ହାତରେ ନିଅନ୍ତି।",
+            "en": "Malati sorts samples. Hema picks up one small older piece."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା।",
+            "en": "Cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଏଇ ଖଣ୍ଡଟା ରହୁ। ଏଇଟା ବିକ୍ରି ପାଇଁ ନୁହେଁ।",
+                "en": "Keep this piece. It isn’t for sale."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ମାଳତୀ ତା’ର ମଳିନ ଧାରକୁ ଚାହେଁ। ହେମା ଆଙ୍ଗୁଠିରେ ଭାଙ୍ଗ ମସୃଣ କରନ୍ତି।",
+            "en": "Malati looks at its worn edge. Hema smooths the fold with her fingers."
+          },
+          "sound": {
+            "or": "ଧୀର ହାତର ଶବ୍ଦ।",
+            "en": "Slow brushing fingers."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ଏତେ ପୁରୁଣାଟା କାହିଁକି ରଖିଛୁ?",
+                "en": "Why have you kept such an old one?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ହେମା କପଡ଼ାକୁ ଚାହିଁ ହସନ୍ତି, ତା’ପରେ ଝିଅକୁ ଦେଖନ୍ତି।",
+            "en": "Hema smiles at the cloth, then looks at her daughter."
+          },
+          "sound": {
+            "or": "ଶାନ୍ତ ବିରାମ।",
+            "en": "A quiet pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ମୋ ମାଆଙ୍କ ସହ ପ୍ରଥମ ମାଲ ସଜାଇଥିଲି। ସେଥିରୁ ଏଇ ଖଣ୍ଡଟା।",
+                "en": "I prepared my first consignment with my mother. This piece came from it."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ହେମା ଖଣ୍ଡଟି ଛୋଟ ଅଲଗା ଥଳିରେ ରଖନ୍ତି। ମାଳତୀ ପାଖେ ବସେ।",
+            "en": "Hema puts the piece in a separate little pouch. Malati sits beside her."
+          },
+          "sound": {
+            "or": "ଥଳିର ନରମ ଶବ୍ଦ।",
+            "en": "The pouch rustles softly."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ତୁ ବି ମୋ ଭଳି ଆଗେ ସବୁ ଜାଣିଛୁ ବୋଲି ଭାବୁଥିଲୁ?",
+                "en": "Did you think you knew everything already, like me?"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ତୋଠାରୁ ଟିକେ ବେଶି।",
+                "en": "A little more than you."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raghu-water-pot",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "raghu",
+        "name": {
+          "or": "ରଘୁ ସାଧବ",
+          "en": "Raghu Sadhaba"
+        },
+        "profile": "/characters/boita-sadhaba.html#raghu"
+      },
+      "title": {
+        "or": "ପାଣି ପାତ୍ରଟା?",
+        "en": "And the Water Pot?"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ରଘୁ ଅନ୍ୟ ସମସ୍ତଙ୍କ ପ୍ରସ୍ତୁତି ଦେଖନ୍ତି। ନିଜ ପାଣି ପାତ୍ରଟି ପଛେ ରହିଯାଇଛି ବୋଲି ହରି ଦେଖାଇଲେ ସେ ହସି ନିଜ କାମକୁ ଫେରନ୍ତି।",
+        "en": "Raghu checks everyone else’s preparations. Hari points out the personal water pot he has left behind; Raghu smiles and returns to his own packing."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ସମସ୍ତଙ୍କୁ ପ୍ରସ୍ତୁତ କି ପଚାରିବା → ନିଜ ଭୁଲ୍ ଦେଖିବା → ବାହାନା ନକରି ସଜାଡ଼ିବା।",
+        "en": "Checking everyone else → noticing his own omission → putting it right without an excuse."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ନିଜର ଛୋଟ ଢାଙ୍କୁଣି ଥିବା ପାଣି ପାତ୍ର; ସମଗ୍ର ଯାତ୍ରାର ଜଳଭଣ୍ଡାର ନୁହେଁ। ବୋଇତ ଘାଟରେ ବନ୍ଧା। ଶେଷରେ ପାତ୍ରଟି ରଘୁଙ୍କ ବ୍ୟକ୍ତିଗତ ପୁଟୁଳି ପାଖେ ରହେ।",
+        "en": "A small lidded personal water pot, not the voyage’s whole water supply. The boita stays moored. The pot ends beside Raghu’s personal parcel."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ଘାଟର ଭିତର ପଟେ ରଘୁ ଯିବା ପୁଟୁଳିଗୁଡ଼ିକୁ ଦେଖନ୍ତି। ହରି ପାଖେ ଠିଆ।",
+            "en": "On the inland side of the landing, Raghu checks the departing parcels. Hari stands nearby."
+          },
+          "sound": {
+            "or": "ଦୂର କାମର ଶବ୍ଦ।",
+            "en": "Distant work."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ସବୁ ପ୍ରସ୍ତୁତ ତ?",
+                "en": "Is everything ready?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହରି ରଘୁଙ୍କ ପଛର ବେଞ୍ଚକୁ ଚାହାନ୍ତି। ସେଠି ଛୋଟ ପାଣି ପାତ୍ର ରହିଛି।",
+            "en": "Hari looks at the bench behind Raghu, where the little water pot remains."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ତୁମ ପାଣି ପାତ୍ରଟା ଏଠି ରହିବ?",
+                "en": "Is your water pot staying here?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ରଘୁ ପଛକୁ ବୁଲି ପାତ୍ର ଦେଖନ୍ତି। ନିଜ କପାଳକୁ ହାଲୁକା ହାତ ଦେଇ ହସନ୍ତି।",
+            "en": "Raghu turns, spots the pot and touches his forehead with a small laugh."
+          },
+          "sound": {
+            "or": "ରଘୁଙ୍କ ହସ।",
+            "en": "Raghu’s laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ସମସ୍ତଙ୍କୁ ପଚାରିଲି। ନିଜକୁ ଭୁଲିଗଲି!",
+                "en": "I asked everyone. I forgot to ask myself!"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସେ ପାତ୍ରଟି ନିଜ ପୁଟୁଳି ପାଖେ ରଖନ୍ତି। ହରି ଅପେକ୍ଷା କରନ୍ତି; ରଘୁ ନିଜ ଜିନିଷ ଦେଖନ୍ତି।",
+            "en": "He puts the pot beside his parcel. Hari waits while Raghu checks his own belongings."
+          },
+          "sound": {
+            "or": "ପାତ୍ର ରଖିବାର ହାଲୁକା ଟକ୍।",
+            "en": "A light tap as the pot is set down."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ଏବେ ମୋ ପାଳି।",
+                "en": "My turn to check now."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raghu-handful-of-water",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "raghu",
+        "name": {
+          "or": "ରଘୁ ସାଧବ",
+          "en": "Raghu Sadhaba"
+        },
+        "profile": "/characters/boita-sadhaba.html#raghu"
+      },
+      "title": {
+        "or": "ହାତରେ କହିଥିଲି",
+        "en": "I Said It with My Hands"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ପୂର୍ବ ଯାତ୍ରାର ଗପ କହୁଥିବା ରଘୁ ନିଜ ଭୁଲ୍ ଭଙ୍ଗୀ ଦେଖାନ୍ତି। ପିଇବା ପାଣି ମାଗି ମୁହଁ ଧୋଇବା ଭଙ୍ଗୀ କରିଥିଲେ; ଗପର ହସ ନିଜ ଉପରେ।",
+        "en": "Telling a story from an earlier voyage, Raghu demonstrates his own muddled gesture: asking for drinking water while miming a face wash. The joke is on his gesture."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ନିଜ ଯାତ୍ରା ଗପର ଗର୍ବ → ନିଜ ଅସୁବିଧା କହିବା → ଭୁଲ୍ ଭଙ୍ଗୀରେ ହସ → ଝିଅ ସହ ସେଇ ମୁହୂର୍ତ୍ତ ବାଣ୍ଟିବା।",
+        "en": "Proud traveller’s tale → admitting a difficulty → laughing at his own gesture → sharing the moment with his daughter."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ସମସ୍ତ ଦୃଶ୍ୟ ଘାଟରେ। ଅତୀତ ଘଟଣା ମୁଖରେ କୁହାଯାଏ; ଅନ୍ୟ ଦେଶ, ଲୋକ ବା ଭାଷାର ନକଲ ହେବନି। ଦୁଇ ହାତ ମାତ୍ର; ପ୍ରକୃତ ପାଣି ଢାଳିବା ନାହିଁ।",
+        "en": "All shots remain at the landing. The earlier event is narrated; no imitation of another people, language or country. Two hands only; no actual water is poured."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରଘୁ ଓ ମାଳତୀ ଛାଇରେ ବସିଛନ୍ତି। ସେ ପୂର୍ବ ଯାତ୍ରାର ଏକ ଘଟଣା ମନେପକାନ୍ତି।",
+            "en": "Raghu and Malati sit in the shade. He recalls an incident from an earlier journey."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ପତ୍ର ଶବ୍ଦ।",
+            "en": "Light leaf sounds."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ଥରେ ପାଣି ମାଗିବା କଥାଟା ଜାଣିନଥିଲି।",
+                "en": "Once I didn’t know the words for asking for water."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସେ ଦୁଇ ହାତ ମୁହଁ ପାଖକୁ ନେଇ ଧୋଇବା ଭଙ୍ଗୀ କରନ୍ତି। ମାଳତୀ ଧ୍ୟାନରେ ଦେଖେ।",
+            "en": "He brings both hands to his face in a washing motion. Malati watches closely."
+          },
+          "sound": {
+            "or": "କଥା ମଝିରେ ଛୋଟ ବିରାମ।",
+            "en": "A brief pause in the story."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ହାତରେ ଏମିତି କହିଲି।",
+                "en": "So I said it like this, with my hands."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ମାଳତୀ ହସେ। ରଘୁ ନିଜ ଭଙ୍ଗୀ ପୁଣି ଦେଖି ମୁଣ୍ଡ ହଲାନ୍ତି।",
+            "en": "Malati laughs. Raghu looks at his gesture again and nods."
+          },
+          "sound": {
+            "or": "ଦୁହିଁଙ୍କ ହସ।",
+            "en": "Their shared laughter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ତୁମେ ତ ମୁହଁ ଧୋଇବାକୁ କହୁଛ!",
+                "en": "You’re asking to wash your face!"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ସେମାନେ ବି ସେଇଆ ବୁଝିଲେ।",
+                "en": "That’s what they understood too."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ରଘୁ ଏଥର ହାତକୁ ଛୋଟ ପାତ୍ର ପରି କରି ଓଠ ଆଡ଼କୁ ନିଅନ୍ତି। ମାଳତୀ ବୁଝି ହସେ।",
+            "en": "This time Raghu cups one hand and brings it towards his lips. Malati understands and smiles."
+          },
+          "sound": {
+            "or": "ହସ ପରେ ଶାନ୍ତି।",
+            "en": "Quiet after the laughter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ପରେ ଏମିତି କଲି। ପାଣି ମିଳିଲା, ହସ ବି ମିଳିଲା।",
+                "en": "Then I tried this. I got my water—and a laugh too."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raghu-return-day",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "raghu",
+        "name": {
+          "or": "ରଘୁ ସାଧବ",
+          "en": "Raghu Sadhaba"
+        },
+        "profile": "/characters/boita-sadhaba.html#raghu"
+      },
+      "title": {
+        "or": "କେବେ ଫେରିବ?",
+        "en": "When Will You Return?"
+      },
+      "duration": 56,
+      "premise": {
+        "or": "ମାଳତୀ ଫେରିବା ଦିନ ପଚାରେ। ରଘୁ ତାକୁ ଖୁସି କରିବାକୁ ଶୀଘ୍ର ଉତ୍ତର ଦେବାକୁ ଯାଆନ୍ତି, ତା’ପରେ ଯାହା ଜାଣନ୍ତି ସେତିକି କହନ୍ତି।",
+        "en": "Malati asks for a return day. Raghu almost gives a quick reassuring answer, then tells her only what he knows."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ଝିଅକୁ ଖୁସି କରିବାର ଇଚ୍ଛା → ଅନିଶ୍ଚିତ ଦିନକୁ ନିଶ୍ଚିତ ନକରିବା → ଫେରିବାବେଳର ଛୋଟ କଥା ଭାଗ କରିବା।",
+        "en": "Wanting to reassure her → not inventing a definite day → sharing a small wish for his homecoming."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଯାତ୍ରା ଆରମ୍ଭ ପୂର୍ବର କଥା। କ୍ୟାଲେଣ୍ଡର୍, ନିର୍ଦ୍ଦିଷ୍ଟ ତାରିଖ ବା ନୌପଥ ନାହିଁ। ଅନିଶ୍ଚିତତାକୁ ଭୟଙ୍କର ବିପଦ ଦୃଶ୍ୟରେ ବଦଳାଇବା ନାହିଁ।",
+        "en": "A conversation before departure. No calendar, exact date or route. Do not turn uncertainty into an ominous danger montage."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରଘୁ ନିଜ ପୁଟୁଳି ଗୁଛାଉଛନ୍ତି। ମାଳତୀ ପାଖେ ବସି ତାଙ୍କୁ ଚାହେଁ।",
+            "en": "Raghu arranges his parcel. Malati sits nearby, looking at him."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଘଷା।",
+            "en": "Cloth rustling."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ବାପା, କେବେ ଫେରିବ?",
+                "en": "Bapa, when will you return?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ରଘୁ ଉତ୍ତର ଆରମ୍ଭ କରି ଥାମନ୍ତି। ପୁଟୁଳି ରଖି ଝିଅ ଆଡ଼କୁ ବୁଲନ୍ତି।",
+            "en": "Raghu begins an answer, then pauses. He puts down the parcel and turns towards her."
+          },
+          "sound": {
+            "or": "କପଡ଼ାର ଶବ୍ଦ ଥାମେ।",
+            "en": "The rustling stops."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ଶୀଘ୍ର… ଠିକ୍ ଦିନଟା ଏବେ କହିପାରିବିନି।",
+                "en": "Soon… I can’t tell you the exact day yet."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ସେ ଶାନ୍ତ ଭାବେ କହନ୍ତି। ମାଳତୀ ମୁଣ୍ଡ ଟିକେ ତଳକୁ କରି ପୁଣି ତାଙ୍କୁ ଚାହେଁ।",
+            "en": "He speaks gently. Malati lowers her head a little, then looks back at him."
+          },
+          "sound": {
+            "or": "ଦୂର ପାଣିର ଶବ୍ଦ।",
+            "en": "Distant water."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "କାମ ଓ ପବନ ଉପରେ ବି ନିର୍ଭର କରେ। ଦିନ ଗଣି କହିଦେଲେ ଭୁଲ୍ ହୋଇପାରେ।",
+                "en": "It depends on the work and the wind too. I might be wrong if I gave you a number of days."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ରଘୁ ହାତ ଖୋଲି ଝିଅର କଥା ପାଇଁ ଅପେକ୍ଷା କରନ୍ତି। ମାଳତୀ ଟିକେ ହସେ।",
+            "en": "Raghu opens his hands and waits for her answer. Malati gives a small smile."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ, ହାଲୁକା ହସ।",
+            "en": "A pause and a small laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ଫେରିଲେ ଆଗେ ତୋ କଥା ଶୁଣିବି।",
+                "en": "When I’m back, I’ll listen to your stories first."
+              }
+            },
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ବହୁତ ହୋଇଯାଇଥିବ।",
+                "en": "There may be a lot by then."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hari-which-end",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "hari",
+        "name": {
+          "or": "ହରି ନାଉରି",
+          "en": "Hari Nauri"
+        },
+        "profile": "/characters/boita-sadhaba.html#hari"
+      },
+      "title": {
+        "or": "କେଉଁ ମୁଣ୍ଡଟା?",
+        "en": "Which End?"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ହରି ଖାଲି “ଏ ପଟ” କହିଲେ ରଘୁ ଅନ୍ୟ ପଟ ଧରନ୍ତି। ହରି ନିଜ ନିର୍ଦ୍ଦେଶ ସ୍ପଷ୍ଟ କରିବାକୁ ଫେରନ୍ତି।",
+        "en": "Hari says only “this end” and Raghu reaches for the other one. Hari goes back and makes his request clear."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ଅନ୍ୟଜଣ ଜାଣିଛନ୍ତି ଭାବିବା → ଭୁଲ୍ ବୁଝାବୁଝି ଦେଖିବା → ନିଜ କଥା ସ୍ପଷ୍ଟ କରିବା।",
+        "en": "Assuming the other person knows → noticing the misunderstanding → clarifying his own words."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ତଳେ ରଖା ହାଲୁକା ଦଉଡ଼ି କୁଣ୍ଡଳୀ; ନୌକା ବାନ୍ଧିବା ଦଉଡ଼ି ସହ ଯୋଡ଼ା ନୁହେଁ। କୌଣସି ଟାଣ, ଭାର ବା ଗଣ୍ଠି ଶିକ୍ଷା ନାହିଁ। ଦୁଇ ବୟସ୍କ ମାତ୍ର ଧରନ୍ତି।",
+        "en": "A light loose coil on the ground, unconnected to the mooring. No tension, load or knot demonstration. Only the two adults handle it."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହରି ଘାଟର ଭିତର ପଟେ ଖାଲି ଦଉଡ଼ି କୁଣ୍ଡଳୀ ଗୁଛାଉଛନ୍ତି। ରଘୁ ପାଖକୁ ଆସନ୍ତି।",
+            "en": "Hari arranges a loose coil on the inland side of the landing. Raghu comes over."
+          },
+          "sound": {
+            "or": "ଦଉଡ଼ିର ନରମ ଘଷା।",
+            "en": "Soft rope brushing."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ଏ ପଟଟା ଟିକେ ଧର।",
+                "en": "Hold this end a moment."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହରି ନିଜ କାମକୁ ଚାହୁଁଥିବାରୁ ଦେଖାଇନାହାନ୍ତି। ରଘୁ ଅନ୍ୟ ମୁଣ୍ଡକୁ ହାତ ବଢ଼ାନ୍ତି।",
+            "en": "Still looking at his work, Hari has not pointed. Raghu reaches for the other end."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ଏଇଟା?",
+                "en": "This one?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ହରି ହାତ ଥାମି ନିଜ ପାଖର ମୁଣ୍ଡଟି ଉଠାଇ ଦେଖାନ୍ତି।",
+            "en": "Hari stops and lifts the end beside him so Raghu can see it."
+          },
+          "sound": {
+            "or": "ହାଲୁକା ଦଉଡ଼ି ଶବ୍ଦ।",
+            "en": "A light rope sound."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ନା, ମୋ ପାଖରେ ଏଇଟା। ମୁଁ ଠିକ୍‌ରେ ଦେଖାଇନଥିଲି।",
+                "en": "No, this one beside me. I didn’t show you properly."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ରଘୁ ସେଇ ମୁଣ୍ଡ ଧରନ୍ତି। ହରି ଢିଲା କୁଣ୍ଡଳୀ ଗୁଛାନ୍ତି, ଦୁହେଁ ହସନ୍ତି।",
+            "en": "Raghu takes that end. Hari arranges the slack coil, and they share a smile."
+          },
+          "sound": {
+            "or": "ଦଉଡ଼ି ଘଷା ଓ ଛୋଟ ହସ।",
+            "en": "Rope brushing and a little laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ରଘୁ ସାଧବ",
+                "en": "Raghu Sadhaba"
+              },
+              "text": {
+                "or": "ତୁମ “ଏ ପଟ” ମୋ “ସେ ପଟ” ଥିଲା।",
+                "en": "Your “this end” was my “that end”."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hari-two-pairs-of-hands",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "hari",
+        "name": {
+          "or": "ହରି ନାଉରି",
+          "en": "Hari Nauri"
+        },
+        "profile": "/characters/boita-sadhaba.html#hari"
+      },
+      "title": {
+        "or": "ଆଉ ଦୁଇଟି ହାତ",
+        "en": "Two More Hands"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ହରି ନିଜେ ବଡ଼ ହାଲୁକା ଢାକଣା କପଡ଼ା ଭାଙ୍ଗିବାକୁ ଚେଷ୍ଟା କରନ୍ତି। ଏକ ପଟ ମେଳାଇଲେ ଅନ୍ୟ ପଟ ଖସେ। ସେ ହେମାଙ୍କୁ ସାହାଯ୍ୟ ମାଗନ୍ତି।",
+        "en": "Hari tries to fold a broad light covering cloth alone. Whenever one side lines up, the other slips. He asks Hema for another pair of hands."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "ଏକା ସାରିବାର ଅଭ୍ୟାସ → ନିଜ ହାତର ସୀମା ଦେଖିବା → ସାହାଯ୍ୟ ମାଗିବା → ଏକାଠି କାମରେ ହସ।",
+        "en": "Habit of finishing alone → seeing the limit of his reach → asking for help → sharing the work and its humour."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଗୋଟିଏ ସଫା ହାଲୁକା ଢାକଣା କପଡ଼ା, ପାଲ ନୁହେଁ। ମାଟି ଛୁଏନି; ଚଉଡ଼ା ପଟା ଉପରେ। ହେମା ଦ୍ୱିତୀୟ ପଟ ଧରନ୍ତି। ହରିଙ୍କ ଦୁଇ ହାତ ମାତ୍ର।",
+        "en": "One clean light cover cloth, not a sail. It stays on a broad board above the ground. Hema takes the second side. Hari has only two arms."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହରି ପଟା ଉପରର ଚଉଡ଼ା କପଡ଼ାର ଦୁଇ କୋଣ ମେଳାନ୍ତି। ଦୂର ପଟ ଖୋଲିଯାଏ।",
+            "en": "Hari brings two corners of the broad cloth together on the board. The far side opens out."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଫଡ଼ଫଡ଼।",
+            "en": "Cloth fluttering."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ଏ ପଟ ରହିଲେ ସେ ପଟ ଯାଉଛି।",
+                "en": "This side stays, and that side goes."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ସେ ଦୂର କୋଣ ଧରିବାକୁ ଯାଇ ପାଖ କୋଣ ଛାଡ଼ିଦିଅନ୍ତି। ହେମା ଦେଖି ଥାମନ୍ତି।",
+            "en": "Reaching for the far corner, he releases the near one. Hema stops to watch."
+          },
+          "sound": {
+            "or": "ଆଉ ଏକ ହାଲୁକା ଫଡ଼ଫଡ଼।",
+            "en": "Another soft flutter."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହେମା",
+                "en": "Hema"
+              },
+              "text": {
+                "or": "ଧରିବି?",
+                "en": "Shall I hold it?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ହରି କପଡ଼ାକୁ ପଟାରେ ରଖି ହେମାଙ୍କୁ ଅନ୍ୟ ପଟ ଦେଖାନ୍ତି।",
+            "en": "Hari rests the cloth on the board and indicates the other side to Hema."
+          },
+          "sound": {
+            "or": "କପଡ଼ା ଶାନ୍ତ ହୁଏ।",
+            "en": "The cloth settles."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ହଁ। ଦୁଇ ହାତରେ ଚାରି କୋଣ ଧରିବାକୁ ବସିଥିଲି।",
+                "en": "Yes. I was trying to hold four corners with two hands."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ଦୁହେଁ ଦୁଇ ପଟ ଧରି ଏକାଠି ଭାଙ୍ଗନ୍ତି। କପଡ଼ା ପଟାରେ ସମାନ ରହେ।",
+            "en": "Holding opposite sides, they fold together. The cloth lies evenly on the board."
+          },
+          "sound": {
+            "or": "ଲମ୍ବା କପଡ଼ା ଘଷା, ହସ।",
+            "en": "A long rustle and a laugh."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ଆଉ ଦୁଇଟି ହାତ ଦରକାର ଥିଲା।",
+                "en": "I needed two more hands."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hari-time-to-sit",
+      "world": "boita-sadhaba",
+      "focus": {
+        "id": "hari",
+        "name": {
+          "or": "ହରି ନାଉରି",
+          "en": "Hari Nauri"
+        },
+        "profile": "/characters/boita-sadhaba.html#hari"
+      },
+      "title": {
+        "or": "ଏବେ ବସିବା",
+        "en": "Time to Sit"
+      },
+      "duration": 54,
+      "premise": {
+        "or": "ହରି ନିଜ କାମ ସାରି ମଧ୍ୟ ପୁଣି ସେଇ ଖାଲି କୁଣ୍ଡଳୀ ଗୁଛାନ୍ତି। ମାଳତୀର ଗପ ମଝିରେ ଥିଲା ବୋଲି ମନେପଡ଼ିଲେ ସେ ହାତ ଛାଡ଼ି ଶୁଣିବାକୁ ବସନ୍ତି।",
+        "en": "His work finished, Hari keeps rearranging the same loose coil. Remembering that Malati’s story was interrupted, he leaves it alone and sits down to listen."
+      },
+      "setting": {
+        "or": "ପୁରୁଣା ଉପକୂଳ ଓଡ଼ିଶାର ଏକ କାଳ୍ପନିକ ନଦୀଘାଟ। ବୋଇତ, ବସ୍ତ୍ର ବ୍ୟବସାୟ ଓ ଯାତ୍ରା ପ୍ରସ୍ତୁତିର ମୌଳିକ ଗପ। ବାର ବର୍ଷର ମାଳତୀ ହେମା ଓ ରଘୁଙ୍କ ଝିଅ। ଚାଳିଶ ବର୍ଷର ହେମା ବସ୍ତ୍ର ବ୍ୟବସାୟୀ, ଚଉରାଳିଶ ବର୍ଷର ରଘୁ ଯାତ୍ରୀ ବଣିକ। ପଚାଶ ବର୍ଷର ହରି ଅଭିଜ୍ଞ ନାଉରି ଓ ସହକର୍ମୀ। ନିର୍ଦ୍ଦିଷ୍ଟ ସନ, ବନ୍ଦର ବା ନୌପଥ ଧାର୍ଯ୍ୟ ନୁହେଁ। ଏହା ଆଜିର ବାଲିଯାତ୍ରା ମେଳାର ଦୃଶ୍ୟ ନୁହେଁ।",
+        "en": "A fictional river landing in preindustrial coastal Odisha. Original stories of a boita, textile trade and preparations for a voyage. Twelve-year-old Malati is Hema and Raghu’s daughter. Hema, 40, is a textile trader; Raghu, 44, a merchant voyager; Hari, 50, an experienced boatman and colleague. No exact year, port or sailing route is specified. These are not scenes from today’s Bali Jatra fair."
+      },
+      "performance": {
+        "or": "କାମ ସରିଲେ ବି ହାତ ନଥାମିବା → ଅଧା ଶୁଣା ଗପ ମନେପଡ଼ିବା → ନିଜେ ସମୟ ଦେବା।",
+        "en": "Keeping his hands busy after finishing → remembering a half-heard story → choosing to give it time."
+      },
+      "wardrobe": {
+        "or": "ଚୟନିତ ଚିତ୍ରର ପୋଷାକ ରହିବ: ମାଳତୀର ଲମ୍ବା ବେଣୀ, ମାଟିଆ ଲାଲ ଘାଘରା, କ୍ରିମ୍ ବ୍ଲାଉଜ୍ ଓ ସରୁ ହଳଦିଆ କାନ୍ଧ କପଡ଼ା। ହେମାର ନୀଳ ସୂତା ଶାଢ଼ୀରେ ସରୁ ଲାଲ–କ୍ରିମ୍ ଧାର, ଲାଲ ବ୍ଲାଉଜ୍, ତଳ ଖୋସା ଓ ଅଳ୍ପ ଅଳଙ୍କାର। ରଘୁଙ୍କ କ୍ରିମ୍ ଧୋତିର ଲାଲ ଧାର ଓ ବାମ କାନ୍ଧରେ ଗାଢ଼ ଲାଲ ଉତ୍ତରୀୟ। ହରିଙ୍କ ଛୋଟ ନୀଳ କାମ ଧୋତି, ଅଣ୍ଟାରେ ଲାଲ–କ୍ରିମ୍ ଚେକ୍ ଗାମୁଛା ଓ କ୍ରିମ୍ କାନ୍ଧ କପଡ଼ା। କପଡ଼ାର ଖୋସା ଓ ଶେଷ ଧାର ହାତର କାମରେ ଅଟକିବନି। ଏହା ଚିତ୍ରକଳ୍ପ; ନିର୍ଦ୍ଦିଷ୍ଟ ଶତାବ୍ଦୀର ପ୍ରମାଣିତ ପୋଷାକ ନୁହେଁ।",
+        "en": "Keep the selected designs: Malati’s long braid, rust wrap skirt, cream blouse and narrow ochre shoulder cloth; Hema’s indigo cotton sari with narrow red/cream borders, plain red blouse, low bun and modest jewellery; Raghu’s cream dhoti with red border and deep-red uttariya over his left shoulder; Hari’s short indigo working dhoti, red/cream checked waist gamucha and cream shoulder cloth. Tucked ends should permit the work. These are illustrated interpretations, not authenticated costumes of a specific century."
+      },
+      "continuity": {
+        "or": "ଏହି କୁଣ୍ଡଳୀ ଅତିରିକ୍ତ ଢିଲା ଦଉଡ଼ି; ନୌକା ବାନ୍ଧିବା ବା ନିରାପତ୍ତା ଯାଞ୍ଚକୁ ଅବହେଳା କରାଯାଏନି। ବୟସ୍କଙ୍କ ଅନ୍ୟ କାମ ଶେଷ; ଯାତ୍ରା ଆରମ୍ଭ ହୋଇନି।",
+        "en": "This is a spare slack coil; no mooring or safety check is neglected. The adult’s other tasks are finished and departure has not begun."
+      },
+      "wardrobeLink": "/characters/regional-dress.html#period",
+      "referenceImage": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "preview": "/characters/boita-sadhaba/assets/cast-natural-v2.png",
+      "scenes": [
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହରି ଖାଲି କୁଣ୍ଡଳୀ ସଜାଇ ପଛକୁ ହଟନ୍ତି। ପୁଣି ଗୋଟିଏ ଘେରକୁ ଟିକେ ଘୁଞ୍ଚାନ୍ତି। ମାଳତୀ ପାଖେ ବସିଛି।",
+            "en": "Hari arranges the spare coil and steps back, then moves one loop a little. Malati sits nearby."
+          },
+          "sound": {
+            "or": "ଦଉଡ଼ିର ହାଲୁକା ଘଷା।",
+            "en": "Light rope brushing."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ସରିଗଲା?",
+                "en": "Finished?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 12,
+          "action": {
+            "or": "ହରି ମୁଣ୍ଡ ହଲାଇ ପୁଣି ଦଉଡ଼ି ଆଡ଼କୁ ହାତ ନିଅନ୍ତି। ତା’ପରେ ନିଜେ ଥାମନ୍ତି।",
+            "en": "Hari nods and reaches towards the coil again, then catches himself."
+          },
+          "sound": {
+            "or": "ହାତ ଥାମେ; ନଦୀର ଶବ୍ଦ ରହେ।",
+            "en": "His hand stops; the river remains audible."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ହଁ। ଦଉଡ଼ି ସରିଛି, ମୋ ହାତ ସରିନି।",
+                "en": "Yes. The rope’s finished. My hands haven’t."
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 14,
+          "action": {
+            "or": "ସେ ମାଳତୀକୁ ଚାହାନ୍ତି, କୁଣ୍ଡଳୀରୁ ହାତ ଫେରାନ୍ତି।",
+            "en": "He looks towards Malati and takes his hand away from the coil."
+          },
+          "sound": {
+            "or": "ଛୋଟ ବିରାମ।",
+            "en": "A short pause."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ତୋ ଗପଟା କେଉଁଠି ରହିଲା?",
+                "en": "Where did your story get to?"
+              }
+            }
+          ]
+        },
+        {
+          "seconds": 16,
+          "action": {
+            "or": "ହରି ତା’ ପାଖର ନିମ୍ନ ଆସନରେ ବସନ୍ତି। ମାଳତୀ ଦୁଇ ହାତରେ ଛୋଟ ବୃତ୍ତ ଦେଖାଇ ପୁଣି ଗପ ଧରେ।",
+            "en": "Hari sits on a low seat beside her. Malati makes a small circle with her hands and picks up her story."
+          },
+          "sound": {
+            "or": "ମାଳତୀର କଥା, ପଛେ ନରମ ନଦୀ ଶବ୍ଦ।",
+            "en": "Malati’s voice with the river softly behind."
+          },
+          "lines": [
+            {
+              "speaker": {
+                "or": "ମାଳତୀ",
+                "en": "Malati"
+              },
+              "text": {
+                "or": "ଯେଉଁଠି ତୁମେ ଶୁଣିବା ଛାଡ଼ିଲ!",
+                "en": "Where you stopped listening!"
+              }
+            },
+            {
+              "speaker": {
+                "or": "ହରି ନାଉରି",
+                "en": "Hari Nauri"
+              },
+              "text": {
+                "or": "ତାହେଲେ ସେଇଠୁ।",
+                "en": "Then start there."
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updated": "2026-10-17"
+  "updated": "2026-10-18"
 }

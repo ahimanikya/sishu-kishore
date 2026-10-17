@@ -1,6 +1,6 @@
 """Paired scripts and honest, silent storyboard timing studies."""
 from collections import defaultdict
-import hashlib, zipfile
+import hashlib, zipfile, struct
 
 def dialogue(lines):
     return ''.join('<p>'+bi(line['speaker'],'strong')+'<br>'+bi(line['text'],'span')+'</p>' for line in lines)
@@ -42,10 +42,15 @@ for script in film_data['scripts']:
     if board:
         dest=ROOT/'public'/board['sheet'].lstrip('/');dest.parent.mkdir(parents=True,exist_ok=True)
         shutil.copy2(ARCHIVE/board['archive']/board['file'],dest)
+        # A 2x2 sheet and each of its frames share the same aspect ratio.
+        with dest.open('rb') as sheet:
+            header=sheet.read(24)
+        assert header[:8]==b'\x89PNG\r\n\x1a\n',board['sheet']
+        width,height=struct.unpack('>II',header[16:24])
         title=pair(script['title']['or']+' · ସମୟଧରା ଖସଡ଼ା',script['title']['en']+' · Timed storyboard')
         body='<header>'+bi(board.get('medium',pair('ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଗତିର ପରୀକ୍ଷା','Pencil frames · A pacing study')),'p','class="eyebrow"')+bi(script['title'],'h1')+bi(board['note'])+link('/characters/scripts/'+sid+'.html','ପୂରା ପାଠ୍ୟ ଓ ପୋଷାକର ନିର୍ଦ୍ଦେଶ','Full script and wardrobe notes')+'</header>'
         first=script['scenes'][0]
-        body+='<section class="storyboard-player" id="preview"><div class="storyboard-stage" role="img" aria-label="'+esc(first['action']['or'])+'" data-aria-label-or="'+esc(first['action']['or'])+'" data-aria-label-en="'+esc(first['action']['en'])+'" style="background-image:url('+board['sheet']+');background-position:0% 0%"></div>'
+        body+='<section class="storyboard-player" id="preview"><div class="storyboard-stage" role="img" aria-label="'+esc(first['action']['or'])+'" data-aria-label-or="'+esc(first['action']['or'])+'" data-aria-label-en="'+esc(first['action']['en'])+'" style="background-image:url('+board['sheet']+');background-position:0% 0%;aspect-ratio:'+str(width)+'/'+str(height)+'"></div>'
         body+='<div class="storyboard-controls" hidden>'+bi(pair('ଚଳାନ୍ତୁ','Play'),'button','type="button" data-player-play')+bi(pair('ପୂର୍ବ ଦୃଶ୍ୟ','Previous scene'),'button','type="button" data-player-previous')+bi(pair('ପର ଦୃଶ୍ୟ','Next scene'),'button','type="button" data-player-next')+'<label for="storyboard-time">'+bi(pair('ସମୟ','Time'),'span')+'</label><input id="storyboard-time" type="range" min="0" max="'+str(script['duration'])+'" step="0.1" value="0"><output for="storyboard-time" data-player-clock>0:00 / 0:'+str(script['duration'])+'</output></div>'
         body+='<div class="storyboard-caption"><p class="eyebrow" data-player-scene aria-live="polite">'+bi(scene_heading(1,0,first['seconds']),'span')+'</p>'+bi(pair('ସଂଳାପର ଖସଡ଼ା · କଣ୍ଠ ରେକର୍ଡ ନାହିଁ','Draft dialogue · No recorded voice'),'p','class="caption"')+'<div data-player-dialogue>'+dialogue(first['lines'])+'</div></div></section>'
         body+='<section id="all-frames">'+bi(pair('ଚାରିଟି ଦୃଶ୍ୟ ଏକାଠି','All four frames'),'h2')+image(board['sheet'],'ନିର୍ବାଚିତ ଦୃଶ୍ୟଖସଡ଼ା, ବାମରୁ ଡାହାଣକୁ, ତା’ପରେ ତଳ ଧାଡ଼ି।','Selected storyboard frames, read left to right, then the lower row.')+'</section>'
@@ -84,6 +89,8 @@ for wid,written in groups.items():
             if script.get('storyboard'):
                 board=script['storyboard'];src=ARCHIVE/board['archive']
                 z.write(src/board['file'],'storyboards/'+script['id']+'/'+board['file'])
+                for name in board.get('draftFiles',[]):
+                    z.write(src/name,'storyboards/'+script['id']+'/earlier-drafts/'+name)
                 for f in sorted(src.glob('storyboard-prompt-v*.txt')):z.write(f,'storyboards/'+script['id']+'/'+f.name)
         z.writestr('READ-ME.txt','ପରିକଳ୍ପନା ଓ ସୃଜନ ନିର୍ଦ୍ଦେଶନା: Ahimanikya Satapathy\nConcept and creative direction: Ahimanikya Satapathy\n\nଦ୍ୱିଭାଷୀ ଚଳଚ୍ଚିତ୍ର ପାଠ୍ୟର ପ୍ରଥମ ଖସଡ଼ା: '+str(len(written))+'। ପ୍ରତି ଚରିତ୍ର ପାଇଁ ତିନିଟି।\n'+str(len(written))+' first bilingual film-script drafts. Three per character.\n\nଦୃଶ୍ୟଖସଡ଼ାରେ ଚୟନିତ ସ୍ଥିର ଚିତ୍ର ଅଛି; ସମ୍ପୂର୍ଣ୍ଣ ଚଳଚ୍ଚିତ୍ର ବାକି।\nStoryboards are selected still frames, not completed films.\nସ୍ୱାଧୀନ ଦକ୍ଷ ଓଡ଼ିଆ ଓ ସାଂସ୍କୃତିକ ଯାଞ୍ଚ ବାକି। ସମୟ ପରିବର୍ତ୍ତନଯୋଗ୍ୟ।\nIndependent fluent Odia and cultural review pending. Timing is provisional.\nପୋଷାକର ଅଞ୍ଚଳୀୟ ସୂତ୍ର / Regional clothing sources: https://sishu.kabitawithoutborders.org/characters/regional-dress.html\n')
         z.writestr('manifest-sha256.json',json.dumps({name:hashlib.sha256(z.read(name)).hexdigest() for name in z.namelist()},indent=2))
