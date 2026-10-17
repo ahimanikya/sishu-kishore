@@ -143,6 +143,90 @@
       "featureTitle": {
         "or": "ଚିକୁର ଚଳଚ୍ଚିତ୍ର · ନୂଆ ସଂଶୋଧନ",
         "en": "Chiku’s film · A new animation pass"
+      },
+      "featured": false,
+      "supersededBy": "/characters/films/chiku-round-the-stone/film-v3.html"
+    },
+    {
+      "id": "chiku-around-the-stone-film-v3",
+      "script": "chiku-round-the-stone",
+      "world": "koraput",
+      "archive": "chiku-film-v3",
+      "duration": 50,
+      "page": "/characters/films/chiku-round-the-stone/film-v3.html",
+      "title": {
+        "or": "ପଥରର ଅନ୍ୟ ପଟେ · ଛୋଟ ଚଳଚ୍ଚିତ୍ର",
+        "en": "Around the Stone · A wordless short"
+      },
+      "intro": {
+        "or": "ଚିକୁର ମଞ୍ଜିଟି ପଥର ପଛକୁ ଗଡ଼ିଯାଏ। ଆଗ ପାଦ ବଢ଼ାଇ ନ ପାଇବାରୁ ସେ ପଥର ପାଖ ଦେଇ ଘୂରିଆସେ। ଦୂରରେ କୁସୁମ ଓ ମନ୍ଦାର ନିଜ ଥଳି ଭାଙ୍ଗୁଛନ୍ତି।",
+        "en": "Chiku’s seed rolls behind a stone. When a reaching paw cannot find it, the squirrel goes around. In the distance, Kusum and Mandar fold their bag."
+      },
+      "boundary": {
+        "or": "ସଂଳାପ ବିନା ୫୦ ସେକେଣ୍ଡର ଚଳଚ୍ଚିତ୍ର। ଚଳନ, ଧ୍ୱନି ଓ ଦୁଇ ଭାଷାର ଶବ୍ଦ ବର୍ଣ୍ଣନା ସହ ପ୍ରଥମ ଡିଜିଟାଲ୍ ସଂସ୍କରଣ।",
+        "en": "A complete 50-second wordless short. This first digital edition brings together the animated story, sound and captions in Odia and English."
+      },
+      "description": {
+        "or": "ଚିକୁ ମଞ୍ଜି ହରାଇ ପଥର ପଛ ପଟ ଦେଇ ଘୂରେ। ସେ ମଞ୍ଜି ଉଠାଏ, ତାକୁ ଧରି ପଥର ଉପରକୁ ଡେଇଁ ପଡ଼େ ଓ ପୁଣି ଖାଏ। ଦୂରରେ ପିଲାମାନେ ନିଜ ଥଳି ଭାଙ୍ଗୁଛନ୍ତି।",
+        "en": "Chiku loses the seed, goes around the stone, picks it up and hops onto the stone without letting go. Nibbling resumes while the children fold their bag in the distance."
+      },
+      "development": {
+        "or": "ଚରିତ୍ର ଅଧ୍ୟୟନରୁ ରଙ୍ଗୀନ ଦୃଶ୍ୟଖସଡ଼ା, ତା’ପରେ ଦୁଇଟି ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା ଓ ଏହି ସଂସ୍କରଣ। ଏବେ ବସିବାରୁ ନଇଁବା ଓ ମଞ୍ଜି ଉଠାଇ ପଥରକୁ ଡେଇଁବା ଚଳନ ଲଗାତାର ଦେଖାଯାଏ। ପଛ ଦୃଶ୍ୟ, ପୋଷାକ ଓ ମୂଳ ଚିତ୍ର ରହିଛି। ଡିଆଁ ଓ ପଥରରେ ପାଦ ପଡ଼ିବା ସହ ଧ୍ୱନି ମେଳାଯାଇଛି। ପୂର୍ବ ଖସଡ଼ା ଓ ଚିତ୍ର ନିର୍ଦ୍ଦେଶ ସଂରକ୍ଷିତ।",
+        "en": "Character studies led to the colour storyboard, two animated drafts and this edition. Sitting, lowering, retrieving and hopping now connect continuously. The courtyard, clothes and original drawings are retained. Sound follows the takeoff and landing. Earlier cuts and exact artwork briefs remain available."
+      },
+      "clothing": {
+        "or": "କୁସୁମର ଦୁଇ ବେଣୀ, ସାଧା ସୂତା ଟପ୍ ଓ ସ୍କର୍ଟ; ମନ୍ଦାରର ସାର୍ଟ, ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ବାମ କାନ୍ଧର କପଡ଼ା। ଏଗୁଡ଼ିକ ଏହି କାଳ୍ପନିକ ପିଲାଙ୍କ ଦୈନିକ ପୋଷାକ। ସମଗ୍ର କୋରାପୁଟର ଏକମାତ୍ର ପୋଷାକ ବୋଲି ଦାବି ନୁହେଁ।",
+        "en": "Kusum keeps two plaits, a simple cotton top and skirt; Mandar keeps his shirt, shorts and cloth over the left shoulder. These are the fictional children’s everyday clothes, not a claim that all of Koraput dresses alike."
+      },
+      "remaining": {
+        "or": "ଅଲଗା ଚିତ୍ରଖଣ୍ଡକୁ ଚଳାଇ ତିଆରି ଦ୍ୱିମାତ୍ରିକ ଚଳଚ୍ଚିତ୍ର। ଧ୍ୱନି ଏହି ଗପ ପାଇଁ ତିଆରି; ବାହାରେ ରେକର୍ଡ ହୋଇନାହିଁ। ଚିକୁ କଥା କହେ ନାହିଁ, ପିଲାମାନେ ତାକୁ ଖାଦ୍ୟ ଦିଅନ୍ତି ନାହିଁ।",
+        "en": "A short made with painted cutout animation. Its sound effects were synthesized for the story, not recorded outdoors. Chiku remains nonverbal, and the children do not feed or handle the squirrel."
+      },
+      "video": "around-the-stone-edition-v3.mp4",
+      "poster": "proof/frame-0.00.png",
+      "storyboard": "colour-storyboard-v1.png",
+      "captions": {
+        "or": "captions-or-v3.vtt",
+        "en": "captions-en-v3.vtt"
+      },
+      "packFiles": [
+        "READ-ME.txt",
+        "colour-storyboard-v1.png",
+        "storyboard-prompt-v1.txt",
+        "background-v1.png",
+        "background-prompt-v1.txt",
+        "puppet-v1.png",
+        "puppet-prompt-v1.txt",
+        "heads-v1.png",
+        "heads-prompt-v1.txt",
+        "props-children-v1.png",
+        "props-children-prompt-v1.txt",
+        "children-v2.png",
+        "children-prompt-v2.txt",
+        "puppet.mjs",
+        "motion-v3.mjs",
+        "render-film-v3.mjs",
+        "create-sound-v3.py",
+        "sound-v3.wav",
+        "sound-review-v3.json",
+        "captions-or-v3.vtt",
+        "captions-en-v3.vtt",
+        "around-the-stone-edition-v3.mp4",
+        "baloo-bhaina-2.ttf",
+        "OFL-Baloo-Bhaina-2.txt",
+        "artwork-and-edit-review-v3.json",
+        "motion-contact-audit-v3.json"
+      ],
+      "previous": "/characters/films/chiku-round-the-stone/revised-cut-v2.html",
+      "featureTitle": {
+        "or": "ଚିକୁର ପ୍ରଥମ ଛୋଟ ଚଳଚ୍ଚିତ୍ର",
+        "en": "Chiku’s first wordless short"
+      },
+      "artifactType": "complete-wordless-short",
+      "featured": true,
+      "editionHeading": {
+        "or": "ଏହି ସଂସ୍କରଣ ସମ୍ପର୍କରେ",
+        "en": "About this edition"
       }
     }
   ]
