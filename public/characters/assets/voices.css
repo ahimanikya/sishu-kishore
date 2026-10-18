@@ -11,3 +11,4 @@
 .storyboard-player{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(250px,1fr)}.storyboard-stage{grid-column:1;grid-row:1}.storyboard-controls{grid-column:1/-1;grid-row:2;border-top:1px solid #d7cdbd;border-bottom:0}.storyboard-caption{grid-column:2;grid-row:1;min-height:0;align-self:center}.storyboard-caption p{line-height:1.7}
 @media(max-width:700px){.storyboard-player{display:block}.storyboard-caption{min-height:200px}.storyboard-controls{border-bottom:1px solid #d7cdbd}}
 .motion-video{display:block;width:min(100%,108vh);height:auto;margin:0 auto;background:#efeadd;border-radius:4px}.motion-video:focus-visible{outline:3px solid #b06232;outline-offset:4px}.motion-milestone{border-top:1px solid #d7cdbd}.motion-video::cue{font-family:system-ui,sans-serif;font-size:1.05em;background:#15251ddd;color:#fff}
+.film-card-preview{max-width:720px;margin:24px auto}.film-card-preview .motion-video{width:100%}.film-card-preview .caption{margin:10px 0 0}

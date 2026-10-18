@@ -6,7 +6,12 @@
       for (const track of video.textTracks) track.mode = track.language === language ? 'showing' : 'disabled';
     });
   }
-  videos.forEach(video => video.addEventListener('loadedmetadata', captions));
+  videos.forEach(video => {
+    video.addEventListener('loadedmetadata', captions);
+    video.addEventListener('play', () => {
+      videos.forEach(other => { if (other !== video) other.pause(); });
+    });
+  });
   new MutationObserver(captions).observe(document.documentElement, {attributes: true, attributeFilter: ['lang']});
   document.addEventListener('visibilitychange', () => {
     if (document.hidden) videos.forEach(video => video.pause());

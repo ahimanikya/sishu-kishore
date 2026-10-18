@@ -31,8 +31,14 @@ for cut in json.loads((ROOT/'data/character-film-cuts-v1.json').read_text())['cu
         if not cut.get('featured',True):
             page.write_text(str(s).rstrip()+'\n')
             continue
-        feature='<section class="report-section voices-addition" id="'+cut['id']+'">'+bi(cut.get('featureTitle',pair('ଚିକୁର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା','Chiku’s first animated cut')),'h2')+bi(cut['intro'])+bi(cut['boundary'])+'<p>'+link(cut['page'],cut.get('watchLabel',{}).get('or','ଚିକୁର ଗପ ଦେଖନ୍ତୁ · ୫୦ ସେକେଣ୍ଡ →'),cut.get('watchLabel',{}).get('en','Watch Chiku’s story · 50 seconds →'),'button')+'</p></section>'
+        preview='<div class="film-card-preview"><video class="motion-video" controls playsinline preload="none" width="1536" height="1024" poster="'+poster+'" aria-labelledby="'+cut['id']+'-title" aria-describedby="'+cut['id']+'-boundary"><source src="'+video+'" type="video/mp4">'
+        for lang,label in [('or','ଓଡ଼ିଆ'),('en','English')]:
+            preview+='<track kind="captions" srclang="'+lang+'" label="'+label+'" src="'+folder+cut['captions'][lang]+'"'+(' default' if lang=='or' else '')+'>'
+        preview+=link(cut['page'],'ଭିଡିଓ ଖୋଲନ୍ତୁ','Open the video')+'</video>'+bi(pair('ଏଠାରେ ଭିଡିଓ ଦେଖିବାକୁ ▶ ଦବାନ୍ତୁ। CCରେ ଓଡ଼ିଆ ଓ ଇଂରାଜୀ ଉପଶୀର୍ଷକ ଅଛି।','Press ▶ to preview the video here. CC offers Odia and English captions.'),'p','class="caption"')+'</div>'
+        feature='<section class="report-section voices-addition" id="'+cut['id']+'">'+bi(cut.get('featureTitle',pair('ଚିକୁର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା','Chiku’s first animated cut')),'h2','id="'+cut['id']+'-title"')+bi(cut['intro'])+bi(cut['boundary'],'p','id="'+cut['id']+'-boundary"')+preview+'<p>'+link(cut['page'],cut.get('watchLabel',{}).get('or','ଚିକୁର ଗପ ଦେଖନ୍ତୁ · ୫୦ ସେକେଣ୍ଡ →'),cut.get('watchLabel',{}).get('en','Watch Chiku’s story · 50 seconds →'),'button')+'</p></section>'
         s.main.append(BeautifulSoup(feature,'html.parser'))
+        if not s.select_one('script[src="/characters/assets/motion-player.js"]'):
+            s.main.append(BeautifulSoup('<script defer src="/characters/assets/motion-player.js"></script>','html.parser'))
         if filename=='scripts/'+cut['script']+'.html':
             note=s.select_one('.voice-boundary')
             if note:note.replace_with(BeautifulSoup(bi(cut['boundary'],'p','class="voice-boundary"'),'html.parser'))
