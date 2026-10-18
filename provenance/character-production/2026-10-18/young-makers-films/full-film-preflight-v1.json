@@ -1,0 +1,122 @@
+{
+  "status": "Script, natural scene, pencil storyboard and all3model sheets inspected. Full film artwork and render not started.",
+  "scriptId": "dinu-wait-a-moment",
+  "title": {
+    "or": "ଟିକେ ରୁହ, ମାମୁ",
+    "en": "Wait a Moment, Mamu"
+  },
+  "duration": 54,
+  "shots": [
+    [
+      0,
+      12
+    ],
+    [
+      12,
+      24
+    ],
+    [
+      24,
+      38
+    ],
+    [
+      38,
+      54
+    ]
+  ],
+  "setting": {
+    "or": "କୋଣାର୍କ ପାଖରେ ଆଜିର ଏକ କାଳ୍ପନିକ ବସତି। ଦିନୁଙ୍କ ଛୋଟ କାମଘରରେ ହାଲୁକା ନମୁନା ତିଆରି। ବାର ବର୍ଷର ତାରା ତାଙ୍କ ଭାଣିଜୀ; ଦିନୁ ତା’ ମାଆଙ୍କ ସାନଭାଇ, ବୟସ ଅଣଚାଳିଶ। ଦଶ ବର୍ଷର କାନୁ ପଡ଼ୋଶୀ ଓ ସାଙ୍ଗ। ଏହା ଧରମାର ଲୋକକଥା ବା ମନ୍ଦିର ନିର୍ମାଣର ଦୃଶ୍ୟ ନୁହେଁ।",
+    "en": "A fictional present-day settlement near Konark. Light model-making in Dinu’s small workshop. Twelve-year-old Tara is his niece; thirty-nine-year-old Dinu is her mother’s younger brother. Ten-year-old Kanu is a neighbour and friend. This is separate from the Dharama legend and the temple’s construction."
+  },
+  "wardrobe": {
+    "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+    "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+  },
+  "continuity": {
+    "or": "ଏକ ଛୋଟ ହାଲୁକା କାଗଜ ଟ୍ରେ, ଚାରି ତଳ ଭାଙ୍ଗ ଓ ଆଗରୁ କଟା ଟ୍ୟାବ୍। ତିନି କୋଣ ଆଗରୁ ବନ୍ଧା; ତାରା ଶେଷ କୋଣର ଟ୍ୟାବ୍ ଖୋସେ। କାନୁ ତଳ ଧରେ। କଇଁଚି ବା ଧାରୁଆ ଯନ୍ତ୍ର ନାହିଁ। ଶେଷରେ ଗୋଟିଏ ପେନ୍‌ସିଲ୍ ରଖାଯାଏ।",
+    "en": "One small light paper tray with scored folds and tabs cut earlier. Three corners are secured; Tara tucks the final corner tab while Kanu holds the base. No scissors or sharp tools in this scene. One pencil goes into the finished tray."
+  },
+  "performance": {
+    "or": "ସାହାଯ୍ୟ ପାଇଁ ଆଗୁଆ ହାତ → ପିଲାର କଥା ଶୁଣି ଥମିବା → ଅପେକ୍ଷାର ଅଭ୍ୟାସ → ନିଜ ତରତରକୁ ନେଇ ହସ।",
+    "en": "A hand reaching too soon → stopping to hear the child → practising waiting → laughing at his own hurry."
+  },
+  "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+  "inspectedReferences": [
+    "release/public/characters/assets/young-makers-natural-v2.png",
+    "young-makers-films/pencil-storyboard-v1.png",
+    "release/public/characters/young-makers/model-sheets/tara-model-v1.png",
+    "release/public/characters/young-makers/model-sheets/dinu-model-v1.png",
+    "release/public/characters/young-makers/model-sheets/kanu-model-v1.png"
+  ],
+  "observations": [
+    "Tara screenleft, Dinu centre/back, Kanu screenright. Maintain this staging through all four beats.",
+    "Natural-v2 is a separate stone-wheel scene: do not bring its stone wheel, ruler, bowl or scattered tools into the paper-tray film. This film uses only the light paper tray and one pencil.",
+    "Dinu wears a plain faded-blue shirt: graphite hatching in the pencil storyboard is not a textile check. The waist gamucha is on his anatomical RIGHT, with narrow red end stripes from natural-v2.",
+    "Kanu wears small rust checks; Tara has a practical bob, plain mustard kurta and cream work apron. Do not distribute Odisha motifs over the costumes.",
+    "Pencil storyboard shows the open front-left tray corner; three other corners are closed. The film must actually show the last tab entering and staying in its slot before hands release.",
+    "Dinu reaches toward the tray but stops BEFORE contact, then places both hands behind his back. Do not merge his hand with Tara’s.",
+    "One pencil stays on the table until Kanu picks it up after the tray holds. It must travel visibly from table to hand to tray; do not duplicate it.",
+    "Background shelves and table perspective should be stable, with no extra characters. The exact tray shape/scale should not change between views.",
+    "Model sheets confirm Tara apron back bow/one front pocket and short bob; Dinu curled hair/moustache and the hands-behind-back stance; Kanu short cropped hair, shirt chest pocket and rolled trouser hems. Preserve these identities.",
+    "The early Dinu model gamucha is plain cream; selected natural-v2 adds narrow red end stripes. Follow the newer selected scene consistently rather than alternating."
+  ],
+  "timingPlan": [
+    {
+      "start": 4,
+      "end": 6.5,
+      "speaker": {
+        "or": "ଦିନୁ ମାମୁ",
+        "en": "Dinu Mamu"
+      },
+      "text": {
+        "or": "ଏଇଟା ମୁଁ…",
+        "en": "I can just…"
+      }
+    },
+    {
+      "start": 14,
+      "end": 20.2,
+      "speaker": {
+        "or": "ତାରା",
+        "en": "Tara"
+      },
+      "text": {
+        "or": "ଟିକେ ରୁହ, ମାମୁ। ଆଉଥରେ କରେ?",
+        "en": "Wait a moment, Mamu. Can I try again?"
+      }
+    },
+    {
+      "start": 26,
+      "end": 29.6,
+      "speaker": {
+        "or": "ଦିନୁ ମାମୁ",
+        "en": "Dinu Mamu"
+      },
+      "text": {
+        "or": "ହଉ, ମୁଁ ଦେଖୁଛି।",
+        "en": "All right. I’m watching."
+      }
+    },
+    {
+      "start": 44,
+      "end": 48.2,
+      "speaker": {
+        "or": "ଦିନୁ ମାମୁ",
+        "en": "Dinu Mamu"
+      },
+      "text": {
+        "or": "ମୋର ହିଁ ବେଶି ତରତର।",
+        "en": "I was the one in a hurry."
+      }
+    }
+  ],
+  "productionPlan": [
+    "Create one fixed colour workshop setting and consistent three-character pose drawings.",
+    "Make coherent paper-tray open/tab-inserted/closed states, with measurable hand positions and pencil continuity.",
+    "Test reach/stop/withdraw, Tara fold/tab action, Kanu support/release/pencil placement before full1296-frame render.",
+    "Preserve4exact paired dialogue lines, original paper sound sketch and quiet ending. No recorded voices yet.",
+    "Review full playback, visual contact and physical continuity, native captions/mobile layout; publish as a first animation draft with its actual remaining work."
+  ],
+  "sourceLimitation": "Near-Konark contemporary fictional workshop. Bhubaneswar stone-carving workwear reference is contextual, not an exact Konark costume or evidence for the Dharama period.",
+  "pending": "Recorded acting, final mouth timing and independent fluent/cultural review. No provider signup/purchase authorized."
+}

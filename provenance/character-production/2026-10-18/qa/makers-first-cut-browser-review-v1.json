@@ -1,0 +1,31 @@
+{
+  "local": {
+    "duration": 54,
+    "fullPlaybackEnded": true,
+    "playbackError": null,
+    "seek": 15.958466,
+    "odiaVisible": "ତାରା: ଟିକେ ରୁହ, ମାମୁ। ଆଉଥରେ କରେ?",
+    "englishVisible": "Tara: Wait a moment, Mamu. Can I try again?",
+    "languageSwitchPreservedTime": true,
+    "phoneViewportWidth": 390,
+    "documentWidth": 390,
+    "videoDimensions": [
+      354,
+      236
+    ]
+  },
+  "live": {
+    "url": "https://sishu.kabitawithoutborders.org/characters/films/dinu-wait-a-moment/first-cut-v1.html?lang=or",
+    "duration": 54,
+    "playbackObservedAt": 8.256846,
+    "playbackError": null,
+    "seek": 15.958466,
+    "odiaVisible": "ତାରା: ଟିକେ ରୁହ, ମାମୁ। ଆଉଥରେ କରେ?",
+    "englishVisible": "Tara: Wait a moment, Mamu. Can I try again?",
+    "languageSwitchPreservedTime": true,
+    "returnedToOdia": true,
+    "screenshot": "qa/makers-first-cut-live-v1.png",
+    "viewportReset": true,
+    "publishedFilesMatched": 15
+  }
+}
