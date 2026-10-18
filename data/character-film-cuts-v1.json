@@ -922,6 +922,128 @@
         "storyboard-prompt-v1.txt",
         "timing-plan-v1.json"
       ]
+    },
+    {
+      "id": "dinu-wait-a-moment-first-cut-v1",
+      "script": "dinu-wait-a-moment",
+      "world": "chhota-karigara",
+      "archive": "young-makers-films/first-cut-v1",
+      "duration": 54,
+      "page": "/characters/films/dinu-wait-a-moment/first-cut-v1.html",
+      "eyebrow": {
+        "or": "ତାରା, ଦିନୁ ମାମୁ ଓ କାନୁ · ଛୋଟ କାରିଗର",
+        "en": "Tara, Dinu Mamu and Kanu · Young Makers"
+      },
+      "title": {
+        "or": "ଟିକେ ରୁହ, ମାମୁ · ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା",
+        "en": "Wait a Moment, Mamu · First animation draft"
+      },
+      "intro": {
+        "or": "ତାରାର କାଗଜ ଟ୍ରେର ଶେଷ କୋଣ ଦେଖି ଦିନୁ ସାହାଯ୍ୟ ପାଇଁ ହାତ ବଢ଼ାନ୍ତି। ତାରା ଆଉଥରେ ଚେଷ୍ଟା କରିବାକୁ ଚାହିଁଲେ ସେ ନିଜ ହାତ ଫେରାଇ ଅପେକ୍ଷା କରନ୍ତି।",
+        "en": "Dinu reaches to help with the last corner of Tara’s paper tray. When she asks for another try, he draws his hand back and waits."
+      },
+      "boundary": {
+        "or": "୫୪ ସେକେଣ୍ଡର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା। ହାତର ଚଳନ, ମୁହଁର ଭାବ ଓ କାଗଜର ହାଲୁକା ଶବ୍ଦ ଅଛି। କଣ୍ଠ ରେକର୍ଡ ହୋଇନାହିଁ; ସଂଳାପ ଉପଶୀର୍ଷକରେ ଅଛି।",
+        "en": "A 54-second first animation draft with hand movement, changing expressions and quiet paper sounds. No voices are recorded; dialogue appears as provisional script captions."
+      },
+      "description": {
+        "or": "ଦିନୁ ହାତ ବଢ଼ାଇ ପୁଣି ଫେରାଇ ନିଅନ୍ତି। ତାରା ଶେଷ କୋଣର ଟ୍ୟାବ୍ ଖୋସେ, କାନୁ ଟ୍ରେ ଧରେ। ହାତ ଛାଡ଼ିଲେ ଟ୍ରେ ରହେ; କାନୁ ଭିତରେ ଗୋଟିଏ ପେନ୍‌ସିଲ୍ ରଖେ।",
+        "en": "Dinu reaches, then draws back. Tara tucks the last corner tab while Kanu steadies the tray. They let go; the tray holds, and Kanu places one pencil inside."
+      },
+      "development": {
+        "or": "ପୂର୍ବ ଚରିତ୍ର ଅଧ୍ୟୟନ ଓ ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟରୁ କାମଘର, ଚରିତ୍ରଙ୍କ ଅଲଗା ଭଙ୍ଗୀ ଓ କାଗଜର ଚଳନ ତିଆରି ହୋଇଛି। ଶେଷ କୋଣ ଖୋସିବା ବେଳେ ନିକଟ ଦୃଶ୍ୟ ଅଛି। ଗୋଟିଏ ପେନ୍‌ସିଲ୍ ଟେବୁଲ୍‌ରୁ ହାତ ଦେଇ ଟ୍ରେକୁ ଯାଏ। ପୂର୍ବ ଚିତ୍ର ଓ ଚିତ୍ର ନିର୍ଦ୍ଦେଶ ସଂରକ୍ଷିତ।",
+        "en": "The character studies and pencil storyboard led to a fixed workshop, separate acting drawings and moving paper surfaces. A closer view shows the final corner. One pencil travels from the table through Kanu’s hand into the tray. Earlier artwork and exact drawing briefs are retained."
+      },
+      "clothing": {
+        "or": "ତାରାର ସୋରିଷ ହଳଦିଆ ସାଧା କୁର୍ତ୍ତା, ମୋଡ଼ା ହାତ, ଗାଢ଼ ଧୂସର ସିଧା ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ଛୋଟ କେଶ। କେବଳ କାମ ଟେବୁଲ୍ ପାଖରେ କ୍ରିମ୍ କପଡ଼ା ଏପ୍ରନ୍, ପଛେ ଗଣ୍ଠି ଓ ଆଗେ ଗୋଟିଏ ପକେଟ୍। ଦିନୁଙ୍କ ମଳିନ ନୀଳ ସୂତା ସାର୍ଟର ହାତ ମୋଡ଼ା, ଢିଲା ଧୂସର ପ୍ୟାଣ୍ଟ, ଚପଲ ଓ ନିଜ ଡାହାଣ ଅଣ୍ଟାରେ କ୍ରିମ୍ ଗାମୁଛା; ନୂଆ ଦୃଶ୍ୟ ଅନୁସାରେ ତା’ ଧାରରେ ସରୁ ଲାଲ ରେଖା। କାନୁର ମାଟିଆ ଲାଲ ଛୋଟ ଚେକ୍ ସାର୍ଟ, ମଳିନ ନୀଳ ପ୍ୟାଣ୍ଟର ମୋଡ଼ା ତଳ ଓ ଚପଲ। ଏଗୁଡ଼ିକ ସମକାଳୀନ କାମର ପୋଷାକ; ଐତିହାସିକ କାରିଗରଙ୍କ ପ୍ରମାଣିତ ସଜ ନୁହେଁ।",
+        "en": "Tara wears a plain mustard kurta with rolled sleeves, straight charcoal trousers, sandals and a practical bob. At the worktable only: a cream cloth apron tied at the back, with one front pocket. Dinu wears a faded-blue cotton work shirt with rolled sleeves, loose grey trousers and sandals; a cream gamucha at his anatomical right waist has narrow red end stripes as in the newer scene study. Kanu wears a small rust-check shirt, muted-blue trousers with rolled hems and sandals. These are contemporary work clothes, not authenticated historical artisan dress."
+      },
+      "remaining": {
+        "or": "ହାତର ସୂକ୍ଷ୍ମ ଭଙ୍ଗୀ, ହାତର କପଡ଼ା, ଦିନୁଙ୍କ ହାତ ଫେରାଇବା ଓ ଦୃଷ୍ଟି ଆହୁରି ସ୍ୱାଭାବିକ କରିବାକୁ ଅଛି। କାଗଜ ଭାଙ୍ଗର ଚଳନ ସରଳ ଚିତ୍ରଣ; ଏହା ଟ୍ରେ ତିଆରିର ଶିକ୍ଷା ନୁହେଁ। କଣ୍ଠ, ଓଠର ଚଳନ ଓ ଶେଷ ଉପଶୀର୍ଷକ ସମୟ ବାକି।",
+        "en": "Fine finger contact, sleeve overlap, Dinu’s withdrawal and gaze need further refinement. The paper fold is simplified illustration, not a tray-making tutorial. Recorded acting, mouth performance and final subtitle timing remain ahead."
+      },
+      "playerNote": {
+        "or": "ନିଜେ ଚଳାନ୍ତୁ। CCରେ ଦୁଇ ଭାଷାର ସଂଳାପ ପାଠ୍ୟ ଓ ଧ୍ୱନି ବର୍ଣ୍ଣନା ବାଛନ୍ତୁ। ଲେଖା ସଂଳାପ ଏବେ ଶୁଣାଯାଏ ନାହିଁ।",
+        "en": "Press play. CC offers written dialogue and sound descriptions in Odia and English. The written dialogue is not spoken in this draft."
+      },
+      "storyboardAlt": {
+        "or": "ତାରା ଓ କାନୁ କାଗଜ ଟ୍ରେ ସାରୁଥିବା ବେଳେ ଦିନୁ ଅପେକ୍ଷା କରୁଥିବା ଚାରିଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ।",
+        "en": "Four pencil frames of Dinu waiting while Tara and Kanu finish a paper tray."
+      },
+      "profile": "/characters/chhota-karigara.html#character-2",
+      "profileLabel": {
+        "or": "ତାରା, ଦିନୁ ଓ କାନୁଙ୍କ ପରିଚୟ",
+        "en": "Meet Tara, Dinu and Kanu"
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "wardrobeLabel": {
+        "or": "ଦୈନିକ ପୋଷାକର ସୂତ୍ର",
+        "en": "Everyday clothing references"
+      },
+      "featureTitle": {
+        "or": "ଛୋଟ କାରିଗର · ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା",
+        "en": "Young Makers · First animation draft"
+      },
+      "watchLabel": {
+        "or": "ଖସଡ଼ା ଦେଖନ୍ତୁ · ୫୪ ସେକେଣ୍ଡ →",
+        "en": "Watch the draft · 54 seconds →"
+      },
+      "video": "wait-a-moment-first-cut-v1.mp4",
+      "poster": "proof/frame-46.00.png",
+      "storyboard": "pencil-storyboard-v1.png",
+      "captions": {
+        "or": "captions-or-v1.vtt",
+        "en": "captions-en-v1.vtt"
+      },
+      "artifactType": "animated-first-cut",
+      "featured": true,
+      "extraFeatures": [
+        "films/dinu-wait-a-moment/index.html"
+      ],
+      "packFiles": [
+        "OFL-Baloo-Bhaina-2.txt",
+        "READ-ME.txt",
+        "artwork-and-motion-review-v1.json",
+        "background-prompt-v1.txt",
+        "background-v1.png",
+        "baloo-bhaina-2.ttf",
+        "caption-cues-v1.json",
+        "captions-en-v1.vtt",
+        "captions-or-v1.vtt",
+        "cast-natural-v2-prompt.txt",
+        "cast-natural-v2.png",
+        "create-sound-v1.py",
+        "dinu-connected-prompt-v2.txt",
+        "dinu-connected-v2.png",
+        "dinu-model-v1-prompt.txt",
+        "dinu-model-v1.png",
+        "dinu-rig-prompt-v1.txt",
+        "dinu-rig-v1.png",
+        "kanu-model-v1-prompt.txt",
+        "kanu-model-v1.png",
+        "kanu-rig-prompt-v1.txt",
+        "kanu-rig-v1.png",
+        "mesh-v1.mjs",
+        "motion-audit-v1.json",
+        "motion-v1.mjs",
+        "pencil-storyboard-v1.png",
+        "prepare-captions-v1.py",
+        "props-prompt-v1.txt",
+        "props-v1.png",
+        "render-film-v1.mjs",
+        "script-v1.json",
+        "sound-draft-v1.wav",
+        "sound-review-v1.json",
+        "storyboard-prompt-v1.txt",
+        "tara-heads-prompt-v2.txt",
+        "tara-heads-v2.png",
+        "tara-model-v1-prompt.txt",
+        "tara-model-v1.png",
+        "tara-rig-prompt-v1.txt",
+        "tara-rig-v1.png",
+        "timing-plan-v1.json",
+        "wait-a-moment-first-cut-v1.mp4"
+      ]
     }
   ]
 }
