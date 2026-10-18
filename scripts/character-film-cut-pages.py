@@ -22,7 +22,7 @@ for cut in json.loads((ROOT/'data/character-film-cuts-v1.json').read_text())['cu
         body+='<p>'+link(cut['previous'],'ପୂର୍ବ ଖସଡ଼ା ଦେଖନ୍ତୁ','View the earlier cut')+'</p>'
     if cut.get('supersededBy'):
         body+='<p>'+link(cut['supersededBy'],'ନୂଆ ସଂଶୋଧିତ ଖସଡ଼ା ଦେଖନ୍ତୁ','Watch the revised cut','button')+'</p>'
-    body+='<section>'+bi(pair('ପୋଷାକ ଓ ଦୈନନ୍ଦିନ ଜୀବନ','Clothes and daily life'),'h2')+bi(cut['clothing'])+link(cut.get('wardrobeLink','/characters/regional-dress.html#koraput'),cut.get('wardrobeLabel',{}).get('or','କୋରାପୁଟର ପୋଷାକ ସମ୍ପର୍କିତ ସୂତ୍ର'),cut.get('wardrobeLabel',{}).get('en','Koraput clothing references'))+'</section>'
+    body+='<section>'+bi(cut.get('clothingHeading',pair('ପୋଷାକ ଓ ଦୈନନ୍ଦିନ ଜୀବନ','Clothes and daily life')),'h2')+bi(cut['clothing'])+link(cut.get('wardrobeLink','/characters/regional-dress.html#koraput'),cut.get('wardrobeLabel',{}).get('or','କୋରାପୁଟର ପୋଷାକ ସମ୍ପର୍କିତ ସୂତ୍ର'),cut.get('wardrobeLabel',{}).get('en','Koraput clothing references'))+'</section>'
     body+='<section>'+bi(cut.get('editionHeading',pair('ପରବର୍ତ୍ତୀ ସଂଶୋଧନ','Next refinement')),'h2')+bi(cut['remaining'])+bi(REVIEW)+'</section><script defer src="/characters/assets/motion-player.js"></script>'+journey
     shell(cut['page'].removeprefix('/characters/').removesuffix('.html'),cut['title'],body,poster)
     for filename in ['index.html','design-path.html','complete-report.html','story-lab.html',cut['world']+'.html','scripts/'+cut['script']+'.html','regional-dress.html']+cut.get('extraFeatures',[]):

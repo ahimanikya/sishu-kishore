@@ -461,6 +461,118 @@
         "films/nilu-hold-this-end/motion-v1.html",
         "films/nilu-hold-this-end/index.html"
       ]
+    },
+    {
+      "id": "koeli-little-sound-first-cut-v1",
+      "script": "koeli-little-sound",
+      "world": "koeli",
+      "archive": "koeli-films/first-cut-v1",
+      "duration": 48,
+      "page": "/characters/films/koeli-little-sound/first-cut-v1.html",
+      "eyebrow": {
+        "or": "କୋଇଲିର ଗପ",
+        "en": "A Koeli story"
+      },
+      "title": {
+        "or": "ସେଇ ଛୋଟ ଶବ୍ଦ · ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା",
+        "en": "That Little Sound · Animation draft"
+      },
+      "intro": {
+        "or": "ନିଜ ଡାକରେ ମଗ୍ନ କୋଇଲି ଏକ ଛୋଟ ଶବ୍ଦ ଶୁଣିପାରେନି। ଥାମିଲେ ପତ୍ରରେ ପଡ଼ୁଥିବା ଠୋପାକୁ ଦେଖେ।",
+        "en": "Absorbed in its own call, Koeli misses a small sound. When the bird stops, it discovers water falling onto a leaf."
+      },
+      "boundary": {
+        "or": "୪୮ ସେକେଣ୍ଡର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା। ଚଳନ ଓ ଧ୍ୱନି ଅଛି; କଣ୍ଠ ରେକର୍ଡ ହୋଇନାହିଁ। ସଂଳାପ ଅସ୍ଥାୟୀ ସମୟର ଉପଶୀର୍ଷକରେ ଅଛି।",
+        "en": "A 48-second first animation draft with movement and a sound sketch. No voices are recorded; dialogue appears in provisional script captions."
+      },
+      "description": {
+        "or": "କୋଇଲି ଥଣ୍ଟ ଖୋଲି ଡାକେ, ମୁଣ୍ଡ ଢଳାଏ, ଠୋପା ଆଡ଼କୁ ଝୁଙ୍କେ ଓ ଶେଷରେ ଶୁଣେ। ଦୁଇ ପାଦ ଡାଳ ଧରି ରହେ। ଛଅଟି ଠୋପା ପଡ଼ିଲେ ପତ୍ର ଅଳ୍ପ ହଲେ। ପିଲାଟି ଚିତ୍ର ବାହାରେ।",
+        "en": "Koeli opens its bill, tilts its head, leans towards the water and settles into listening. Both feet keep their grip. The leaf dips at six drop impacts. The child remains offscreen."
+      },
+      "development": {
+        "or": "ଚରିତ୍ର ଅଧ୍ୟୟନରୁ ଚାରି ଦୃଶ୍ୟର ଖସଡ଼ା, ଆଠ ସେକେଣ୍ଡର ଚଳନ ପରୀକ୍ଷା ଓ ଏବେ ଗପର ପୂରା ସମୟର ଖସଡ଼ା। ଥଣ୍ଟ ଓ ଆଖି ପାଇଁ ଚାରିଟି ନୂଆ ମୁଣ୍ଡ ଚିତ୍ର ଅଛି। ଡାକ, ପବନ ଓ ଠୋପାର ଧ୍ୱନି ତିଆରି ଖସଡ଼ା; ବାହାରେ ରେକର୍ଡ ହୋଇନାହିଁ। ପୂର୍ବ ଚିତ୍ର ଓ ନିର୍ଦ୍ଦେଶ ସଂରକ୍ଷିତ।",
+        "en": "The character study led to four storyboard frames, an eight-second motion test and now this full-duration draft. Four new head drawings supply bill and eye poses. Calls, breeze and water taps are original synthesized sketches, not field recordings. Earlier drawings and exact briefs are retained."
+      },
+      "clothing": {
+        "or": "ପୂର୍ବ ପୁରୁଷ ଏସୀୟ କୋଇଲି ଅଧ୍ୟୟନ ସହ ମେଳ: ନୀଳଚେ କଳା ପର, ଲମ୍ବା ଲାଞ୍ଜ, ହାଲୁକା ଧୂସର–ସବୁଜ ଥଣ୍ଟ ଓ ସଂଯତ ଲାଲଚେ ଆଖି। ପୋଷାକ, ଅଳଙ୍କାର ବା ମଣିଷର ହାତ ନାହିଁ। ମୁଣ୍ଡ ଢଳାଇବା, ଥଣ୍ଟ ଖୋଲିବା, ଦେହ ଆଗକୁ ଝୁଙ୍କାଇବା ଓ ଦୁଇ ପାଦରେ ଡାଳ ଧରିବାରେ ଅଭିନୟ। ପକ୍ଷୀଟି ଓଡ଼ିଶାରେ ସୀମିତ ନୁହେଁ; ଏହି ଚରିତ୍ରର ସମ୍ପର୍କ ଓଡ଼ିଆ କଥା ଓ ସାହିତ୍ୟ ସ୍ମୃତିରୁ ଆସେ।",
+        "en": "Keep the earlier male Asian koel study: blue-black feathers, long tail, pale grey-green bill and restrained reddish eyes. No clothes, ornaments or human hands. Act through head tilts, an opening bill, a forward lean and two feet gripping the branch. The species is not exclusive to Odisha; this character’s connection comes through Odia speech and literary memory."
+      },
+      "clothingHeading": {
+        "or": "ରୂପ ଓ ସ୍ୱାଭାବିକ ଚଳନ",
+        "en": "Appearance and natural movement"
+      },
+      "remaining": {
+        "or": "ସ୍ୱାଭାବିକ କଣ୍ଠ ଅଭିନୟ, ତା’ ସହ ଥଣ୍ଟର ଚଳନ ଓ ଉପଶୀର୍ଷକର ସମୟ ମେଳାଇବା ବାକି। ମୁଣ୍ଡ–ଦେହର ଯୋଡ଼ା ଓ ଦୃଷ୍ଟିର ଅଭିନୟ ଆହୁରି ସୁଧାରିବାକୁ ଅଛି।",
+        "en": "Recorded performances, bill movement matched to speech and final subtitle timing remain ahead. The neck attachment and gaze still need refinement."
+      },
+      "playerNote": {
+        "or": "ନିଜେ ଚଳାନ୍ତୁ। CCରେ ଦୁଇ ଭାଷାର ସଂଳାପ ପାଠ୍ୟ ଓ ଧ୍ୱନି ବର୍ଣ୍ଣନା ବାଛନ୍ତୁ। ଲେଖା ସଂଳାପ ଏବେ ଶୁଣାଯାଏ ନାହିଁ।",
+        "en": "Press play. CC offers written dialogue and sound descriptions in Odia and English. The written dialogue is not spoken in this draft."
+      },
+      "storyboardAlt": {
+        "or": "କୋଇଲି ଡାକିବାରୁ ଶୁଣିବା ପର୍ଯ୍ୟନ୍ତ ଚାରିଟି ରଙ୍ଗୀନ ଦୃଶ୍ୟ।",
+        "en": "Four colour frames showing Koeli moving from calling to listening."
+      },
+      "profile": "/characters/koeli.html#character",
+      "profileLabel": {
+        "or": "କୋଇଲିର ଚରିତ୍ର ଅଧ୍ୟୟନ",
+        "en": "Koeli character study"
+      },
+      "wardrobeLink": "/characters/koeli.html#appearance",
+      "wardrobeLabel": {
+        "or": "କୋଇଲିର ରୂପ ଓ ଭଙ୍ଗୀ",
+        "en": "Koeli’s appearance and poses"
+      },
+      "featureTitle": {
+        "or": "କୋଇଲି · ଗପର ପୂରା ଚଳନ ଖସଡ଼ା",
+        "en": "Koeli · The full animation draft"
+      },
+      "watchLabel": {
+        "or": "ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା ଦେଖନ୍ତୁ · ୪୮ ସେକେଣ୍ଡ →",
+        "en": "Watch the animation draft · 48 seconds →"
+      },
+      "video": "that-little-sound-first-cut-v1.mp4",
+      "poster": "proof/frame-0.00.png",
+      "storyboard": "colour-storyboard-v2.png",
+      "captions": {
+        "or": "captions-or-v1.vtt",
+        "en": "captions-en-v1.vtt"
+      },
+      "previous": "/characters/films/koeli-little-sound/motion-v1.html",
+      "artifactType": "animated-first-cut",
+      "featured": true,
+      "extraFeatures": [
+        "films/koeli-little-sound/motion-v1.html",
+        "films/koeli-little-sound/index.html"
+      ],
+      "packFiles": [
+        "OFL-Baloo-Bhaina-2.txt",
+        "READ-ME.txt",
+        "artwork-and-motion-review-v1.json",
+        "background-prompt-v1.txt",
+        "background-v1.png",
+        "baloo-bhaina-2.ttf",
+        "caption-cues-v1.json",
+        "captions-en-v1.vtt",
+        "captions-or-v1.vtt",
+        "character-colour-study-v1.png",
+        "colour-storyboard-v2.png",
+        "create-sound-v1.py",
+        "head-atlas-prompt-v1.txt",
+        "head-atlas-v1.png",
+        "motion-audit-v1.json",
+        "motion-v1.mjs",
+        "prepare-captions-v1.py",
+        "render-film-v1.mjs",
+        "rig-prompt-v2.txt",
+        "rig-v2.png",
+        "script-v1.json",
+        "sound-draft-v1.wav",
+        "sound-review-v1.json",
+        "storyboard-prompt-v2.txt",
+        "that-little-sound-first-cut-v1.mp4",
+        "timing-plan-v1.json"
+      ]
     }
   ]
 }
