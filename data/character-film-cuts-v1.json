@@ -808,6 +808,120 @@
         "storyboard-prompt-v3.txt",
         "timing-plan-v1.json"
       ]
+    },
+    {
+      "id": "benu-my-story-first-cut-v1",
+      "script": "benu-my-story-first",
+      "world": "batare-katha",
+      "archive": "batare-katha-films/first-cut-v1",
+      "duration": 56,
+      "page": "/characters/films/benu-my-story-first/first-cut-v1.html",
+      "eyebrow": {
+        "or": "ବେଣୁ ଓ ମାଧବ କକା · ବାଟରେ କଥା",
+        "en": "Benu and Madhab Kaka · Batare Katha"
+      },
+      "title": {
+        "or": "ଆଗେ ମୋ ଗପ · ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା",
+        "en": "My Story First · First animation draft"
+      },
+      "intro": {
+        "or": "ଆଜି ବେଣୁ ଗପ କହିବ। ମାଧବ ମଝିରେ ପ୍ରଶ୍ନ କଲେ ସେ ଅଟକେ—ତା’ପରେ ନିଜର ପ୍ରଶ୍ନ କରିବା ଅଭ୍ୟାସ ମନେପକାଇ ଦୁହେଁ ହସନ୍ତି।",
+        "en": "Today Benu will tell the story. Madhab’s question stops him halfway through; recognising his own habit, Benu finds a way for them both to laugh."
+      },
+      "boundary": {
+        "or": "୫୬ ସେକେଣ୍ଡର ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା। ହାତର ଅଙ୍ଗଭଙ୍ଗୀ, ମୁହଁର ଭାବ ଓ ହାଲୁକା ଧ୍ୱନି ଅଛି। କଣ୍ଠ ରେକର୍ଡ ହୋଇନାହିଁ; ସଂଳାପ ଉପଶୀର୍ଷକରେ ଅଛି।",
+        "en": "A 56-second first animation draft with hand gestures, changing expressions and quiet effects. No voices are recorded; dialogue appears as provisional script captions."
+      },
+      "description": {
+        "or": "ବେଣୁ ଦୁଇ ହାତରେ ଡଙ୍ଗାର ଆକାର ଦେଖାଏ। ମାଧବ ଆଙ୍ଗୁଠି ଉଠାଇ ପ୍ରଶ୍ନ କରନ୍ତି। ବେଣୁ ନିଜର ପ୍ରଶ୍ନ କରିବା ଅଭ୍ୟାସ ଚିହ୍ନି ହସେ, ପୁଣି ଗପ ଆରମ୍ଭ କରେ।",
+        "en": "Benu cups his hands to show a boat. Madhab raises a finger to ask a question. Recognising his own questioning habit, Benu smiles and returns to the tale."
+      },
+      "development": {
+        "or": "ଚରିତ୍ର ଅଧ୍ୟୟନରୁ ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ, ତା’ପରେ ବାରଣ୍ଡାର ରଙ୍ଗୀନ ଚିତ୍ର ଓ ଅଲଗା ଅଙ୍ଗଭଙ୍ଗୀ। ପାଦ, ଥଳି ଓ ଛତା ଏକ ଜାଗାରେ ରହେ। ହାତ ଓ ମୁହଁର ଭାବରେ ଗପ କହିବା ଓ ଶୁଣିବାର ପାଳି ବଦଳେ। ପୂର୍ବ ଚିତ୍ର ଓ ନିର୍ଦ୍ଦେଶ ସଂରକ୍ଷିତ।",
+        "en": "Character studies led to the pencil storyboard, a colour verandah and separate gesture drawings. Feet, bag and umbrella stay in place. Hands and expressions mark the changing roles of teller and listener. Earlier artwork and exact drawing briefs are retained."
+      },
+      "clothing": {
+        "or": "ବେଣୁର ଢିଲା ସବୁଜ ଛୋଟ ହାତର ସାର୍ଟ, ବାମ ଛାତି ପକେଟ୍‌ରେ ଛୋଟ ଖାତା, ବାଦାମୀ ହାଫ୍ ପ୍ୟାଣ୍ଟ ଓ ଚପଲ। ମାଧବଙ୍କ କ୍ରିମ୍ ସୂତା କୁର୍ତ୍ତାର ହାତ ମୋଡ଼ା; ସାଧା ଧୋତିରେ ସରୁ ମଳିନ ନୀଳ ଧାର। ବାମ କାନ୍ଧରେ ଇଟାଲାଲ ବହିଥଳି, ଡାହାଣ ହାତରେ ବନ୍ଦ ନୀଳ ଛତା। ବସିଲେ ଥଳି ଓ ଛତା ପାଖରେ ରଖିବେ। ଧୋତିର କୁଞ୍ଚ ଓ ତଳ ଧାର ବସିବା, ଚାଲିବାରେ ସ୍ୱାଭାବିକ ରହିବ। ଏହା ଚରିତ୍ରଙ୍କ ଦୈନିକ ପସନ୍ଦ; ଧାର୍ଯ୍ୟ ନଥିବା ଜିଲ୍ଲାର ନିର୍ଦ୍ଦିଷ୍ଟ ପୋଷାକ ବୋଲି ଦାବି ନାହିଁ।",
+        "en": "Benu wears a loose green short-sleeved shirt, a pocket notebook at his left chest, brown shorts and sandals. Madhab wears a cream cotton kurta with rolled sleeves and a simply wrapped dhoti with a narrow dusty-blue border. Rust cloth book bag on his left shoulder; folded blue umbrella in his right hand. When seated, he sets both beside him. Keep the dhoti’s folds and hem plausible when sitting and walking. These are the characters’ everyday choices, not a claimed costume of an unassigned district."
+      },
+      "remaining": {
+        "or": "କାନ୍ଧର ଯୋଡ଼ାସ୍ଥାନ, ହାତର ଭଙ୍ଗୀ ବଦଳ ଓ ଦୃଷ୍ଟି ଆହୁରି ସ୍ୱାଭାବିକ କରିବାକୁ ଅଛି। କଣ୍ଠ, ହସର ସ୍ୱର, ଓଠର ଚଳନ ଓ ଶେଷ ଉପଶୀର୍ଷକ ସମୟ ବାକି।",
+        "en": "Shoulder joins, changes between hand drawings and gaze need further refinement. Recorded acting, the shared laugh, mouth performance and final subtitle timing remain ahead."
+      },
+      "playerNote": {
+        "or": "ନିଜେ ଚଳାନ୍ତୁ। CCରେ ଦୁଇ ଭାଷାର ସଂଳାପ ପାଠ୍ୟ ଓ ଧ୍ୱନି ବର୍ଣ୍ଣନା ବାଛନ୍ତୁ। ଲେଖା ସଂଳାପ ଏବେ ଶୁଣାଯାଏ ନାହିଁ।",
+        "en": "Press play. CC offers written dialogue and sound descriptions in Odia and English. The written dialogue is not spoken in this draft."
+      },
+      "storyboardAlt": {
+        "or": "ବେଣୁ ଓ ମାଧବ କକା ଗପ କହୁଥିବା ଚାରିଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ।",
+        "en": "Four pencil frames of Benu and Madhab Kaka taking turns as storyteller and questioner."
+      },
+      "profile": "/characters/batare-katha.html#character-1",
+      "profileLabel": {
+        "or": "ବେଣୁ ଓ ମାଧବ କକାଙ୍କ ପରିଚୟ",
+        "en": "Meet Benu and Madhab Kaka"
+      },
+      "wardrobeLink": "/characters/regional-dress.html#central-coastal",
+      "wardrobeLabel": {
+        "or": "ଦୈନିକ ପୋଷାକର ସୂତ୍ର",
+        "en": "Everyday clothing references"
+      },
+      "featureTitle": {
+        "or": "ବାଟରେ କଥା · ପ୍ରଥମ ଚଳଚ୍ଚିତ୍ର ଖସଡ଼ା",
+        "en": "Batare Katha · First animation draft"
+      },
+      "watchLabel": {
+        "or": "ଖସଡ଼ା ଦେଖନ୍ତୁ · ୫୬ ସେକେଣ୍ଡ →",
+        "en": "Watch the draft · 56 seconds →"
+      },
+      "video": "my-story-first-cut-v1.mp4",
+      "poster": "proof/frame-35.00.png",
+      "storyboard": "pencil-storyboard-v1.png",
+      "captions": {
+        "or": "captions-or-v1.vtt",
+        "en": "captions-en-v1.vtt"
+      },
+      "artifactType": "animated-first-cut",
+      "featured": true,
+      "extraFeatures": [
+        "films/benu-my-story-first/index.html"
+      ],
+      "packFiles": [
+        "OFL-Baloo-Bhaina-2.txt",
+        "READ-ME.txt",
+        "artwork-and-motion-review-v1.json",
+        "background-prompt-v1.txt",
+        "background-v1.png",
+        "baloo-bhaina-2.ttf",
+        "benu-model-v2-prompt.txt",
+        "benu-model-v2.png",
+        "benu-rig-prompt-v1.txt",
+        "benu-rig-v1.png",
+        "caption-cues-v1.json",
+        "captions-en-v1.vtt",
+        "captions-or-v1.vtt",
+        "cast-natural-v2-prompt.txt",
+        "cast-natural-v2.png",
+        "create-sound-v1.py",
+        "madhab-model-v1-prompt.txt",
+        "madhab-model-v1.png",
+        "madhab-rig-prompt-v1.txt",
+        "madhab-rig-v1.png",
+        "mesh-v1.mjs",
+        "motion-audit-v1.json",
+        "motion-v1.mjs",
+        "my-story-first-cut-v1.mp4",
+        "pencil-storyboard-v1.png",
+        "prepare-captions-v1.py",
+        "props-prompt-v1.txt",
+        "props-v1.png",
+        "render-film-v1.mjs",
+        "script-v1.json",
+        "sound-draft-v1.wav",
+        "sound-review-v1.json",
+        "storyboard-prompt-v1.txt",
+        "timing-plan-v1.json"
+      ]
     }
   ]
 }
