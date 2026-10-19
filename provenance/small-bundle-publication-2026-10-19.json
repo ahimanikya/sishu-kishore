@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-19",
+  "status": "validated_ready_for_approved_deployment",
+  "public_route": "/characters/films/boita-small-bundle/",
+  "connected_pages": [
+    "/characters/index.html",
+    "/characters/boita-sadhaba.html",
+    "/characters/story-lab.html",
+    "/characters/design-path.html"
+  ],
+  "checks": {
+    "site_tests": "22 passed after latest editorial update",
+    "site_build": "passed after latest editorial update",
+    "relative_links": "passed",
+    "script_syntax": "passed",
+    "bilingual_shots": 16,
+    "dialogue_lines": 21,
+    "planned_duration_seconds": 154,
+    "public_zip_integrity": "passed, 14 files",
+    "public_private_path_check": "passed",
+    "browser_preview": "passed: video duration 154 seconds, readyState 4, playback time advanced"
+  },
+  "publication_blocker": null,
+  "next_action": "Push the approved release and verify GitHub Pages deployment and live story route.",
+  "voice_preview": "New Free-plan recordings remain private; public release contains the original unvoiced sound study only.",
+  "latest_addition": {
+    "sound_study": "154 seconds, no spoken voices",
+    "recording_pack": "42 cues across Odia and English",
+    "public_player": "prepared locally, not deployed",
+    "video_full_decode": "passed",
+    "website_checks": "passed"
+  },
+  "user_authorization": "User explicitly replied Approved after the recording and publication blocker was explained.",
+  "latest_retry": "Browser and GitHub access restored in fresh chat; current github/main reconciled by fast-forward, latest editorial changes preserved."
+}

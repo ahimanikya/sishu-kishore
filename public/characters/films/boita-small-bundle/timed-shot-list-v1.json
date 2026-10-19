@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1,
+    "seconds": 8,
+    "act": 1,
+    "slug": "landing",
+    "title": {
+      "or": "ଘାଟରେ ସକାଳ",
+      "en": "Morning at the landing"
+    },
+    "camera": {
+      "or": "ଚଉଡ଼ା ସ୍ଥିର ଦୃଶ୍ୟ।",
+      "en": "Wide, steady establishing shot."
+    },
+    "action": {
+      "or": "ଘାଟରେ ବୋଇତ ବନ୍ଧା ଅଛି। ପାଲ ଗୁଡ଼ା। ହେମା ଚଟେଇରେ ରଖା କପଡ଼ା ଭାଙ୍ଗନ୍ତି। ରଘୁ ଗୋଟିଏ ବଡ଼ ପୁଟୁଳି ଉଠାନ୍ତି। ହରି ଘାଟରେ ଦଉଡ଼ି ସଜାଡ଼ନ୍ତି। ମାଳତୀ ହେମାଙ୍କ ପାଖକୁ ଆସେ।",
+      "en": "The boita is moored, its sail furled. Hema folds cloth on a mat. Raghu lifts a large cargo bundle. Hari arranges a rope on the landing. Malati comes over to Hema."
+    },
+    "sound": {
+      "or": "ପାଣିର ହାଲୁକା ଶବ୍ଦ, କପଡ଼ା ଘଷା ଓ ଦୂରର କାମକଥା।",
+      "en": "Soft water, cloth rustling and indistinct work sounds farther away."
+    },
+    "lines": [],
+    "hold": {
+      "or": "ଯାତ୍ରାର ପ୍ରସ୍ତୁତିକୁ ପ୍ରଥମେ ଦେଖିବା ପାଇଁ ସମୟ।",
+      "en": "Let the preparation register before the first line."
+    },
+    "start": 0,
+    "end": 8,
+    "sheet": 1,
+    "panel": 0
+  },
+  {
+    "id": 2,
+    "seconds": 10,
+    "act": 1,
+    "slug": "her-task",
+    "title": {
+      "or": "ମୋତେ ବି କାମ ଦିଅ",
+      "en": "Give me a job too"
+    },
+    "camera": {
+      "or": "ମାଆ–ଝିଅଙ୍କ ମଧ୍ୟମ ଦୃଶ୍ୟ।",
+      "en": "Medium two-shot of mother and daughter."
+    },
+    "action": {
+      "or": "ମାଳତୀ ଖାଲି ହାତ ଆଗକୁ ବଢ଼ାଏ। ହେମା ତିନି ଖଣ୍ଡ ନମୁନା କପଡ଼ା ଥିବା ଛୋଟ ଖୋଲା କପଡ଼ାଟି ତା’ ହାତରେ ରଖନ୍ତି।",
+      "en": "Malati holds out her empty hands. Hema gives her a small open wrapping cloth containing three cloth samples."
+    },
+    "sound": {
+      "or": "ପାଖର କାମର ଶବ୍ଦ ମୃଦୁ ରହେ।",
+      "en": "The nearby work continues quietly."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ମା’, ମୋତେ ବି ଗୋଟେ କାମ ଦିଅ।",
+        "en": "Ma, give me a job too."
+      },
+      {
+        "speaker": "hema",
+        "or": "ଏଇ ନମୁନା ପୁଟୁଳିଟା ବାପାଙ୍କୁ ଦେବୁ।",
+        "en": "Give Bapa this parcel of cloth samples."
+      }
+    ],
+    "hold": {
+      "or": "ହେମା ତା’ ହାତରେ କାମ ଦେଉଛନ୍ତି—କେବଳ ତାକୁ ବ୍ୟସ୍ତ ରଖିବା ପାଇଁ ନୁହେଁ।",
+      "en": "Hema genuinely entrusts her with the task."
+    },
+    "start": 8,
+    "end": 18,
+    "sheet": 1,
+    "panel": 1
+  },
+  {
+    "id": 3,
+    "seconds": 9,
+    "act": 1,
+    "slug": "samples",
+    "title": {
+      "or": "ଛୋଟ ପୁଟୁଳିରେ କ’ଣ ଅଛି",
+      "en": "What the small parcel carries"
+    },
+    "camera": {
+      "or": "ମାଳତୀର କାନ୍ଧ ଉପରୁ ହାତ ଓ ନମୁନାର ନିକଟ ଦୃଶ୍ୟ।",
+      "en": "Over Malati’s shoulder, close on hands and samples."
+    },
+    "action": {
+      "or": "ମାଳତୀ ତିନି ଖଣ୍ଡ ନମୁନାକୁ ଚାହେଁ: ଗାଢ଼, ହାଲୁକା ଓ ସରୁ ଧାର ଥିବା ଗୋଟିଏ କପଡ଼ା। ହେମା ଆଙ୍ଗୁଠିରେ ନମୁନା ଦେଖାନ୍ତି।",
+      "en": "Malati studies the three samples: dark, light and one with a narrow border. Hema points out the samples."
+    },
+    "sound": {
+      "or": "କପଡ଼ାର ମୃଦୁ ଶବ୍ଦ।",
+      "en": "Soft cloth movement."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ଏତେ ଛୋଟ?",
+        "en": "Such a little one?"
+      },
+      {
+        "speaker": "hema",
+        "or": "ଏଥିରୁ ତ ସେମାନେ କପଡ଼ା ବାଛିବେ।",
+        "en": "They’ll use these to choose their cloth."
+      }
+    ],
+    "hold": {
+      "or": "ମାଳତୀ ପୁଣି ନମୁନାକୁ ଚାହେଁ; ଏଥର ଧ୍ୟାନ ଦେଇ।",
+      "en": "Malati looks again, more carefully this time."
+    },
+    "start": 18,
+    "end": 27,
+    "sheet": 1,
+    "panel": 2
+  },
+  {
+    "id": 4,
+    "seconds": 7,
+    "act": 1,
+    "slug": "knot",
+    "title": {
+      "or": "ନିଜେ ବାନ୍ଧିବ",
+      "en": "She ties it herself"
+    },
+    "camera": {
+      "or": "ହାତର ନିକଟ ଦୃଶ୍ୟରୁ ମାଳତୀର ମୁହଁକୁ।",
+      "en": "Close on her hands, then her face."
+    },
+    "action": {
+      "or": "ମାଳତୀ ଖୋଲା କପଡ଼ାର ଦୁଇ ମୁଣ୍ଡ ମିଶାଇ ଗଣ୍ଠି ପକାଏ। ହେମା ହାତ ବଢ଼ାଇ ପୁଣି ଅଟକନ୍ତି, ତାକୁ ନିଜେ କରିବାକୁ ଦିଅନ୍ତି।",
+      "en": "Malati brings the two ends together and ties the wrapping. Hema starts to help, then lets her finish it herself."
+    },
+    "sound": {
+      "or": "ଗଣ୍ଠି ଟାଣିବାର କପଡ଼ା ଶବ୍ଦ।",
+      "en": "The cloth tightens softly."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ମୁଁ ବାନ୍ଧିଦେବି।",
+        "en": "I can tie it."
+      }
+    ],
+    "hold": {
+      "or": "ତା’ ମୁହଁରେ ଛୋଟ ଗର୍ବର ହସ।",
+      "en": "A small, pleased smile."
+    },
+    "start": 27,
+    "end": 34,
+    "sheet": 1,
+    "panel": 3
+  },
+  {
+    "id": 5,
+    "seconds": 8,
+    "act": 2,
+    "slug": "departure-call",
+    "title": {
+      "or": "ଯିବାର ସମୟ",
+      "en": "Time to go"
+    },
+    "camera": {
+      "or": "ମାଳତୀ ଆଗରେ; ପଛରେ ରଘୁ ଓ ବୋଇତ।",
+      "en": "Malati in the foreground; Raghu and the boat beyond."
+    },
+    "action": {
+      "or": "ହରି ବୋଇତରେ ଯିବାକୁ ତିଆରି। ରଘୁ କାମ ସାରି ମାଳତୀ ଆଡ଼କୁ ହାତ ବଢ଼ାନ୍ତି। ତା’ର ହସ ଧୀରେ ମିଳାଇଯାଏ।",
+      "en": "Hari is ready to board. Raghu finishes his task and holds a hand out to Malati. Her pleased smile fades."
+    },
+    "sound": {
+      "or": "ପାଣି, ପାଦ ଓ ଦଉଡ଼ିର ମୃଦୁ ଶବ୍ଦ।",
+      "en": "Water, footsteps and a soft rope scrape."
+    },
+    "lines": [
+      {
+        "speaker": "hari",
+        "or": "ରଘୁ, ମୁଁ ବୋଇତରେ ଅପେକ୍ଷା କରୁଛି।",
+        "en": "Raghu, I’ll wait aboard."
+      },
+      {
+        "speaker": "raghu",
+        "or": "ମାଳତୀ, ପୁଟୁଳିଟା ଆଣ।",
+        "en": "Malati, bring the parcel."
+      }
+    ],
+    "hold": {
+      "or": "ଡାକ ଶୁଣି ତା’ ଆଙ୍ଗୁଠି ଗଣ୍ଠିକୁ ଜାବୁଡ଼ି ଧରେ।",
+      "en": "Her fingers tighten around the knot."
+    },
+    "start": 34,
+    "end": 42,
+    "sheet": 2,
+    "panel": 0
+  },
+  {
+    "id": 6,
+    "seconds": 10,
+    "act": 2,
+    "slug": "behind-back",
+    "title": {
+      "or": "ପିଠି ପଛରେ ପୁଟୁଳି",
+      "en": "The parcel behind her back"
+    },
+    "camera": {
+      "or": "ପାର୍ଶ୍ୱରୁ ମଧ୍ୟମ ଦୃଶ୍ୟ; ଦର୍ଶକ ପୁଟୁଳି ଦେଖିପାରିବେ, ରଘୁ ନୁହେଁ।",
+      "en": "Medium side angle: the audience can see the parcel behind her, Raghu cannot."
+    },
+    "action": {
+      "or": "ମାଳତୀ ଦୁଇ ହାତ ପିଠି ପଛକୁ ନିଏ। ଛୋଟ ପୁଟୁଳି ତା’ ଦେହରେ ଲୁଚେ। ରଘୁ ଆଗରେ ଠିଆ।",
+      "en": "Malati moves both hands behind her waist, hiding the small parcel with her body. Raghu stands in front of her."
+    },
+    "sound": {
+      "or": "କଥା ଆଗରେ ଛୋଟ ନିଶ୍ୱାସ।",
+      "en": "A small breath before she speaks."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ତୁମେ ଏବେ ଯିବ?",
+        "en": "Are you going now?"
+      },
+      {
+        "speaker": "raghu",
+        "or": "ହଁ, ମା’। ସବୁ ତ ହୋଇଗଲା।",
+        "en": "Yes, sweetheart. Everything’s ready."
+      }
+    ],
+    "hold": {
+      "or": "ସେ କିଛି ଉତ୍ତର ଦିଏନି।",
+      "en": "She does not answer."
+    },
+    "start": 42,
+    "end": 52,
+    "sheet": 2,
+    "panel": 1
+  },
+  {
+    "id": 7,
+    "seconds": 10,
+    "act": 2,
+    "slug": "one-more-question",
+    "title": {
+      "or": "ଆଉ ଗୋଟିଏ ପ୍ରଶ୍ନ",
+      "en": "One more question"
+    },
+    "camera": {
+      "or": "ରଘୁଙ୍କ କାନ୍ଧ ଉପରୁ ମାଳତୀର ମୁହଁ।",
+      "en": "Over Raghu’s shoulder onto Malati’s face."
+    },
+    "action": {
+      "or": "ମାଳତୀ ତରବରରେ ପ୍ରଶ୍ନ କରେ। ରଘୁ ବୋଇତର ଛାଉଣି ଆଡ଼କୁ ଚାହାନ୍ତି। ତା’ର ଦୁଇ ହାତ ପଛରେ ହିଁ ରହେ।",
+      "en": "Malati quickly finds a question. Raghu glances towards the boat’s shelter. Her hands remain behind her."
+    },
+    "sound": {
+      "or": "ନିକଟ କଥା ସ୍ପଷ୍ଟ; ପଛର କାମ ମୃଦୁ।",
+      "en": "The voices stay close; work sounds recede."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ବାପା, ରାତିରେ କେଉଁଠି ଶୋଇବ?",
+        "en": "Bapa, where will you sleep at night?"
+      },
+      {
+        "speaker": "raghu",
+        "or": "ବୋଇତ ଭିତରେ।",
+        "en": "Inside the boita."
+      },
+      {
+        "speaker": "malati",
+        "or": "ଆଉ ବର୍ଷା ହେଲେ?",
+        "en": "And if it rains?"
+      }
+    ],
+    "hold": {
+      "or": "ଶେଷ ପ୍ରଶ୍ନ ଟିକେ ଅଧିକ ଶୀଘ୍ର ଆସେ।",
+      "en": "The last question comes a little too quickly."
+    },
+    "start": 52,
+    "end": 62,
+    "sheet": 2,
+    "panel": 2
+  },
+  {
+    "id": 8,
+    "seconds": 8,
+    "act": 2,
+    "slug": "where-is-it",
+    "title": {
+      "or": "ପୁଟୁଳିଟା କାହିଁ",
+      "en": "Where is the parcel?"
+    },
+    "camera": {
+      "or": "ଦୁହିଁଙ୍କ ପାର୍ଶ୍ୱ ଦୃଶ୍ୟ; ହେମା ପଛରୁ ବୁଲନ୍ତି।",
+      "en": "Side two-shot; Hema turns in the background."
+    },
+    "action": {
+      "or": "ରଘୁ ଉତ୍ତର ଦେଇ ନିଜ ଖାଲି ହାତକୁ ଚାହାନ୍ତି। ମାଳତୀ ଆଖି ତଳକୁ କରେ। ହେମା ତାଙ୍କ କାମରୁ ମୁହଁ ବୁଲାନ୍ତି।",
+      "en": "Raghu answers, then notices his still-empty hand. Malati looks down. Hema turns from her work."
+    },
+    "sound": {
+      "or": "ପ୍ରଶ୍ନ ପରେ ବିରାମ।",
+      "en": "A pause after the question."
+    },
+    "lines": [
+      {
+        "speaker": "raghu",
+        "or": "ଛାଉଣି ତଳେ ରହିବୁ। ପୁଟୁଳିଟା କାହିଁ?",
+        "en": "We’ll be under the shelter. Where’s the parcel?"
+      }
+    ],
+    "hold": {
+      "or": "ପୁଟୁଳି ଲୁଚିଛି ବୋଲି ଦର୍ଶକ ଜାଣନ୍ତି; ବଡ଼ମାନେ ଏଯାଏଁ ଜାଣନ୍ତିନି।",
+      "en": "The audience knows where it is; the adults still do not."
+    },
+    "start": 62,
+    "end": 70,
+    "sheet": 2,
+    "panel": 3
+  },
+  {
+    "id": 9,
+    "seconds": 10,
+    "act": 3,
+    "slug": "search",
+    "title": {
+      "or": "ଖୋଜା ଆରମ୍ଭ",
+      "en": "The search begins"
+    },
+    "camera": {
+      "or": "ତିନିଜଣଙ୍କ ଚଉଡ଼ା ଦୃଶ୍ୟ; ମାଳତୀ ଗୋଟିଏ ପଟେ।",
+      "en": "Wider three-shot with Malati at one side."
+    },
+    "action": {
+      "or": "ହେମା ଭଙ୍ଗା କପଡ଼ାର ଧାର ଉଠାଇ ତଳକୁ ଚାହାନ୍ତି। ରଘୁ ପାଖର ଖାଲି ଝୁଡ଼ି ଦେଖନ୍ତି। ମାଳତୀ କିଛି କହିବାକୁ ମୁହଁ ଖୋଲି ପୁଣି ଚୁପ୍ ରହେ।",
+      "en": "Hema lifts the folded cloth to look underneath. Raghu checks an empty basket nearby. Malati starts to speak, then stops."
+    },
+    "sound": {
+      "or": "କପଡ଼ା ଖୋଲିବାର ଶବ୍ଦ ଆଗକୁ ଆସେ।",
+      "en": "The sound of unfolding cloth comes forward."
+    },
+    "lines": [
+      {
+        "speaker": "hema",
+        "or": "ଏଇ କପଡ଼ା ତଳେ ରଖିଛୁ କି?",
+        "en": "Did you put it under this cloth?"
+      }
+    ],
+    "hold": {
+      "or": "ମାଳତୀ ମିଛ ଉତ୍ତର ଦିଏନି; ତା’ର ଚୁପ୍ ରହିବା ହିଁ ଅସୁବିଧା ବଢ଼ାଏ।",
+      "en": "Malati does not invent an answer; her silence prolongs the search."
+    },
+    "start": 70,
+    "end": 80,
+    "sheet": 3,
+    "panel": 0
+  },
+  {
+    "id": 10,
+    "seconds": 8,
+    "act": 3,
+    "slug": "cost-of-delay",
+    "title": {
+      "or": "ମାଆ ପୁଣି କାମ କରୁଛନ୍ତି",
+      "en": "Her mother starts again"
+    },
+    "camera": {
+      "or": "ମାଳତୀର ପାର୍ଶ୍ୱ ମୁହଁ ଓ ପଛରେ ପୁଟୁଳି ଧରା ହାତ; ଦୂରେ ହେମାଙ୍କ ଖୋଲା କପଡ଼ା।",
+      "en": "Close side view of Malati and her concealed hands, with Hema’s reopened cloth beyond."
+    },
+    "action": {
+      "or": "ହେମା ସଜା ହୋଇଥିବା କପଡ଼ା ପୁଣି ଖୋଲୁଥିବା ଦେଖି ମାଳତୀର ଆଙ୍ଗୁଠି ଗଣ୍ଠିରୁ ଢିଲା ହୁଏ। ସେ ମାଆଙ୍କ ହାତକୁ ଚାହେଁ, ପରେ ବାପାଙ୍କୁ।",
+      "en": "Watching Hema undo the finished work, Malati loosens her grip on the knot. She looks at her mother’s hands, then towards her father."
+    },
+    "sound": {
+      "or": "କଥା ନାହିଁ। କପଡ଼ା ଓ ଶାନ୍ତ ପାଣି।",
+      "en": "No dialogue. Cloth and quiet water."
+    },
+    "lines": [],
+    "hold": {
+      "or": "କହିବାର ନିଷ୍ପତ୍ତି ମୁହଁ ଓ ହାତରେ ଦିଶୁ।",
+      "en": "Let the decision become visible in her face and hands."
+    },
+    "start": 80,
+    "end": 88,
+    "sheet": 3,
+    "panel": 1
+  },
+  {
+    "id": 11,
+    "seconds": 8,
+    "act": 3,
+    "slug": "admission",
+    "title": {
+      "or": "ମୋ ପାଖରେ ଅଛି",
+      "en": "It’s with me"
+    },
+    "camera": {
+      "or": "ମାଳତୀର ସାମ୍ନାରୁ ମଧ୍ୟମ ନିକଟ ଦୃଶ୍ୟ।",
+      "en": "Medium close-up facing Malati."
+    },
+    "action": {
+      "or": "କେହି ଦେଖାଇବା ପୂର୍ବରୁ ମାଳତୀ ନିଜେ ପୁଟୁଳି ସାମ୍ନାକୁ ଆଣେ। ହେମାଙ୍କ ହାତ ଅଟକେ। ରଘୁ ତା’ ଆଡ଼କୁ ବୁଲନ୍ତି।",
+      "en": "Before anyone points it out, Malati brings the parcel forward herself. Hema’s hands stop. Raghu turns towards her."
+    },
+    "sound": {
+      "or": "କାମର ଶବ୍ଦ ଥମିଯାଏ।",
+      "en": "The work falls still."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ମୋ ପାଖରେ ଅଛି।",
+        "en": "I’ve got it."
+      }
+    ],
+    "hold": {
+      "or": "ସେ ଗଣ୍ଠିକୁ ଚାହିଁ ରହେ; କଥା ଶେଷ ହୋଇନି।",
+      "en": "She keeps looking at the knot; there is more to say."
+    },
+    "start": 88,
+    "end": 96,
+    "sheet": 3,
+    "panel": 2
+  },
+  {
+    "id": 12,
+    "seconds": 10,
+    "act": 3,
+    "slug": "what-she-wants",
+    "title": {
+      "or": "ମନକଥା",
+      "en": "What she really wants"
+    },
+    "camera": {
+      "or": "ରଘୁଙ୍କ ପଟରୁ ମାଳତୀର ମୁହଁ ଓ ହାତର ନିକଟ ଦୃଶ୍ୟ।",
+      "en": "From Raghu’s side, close on Malati’s face and the parcel."
+    },
+    "action": {
+      "or": "ମାଳତୀ ମୁହଁ ଉଠାଏ। ଆଖି ଟିକେ ଓଦା, କିନ୍ତୁ କାନ୍ଦି ଭାଙ୍ଗିପଡ଼େନି। ରଘୁ ତା’ କଥା ସାରିବାକୁ ଦିଅନ୍ତି।",
+      "en": "Malati looks up. Her eyes are a little wet, but she does not collapse into sobbing. Raghu lets her finish."
+    },
+    "sound": {
+      "or": "ନରମ ସ୍ୱର, ସ୍ପଷ୍ଟ କଥା; ସଙ୍ଗୀତ ବଢ଼ିବନି।",
+      "en": "Soft, clear speech; no swelling music."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ମୁଁ ଚାହୁଁଥିଲି ତୁମେ ଆଉ ଟିକେ ରୁହ।",
+        "en": "I wanted you to stay a little longer."
+      }
+    ],
+    "hold": {
+      "or": "ରଘୁଙ୍କ ଉତ୍ତର ପୂର୍ବରୁ ଦୁଇ ସେକେଣ୍ଡ ବିରାମ।",
+      "en": "Leave two seconds before Raghu responds."
+    },
+    "start": 96,
+    "end": 106,
+    "sheet": 3,
+    "panel": 3
+  },
+  {
+    "id": 13,
+    "seconds": 9,
+    "act": 4,
+    "slug": "make-time",
+    "title": {
+      "or": "କାମ ଟିକେ ଅପେକ୍ଷା କରୁ",
+      "en": "The work can wait a moment"
+    },
+    "camera": {
+      "or": "ଦୁହିଁଙ୍କ ମଧ୍ୟମ ଚଉଡ଼ା ଦୃଶ୍ୟ; ଘାଟର ଭିତର ପଟର ବେଞ୍ଚ।",
+      "en": "Medium-wide two-shot at the low bench on the inland side of the landing."
+    },
+    "action": {
+      "or": "ରଘୁ ପୁଟୁଳି ନେଇ ବେଞ୍ଚ ପାଖରେ ରଖନ୍ତି। ସେ ବସି ନିଜ ପାଖେ ଜାଗା କରନ୍ତି। ମାଳତୀ ପାଖରେ ବସେ।",
+      "en": "Raghu takes the parcel and places it beside the bench. He sits and makes room for her. Malati sits alongside him."
+    },
+    "sound": {
+      "or": "ପୁଟୁଳି ରଖିବା, ବେଞ୍ଚର ହାଲୁକା ଶବ୍ଦ।",
+      "en": "The parcel settles; the bench gives a small creak."
+    },
+    "lines": [
+      {
+        "speaker": "raghu",
+        "or": "ଆସ୍। ଟିକେ ବସିବା।",
+        "en": "Come. Let’s sit a while."
+      }
+    ],
+    "hold": {
+      "or": "ସେ ଉପଦେଶ ଦିଅନ୍ତିନି; ତା’ ପାଖେ ରହନ୍ତି।",
+      "en": "He gives her his presence without a lecture."
+    },
+    "start": 106,
+    "end": 115,
+    "sheet": 4,
+    "panel": 0
+  },
+  {
+    "id": 14,
+    "seconds": 14,
+    "act": 4,
+    "slug": "their-stories",
+    "title": {
+      "or": "ତୋ ଗପ, ମୋ ଗପ",
+      "en": "Your stories and mine"
+    },
+    "camera": {
+      "or": "ବେଞ୍ଚ ସମାନ ଉଚ୍ଚତାରୁ ଶାନ୍ତ ଦୁଇଜଣଙ୍କ ଦୃଶ୍ୟ।",
+      "en": "A quiet two-shot at bench height."
+    },
+    "action": {
+      "or": "ଦୁହେଁ ନଦୀକୁ ଚାହିଁ ଚୁପ୍‌ରେ ବସନ୍ତି। ମାଳତୀ ଧୀରେ ବାପାଙ୍କ ଆଡ଼କୁ ବୁଲେ। ସେ ଝିଅକୁ ଚାହିଁ ମୁଣ୍ଡ ହଲାନ୍ତି। ପୁଟୁଳି ବେଞ୍ଚ ପାଖେ ରହେ।",
+      "en": "They sit quietly, looking towards the river. Malati turns to her father. He looks at her and nods. The parcel remains beside the bench."
+    },
+    "sound": {
+      "or": "ପ୍ରଥମ ଚାରି ସେକେଣ୍ଡ କେବଳ ପାଣି; ଶେଷରେ ମଧ୍ୟ ଛୋଟ ବିରାମ।",
+      "en": "Only water for the first four seconds; leave another small pause at the end."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ଫେରିଲେ ମୋତେ ଗପ କହିବ?",
+        "en": "Will you tell me your stories when you’re back?"
+      },
+      {
+        "speaker": "raghu",
+        "or": "ତୁ ବି ତୋ ଗପ ଶୁଣାଇବୁ।",
+        "en": "And you’ll tell me yours."
+      }
+    ],
+    "hold": {
+      "or": "ମାଳତୀର ଛୋଟ ହସ ଆସେ। ବିଦାୟର ଦୁଃଖ ପୂରା ହଟିଯାଏନି।",
+      "en": "A small smile returns. The sadness of parting has not vanished."
+    },
+    "start": 115,
+    "end": 129,
+    "sheet": 4,
+    "panel": 1
+  },
+  {
+    "id": 15,
+    "seconds": 12,
+    "act": 4,
+    "slug": "handover",
+    "title": {
+      "or": "ଏଥର ନିଅ",
+      "en": "Here, take it now"
+    },
+    "camera": {
+      "or": "ମାଳତୀ ଉଠି ପୁଟୁଳି ନେବାରୁ ହସ୍ତାନ୍ତର ଯାଏଁ ଏକ ଦୃଶ୍ୟ।",
+      "en": "One shot follows Malati rising, picking up the parcel and handing it over."
+    },
+    "action": {
+      "or": "ମାଳତୀ ନିଜେ ଉଠେ, ପୁଟୁଳି ନିଏ ଓ ରଘୁଙ୍କୁ ଦିଏ। ଦୁହେଁ ଏବେ ମଧ୍ୟ ଘାଟ ଉପରେ। ରଘୁ ଗଣ୍ଠିକୁ ଚାହିଁ ଟିକେ ହସନ୍ତି। ମାଳତୀ ହାତ ଛାଡ଼େ।",
+      "en": "Malati gets up herself, picks up the parcel and gives it to Raghu. Both are still ashore. He looks at the knot with a small smile. She releases her hands."
+    },
+    "sound": {
+      "or": "ପାଦ ଓ କପଡ଼ା; କଥା ପରେ ହାତ ଛାଡ଼ିବାର ବିରାମ।",
+      "en": "Footsteps and cloth; hold on the release after the lines."
+    },
+    "lines": [
+      {
+        "speaker": "malati",
+        "or": "ଏଥର ନିଅ।",
+        "en": "Here. Take it now."
+      },
+      {
+        "speaker": "raghu",
+        "or": "ଗଣ୍ଠିଟା ବେଶ୍ ଭଲ ବାନ୍ଧିଛୁ।",
+        "en": "That’s a good knot you’ve tied."
+      }
+    ],
+    "hold": {
+      "or": "ଏହା ମାଳତୀର ନିଜ ନିଷ୍ପତ୍ତି। ରଘୁ ତା’ ହାତରୁ ଟାଣନ୍ତିନି।",
+      "en": "The handover is her choice. Raghu does not pull it from her."
+    },
+    "start": 129,
+    "end": 141,
+    "sheet": 4,
+    "panel": 2
+  },
+  {
+    "id": 16,
+    "seconds": 13,
+    "act": 4,
+    "slug": "goodbye",
+    "title": {
+      "or": "ଘାଟରେ ଦୁଇଜଣ",
+      "en": "Two figures on the bank"
+    },
+    "camera": {
+      "or": "ପଛରୁ ଚଉଡ଼ା ଦୃଶ୍ୟ; ମାଳତୀ ଓ ହେମା ଆଗରେ, ବୋଇତ ଦୂରେ।",
+      "en": "Wide rear view: Malati and Hema in the foreground, the boita moving away."
+    },
+    "action": {
+      "or": "କିଛି ସମୟ ପରେ। ରଘୁ ଓ ହରି ବୋଇତରେ। ବୋଇତ ଧୀରେ ଘାଟ ଛାଡ଼େ। ମାଳତୀ ହେମାଙ୍କ ପାଖେ ଠିଆ ହୋଇ ହାତ ହଲାଏ। ପରେ ମାଆଙ୍କ ହାତ ଧରେ। ଦୁହେଁ ନଦୀକୁ ଚାହିଁ ରହନ୍ତି।",
+      "en": "A little later. Raghu and Hari are aboard as the boita slowly leaves the landing. Malati stands beside Hema and waves. Then she takes her mother’s hand. They keep watching the river."
+    },
+    "sound": {
+      "or": "ବଇଠାରେ ପାଣି କଟିବାର ଶବ୍ଦ। ଶେଷରେ କଥା ବା ଉପଦେଶ ନାହିଁ।",
+      "en": "An oar moving through water. No final speech or spoken moral."
+    },
+    "lines": [],
+    "hold": {
+      "or": "ହାତ ଧରିବା ପରେ ଚାରି ସେକେଣ୍ଡ ଦୃଶ୍ୟ ରହେ; ଧୀରେ ଶେଷ।",
+      "en": "Hold for four seconds after their hands meet, then gently end."
+    },
+    "start": 141,
+    "end": 154,
+    "sheet": 4,
+    "panel": 3
+  }
+]
