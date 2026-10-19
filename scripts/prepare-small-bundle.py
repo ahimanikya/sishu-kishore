@@ -30,7 +30,7 @@ for rel in files:
     (OUT / rel).parent.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(SOURCE / rel, OUT / rel)
 
-raw = (SOURCE / 'index.html').read_text()
+raw = (SOURCE / 'index.html').read_text().replace('.textContent()', '.textContent')
 raw = raw.replace('<html lang="en"><meta', '<html lang="or"><head><meta').replace('</style><body', '</style></head><body')
 raw = raw.replace('boita-small-bundle-review-v1.zip', PACK)
 raw = raw.replace('data-language="both"', 'data-language="or"')
@@ -61,6 +61,8 @@ document.addEventListener('click',e=>{
   }
 });
 ''' + raw[end:]
+for before, after in {'Spoken voices are still pending. Timing will be revised around the recordings.': 'This original study has no spoken voices. A voiced draft is under review.', 'ଏଥିରେ କଥା କହୁଥିବା କଣ୍ଠ ଏଯାଏଁ ନାହିଁ। କଣ୍ଠ ରେକର୍ଡ ପରେ ସମୟ ସଜଡ଼ାଯିବ।': 'ଏହି ନମୁନାରେ କଥା କହୁଥିବା କଣ୍ଠ ନାହିଁ। କଣ୍ଠ ସହ ଖସଡ଼ା ସମୀକ୍ଷାଧୀନ।', 'Still frames · voices not recorded': 'Still frames · no speech in this study', 'ସ୍ଥିର ଦୃଶ୍ୟ · କଣ୍ଠ ରେକର୍ଡ ହୋଇନି': 'ସ୍ଥିର ଦୃଶ୍ୟ · ଏହି ନମୁନାରେ କଣ୍ଠ ନାହିଁ', 'This is a story and pacing study. Shot lengths will be adjusted after recording the dialogue.': 'This is the original story and pacing study. A voiced draft is under review.', 'ଏହା ଗପର ଗତି ପରୀକ୍ଷା ପାଇଁ। କଣ୍ଠ ରେକର୍ଡ ପରେ ପ୍ରତ୍ୟେକ ଦୃଶ୍ୟର ସମୟ ପୁଣି ସଜଡ଼ାଯିବ।': 'ଏହା ଗପର ଗତି ପରୀକ୍ଷା ପାଇଁ ମୂଳ ନମୁନା। କଣ୍ଠ ସହ ଖସଡ଼ା ସମୀକ୍ଷାଧୀନ।', 'Next: record dialogue, adjust the storyboard timing, then develop the acting and animation.': 'Next: review the voiced draft, then develop the acting and animation.', 'ପରବର୍ତ୍ତୀ ଧାପ: ସଂଳାପ ରେକର୍ଡ କରି ଦୃଶ୍ୟର ସମୟ ସଜାଡ଼ିବା, ତା’ପରେ ଅଭିନୟ ଓ ଚଳନ।': 'ପରବର୍ତ୍ତୀ ଧାପ: କଣ୍ଠ ସହ ଖସଡ଼ାର ସମୀକ୍ଷା, ତା’ପରେ ଅଭିନୟ ଓ ଚଳନ।', 'First draft; voices not yet recorded.': 'First draft; voiced version under review.', 'ପ୍ରଥମ ଖସଡ଼ା; କଣ୍ଠ ରେକର୍ଡ ହୋଇନି।': 'ପ୍ରଥମ ଖସଡ଼ା; କଣ୍ଠ ସହ ଖସଡ଼ା ସମୀକ୍ଷାଧୀନ।'}.items():
+    raw = raw.replace(before, after)
 soup = BeautifulSoup(raw, 'html.parser')
 # Only the original sound study is eligible for this import. Voiced recordings
 # require their own reviewed release; never discover or publish them by glob.
@@ -71,7 +73,7 @@ if (study / movie).exists():
     for rel in [movie, 'poster-review-v1.png', 'recording-pack-v1.zip']:
         shutil.copyfile(study / rel, OUT / 'animatic' / rel)
     section = '<section class="downloads" id="animatic"><h2>' + pair('ଚଳଚ୍ଚିତ୍ରର ଗତି ଓ ଶବ୍ଦ ନମୁନା', 'Picture edit & sound study') + '</h2>'
-    section += pair('୨:୩୪ ମିନିଟ୍‌ର ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ, ଦୁଇ ଭାଷାର ସଂଳାପ ଲେଖା ଓ ହାଲୁକା ପାଣି–କପଡ଼ା ଶବ୍ଦ। ଏଥିରେ କଥା କହୁଥିବା କଣ୍ଠ ଏଯାଏଁ ନାହିଁ। କଣ୍ଠ ରେକର୍ଡ ପରେ ସମୟ ସଜଡ଼ାଯିବ।', 'A 2:34 pencil edit with Odia and English dialogue captions and quiet water and cloth sounds. Spoken voices are still pending. Timing will be revised around the recordings.', 'p')
+    section += pair('୨:୩୪ ମିନିଟ୍‌ର ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ, ଦୁଇ ଭାଷାର ସଂଳାପ ଲେଖା ଓ ହାଲୁକା ପାଣି–କପଡ଼ା ଶବ୍ଦ। ଏହି ନମୁନାରେ କଥା କହୁଥିବା କଣ୍ଠ ନାହିଁ। କଣ୍ଠ ସହ ଖସଡ଼ା ସମୀକ୍ଷାଧୀନ।', 'A 2:34 pencil edit with Odia and English dialogue captions and quiet water and cloth sounds. This original study has no spoken voices. A voiced draft is under review.', 'p')
     section += f'<video controls playsinline preload="metadata" width="1280" height="1100" poster="animatic/poster-review-v1.png" style="display:block;width:100%;height:auto;background:#f7f3e9"><source src="animatic/{movie}" type="video/mp4"/></video><nav class="toolbar"><a href="animatic/{movie}" download>' + pair('ଭିଡିଓ ଡାଉନଲୋଡ୍', 'Download picture edit') + '</a><a href="animatic/recording-pack-v1.zip" download>' + pair('ଚାରି ଚରିତ୍ରର ରେକର୍ଡିଂ ପାଠ୍ୟ', 'Four-character recording pack') + '</a></nav></section>'
     soup.select_one('#viewer').insert_before(BeautifulSoup(section, 'html.parser'))
     link = '<a href="#animatic">' + pair('ଭିଡିଓ ନମୁନା ଦେଖନ୍ତୁ', 'Watch the picture edit') + '</a>'
@@ -88,7 +90,7 @@ path += pair('ପ୍ରଥମେ ମାଳତୀର ଦୁଇଟି ଛୋଟ �
 path += '<nav class="toolbar">'
 for href, odia, english in [('/characters/scripts/malati-small-parcel.html', 'ମୋ ଛୋଟ ପୁଟୁଳି · ପ୍ରଥମ ଗପ', 'My Small Parcel · earlier study'), ('/characters/scripts/malati-stay-a-moment.html', 'ଆଉ ଟିକେ ବସ · ପ୍ରଥମ ଗପ', 'Sit a Little Longer · earlier study'), ('references/cast-natural-v2.png', 'ଚରିତ୍ରଙ୍କ ରଙ୍ଗୀନ ନମୁନା', 'Established cast reference'), ('/characters/design-path.html#boita-sadhaba', 'ବୋଇତ ଦଳର ପୂରା ସୃଜନଯାତ୍ରା', 'Boita design history')]:
     path += f'<a href="{href}">{pair(odia, english)}</a>'
-path += '</nav>' + pair('ପରବର୍ତ୍ତୀ ଧାପ: ସଂଳାପ ରେକର୍ଡ କରି ଦୃଶ୍ୟର ସମୟ ସଜାଡ଼ିବା, ତା’ପରେ ଅଭିନୟ ଓ ଚଳନ।', 'Next: record dialogue, adjust the storyboard timing, then develop the acting and animation.', 'p') + '</section>'
+path += '</nav>' + pair('ପରବର୍ତ୍ତୀ ଧାପ: କଣ୍ଠ ସହ ଖସଡ଼ାର ସମୀକ୍ଷା, ତା’ପରେ ଅଭିନୟ ଓ ଚଳନ।', 'Next: review the voiced draft, then develop the acting and animation.', 'p') + '</section>'
 soup.select_one('#downloads').insert_before(BeautifulSoup(path, 'html.parser'))
 extra = '<a href="shot-list-v1.csv" download>' + pair('ଦୃଶ୍ୟ ଓ ସମୟ ତାଲିକା', 'Shot and timing list') + '</a>'
 soup.select_one('#downloads nav').append(BeautifulSoup(extra, 'html.parser'))
@@ -150,7 +152,7 @@ with zipfile.ZipFile(OUT / PACK, 'w', zipfile.ZIP_DEFLATED) as archive:
 
 css = '.small-bundle-feature{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:28px;align-items:center}.small-bundle-feature img{display:block;width:100%;height:auto;border:1px solid #d8d1c1}.small-bundle-feature .actions{display:flex;flex-wrap:wrap;gap:12px}.small-bundle-feature h2{margin-top:8px}.small-bundle-feature .draft-note{font-size:.9em}@media(max-width:700px){.small-bundle-feature{grid-template-columns:1fr}}'
 (PUBLIC / 'characters/assets/small-bundle.css').write_text(css + '\n')
-feature = f'<section class="report-section small-bundle-feature" id="boita-small-bundle"><div><p class="eyebrow">{translated("ନୂଆ ଗପ · ୧୯ ଅକ୍ଟୋବର ୨୦୨୬", "New story · 19 October 2026")}</p>{translated("ଛୋଟ ପୁଟୁଳି", "The Small Bundle", "h2")}{translated("ବାପାଙ୍କ ଯାତ୍ରା ଆଗରୁ ମାଳତୀ ଛୋଟ ପୁଟୁଳିଟି ଲୁଚାଇ ଆଉ ଟିକେ ସମୟ ପାଇବାକୁ ଚାହେଁ। ତା’ର ମନକଥା କହିବାର ଏକ ପୂରା ଗପ।", "Before her father sails, Malati holds back a small parcel to gain a little more time with him. A complete story about finding the words for what she wants.", "p")}<p class="draft-note">{translated("ଓଡ଼ିଆ ଓ ଇଂରାଜୀ · ୧୬ଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଆନୁମାନିକ ୨:୩୪। ପ୍ରଥମ ଖସଡ଼ା; କଣ୍ଠ ରେକର୍ଡ ହୋଇନି।", "Odia & English · 16 pencil frames · planned 2:34. First draft; voices not yet recorded.")}</p><div class="actions"><a class="button" href="{ROUTE}">{translated("ଗପ ଓ ଦୃଶ୍ୟ ଦେଖନ୍ତୁ", "Read the story & storyboard")}</a><a class="text-link" href="{ROUTE}{PACK}" download>{translated("ସବୁ ଫାଇଲ୍ ଡାଉନଲୋଡ୍", "Download story pack")}</a></div></div><a href="{ROUTE}"><img src="{ROUTE}assets/storyboard-sheet-1-v1.png" width="1536" height="1024" loading="lazy" alt="ମାଳତୀର ଛୋଟ ପୁଟୁଳି — ପ୍ରଥମ ଚାରିଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ" data-alt-or="ମାଳତୀର ଛୋଟ ପୁଟୁଳି — ପ୍ରଥମ ଚାରିଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ" data-alt-en="Malati’s small bundle — the first four pencil frames"/></a></section>'
+feature = f'<section class="report-section small-bundle-feature" id="boita-small-bundle"><div><p class="eyebrow">{translated("ନୂଆ ଗପ · ୧୯ ଅକ୍ଟୋବର ୨୦୨୬", "New story · 19 October 2026")}</p>{translated("ଛୋଟ ପୁଟୁଳି", "The Small Bundle", "h2")}{translated("ବାପାଙ୍କ ଯାତ୍ରା ଆଗରୁ ମାଳତୀ ଛୋଟ ପୁଟୁଳିଟି ଲୁଚାଇ ଆଉ ଟିକେ ସମୟ ପାଇବାକୁ ଚାହେଁ। ତା’ର ମନକଥା କହିବାର ଏକ ପୂରା ଗପ।", "Before her father sails, Malati holds back a small parcel to gain a little more time with him. A complete story about finding the words for what she wants.", "p")}<p class="draft-note">{translated("ଓଡ଼ିଆ ଓ ଇଂରାଜୀ · ୧୬ଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ · ଆନୁମାନିକ ୨:୩୪। ପ୍ରଥମ ଖସଡ଼ା; କଣ୍ଠ ସହ ଖସଡ଼ା ସମୀକ୍ଷାଧୀନ।", "Odia & English · 16 pencil frames · planned 2:34. First draft; voiced version under review.")}</p><div class="actions"><a class="button" href="{ROUTE}">{translated("ଗପ ଓ ଦୃଶ୍ୟ ଦେଖନ୍ତୁ", "Read the story & storyboard")}</a><a class="text-link" href="{ROUTE}{PACK}" download>{translated("ସବୁ ଫାଇଲ୍ ଡାଉନଲୋଡ୍", "Download story pack")}</a></div></div><a href="{ROUTE}"><img src="{ROUTE}assets/storyboard-sheet-1-v1.png" width="1536" height="1024" loading="lazy" alt="ମାଳତୀର ଛୋଟ ପୁଟୁଳି — ପ୍ରଥମ ଚାରିଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ" data-alt-or="ମାଳତୀର ଛୋଟ ପୁଟୁଳି — ପ୍ରଥମ ଚାରିଟି ପେନ୍‌ସିଲ୍ ଦୃଶ୍ୟ" data-alt-en="Malati’s small bundle — the first four pencil frames"/></a></section>'
 for name in ['index.html', 'boita-sadhaba.html', 'story-lab.html', 'design-path.html']:
     file = PUBLIC / 'characters' / name
     page = BeautifulSoup(file.read_text(), 'html.parser')
