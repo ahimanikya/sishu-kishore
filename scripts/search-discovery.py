@@ -88,7 +88,7 @@ for path in sorted(ROOT.rglob('*.html')):
  path.write_text(html);urls.append((canonical,image))
 assert article_count==len(articles),(article_count,len(articles))
 (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n'+''.join('<url><loc>'+escape(u)+'</loc>'+('<image:image><image:loc>'+escape(im)+'</image:loc></image:image>' if im else '')+'</url>\n' for u,im in urls)+'</urlset>\n')
-(ROOT/'robots.txt').write_text('''# Public reading is open to search and AI retrieval crawlers.
+(ROOT/'robots.txt').write_text('''# Public reading is open to search crawlers.
 # Editorial screens carry noindex; actual private data is protected by Firebase rules.
 User-agent: *
 Allow: /

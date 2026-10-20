@@ -1,4 +1,4 @@
-# Public reading is open to search and AI retrieval crawlers.
+# Public reading is open to search crawlers.
 # Editorial screens carry noindex; actual private data is protected by Firebase rules.
 User-agent: *
 Allow: /
