@@ -1,0 +1,28 @@
+(async()=>{
+const id=document.body.dataset.book,$=s=>document.querySelector(s),saved=k=>{try{return localStorage.getItem(k)}catch{return null}},save=(k,v)=>{try{localStorage.setItem(k,v)}catch{}};
+try{
+ const response=await fetch('books.json');if(!response.ok)throw Error('Book data unavailable');const book=(await response.json()).find(b=>b.id===id);const mobile=matchMedia('(max-width:760px)');
+ let current=0,enlarged=false,edition=saved('edition-'+id)||'illustrated',items=[];
+ const chapterFor=p=>{let n=0;book.toc.forEach((c,i)=>{if(c[1]<=p)n=i});return n};
+ function sequence(){items=[{kind:'cover',page:0}];for(let page=1;page<=book.pages;page++){const chapter=book.toc.findIndex(c=>c[1]===page);if(edition==='illustrated'&&chapter>=0&&!book.existingArtOpeners.includes(page))items.push({kind:'art',page,chapter});items.push({kind:'page',page})}}
+ function count(){return mobile.matches||enlarged||items[current].kind!=='page'||!items[current+1]||items[current+1].kind!=='page'?1:2}
+ function artImage(src,alt){const img=document.createElement('img');img.src=src;img.alt=alt;img.decoding='async';return img}
+ function leaf(item,single){const f=document.createElement('figure');f.className='leaf'+(single?' single':'');
+  if(item.kind==='cover'||item.kind==='art'){f.classList.add('reader-cover');const chapter=item.chapter??0;const heading=document.createElement('h2');heading.lang=book.lang;heading.textContent=item.kind==='cover'?book.title:book.toc[chapter][0];const img=artImage(item.kind==='cover'?`assets/${id}-opening-v1.jpg`:book.art[chapter],`New illustration for ${book.toc[chapter][0]}`);const author=document.createElement('p');author.lang=book.lang;author.textContent=item.kind==='cover'?book.author:'';const credit=document.createElement('small');credit.textContent=item.kind==='cover'?book.credit:`${chapter+1} / ${book.toc.length} · ${id==='forest'?'କାହାଣୀ':'Story'}`;f.append(heading,img,author,credit);return f}
+  const p=item.page,frame=document.createElement('div');frame.className='page-frame';const text=artImage(`assets/${id}${edition==='illustrated'?'-text':''}/page-${String(p).padStart(id==='frog'?3:2,'0')}.jpg`,`${book.roman}, printed text on source page ${p}`);text.width=book.pageSize[0];text.height=book.pageSize[1];frame.append(text);
+  if(edition==='illustrated'){for(const slot of book.slots[p-1]){const art=artImage(book.extra[String(p)]||book.art[chapterFor(p)],`New illustration for ${book.toc[chapterFor(p)][0]}`);art.className='replacement-art';art.style.cssText=`left:${slot.left}%;top:${slot.top}%;width:${slot.width}%;height:${slot.height}%;`;frame.append(art)}}
+  const cap=document.createElement('figcaption');cap.textContent=`${edition==='original'?'Original':'Source'} page ${p}`;f.append(frame,cap);return f;
+ }
+ function render(){current=Math.max(0,Math.min(items.length-1,current));const n=count(),item=items[current];$('#spread').replaceChildren(...items.slice(current,current+n).map(x=>leaf(x,n===1)));$('#jump').value=item.page;$('#position').textContent=item.kind==='cover'?'Cover':item.kind==='art'?`Story ${item.chapter+1} · Illustration`:`${item.page}${n>1?'–'+items[current+1].page:''} / ${book.pages}`;$('#prev').disabled=current===0;$('#next').disabled=current+n>=items.length;$('#contents').value=item.page===0?0:item.page<book.toc[0][1]?1:book.toc[chapterFor(item.page)][1];$('#edition').value=edition;save('book-'+id,JSON.stringify({page:item.page,kind:item.kind}));history.replaceState(null,'',`?page=${item.page}${item.kind==='art'?'&opening=1':''}`)}
+ function goIndex(i){current=i;render();window.scrollTo({top:0,behavior:'instant'})}
+ function goPage(p,opening=false){p=Math.max(0,Math.min(book.pages,Number.isFinite(p)?Math.floor(p):0));goIndex(Math.max(0,items.findIndex(x=>x.page===p&&(opening||x.kind!=='art'))))}
+ $('#next').onclick=()=>goIndex(Math.min(items.length-1,current+count()));$('#prev').onclick=()=>{let n=1;if(!mobile.matches&&!enlarged&&current>=2&&items[current-1].kind==='page'&&items[current-2].kind==='page')n=2;goIndex(Math.max(0,current-n))};
+ $('#jump').onchange=e=>goPage(Number(e.target.value));$('#contents').onchange=e=>goPage(Number(e.target.value),true);
+ $('#zoom').onclick=()=>{enlarged=!enlarged;document.body.classList.toggle('enlarged',enlarged);$('#zoom').textContent=enlarged?'Fit pages':'Enlarge';$('#zoom').setAttribute('aria-pressed',enlarged);render()};
+ $('#edition').onchange=e=>{const p=items[current].page;edition=e.target.value;save('edition-'+id,edition);sequence();goPage(p)};
+ function theme(){const night=saved('book-theme')==='night';document.body.classList.toggle('night',night);$('#theme').textContent=night?'Paper':'Night';$('#theme').setAttribute('aria-label',night?'Switch to paper theme':'Switch to night theme')};$('#theme').onclick=()=>{save('book-theme',document.body.classList.contains('night')?'paper':'night');theme()};
+ document.addEventListener('keydown',e=>{if(['INPUT','SELECT','BUTTON'].includes(e.target.tagName)||e.ctrlKey||e.metaKey||e.altKey)return;if(e.key==='ArrowRight'){e.preventDefault();$('#next').click()}if(e.key==='ArrowLeft'){e.preventDefault();$('#prev').click()}});mobile.addEventListener('change',render);sequence();theme();
+ const params=new URLSearchParams(location.search);let place={page:0,kind:'cover'};try{const v=JSON.parse(saved('book-'+id)||'0');place=typeof v==='number'?{page:v,kind:'page'}:v}catch{}
+ if(params.has('page'))place={page:Number(params.get('page')),kind:params.has('opening')?'art':'page'};goPage(Number(place.page),place.kind==='art');
+}catch(e){$('#spread').textContent='The reader could not load. Please use the Original PDF link above.'}
+})();

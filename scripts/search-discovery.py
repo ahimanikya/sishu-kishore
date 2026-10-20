@@ -43,7 +43,7 @@ for path in sorted(ROOT.rglob('*.html')):
  html=path.read_text();tree=Tree(html);nodes=list(tree.root.all());route='/'+path.relative_to(ROOT).as_posix();actual=route[:-10] if route.endswith('index.html') else route
  canonical=next((n.attrs.get('href','') for n in nodes if n.tag=='link' and n.attrs.get('rel')=='canonical'),ORIGIN+actual)
  redirect=any(n.tag=='meta' and n.attrs.get('http-equiv','').lower()=='refresh' for n in nodes)
- private=route.startswith('/editorial/') or '/books/' in route and '/page-' in route or route in ('/404.html','/unavailable.html')
+ private=route.endswith(('-proofread.html', '-pages.html')) or route.startswith('/editorial/') or '/books/' in route and '/page-' in route or route in ('/404.html','/unavailable.html')
  indexable=not redirect and not private and canonical==ORIGIN+actual and actual.startswith('/shishu/')
  html=re.sub(r'<script\b[^>]*id="search-structured-data"[^>]*>.*?</script>','',html,flags=re.S)
  html=re.sub(r'<link\b[^>]*data-search-discovery="true"[^>]*>','',html)

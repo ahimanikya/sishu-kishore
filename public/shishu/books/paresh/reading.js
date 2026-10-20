@@ -1,0 +1,1 @@
+let size=23;document.querySelector('#stories').onchange=e=>{location.hash=e.target.value};for(const [id,delta] of [['smaller',-2],['larger',2]])document.getElementById(id).onclick=()=>{size=Math.min(35,Math.max(17,size+delta));document.documentElement.style.setProperty('--reading-size',size+'px')};
