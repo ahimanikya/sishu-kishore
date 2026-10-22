@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-22",
+  "method": "AI-assisted image edits directed by Ahimanikya",
+  "credit": "Original story wording · New illustrations by Ahimanikya",
+  "records": [
+    {
+      "key": "monkey",
+      "source": "forest-opening-v1.jpg",
+      "prompt": "Edit this existing Odia children’s storybook illustration. Correct ONLY the monkey anatomy at right center. It currently has three arms/hands (one scratching head plus TWO reaching ground). Give it exactly TWO arms: retain the arm scratching its head and ONE arm resting on ground; remove the extra central downward arm and extra hand, restoring chest fur. Retain two bent hind legs and two feet anatomically attached and its one tail. Preserve the existing landscape 3:2 composition, all characters, faces, story action, background, colours, ink outlines and traditional cartoon illustration style. No text or signatures. Minimal surgical change; do not add characters. Save the corrected standalone illustration.",
+      "generated": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-7c890fbc-ec27-4ca1-9ca2-440dd7892592.png",
+      "replacement": "assets/forest-opening-v1-anatomy-v2.jpg"
+    },
+    {
+      "key": "goat",
+      "source": "forest-art/chapter-06.jpg",
+      "prompt": "Edit this existing Odia children’s storybook illustration. Correct ONLY anatomy. The little white goat at left has FIVE legs. Remove the extra middle leg under belly, leaving exactly FOUR total legs: two hind legs, one grounded foreleg and one raised foreleg. Keep hooves. Ensure grey wolf at right has exactly four total limbs with rounded canine paws, no extra paws. Preserve its fleeing crouch and expression. Preserve the existing landscape 3:2 composition, all characters, faces, story action, background, colours, ink outlines and traditional cartoon illustration style. No text or signatures. Minimal surgical change; do not add characters. Save the corrected standalone illustration.",
+      "generated": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-126c328f-9cb7-4f6a-9c95-b211035c9954.png",
+      "replacement": "assets/forest-art/chapter-06-anatomy-v2.jpg"
+    },
+    {
+      "key": "wolf",
+      "source": "forest-art/chapter-06-extra-01.jpg",
+      "prompt": "Edit this existing Odia children’s storybook illustration. Correct ONLY grey wolf anatomy: it has a human-like outstretched hand and ambiguous extra legs. Give this wolf exactly FOUR total limbs with anatomical canine joints: two hind legs, one supporting foreleg and one foreleg extended toward path ending in a compact furry canine PAW, no human fingers or thumb. Preserve its cunning expression and gesture direction. Keep goat with exactly four hooved legs. Preserve the existing landscape 3:2 composition, all characters, faces, story action, background, colours, ink outlines and traditional cartoon illustration style. No text or signatures. Minimal surgical change; do not add characters. Save the corrected standalone illustration.",
+      "generated": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-95446d8f-e658-414d-a6e4-2621a36d8faf.png",
+      "replacement": "assets/forest-art/chapter-06-extra-01-anatomy-v2.jpg"
+    },
+    {
+      "key": "egret",
+      "source": "forest-art/chapter-08.jpg",
+      "prompt": "Edit this existing Odia children’s storybook illustration. Correct ONLY white egret bird anatomy. Foreground left egret has THREE legs. Give it exactly TWO thin dark bird legs each clearly attached under belly and ending in bird toes; remove the extra bent leg and foot, restore sand. Inspect each of the five white egrets and keep no more than TWO legs per bird, two wings. Keep fishing net, crocodile and crows unchanged. Preserve the existing landscape 3:2 composition, all characters, faces, story action, background, colours, ink outlines and traditional cartoon illustration style. No text or signatures. Minimal surgical change; do not add characters. Save the corrected standalone illustration.",
+      "generated": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-1982d06f-2dae-4c00-82c7-c6e69b71e4b2.png",
+      "replacement": "assets/forest-art/chapter-08-anatomy-v2.jpg"
+    }
+  ],
+  "pdfPages": 61,
+  "pdfReplacedImages": [
+    {
+      "image": "assets/forest-opening-v1.jpg",
+      "xref": 125
+    },
+    {
+      "image": "assets/forest-art/chapter-06.jpg",
+      "xref": 133
+    },
+    {
+      "image": "assets/forest-art/chapter-06-extra-01.jpg",
+      "xref": 134
+    },
+    {
+      "image": "assets/forest-art/chapter-08.jpg",
+      "xref": 137
+    }
+  ],
+  "pdfChangedPages": [
+    1,
+    4,
+    27,
+    29,
+    42
+  ],
+  "storyTextPreserved": true,
+  "status": "Verified locally; user approved publication on 22 October 2026"
+}

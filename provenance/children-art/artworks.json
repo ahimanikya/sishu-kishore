@@ -1,6 +1,11 @@
 {
   "source": "https://www.shishukishora.com/activity_children.php",
   "retrieved": "2026-10-10",
+  "homepage_issue": {
+    "number": 34,
+    "edition_title": "ଅକ୍ଟୋବର: ୨୦୨୬",
+    "edition_route": "/shishu/current_issue.html"
+  },
   "artworks": [
     {
       "source": "https://www.shishukishora.com/images/Soumya Sekhar 34-50kb.jpg",

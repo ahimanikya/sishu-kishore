@@ -5,16 +5,16 @@ import fs from 'node:fs';
 
 const source=fs.readFileSync(new URL('../public/shishu-magazine.js',import.meta.url),'utf8');
 const ids=Array.from({length:25},(_,i)=>`/shishu/article-${i}.html`);
-function visit({storage=new Map(),state=null,random=()=>0.25,blocked=false,home=true,articles=ids}={}){
+function visit({state=null,random=()=>0.25,blocked=false,home=true,articles=ids,navigation='navigate'}={}){
  const cards=articles.map(id=>({id,querySelector:()=>({getAttribute:()=>id})}));
  const list={children:[...cards],append(...nodes){this.children=nodes;}};
- const history={state,replaceState(value){this.state=value;}};
+ const history={state,replaceState(value){if(blocked)throw Error('history disabled');this.state=value;}};
  vm.runInNewContext(source,{
   document:{querySelector:s=>home&&s==='.mag-home-articles #issue-articles'?list:null,querySelectorAll:()=>[]},
-  sessionStorage:{getItem:k=>{if(blocked)throw Error('storage disabled');return storage.get(k)??null;},setItem(k,v){if(blocked)throw Error('storage disabled');storage.set(k,v);}},
+  performance:{getEntriesByType:()=>[{type:navigation}]},
   history,Math:Object.assign(Object.create(Math),{random})
  });
- return {order:list.children.map(c=>c.id),cards,list,storage,state:history.state};
+ return {order:list.children.map(c=>c.id),cards,list,state:history.state};
 }
 
 test('a fresh visit shuffles every original card exactly once, retaining its link and identity',()=>{
@@ -23,28 +23,35 @@ test('a fresh visit shuffles every original card exactly once, retaining its lin
  assert.notDeepEqual(a.order,ids);assert.notDeepEqual(a.order,b.order);
  assert.ok(a.list.children.every(c=>a.cards.includes(c)));
 });
-test('reload and returning via a homepage link retain the session order',()=>{
+test('reload and returning via a homepage link reshuffle even with a previously saved order',()=>{
  const a=visit();
- const b=visit({storage:a.storage,random:()=>{throw Error('must not reshuffle');}});
- const c=visit({state:a.state,random:()=>{throw Error('must not reshuffle');}});
- assert.deepEqual(b.order,a.order);assert.deepEqual(c.order,a.order);
+ for(const navigation of ['navigate','reload']){
+  const b=visit({state:a.state,navigation,random:()=>0.75});
+  assert.notDeepEqual(b.order,a.order);
+  assert.deepEqual([...b.order].sort(),[...ids].sort());
+ }
 });
-test('history preserves return order when session storage is disabled and keeps other state',()=>{
- const a=visit({blocked:true,state:{readerOrigin:'kept'}});
+test('Back/Forward preserves the reader’s place and unrelated history state',()=>{
+ const a=visit({state:{readerOrigin:'kept'}});
  assert.equal(a.state.readerOrigin,'kept');
- const b=visit({blocked:true,state:a.state,random:()=>{throw Error('must not reshuffle');}});
+ const b=visit({state:a.state,navigation:'back_forward',random:()=>{throw Error('must not reshuffle');}});
  assert.deepEqual(b.order,a.order);
 });
+test('all articles remain available when saving history is unavailable',()=>{
+ const a=visit({blocked:true});
+ assert.deepEqual([...a.order].sort(),[...ids].sort());
+ assert.notDeepEqual(a.order,ids);
+});
 test('changed contents and corrupt or duplicate saved IDs cannot omit or duplicate an article',()=>{
- for(const saved of ['bad json',JSON.stringify(ids.slice(1)),JSON.stringify(ids.map(()=>ids[0])),JSON.stringify([...ids.slice(1),'/old-issue.html'])]){
-  const a=visit({storage:new Map([['sishu-home-article-order-v1',saved]])});
+ for(const saved of ['bad data',ids.slice(1),ids.map(()=>ids[0]),[...ids.slice(1),'/old-issue.html']]){
+  const a=visit({state:{sishuHomeArticleOrder:saved},navigation:'back_forward'});
   assert.deepEqual([...a.order].sort(),[...ids].sort());
  }
- const first=visit();const next=visit({storage:first.storage,articles:[...ids,'/shishu/new.html']});
+ const first=visit();const next=visit({state:first.state,navigation:'back_forward',articles:[...ids,'/shishu/new.html']});
  assert.equal(next.order.length,26);assert.equal(new Set(next.order).size,26);
  assert.ok(next.order.includes('/shishu/new.html'));
 });
-test('issue and other non-home pages do not reorder or write session state',()=>{
+test('issue and other non-home pages do not reorder or write history state',()=>{
  const a=visit({home:false,random:()=>{throw Error('must not shuffle');}});
- assert.deepEqual(a.order,ids);assert.equal(a.storage.size,0);assert.equal(a.state,null);
+ assert.deepEqual(a.order,ids);assert.equal(a.state,null);
 });

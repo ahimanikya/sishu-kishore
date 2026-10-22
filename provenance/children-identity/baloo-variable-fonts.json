@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-20",
+  "family": "Baloo Bhaina 2",
+  "designer": "Ek Type",
+  "weight_range": [
+    400,
+    800
+  ],
+  "specimen": "https://fonts.google.com/specimen/Baloo+Bhaina+2",
+  "css_source": "https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400..800&display=swap",
+  "license": "public/fonts/baloo-bhaina-2-OFL.txt",
+  "files": [
+    {
+      "file": "public/fonts/baloo-bhaina-2-variable-oriya.woff2",
+      "source": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySizlkjQKuYoJZuQ.woff2",
+      "bytes": 80500,
+      "sha256": "9f007ede4faded1af27ca4e72025304f9cb48a952f3ca4c7bb5e9082f2f723f7"
+    },
+    {
+      "file": "public/fonts/baloo-bhaina-2-variable-vietnamese.woff2",
+      "source": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySizzkjQKuYoJZuQ.woff2",
+      "bytes": 9936,
+      "sha256": "0b49ba651fe0b3dce8a00ba747a182751932126e96fe11f24f28548dd811a179"
+    },
+    {
+      "file": "public/fonts/baloo-bhaina-2-variable-latin-ext.woff2",
+      "source": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySizykjQKuYoJZuQ.woff2",
+      "bytes": 27440,
+      "sha256": "f4b33c53faa0a2392f368388ee0d539c93c932a28be6208b72dcedbf0756bc1e"
+    },
+    {
+      "file": "public/fonts/baloo-bhaina-2-variable-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySiz8kjQKuYoJ.woff2",
+      "bytes": 34284,
+      "sha256": "397c97198a6c1d0e0ca9ee095ef7fe78bc30113cab8a8500dedfd967cd2a9934"
+    }
+  ]
+}

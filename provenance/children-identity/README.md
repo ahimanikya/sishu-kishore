@@ -12,14 +12,14 @@ The magazine's own cheerful identity, using its existing cartoon artwork and Odi
 - Light papers: #FFF8DF, #E5F3FC, #FFF0E9, #E6F5EB — quiet supporting surfaces; never separate section gradients.
 
 ## Typography
-Use locally hosted Noto Sans Oriya for Odia, DM Sans fallback for Latin. Baloo Bhaina 2 SemiBold (600) for titles and section headings; Noto Sans Oriya 600 navigation; 400 story text. No artificial spacing between Odia letters. Main headings 30–48px, article headings 26–36px, card headings 21–23px, body text retains adjustable reading size and generous 1.95 line-height. Preserve original paragraph and poem breaks.
+User direction, 20 October 2026: use locally hosted Baloo Bhaina 2 throughout the magazine, including stories, navigation, controls and verified ebook text. Use Regular (400) for reading text, SemiBold (600) for headings and navigation, and existing stronger control weights where appropriate. The variable font provides weights 400–800; Noto Sans Oriya and DM Sans remain fallbacks. No artificial spacing between Odia letters. Main headings 30–48px, article headings 26–36px, card headings 21–23px, body text retains adjustable reading size and generous 1.95 line-height. Preserve original paragraph and poem breaks.
 
 ## Shapes and restraint
 Rounded 14–20px controls and cards, 44px minimum controls, simple flat colours and shallow printed shadows. Use three-colour section markers and existing corner kite/leaf drawings. No animation or new imagery needed. Do not recolour printed covers. Keep night-mode contrast and the plain-paper choice. A colour is never the only signal for an action or current state.
 
 Implementation: public/children-identity.css. Existing story-wash palettes remain tied to each article. Public prose is unchanged.
 
-Baloo Bhaina 2 SemiBold is locally hosted as WOFF2 subsets, with its SIL Open Font License in public/fonts/baloo-bhaina-2-OFL.txt. Source: Google Fonts / Ek Type. Story text and navigation retain Noto Sans Oriya.
+Baloo Bhaina 2 is locally hosted as variable WOFF2 subsets, with its SIL Open Font License in public/fonts/baloo-bhaina-2-OFL.txt. Source: Google Fonts / Ek Type. Exact source URLs and file hashes are in baloo-variable-fonts.json. The older semibold assets remain preserved. The build updates Odia preloads to the variable face and fingerprints the shared identity stylesheet.
 
 The web-page colour wash now spans the full document, with transparent header, issue introduction, editorial section and footer. Article text uses the shared canvas; plain-paper and night controls still disable the wash. Cards retain their quiet solid surfaces and the fullscreen reader retains its printed paper treatment.
 
@@ -42,7 +42,7 @@ Sishu Kishore is a warm, curious Odia children's magazine. Its signature is blue
 - Section signatures use a short sunshine stroke and coral dot. The existing kite marks the issue introduction; avoid adding decoration beside every paragraph.
 
 ### Reading and artwork
-Baloo Bhaina 2 600 is display-only. Noto Sans Oriya remains the reading and control font. Keep generous line spacing, original poems and paragraphs, and adjustable reader type. The fullscreen reader retains quiet paper, continuous Odia folios, night mode and the plain-paper option. Use culturally grounded outlined 2D cartoons, expressive gestures and flat colours. Printed covers and editorial content remain untouched.
+Baloo Bhaina 2 is the reading, heading and control font; the former display-only restriction is superseded by the user's 20 October direction. Keep generous line spacing, original poems and paragraphs, and adjustable reader type. The fullscreen reader retains quiet paper, continuous Odia folios, night mode and the plain-paper option. Use culturally grounded outlined 2D cartoons, expressive gestures and flat colours. Printed covers, scanned pages and editorial content remain untouched.
 
 ### Maintenance
 `public/children-identity.css` is the shared identity layer; all magazine pages load the same version. Add future colour and component rules there, using its semantic tokens. Keep this guide with the repository so future issues follow the same system. Check desktop and 390px phone layouts, focus states, reading contrast and the site build before publishing.
