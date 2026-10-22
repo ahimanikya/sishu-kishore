@@ -12,7 +12,7 @@ def issue_number(artwork):return int(re.search(r'\d+',artwork['issue'])[0])
 home_items=[(i,a) for i,a in enumerate(items) if issue_number(a)==home_issue['number']]
 od=lambda s:str(s).translate(str.maketrans('0123456789','୦୧୨୩୪୫୬୭୮୯'))
 esc=escape
-home=(public/'shishu/index.html').read_text();home=re.sub(r'<section class="art-home".*?</section>','',home,flags=re.S);head=home.split('<head>',1)[1].split('</head>',1)[0].replace('<link rel="stylesheet" href="/children-art.css?v=1">','')
+home=(public/'index.html').read_text();home=re.sub(r'<section class="art-home".*?</section>','',home,flags=re.S);head=home.split('<head>',1)[1].split('</head>',1)[0].replace('<link rel="stylesheet" href="/children-art.css?v=1">','')
 head=re.sub(r'<script\b[^>]*>.*?</script>','',head,flags=re.S)
 head=re.sub(r'<meta\b[^>]*>|<link\b[^>]*rel="canonical"[^>]*>|<title>.*?</title>','',head,flags=re.S)
 header=re.search(r'<header class="ia-header".*?</header>',home,re.S)[0];footer=re.search(r'<footer.*?</footer>',home,re.S)[0]
@@ -37,7 +37,7 @@ def card(i,a,mini=False):
  if not mini:caption+=f'<p class="art-school">{esc(a["caption"])}</p><p class="art-source-issue">{esc(a["issue"])}</p>'
  return f'<figure class="art-card">{frame}{caption}</figcaption></figure>'
 sections=''.join(f'<section class="art-edition" aria-labelledby="art-issue-{n}"><h2 id="art-issue-{n}">ସଂଖ୍ୟା {od(n)}</h2><div class="art-grid">'+''.join(card(i,a) for i,a in group)+'</div></section>' for n,group in groups.items())
-html=f'<!doctype html><html lang="or"><head>{meta}{head}<link rel="stylesheet" href="/children-art.css?v=1"></head><body class="shishu ia-site"><a class="ia-skip" href="#main">ସିଧା ଚିତ୍ରକୁ ଯାଆନ୍ତୁ</a>{header}<main id="main" class="ia-main art-gallery"><nav class="ia-breadcrumb"><a href="/shishu/">← ମୂଳ ପୃଷ୍ଠା</a></nav>{intro}{nav}{sections}</main>{footer}<script defer src="/kid-ux.js?v=1"></script><script defer src="/share.js?v=release-v2"></script></body></html>'
+html=f'<!doctype html><html lang="or"><head>{meta}{head}<link rel="stylesheet" href="/children-art.css?v=1"></head><body class="shishu ia-site"><a class="ia-skip" href="#main">ସିଧା ଚିତ୍ରକୁ ଯାଆନ୍ତୁ</a>{header}<main id="main" class="ia-main art-gallery"><nav class="ia-breadcrumb"><a href="/">← ମୂଳ ପୃଷ୍ଠା</a></nav>{intro}{nav}{sections}</main>{footer}<script defer src="/kid-ux.js?v=1"></script><script defer src="/share.js?v=release-v2"></script></body></html>'
 if not home_only:(public/'shishu/activity_children.html').write_text(html)
 # Home shows every drawing from the current issue; the gallery retains all issues.
 preview=f'<section class="art-home" id="home-art" data-issue-number="{home_issue["number"]}" aria-labelledby="art-home-title"><div class="art-home-heading"><div><p class="art-eyebrow">ଚଳିତ ସଂଖ୍ୟା · ପିଲାଙ୍କ ତୂଳୀରୁ</p><h2 id="art-home-title">ପିଲାଙ୍କ ଚିତ୍ର</h2></div><a class="art-gallery-link" href="/shishu/activity_children.html">ଚିତ୍ରଶାଳା →</a></div><div class="art-grid">'+''.join(card(i,a,True) for i,a in home_items)+'</div></section>'
@@ -48,7 +48,7 @@ shortcuts=re.search(r'<nav\b[^>]*class="mag-shortcuts".*?</nav>',home,re.S)
 if shortcuts:
  home=home.replace(shortcuts[0],'').replace('<section class="mag-editor-link">',shortcuts[0]+'<section class="mag-editor-link">')
 home=re.sub(r'(<a href="#home-art">).*?(</a>)',lambda m:m[1]+f'ପିଲାଙ୍କ ଚିତ୍ର · {od(len(home_items))} ↓'+m[2],home)
-(public/'shishu/index.html').write_text(home)
+(public/'index.html').write_text(home)
 if home_only:
  print(f'Updated homepage: {len(home_items)} current-issue drawings (issue {home_issue["number"]}) and their credits; full gallery unchanged.')
  sys.exit(0)

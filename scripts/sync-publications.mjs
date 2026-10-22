@@ -3,7 +3,7 @@ const cfg=JSON.parse(fs.readFileSync('scripts/site.json','utf8')),root=path.reso
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const registry='provenance/published.json',old=fs.existsSync(registry)?JSON.parse(fs.readFileSync(registry,'utf8')):{files:[],targets:[]};
 const start='<!-- approved-publications:start -->',end='<!-- approved-publications:end -->';
-const safe=p=>{if(typeof p!=='string'||!p.startsWith(cfg.prefix+'/')||p.includes('..')||!p.endsWith('.html'))throw Error('Invalid publication route');return path.join(root,p);};
+const safe=p=>{if(typeof p!=='string'||(p!=='/index.html'&&!p.startsWith(cfg.prefix+'/'))||p.includes('..')||!p.endsWith('.html'))throw Error('Invalid publication route');return path.join(root,p);};
 const {fetchPublished}=await import('./lib/publications-feed.mjs');
 let records=process.env.NODE_ENV==='test' && process.env.PUBLICATIONS_FIXTURE?JSON.parse(fs.readFileSync(process.env.PUBLICATIONS_FIXTURE,'utf8')):await fetchPublished({projectId:cfg.projectId});
 records=records.filter(d=>d.state==='published').sort((a,b)=>a.id.localeCompare(b.id));
@@ -16,13 +16,13 @@ const catalogPath=path.join(root,'edition-reader.json');
 const catalog=fs.existsSync(catalogPath)?JSON.parse(fs.readFileSync(catalogPath,'utf8')):{};
 for(const edition of Object.values(catalog))edition.items=edition.items.filter(item=>!item.href.startsWith(cfg.prefix+'/published/'));
 for(const d of records)if(d.kind==='article'&&!catalog[d.issue])throw Error('Article issue is missing from reader catalog');
-const fingerprint=crypto.createHash('sha256').update(JSON.stringify({version:2,records})).digest('hex');if(old.fingerprint===fingerprint){console.log('Approved publications unchanged.');process.exit(0);}
+const fingerprint=crypto.createHash('sha256').update(JSON.stringify({version:3,records})).digest('hex');if(old.fingerprint===fingerprint){console.log('Approved publications unchanged.');process.exit(0);}
 // Validation finishes before touching previously published files.
 for(const p of old.targets){const f=safe(p);if(fs.existsSync(f)){const s=fs.readFileSync(f,'utf8');fs.writeFileSync(f,s.replace(/<!-- approved-publications:start -->[\s\S]*?<!-- approved-publications:end -->/g,''));}}
 for(const p of old.files){const f=safe(p);if(p.includes('/published/')||p.includes('/writers/published-'))fs.rmSync(f,{force:true});}
 const manifest=fs.existsSync('provenance/social-previews.json')?JSON.parse(fs.readFileSync('provenance/social-previews.json','utf8')):[];
 const socialFor=src=>manifest.find(x=>x.source===src)?.image||manifest.find(x=>x.source===cfg.fallback)?.image||src;
-const home=fs.readFileSync(path.join(root,cfg.prefix,'index.html'),'utf8');const header=home.match(/<header\b[^>]*>[\s\S]*?<\/header>/)?.[0]||'';
+const home=fs.readFileSync(path.join(root,'index.html'),'utf8');const header=home.match(/<header\b[^>]*>[\s\S]*?<\/header>/)?.[0]||'';
 const footer=home.match(/<footer\b[^>]*>[\s\S]*?<\/footer>/)?.[0]||'';
 const styles=[...home.matchAll(/<link\b[^>]*rel="stylesheet"[^>]*>|<link\b[^>]*href="[^"]+\.css[^>]*>/g)].map(m=>m[0]).join('');
 const files=[],targets=new Map();
@@ -57,6 +57,6 @@ for(const [issueRoute,edition] of Object.entries(catalog))for(let i=0;i<edition.
 if(fs.existsSync(catalogPath))fs.writeFileSync(catalogPath,JSON.stringify(catalog)+'\n');
 
 for(const [route,w]of writers){if(Object.values(knownWriters).includes(route)){append(route,w.cards.join(''));}else{save(route,render(route,w.name,`<h1>${esc(w.name)}</h1><ul>${w.cards.join('')}</ul>`));append('/shishu/writers.html',`<li><a href="${route}">${esc(w.name)}</a></li>`);}}
-if(cards.length){const route=cfg.prefix+'/published/index.html';save(route,render(route,'Published writing',`<h1>Published writing</h1><ul>${cards.join('')}</ul>`));append(cfg.prefix+'/index.html',`<li><a href="${route}">Published writing →</a></li>`);}
+if(cards.length){const route=cfg.prefix+'/published/index.html';save(route,render(route,'Published writing',`<h1>Published writing</h1><ul>${cards.join('')}</ul>`));append('/index.html',`<li><a href="${route}">Published writing →</a></li>`);}
 for(const [route,html]of targets){const f=safe(route),s=fs.readFileSync(f,'utf8');fs.writeFileSync(f,s.replace('</main>',`${start}<section class="ia-published"><ul>${html}</ul></section>${end}</main>`));}
 fs.writeFileSync(registry,JSON.stringify({fingerprint,files,targets:[...targets.keys()]},null,2)+'\n');console.log(`Published ${records.length} approved items; private submissions never fetched.`);

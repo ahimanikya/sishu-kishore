@@ -60,6 +60,7 @@ for path in sorted(SCOPE.rglob('*.html')):
     before=soup.body.get_text() if soup.body else ''
     relative='/'+path.relative_to(ROOT).as_posix()
     route=relative.removesuffix('index.html') if relative.endswith('/index.html') else relative
+    if relative == '/shishu/index.html': route = '/'  # Retired homepage redirects to the root.
     title=soup.title.get_text(' ',strip=True) if soup.title else 'ଶିଶୁ କିଶୋର'
     # Use an existing excerpt, never fabricate editorial descriptions.
     excerpt=soup.select_one('.ia-prose .subject, .ia-prose p, main > p, main header p')

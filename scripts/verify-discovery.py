@@ -5,8 +5,9 @@ root=Path('public'); origin='https://shishukishora.com'
 ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
 urls=[e.text for e in ET.parse(root/'sitemap.xml').findall('.//s:loc',ns)]
 assert len(urls)==len(set(urls))
+assert origin+'/' in urls and origin+'/shishu/' not in urls
 for url in urls:
- assert url.startswith(origin+'/shishu/') and '/editorial/' not in url and '/page-' not in url
+ assert (url == origin+'/' or url.startswith(origin+'/shishu/')) and '/editorial/' not in url and '/page-' not in url
  route=urlparse(url).path;file=root/(route.lstrip('/')+('index.html' if route.endswith('/') else ''));html=file.read_text()
  assert 'noindex' not in re.search(r'<meta name="robots"[^>]+>',html)[0]
  data=json.loads(re.search(r'<script id="search-structured-data" type="application/ld\+json">(.*?)</script>',html,re.S)[1]);assert data['@context']=='https://schema.org'

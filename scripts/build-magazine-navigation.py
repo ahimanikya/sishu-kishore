@@ -3,9 +3,9 @@ from pathlib import Path
 import re
 
 root = Path(__file__).resolve().parents[1]
-pages = root / 'public/shishu'
+pages = root / 'public'
 nav_pattern = re.compile(r'(<nav aria-label="Main navigation">)(.*?)(</nav>)', re.S)
-home_pattern = re.compile(r'<a\b[^>]*href="/shishu/"[^>]*>.*?</a>', re.S)
+home_pattern = re.compile(r'<a\b[^>]*href="/"[^>]*>.*?</a>', re.S)
 edition_pattern = re.compile(r'<a\b[^>]*href="/shishu/current_issue\.html"[^>]*>.*?</a>', re.S)
 changed = 0
 
@@ -17,9 +17,9 @@ for path in pages.rglob('*.html'):
         if not home_pattern.search(content):
             return match[0]
         home_current = ' aria-current="page"' if path == pages / 'index.html' else ''
-        edition_current = ' aria-current="page"' if path == pages / 'current_issue.html' else ''
+        edition_current = ' aria-current="page"' if path == pages / 'shishu/current_issue.html' else ''
         links = (
-            f'<a{home_current} data-kid-icon="home" href="/shishu/">ମୂଳ ପୃଷ୍ଠା</a>'
+            f'<a{home_current} data-kid-icon="home" href="/">ମୂଳ ପୃଷ୍ଠା</a>'
             f'<a{edition_current} data-kid-icon="book" href="/shishu/current_issue.html">ଚଳିତ ସଂଖ୍ୟା</a>'
         )
         content = edition_pattern.sub('', content)

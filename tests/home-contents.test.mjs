@@ -55,3 +55,19 @@ test('issue and other non-home pages do not reorder or write history state',()=>
  const a=visit({home:false,random:()=>{throw Error('must not shuffle');}});
  assert.deepEqual(a.order,ids);assert.equal(a.state,null);
 });
+
+
+test('root serves the magazine and old home links preserve anchors and queries',()=>{
+ const home=fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8');
+ const old=fs.readFileSync(new URL('../public/shishu/index.html',import.meta.url),'utf8');
+ assert.ok(home.includes('mag-home-articles'));
+ assert.ok(!/http-equiv=["']refresh["']/i.test(home));
+ assert.ok(home.includes('href="https://shishukishora.com/" rel="canonical"'));
+ assert.ok(home.includes('aria-current="page" data-kid-icon="home" href="/"'));
+ const redirect=[...old.matchAll(/<script[^>]*>([\s\S]*?)<\/script>/g)].map(m=>m[1]).find(s=>s.includes('location.replace'));
+ let destination;
+ vm.runInNewContext(redirect,{location:{search:'?source=bookmark',hash:'#home-art',replace:url=>{destination=url;}}});
+ assert.equal(destination,'/?source=bookmark#home-art');
+ const issue=fs.readFileSync(new URL('../public/shishu/current_issue.html',import.meta.url),'utf8');
+ assert.ok(issue.includes('aria-current="page" data-kid-icon="book" href="/shishu/current_issue.html"'));
+});

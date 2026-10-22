@@ -21,6 +21,8 @@ test('approved article joins reader/discovery; withdrawal removes every generate
   assert.ok(catalog()['/shishu/current_issue.html'].items.some(i=>i.href===route));
   assert.ok(JSON.parse(fs.readFileSync(path.join(dir,'public/content-index.json'))).articles.some(i=>i.url===cfg.origin+route));
   assert.ok(fs.existsSync(path.join(dir,`public/reading-text/${id}.txt`)));
+  assert.ok(fs.readFileSync(path.join(dir,'public/index.html'),'utf8').includes('Published writing →'));
+  assert.ok(!fs.readFileSync(path.join(dir,'public/shishu/index.html'),'utf8').includes('Published writing →'));
   run([{...record,state:'withdrawn'}]);
   assert.ok(!fs.existsSync(path.join(dir,'public',route)));
   assert.ok(!fs.existsSync(path.join(dir,`public/reading-text/${id}.txt`)));

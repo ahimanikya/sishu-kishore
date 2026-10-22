@@ -44,7 +44,7 @@ for path in sorted(ROOT.rglob('*.html')):
  canonical=next((n.attrs.get('href','') for n in nodes if n.tag=='link' and n.attrs.get('rel')=='canonical'),ORIGIN+actual)
  redirect=any(n.tag=='meta' and n.attrs.get('http-equiv','').lower()=='refresh' for n in nodes)
  private=route=='/shishu/books/paresh/frog.html' or route.endswith(('-proofread.html', '-pages.html')) or route.startswith('/editorial/') or '/books/' in route and '/page-' in route or route in ('/404.html','/unavailable.html')
- indexable=not redirect and not private and canonical==ORIGIN+actual and actual.startswith('/shishu/')
+ indexable=not redirect and not private and canonical==ORIGIN+actual and (actual == '/' or actual.startswith('/shishu/'))
  html=re.sub(r'<script\b[^>]*id="search-structured-data"[^>]*>.*?</script>','',html,flags=re.S)
  html=re.sub(r'<link\b[^>]*data-search-discovery="true"[^>]*>','',html)
  if not indexable:
@@ -58,9 +58,9 @@ for path in sorted(ROOT.rglob('*.html')):
  description=clean(meta(nodes,'description'))
  if not description or description==title:description=(clean(text)[:180] if text else title+' · ଶିଶୁ କିଶୋର')
  html=setmeta(html,'description',description);html=setmeta(html,'robots','index, follow, max-image-preview:large')
- web={'@type':'WebPage','@id':canonical+'#page','url':canonical,'name':title,'description':description,'inLanguage':'or','isPartOf':{'@id':ORIGIN+'/shishu/#website'}}
+ web={'@type':'WebPage','@id':canonical+'#page','url':canonical,'name':title,'description':description,'inLanguage':'or','isPartOf':{'@id':ORIGIN+'/#website'}}
  if image:web['primaryImageOfPage']={'@type':'ImageObject','url':image}
- graph=[{'@type':'WebSite','@id':ORIGIN+'/shishu/#website','url':ORIGIN+'/shishu/','name':'ଶିଶୁ କିଶୋର','alternateName':'Sishu Kishore','inLanguage':'or'},web]
+ graph=[{'@type':'WebSite','@id':ORIGIN+'/#website','url':ORIGIN+'/','name':'ଶିଶୁ କିଶୋର','alternateName':'Sishu Kishore','inLanguage':'or'},web]
  if route in articles:
   item=articles[route];title=item['title'];assert text.strip(),route
   article={'@type':'Article','@id':canonical+'#article','headline':title,'inLanguage':'or','url':canonical,'mainEntityOfPage':{'@id':canonical+'#page'},'image':image,'isPartOf':{'@type':'PublicationIssue','name':item['edition'],'url':ORIGIN+item['issue']},'isAccessibleForFree':True}
@@ -71,7 +71,7 @@ for path in sorted(ROOT.rglob('*.html')):
   html=html.replace('</head>','<link data-search-discovery="true" rel="alternate" type="text/plain" href="'+texturl+'" title="Article text"/></head>')
   records.append({'type':'Article','title':title,'author':item.get('byline',''),'edition':item['edition'],'editionUrl':ORIGIN+item['issue'],'url':canonical,'textUrl':ORIGIN+texturl,'image':image,'language':'or'});article_count+=1
  elif route in issues:
-  graph.append({'@type':'PublicationIssue','@id':canonical+'#issue','name':issues[route]['title'],'url':canonical,'inLanguage':'or','isPartOf':{'@type':'Periodical','name':'ଶିଶୁ କିଶୋର','url':ORIGIN+'/shishu/'},'hasPart':[{'@type':'Article','headline':i['title'],'url':ORIGIN+i['href']} for i in issues[route]['items']]})
+  graph.append({'@type':'PublicationIssue','@id':canonical+'#issue','name':issues[route]['title'],'url':canonical,'inLanguage':'or','isPartOf':{'@type':'Periodical','name':'ଶିଶୁ କିଶୋର','url':ORIGIN+'/'},'hasPart':[{'@type':'Article','headline':i['title'],'url':ORIGIN+i['href']} for i in issues[route]['items']]})
  elif route in writer_profiles:
   writer=writer_profiles[route]
   web['@type']='ProfilePage'
@@ -81,7 +81,7 @@ for path in sorted(ROOT.rglob('*.html')):
   book=books[route];graph.append({'@type':'Book','name':book['title'],'url':canonical,'inLanguage':'or','image':image,'numberOfPages':book['total']})
  breadcrumbs=[n for n in nodes if n.has('ia-breadcrumb')]
  if breadcrumbs:
-  links=[n for n in breadcrumbs[0].all() if n.tag=='a' and n.attrs.get('href','').startswith('/shishu/')]
+  links=[n for n in breadcrumbs[0].all() if n.tag=='a' and (n.attrs.get('href') == '/' or n.attrs.get('href','').startswith('/shishu/'))]
   items=[{'@type':'ListItem','position':i+1,'name':clean(n.text()),'item':ORIGIN+n.attrs['href']} for i,n in enumerate(links)]
   items.append({'@type':'ListItem','position':len(items)+1,'name':title,'item':canonical});graph.append({'@type':'BreadcrumbList','itemListElement':items})
  html=html.replace('</head>','<script id="search-structured-data" type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')+'</script></head>')
@@ -95,7 +95,7 @@ Allow: /
 
 Sitemap: https://shishukishora.com/sitemap.xml
 ''')
-(ROOT/'content-index.json').write_text(json.dumps({'name':'Sishu Kishore','inLanguage':'or','home':ORIGIN+'/shishu/','articles':records},ensure_ascii=False))
+(ROOT/'content-index.json').write_text(json.dumps({'name':'Sishu Kishore','inLanguage':'or','home':ORIGIN+'/','articles':records},ensure_ascii=False))
 (ROOT/'llms.txt').write_text('''# Sishu Kishore — ଶିଶୁ କିଶୋର
 
 > An Odia monthly children's magazine with issue collections, stories, poems, writers and ebooks.

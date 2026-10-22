@@ -218,7 +218,7 @@ for path in DEST.glob('*.html'):
     footer.p.append('Expanded report & development archive · 16 October 2026')
     footer.p.append(soup.new_tag('br'))
     footer.p.append('Development artwork. Working identities and digital proofs.')
-    footer.nav.append(fragment('<a href="design-path.html">Design path & artifacts</a><a href="/shishu/">Visit Sishu Kishore ↗</a>'))
+    footer.nav.append(fragment('<a href="design-path.html">Design path & artifacts</a><a href="/">Visit Sishu Kishore ↗</a>'))
     hero_actions=soup.select_one('.set-hero .actions')
     if hero_actions:
         hero_actions.append(fragment('<a class="text-link" href="#development">Artwork → proof</a>'))
