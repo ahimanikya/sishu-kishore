@@ -4,7 +4,7 @@ Public reading pages, locally stored artwork, full Odia fonts, ebook scans and r
 
 Build: npm run build (Node 22+; no dependencies). Preview: python3 -m http.server 8766 --directory public.
 
-Intended hostname: sishu.kabitawithoutborders.org
+Intended hostname: shishukishora.com
 Editorial tools now use the independent Firebase project described in backend/README.md. This repository does not contain private accounts, submissions or credentials.
 
 Imported from the approved combined-site commit bcdab2661c73bd1cba3cff9e64715c09cce4599c. Source snapshot and original printed covers remain preserved in the existing project. This repository has independent Git history; pushes to main now build, verify and deploy automatically through GitHub Actions to GitHub Pages.
@@ -29,3 +29,5 @@ The Frog & the Mouse is unlisted: retain /shishu/books/paresh/frog.html and its 
 Typography direction (20 October 2026): Baloo Bhaina 2 is the shared magazine font, including navigation, article prose and the text readers. Use the locally hosted variable family (400–800) through public/children-identity.css, with regular body text and semibold headings. Preserve comfortable line spacing and original literary text. Printed/scanned artwork keeps its original lettering. The build fingerprints the identity stylesheet and updates the Odia font preload.
 
 Book listing direction (20 October 2026): remove ଡାକୁଛି ଗାଁ ମାଟି (dakuchhi_gaon) from /shishu/elibrary_main.html. Keep the other listed books. This is a shelf removal; preserve existing source material and reader pages. Do not restore its card when regenerating the library from earlier snapshots.
+
+Domain separation (22 October 2026): shishukishora.com is the sole canonical magazine domain. Repository: ahimanikya/sishu-kishore, independently built and deployed; Firebase project: sishu-kishore. No Sishu content belongs in free-to-dream (kabitawithoutborders.org). Retire the old sishu DNS record. Authoritative DNS and HTTPS activation remain external cutover checks.

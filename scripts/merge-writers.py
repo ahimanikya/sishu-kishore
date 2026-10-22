@@ -2,7 +2,7 @@
 import json,re
 from html import escape
 from pathlib import Path
-ROOT=Path('public');ORIGIN='https://sishu.kabitawithoutborders.org'
+ROOT=Path('public');ORIGIN='https://shishukishora.com'
 manifest=json.loads(Path('provenance/writer-merges.json').read_text());groups=manifest['groups']
 redirects={m['route']:g['canonical'] for g in groups for m in g['members'] if m['route']!=g['canonical']}
 index=ROOT/'shishu/writers.html';directory=index.read_text()

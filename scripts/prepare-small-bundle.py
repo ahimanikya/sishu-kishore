@@ -141,7 +141,7 @@ for link in list(offline.select('a[href]')):
     if link['href'] == PACK:
         link.decompose()
     elif link['href'].startswith('/'):
-        link['href'] = 'https://sishu.kabitawithoutborders.org' + link['href']
+        link['href'] = 'https://shishukishora.com' + link['href']
 for link in offline.select('link[href^="/"]'):
     link.decompose()
 with zipfile.ZipFile(OUT / PACK, 'w', zipfile.ZIP_DEFLATED) as archive:

@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,re,xml.etree.ElementTree as ET
 from urllib.parse import urlparse
-root=Path('public'); origin='https://sishu.kabitawithoutborders.org'
+root=Path('public'); origin='https://shishukishora.com'
 ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
 urls=[e.text for e in ET.parse(root/'sitemap.xml').findall('.//s:loc',ns)]
 assert len(urls)==len(set(urls))

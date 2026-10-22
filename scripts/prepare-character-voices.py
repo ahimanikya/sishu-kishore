@@ -20,7 +20,7 @@ def shell(name,title,body,preview):
     for el in s.select('.site-header nav a[aria-current]'):del el['aria-current']
     s.title['data-en']=title['en'];s.title['data-or']=title['or'];s.title.string=title['or']
     s.select_one('meta[name=character-preview]')['content']=preview
-    url='https://sishu.kabitawithoutborders.org/characters/'+name+'.html'
+    url='https://shishukishora.com/characters/'+name+'.html'
     for el in s.select('link[rel=canonical]'):el['href']=url
     for el in s.select('meta[property="og:url"]'):el['content']=url
     for el in s.select('meta[property="og:title"],meta[name="twitter:title"]'):el['content']=title['or']

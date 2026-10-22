@@ -16,14 +16,14 @@ home=(public/'shishu/index.html').read_text();home=re.sub(r'<section class="art-
 head=re.sub(r'<script\b[^>]*>.*?</script>','',head,flags=re.S)
 head=re.sub(r'<meta\b[^>]*>|<link\b[^>]*rel="canonical"[^>]*>|<title>.*?</title>','',head,flags=re.S)
 header=re.search(r'<header class="ia-header".*?</header>',home,re.S)[0];footer=re.search(r'<footer.*?</footer>',home,re.S)[0]
-url='https://sishu.kabitawithoutborders.org/shishu/activity_children.html';title='ପିଲାଙ୍କ ଚିତ୍ର';description='ପିଲାଙ୍କ ଚିତ୍ର - ପିଲାଙ୍କ ତୂଳୀରୁ'
+url='https://shishukishora.com/shishu/activity_children.html';title='ପିଲାଙ୍କ ଚିତ୍ର';description='ପିଲାଙ୍କ ଚିତ୍ର - ପିଲାଙ୍କ ତୂଳୀରୁ'
 home_only='--home-only' in sys.argv
 # Social preview uses the existing contain-preview convention; original drawing stays untouched.
 source=public/items[0]['local'].lstrip('/');digest=hashlib.sha256(source.read_bytes()+b'share-contain-v1').hexdigest()[:16];social='/social/'+digest+'.jpg';target=public/social.lstrip('/')
 if not target.exists():
  with Image.open(source) as im:
   im=ImageOps.exif_transpose(im).convert('RGBA');im.thumbnail((1160,590),Image.Resampling.LANCZOS);canvas=Image.new('RGB',(1200,630),(251,247,234));canvas.paste(im,((1200-im.width)//2,(630-im.height)//2),im);canvas.save(target,quality=88,optimize=True)
-meta=f'<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title} · ଶିଶୁ କିଶୋର</title><meta name="description" content="{description}"><link rel="canonical" href="{url}"><meta property="og:title" content="{title}"><meta property="og:description" content="{description}"><meta property="og:type" content="website"><meta property="og:url" content="{url}"><meta property="og:image" content="https://sishu.kabitawithoutborders.org{social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://sishu.kabitawithoutborders.org{social}">'
+meta=f'<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title} · ଶିଶୁ କିଶୋର</title><meta name="description" content="{description}"><link rel="canonical" href="{url}"><meta property="og:title" content="{title}"><meta property="og:description" content="{description}"><meta property="og:type" content="website"><meta property="og:url" content="{url}"><meta property="og:image" content="https://shishukishora.com{social}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://shishukishora.com{social}">'
 intro='<header class="art-intro"><p class="art-eyebrow">ଶିଶୁ କିଶୋର · ପିଲାଙ୍କ ପୃଷ୍ଠା</p><h1>ପିଲାଙ୍କ ଚିତ୍ର</h1><p>ପିଲାଙ୍କ ତୂଳୀରୁ</p></header>'
 groups={}
 for i,a in enumerate(items):groups.setdefault(re.search(r'\d+',a['issue'])[0],[]).append((i,a))

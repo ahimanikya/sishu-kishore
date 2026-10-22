@@ -29,7 +29,7 @@ for w in writers:
     assert text.count('class="writer-introduction"')==1,w['route']
     if css not in text:text=text.replace('</head>',css+'</head>')
     for key in ['description','og:description','twitter:description']:text=meta(text,key,w['bio'])
-    social='https://sishu.kabitawithoutborders.org/social/writer-'+w['slug']+'-v1.jpg'
+    social='https://shishukishora.com/social/writer-'+w['slug']+'-v1.jpg'
     if w.get('portrait'):
         for key in ['og:image','twitter:image']:text=meta(text,key,social)
     if w.get('portrait'):

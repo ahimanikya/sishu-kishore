@@ -255,5 +255,5 @@ img{height:auto}.art-grid{display:grid;grid-template-columns:1fr 1fr;gap:30px;ma
 @media(max-width:700px){html{scroll-padding-top:160px}.site-header nav{flex-wrap:wrap;overflow:visible;gap:8px 20px}}
 @media print{.art-grid,.process-triptych{grid-template-columns:1fr 1fr}.art-grid figure,.process-triptych figure,.design-timeline figure{break-inside:avoid}.design-timeline>li{display:block}.step-number{font-size:15pt;margin-bottom:10px}.step-content>figure{max-width:130mm}.step-content figure img{max-height:170mm}.model-strip figure img{max-height:95mm}.trail-nav{display:none}.artifact-box{break-inside:avoid}.process-triptych img{height:80mm}}
 ''')
-(REPO/'provenance/characters-assets.json').write_text(json.dumps({'prepared':'2026-10-16','origin':'https://sishu.kabitawithoutborders.org/characters/','source_report':'sites/three-odia-character-worlds/dist','assets':manifest},ensure_ascii=False,indent=2)+'\n')
+(REPO/'provenance/characters-assets.json').write_text(json.dumps({'prepared':'2026-10-16','origin':'https://shishukishora.com/characters/','source_report':'sites/three-odia-character-worlds/dist','assets':manifest},ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({'pages':len(list(DEST.glob('*.html'))),'added_images':len(manifest),'packs':[{ 'cast':d['id'],'files':d['count'],'megabytes':round(d['mb'],1)} for d in data]},indent=2))

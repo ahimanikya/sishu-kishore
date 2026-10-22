@@ -4,7 +4,7 @@ from html import escape, unescape
 from pathlib import Path
 import json,re
 from urllib.parse import urlparse
-ROOT=Path('public'); ORIGIN='https://sishu.kabitawithoutborders.org'
+ROOT=Path('public'); ORIGIN='https://shishukishora.com'
 class Node:
  def __init__(self,tag='',attrs=()):self.tag=tag;self.attrs=dict(attrs);self.children=[]
  def text(self):
@@ -93,7 +93,7 @@ assert article_count==len(articles),(article_count,len(articles))
 User-agent: *
 Allow: /
 
-Sitemap: https://sishu.kabitawithoutborders.org/sitemap.xml
+Sitemap: https://shishukishora.com/sitemap.xml
 ''')
 (ROOT/'content-index.json').write_text(json.dumps({'name':'Sishu Kishore','inLanguage':'or','home':ORIGIN+'/shishu/','articles':records},ensure_ascii=False))
 (ROOT/'llms.txt').write_text('''# Sishu Kishore — ଶିଶୁ କିଶୋର
@@ -103,12 +103,12 @@ Sitemap: https://sishu.kabitawithoutborders.org/sitemap.xml
 Public articles are complete static HTML and can be read without login. The canonical article URL is the citation destination; its text/plain alternate contains the same published writing. Author names and edition relationships are in the article catalogue. Original printed book scans are preserved; unreviewed OCR is not represented as verified book text.
 
 ## Start here
-- [Current issue](https://sishu.kabitawithoutborders.org/shishu/current_issue.html)
-- [Past issues](https://sishu.kabitawithoutborders.org/shishu/old_issues.html)
-- [Writers](https://sishu.kabitawithoutborders.org/shishu/writers.html)
-- [Article catalogue](https://sishu.kabitawithoutborders.org/content-index.json): titles, writers, issue relationships, canonical URLs, text URLs and images.
-- [Issue and book catalogue](https://sishu.kabitawithoutborders.org/reader-catalog.json)
-- [Sitemap](https://sishu.kabitawithoutborders.org/sitemap.xml)
+- [Current issue](https://shishukishora.com/shishu/current_issue.html)
+- [Past issues](https://shishukishora.com/shishu/old_issues.html)
+- [Writers](https://shishukishora.com/shishu/writers.html)
+- [Article catalogue](https://shishukishora.com/content-index.json): titles, writers, issue relationships, canonical URLs, text URLs and images.
+- [Issue and book catalogue](https://shishukishora.com/reader-catalog.json)
+- [Sitemap](https://shishukishora.com/sitemap.xml)
 
 ## Editorial context
 Public author bylines belong to the original writing. Drafts, private submissions, email addresses and moderation records are not part of this public catalogue. No new publication dates or author biographies have been inferred.

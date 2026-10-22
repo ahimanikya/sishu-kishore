@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sishu.kabitawithoutborders.org/sitemap.xml
+Sitemap: https://shishukishora.com/sitemap.xml

@@ -1,0 +1,13 @@
+{
+  "domain": "shishukishora.com",
+  "repository": "ahimanikya/sishu-kishore",
+  "firebaseProject": "sishu-kishore",
+  "kabitaRepository": "ahimanikya/free-to-dream",
+  "kabitaAuditedCommit": "486bd51407f752854507d55e90c3228c0f1440a1",
+  "kabitaSishuFilesOrLinks": 0,
+  "oldDedicatedDnsRecord": "sishu CNAME ahimanikya.github.io removed from GoDaddy",
+  "canonicalOriginsMigrated": true,
+  "dnsStatus": "authoritative DNS still returns old hosting A record 95.217.42.254; cPanel sign-in requested",
+  "httpsStatus": "GitHub certificate pending DNS",
+  "verified": "23 tests and full build passed"
+}
