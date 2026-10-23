@@ -20,3 +20,7 @@ Use Python with Pillow, fpdf2, fontTools, uharfbuzz and pypdf installed:
 6. `npm run build` and `npm test`
 
 Baloo Bhaina 2 is embedded with HarfBuzz Odia shaping. The PDF provides logical ActualText for every caption. `pdf-build-report.json` verifies all 107 captions, 25 pages, and panel bounds. All 25 rendered PDF pages were visually inspected, including dense dialogue and the ending. Reader panel count, controls, page navigation and local art links were checked. Original scans and credits are unchanged.
+
+## Adaptive panel layout
+
+The reader uses container queries: wide panels put live dialogue to the right, narrow panels put it below. An odd final panel spans the row; phones use a single column. The PDF evaluates contiguous rows of one to three panels and both caption positions, measures the full Odia text at 12pt, and balances illustration sizes within the entire 248mm story area. Original art aspect ratios and reading order are preserved. All 107 captions remain verified in ActualText; text and panel bounds are asserted during generation.

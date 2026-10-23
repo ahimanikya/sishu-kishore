@@ -20,7 +20,7 @@ def head(title,review=False):return f'<!doctype html><html lang="or"><head><meta
 def panel_image(n,i,alt):
  c=next(c for c in scenes if c['scanPage']==n);g=c['geometry'];col=i%2;row=i//2
  x=g['x'][col];y=g['y'][row];w=g['x'][col+1]-x;h=g['y'][row+1]-y
- return f'<svg class="panel-art" preserveAspectRatio="none" viewBox="{x} {y} {w} {h}" role="img" aria-label="{H(alt)}"><image href="{base}{c["art"]}" width="{g["width"]}" height="{g["height"]}" preserveAspectRatio="none"/></svg>'
+ return f'<svg class="panel-art" style="aspect-ratio:{w}/{h}" preserveAspectRatio="none" viewBox="{x} {y} {w} {h}" role="img" aria-label="{H(alt)}"><image href="{base}{c["art"]}" width="{g["width"]}" height="{g["height"]}" preserveAspectRatio="none"/></svg>'
 
 options='<option value="preface">ମୁଖବନ୍ଧ</option>'+''.join(f'<option value="page-{c["scanPage"]}">ପୃଷ୍ଠା {od(c["printedPage"])}</option>' for c in scenes)
 intro=f'''<header class="book-header"><a href="/shishu/elibrary_main.html">← ବହି</a><p class="eyebrow">ଚିତ୍ରକଥା</p><h1>{B['title']}</h1><p class="byline">ମୂଳ କାହାଣୀ: {B['author']}<br>ଓଡ଼ିଆ ରୂପାନ୍ତର: {B['adaptation']}</p><p class="credit" lang="en">{B['credit']}</p><div class="book-actions"><a href="#page-4">Read comic →</a><a href="{pdf}" download>Download PDF</a></div><p class="draft-note">ପ୍ରୁଫ୍‌ ସଂଶୋଧନ ଅପେକ୍ଷାରେ · <span lang="en">Comic draft for writer review</span></p></header>'''
@@ -29,7 +29,7 @@ sections=[]
 for c in scenes:
  n=c['scanPage'];panels=''
  for i,p in enumerate(c['panels']):
-  panels+=f'<figure class="comic-panel" data-source-page="{n}" data-panel="{i+1}">'+panel_image(n,i,f'ପୃଷ୍ଠା {od(n-1)}, ଚିତ୍ର {od(i+1)}')+f'<figcaption>{H(p["text"])}</figcaption></figure>'
+  panels+=f'<div class="comic-panel" data-source-page="{n}" data-panel="{i+1}"><figure class="panel-layout">'+panel_image(n,i,f'ପୃଷ୍ଠା {od(n-1)}, ଚିତ୍ର {od(i+1)}')+f'<figcaption>{H(p["text"])}</figcaption></figure></div>'
  sections.append(f'<section class="poem comic-page" id="page-{n}"><div class="page-label"><h2>ପୃଷ୍ଠା {od(n-1)}</h2><a class="source-link" href="{base}page-{n}.html">ମୂଳ ପୃଷ୍ଠା ↗</a></div><div class="comic-grid">{panels}</div></section>')
 # Preface follows the comic so the opening starts with sequential art.
 preface='<section class="poem preface" id="preface"><h2>ମୁଖବନ୍ଧ</h2>'+''.join(f'<p>{H(p)}</p>' for p in pages[0]['text'].split('\n\n'))+f'<a class="source-link" href="{base}page-3.html">ମୂଳ ପୃଷ୍ଠା ୨ ↗</a></section>'
@@ -39,6 +39,12 @@ review='''<body class="proofreader"><header class="review-header"><a href="illus
 (D/'proofread.html').write_text(head(B['title']+' — ପ୍ରୁଫ୍‌',True)+review);(D/'proofread-pages.json').write_text(json.dumps(pages,ensure_ascii=False,indent=2)+'\n')
 source=P/'shishu/books/musha_mushi'
 extra='''\nmain{max-width:1120px}.comic-page{padding-top:24px;margin-bottom:60px}.page-label{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:14px}.page-label h2{font-size:21px;margin:0}.comic-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;align-items:start}.comic-panel{margin:0;border:2px solid #34392e;background:#fffaf0;overflow:hidden;border-radius:3px}.panel-art{display:block;width:100%;height:auto;aspect-ratio:1;overflow:hidden;background:#f2eddc}.comic-panel figcaption{border-top:2px solid #34392e;padding:18px 20px 12px;font-size:var(--reading-size,21px);line-height:1.85;overflow-wrap:break-word}.preface{max-width:760px;margin:40px auto 70px}.book-header{padding-bottom:8px}body.night .comic-panel{background:#26352e;border-color:#87937c}body.night figcaption{border-color:#87937c}@media(max-width:700px){.comic-grid{grid-template-columns:1fr;gap:22px}main{padding:16px}.comic-panel figcaption{padding:16px 18px 12px}.page-label h2{font-size:20px}.byline{font-size:19px}}\n'''
+extra += """
+/* A panel chooses its own arrangement from its available width. */
+.comic-grid{align-items:stretch}.comic-panel{container-type:inline-size}.panel-layout{margin:0;display:flex;flex-direction:column;height:100%}.comic-panel figcaption{flex:1;min-width:0}.comic-panel:last-child:nth-child(odd){grid-column:1/-1}
+@container(min-width:620px){.panel-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:stretch}.panel-art{align-self:start}.comic-panel figcaption{border-top:0;border-left:2px solid #34392e;padding:22px 24px;display:flex;align-items:center}}
+@media(max-width:700px){.comic-panel:last-child:nth-child(odd){grid-column:auto}}
+"""
 (D/'illustrated.css').write_text((source/'illustrated.css').read_text()+extra)
 (D/'illustrated.js').write_text((source/'illustrated.js').read_text().replace('musha-mushi-illustrated-v1','kete-jami-loda-comic-v1').replace("'#poems'","'#parts'").replace("saved.size||23","saved.size||21"))
 (D/'proofread.js').write_text((source/'proofread.js').read_text().replace('musha-mushi','kete-jami-loda').replace('musha_mushi','ketejami_loda').replace('p.page+2','p.printedPage'))

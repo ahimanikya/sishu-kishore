@@ -11,44 +11,59 @@
       "pdfPage": 4,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 4,
       "panel": 2,
       "pdfPage": 4,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 4,
       "panel": 3,
       "pdfPage": 4,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 14.0,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 4,
       "panel": 4,
       "pdfPage": 4,
-      "x": 14.0,
-      "y": 136.26718518518516,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 76.33385185185185,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 4,
       "panel": 5,
       "pdfPage": 4,
-      "x": 76.66718518518516,
-      "y": 136.26718518518516,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 138.6677037037037,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 5,
@@ -56,44 +71,59 @@
       "pdfPage": 5,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 57.33385185185184,
+      "height": 88,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 5,
       "panel": 2,
       "pdfPage": 5,
-      "x": 76.66718518518516,
+      "x": 76.33385185185185,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 57.33385185185184,
+      "height": 88,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 5,
       "panel": 3,
       "pdfPage": 5,
-      "x": 139.33437037037032,
+      "x": 138.6677037037037,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 57.33385185185184,
+      "height": 88,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 5,
       "panel": 4,
       "pdfPage": 5,
       "x": 14.0,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 136.86718518518515
+      "y": 118,
+      "width": 88.50077777777776,
+      "height": 155,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 5,
       "panel": 5,
       "pdfPage": 5,
-      "x": 76.66718518518516,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 136.86718518518515
+      "x": 107.50077777777776,
+      "y": 118,
+      "width": 88.50077777777776,
+      "height": 155,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 6,
@@ -101,44 +131,59 @@
       "pdfPage": 6,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 6,
       "panel": 2,
       "pdfPage": 6,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 6,
       "panel": 3,
       "pdfPage": 6,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 14.0,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 6,
       "panel": 4,
       "pdfPage": 6,
-      "x": 14.0,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 80.86718518518516
+      "x": 76.33385185185185,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 6,
       "panel": 5,
       "pdfPage": 6,
-      "x": 76.66718518518516,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 80.86718518518516
+      "x": 138.6677037037037,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 7,
@@ -146,44 +191,59 @@
       "pdfPage": 7,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "width": 88.50077777777776,
+      "height": 125,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 7,
       "panel": 2,
       "pdfPage": 7,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "width": 88.50077777777776,
+      "height": 125,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 7,
       "panel": 3,
       "pdfPage": 7,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 14.0,
+      "y": 155,
+      "width": 57.33385185185184,
+      "height": 118,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 7,
       "panel": 4,
       "pdfPage": 7,
-      "x": 14.0,
-      "y": 147.46718518518514,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 76.33385185185185,
+      "y": 155,
+      "width": 57.33385185185184,
+      "height": 118,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 7,
       "panel": 5,
       "pdfPage": 7,
-      "x": 76.66718518518516,
-      "y": 147.46718518518514,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 138.6677037037037,
+      "y": 155,
+      "width": 57.33385185185184,
+      "height": 118,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 8,
@@ -191,44 +251,59 @@
       "pdfPage": 8,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 8,
       "panel": 2,
       "pdfPage": 8,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 8,
       "panel": 3,
       "pdfPage": 8,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "x": 14.0,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 8,
       "panel": 4,
       "pdfPage": 8,
-      "x": 14.0,
-      "y": 119.46718518518516,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "x": 76.33385185185185,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 8,
       "panel": 5,
       "pdfPage": 8,
-      "x": 76.66718518518516,
-      "y": 119.46718518518516,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "x": 138.6677037037037,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 9,
@@ -236,44 +311,59 @@
       "pdfPage": 9,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 9,
       "panel": 2,
       "pdfPage": 9,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 9,
       "panel": 3,
       "pdfPage": 9,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 14.0,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 9,
       "panel": 4,
       "pdfPage": 9,
-      "x": 14.0,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 76.33385185185185,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 9,
       "panel": 5,
       "pdfPage": 9,
-      "x": 76.66718518518516,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 138.6677037037037,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 10,
@@ -281,44 +371,59 @@
       "pdfPage": 10,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 10,
       "panel": 2,
       "pdfPage": 10,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 10,
       "panel": 3,
       "pdfPage": 10,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "x": 14.0,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 10,
       "panel": 4,
       "pdfPage": 10,
-      "x": 14.0,
-      "y": 119.46718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 76.33385185185185,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 10,
       "panel": 5,
       "pdfPage": 10,
-      "x": 76.66718518518516,
-      "y": 119.46718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 138.6677037037037,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 11,
@@ -326,44 +431,59 @@
       "pdfPage": 11,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 120.06718518518517
+      "width": 88.50077777777776,
+      "height": 125,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 11,
       "panel": 2,
       "pdfPage": 11,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 120.06718518518517
+      "width": 88.50077777777776,
+      "height": 125,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 11,
       "panel": 3,
       "pdfPage": 11,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 120.06718518518517
+      "x": 14.0,
+      "y": 155,
+      "width": 57.33385185185184,
+      "height": 118,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 11,
       "panel": 4,
       "pdfPage": 11,
-      "x": 14.0,
-      "y": 153.06718518518517,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 76.33385185185185,
+      "y": 155,
+      "width": 57.33385185185184,
+      "height": 118,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 11,
       "panel": 5,
       "pdfPage": 11,
-      "x": 76.66718518518516,
-      "y": 153.06718518518517,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 138.6677037037037,
+      "y": 155,
+      "width": 57.33385185185184,
+      "height": 118,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 12,
@@ -371,44 +491,59 @@
       "pdfPage": 12,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 12,
       "panel": 2,
       "pdfPage": 12,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 12,
       "panel": 3,
       "pdfPage": 12,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 14.0,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 12,
       "panel": 4,
       "pdfPage": 12,
-      "x": 14.0,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 76.33385185185185,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 12,
       "panel": 5,
       "pdfPage": 12,
-      "x": 76.66718518518516,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 138.6677037037037,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 13,
@@ -416,44 +551,59 @@
       "pdfPage": 13,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "width": 88.50077777777776,
+      "height": 119,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 13,
       "panel": 2,
       "pdfPage": 13,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "width": 88.50077777777776,
+      "height": 119,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 13,
       "panel": 3,
       "pdfPage": 13,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 14.0,
+      "y": 149,
+      "width": 57.33385185185184,
+      "height": 124,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 13,
       "panel": 4,
       "pdfPage": 13,
-      "x": 14.0,
-      "y": 147.46718518518514,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 76.33385185185185,
+      "y": 149,
+      "width": 57.33385185185184,
+      "height": 124,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 13,
       "panel": 5,
       "pdfPage": 13,
-      "x": 76.66718518518516,
-      "y": 147.46718518518514,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 138.6677037037037,
+      "y": 149,
+      "width": 57.33385185185184,
+      "height": 124,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 14,
@@ -461,35 +611,47 @@
       "pdfPage": 14,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 131.26718518518516
+      "width": 182.0015555555555,
+      "height": 127,
+      "textPosition": "right",
+      "imageWidth": 127.0,
+      "imageHeight": 127
     },
     {
       "scanPage": 14,
       "panel": 2,
       "pdfPage": 14,
-      "x": 76.66718518518516,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 131.26718518518516
+      "x": 14.0,
+      "y": 157,
+      "width": 57.33385185185184,
+      "height": 116,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 14,
       "panel": 3,
       "pdfPage": 14,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 131.26718518518516
+      "x": 76.33385185185185,
+      "y": 157,
+      "width": 57.33385185185184,
+      "height": 116,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 14,
       "panel": 4,
       "pdfPage": 14,
-      "x": 14.0,
-      "y": 164.26718518518516,
-      "width": 56.66718518518517,
-      "height": 108.86718518518515
+      "x": 138.6677037037037,
+      "y": 157,
+      "width": 57.33385185185184,
+      "height": 116,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 15,
@@ -497,35 +659,47 @@
       "pdfPage": 15,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "width": 182.0015555555555,
+      "height": 132,
+      "textPosition": "right",
+      "imageWidth": 132.0,
+      "imageHeight": 132
     },
     {
       "scanPage": 15,
       "panel": 2,
       "pdfPage": 15,
-      "x": 76.66718518518516,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 14.0,
+      "y": 162,
+      "width": 57.33385185185184,
+      "height": 111,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 15,
       "panel": 3,
       "pdfPage": 15,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 76.33385185185185,
+      "y": 162,
+      "width": 57.33385185185184,
+      "height": 111,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 15,
       "panel": 4,
       "pdfPage": 15,
-      "x": 14.0,
-      "y": 147.46718518518514,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 138.6677037037037,
+      "y": 162,
+      "width": 57.33385185185184,
+      "height": 111,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 16,
@@ -533,35 +707,47 @@
       "pdfPage": 16,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 131.26718518518516
+      "width": 182.0015555555555,
+      "height": 55,
+      "textPosition": "right",
+      "imageWidth": 55.0,
+      "imageHeight": 55
     },
     {
       "scanPage": 16,
       "panel": 2,
       "pdfPage": 16,
-      "x": 76.66718518518516,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 131.26718518518516
+      "x": 14.0,
+      "y": 85,
+      "width": 182.0015555555555,
+      "height": 58,
+      "textPosition": "right",
+      "imageWidth": 58.0,
+      "imageHeight": 58
     },
     {
       "scanPage": 16,
       "panel": 3,
       "pdfPage": 16,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 131.26718518518516
+      "x": 14.0,
+      "y": 148,
+      "width": 88.50077777777776,
+      "height": 125,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 16,
       "panel": 4,
       "pdfPage": 16,
-      "x": 14.0,
-      "y": 164.26718518518516,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 107.50077777777776,
+      "y": 148,
+      "width": 88.50077777777776,
+      "height": 125,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 17,
@@ -569,35 +755,47 @@
       "pdfPage": 17,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "width": 182.0015555555555,
+      "height": 132,
+      "textPosition": "right",
+      "imageWidth": 132.0,
+      "imageHeight": 132
     },
     {
       "scanPage": 17,
       "panel": 2,
       "pdfPage": 17,
-      "x": 76.66718518518516,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 14.0,
+      "y": 162,
+      "width": 57.33385185185184,
+      "height": 111,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 17,
       "panel": 3,
       "pdfPage": 17,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 76.33385185185185,
+      "y": 162,
+      "width": 57.33385185185184,
+      "height": 111,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 17,
       "panel": 4,
       "pdfPage": 17,
-      "x": 14.0,
-      "y": 147.46718518518514,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 138.6677037037037,
+      "y": 162,
+      "width": 57.33385185185184,
+      "height": 111,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 18,
@@ -605,44 +803,59 @@
       "pdfPage": 18,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 18,
       "panel": 2,
       "pdfPage": 18,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 18,
       "panel": 3,
       "pdfPage": 18,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 14.0,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 18,
       "panel": 4,
       "pdfPage": 18,
-      "x": 14.0,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 76.33385185185185,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 18,
       "panel": 5,
       "pdfPage": 18,
-      "x": 76.66718518518516,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 138.6677037037037,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 19,
@@ -650,44 +863,59 @@
       "pdfPage": 19,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 57.33385185185184,
+      "height": 84,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 53.302565393518506
     },
     {
       "scanPage": 19,
       "panel": 2,
       "pdfPage": 19,
-      "x": 76.66718518518516,
+      "x": 76.33385185185185,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 57.33385185185184,
+      "height": 84,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 53.302565393518506
     },
     {
       "scanPage": 19,
       "panel": 3,
       "pdfPage": 19,
-      "x": 139.33437037037032,
+      "x": 138.6677037037037,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 57.33385185185184,
+      "height": 84,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 56.32603023726851
     },
     {
       "scanPage": 19,
       "panel": 4,
       "pdfPage": 19,
       "x": 14.0,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "y": 114,
+      "width": 88.50077777777776,
+      "height": 159,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 86.94510004340276
     },
     {
       "scanPage": 19,
       "panel": 5,
       "pdfPage": 19,
-      "x": 76.66718518518516,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 86.46718518518516
+      "x": 107.50077777777776,
+      "y": 114,
+      "width": 88.50077777777776,
+      "height": 159,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 96.27916644965275
     },
     {
       "scanPage": 20,
@@ -695,44 +923,59 @@
       "pdfPage": 20,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 20,
       "panel": 2,
       "pdfPage": 20,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 108,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 20,
       "panel": 3,
       "pdfPage": 20,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 14.0,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.10989149305554
     },
     {
       "scanPage": 20,
       "panel": 4,
       "pdfPage": 20,
-      "x": 14.0,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 76.33385185185185,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.10989149305554
     },
     {
       "scanPage": 20,
       "panel": 5,
       "pdfPage": 20,
-      "x": 76.66718518518516,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 138.6677037037037,
+      "y": 138,
+      "width": 57.33385185185184,
+      "height": 135,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.55781221064814
     },
     {
       "scanPage": 21,
@@ -740,44 +983,59 @@
       "pdfPage": 21,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "width": 88.50077777777776,
+      "height": 119,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 21,
       "panel": 2,
       "pdfPage": 21,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "width": 88.50077777777776,
+      "height": 119,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 21,
       "panel": 3,
       "pdfPage": 21,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "x": 14.0,
+      "y": 149,
+      "width": 57.33385185185184,
+      "height": 124,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 21,
       "panel": 4,
       "pdfPage": 21,
-      "x": 14.0,
-      "y": 136.26718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 76.33385185185185,
+      "y": 149,
+      "width": 57.33385185185184,
+      "height": 124,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 21,
       "panel": 5,
       "pdfPage": 21,
-      "x": 76.66718518518516,
-      "y": 136.26718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 138.6677037037037,
+      "y": 149,
+      "width": 57.33385185185184,
+      "height": 124,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 22,
@@ -785,44 +1043,59 @@
       "pdfPage": 22,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 22,
       "panel": 2,
       "pdfPage": 22,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 22,
       "panel": 3,
       "pdfPage": 22,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 14.0,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 22,
       "panel": 4,
       "pdfPage": 22,
-      "x": 14.0,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 76.33385185185185,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 22,
       "panel": 5,
       "pdfPage": 22,
-      "x": 76.66718518518516,
-      "y": 125.06718518518517,
-      "width": 56.66718518518517,
-      "height": 114.46718518518516
+      "x": 138.6677037037037,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 23,
@@ -830,44 +1103,59 @@
       "pdfPage": 23,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 23,
       "panel": 2,
       "pdfPage": 23,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 23,
       "panel": 3,
       "pdfPage": 23,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 14.0,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 23,
       "panel": 4,
       "pdfPage": 23,
-      "x": 14.0,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 76.33385185185185,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 23,
       "panel": 5,
       "pdfPage": 23,
-      "x": 76.66718518518516,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 92.06718518518517
+      "x": 138.6677037037037,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 24,
@@ -875,44 +1163,59 @@
       "pdfPage": 24,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 24,
       "panel": 2,
       "pdfPage": 24,
-      "x": 76.66718518518516,
+      "x": 107.50077777777776,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "width": 88.50077777777776,
+      "height": 114,
+      "textPosition": "bottom",
+      "imageWidth": 88.50077777777776,
+      "imageHeight": 88.50077777777776
     },
     {
       "scanPage": 24,
       "panel": 3,
       "pdfPage": 24,
-      "x": 139.33437037037032,
-      "y": 25,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 14.0,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 24,
       "panel": 4,
       "pdfPage": 24,
-      "x": 14.0,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 76.33385185185185,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 24,
       "panel": 5,
       "pdfPage": 24,
-      "x": 76.66718518518516,
-      "y": 130.66718518518516,
-      "width": 56.66718518518517,
-      "height": 97.66718518518516
+      "x": 138.6677037037037,
+      "y": 144,
+      "width": 57.33385185185184,
+      "height": 129,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 25,
@@ -920,54 +1223,72 @@
       "pdfPage": 25,
       "x": 14.0,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "width": 57.33385185185184,
+      "height": 99,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 25,
       "panel": 2,
       "pdfPage": 25,
-      "x": 76.66718518518516,
+      "x": 76.33385185185185,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "width": 57.33385185185184,
+      "height": 99,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 25,
       "panel": 3,
       "pdfPage": 25,
-      "x": 139.33437037037032,
+      "x": 138.6677037037037,
       "y": 25,
-      "width": 56.66718518518517,
-      "height": 103.26718518518516
+      "width": 57.33385185185184,
+      "height": 99,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 25,
       "panel": 4,
       "pdfPage": 25,
       "x": 14.0,
-      "y": 136.26718518518516,
-      "width": 56.66718518518517,
-      "height": 108.86718518518515
+      "y": 129,
+      "width": 57.33385185185184,
+      "height": 144,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 25,
       "panel": 5,
       "pdfPage": 25,
-      "x": 76.66718518518516,
-      "y": 136.26718518518516,
-      "width": 56.66718518518517,
-      "height": 108.86718518518515
+      "x": 76.33385185185185,
+      "y": 129,
+      "width": 57.33385185185184,
+      "height": 144,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     },
     {
       "scanPage": 25,
       "panel": 6,
       "pdfPage": 25,
-      "x": 139.33437037037032,
-      "y": 136.26718518518516,
-      "width": 56.66718518518517,
-      "height": 108.86718518518515
+      "x": 138.6677037037037,
+      "y": 129,
+      "width": 57.33385185185184,
+      "height": 144,
+      "textPosition": "bottom",
+      "imageWidth": 57.33385185185184,
+      "imageHeight": 57.33385185185184
     }
   ],
-  "bytes": 13483057
+  "bytes": 13482870
 }
