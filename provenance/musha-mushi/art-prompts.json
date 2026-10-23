@@ -1,0 +1,75 @@
+{
+  "method": "Built-in image generation, AI-assisted illustrations directed by Ahimanikya",
+  "reference": "art-originals/poem-01-v1.png",
+  "base": "Use case: illustration-story. Create ONE landscape 3:2 illustration for an Odia children's poetry book. Reference image is CHARACTER AND STYLE reference ONLY, change the scene and poses completely. Preserve Musha the slate-grey mouse in cream leaf-print short kurta and teal trousers, round ears and tiny black nose; Mushi the smaller warm-brown mouse in rust-red sari with cream border and gold earrings. Each mouse has exactly two forepaws/arms, two hindlegs/feet, one thin tail. Readable animal paws, no extra fingers/limbs. Warm classic Indian children's magazine ink-and-gouache cartoon, dark irregular outlines, broad flat colours and light paper grain, expressive purposeful faces, restrained shadows. No photo, 3D, human hands, words or lettering, panels or watermark. Full composition within frame. ",
+  "scenes": [
+    [
+      2,
+      "At an animal village fair in Odisha, the mouse couple pause nervously in the foreground, looking at a cat sweet-seller behind a stall with laddus and a mongoose coconut seller nearby. A crow perches with a little bunch of balloons behind them. Warm busy-but-clear fair atmosphere. Musha curious, Mushi cautious, tugging his sleeve. Only these five animals; anatomically correct cat/mongoose four limbs, crow two legs two wings. Focus on mice."
+    ],
+    [
+      3,
+      "In an earthen courtyard by their burrow, Musha and Mushi have a comical argument about counting: facing each other, Musha holds up one paw, Mushi gestures back with one paw, other paws on their hips. An orange cat peeks sleepily from behind a low wall, making both mice look over in alarm. Playful rather than cruel. No numerals or text."
+    ],
+    [
+      4,
+      "During monsoon rain, Mushi ALONE climbs toward the mouth of her flooded earthen burrow, forepaws gripping the muddy rim, looking apprehensively at a cobra on higher ground at a clear distance outside. Water ripples below her. Exactly one mouse and one cobra with ONE continuous legless body and a modest hood. Musha is absent, visiting a friend. Suspenseful, child-appropriate, no contact or attack."
+    ],
+    [
+      5,
+      "Inside a simple earthen mouse home, Musha shivers huddled in a corner, holding his own shoulders with two forepaws, and Mushi points ruefully to their shredded cloth heap: they have chewed up the blankets he now needs. Bits of cloth on earth floor, no intact blanket on him, no furniture bed. Two mice only. Tender comic frustration."
+    ],
+    [
+      6,
+      "At the edge of ripe golden paddy fields, Musha carries cut rice stalks while Mushi brings a little sheaf toward an earthen burrow. A single cobra at a respectful distance confronts them; Musha pauses sheepishly. Harvest scene in Odisha, tiny distant farmer working. Cobra ONE continuous body, no feet, two mice exactly four limbs each. No menace/contact."
+    ],
+    [
+      7,
+      "Two MALE mice meet beside an old thatched mud house and a new cement house: Musha from reference is one, the other is a smaller brown male mouse in simple indigo kurta. Both clasp forepaws in sympathetic greeting, looking disappointed at hard tiled flooring and cement roof that leave nowhere for a burrow. Small shrub nearby. Mushi absent. Two mice total."
+    ],
+    [
+      8,
+      "Musha, the village mouse in reference clothes, meets a city mouse in a simple blue vest by a railway station platform. City mouse gestures toward a stationary passenger train as they decide to travel. Musha looks surprised and interested. Do not include Mushi. Mouse-scale foreground, distant train, no signs or lettering. No luggage needed."
+    ],
+    [
+      9,
+      "Moonlit paddy field with full moon: Musha ALONE sings enthusiastically on a low earthen mound, a few crickets in grass, until a cobra with one legless body and gently raised hood nearby makes him glance alarmed. One forepaw raised, other by chest, two grounded feet. Night indigo and warm moonlight, no musical-note symbols or text."
+    ],
+    [
+      10,
+      "Family picnic in a forest clearing: Musha politely gestures toward a tiger who is proudly singing beside two small tabla drums and a microphone on a stand; Mushi and two little mice sit farther back beside clay picnic pots, surprised. Tiger natural four-legged body, one forepaw gently raised, three grounded paws; exactly four limbs. Set the moment BEFORE the lion arrives; NO lion or fighting. Keep mice clearly separated and countable."
+    ],
+    [
+      11,
+      "Musha ALONE talks boldly to a magnificent Bengal tiger wearing a small traditional turban on its head, in an Indian forest clearing. The tiger listens, one forepaw resting on a rock, three other paws grounded, exactly four legs and one tail. Musha gesturing with one paw, other on hip. Clear size contrast, comic conversation, no attack or gore."
+    ],
+    [
+      12,
+      "Frog wedding procession by an Odisha river: Musha hesitates on the near bank, while a green groom frog with a small flower garland rides in a tiny open decorated palanquin carried by two frog companions toward the water. Across the river a modest flower-decorated wedding canopy is visible. Humorous worried mouse face. Four animals total, each exactly two arms and two hindlegs, frog webbed feet, no tails on frogs. No text, no human wedding guests."
+    ],
+    [
+      13,
+      "Winter sunshine outside a burrow: Musha dances happily in the warm sun, one hindfoot slightly lifted, arms spread; Mushi stands beside him with a practical, concerned expression and gestures back toward their burrow. Dry leaves, cool pale-blue morning, golden light, simple village garden. Two mice only, each four limbs total and one tail."
+    ],
+    [
+      14,
+      "At a clear village pond, Musha and Mushi sit on the bank waiting hopelessly for fish to leap ashore. A white egret stands at the right claiming its fishing spot, exactly TWO thin legs, two folded wings and one long beak. Three little fish visible beneath the water. Mice look at the egret in surprise; each has two forepaws and two hindfeet, separated. Quiet comic scene, no fishing rods, no attack."
+    ],
+    [
+      15,
+      "At a grassy path crossroads beside paddy fields, Musha ALONE converses earnestly with a green male frog and a smaller olive female frog. Musha laments his troubles while the frogs listen calmly. Three characters only. Frogs in natural anatomy with two forelimbs and two hindlimbs each, no clothes necessary, no tails, no human hands. Kind thoughtful conversation; no traps, poison, injuries, violence."
+    ],
+    [
+      16,
+      "Beside a blue-green pond, Musha ALONE sings with chest puffed out while a sly smiling freshwater turtle extends its neck from the water and flatters him. Turtle has a single shell, small head, four short legs total, feet below or just at waterline. Illustrate the tempting praise BEFORE any attack; mouse stays on land, turtle in water, no handshake or violence. Expressive humour and subtle caution."
+    ],
+    [
+      17,
+      "Inside a small respectful Odisha temple: Musha and Mushi near the edge of a richly patterned ceremonial cloth hanging from a stone altar, Musha tempted to nibble the cloth while Mushi gently stops him by his sleeve. Keep a respectful distance from the shrine; a simple brass lamp and flower offerings in background, no identifiable deity needed. Two mice only, no human hands, exactly four limbs each. Gentle comic moral moment."
+    ],
+    [
+      18,
+      "Windy village courtyard: Mushi has been laying small white badi lentil dumplings on a drying tray; now she stands holding ONE long thin stick and comically scolds the gust of wind, while Musha sits beside a bowl as puffed rice blows away. Musha incredulous, Mushi determined. TWO mice, four limbs each, one tail each, clearly attached paws. Show the air through flying leaves and rice grains, no personified wind or text. Badi tray remains on ground, warm grey gathering rain clouds."
+    ]
+  ]
+}

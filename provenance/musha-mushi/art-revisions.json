@@ -1,0 +1,14 @@
+[
+  {
+    "poem": 11,
+    "prompt": "Edit this illustration only: remove the brown/orange female mouse wearing a red sari at the left ENTIRELY, including her tail and feet. Fill her former area naturally with continuous village/forest ground and foliage. Keep the gray male mouse, his ONE attached tail, his four limbs, and the tiger with exactly FOUR legs, turban, and all other scene elements unchanged. The final scene must have exactly ONE mouse, the gray male. Preserve the warm hand-drawn ink and gouache children's book style, aspect ratio, and composition. No text.",
+    "previous": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-702434da-3f5b-41e9-9eb4-f8848e30c6d8.png",
+    "final": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-219ab48d-16ac-45ce-9193-b5433c4b76bf.png"
+  },
+  {
+    "poem": 12,
+    "prompt": "Edit this illustration only: remove the brown/orange female mouse wearing a red sari at the left ENTIRELY, including her tail and feet. Fill her former area naturally with continuous village/forest ground and foliage. Keep the gray male mouse, his ONE attached tail, his four limbs, and the THREE frogs and the wedding palanquin and all other scene elements unchanged. The final scene must have exactly ONE mouse, the gray male. Preserve the warm hand-drawn ink and gouache children's book style, aspect ratio, and composition. No text.",
+    "previous": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-d2622697-4c82-473b-9945-8a86806d49e3.png",
+    "final": "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-f89d5c4e-d6e8-482c-b86e-200aa9e479b6.png"
+  }
+]

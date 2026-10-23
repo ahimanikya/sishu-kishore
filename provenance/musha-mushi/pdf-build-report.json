@@ -1,0 +1,83 @@
+{
+  "pages": 55,
+  "poems": 18,
+  "verseLines": 746,
+  "allDraftLinesPresentInActualText": true,
+  "font": "Baloo Bhaina 2, embedded, HarfBuzz Odia shaping",
+  "writerProofread": false,
+  "chapterPages": [
+    {
+      "poem": 1,
+      "page": 4
+    },
+    {
+      "poem": 2,
+      "page": 7
+    },
+    {
+      "poem": 3,
+      "page": 9
+    },
+    {
+      "poem": 4,
+      "page": 12
+    },
+    {
+      "poem": 5,
+      "page": 15
+    },
+    {
+      "poem": 6,
+      "page": 18
+    },
+    {
+      "poem": 7,
+      "page": 22
+    },
+    {
+      "poem": 8,
+      "page": 25
+    },
+    {
+      "poem": 9,
+      "page": 28
+    },
+    {
+      "poem": 10,
+      "page": 30
+    },
+    {
+      "poem": 11,
+      "page": 33
+    },
+    {
+      "poem": 12,
+      "page": 36
+    },
+    {
+      "poem": 13,
+      "page": 38
+    },
+    {
+      "poem": 14,
+      "page": 42
+    },
+    {
+      "poem": 15,
+      "page": 45
+    },
+    {
+      "poem": 16,
+      "page": 48
+    },
+    {
+      "poem": 17,
+      "page": 51
+    },
+    {
+      "poem": 18,
+      "page": 53
+    }
+  ],
+  "bytes": 13138285
+}
