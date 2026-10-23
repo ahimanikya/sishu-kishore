@@ -1,0 +1,25 @@
+[
+  {
+    "n": 7,
+    "refs": [
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-8f17a4a3-4f3a-4221-a644-87aa6cb3c9eb.png",
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-4e8236cd-937c-40eb-bfce-d3738c2ec4ca.png"
+    ],
+    "prompt": "Edit the FIRST attached comic sheet only. Preserve its exact 2 columns by 3 rows equal-square grid, panel order, actions, Pahom, style, and blank bottom-right cell. Correct supporting-character continuity: TOP LEFT employer must be a different older Russian farmer in plain dark brown coat with gray beard and no hat, NOT the burgundy-robed chief; TOP RIGHT landowning woman must match the green-coated, fur-collared older woman in the SECOND reference's middle-right panel, not the plum-dressed sister. MIDDLE RIGHT creditor is another Russian farmer in a simple gray coat and black flat cap, not a Bashkir villager. BOTTOM LEFT devil must match SECOND reference's orange-faced, small brown-horned devil wearing a teal hooded cloak, not blue skin. Keep all other actions unchanged. No words or balloons. Each figure anatomically sound two arms/two legs. The chief does not appear anywhere in this page."
+  },
+  {
+    "n": 8,
+    "refs": [
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-57421d55-f86d-4ddc-baa8-66c4f33011db.png"
+    ],
+    "prompt": "Edit this comic art sheet, keeping all five scenes, grid, Pahom, cattle and backgrounds. The supporting people here are RUSSIAN FARM NEIGHBORS and a village clerk, not Bashkir people or their chief. MIDDLE LEFT: replace the two men with distinct ordinary Russian farmers in simple gray and brown coats with black cloth caps, one gray-bearded older man and one clean-shaven middle-aged man. MIDDLE RIGHT: replace the burgundy-robed fur-hatted chief with a bald bespectacled village clerk in a plain dark gray coat, seated at the same desk listening. BOTTOM LEFT: three fined neighbors should be ordinary Russian farmers, with the first two matching those just described and the third a red-haired farmer in brown waistcoat, all frowning, no fur hats or patterned robes. No chief anywhere on this page. Preserve precise 2-column 3-row equal-square layout, blank bottom-right cell, art style, and no lettering."
+  },
+  {
+    "n": 12,
+    "refs": [
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-ea4ad26a-6562-425f-984d-8b6ea98d9764.png",
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-580bf044-cf18-4646-95df-aa62de367682.png"
+    ],
+    "prompt": "Edit the FIRST attached comic sheet, maintaining its exact 2-column by 3-row equal-square grid, panel order and blank bottom-right. Correct two characters: TOP LEFT at the tea table, replace the plum-dressed older woman with the MALE traveling guest from the SECOND reference (brown traveling coat, brown beard, fur-edged brown hat), who is showing the land deed to Pahom. The wife in green can remain behind. MIDDLE RIGHT roadside shopkeeper must be a new elderly man with gray beard, plain beige coat and dark cloth cap, not the burgundy-robed Bashkir chief. He sells Pahom a folded burgundy robe and plain tea boxes. Keep Pahom, wife, servant, horses, all other actions and colors unchanged. No words, balloons or new objects. Natural anatomy. The chief is not present yet."
+  }
+]

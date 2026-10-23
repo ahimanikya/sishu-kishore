@@ -8020,5 +8020,17 @@
     "url": "https://shishukishora.com/shishu/books/musha_mushi/proofread.html",
     "image": "/social/555b09e45d35f58f.jpg",
     "source": "/art/shishu-durga-cartoon-v5.webp"
+  },
+  {
+    "page": "/shishu/books/ketejami_loda/illustrated.html",
+    "url": "https://shishukishora.com/shishu/books/ketejami_loda/illustrated.html",
+    "image": "/social/2d08c953c95aab63.jpg",
+    "source": "/shishu/books/ketejami_loda/art/cover-v1.jpg"
+  },
+  {
+    "page": "/shishu/books/ketejami_loda/proofread.html",
+    "url": "https://shishukishora.com/shishu/books/ketejami_loda/proofread.html",
+    "image": "/social/2d08c953c95aab63.jpg",
+    "source": "/shishu/books/ketejami_loda/art/cover-v1.jpg"
   }
 ]

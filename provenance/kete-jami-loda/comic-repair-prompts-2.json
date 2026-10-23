@@ -1,0 +1,23 @@
+[
+  {
+    "n": 13,
+    "refs": [
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-453954ac-c885-4252-b743-bdc5902c13d9.png"
+    ],
+    "prompt": "Edit this comic sheet while preserving its exact 2-column 3-row grid and five scenes. IMPORTANT story continuity: the chief has NOT arrived yet. In MIDDLE LEFT, MIDDLE RIGHT and BOTTOM LEFT, replace the ornate burgundy-robed chief with an ordinary elderly Bashkir villager: short WHITE beard, beige unadorned robe, simple dark brown cap, kind wrinkled face. This same new villager chats over tea, welcomes Pahom, and hosts the meal. No ornate burgundy chief anywhere on this page. Other villagers, two women preparing curds, Pahom, tents, river, horses, food, colors, and blank bottom-right cell stay unchanged. No letters or balloons."
+  },
+  {
+    "n": 19,
+    "refs": [
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-d8ef4466-6920-4266-b020-04c15485f98e.png"
+    ],
+    "prompt": "Edit this comic page only. Preserve all five scenes, characters, the orange-faced teal-cloaked devil, Pahom's frightened dream and waking, and blank bottom-right cell. In BOTTOM LEFT, the scene must take place just outside a FELT TENT in the Bashkir riverside grassland camp at dawn, NOT at a timber farmhouse or Russian village. Replace the wood house, picket fence and distant timber village ONLY with felt tents, grass and low steppe hills. Keep Pahom hastily emerging wearing ochre shirt, blue trousers and gray cap. Also straighten the panel grid so boundaries lie at exactly half width and one-third and two-thirds height, SIX equal square cells on portrait 2:3 canvas. No text or balloons."
+  },
+  {
+    "n": 25,
+    "refs": [
+      "/Users/ahimanikya/.codex/generated_images/01a15f99-2057-7cd3-90bd-e5cb3c5e639d/exec-531ca1c4-39e7-4de6-a3db-bd2e884745c9.png"
+    ],
+    "prompt": "Edit this final comic page with minimal changes. Preserve all six panels, actions, people, grief, plain grave and art style. In MIDDLE LEFT the Bashkir chief must be BAREHEADED with short dark hair, because his fur-edged burgundy hat is already on the ground as the starting marker. Remove only his worn hat. In TOP LEFT and MIDDLE RIGHT ensure the money pouch rests ON TOP OF the fur-edged burgundy hat on the ground, not beside it. Keep Pahom's own gray cap. Preserve exactly two arms/two legs each, natural hands, non-graphic ending, equal-square 2-column by 3-row grid, no lettering."
+  }
+]

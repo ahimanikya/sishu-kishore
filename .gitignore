@@ -8,3 +8,7 @@ node_modules/
 
 __pycache__/
 provenance/musha-mushi/pdf-fonts/
+
+provenance/kete-jami-loda/pdf-fonts/
+provenance/kete-jami-loda/preview.pdf
+provenance/kete-jami-loda/pdf-preview-report.json
