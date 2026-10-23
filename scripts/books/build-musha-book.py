@@ -55,3 +55,7 @@ for group in data:
    item['href']=base+'illustrated.html';item.pop('book',None);item.pop('total',None)
 catalog.write_text(json.dumps(data,ensure_ascii=False)+'\n')
 print(f'Built {len(chapters)} poems, {sum(len(c["pages"]) for c in chapters)} source text pages, 50 original scans preserved.')
+
+# Keep reader and download entry points consistent after regeneration.
+import runpy
+runpy.run_path(str(R/'scripts/books/publish-musha-entrypoints.py'))
