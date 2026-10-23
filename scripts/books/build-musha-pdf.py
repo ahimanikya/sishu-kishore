@@ -38,7 +38,7 @@ pdf.add_page();pdf.set_y(25);text(B['title'],25,True,align='C');text(B['author']
 pdf.add_page();text('About this edition',18,True,odia=False);pdf.ln(4)
 text('Original story wording · New illustrations by Ahimanikya',11,odia=False)
 text('All 18 poems are included. The text was compared with the original scans. Faded words use provisional readings, as requested, and are flagged on the online proofreading page. Writer proofreading is still pending.',11,odia=False)
-pdf.ln(3);text('New illustrations were made with AI assistance under Ahimanikya’s direction.',10,odia=False);pdf.ln(4)
+pdf.ln(4)
 for s in ['Original edition: Musa O Musi (Children’s Poems)','Author: Paresh Kumar Patnaik','Publisher: Lekhalekhi, Bhubaneswar','First edition: 2022','Original illustrations: Baladev Maharatha','ISBN: 978-81-955751-5-2','Original cover and all scanned pages remain available online.']:
  text(s,10,odia=False)
 pdf.ln(6);text('shishukishora.com',10,odia=False)
