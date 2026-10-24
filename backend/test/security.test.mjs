@@ -80,3 +80,8 @@ test('REST publication feed paginates and excludes withdrawn records under real 
  const rows=await fetchPublished({projectId:'demo-sishu-kishore',endpoint:'http://'+process.env.FIRESTORE_EMULATOR_HOST});
  if(rows.length!==103||new Set(rows.map(r=>r.id)).size!==103||rows.some(r=>r.state!=='published'))throw Error('REST feed lost, duplicated, or exposed a record');
 });
+
+const reviewDb=(provider='google.com',verified=true)=>env.authenticatedContext('reviewer',{email:'reviewer@example.test',email_verified:verified,firebase:{sign_in_provider:provider}}).firestore();
+async function seedReview(){await env.withSecurityRulesDisabled(ctx=>setDoc(doc(ctx.firestore(),'bookReviews','ketejami_loda'),{payload:JSON.stringify({title:'Comic',pages:[{text:'Private proofreading draft'}]})}));}
+test('book review denies anonymous and non-Google access',async()=>{await seedReview();await assertFails(getDoc(doc(env.unauthenticatedContext().firestore(),'bookReviews','ketejami_loda')));await assertFails(getDoc(doc(reviewDb('password'),'bookReviews','ketejami_loda')));await assertFails(getDoc(doc(reviewDb('google.com',false),'bookReviews','ketejami_loda')));});
+test('verified Google reader can open a review but cannot enumerate or overwrite drafts',async()=>{await seedReview();const d=reviewDb();await assertSucceeds(getDoc(doc(d,'bookReviews','ketejami_loda')));await assertFails(getDocs(collection(d,'bookReviews')));await assertFails(setDoc(doc(d,'bookReviews','ketejami_loda'),{payload:'tampered'}));});

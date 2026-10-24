@@ -36,17 +36,6 @@ intro=f'''<header class="book-header"><a href="/shishu/elibrary_main.html">← �
 nav=f'''<nav class="reader-tools" aria-label="Reading controls"><label><span class="sr-only">କବିତା ବାଛନ୍ତୁ</span><select id="poems">{options}</select></label><button id="smaller" aria-label="Smaller text">A−</button><button id="larger" aria-label="Larger text">A+</button><button id="theme" aria-pressed="false">ରାତି</button><a href="{base}musha-mushi-illustrated.pdf" download>PDF ↓</a><a href="{base}page-1.html">ମୂଳ ବହି</a><a href="{base}proofread.html">ପ୍ରୁଫ୍‌ ଦେଖନ୍ତୁ</a></nav>'''
 footer=f'''<footer class="book-footer"><p lang="en">{book['credit']}</p><p>ମୂଳ ସଂସ୍କରଣ: ଲେଖାଲେଖି, ୨୦୨୨ · ମୂଳ ଚିତ୍ର: ବଳଦେବ ମହାରଥା</p><p lang="en">Original scans and printed credits are preserved.</p><a href="{base}page-2.html">ମୂଳ ପ୍ରକାଶନ ତଥ୍ୟ</a> · <a href="/shishu/elibrary_main.html">ବହିକୁ ଫେରନ୍ତୁ</a></footer>'''
 (D/'illustrated.html').write_text(head(book['title'])+'<body>'+intro+nav+'<main>'+''.join(sections)+'</main>'+footer+f'<script src="{base}illustrated.js"></script></body></html>')
-review='''<body class="proofreader"><header class="review-header"><a href="illustrated.html">← Illustrated book</a><h1>ମୂଷା ଓ ମୁଷୀ — ପ୍ରୁଫ୍‌</h1><p>Compare every poem with the original. Edits stay in this browser; download the correction file to send them back. Downloading does not publish changes.</p><label>Original printed page <select id="page-picker"></select></label> <button id="previous">← Previous</button> <button id="next">Next →</button> <button id="download">Download corrections</button><p id="save-status" role="status"></p><p id="review-flags"></p></header><main class="comparison"><a id="scan-link" target="_blank" rel="noopener"><img id="scan" alt="Original printed page"></a><div><label for="transcription">Text draft — edit here</label><textarea id="transcription" spellcheck="false"></textarea><p>Includes original headings on their source pages. Poetry line breaks are retained.</p></div></main><script src="proofread.js"></script></body></html>'''
-(D/'proofread.html').write_text(head('ମୂଷା ଓ ମୁଷୀ — ପ୍ରୁଫ୍‌',True)+review)
-(D/'proofread-pages.json').write_text(json.dumps([p for p in pages[3:] if p['text']],ensure_ascii=False,indent=2)+'\n')
-# Put the new edition first, while keeping original cover and scan routes intact.
-landing=P/'shishu/e_library-musha_mushi-html.html'; soup=BeautifulSoup(landing.read_text(),'html.parser');box=soup.select_one('.book-intro > div')
-first=box.select_one('.ia-button');first['href']=base+'illustrated.html';first.string='ନୂଆ ଚିତ୍ର ସହ ପଢ଼ନ୍ତୁ →'
-if not box.select_one('.original-book-link'):
- a=soup.new_tag('a',href=base+'page-1.html');a['class']='original-book-link';a.string='ମୂଳ ବହି ପଢ଼ନ୍ତୁ';first.insert_after(a)
-box.select_one('.book-explanation').string='୧୮ଟି କବିତା · ନୂଆ ଚିତ୍ର · PDF · ଲେଖକଙ୍କ ପ୍ରୁଫ୍‌ ସଂଶୋଧନ ଅପେକ୍ଷାରେ'
-box.select_one('.book-note p').string='The complete illustrated text draft is ready for writer proofreading. Best readings of faded words are marked on the review page. All 50 original scanned pages remain available.'
-landing.write_text(str(soup))
 # Use the illustrated edition in the global book selector; its original remains linked inside.
 catalog=P/'reader-catalog.json';data=json.loads(catalog.read_text())
 for group in data:
@@ -59,3 +48,5 @@ print(f'Built {len(chapters)} poems, {sum(len(c["pages"]) for c in chapters)} so
 # Keep reader and download entry points consistent after regeneration.
 import runpy
 runpy.run_path(str(R/'scripts/books/publish-musha-entrypoints.py'))
+
+runpy.run_path(str(R/'scripts/books/normalize-book-ui.py'))

@@ -1,4 +1,5 @@
 (()=>{
+ if(document.body.classList.contains('book-ui')||location.pathname.startsWith('/shishu/books/')||/e_library-|elibrary_main/.test(location.pathname))return;
  const main=document.querySelector('main');if(!main)return;
  const url=document.querySelector('link[rel="canonical"]')?.href||location.href,title=document.title;
  const el=(tag,text,attrs={})=>{const e=document.createElement(tag);e.textContent=text;for(const [k,v]of Object.entries(attrs))e.setAttribute(k,v);return e;};

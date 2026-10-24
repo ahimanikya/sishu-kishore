@@ -12,3 +12,6 @@ provenance/musha-mushi/pdf-fonts/
 provenance/kete-jami-loda/pdf-fonts/
 provenance/kete-jami-loda/preview.pdf
 provenance/kete-jami-loda/pdf-preview-report.json
+
+# Authenticated proofreading snapshots stay outside both Git and static delivery.
+/editorial-private/

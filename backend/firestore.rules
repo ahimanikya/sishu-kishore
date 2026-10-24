@@ -97,6 +97,11 @@ service cloud.firestore {
      && getAfter(countPath(article)).data.count == get(countPath(article)).data.count-1;
    }
   }
+  // Proofreading payloads are never served by the public static host.
+  match /bookReviews/{book} {
+   allow get: if signedIn() && request.auth.token.firebase.sign_in_provider == 'google.com';
+   allow list,write: if false;
+  }
   match /{document=**} {allow read,write:if false;}
  }
 }
