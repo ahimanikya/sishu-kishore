@@ -57,7 +57,7 @@ def select_image(soup, path):
 
 for path in sorted(SCOPE.rglob('*.html')):
     soup=BeautifulSoup(path.read_text(),'html.parser')
-    if not soup.head or soup.select_one('meta[http-equiv="refresh"]'): continue
+    if not soup.head: continue
     before=soup.body.get_text() if soup.body else ''
     relative='/'+path.relative_to(ROOT).as_posix()
     route=relative.removesuffix('index.html') if relative.endswith('/index.html') else relative
