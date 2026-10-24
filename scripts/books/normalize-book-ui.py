@@ -19,6 +19,7 @@ for path in files:
  key=next((k for k in configs if k in route),None)
  if '/paresh/' in route:key='frog' if 'frog' in path.name else 'forest' if 'forest' in path.name else None
  cfg=configs.get(key);s.body['class']=list(dict.fromkeys(s.body.get('class',[])+['book-ui']))
+ if key in ['forest','musha_mushi']:s.body['class']=list(dict.fromkeys(s.body['class']+['uniform-illustrations']))
  for x in s.select('.book-site-header,.book-view-links,.book-private-footer,.mag-share,.mag-share-menu,.ia-breadcrumb,.draft-note,.book-actions,.original-book-link,.book-resume'):x.decompose()
  for x in s.select('script[src]'):
   if x['src'].split('?')[0] in ['/share.js','/services.js']:x.decompose()

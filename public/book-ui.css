@@ -28,3 +28,6 @@ body.book-ui .book-quick-download{margin-left:auto;display:inline-flex;align-ite
 body.book-ui .book-private-footer p{margin:0 0 10px;line-height:1.8}
 body.book-ui.night .book-quick-download{color:#c3e4c4}
 @media(max-width:450px){body.book-ui .book-site-header{flex-wrap:wrap;gap:10px}body.book-ui .book-quick-download{font-size:14px}}
+
+/* The first two illustrated books share one responsive illustration size. */
+body.uniform-illustrations .story-art,body.uniform-illustrations .cover,body.uniform-illustrations .cover-art{display:block;width:min(100%,720px,calc(100vw - 48px));max-width:720px;height:auto;max-height:none;aspect-ratio:3/2;object-fit:contain;margin:25px auto}
