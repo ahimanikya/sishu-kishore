@@ -31,3 +31,9 @@ body.book-ui.night .book-quick-download{color:#c3e4c4}
 
 /* The first two illustrated books share one responsive illustration size. */
 body.uniform-illustrations .story-art,body.uniform-illustrations .cover,body.uniform-illustrations .cover-art{display:block;width:min(100%,720px,calc(100vw - 48px));max-width:720px;height:auto;max-height:none;aspect-ratio:3/2;object-fit:contain;margin:25px auto}
+
+/* Keep reading controls and footer links legible in night mode. */
+body.book-ui.night .reader-tools,body.book-ui.night>nav:not(.pager){background:#1e3026;border-color:#576a59;color:#e8eddf}
+body.book-ui.night button,body.book-ui.night select{background:#263b2e;color:#e8eddf;border-color:#71836e;color-scheme:dark}
+body.book-ui.night .book-back,body.book-ui.night .book-private-footer a{color:#c3e4c4;border-color:#71836e}
+body.book-ui.night .book-private-footer{border-color:#576a59}

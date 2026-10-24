@@ -37,6 +37,12 @@ for path in files:
  header=s.new_tag('header',attrs={'class':'book-site-header'});back=s.new_tag('a',href='/shishu/elibrary_main.html',attrs={'class':'book-back book-exit exit','aria-label':'Back'});back.string='←';brand=s.new_tag('a',href='/',attrs={'class':'book-site-brand'});brand.string='ଶିଶୁ କିଶୋର';header.extend([back,brand]);s.body.insert(0,header)
  if cfg and cfg[1]:
   a=s.new_tag('a',href=cfg[1],attrs={'class':'book-quick-download','download':''});a.string='PDF ଡାଉନଲୋଡ୍';header.append(a)
+ if key=='forest' and route==cfg[0]:
+  controls=s.select_one('#stories').find_parent('nav');controls['class']=['reader-tools'];controls['aria-label']='Reading controls'
+  if not s.select_one('#theme'):
+   button=s.new_tag('button',id='theme',attrs={'type':'button','aria-pressed':'false'});button.string='ରାତି';controls.append(button)
+  for script in s.select('script[src]'):
+   if script['src'].split('?')[0] in ['reading.js','/shishu/books/paresh/reading.js']:script['src']='/shishu/books/paresh/reading.js'
  if not s.select_one('link[href="/book-ui.css"]'):s.head.append(s.new_tag('link',rel='stylesheet',href='/book-ui.css'))
  if cfg and cfg[2]:
   # Keep credits, source and private review in one footer.
