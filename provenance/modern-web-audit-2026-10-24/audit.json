@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-24",
+  "status": "Local changes verified; not committed, pushed or published",
+  "baseCommit": "af3e9ea2ca79830e67144a2228b6f7b487a97825",
+  "guidance": {
+    "source": "https://developer.chrome.com/docs/modern-web-guidance",
+    "skillVersion": "2026_10_16-6654652b",
+    "guides": [
+      "accessibility",
+      "performance",
+      "optimize-image-priority"
+    ]
+  },
+  "scope": [
+    "/",
+    "/shishu/books/paresh/forest.html",
+    "/shishu/books/musha_mushi/illustrated.html",
+    "/shishu/books/ketejami_loda/illustrated.html"
+  ],
+  "fixes": [
+    "Focusable skip-to-reading links and a focusable homepage skip target; visible day/night focus outlines.",
+    "A single site banner and a named book-title region in each reader.",
+    "Poem-number contrast corrected from the measured 3.58:1 to above 4.5:1.",
+    "Chapter offsets follow the wrapping toolbar height; reduced motion is respected.",
+    "All forest illustrations reserve dimensions; offscreen forest/comic art uses native lazy loading.",
+    "Comic SVG sprite crops replaced by equivalently cropped native images, retaining all 107 source coordinates, labels, aspect ratios and captions.",
+    "Responsive WebP delivery copies for the three opening illustrations, retaining original JPEG fallback and original artwork files.",
+    "Critical local variable Odia font preload; homepage styled-list semantics retained for Safari.",
+    "Comic selector order matches the actual comic-first, preface-last reading order.",
+    "Changes integrated into book normalization and the build; changed book CSS and shared toolbar script fingerprinted."
+  ],
+  "automatedAccessibility": {
+    "tool": "axe-core",
+    "version": "4.14.0",
+    "tags": [
+      "wcag2a",
+      "wcag2aa",
+      "wcag21aa",
+      "best-practice"
+    ],
+    "results": [
+      {
+        "page": "home",
+        "viewportWidth": 320,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "home",
+        "viewportWidth": 390,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "home",
+        "viewportWidth": 768,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "home",
+        "viewportWidth": 1440,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "forest",
+        "viewportWidth": 320,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "forest",
+        "viewportWidth": 390,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "forest",
+        "viewportWidth": 768,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "forest",
+        "viewportWidth": 1440,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "musha",
+        "viewportWidth": 320,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "musha",
+        "viewportWidth": 390,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "musha",
+        "viewportWidth": 768,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "musha",
+        "viewportWidth": 1440,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "kete",
+        "viewportWidth": 320,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "kete",
+        "viewportWidth": 390,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "kete",
+        "viewportWidth": 768,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      },
+      {
+        "page": "kete",
+        "viewportWidth": 1440,
+        "horizontalOverflow": 0,
+        "violations": [],
+        "scriptErrors": [],
+        "nightContrastViolations": []
+      }
+    ]
+  },
+  "compatibility": [
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "home",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "home",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "forest",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "forest",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "musha",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "musha",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "kete",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "version": "26.5",
+      "name": "kete",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "home",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "home",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "forest",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "forest",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "musha",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "musha",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "kete",
+      "width": 320,
+      "overflow": 0,
+      "errors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "153.0",
+      "name": "kete",
+      "width": 1440,
+      "overflow": 0,
+      "errors": []
+    }
+  ],
+  "readerChecks": {
+    "home": {
+      "images": 23,
+      "bytes": 690805,
+      "font": "\"Baloo Bhaina 2\", \"Noto Sans Oriya\", \"DM Sans\", sans-serif"
+    },
+    "forest": {
+      "images": 1,
+      "bytes": 61488,
+      "font": "\"Baloo Bhaina 2\", \"Noto Sans Oriya\", \"DM Sans\", sans-serif",
+      "jump": {
+        "top": 162.328125,
+        "bar": 146
+      }
+    },
+    "musha": {
+      "images": 1,
+      "bytes": 63478,
+      "font": "\"Baloo Bhaina 2\", \"Noto Sans Oriya\", \"DM Sans\", sans-serif",
+      "jump": {
+        "top": 154.390625,
+        "bar": 138
+      }
+    },
+    "kete": {
+      "images": 1,
+      "bytes": 385568,
+      "font": "\"Baloo Bhaina 2\", \"Noto Sans Oriya\", \"DM Sans\", sans-serif",
+      "jump": {
+        "top": 90.421875,
+        "bar": 74
+      },
+      "panels": 107
+    }
+  },
+  "openingImageMeasurements": {
+    "conditions": "Local Chrome, fresh context, 390x900 CSS pixels, DPR 1; counts/transfer bytes recorded before scrolling. Lazy loading thresholds vary by browser/network.",
+    "before": {
+      "forest": {
+        "requests": 10,
+        "transferBytes": 6456798
+      },
+      "musha": {
+        "requests": 1,
+        "transferBytes": 683604
+      },
+      "kete": {
+        "requests": 22,
+        "transferBytes": 13375772
+      }
+    },
+    "after": {
+      "forest": {
+        "requests": 1,
+        "transferBytes": 61488
+      },
+      "musha": {
+        "requests": 1,
+        "transferBytes": 63478
+      },
+      "kete": {
+        "requests": 1,
+        "transferBytes": 385568
+      }
+    }
+  },
+  "mobileStartupLab": {
+    "conditions": "Single local Chrome run per page; 390x844, DPR 2, cache disabled, simulated 150ms latency / 200000 bytes per second download / 4x CPU slowdown. External services blocked. Layout shift sum covers startup only; LCP is a lab sample.",
+    "results": [
+      {
+        "name": "home",
+        "cls": 0.08981296316778845,
+        "lcp": 1756,
+        "element": "IMG.storybook-cover-art",
+        "images": 22
+      },
+      {
+        "name": "forest",
+        "cls": 0.028765584918799485,
+        "lcp": 2344,
+        "element": "IMG.cover",
+        "images": 1
+      },
+      {
+        "name": "musha",
+        "cls": 0.03602791419844222,
+        "lcp": 2384,
+        "element": "IMG.cover-art",
+        "images": 1
+      },
+      {
+        "name": "kete",
+        "cls": 0.04547990740396782,
+        "lcp": 3312,
+        "element": "IMG.",
+        "images": 1
+      }
+    ]
+  },
+  "preservation": {
+    "mainTextAndFooterCredits": "Exact comparison against the original Git HTML passed for all three readers.",
+    "comicPanels": 107,
+    "comicGeometry": "All 107 crop coordinates, source URLs, aspect ratios and alternative labels verified against original SVG crops. Representative phone/desktop crops visually reviewed.",
+    "originalAssets": "No existing image, scan or PDF files changed.",
+    "reviewBoundary": "142 book UI checks passed; proof links remain footer-only and static review payloads remain absent.",
+    "characters": "No character collection files or redirects added."
+  },
+  "projectChecks": {
+    "npmTest": "24 passed, 0 failed",
+    "npmRunBuild": "passed",
+    "gitDiffCheck": "passed"
+  },
+  "limitations": [
+    "No WCAG certification or calibrated screen-reader/user testing.",
+    "WebKit and Firefox automation is not a physical iPhone/Android test.",
+    "No real-user Core Web Vitals or field INP measurements.",
+    "The comic LCP measured 3.312 seconds in this single slow-network sample; delivery of individual comic panels is a possible later optimization if field measurements warrant it.",
+    "Homepage contents shuffle on refresh; startup layout-shift measurements vary with the arrangement."
+  ],
+  "screenshots": [
+    "home-phone.png",
+    "forest-phone.png",
+    "musha-phone.png",
+    "kete-phone.png",
+    "kete-desktop.png"
+  ]
+}

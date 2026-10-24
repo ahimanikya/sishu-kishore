@@ -37,3 +37,17 @@ body.book-ui.night .reader-tools,body.book-ui.night>nav:not(.pager){background:#
 body.book-ui.night button,body.book-ui.night select{background:#263b2e;color:#e8eddf;border-color:#71836e;color-scheme:dark}
 body.book-ui.night .book-back,body.book-ui.night .book-private-footer a{color:#c3e4c4;border-color:#71836e}
 body.book-ui.night .book-private-footer{border-color:#576a59}
+
+/* Keyboard access to reading, with visible focus in both colour schemes. */
+body.book-ui .book-skip{position:fixed;top:12px;left:12px;z-index:100;padding:12px 18px;background:#faf8f2;color:#294534;transform:translateY(-200%)}
+body.book-ui .book-skip:focus{transform:none}
+body.book-ui :is(a,button,select,[tabindex]):focus-visible{outline:3px solid #176779;outline-offset:4px}
+body.book-ui.night :is(a,button,select,[tabindex]):focus-visible{outline-color:#c3e4c4}
+body.book-ui .poem-number{color:#626b55}
+body.book-ui.night .poem-number{color:#b0b99e}
+/* Preserve the existing comic crops while loading distant sheets on demand. */
+body.book-ui span.panel-art{position:relative}
+body.book-ui span.panel-art>img{position:absolute;display:block;max-width:none;object-fit:fill}
+html{scroll-padding-top:var(--book-toolbar-offset,160px)}
+body.book-ui main>section{scroll-margin-top:0}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

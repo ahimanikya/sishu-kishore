@@ -62,3 +62,7 @@ for key in ['ketejami_loda','musha_mushi','forest','frog']:
 for name in ['shishu/books/ketejami_loda/proofread-pages.json','shishu/books/musha_mushi/proofread-pages.json','shishu/books/paresh/forest-proofread.json','shishu/books/paresh/banaraijar-kahani-odia-proofreading.txt','shishu/books/ketejami_loda/proofread.js','shishu/books/musha_mushi/proofread.js']:
  (P/name).unlink(missing_ok=True)
 print(f'Unified {len(files)} book pages; review content requires Google sign-in.')
+
+# Keep regenerated books aligned with the focused accessibility/delivery audit.
+import runpy
+runpy.run_path(str(R/'scripts/books/improve-reader-delivery.py'))
