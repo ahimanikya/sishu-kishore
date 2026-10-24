@@ -12,7 +12,7 @@ fonts=S/'pdf-fonts';fonts.mkdir(exist_ok=True)
 for weight in [400,600]:
  p=fonts/f'BalooBhaina2-{weight}.ttf'
  if not p.exists():
-  f=TTFont(R/'public/characters/assets/baloo-bhaina-2.ttf')
+  f=TTFont(R/'public/fonts/baloo-bhaina-2.ttf')
   if 'fvar' in f:f=instantiateVariableFont(f,{'wght':weight},inplace=False)
   f.save(p)
 class Book(FPDF):

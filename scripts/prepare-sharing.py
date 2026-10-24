@@ -43,11 +43,6 @@ def select_image(soup, path):
         local=(ROOT/src.lstrip('/')).resolve()
         if src.startswith('/shishu/books/') and local.is_relative_to((ROOT/'shishu/books').resolve()) and local.is_file() and local.suffix.lower() in ['.jpg','.jpeg','.png','.webp']:
             return src
-    character_preview=soup.select_one('meta[name="character-preview"]')
-    if character_preview:
-        src=character_preview.get('content','')
-        if src.startswith('/characters/') and (ROOT/src.lstrip('/')).resolve().is_relative_to((ROOT/'characters').resolve()) and (ROOT/src.lstrip('/')).is_file():
-            return src
     if '/writers/' in str(path):
         candidates=soup.select('main img[src*="portraits/"]')
     elif path.name in ['index.html','current_issue.html']:
@@ -62,7 +57,7 @@ def select_image(soup, path):
 
 for path in sorted(SCOPE.rglob('*.html')):
     soup=BeautifulSoup(path.read_text(),'html.parser')
-    if not soup.head: continue
+    if not soup.head or soup.select_one('meta[http-equiv="refresh"]'): continue
     before=soup.body.get_text() if soup.body else ''
     relative='/'+path.relative_to(ROOT).as_posix()
     route=relative.removesuffix('index.html') if relative.endswith('/index.html') else relative

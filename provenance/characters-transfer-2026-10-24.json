@@ -1,0 +1,625 @@
+{
+  "date": "2026-10-24",
+  "authorization": "Move characters out of Sishu Kishore and add to project Odisha",
+  "source_head": "69be752ca569949936b6d35bd51f83df033d4c8f",
+  "destination_repository": "https://github.com/ahimanikya/project-odisha",
+  "destination": "https://projectodisha.org/characters/",
+  "archive_manifest": "https://github.com/ahimanikya/project-odisha/blob/main/projects/characters/source-manifest.json",
+  "redirects": [
+    {
+      "source": "/characters/abolakara/language-review/index.html",
+      "target": "https://projectodisha.org/characters/abolakara/language-review/"
+    },
+    {
+      "source": "/characters/abolakara/pilot-story/finished-page-v1.html",
+      "target": "https://projectodisha.org/characters/abolakara/pilot-story/finished-page-v1.html"
+    },
+    {
+      "source": "/characters/abolakara.html",
+      "target": "https://projectodisha.org/characters/abolakara.html"
+    },
+    {
+      "source": "/characters/batare-katha.html",
+      "target": "https://projectodisha.org/characters/batare-katha.html"
+    },
+    {
+      "source": "/characters/boita-sadhaba/language-review/index.html",
+      "target": "https://projectodisha.org/characters/boita-sadhaba/language-review/"
+    },
+    {
+      "source": "/characters/boita-sadhaba/pilot-story/finished-page-v1.html",
+      "target": "https://projectodisha.org/characters/boita-sadhaba/pilot-story/finished-page-v1.html"
+    },
+    {
+      "source": "/characters/boita-sadhaba/pilot-story/index.html",
+      "target": "https://projectodisha.org/characters/boita-sadhaba/pilot-story/"
+    },
+    {
+      "source": "/characters/boita-sadhaba/pilot-story/page-english-v1.html",
+      "target": "https://projectodisha.org/characters/boita-sadhaba/pilot-story/page-english-v1.html"
+    },
+    {
+      "source": "/characters/boita-sadhaba/pilot-story/page-odia-v1.html",
+      "target": "https://projectodisha.org/characters/boita-sadhaba/pilot-story/page-odia-v1.html"
+    },
+    {
+      "source": "/characters/boita-sadhaba.html",
+      "target": "https://projectodisha.org/characters/boita-sadhaba.html"
+    },
+    {
+      "source": "/characters/chhota-karigara.html",
+      "target": "https://projectodisha.org/characters/chhota-karigara.html"
+    },
+    {
+      "source": "/characters/comparison.html",
+      "target": "https://projectodisha.org/characters/comparison.html"
+    },
+    {
+      "source": "/characters/complete-report.html",
+      "target": "https://projectodisha.org/characters/complete-report.html"
+    },
+    {
+      "source": "/characters/design-path.html",
+      "target": "https://projectodisha.org/characters/design-path.html"
+    },
+    {
+      "source": "/characters/dharmapada/language-review/index.html",
+      "target": "https://projectodisha.org/characters/dharmapada/language-review/"
+    },
+    {
+      "source": "/characters/dharmapada/pilot-story/finished-page-v1.html",
+      "target": "https://projectodisha.org/characters/dharmapada/pilot-story/finished-page-v1.html"
+    },
+    {
+      "source": "/characters/dharmapada.html",
+      "target": "https://projectodisha.org/characters/dharmapada.html"
+    },
+    {
+      "source": "/characters/films/benu-my-story-first/first-cut-v1.html",
+      "target": "https://projectodisha.org/characters/films/benu-my-story-first/first-cut-v1.html"
+    },
+    {
+      "source": "/characters/films/benu-my-story-first/index.html",
+      "target": "https://projectodisha.org/characters/films/benu-my-story-first/"
+    },
+    {
+      "source": "/characters/films/boita-small-bundle/index.html",
+      "target": "https://projectodisha.org/characters/films/boita-small-bundle/"
+    },
+    {
+      "source": "/characters/films/chiku-round-the-stone/film-v3.html",
+      "target": "https://projectodisha.org/characters/films/chiku-round-the-stone/film-v3.html"
+    },
+    {
+      "source": "/characters/films/chiku-round-the-stone/first-cut-v1.html",
+      "target": "https://projectodisha.org/characters/films/chiku-round-the-stone/first-cut-v1.html"
+    },
+    {
+      "source": "/characters/films/chiku-round-the-stone/revised-cut-v2.html",
+      "target": "https://projectodisha.org/characters/films/chiku-round-the-stone/revised-cut-v2.html"
+    },
+    {
+      "source": "/characters/films/dinu-wait-a-moment/first-cut-v1.html",
+      "target": "https://projectodisha.org/characters/films/dinu-wait-a-moment/first-cut-v1.html"
+    },
+    {
+      "source": "/characters/films/dinu-wait-a-moment/index.html",
+      "target": "https://projectodisha.org/characters/films/dinu-wait-a-moment/"
+    },
+    {
+      "source": "/characters/films/koeli-little-sound/first-cut-v1.html",
+      "target": "https://projectodisha.org/characters/films/koeli-little-sound/first-cut-v1.html"
+    },
+    {
+      "source": "/characters/films/koeli-little-sound/index.html",
+      "target": "https://projectodisha.org/characters/films/koeli-little-sound/"
+    },
+    {
+      "source": "/characters/films/koeli-little-sound/motion-v1.html",
+      "target": "https://projectodisha.org/characters/films/koeli-little-sound/motion-v1.html"
+    },
+    {
+      "source": "/characters/films/malati-stay-a-moment/first-cut-v1.html",
+      "target": "https://projectodisha.org/characters/films/malati-stay-a-moment/first-cut-v1.html"
+    },
+    {
+      "source": "/characters/films/malati-stay-a-moment/index.html",
+      "target": "https://projectodisha.org/characters/films/malati-stay-a-moment/"
+    },
+    {
+      "source": "/characters/films/malati-stay-a-moment/revised-cut-v2.html",
+      "target": "https://projectodisha.org/characters/films/malati-stay-a-moment/revised-cut-v2.html"
+    },
+    {
+      "source": "/characters/films/mother-message-from-me/index.html",
+      "target": "https://projectodisha.org/characters/films/mother-message-from-me/"
+    },
+    {
+      "source": "/characters/films/nilu-hold-this-end/first-cut-v1.html",
+      "target": "https://projectodisha.org/characters/films/nilu-hold-this-end/first-cut-v1.html"
+    },
+    {
+      "source": "/characters/films/nilu-hold-this-end/index.html",
+      "target": "https://projectodisha.org/characters/films/nilu-hold-this-end/"
+    },
+    {
+      "source": "/characters/films/nilu-hold-this-end/motion-v1.html",
+      "target": "https://projectodisha.org/characters/films/nilu-hold-this-end/motion-v1.html"
+    },
+    {
+      "source": "/characters/films/nilu-hold-this-end/revised-cut-v2.html",
+      "target": "https://projectodisha.org/characters/films/nilu-hold-this-end/revised-cut-v2.html"
+    },
+    {
+      "source": "/characters/films/reba-one-last-seam/index.html",
+      "target": "https://projectodisha.org/characters/films/reba-one-last-seam/"
+    },
+    {
+      "source": "/characters/films/saanta-wrong-ending/first-cut-v1.html",
+      "target": "https://projectodisha.org/characters/films/saanta-wrong-ending/first-cut-v1.html"
+    },
+    {
+      "source": "/characters/films/saanta-wrong-ending/index.html",
+      "target": "https://projectodisha.org/characters/films/saanta-wrong-ending/"
+    },
+    {
+      "source": "/characters/gudul-gudli.html",
+      "target": "https://projectodisha.org/characters/gudul-gudli.html"
+    },
+    {
+      "source": "/characters/index.html",
+      "target": "https://projectodisha.org/characters/"
+    },
+    {
+      "source": "/characters/koeli.html",
+      "target": "https://projectodisha.org/characters/koeli.html"
+    },
+    {
+      "source": "/characters/koraput.html",
+      "target": "https://projectodisha.org/characters/koraput.html"
+    },
+    {
+      "source": "/characters/nilu-chaiti.html",
+      "target": "https://projectodisha.org/characters/nilu-chaiti.html"
+    },
+    {
+      "source": "/characters/regional-dress.html",
+      "target": "https://projectodisha.org/characters/regional-dress.html"
+    },
+    {
+      "source": "/characters/scripts/abolakara-knot-for-what.html",
+      "target": "https://projectodisha.org/characters/scripts/abolakara-knot-for-what.html"
+    },
+    {
+      "source": "/characters/scripts/abolakara-last-word.html",
+      "target": "https://projectodisha.org/characters/scripts/abolakara-last-word.html"
+    },
+    {
+      "source": "/characters/scripts/abolakara-two-handfuls.html",
+      "target": "https://projectodisha.org/characters/scripts/abolakara-two-handfuls.html"
+    },
+    {
+      "source": "/characters/scripts/benu-eight-and-twelve.html",
+      "target": "https://projectodisha.org/characters/scripts/benu-eight-and-twelve.html"
+    },
+    {
+      "source": "/characters/scripts/benu-my-story-first.html",
+      "target": "https://projectodisha.org/characters/scripts/benu-my-story-first.html"
+    },
+    {
+      "source": "/characters/scripts/benu-which-left.html",
+      "target": "https://projectodisha.org/characters/scripts/benu-which-left.html"
+    },
+    {
+      "source": "/characters/scripts/bird-empty-step.html",
+      "target": "https://projectodisha.org/characters/scripts/bird-empty-step.html"
+    },
+    {
+      "source": "/characters/scripts/bird-shallow-splash.html",
+      "target": "https://projectodisha.org/characters/scripts/bird-shallow-splash.html"
+    },
+    {
+      "source": "/characters/scripts/bird-wrong-perch.html",
+      "target": "https://projectodisha.org/characters/scripts/bird-wrong-perch.html"
+    },
+    {
+      "source": "/characters/scripts/bisu-listen-again.html",
+      "target": "https://projectodisha.org/characters/scripts/bisu-listen-again.html"
+    },
+    {
+      "source": "/characters/scripts/bisu-sour-berry.html",
+      "target": "https://projectodisha.org/characters/scripts/bisu-sour-berry.html"
+    },
+    {
+      "source": "/characters/scripts/bisu-we-made-it.html",
+      "target": "https://projectodisha.org/characters/scripts/bisu-we-made-it.html"
+    },
+    {
+      "source": "/characters/scripts/chaiti-one-more-dot.html",
+      "target": "https://projectodisha.org/characters/scripts/chaiti-one-more-dot.html"
+    },
+    {
+      "source": "/characters/scripts/chaiti-open-knot.html",
+      "target": "https://projectodisha.org/characters/scripts/chaiti-open-knot.html"
+    },
+    {
+      "source": "/characters/scripts/chaiti-paper-bridge.html",
+      "target": "https://projectodisha.org/characters/scripts/chaiti-paper-bridge.html"
+    },
+    {
+      "source": "/characters/scripts/chiku-leaf-on-tail.html",
+      "target": "https://projectodisha.org/characters/scripts/chiku-leaf-on-tail.html"
+    },
+    {
+      "source": "/characters/scripts/chiku-round-the-stone.html",
+      "target": "https://projectodisha.org/characters/scripts/chiku-round-the-stone.html"
+    },
+    {
+      "source": "/characters/scripts/chiku-wall-crossing.html",
+      "target": "https://projectodisha.org/characters/scripts/chiku-wall-crossing.html"
+    },
+    {
+      "source": "/characters/scripts/dharama-from-here.html",
+      "target": "https://projectodisha.org/characters/scripts/dharama-from-here.html"
+    },
+    {
+      "source": "/characters/scripts/dharama-saying-bapa.html",
+      "target": "https://projectodisha.org/characters/scripts/dharama-saying-bapa.html"
+    },
+    {
+      "source": "/characters/scripts/dharama-show-you-home.html",
+      "target": "https://projectodisha.org/characters/scripts/dharama-show-you-home.html"
+    },
+    {
+      "source": "/characters/scripts/dinu-my-crooked-line.html",
+      "target": "https://projectodisha.org/characters/scripts/dinu-my-crooked-line.html"
+    },
+    {
+      "source": "/characters/scripts/dinu-room-for-my-work.html",
+      "target": "https://projectodisha.org/characters/scripts/dinu-room-for-my-work.html"
+    },
+    {
+      "source": "/characters/scripts/dinu-wait-a-moment.html",
+      "target": "https://projectodisha.org/characters/scripts/dinu-wait-a-moment.html"
+    },
+    {
+      "source": "/characters/scripts/hari-time-to-sit.html",
+      "target": "https://projectodisha.org/characters/scripts/hari-time-to-sit.html"
+    },
+    {
+      "source": "/characters/scripts/hari-two-pairs-of-hands.html",
+      "target": "https://projectodisha.org/characters/scripts/hari-two-pairs-of-hands.html"
+    },
+    {
+      "source": "/characters/scripts/hari-which-end.html",
+      "target": "https://projectodisha.org/characters/scripts/hari-which-end.html"
+    },
+    {
+      "source": "/characters/scripts/hema-damp-fold.html",
+      "target": "https://projectodisha.org/characters/scripts/hema-damp-fold.html"
+    },
+    {
+      "source": "/characters/scripts/hema-kept-piece.html",
+      "target": "https://projectodisha.org/characters/scripts/hema-kept-piece.html"
+    },
+    {
+      "source": "/characters/scripts/hema-let-her-answer.html",
+      "target": "https://projectodisha.org/characters/scripts/hema-let-her-answer.html"
+    },
+    {
+      "source": "/characters/scripts/kanu-same-start.html",
+      "target": "https://projectodisha.org/characters/scripts/kanu-same-start.html"
+    },
+    {
+      "source": "/characters/scripts/kanu-this-corner.html",
+      "target": "https://projectodisha.org/characters/scripts/kanu-this-corner.html"
+    },
+    {
+      "source": "/characters/scripts/kanu-two-names.html",
+      "target": "https://projectodisha.org/characters/scripts/kanu-two-names.html"
+    },
+    {
+      "source": "/characters/scripts/koeli-first-line.html",
+      "target": "https://projectodisha.org/characters/scripts/koeli-first-line.html"
+    },
+    {
+      "source": "/characters/scripts/koeli-little-sound.html",
+      "target": "https://projectodisha.org/characters/scripts/koeli-little-sound.html"
+    },
+    {
+      "source": "/characters/scripts/koeli-your-turn.html",
+      "target": "https://projectodisha.org/characters/scripts/koeli-your-turn.html"
+    },
+    {
+      "source": "/characters/scripts/kusum-change-the-row.html",
+      "target": "https://projectodisha.org/characters/scripts/kusum-change-the-row.html"
+    },
+    {
+      "source": "/characters/scripts/kusum-let-me-finish.html",
+      "target": "https://projectodisha.org/characters/scripts/kusum-let-me-finish.html"
+    },
+    {
+      "source": "/characters/scripts/kusum-one-empty-space.html",
+      "target": "https://projectodisha.org/characters/scripts/kusum-one-empty-space.html"
+    },
+    {
+      "source": "/characters/scripts/madhab-dry-books.html",
+      "target": "https://projectodisha.org/characters/scripts/madhab-dry-books.html"
+    },
+    {
+      "source": "/characters/scripts/madhab-longer-way.html",
+      "target": "https://projectodisha.org/characters/scripts/madhab-longer-way.html"
+    },
+    {
+      "source": "/characters/scripts/madhab-quiet-knock.html",
+      "target": "https://projectodisha.org/characters/scripts/madhab-quiet-knock.html"
+    },
+    {
+      "source": "/characters/scripts/malati-count-what.html",
+      "target": "https://projectodisha.org/characters/scripts/malati-count-what.html"
+    },
+    {
+      "source": "/characters/scripts/malati-small-parcel.html",
+      "target": "https://projectodisha.org/characters/scripts/malati-small-parcel.html"
+    },
+    {
+      "source": "/characters/scripts/malati-stay-a-moment.html",
+      "target": "https://projectodisha.org/characters/scripts/malati-stay-a-moment.html"
+    },
+    {
+      "source": "/characters/scripts/mandar-long-shadow.html",
+      "target": "https://projectodisha.org/characters/scripts/mandar-long-shadow.html"
+    },
+    {
+      "source": "/characters/scripts/mandar-rustling-bag.html",
+      "target": "https://projectodisha.org/characters/scripts/mandar-rustling-bag.html"
+    },
+    {
+      "source": "/characters/scripts/mandar-small-audience.html",
+      "target": "https://projectodisha.org/characters/scripts/mandar-small-audience.html"
+    },
+    {
+      "source": "/characters/scripts/mother-knot-he-can-open.html",
+      "target": "https://projectodisha.org/characters/scripts/mother-knot-he-can-open.html"
+    },
+    {
+      "source": "/characters/scripts/mother-message-from-me.html",
+      "target": "https://projectodisha.org/characters/scripts/mother-message-from-me.html"
+    },
+    {
+      "source": "/characters/scripts/mother-one-for-me.html",
+      "target": "https://projectodisha.org/characters/scripts/mother-one-for-me.html"
+    },
+    {
+      "source": "/characters/scripts/nilu-hold-this-end.html",
+      "target": "https://projectodisha.org/characters/scripts/nilu-hold-this-end.html"
+    },
+    {
+      "source": "/characters/scripts/nilu-not-my-mark.html",
+      "target": "https://projectodisha.org/characters/scripts/nilu-not-my-mark.html"
+    },
+    {
+      "source": "/characters/scripts/nilu-wrong-foot.html",
+      "target": "https://projectodisha.org/characters/scripts/nilu-wrong-foot.html"
+    },
+    {
+      "source": "/characters/scripts/puppy-long-way.html",
+      "target": "https://projectodisha.org/characters/scripts/puppy-long-way.html"
+    },
+    {
+      "source": "/characters/scripts/puppy-loud-tin.html",
+      "target": "https://projectodisha.org/characters/scripts/puppy-loud-tin.html"
+    },
+    {
+      "source": "/characters/scripts/puppy-not-fetch.html",
+      "target": "https://projectodisha.org/characters/scripts/puppy-not-fetch.html"
+    },
+    {
+      "source": "/characters/scripts/raghu-handful-of-water.html",
+      "target": "https://projectodisha.org/characters/scripts/raghu-handful-of-water.html"
+    },
+    {
+      "source": "/characters/scripts/raghu-return-day.html",
+      "target": "https://projectodisha.org/characters/scripts/raghu-return-day.html"
+    },
+    {
+      "source": "/characters/scripts/raghu-water-pot.html",
+      "target": "https://projectodisha.org/characters/scripts/raghu-water-pot.html"
+    },
+    {
+      "source": "/characters/scripts/reba-one-last-seam.html",
+      "target": "https://projectodisha.org/characters/scripts/reba-one-last-seam.html"
+    },
+    {
+      "source": "/characters/scripts/reba-other-pocket.html",
+      "target": "https://projectodisha.org/characters/scripts/reba-other-pocket.html"
+    },
+    {
+      "source": "/characters/scripts/reba-patch-faces-in.html",
+      "target": "https://projectodisha.org/characters/scripts/reba-patch-faces-in.html"
+    },
+    {
+      "source": "/characters/scripts/saanta-start-again.html",
+      "target": "https://projectodisha.org/characters/scripts/saanta-start-again.html"
+    },
+    {
+      "source": "/characters/scripts/saanta-umbrella-in-sun.html",
+      "target": "https://projectodisha.org/characters/scripts/saanta-umbrella-in-sun.html"
+    },
+    {
+      "source": "/characters/scripts/saanta-wrong-ending.html",
+      "target": "https://projectodisha.org/characters/scripts/saanta-wrong-ending.html"
+    },
+    {
+      "source": "/characters/scripts/tara-keep-the-first.html",
+      "target": "https://projectodisha.org/characters/scripts/tara-keep-the-first.html"
+    },
+    {
+      "source": "/characters/scripts/tara-last-leaf.html",
+      "target": "https://projectodisha.org/characters/scripts/tara-last-leaf.html"
+    },
+    {
+      "source": "/characters/scripts/tara-show-the-model.html",
+      "target": "https://projectodisha.org/characters/scripts/tara-show-the-model.html"
+    },
+    {
+      "source": "/characters/sources.html",
+      "target": "https://projectodisha.org/characters/sources.html"
+    },
+    {
+      "source": "/characters/story-lab.html",
+      "target": "https://projectodisha.org/characters/story-lab.html"
+    },
+    {
+      "source": "/characters/travelling-duo/language-review/index.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/language-review/"
+    },
+    {
+      "source": "/characters/travelling-duo/pilot-story/finished-english-v1.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/pilot-story/finished-english-v1.html"
+    },
+    {
+      "source": "/characters/travelling-duo/pilot-story/finished-odia-v1.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/pilot-story/finished-odia-v1.html"
+    },
+    {
+      "source": "/characters/travelling-duo/pilot-story/finished-page-v1.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/pilot-story/finished-page-v1.html"
+    },
+    {
+      "source": "/characters/travelling-duo/pilot-story/index.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/pilot-story/"
+    },
+    {
+      "source": "/characters/travelling-duo/pilot-story/page-english-v1.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/pilot-story/page-english-v1.html"
+    },
+    {
+      "source": "/characters/travelling-duo/pilot-story/page-odia-v1.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/pilot-story/page-odia-v1.html"
+    },
+    {
+      "source": "/characters/travelling-duo/pilot-story/rough-storyboard.html",
+      "target": "https://projectodisha.org/characters/travelling-duo/pilot-story/rough-storyboard.html"
+    },
+    {
+      "source": "/characters/young-makers/language-review/index.html",
+      "target": "https://projectodisha.org/characters/young-makers/language-review/"
+    },
+    {
+      "source": "/characters/young-makers/pilot-story/finished-english-v1.html",
+      "target": "https://projectodisha.org/characters/young-makers/pilot-story/finished-english-v1.html"
+    },
+    {
+      "source": "/characters/young-makers/pilot-story/finished-odia-v1.html",
+      "target": "https://projectodisha.org/characters/young-makers/pilot-story/finished-odia-v1.html"
+    },
+    {
+      "source": "/characters/young-makers/pilot-story/finished-page-v1.html",
+      "target": "https://projectodisha.org/characters/young-makers/pilot-story/finished-page-v1.html"
+    },
+    {
+      "source": "/characters/young-makers/pilot-story/index.html",
+      "target": "https://projectodisha.org/characters/young-makers/pilot-story/"
+    },
+    {
+      "source": "/characters/young-makers/pilot-story/page-english-v1.html",
+      "target": "https://projectodisha.org/characters/young-makers/pilot-story/page-english-v1.html"
+    },
+    {
+      "source": "/characters/young-makers/pilot-story/page-odia-v1.html",
+      "target": "https://projectodisha.org/characters/young-makers/pilot-story/page-odia-v1.html"
+    },
+    {
+      "source": "/characters/young-makers/pilot-story/rough-storyboard.html",
+      "target": "https://projectodisha.org/characters/young-makers/pilot-story/rough-storyboard.html"
+    }
+  ],
+  "removed_authoring_files": [
+    "data/character-film-cuts-v1.json",
+    "data/character-motion-v1.json",
+    "data/character-production-v1.json",
+    "data/character-voices-v1.json",
+    "data/film-scripts-v1.json",
+    "provenance/character-production/2026-10-18/README.txt",
+    "provenance/character-production/2026-10-18/abolakara-films/full-film-preflight-v1.json",
+    "provenance/character-production/2026-10-18/film-coverage-v1.json",
+    "provenance/character-production/2026-10-18/manifest-sha256.json",
+    "provenance/character-production/2026-10-18/qa/live-makers-first-cut-v1-verification.json",
+    "provenance/character-production/2026-10-18/qa/makers-first-cut-browser-review-v1.json",
+    "provenance/character-production/2026-10-18/qa/makers-first-cut-live-v1.png",
+    "provenance/character-production/2026-10-18/qa/makers-first-cut-verification-v1.json",
+    "provenance/character-production/2026-10-18/task-queue.json",
+    "provenance/character-production/2026-10-18/young-makers-films/full-film-preflight-v1.json",
+    "provenance/characters-assets.json",
+    "provenance/characters-heritage-v1.json",
+    "provenance/characters-release-2026-10-16.json",
+    "provenance/small-bundle-publication-2026-10-19.json",
+    "scripts/apply-character-credit.py",
+    "scripts/character-film-cut-pages.py",
+    "scripts/character-film-pages.py",
+    "scripts/character-motion-pages.py",
+    "scripts/character-voices-pages.py",
+    "scripts/prepare-character-voices.py",
+    "scripts/prepare-characters.py",
+    "scripts/prepare-folklore-characters.py",
+    "scripts/prepare-heritage-characters.py",
+    "scripts/prepare-small-bundle.py",
+    "scripts/verify-character-downloads.py",
+    "scripts/verify-character-voices.py",
+    "CHARACTERS-HERITAGE.txt"
+  ],
+  "removed_exclusive_social_images": [
+    "/social/00b923d01a1b2b2a.jpg",
+    "/social/0311207880b91081.jpg",
+    "/social/04c4242704a529bb.jpg",
+    "/social/0beb9690ffdb0428.jpg",
+    "/social/101cd9330631b112.jpg",
+    "/social/153f7e033d48538f.jpg",
+    "/social/18ef86460a46f7be.jpg",
+    "/social/1eef4cf22c5b8b12.jpg",
+    "/social/1fe35c9219ce2cf3.jpg",
+    "/social/209e04107b1c7fff.jpg",
+    "/social/2ca155e2c5bd6d1b.jpg",
+    "/social/2f7070c50dd09bb6.jpg",
+    "/social/32c650c03d7b0555.jpg",
+    "/social/3841e02b1e75bfb9.jpg",
+    "/social/3f618d175f04ab40.jpg",
+    "/social/439e1254331b952d.jpg",
+    "/social/4deb47993eb96f8f.jpg",
+    "/social/4e5dbd601db0303b.jpg",
+    "/social/5073d82518b359cc.jpg",
+    "/social/512d40d53a761180.jpg",
+    "/social/5176ad6e1ef83dfc.jpg",
+    "/social/772881968f8332dc.jpg",
+    "/social/7847c36b750e8a01.jpg",
+    "/social/817cdec9a458112e.jpg",
+    "/social/873c873fba72d995.jpg",
+    "/social/9cd17bd7f6c0d2f3.jpg",
+    "/social/a5f29eacaca4483b.jpg",
+    "/social/a6aac0b7bafc5417.jpg",
+    "/social/ac43d730f8fe961b.jpg",
+    "/social/accd505e64b95e79.jpg",
+    "/social/adbe6b9fd93f8fe5.jpg",
+    "/social/b04e1ab5ee125ea5.jpg",
+    "/social/b7b0195fda3cfe42.jpg",
+    "/social/c023323588236ac6.jpg",
+    "/social/c2a43b510ea472d3.jpg",
+    "/social/c3194a7024295f1d.jpg",
+    "/social/c52056da117f3137.jpg",
+    "/social/cad04ac12852a064.jpg",
+    "/social/cb28e75da028f81b.jpg",
+    "/social/cf77c3575a4fe17e.jpg",
+    "/social/d4523e1ab5bee58d.jpg",
+    "/social/dc1843e4860926c9.jpg",
+    "/social/de9bdf0a58a33f76.jpg",
+    "/social/dee0b1dc115b30f2.jpg",
+    "/social/ee92f4c9e44dc648.jpg",
+    "/social/f456cb1a261062d1.jpg",
+    "/social/f499b471e2d73616.jpg",
+    "/social/f666f69a3e6b4621.jpg",
+    "/social/fb3241b11dfee85c.jpg"
+  ],
+  "font_retained_for_books": "public/fonts/baloo-bhaina-2.ttf",
+  "legacy_asset_limit": "Browser navigation to old asset URLs recovers through404 JavaScript; static hosting does not provide server-side asset redirects."
+}
