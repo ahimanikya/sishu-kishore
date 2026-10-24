@@ -6,7 +6,7 @@ const require=createRequire(import.meta.url),{getGlobalDefaultAccount}=require('
 const account=getGlobalDefaultAccount();if(!account)throw Error('Firebase CLI sign-in required');
 await requireAuth({...account,project:'sishu-kishore',nonInteractive:true});
 const client=new Client({urlPrefix:'https://firestore.googleapis.com',apiVersion:'v1'});
-for(const book of ['ketejami_loda','musha_mushi','forest']){
+for(const book of (process.argv.slice(2).length?process.argv.slice(2):['ketejami_loda','musha_mushi','forest','frog'])){
  const payload=fs.readFileSync(new URL(`../../editorial-private/book-review/${book}.json`,import.meta.url),'utf8');
  if(Buffer.byteLength(payload)>900000)throw Error('Review exceeds document limit');
  const digest=createHash('sha256').update(payload).digest('hex');

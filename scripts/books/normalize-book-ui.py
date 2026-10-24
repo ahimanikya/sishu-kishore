@@ -8,8 +8,9 @@ configs={
  'ketejami_loda':('/shishu/books/ketejami_loda/illustrated.html','/shishu/books/ketejami_loda/kete-jami-loda-illustrated.pdf','/shishu/books/ketejami_loda/proofread.html'),
  'musha_mushi':('/shishu/books/musha_mushi/illustrated.html','/shishu/books/musha_mushi/musha-mushi-illustrated.pdf','/shishu/books/musha_mushi/proofread.html'),
  'forest':('/shishu/books/paresh/forest.html','/shishu/books/paresh/downloads/banaraijar-kahani-illustrated.pdf','/shishu/books/paresh/forest-proofread.html'),
- 'frog':('/shishu/books/paresh/frog.html','/shishu/books/paresh/downloads/frog-and-the-mouse-illustrated.pdf',None),
+ 'frog':('/shishu/books/paresh/frog.html','/shishu/books/paresh/downloads/frog-and-the-mouse-illustrated.pdf','/shishu/books/paresh/frog-proofread.html'),
  'dakuchhi_gaon':('/shishu/books/dakuchhi_gaon/page-1.html',None,None)}
+source_pdfs={'forest':'/shishu/books/paresh/assets/forest-original.pdf','frog':'/shishu/books/paresh/assets/frog-original.pdf','ketejami_loda':'/shishu/books/ketejami_loda/kete-jami-loda-original.pdf','musha_mushi':'/shishu/books/musha_mushi/musha-mushi-original.pdf'}
 files=list((P/'shishu/books').rglob('*.html'))+list((P/'shishu').glob('e_library-*.html'))
 for path in files:
  route='/'+path.relative_to(P).as_posix();s=BeautifulSoup(path.read_text(),'html.parser')
@@ -33,21 +34,24 @@ for path in files:
   text=x.get_text();text=re.sub(r'\s*·\s*(?:ଲେଖକଙ୍କ\s*)?ପ୍ରୁଫ୍‌.*$','',text);x.string=text
  for x in s.select('.book-note'):x.decompose()
  header=s.new_tag('header',attrs={'class':'book-site-header'});back=s.new_tag('a',href='/shishu/elibrary_main.html',attrs={'class':'book-back book-exit exit','aria-label':'Back'});back.string='←';brand=s.new_tag('a',href='/',attrs={'class':'book-site-brand'});brand.string='ଶିଶୁ କିଶୋର';header.extend([back,brand]);s.body.insert(0,header)
- if cfg:
-  nav=s.new_tag('nav',attrs={'class':'book-view-links','aria-label':'Book formats'});a=s.new_tag('a',href=cfg[0]);a.string='ପଢ଼ନ୍ତୁ';
-  if route==cfg[0]:a['aria-current']='page'
-  nav.append(a)
-  if cfg[1]:
-   a=s.new_tag('a',href=cfg[1],attrs={'download':''});a.string='PDF ଡାଉନଲୋଡ୍';nav.append(a)
-  header.insert_after(nav)
+ if cfg and cfg[1]:
+  a=s.new_tag('a',href=cfg[1],attrs={'class':'book-quick-download','download':''});a.string='PDF ଡାଉନଲୋଡ୍';header.append(a)
  if not s.select_one('link[href="/book-ui.css"]'):s.head.append(s.new_tag('link',rel='stylesheet',href='/book-ui.css'))
  if cfg and cfg[2]:
-  foot=s.new_tag('footer',attrs={'class':'book-private-footer'});a=s.new_tag('a',href=cfg[2]);a.string='ପ୍ରୁଫ୍‌';a['aria-label']='ପ୍ରୁଫ୍‌ · Google sign-in required';foot.append(a);s.body.append(foot)
+  # Keep credits, source and private review in one footer.
+  foot=s.select_one('body > footer:not(.ia-footer)')
+  if not foot:foot=s.new_tag('footer');s.body.append(foot)
+  foot['class']=['book-footer','book-private-footer']
+  foot.clear()
+  p=s.new_tag('p',lang='en');p.string='Original story wording · New illustrations by Ahimanikya';foot.append(p)
+  p=s.new_tag('p',lang='en');p.append('Original publication credits are preserved in the ')
+  a=s.new_tag('a',href=source_pdfs[key]);a.string='source PDF';p.append(a);p.append('.');foot.append(p)
+  a=s.new_tag('a',href=cfg[2]);a.string='ପ୍ରୁଫ୍‌';a['aria-label']='ପ୍ରୁଫ୍‌ · Google sign-in required';foot.append(a)
  path.write_text(str(s))
 # Static hosts deliver only the sign-in shell, never proofreading text or controls.
-for key in ['ketejami_loda','musha_mushi','forest']:
- data={'title':{'ketejami_loda':'କେତେ ଜମି ଲୋଡ଼ା','musha_mushi':'ମୂଷା ଓ ମୁଷୀ','forest':'ବଣରାଇଜର କାହାଣୀ'}[key],'reader':configs[key][0]};route=configs[key][2];path=P/route.lstrip('/')
- path.write_text(f'''<!doctype html><html lang="or"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{data['title']} · ପ୍ରୁଫ୍‌</title>{review_metadata[key]}<link rel="stylesheet" href="/children-identity.css"><link rel="stylesheet" href="/book-ui.css"></head><body class="book-ui review-page" data-review-book="{key}"><header class="book-site-header"><a class="book-back" href="{data['reader']}" aria-label="Return to reading">←</a><a class="book-site-brand" href="/">ଶିଶୁ କିଶୋର</a></header><main id="book-review-app" class="review-app"><h1>{data['title']}</h1><p role="status">Loading sign-in…</p><noscript>Enable JavaScript to sign in with Google.</noscript></main><script type="module" src="/editorial/book-review.js"></script></body></html>''')
+for key in ['ketejami_loda','musha_mushi','forest','frog']:
+ data={'title':{'ketejami_loda':'କେତେ ଜମି ଲୋଡ଼ା','musha_mushi':'ମୂଷା ଓ ମୁଷୀ','forest':'ବଣରାଇଜର କାହାଣୀ','frog':'The Frog & the Mouse'}[key],'reader':configs[key][0]};route=configs[key][2];path=P/route.lstrip('/')
+ path.write_text(f'''<!doctype html><html lang="or"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{data['title']} · ପ୍ରୁଫ୍‌</title>{review_metadata.get(key, "")}<link rel="stylesheet" href="/children-identity.css"><link rel="stylesheet" href="/book-ui.css"></head><body class="book-ui review-page" data-review-book="{key}"><header class="book-site-header"><a class="book-back" href="{data['reader']}" aria-label="Return to reading">←</a><a class="book-site-brand" href="/">ଶିଶୁ କିଶୋର</a></header><main id="book-review-app" class="review-app"><h1>{data['title']}</h1><p role="status">Loading sign-in…</p><noscript>Enable JavaScript to sign in with Google.</noscript></main><script type="module" src="/editorial/book-review.js"></script></body></html>''')
 for name in ['shishu/books/ketejami_loda/proofread-pages.json','shishu/books/musha_mushi/proofread-pages.json','shishu/books/paresh/forest-proofread.json','shishu/books/paresh/banaraijar-kahani-odia-proofreading.txt','shishu/books/ketejami_loda/proofread.js','shishu/books/musha_mushi/proofread.js']:
  (P/name).unlink(missing_ok=True)
 print(f'Unified {len(files)} book pages; review content requires Google sign-in.')

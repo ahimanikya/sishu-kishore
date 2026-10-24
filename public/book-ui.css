@@ -22,3 +22,9 @@ body.book-ui.night .book-site-brand,body.book-ui[data-theme=night] .book-site-br
 @media(max-width:700px){body.book-ui .book-site-header{padding:12px 16px}.book-site-brand{font-size:25px!important}.review-comparison{grid-template-columns:1fr}.review-app h1{font-size:27px}.review-comparison textarea{min-height:55vh}}
 /* Override the legacy magazine decoration on quiet book pages. */
 body.book-ui{background:#faf8f2!important;border-top:0!important}body.book-ui .book-bar{background:transparent!important}body.book-ui .book-controls{background:#f3f3e9;border-color:#dcded4}body.book-ui.night,body.book-ui[data-theme=night]{background:#14221c!important}
+
+/* Reading opens by default; keep only a small download shortcut. */
+body.book-ui .book-quick-download{margin-left:auto;display:inline-flex;align-items:center;min-height:44px;color:#356347;font-size:16px;line-height:1.4;text-decoration:underline;text-underline-offset:4px;white-space:nowrap}
+body.book-ui .book-private-footer p{margin:0 0 10px;line-height:1.8}
+body.book-ui.night .book-quick-download{color:#c3e4c4}
+@media(max-width:450px){body.book-ui .book-site-header{flex-wrap:wrap;gap:10px}body.book-ui .book-quick-download{font-size:14px}}

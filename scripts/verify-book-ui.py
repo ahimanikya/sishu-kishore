@@ -18,7 +18,7 @@ class Page(HTMLParser):
   if tag=='a':self.anchor=None
  def handle_data(self,text):
   if self.anchor is not None:self.anchor['text']+=text
-for route in ['shishu/books/ketejami_loda/proofread.html','shishu/books/musha_mushi/proofread.html','shishu/books/paresh/forest-proofread.html']:
+for route in ['shishu/books/ketejami_loda/proofread.html','shishu/books/musha_mushi/proofread.html','shishu/books/paresh/forest-proofread.html','shishu/books/paresh/frog-proofread.html']:
  s=Page();s.feed((P/route).read_text());assert not s.editable and s.review_script and s.review_id,route
 for name in ['shishu/books/ketejami_loda/proofread-pages.json','shishu/books/musha_mushi/proofread-pages.json','shishu/books/paresh/forest-proofread.json','shishu/books/paresh/banaraijar-kahani-odia-proofreading.txt']:
  assert not (P/name).exists(),name
