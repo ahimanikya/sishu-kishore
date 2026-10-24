@@ -30,7 +30,7 @@ sections=[]
 for c in chapters:
  verse=''
  for p in c['pages']:
-  verse+=f'<div class="source-passage" data-source-page="{p["page"]}"><p class="verse">{H(p["text"])}</p><a class="source-link" href="{base}page-{p["page"]}.html">ମୂଳ ପୃଷ୍ଠା {p["page"]+2} ↗</a></div>'
+  verse+=f'<div class="source-passage" data-source-page="{p["page"]}"><p class="verse">{H(p["text"])}</p></div>'
  sections.append(f'<section class="poem" id="poem-{c["id"]}"><p class="poem-number">{c["id"]:02} / 18</p><h2>{H(c["title"])}</h2><img class="story-art" src="{base}{c["art"]}" alt="{H(c["title"])} — ନୂଆ ଚିତ୍ର" width="1536" height="1024" loading="lazy">{verse}</section>')
 intro=f'''<header class="book-header"><a href="/shishu/elibrary_main.html">← ବହି</a><p class="eyebrow">ଶିଶୁକବିତା ସଂକଳନ</p><h1>{book['title']}</h1><p class="byline">{book['author']}</p><img class="cover-art" src="{base}art/poem-01-v1.jpg" width="1536" height="1024" alt="ନଈକୂଳରେ ମୂଷା ଓ ମୂଷୀ"><p class="draft-note">ଲେଖକଙ୍କ ପ୍ରୁଫ୍‌ ସଂଶୋଧନ ଅପେକ୍ଷାରେ · <span lang="en">Illustrated draft for writer review</span></p></header>'''
 nav=f'''<nav class="reader-tools" aria-label="Reading controls"><label><span class="sr-only">କବିତା ବାଛନ୍ତୁ</span><select id="poems">{options}</select></label><button id="smaller" aria-label="Smaller text">A−</button><button id="larger" aria-label="Larger text">A+</button><button id="theme" aria-pressed="false">ରାତି</button><a href="{base}musha-mushi-illustrated.pdf" download>PDF ↓</a><a href="{base}page-1.html">ମୂଳ ବହି</a><a href="{base}proofread.html">ପ୍ରୁଫ୍‌ ଦେଖନ୍ତୁ</a></nav>'''

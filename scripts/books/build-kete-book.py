@@ -30,9 +30,9 @@ for c in scenes:
  n=c['scanPage'];panels=''
  for i,p in enumerate(c['panels']):
   panels+=f'<div class="comic-panel" data-source-page="{n}" data-panel="{i+1}"><figure class="panel-layout">'+panel_image(n,i,f'ପୃଷ୍ଠା {od(n-1)}, ଚିତ୍ର {od(i+1)}')+f'<figcaption>{H(p["text"])}</figcaption></figure></div>'
- sections.append(f'<section class="poem comic-page" id="page-{n}"><div class="page-label"><h2>ପୃଷ୍ଠା {od(n-1)}</h2><a class="source-link" href="{base}page-{n}.html">ମୂଳ ପୃଷ୍ଠା ↗</a></div><div class="comic-grid">{panels}</div></section>')
+ sections.append(f'<section class="poem comic-page" id="page-{n}"><div class="page-label"><h2>ପୃଷ୍ଠା {od(n-1)}</h2></div><div class="comic-grid">{panels}</div></section>')
 # Preface follows the comic so the opening starts with sequential art.
-preface='<section class="poem preface" id="preface"><h2>ମୁଖବନ୍ଧ</h2>'+''.join(f'<p>{H(p)}</p>' for p in pages[0]['text'].split('\n\n'))+f'<a class="source-link" href="{base}page-3.html">ମୂଳ ପୃଷ୍ଠା ୨ ↗</a></section>'
+preface='<section class="poem preface" id="preface"><h2>ମୁଖବନ୍ଧ</h2>'+''.join(f'<p>{H(p)}</p>' for p in pages[0]['text'].split('\n\n'))+f'</section>'
 footer=f'''<footer class="book-footer"><p lang="en">{B['credit']}</p><p>ମୂଳ କାହାଣୀ: ଲିଓ ଟଲ୍‌ଷ୍ଟୟ · ଓଡ଼ିଆ ରୂପାନ୍ତର: ଦାଶ ବେନହୁର<br>ମୂଳ ଚିତ୍ର: ତପନ · ଅଙ୍ଗସଜ୍ଜା: ଜ୍ଞାନ</p><p lang="en">Original captions follow the printed comic’s reading order. Original scans and printed credits are preserved.</p><a href="{base}page-2.html">ମୂଳ ପ୍ରକାଶନ ତଥ୍ୟ</a> · <a href="/shishu/elibrary_main.html">ବହିକୁ ଫେରନ୍ତୁ</a></footer>'''
 (D/'illustrated.html').write_text(head(B['title'])+'<body>'+intro+nav+'<main>'+''.join(sections)+preface+'</main>'+footer+f'<script src="{base}illustrated.js"></script></body></html>')
 source=P/'shishu/books/musha_mushi'
