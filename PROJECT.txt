@@ -2,7 +2,7 @@ Sishu Kishore — independent magazine repository
 
 Public reading pages, locally stored artwork, full Odia fonts, ebook scans and reviewed text. Shalandi storefront is excluded.
 
-Build: npm run build (Node 22+; no dependencies). Preview: python3 -m http.server 8766 --directory public.
+Build: install requirements-build.txt in a Python environment, then npm run build with Node 24. Preview: python3 -m http.server 8766 --directory public.
 
 Frontend guidance (24 October 2026): Modern Web Guidance is adopted for HTML, CSS and client-side JavaScript work. Follow AGENTS.md for the skill workflow and browser compatibility expectations. This records adoption; it does not certify a completed accessibility or Core Web Vitals audit.
 
