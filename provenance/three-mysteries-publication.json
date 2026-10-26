@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27",
+  "authorization": "User requested publish",
+  "source": "book-production/three-mysteries/output/pdf/original-narrative",
+  "reader": "/shishu/books/three-mysteries/",
+  "lineArtReader": "/shishu/books/three-mysteries/line-art.html",
+  "pdfs": [
+    {
+      "route": "/shishu/books/three-mysteries/three-mysteries-color.pdf",
+      "sha256": "cd895bef0e4be5615c356c47cae5bd54a335829200aa7233c9554c5661694d25",
+      "bytes": 40884416,
+      "pages": 178
+    },
+    {
+      "route": "/shishu/books/three-mysteries/three-mysteries-line-art.pdf",
+      "sha256": "efbad6d10cf59bd4ec8d004ccf96d70dbc3b0450ddf541c9a7ed3d2a2c982a82",
+      "bytes": 53010986,
+      "pages": 178
+    }
+  ],
+  "proseTokens": 41835,
+  "picturePlacementsPerEdition": 30,
+  "textValidation": "Both HTML editions preserve every accepted manuscript paragraph, in order.",
+  "pdfsUnchanged": true,
+  "webTypography": "Existing Baloo Bhaina 2 website standard; PDFs retain approved Source Serif 4 prose",
+  "guidance": "accessibility: native controls, skip link, visible focus, document and language-of-parts declarations",
+  "privateMaterial": "Review sheets, source correspondence and archive drafts are not part of this publication.",
+  "validation": {
+    "tests": "24 passed",
+    "build": "passed",
+    "browser": "Chrome: both readers at 390px and 1280px; no horizontal overflow or script errors; font-size, night mode and story selection passed"
+  }
+}

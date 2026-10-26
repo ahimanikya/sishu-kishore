@@ -49,6 +49,7 @@ for path in sorted(ROOT.rglob('*.html')):
  html=re.sub(r'<link\b[^>]*data-search-discovery="true"[^>]*>','',html)
  if not indexable:
   html=setmeta(html,'robots','noindex, follow');path.write_text(html);continue
+ language=next((n.attrs.get('lang','or') for n in nodes if n.tag=='html'),'or')
  title=clean(next((n.text() for n in nodes if n.tag=='h1'),next((n.text() for n in nodes if n.tag=='title'),'')))
  image=meta(nodes,'og:image');body=next((n for n in nodes if n.has('ia-prose')),None)
  if body is None:
@@ -58,7 +59,7 @@ for path in sorted(ROOT.rglob('*.html')):
  description=clean(meta(nodes,'description'))
  if not description or description==title:description=(clean(text)[:180] if text else title+' · ଶିଶୁ କିଶୋର')
  html=setmeta(html,'description',description);html=setmeta(html,'robots','index, follow, max-image-preview:large')
- web={'@type':'WebPage','@id':canonical+'#page','url':canonical,'name':title,'description':description,'inLanguage':'or','isPartOf':{'@id':ORIGIN+'/#website'}}
+ web={'@type':'WebPage','@id':canonical+'#page','url':canonical,'name':title,'description':description,'inLanguage':language,'isPartOf':{'@id':ORIGIN+'/#website'}}
  if image:web['primaryImageOfPage']={'@type':'ImageObject','url':image}
  graph=[{'@type':'WebSite','@id':ORIGIN+'/#website','url':ORIGIN+'/','name':'ଶିଶୁ କିଶୋର','alternateName':'Sishu Kishore','inLanguage':'or'},web]
  if route in articles:
