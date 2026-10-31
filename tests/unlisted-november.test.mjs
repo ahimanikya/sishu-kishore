@@ -36,7 +36,8 @@ test('November uses the magazine reader with linked authors and individual artwo
     assert.ok(html.includes('data-reading-issue="'+prefix+'"'));
     assert.ok(html.includes('<p class="ia-byline"><a href="'+author.profile+'">'));
     assert.ok(fs.existsSync(path.join(root,author.profile)));
-    const artwork=prefix+'assets/articles/'+author.id+'-v1.webp';
+    const version=author.id==='article-07'?'v2':'v1';
+    const artwork=prefix+'assets/articles/'+author.id+'-'+version+'.webp';
     assert.ok(html.includes(artwork));
     assert.ok(fs.existsSync(path.join(root,artwork)));
     images.add(artwork);
