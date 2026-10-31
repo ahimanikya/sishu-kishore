@@ -14,8 +14,6 @@ def cover(s,image,title):
  brand=s.new_tag('strong',lang='or');brand.string='ଶିଶୁ କିଶୋର';caption.append(brand)
  subtitle=s.new_tag('span');subtitle.string='ମାସିକ ଶିଶୁ ପତ୍ରିକା';caption.append(subtitle);f.append(caption)
  im=copy.copy(image);im['class']=['storybook-cover-art'];im['loading']='eager';im['fetchpriority']='high';im['decoding']='async';im['sizes']='(max-width: 600px) 220px, 280px';f.append(im)
- if int(image.get('width',0))>int(image.get('height',1)):
-  backdrop=copy.copy(im);backdrop['class']=['mag-cover-backdrop'];backdrop['alt']='';backdrop['aria-hidden']='true';backdrop.attrs.pop('fetchpriority',None);f.append(backdrop)
  date=s.new_tag('p');date['class']=['mag-cover-date'];date.string=title;f.append(date)
  return f
 artwork={};profiles={}

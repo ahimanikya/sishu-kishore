@@ -32,18 +32,30 @@
  max-width:none;max-height:none;object-fit:contain;
  margin:0;padding:0;border:0;border-radius:0;box-shadow:none;background:transparent;
 }
-/* Landscape archive art stays complete; a soft copy extends its colours to the edges. */
-.ia-site .magazine-cover img.mag-cover-backdrop,
-.mag-quiet-reader .magazine-cover img.mag-cover-backdrop {
- position:absolute;inset:0;z-index:0;display:block;width:100%;height:100%;max-width:none;max-height:none;
- object-fit:cover;filter:blur(14px);transform:scale(1.12);margin:0;padding:0;border:0;border-radius:0;
-}
+
 .ia-site .magazine-cover .mag-cover-date,
 .mag-quiet-reader .magazine-cover .mag-cover-date {
- position:absolute;inset:auto 0 0;z-index:2;width:auto;
- font-size:5.5cqw;font-weight:600;line-height:1.6;text-align:left;margin:0;padding:0 6% 4%;
+ position:absolute;inset:auto auto 4% 6%;z-index:2;width:max-content;max-width:88%;
+ font-size:5.5cqw;font-weight:600;line-height:1.6;text-align:left;margin:0;padding:0;
  border:0;border-radius:0;color:#fff8e6;background:transparent;
  -webkit-text-stroke:.55cqw #183632;paint-order:stroke fill;text-shadow:0 1px 1px #183632;
+}
+/* Feather the artwork only immediately behind each text line. */
+.ia-site .magazine-cover .mag-cover-heading :is(strong,span),
+.mag-quiet-reader .magazine-cover .mag-cover-heading :is(strong,span) {
+ position:relative;isolation:isolate;width:max-content;max-width:100%;
+}
+.ia-site .magazine-cover :is(.mag-cover-heading strong,.mag-cover-heading span,.mag-cover-date)::before,
+.mag-quiet-reader .magazine-cover :is(.mag-cover-heading strong,.mag-cover-heading span,.mag-cover-date)::before {
+ content:"";position:absolute;inset:-1cqw -2cqw;z-index:-1;pointer-events:none;
+ border-radius:50%;background:rgba(24,54,50,.38);
+ -webkit-backdrop-filter:blur(1cqw);backdrop-filter:blur(1cqw);
+ -webkit-mask-image:radial-gradient(ellipse, #000 45%,transparent 75%);
+ mask-image:radial-gradient(ellipse, #000 45%,transparent 75%);
+}
+@media(forced-colors:active) {
+ .ia-site .magazine-cover :is(.mag-cover-heading strong,.mag-cover-heading span,.mag-cover-date)::before,
+ .mag-quiet-reader .magazine-cover :is(.mag-cover-heading strong,.mag-cover-heading span,.mag-cover-date)::before {display:none}
 }
 /* Consistent issue opening and comfortably sized links, including phones. */
 .magazine-issue .mag-edition-opening {grid-template-columns:minmax(0,1fr) 280px;gap:48px;padding-block:28px 36px!important}
