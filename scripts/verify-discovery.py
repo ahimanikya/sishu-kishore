@@ -21,4 +21,11 @@ for item in index['articles']:
  assert item['title'] in text and item['url'] in text and len(text.split('\n\n',1)[1].strip())>0
 assert 'Sitemap: '+origin+'/sitemap.xml' in (root/'robots.txt').read_text()
 for file in (root/'editorial').glob('*.html'):assert 'noindex, follow' in file.read_text()
+# Direct-link review editions must stay outside public discovery surfaces.
+review_prefix='/shishu/review/'
+for name in ['sitemap.xml','content-index.json','edition-reader.json','reader-catalog.json','index.html','shishu/current_issue.html','shishu/old_issues.html']:
+ assert review_prefix not in (root/name).read_text(),f'Unlisted review exposed by {name}'
+for file in (root/'shishu/review').rglob('*.html'):
+ assert 'noindex, follow' in file.read_text(),f'Review is indexable: {file}'
+ assert file.name!='editor-notes.html',f'Private editor notes exposed: {file}'
 print(f'Discovery verified: {len(urls)} sitemap URLs, schemas, article text, private-screen exclusions.')
