@@ -1,0 +1,334 @@
+{
+  "issue": "2026-11",
+  "date": "2026-10-31",
+  "scope": "28 commissioned article illustrations and one cover for November only; older editions not changed",
+  "method": "Read all supplied literary pieces; triage contact sheets then inspect every image at full resolution; inspect each selected replacement; compare cultural details with cited references. AI visual review, not specialist ethnographic certification.",
+  "style": "Cartoon Natural: dark outlines, expressive simple faces, broad matte colours, restrained shadows, natural gestures; Odisha elements selected for each story, not added as a checklist.",
+  "reviewed": 29,
+  "revised": 11,
+  "retained": 18,
+  "editor_approval": "pending",
+  "publication": "Existing authorized unlisted route only, no homepage/current issue/discovery entry",
+  "records": [
+    {
+      "id": "article-01",
+      "title": "ଝରକଲମ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-01-v1.webp",
+      "decision": "retained",
+      "review": "Keep: outlined child and grandfather, writing tools central to the essay; modest tiled Odisha home. Surface detail supports the object-focused scene.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "fee868545ee0e1983bb84b8dab7ac890d4e9bcffce3c656ec4c6cba2d9b8bb02"
+    },
+    {
+      "id": "article-02",
+      "title": "ଘୋଡା  ଓ ଶଗଡିଆ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-02-v2.webp",
+      "decision": "revised",
+      "review": "Revise: cart still loaded in rescue scene; emptied and horse unhitched. Clear cartoon animals, earthen water bowl, paddy and tiled homes.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "e2ab65d43bf19725dcfd4d80d4cca419801c36d807290d345c9480de6288872e"
+    },
+    {
+      "id": "article-03",
+      "title": "ଶିଵେଇ ସାମନ୍ତରାଙ୍କ ଜାଉଖିଆ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-03-v2.webp",
+      "decision": "revised",
+      "review": "Revise: ornate fantasy royal clothing replaced by plain draped clothing; jaau lesson remains central. Removed a stray edge hand in second pass. Historical costume is illustrative, not a documentary reconstruction.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "bd4c657982ea932c2090c1ab48bc93d928512ae97b8cac3e1b0b7f6cd9553973"
+    },
+    {
+      "id": "article-04",
+      "title": "ଶିଶୁ ହସିଲେ ଦୁନିଆ ହସେ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-04-v1.webp",
+      "decision": "retained",
+      "review": "Keep: contemporary school prize ceremony, simple expressive faces and clear hands; sarees, uniforms and Nehru portrait fit the article. No unnecessary heritage props added.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "548d0fb5020ab610a4e6ff43e613831a0c9c25883536e7715035c548d5c615c8"
+    },
+    {
+      "id": "article-05",
+      "title": "ଜୀବେ ଦୟା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-05-v1.webp",
+      "decision": "retained",
+      "review": "Keep: mother and child watching three courtyard birds, modest plastered home, bamboo fence and mist; gentle cartoon storytelling.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "2049082a7fd42a49a0f47d42b6b41a897a79f6e041f57b367add353341e48af6"
+    },
+    {
+      "id": "article-06",
+      "title": "ତାଳଦଣ୍ଡା ରୁ ଚିତ୍ରକୋଣ୍ଡା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-06-v2.webp",
+      "decision": "revised",
+      "review": "Revise: crowded collage of invented tribal costume, warrior, generic temple and sluice replaced with focused grandmother/manda scene, earthen steaming pot, canal, paddy and papaya. Round stuffed manda checked against food reference.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "aafd1c9f4099f2de9cc02402b176b8deff282b2595655e3f9717de696642133c"
+    },
+    {
+      "id": "article-07",
+      "title": "ଶଙ୍ଖି ବିଲେଇର ବାହାଘର",
+      "asset": "/shishu/review/2026-11/assets/articles/article-07-v3.webp",
+      "decision": "revised",
+      "review": "Revise: bride father now a cat handing out saplings; wolf serves food; Pipili-inspired applique cloth canopy. Four distinct elephant legs retained and visually counted.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "dae5296df7aae3dca15350eafe08f43d8005d15802d7c3c2d404a24aed15b10b"
+    },
+    {
+      "id": "article-08",
+      "title": "ବର୍ଷା ଗଲା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-08-v2.webp",
+      "decision": "revised",
+      "review": "Revise: simplified puja preparation, larger clay Durga with ten visible arms (five each side), bamboo work at ground level, kasatandi. Second pass removed orange maple-leaf imagery and restored green tropical vegetation.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "9a7d55a1faee23539e59adb372631159b5eba8cb9443c360296e04d2ae2e8087"
+    },
+    {
+      "id": "article-09",
+      "title": "ଚଇତି ଖରା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-09-v1.webp",
+      "decision": "retained",
+      "review": "Keep: farmer weeding flooded paddy with broad woven shelter and checked gamucha, egrets; source-specific late-monsoon scene. More detailed adult rendering remains outlined and illustrative.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "78880599859598fb0172a17595c85d95eb3a13240e1c04be5c770a4d1f0dddf1"
+    },
+    {
+      "id": "article-10",
+      "title": "ଆସ ମା ମମତାମୟୀ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-10-v2.webp",
+      "decision": "revised",
+      "review": "Revise: larger ten-arm Durga (five each side), simpler field/background and clothing detail. Gangashiuli and kasatandi retained, matte cartoon treatment. Cultural illustration, not a ritual instruction diagram.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "b6256de29baa2321d00cd88c2eb4910df2a544e0eb6f54d137490f7c2948575e"
+    },
+    {
+      "id": "article-11",
+      "title": "ଜେଜେ ବାପା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-11-v1.webp",
+      "decision": "retained",
+      "review": "Keep: grandfather offers mudhi mua and guava on veranda beside tulasi chaura; source-specific food and affectionate gesture.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "c19d141c3e8e3e6fe6dbdc0b0b63a7cd42e6aa7e5a542c66b3b6a88b62f0a631"
+    },
+    {
+      "id": "article-12",
+      "title": "ହୋଇବି ଭଲପିଲା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-12-v1.webp",
+      "decision": "retained",
+      "review": "Keep: studying child, mother with rice meal, river and kasatandi; readable cartoon figures in contemporary Odia home.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "3543feaa60dd04767df4536d5727ed3c0d0319b8444610d477e083c1f99940eb"
+    },
+    {
+      "id": "article-13",
+      "title": "ଟିକି ଘର",
+      "asset": "/shishu/review/2026-11/assets/articles/article-13-v1.webp",
+      "decision": "retained",
+      "review": "Keep: small home, decorative white jhoti-inspired motifs, pond and flowers supported by poem. Scenic detail is intentional; no photoreal figures.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "021fce409c985867f071652d95bcb455784dbcad20d43c61594c1ed93560b051"
+    },
+    {
+      "id": "article-14",
+      "title": "ଟିକି ବାଛୁରୀ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-14-v1.webp",
+      "decision": "retained",
+      "review": "Keep: cow and calf affectionate interaction, four legs per animal visible or coherently overlapped; tiled cowshed and checked cloth. No anatomy correction needed.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "20eab771fbe3db95d011e19c5cdc1f556b804d532810eceb0810fca70afa1315"
+    },
+    {
+      "id": "article-15",
+      "title": "ଶିଶୁ ଦିବସ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-15-v1.webp",
+      "decision": "retained",
+      "review": "Keep: schoolchildren share nature art and plant sapling, teacher and wheelchair user included; contemporary Odisha school context without decorative landmark collage.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "bc91524859fc9d73e5604cf99876d56938ca1437205c828debcd92e67f42c3a6"
+    },
+    {
+      "id": "article-16",
+      "title": "ଶୀତ ର ପରଶେ ଜଗତ ହସେ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-16-v2.webp",
+      "decision": "revised",
+      "review": "Revise: photographic dew and ornamental flower border removed; clear cartoon kitchen-garden rows, winter haze, brinjal and cauliflower, round manda at veranda.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "7067139fcc5237990f2fbf2d7ac283defae336c50a274fdb3b659fdbfb8302de"
+    },
+    {
+      "id": "article-17",
+      "title": "ଦୁଃଖୀ, ଅନାଥଙ୍କସେଵାକରିଵା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-17-v2.webp",
+      "decision": "revised",
+      "review": "Revise: smaller shared meal and varied ordinary/mended clothing replace uniform ragged appearance and huge buffet. Puri, kshiri and round pitha; dry veranda and distant flood remain faithful to story.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "76ada6a62760440a788a30b92d67a105a9f42f8318cde083575c11d0125fa11c"
+    },
+    {
+      "id": "article-18",
+      "title": "ଛୁଟିତ ଛୁଟି",
+      "asset": "/shishu/review/2026-11/assets/articles/article-18-v1.webp",
+      "decision": "retained",
+      "review": "Keep: boys float paper boats in shallow courtyard runoff; kasatandi, pond and tiled village setting. Hands and seated legs read coherently.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "9f4ab451e9117a33ff64fa4d8493f466162b0fe927a76472929a0050c7e4e6f1"
+    },
+    {
+      "id": "article-19",
+      "title": "ଝାଇଁକି ଝମ୍ପର ଝମ୍ପର ଝାଇଁ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-19-v2.webp",
+      "decision": "revised",
+      "review": "Revise: round stuffed manda replaces flat rice cakes, clearer cartoon fur and less glare. Girl drawing an ox-plough scene, mischievous cat and surprised aunt remain.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "eed49e452a805711f3614f6e3518842a8d182282d20435618e27fe94e26fe4e8"
+    },
+    {
+      "id": "article-20",
+      "title": "ଜହ୍ନମାମୁ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-20-v1.webp",
+      "decision": "retained",
+      "review": "Keep: moon/astronaut thought bubble clearly fantasy, child on Odia veranda; simple cartoon expressions. No literal local landmark needed in space fantasy.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "3daa094308bf59e547e2581f76050beeabea499fd77bbdf86e4583d9e2608927"
+    },
+    {
+      "id": "article-21",
+      "title": "ଦିନ- ବାର, ଋତୁ-ମାସ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-21-v2.webp",
+      "decision": "revised",
+      "review": "Revise: snow, leafless winter trees and pink cherry orchard removed. Winter now mist, green kitchen garden and harvested stubble; spring red palash and mango blossom; six seasonal regions simplified.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "ad5a990ec9e7df9297e5c3b428e721081aff0d6e2e95ec95d59fbabcf53fed87"
+    },
+    {
+      "id": "article-22",
+      "title": "ଆମେ ଆଙ୍କିଦେବୁ ନୂଆ ଆଲୋକ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-22-v1.webp",
+      "decision": "retained",
+      "review": "Keep: schoolchildren paint sunrise and plant tree; clear cartoon forms, source-supported education/light metaphor and local school setting.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "4c7da431f65854a6c672069436b01836e59572ca7354942d35aeb8092828f2b5"
+    },
+    {
+      "id": "article-23",
+      "title": "ନିଦ ମାଉସୀଲୋ ନିଦ ମାଉସୀ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-23-v1.webp",
+      "decision": "retained",
+      "review": "Keep: bedtime aunt/child scene with rain, paper boats and drawing book; contemporary home, natural caring gesture and clear cartoon faces.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "eb10dda5749afcf00fea19d665ef59b1ab6db22304df405a89b7dce973d57cfd"
+    },
+    {
+      "id": "article-24",
+      "title": "ଭଲ ମନଟିଏ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-24-v1.webp",
+      "decision": "retained",
+      "review": "Keep: child gives water from earthen pot to traveller under tree, bees echo poem; cotton clothing and local rural setting support scene.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "1e0b0e6523f838521754bed2961455f607886e4ea0e62817d3cf91b185bd536f"
+    },
+    {
+      "id": "article-25",
+      "title": "ଆମେ ଶିଶୁ, ଆମେ ସପନ ରାଇଜେ ଭାସୁ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-25-v1.webp",
+      "decision": "retained",
+      "review": "Keep: imaginative children, books, kite and moon; fantasy composition supported by poem. Odisha village/river context below without forcing every imagined structure to be a heritage monument.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "c80ee91d9a68788ba0c18359ec5ceff2a627be0cfd03ddbe51305d68a9c80071"
+    },
+    {
+      "id": "article-26",
+      "title": "ପ୍ରିୟ ଚାଚା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-26-v1.webp",
+      "decision": "retained",
+      "review": "Keep: schoolchild with roses and framed Nehru portrait fits Children’s Day poem; faces stay cartoon while portrait is an in-scene illustration.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "c0c741b9fa663a55585331b7173e63018fe6dc30579dfe3c0ae93174a42d0326"
+    },
+    {
+      "id": "article-27",
+      "title": "ନଭେମ୍ବର ଚଉଦ",
+      "asset": "/shishu/review/2026-11/assets/articles/article-27-v2.webp",
+      "decision": "revised",
+      "review": "Revise: mixed folk-drum/classical costume removed; single Odissi dancer with white tahia, silver ornaments, pleated costume and grounded stance, checked against Odisha Tourism visual reference. School art and prize setting retained.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "4264d9bc5554ac8a9a5ce3cfaa87ff92ad894877438a71b3f0470d3c7d715373"
+    },
+    {
+      "id": "article-28",
+      "title": "କିଛି ଭଲ କାମ କରିବା",
+      "asset": "/shishu/review/2026-11/assets/articles/article-28-v1.webp",
+      "decision": "retained",
+      "review": "Keep: children cooperate on village path under adult supervision; hands attach to tools, local pond, mango and coconut vegetation; readable cartoon scene.",
+      "checked_at": "full image resolution and contact sheet",
+      "sha256": "5b52147e7d418e34dfca4c15cfd9c0e72e5a4fe534345d7e644cece3cab5332b"
+    },
+    {
+      "id": "cover",
+      "asset": "/shishu/review/2026-11/assets/cover-v1.webp",
+      "decision": "retained",
+      "review": "Mother and child watch three birds in misty Odia courtyard; simple cartoon faces, outlined birds, tiled home and bamboo fence. Title remains live text. Full portrait inspected.",
+      "sha256": "160814fefb73ed32b454d86611b050e583fb76fd46c6b82960a42a73c4ed7db4"
+    }
+  ],
+  "original_drawings": [
+    {
+      "file": "drawing-1.png",
+      "decision": "preserved unaltered",
+      "sha256": "11ce29c7de97236fb378315bc14f9d9688cbbd8018b0a33554b16df6daea9e62"
+    },
+    {
+      "file": "drawing-2.png",
+      "decision": "preserved unaltered",
+      "sha256": "3aa6a4751fdacde34512c38a35da025fa6c5cdfa03d5e91374599634b1719566"
+    },
+    {
+      "file": "drawing-3.png",
+      "decision": "preserved unaltered",
+      "sha256": "222a344c1cc7ddd75f1264ad9f28ba004cb4b6699dc46ee7ff8c66734a717bd9"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://odishatourism.gov.in/en/arts-crafts-handloom",
+      "used_for": "Pipili applique and Odisha handloom context"
+    },
+    {
+      "url": "https://odishatourism.gov.in/en/culture-music-dance",
+      "used_for": "Distinguish Odissi from folk dance traditions; official dance photo inspected"
+    },
+    {
+      "url": "https://odishatourism.gov.in/documents/d/guest/odissi-classical-dance-1",
+      "used_for": "Visual reference for stance, tahia, silver ornaments and pleated costume; not republished"
+    },
+    {
+      "url": "https://odishatourism.gov.in/en/cuisine-culinary-trails",
+      "used_for": "Odia rice-flour pitha context"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Manda_pitha-Puri-Odisha-IMG_0512.jpg",
+      "used_for": "Photographic reference for round white manda and coconut-jaggery filling; not republished"
+    },
+    {
+      "url": "https://odishatourism.gov.in/en/weather-climate",
+      "used_for": "Odisha winter: cool nights/pleasant days; replace snowy generic scenery"
+    }
+  ],
+  "prompt_record": "november-2026-art/audit-prompts.json",
+  "rejected_intermediates": [
+    {
+      "key": "03",
+      "reason": "Stray hand at extreme left edge; corrected in 03-fix"
+    },
+    {
+      "key": "08",
+      "reason": "Orange maple-like autumn leaves introduced; corrected in 08-fix"
+    }
+  ],
+  "verification": {
+    "tests": "26 passed",
+    "build": "passed, all delivery/sharing/discovery/book checks",
+    "literary_text": "All 28 exact source body hashes matched, preserving blank lines",
+    "browser": "1280 and 390 pixels: no script errors or horizontal overflow, 28 images decoded, all 28 author links resolved, full reader navigated",
+    "web_guidance": "Checked optimize-image-priority; retained existing eager/high-priority cover and lead art, lazy contents images, explicit dimensions. No new loading behavior introduced."
+  }
+}

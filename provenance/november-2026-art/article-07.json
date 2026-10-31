@@ -5,11 +5,23 @@
   "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: A humorous woodland wedding procession of two cats on a small cart: rabbit blows a trumpet, dog carries a cloth bundle, elephant leads the way; joyful animal fable, expressive simple faces and anatomically clear limbs, no humans.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ଶଙ୍ଖି ବିଲେଇର ବାହାଘର. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\nଅଗଡ ବଗଡ ଶଗଡ ଗାଡି\nଆଗକୁ ଆଗକୁ ଯାଉଛି ମାଡି\nବହୂ ସାଜିଯାଏ ଶଂଖି ବିଲେଇ\nବସିଛି ତା ବର ନିଶ ଫୁଲେଇ\nବାଜିବ ବାଜା\nବାହାଘର ପାଇଁ  ବଣ ମୂଲକ ଯେ\nହୋଇଛି ସଜା।।,,,,,,,\nକୁକୁର ନେଉଛି ବୁକୁଚା ବୋହି\nଠେକୁଆ ନାଚୁଛି ତୂରୀ ବଜାଇ\nମନ୍ତର ପଢୁଛି ଟିକି ଚଢ଼େଇ\nହାତୀ ନିଏ ଆଗ ବାଟ କଢ଼େଇ\nବଣର ରାଜା\nକୁହାଟ ମାରୁଛି  କିଏ କାହିଁ ଅଛ\nଆସ ମୋ ପ୍ରଜା।।,,,,,,,,\nପରଷି ଦେଉଛି ଗଧିଆ ଭାଇ\nଯିଏ ଯାହା ମନ ଖାଉଛି ନେଇ\nବରଯାତିରୀ ଙ୍କୁ ଗୋଟିଏ କରି\nକନିଆଁ ର ପିତା ହାତରେ ଧରି\nଦେଉଛି ଗଛ\nଲଗାଇ ବଞ୍ଚାଇ  ଜୀବନ ଗଢିବା\nନକରି ପଛ।।,,,,,",
   "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-47af85be-fd5c-4021-a842-efb54c716c5e.png",
   "original": "site/editorial-private/november-2026/art-originals/article-07-v1.png",
-  "asset": "/shishu/review/2026-11/assets/articles/article-07-v2.webp",
+  "asset": "/shishu/review/2026-11/assets/articles/article-07-v3.webp",
   "tool": "built-in image generation",
-  "review": "Visual QA completed: full 3:2 compositions, source-grounded scenes, no generated lettering; editor approval pending.",
-  "sha256": "8263ff49ad9beb88e51fd317d28c163a6b1a56a8554f5b666c1ae45ddf296e95",
+  "review": "Cartoon Natural / Odisha visual audit completed 2026-10-31; editor approval pending. Revise: bride father now a cat handing out saplings; wolf serves food; Pipili-inspired applique cloth canopy. Four distinct elephant legs retained and visually counted.",
+  "sha256": "dae5296df7aae3dca15350eafe08f43d8005d15802d7c3c2d404a24aed15b10b",
   "previous_asset": "/shishu/review/2026-11/assets/articles/article-07-v1.webp",
   "correction": "User identified missing elephant leg. Revised elephant has four distinct visible legs and feet. Original retained; editor review pending.",
-  "correction_source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-a780dfb3-33c0-4324-8b85-d4b6427101c9.png"
+  "correction_source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-a780dfb3-33c0-4324-8b85-d4b6427101c9.png",
+  "audit_history": [
+    {
+      "previous_asset": "/shishu/review/2026-11/assets/articles/article-07-v2.webp",
+      "selected_asset": "/shishu/review/2026-11/assets/articles/article-07-v3.webp",
+      "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-08bc35a4-bcc4-41c2-9581-ff86ebafaca2.png",
+      "original": "editorial-private/november-2026/art-originals/article-07-v3.png",
+      "prompts": [
+        "07"
+      ],
+      "review": "Revise: bride father now a cat handing out saplings; wolf serves food; Pipili-inspired applique cloth canopy. Four distinct elephant legs retained and visually counted."
+    }
+  ]
 }

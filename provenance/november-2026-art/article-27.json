@@ -5,8 +5,20 @@
   "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: A lively school Children's Day celebration in Odisha: children perform a small folk dance while others show drawings and a teacher presents a prize; respectful Nehru portrait at back with white cap and red rose, no lettering, no numerals.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ନଭେମ୍ବର ଚଉଦ. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\nଶିଶୁଙ୍କ ପାଇଁ କି ପାଳନୀୟ ତିଥି \nବରଷରେ କେଇ ଦିନ \nସେ ଦିନ ଭିତରୁ ଗୋଟିଏ ଦିବସ \nନେହେରୁଙ୍କ ଜନ୍ମଦିନ I \nନଭେମ୍ବର ମାସ ସେଇ ତାରିଖଟି \nଅଟଇ ପୁଣ୍ୟ ଚଉଦ \nଚଉଦେ ଜନମି ଥିଲେ ସେ ନେହେରୁ \nଦେଶ ଜାତି ବରପୁତ୍ର I \nପ୍ରଧାନମନ୍ତିରୀ ଥାଇ କି ନେହେରୁ \nଅତି ଶିଶୁପ୍ରିୟ ଥିଲେ \nସମୟ ଦେଖିକି ନିଜେ ସିଏ ଆସି \nଶିଶୁ ମେଳେ ରହୁଥିଲେ I \nଶିଶୁଙ୍କ କତିରେ ଶିଶୁଙ୍କ ସାଥିରେ \nରହୁଥିଲେ ବହୁ ବେଳ \nହସ ଓ ଖୁସିରେ ଶିଶୁଙ୍କ ମେଳରେ\nବିତୁଥିଲା (ତାଙ୍କ) ବେଳ କାଳ I \nଦେଶ ଓ ଦଶର ଭବିଷ୍ୟତ ଶିଶୁ \nତାଙ୍କ ହସ ଓ ଖୁସିରେ \nନିଜକୁ ସାମିଲ କରି କେତେ ଖୁସି \nନେହେରୁ ସାଉଁଟୁଥିଲେ I \nନେହେରୁଙ୍କର ସେ ଶୁଭ ଜନ୍ମଦିନ \nଶିଶୁଦିବସରେ ଗଣା \nଶିଶୁଙ୍କ ପାଇଁକି ଉତ୍ସର୍ଗୀକୃତ \nଦିବସଟି ଜଣାଶୁଣା I \nଶିଶୁଙ୍କ ବିବିଧ ଗୁଣର ବିକାଶ \nପାଇଁ ହୁଏ ପ୍ରତିଯୋଗିତା \nଶିଶୁଙ୍କଠି ଲୁଚି ରହିଥିବା କୃତି \nସଫଳତା ବାଢ଼େ ଦକ୍ଷତା I \nବ୍ଲକଠାରୁ ଜିଲ୍ଲା ରାଇଜ ପର୍ଯ୍ୟନ୍ତ \nହୋଇଥାଏ ପ୍ରତିଯୋଗିତା \nକୃତୀ ଶିଶୁ ଗଣ ଗୁଣ ପ୍ରଦର୍ଶନ \nକରି ପାନ୍ତି ସଫଳତା I \nଶିଶୁମାନଙ୍କର ଶିଶୁଙ୍କ ପାଇଁ କି \nଶିଶୁଦିବସ ଉଦ୍ଦିଷ୍ଟ \nକେତେ କେତେ ଶିଶୁ ଦ୍ୱାରା ପ୍ରଦର୍ଶିତ\nହୁଏ କେତେ ନାଚ ଗୀତ I \nସଭାସମିତିର ହୁଏ ଆୟୋଜନ \nସେଇ ଶିଶୁଦିବସରେ \nକୃତୀ ଶିଶୁଗଣ ପୁରସ୍କାର ପା'ନ୍ତି \nଶିଶୁଉତ୍ସବ ମେଳାରେ I ",
   "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-dcd551df-09e1-4531-989c-3755bcdf72a7.png",
   "original": "site/editorial-private/november-2026/art-originals/article-27-v1.png",
-  "asset": "/shishu/review/2026-11/assets/articles/article-27-v1.webp",
+  "asset": "/shishu/review/2026-11/assets/articles/article-27-v2.webp",
   "tool": "built-in image generation",
-  "review": "Visual QA completed: full 3:2 compositions, source-grounded scenes, no generated lettering; editor approval pending.",
-  "sha256": "3f0591c01af3954e78dd0f91da5b11eb6052cafc335df2ef16c3ff9222ebdcbf"
+  "review": "Cartoon Natural / Odisha visual audit completed 2026-10-31; editor approval pending. Revise: mixed folk-drum/classical costume removed; single Odissi dancer with white tahia, silver ornaments, pleated costume and grounded stance, checked against Odisha Tourism visual reference. School art and prize setting retained.",
+  "sha256": "4264d9bc5554ac8a9a5ce3cfaa87ff92ad894877438a71b3f0470d3c7d715373",
+  "audit_history": [
+    {
+      "previous_asset": "/shishu/review/2026-11/assets/articles/article-27-v1.webp",
+      "selected_asset": "/shishu/review/2026-11/assets/articles/article-27-v2.webp",
+      "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-d2b4a93d-d60a-446e-b463-c72736bd2212.png",
+      "original": "editorial-private/november-2026/art-originals/article-27-v2.png",
+      "prompts": [
+        "27"
+      ],
+      "review": "Revise: mixed folk-drum/classical costume removed; single Odissi dancer with white tahia, silver ornaments, pleated costume and grounded stance, checked against Odisha Tourism visual reference. School art and prize setting retained."
+    }
+  ]
 }
