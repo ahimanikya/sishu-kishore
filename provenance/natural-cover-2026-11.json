@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-01",
+  "request": "Natural cover lettering without broad masked text areas",
+  "generator": "Built-in image generation tool (edit)",
+  "source": "/art/shishu-durga-cartoon-v5.webp",
+  "replacement": "/art/shishu-durga-cartoon-v6-natural-cover.webp",
+  "source_preserved": true,
+  "replacement_sha256": "7708d7011da2d140497e72b21b187ef3a93bb0e65e890115077b3a4d7df4365b",
+  "prompt": "Edit this existing magazine cover illustration. Make ONLY one localized change: replace the solid flat red rectangle occupying the top 12% of the image with a natural continuation of the blue sky and sparse green banana foliage immediately below. The top should be mostly clear blue sky with a little foliage at far edges, suitable for live title lettering later. No text, no title bands, no gradients or masks. Preserve EVERYTHING below that rectangle faithfully: exact composition, style, all children, Durga with exactly ten arms and all held objects, lion, flowers, proportions, colours and full framing. Do not redesign or move subjects. Keep the portrait 2:3 aspect ratio and clean original 2D cartoon look.",
+  "review": "Full-size visual review: red band removed; scene and characters retained; ten Durga arms visible. AI edit, not pixel-identical to original below the edit area.",
+  "layout": "No heading/date background or gradient; fine contrasting outlines around glyphs only, shared by 35 public editions."
+}
