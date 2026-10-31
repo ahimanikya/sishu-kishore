@@ -18,7 +18,7 @@ function aliases(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true}
 aliases('public');
 // Refresh changed reader/home assets on both regular pages and extensionless
 // aliases, even when the browser still has an earlier version cached.
-const readerAssets=['book-reader.js','reader-switcher.js','polish.js','editorial/app.js','editorial/engagement.js','book-ui.js','books/paresh/reading.css','books/musha_mushi/illustrated.css','books/ketejami_loda/illustrated.css','books/paresh/reading.js','books/ketejami_loda/illustrated.js','books/musha_mushi/illustrated.js','book-ui.css','share.js','editorial/book-review.js','page-turn.js','edition-reader.js','edition-reader.css','shishu-magazine.js','shishu-magazine.css','children-art.css','children-identity.css','kid-ux.js'];
+const readerAssets=['issue-layout.css','book-reader.js','reader-switcher.js','polish.js','editorial/app.js','editorial/engagement.js','book-ui.js','books/paresh/reading.css','books/musha_mushi/illustrated.css','books/ketejami_loda/illustrated.css','books/paresh/reading.js','books/ketejami_loda/illustrated.js','books/musha_mushi/illustrated.js','book-ui.css','share.js','editorial/book-review.js','page-turn.js','edition-reader.js','edition-reader.css','shishu-magazine.js','shishu-magazine.css','children-art.css','children-identity.css','kid-ux.js'];
 const versions=new Map(readerAssets.map(name=>['/'+name,createHash('sha256').update(fs.readFileSync(path.join('dist',name))).digest('hex').slice(0,12)]));
 function versionReaderAssets(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){
  const file=path.join(dir,entry.name);

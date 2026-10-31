@@ -1,0 +1,73 @@
+/* One paper cover for every digital edition. Artwork remains uncropped. */
+.ia-site .magazine-cover,
+.mag-quiet-reader .magazine-cover {
+ --cover-paper:#fff8e6;
+ position:relative;display:grid;grid-template-rows:auto minmax(0,1fr) auto;
+ container-type:inline-size;box-sizing:border-box;width:100%;aspect-ratio:2/3;
+ margin:0;padding:5% 5% 4%;gap:3%;background:var(--cover-paper);color:#163f5b;
+ border:1px solid #b9a886;border-left:5px solid #a33630;border-radius:2px 5px 5px 2px;
+ box-shadow:3px 3px 0 #d5c8ae,5px 6px 0 -1px #fff6df,9px 12px 20px #26382d20;
+ isolation:isolate;transform:none;
+}
+.ia-site .magazine-cover .mag-cover-heading,
+.mag-quiet-reader .magazine-cover .mag-cover-heading {
+ position:static;display:flex;flex-direction:column;align-items:center;margin:0;padding:3% 0;
+ background:var(--cover-paper);color:#163f5b;line-height:1.4;text-align:center;
+}
+.ia-site .magazine-cover .mag-cover-heading strong,
+.mag-quiet-reader .magazine-cover .mag-cover-heading strong {
+ display:block;font-family:'Baloo Bhaina 2',sans-serif;font-size:13cqw;font-weight:700;
+ line-height:1.6;color:#163f5b;white-space:nowrap;margin:0;padding:0;letter-spacing:0;text-shadow:none;
+}
+.ia-site .magazine-cover .mag-cover-heading span,
+.mag-quiet-reader .magazine-cover .mag-cover-heading span {font-size:5cqw;line-height:1.7}
+.ia-site .magazine-cover img.storybook-cover-art,
+.mag-quiet-reader .magazine-cover img.storybook-cover-art {
+ display:block;min-height:0;width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;
+ margin:0;padding:0;border:0;border-radius:0;box-shadow:none;background:var(--cover-paper);
+}
+.ia-site .magazine-cover .mag-cover-date,
+.mag-quiet-reader .magazine-cover .mag-cover-date {
+ font-size:7cqw;font-weight:600;line-height:1.6;text-align:center;margin:0;padding:3% 0 0;
+ border-top:1px solid #b9a886;color:#163f5b;background:var(--cover-paper);
+}
+/* Consistent issue opening and comfortably sized links, including phones. */
+.magazine-issue .mag-edition-opening {grid-template-columns:minmax(0,1fr) 280px;gap:48px;padding-block:28px 36px!important}
+.magazine-issue .mag-cover-link {display:block;width:260px;max-width:100%;justify-self:end;margin:10px 10px 12px 0}
+.magazine-issue .mag-cover-link .magazine-cover {transform:perspective(1400px) rotateY(-3deg)}
+.magazine-issue .mag-edition-actions {gap:12px 20px}
+.magazine-issue .mag-edition-actions a {display:inline-flex;align-items:center;min-height:44px}
+.magazine-issue .ia-contents .ia-article-card {display:flex;flex-direction:column}
+.magazine-issue .ia-contents .ia-article-card>a:first-child {height:auto}
+.magazine-issue .ia-contents :is(.mag-card-byline,.nov-card-byline) {display:block;margin:8px 0 12px;font-size:15px;line-height:1.8}
+.magazine-issue .ia-contents :is(.mag-card-byline,.nov-card-byline) a {display:inline-block;min-height:28px;padding-block:3px;text-decoration:underline;text-underline-offset:4px}
+.magazine-issue .ia-contents .ia-card-read {display:flex;flex-direction:row;justify-content:space-between;align-items:center;min-height:44px;height:auto;margin-top:auto;padding-block:10px}
+.magazine-issue .ia-contents :is(h2,h3) {scroll-margin-top:24px}
+.mag-cover-link:focus-visible,.magazine-issue .mag-edition-actions a:focus-visible {outline:3px solid #163f5b;outline-offset:6px}
+.shishu .ia-main>.ia-issue-intro .storybook-cover-link {width:220px;max-width:100%}
+.shishu .ia-main>.ia-issue-intro .magazine-cover {transform:perspective(1400px) rotateY(-3deg)}
+/* Archive cards use the edition's complete cover rather than a differently shaped crop. */
+.ia-site .issue-preview .magazine-cover {width:190px;max-width:85%;justify-self:center;align-self:center;margin:6px auto 22px}
+.ia-site .issue-preview .magazine-cover::before,.ia-site .issue-preview .magazine-cover::after {display:none}
+.mag-quiet-reader .quiet-illustrated-cover {padding:0;gap:0;border:0;background:#fff8e6}
+.mag-quiet-reader .quiet-illustrated-cover>.magazine-cover {height:100%;width:100%;flex:none;box-shadow:none;overflow:hidden;transform:none;aspect-ratio:auto}
+.mag-quiet-reader .quiet-cover-book {box-shadow:3px 3px 0 #d5c8ae,6px 7px 0 -1px #fff6df,9px 12px 20px #26382d20}
+@media(max-width:600px) {
+ .magazine-issue .mag-edition-opening {grid-template-columns:1fr;gap:20px}
+ .magazine-issue .mag-cover-link {grid-row:2;justify-self:center;width:220px;margin:6px 8px 14px}
+ .magazine-issue .mag-cover-link .magazine-cover,.shishu .ia-main>.ia-issue-intro .magazine-cover {transform:none}
+ .shishu .ia-main>.ia-issue-intro:has(.magazine-cover) {grid-template-columns:1fr;gap:26px}
+ .shishu .ia-main>.ia-issue-intro .storybook-cover-link {width:200px;justify-self:center}
+}
+@media(pointer:coarse) {.magazine-issue .ia-contents :is(.mag-card-byline,.nov-card-byline) a{min-height:44px}}
+@media(prefers-reduced-motion:reduce),print {.magazine-issue .mag-cover-link .magazine-cover,.shishu .ia-main>.ia-issue-intro .magazine-cover{transform:none}}
+@media(forced-colors:active) {
+ .ia-site .magazine-cover,.mag-quiet-reader .magazine-cover {--cover-paper:Canvas;color:CanvasText;border-color:CanvasText;box-shadow:none}
+ .ia-site .magazine-cover :is(.mag-cover-heading,.mag-cover-heading strong,.mag-cover-date),
+ .mag-quiet-reader .magazine-cover :is(.mag-cover-heading,.mag-cover-heading strong,.mag-cover-date){color:CanvasText;border-color:CanvasText}
+}
+@media(max-width:600px) {
+ .shishu .ia-main>.ia-issue-intro:has(.magazine-cover)>div:first-child {grid-column:1;grid-row:1;min-width:0}
+ .shishu .ia-main>.ia-issue-intro:has(.magazine-cover)>.ia-issue-image {grid-column:1;grid-row:2}
+ .shishu .ia-main>.ia-issue-intro:has(.magazine-cover) .mag-edition-actions {gap:12px 18px}
+}

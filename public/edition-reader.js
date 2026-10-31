@@ -5,7 +5,7 @@
  const get=key=>{try{return JSON.parse(localStorage.getItem(key));}catch{return null;}};
  const put=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value));}catch{}};
  const dialog=document.createElement('dialog');dialog.className='mag-quiet-reader';dialog.setAttribute('aria-label','ପଢ଼ିବା ଘର');
- dialog.innerHTML=`<header class="quiet-top"><button data-exit aria-label="ପଢ଼ିବା ବନ୍ଦ କରନ୍ତୁ">← ଫେରନ୍ତୁ</button><button data-fullscreen aria-label="Enter full screen" aria-pressed="false" title="ପୂର୍ଣ୍ଣ ପରଦା">⛶ <span>ପୂର୍ଣ୍ଣ ପରଦା</span></button><button data-settings aria-expanded="false" aria-controls="quiet-settings">ଅ · ପଢ଼ିବା ସୁବିଧା</button></header><section id="quiet-settings" hidden><label>ଲେଖା ବାଛନ୍ତୁ <select data-contents></select></label><div class="quiet-options"><button data-size="-2" aria-label="ଅକ୍ଷର ଛୋଟ କରନ୍ତୁ">ଅ −</button><button data-size="2" aria-label="ଅକ୍ଷର ବଡ଼ କରନ୍ତୁ">ଅ +</button><button data-theme="paper" aria-pressed="true">କାଗଜ</button><button data-theme="night" aria-pressed="false">ରାତି</button><button data-colour-paper aria-pressed="true">ରଙ୍ଗିନ କାଗଜ</button><label><input data-art type="checkbox" checked> ଚିତ୍ର</label></div></section><div class="quiet-spread-shell"><section class="quiet-cover-stage" aria-label="ମଲାଟ"><div class="quiet-cover-book"><div class="quiet-cover-front"></div><div class="quiet-cover-back" hidden></div></div><div class="quiet-cover-actions"><button data-open-cover disabled>ପଢ଼ିବା ଆରମ୍ଭ କରନ୍ତୁ →</button><button data-resume-place hidden>ପୁଣି ପଢ଼ନ୍ତୁ →</button><button data-skip-intro hidden>ଛାଡ଼ନ୍ତୁ</button></div></section><div class="quiet-print-header" aria-hidden="true"><span>ଶିଶୁ କିଶୋର</span><span>ଶିଶୁ କିଶୋର</span></div><i class="quiet-corner quiet-corner-leaf" aria-hidden="true"></i><i class="quiet-corner quiet-corner-kite" aria-hidden="true"></i><div class="quiet-page" tabindex="0" aria-label="ପତ୍ରିକା ପୃଷ୍ଠା"><div class="quiet-track"><div class="quiet-content"></div></div></div><div class="quiet-folios" aria-hidden="true"><span></span><span></span></div></div><footer class="quiet-bottom"><button data-prev aria-label="ପୂର୍ବ ପୃଷ୍ଠା">← ପୂର୍ବ</button><span role="status" aria-live="polite"></span><button data-next aria-label="ପର ପୃଷ୍ଠା">ପର →</button></footer>`;
+ dialog.innerHTML=`<header class="quiet-top"><button data-exit aria-label="ଫେରନ୍ତୁ — ପଢ଼ିବା ବନ୍ଦ କରନ୍ତୁ">← ଫେରନ୍ତୁ</button><button data-fullscreen aria-label="ପୂର୍ଣ୍ଣ ପରଦା" aria-pressed="false" title="ପୂର୍ଣ୍ଣ ପରଦା">⛶ <span>ପୂର୍ଣ୍ଣ ପରଦା</span></button><button data-settings aria-expanded="false" aria-controls="quiet-settings">ଅ · ପଢ଼ିବା ସୁବିଧା</button></header><section id="quiet-settings" hidden><label>ଲେଖା ବାଛନ୍ତୁ <select data-contents></select></label><div class="quiet-options"><button data-size="-2" aria-label="ଅକ୍ଷର ଛୋଟ କରନ୍ତୁ">ଅ −</button><button data-size="2" aria-label="ଅକ୍ଷର ବଡ଼ କରନ୍ତୁ">ଅ +</button><button data-theme="paper" aria-pressed="true">କାଗଜ</button><button data-theme="night" aria-pressed="false">ରାତି</button><button data-colour-paper aria-pressed="true">ରଙ୍ଗିନ କାଗଜ</button><label><input data-art type="checkbox" checked> ଚିତ୍ର</label></div></section><div class="quiet-spread-shell"><section class="quiet-cover-stage" aria-label="ମଲାଟ"><div class="quiet-cover-book"><div class="quiet-cover-front"></div><div class="quiet-cover-back" hidden></div></div><div class="quiet-cover-actions"><button data-open-cover disabled>ପଢ଼ିବା ଆରମ୍ଭ କରନ୍ତୁ →</button><button data-resume-place hidden>ପୂର୍ବ ସ୍ଥାନରୁ ପଢ଼ନ୍ତୁ →</button></div></section><div class="quiet-print-header" aria-hidden="true"><span>ଶିଶୁ କିଶୋର</span><span>ଶିଶୁ କିଶୋର</span></div><i class="quiet-corner quiet-corner-leaf" aria-hidden="true"></i><i class="quiet-corner quiet-corner-kite" aria-hidden="true"></i><div class="quiet-page" tabindex="0" aria-label="ପତ୍ରିକା ପୃଷ୍ଠା"><div class="quiet-track"><div class="quiet-content"></div></div></div><div class="quiet-folios" aria-hidden="true"><span></span><span></span></div></div><footer class="quiet-bottom"><button data-prev aria-label="ପୂର୍ବ ପୃଷ୍ଠା">← ପୂର୍ବ</button><span role="status" aria-live="polite"></span><button data-next aria-label="ପର ପୃଷ୍ଠା">ପର →</button></footer>`;
  const readerFrame=document.createElement('div');readerFrame.className='quiet-reader-frame';readerFrame.append(...dialog.childNodes);dialog.append(readerFrame);
  document.body.append(dialog);
  window.SishuPageSound?.mount(dialog.querySelector('.quiet-options'));
@@ -14,21 +14,9 @@
  let collection,index=0,opener,serial=0,size=get('sishu-reader-size')||22,theme=get('sishu-reader-theme')||'paper',busy=false,spread=0,spreadCount=1,columnCount=1,totalPages=1,articleColumns=[];
  const track=dialog.querySelector('.quiet-track'),cache=new Map();
  const coverStage=dialog.querySelector('.quiet-cover-stage'),front=dialog.querySelector('.quiet-cover-front'),back=dialog.querySelector('.quiet-cover-back');
- const openCover=dialog.querySelector('[data-open-cover]'),resume=dialog.querySelector('[data-resume-place]'),skipIntro=dialog.querySelector('[data-skip-intro]'),fullscreen=dialog.querySelector('[data-fullscreen]');
- const reducedMotion=matchMedia('(prefers-reduced-motion: reduce)');
- let phase='front',savedPlace=null,intro=null,ownsFullscreen=false,ready=false;
+ const openCover=dialog.querySelector('[data-open-cover]'),resume=dialog.querySelector('[data-resume-place]'),fullscreen=dialog.querySelector('[data-fullscreen]');
+ let phase='front',savedPlace=null,ownsFullscreen=false,ready=false;
  dialog.dataset.pageKind=phase;
- function stopIntro(){intro?.cancel();intro=null;skipIntro.hidden=true;}
- function animateCover(){
-  stopIntro();if(reducedMotion.matches||!front.animate)return;
-  // A short opening peek returns to the front cover; navigation stays under the reader's control.
-  intro=front.animate([
-   {transform:'rotateY(0deg)'},{transform:'rotateY(-48deg)',offset:.58},{transform:'rotateY(0deg)'}
-  ],{duration:1500,easing:'cubic-bezier(.3,.05,.25,1)',delay:180});
-  skipIntro.hidden=false;intro.onfinish=stopIntro;
- }
- skipIntro.onclick=stopIntro;
- reducedMotion.addEventListener('change',()=>{if(reducedMotion.matches)stopIntro();});
  function coverText(tag,text,className){const node=document.createElement(tag);node.textContent=text;if(className)node.className=className;return node;}
  async function prepareCovers(){
   let source=document;
@@ -36,8 +24,8 @@
    const response=await fetch(issue);if(!response.ok)throw Error('cover');
    source=new DOMParser().parseFromString(await response.text(),'text/html');
   }
-  const artwork=source.querySelector('.mag-edition-opening>figure img');
-  const designedCover=source.querySelector('.mag-edition-opening>figure.storybook-cover');
+  const artwork=source.querySelector('.mag-edition-opening img');
+  const designedCover=source.querySelector('.mag-edition-opening figure.storybook-cover');
   front.classList.toggle('quiet-illustrated-cover',Boolean(designedCover));
   front.replaceChildren();
   if(designedCover){
@@ -67,10 +55,10 @@
   const folios=dialog.querySelectorAll('.quiet-folios span');folios[0].textContent=odia(first);folios[1].textContent=columnCount===2&&last>first?odia(last):'';
   status.textContent=`${odia(first)}${last>first?'–'+odia(last):''} / ${odia(totalPages)} · ${collection.items[index].title}`;
  }
- function showCover(kind){stopIntro();phase=kind;showPosition();save();}
+ function showCover(kind){phase=kind;showPosition();save();}
  function move(direction){
   if(busy||window.SishuPageTurn?.busy||(direction<0&&prev.disabled)||(direction>0&&next.disabled))return;
-  stopIntro();window.SishuPageSound?.play();
+  window.SishuPageSound?.play();
   const update=()=>{
    if(phase==='front')turn(0);
    else if(phase==='back')turn(spreadCount-1);
@@ -81,7 +69,7 @@
   const betweenPages=phase==='body'&&!(direction<0&&spread===0)&&!(direction>0&&spread===spreadCount-1);
   const paper=dialog.querySelector('.quiet-spread-shell');
   const surface=phase==='body'?paper:dialog.querySelector('.quiet-cover-book');
-  const options={host:readerFrame,mode:betweenPages?(columnCount===2?'spread':'slide'):'cover',resolveSurface:()=>betweenPages?paper:phase==='body'?pane:dialog.querySelector('.quiet-cover-book'),destinationIsCover:()=>phase!=='body'};
+  const options={host:readerFrame,mode:betweenPages?(columnCount===2?'spread':'slide'):'slide',resolveSurface:()=>betweenPages?paper:phase==='body'?pane:dialog.querySelector('.quiet-cover-book'),destinationIsCover:()=>phase!=='body'};
   window.SishuPageTurn?window.SishuPageTurn.play(surface,direction,update,options):update();
  }
  openCover.onclick=()=>{if(phase==='back'){window.SishuPageTurn?.stop();showCover('front');openCover.focus();}else move(1);};
@@ -92,7 +80,7 @@
   else turn(Number(savedPlace.spread)||0);
   if(phase==='body')pane.focus();
  };
- function updateFullscreen(){const active=Boolean(document.fullscreenElement);fullscreen.setAttribute('aria-pressed',String(active));fullscreen.setAttribute('aria-label',active?'Exit full screen':'Enter full screen');fullscreen.querySelector('span').textContent=active?'ଛୋଟ ପରଦା':'ପୂର୍ଣ୍ଣ ପରଦା';if(!active)ownsFullscreen=false;paginate();}
+ function updateFullscreen(){const active=Boolean(document.fullscreenElement);fullscreen.setAttribute('aria-pressed',String(active));fullscreen.setAttribute('aria-label',active?'ଛୋଟ ପରଦା':'ପୂର୍ଣ୍ଣ ପରଦା');fullscreen.querySelector('span').textContent=active?'ଛୋଟ ପରଦା':'ପୂର୍ଣ୍ଣ ପରଦା';if(!active)ownsFullscreen=false;paginate();}
  fullscreen.hidden=!document.documentElement.requestFullscreen||document.fullscreenEnabled===false;
  fullscreen.onclick=async()=>{try{if(document.fullscreenElement)await document.exitFullscreen();else{await readerFrame.requestFullscreen();ownsFullscreen=true;}}catch(error){console.warn('Reader full screen:',error.name,error.message);status.textContent='ପୂର୍ଣ୍ଣ ପରଦା ଖୋଲିପାରିଲା ନାହିଁ ।';}};
  document.addEventListener('fullscreenchange',updateFullscreen);
@@ -101,7 +89,7 @@
  const save=()=>{if(collection&&ready&&!busy&&phase!=='front'){savedPlace={version:3,phase,index,spread,within:Math.max(0,spread*columnCount-(articleColumns[index]||0))};put('sishu-place:'+issue,savedPlace);put('sishu-last-reader',{issue});window.dispatchEvent(new Event('sishu-reading-saved'));}};
  const apply=()=>{dialog.style.setProperty('--reading-size',size+'px');dialog.dataset.theme=theme;dialog.querySelectorAll('[data-theme]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.theme===theme)));};apply();
  function turn(to){
-  stopIntro();phase='body';spread=Math.max(0,Math.min(spreadCount-1,to));pane.scrollLeft=spread*(pane.clientWidth+48);
+  phase='body';spread=Math.max(0,Math.min(spreadCount-1,to));pane.scrollLeft=spread*(pane.clientWidth+48);
   showPosition();save();
  }
  function paginate(){
@@ -136,7 +124,7 @@
  async function openEdition(){
   const token=++serial;busy=true;ready=false;phase='front';savedPlace=get('sishu-place:'+issue);articleColumns=[];index=0;spread=0;prev.disabled=next.disabled=true;select.disabled=true;status.textContent='ସଂଖ୍ୟାଟି ଲୋଡ୍ ହେଉଛି…';content.replaceChildren();dialog.querySelectorAll('.quiet-folios span').forEach(e=>e.textContent='');
   try{
-   await prepareCovers();if(token!==serial)return;showPosition();animateCover();
+   await prepareCovers();if(token!==serial)return;showPosition();
    const articles=new Array(collection.items.length);let cursor=0;
    await Promise.all(Array.from({length:Math.min(4,articles.length)},async()=>{while(cursor<articles.length){if(token!==serial)return;const n=cursor++;articles[n]=await articleFor(collection.items[n],n);}}));
    if(token!==serial)return;content.append(...articles);await document.fonts.ready;if(token!==serial)return;
@@ -150,7 +138,7 @@
    dialog.showModal();document.documentElement.classList.add('quiet-open');await openEdition();
   }catch{button.textContent='ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ';}finally{button.disabled=false;}
  }));
- dialog.querySelector('[data-exit]').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{save();serial++;stopIntro();if(ownsFullscreen&&document.fullscreenElement)document.exitFullscreen().catch(()=>{});window.SishuPageSound?.stop();window.SishuPageTurn?.stop();document.documentElement.classList.remove('quiet-open');if(returnTo&&window.SishuReaderReturn?.leave(returnTo))return;
+ dialog.querySelector('[data-exit]').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{save();serial++;if(ownsFullscreen&&document.fullscreenElement)document.exitFullscreen().catch(()=>{});window.SishuPageSound?.stop();window.SishuPageTurn?.stop();document.documentElement.classList.remove('quiet-open');if(returnTo&&window.SishuReaderReturn?.leave(returnTo))return;
   if(location.hash==='#reader')history.replaceState(history.state,'',location.pathname+location.search);opener?.focus({preventScroll:true});window.scrollTo(0,entryScroll);});
  dialog.querySelector('[data-settings]').onclick=e=>{const panel=dialog.querySelector('#quiet-settings');panel.hidden=!panel.hidden;e.currentTarget.setAttribute('aria-expanded',String(!panel.hidden));paginate();};
  const colour=dialog.querySelector('[data-colour-paper]');const paint=()=>{colour.setAttribute('aria-pressed',String(window.SishuStoryWash?.enabled()));window.SishuStoryWash?.paint(dialog,collection?.items[index]?.href||issue);};colour.onclick=()=>window.SishuStoryWash?.set(!window.SishuStoryWash.enabled());window.addEventListener('sishu-paper-change',paint);paint();

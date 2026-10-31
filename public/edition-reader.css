@@ -118,4 +118,4 @@ body:has(main>.ia-article)>.ia-footer nav{margin-top:0;align-items:center}
 /* Reuse an edition's composed cover, including its live Odia masthead. */
 .mag-quiet-reader .quiet-illustrated-cover{padding:0;gap:0}
 .mag-quiet-reader .quiet-illustrated-cover>.storybook-cover{flex:1;min-height:0;width:100%;box-shadow:none;overflow:hidden}
-.mag-quiet-reader .quiet-illustrated-cover>.storybook-cover .storybook-cover-art{width:100%;height:100%;object-fit:fill}
+.mag-quiet-reader .quiet-illustrated-cover>.storybook-cover .storybook-cover-art{width:100%;height:100%;object-fit:contain}

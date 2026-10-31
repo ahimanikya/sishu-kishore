@@ -1,0 +1,65 @@
+{
+  "scope": "Public issue landing pages, homepage, archive and shared magazine reader",
+  "public_issues": 35,
+  "preserved_article_texts": 714,
+  "findings": [
+    {
+      "problem": "Two cover systems across recent and older issues",
+      "resolution": "One reusable portrait frame, live masthead, full uncropped artwork and month/year across issue pages, archive previews, homepage and reader."
+    },
+    {
+      "problem": "Light masthead over busy artwork",
+      "resolution": "Dark live Odia masthead on solid cream; local Baloo Bhaina 2 retained.",
+      "contrast_ratio": 10.45
+    },
+    {
+      "problem": "Overstated cover rotation",
+      "resolution": "Removed automatic 48-degree swing; reduced landing-page perspective from 13 to 3 degrees; flat on phones and reduced-motion mode; user-triggered cover navigation uses a slide."
+    },
+    {
+      "problem": "Reader cover artwork stretched to fill its container",
+      "resolution": "Full-composition contain sizing for every cover."
+    },
+    {
+      "problem": "Older contents cards buried bylines inside article links",
+      "resolution": "Separate linked writer credits wherever the source article already has an identified profile; consistent read actions and touch targets."
+    },
+    {
+      "problem": "Inconsistent read labels and crowded mobile homepage",
+      "resolution": "One primary reading label and full-width stacked phone introduction, with reading actions before the cover so readers can start without scrolling; clickable covers open the same reader."
+    },
+    {
+      "problem": "Reader labels unclear or mismatched for assistive technology",
+      "resolution": "Odia fullscreen labels match visible labels; exit label includes visible wording; resume label explicitly says to continue from the previous position."
+    }
+  ],
+  "validation": {
+    "viewports": [
+      320,
+      390,
+      768,
+      1280
+    ],
+    "issue_page_checks": 140,
+    "horizontal_overflow": false,
+    "minimum_issue_masthead_px": 24.96,
+    "reader_checks": "keyboard, cover, full contents, jump, text size, theme, exit focus, resume, reduced motion",
+    "short_phone_viewports": [
+      "320x568",
+      "390x667"
+    ],
+    "forced_colors": "passed",
+    "unit_tests": 30,
+    "build": "passed",
+    "source_order_and_credits": "compared against pre-change Git version; unchanged",
+    "artwork": "original assets unchanged; existing asset checksum checks pass"
+  },
+  "remaining_opportunities": [
+    "15 older source entries lack an existing identified writer-profile link (including dated notices and children’s writing). Confirm identities before adding profiles.",
+    "Validate with actual VoiceOver/Safari and disabled readers; this audit used Chromium viewport and keyboard checks, not a full accessibility certification."
+  ],
+  "guidance": {
+    "color": "Minimum contrast standards: Maintain 4.5:1 for normal text and 3:1 for large text or icons.",
+    "accessibility": "Prefer outline over other properties for focus rings; native links and dialog retained; target sizes and focus return checked."
+  }
+}
