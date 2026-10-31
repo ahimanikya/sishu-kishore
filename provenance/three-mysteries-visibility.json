@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-31",
+  "title": "Three Mysteries",
+  "prefix": "/books/three-mysteries/",
+  "visibility": "unlisted",
+  "authorization": "User clarified: direct link allowed, not linked to the magazine. Supersedes full withdrawal.",
+  "reader": "/books/three-mysteries/",
+  "access": "Public by direct link; not password-protected. Exclude from shelves, reader catalogues and search discovery."
+}

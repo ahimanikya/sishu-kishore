@@ -7624,5 +7624,17 @@
     "url": "https://shishukishora.com/unavailable.html",
     "image": "/social/555b09e45d35f58f.jpg",
     "source": "/art/shishu-durga-cartoon-v5.webp"
+  },
+  {
+    "page": "/books/three-mysteries/index.html",
+    "url": "https://shishukishora.com/books/three-mysteries/",
+    "image": "/social/3923722d061ffbb7.jpg",
+    "source": "/books/three-mysteries/cover.jpg"
+  },
+  {
+    "page": "/books/three-mysteries/line-art.html",
+    "url": "https://shishukishora.com/books/three-mysteries/line-art.html",
+    "image": "/social/3923722d061ffbb7.jpg",
+    "source": "/books/three-mysteries/cover.jpg"
   }
 ]
