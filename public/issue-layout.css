@@ -1,35 +1,45 @@
-/* One paper cover for every digital edition. Artwork remains uncropped. */
+/* Full-page artwork with live, high-contrast cover lettering. */
 .ia-site .magazine-cover,
 .mag-quiet-reader .magazine-cover {
  --cover-paper:#fff8e6;
- position:relative;display:grid;grid-template-rows:auto minmax(0,1fr) auto;
+ position:relative;display:block;
  container-type:inline-size;box-sizing:border-box;width:100%;aspect-ratio:2/3;
- margin:0;padding:5% 5% 4%;gap:3%;background:var(--cover-paper);color:#163f5b;
- border:1px solid #b9a886;border-left:5px solid #a33630;border-radius:2px 5px 5px 2px;
+ margin:0;padding:0;background:#203e39;color:#fff;
+ border:1px solid #60706a;border-left:3px solid #263e38;border-radius:2px 5px 5px 2px;
  box-shadow:3px 3px 0 #d5c8ae,5px 6px 0 -1px #fff6df,9px 12px 20px #26382d20;
- isolation:isolate;transform:none;
+ isolation:isolate;transform:none;overflow:hidden;
 }
 .ia-site .magazine-cover .mag-cover-heading,
 .mag-quiet-reader .magazine-cover .mag-cover-heading {
- position:static;display:flex;flex-direction:column;align-items:center;margin:0;padding:3% 0;
- background:var(--cover-paper);color:#163f5b;line-height:1.4;text-align:center;
+ position:absolute;inset:0 0 auto;z-index:2;display:flex;flex-direction:column;align-items:center;
+ margin:0;padding:4% 3% 14%;
+ background:linear-gradient(to bottom,rgba(12,28,32,.88),rgba(12,28,32,.76) 85%,rgba(12,28,32,0));
+ color:#fff;line-height:1.4;text-align:center;
 }
 .ia-site .magazine-cover .mag-cover-heading strong,
 .mag-quiet-reader .magazine-cover .mag-cover-heading strong {
- display:block;font-family:'Baloo Bhaina 2',sans-serif;font-size:13cqw;font-weight:700;
- line-height:1.6;color:#163f5b;white-space:nowrap;margin:0;padding:0;letter-spacing:0;text-shadow:none;
+ display:block;font-family:'Baloo Bhaina 2',sans-serif;font-size:14cqw;font-weight:700;
+ line-height:1.6;color:#fff;white-space:nowrap;margin:0;padding:0;letter-spacing:0;text-shadow:0 1px 2px #102126;
 }
 .ia-site .magazine-cover .mag-cover-heading span,
-.mag-quiet-reader .magazine-cover .mag-cover-heading span {font-size:5cqw;line-height:1.7}
+.mag-quiet-reader .magazine-cover .mag-cover-heading span {font-size:5cqw;line-height:1.7;color:#fff}
 .ia-site .magazine-cover img.storybook-cover-art,
 .mag-quiet-reader .magazine-cover img.storybook-cover-art {
- display:block;min-height:0;width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;
- margin:0;padding:0;border:0;border-radius:0;box-shadow:none;background:var(--cover-paper);
+ position:absolute;inset:0;z-index:1;display:block;min-height:0;width:100%;height:100%;
+ max-width:none;max-height:none;object-fit:contain;
+ margin:0;padding:0;border:0;border-radius:0;box-shadow:none;background:transparent;
+}
+/* Landscape archive art stays complete; a soft copy extends its colours to the edges. */
+.ia-site .magazine-cover img.mag-cover-backdrop,
+.mag-quiet-reader .magazine-cover img.mag-cover-backdrop {
+ position:absolute;inset:0;z-index:0;display:block;width:100%;height:100%;max-width:none;max-height:none;
+ object-fit:cover;filter:blur(14px);transform:scale(1.12);margin:0;padding:0;border:0;border-radius:0;
 }
 .ia-site .magazine-cover .mag-cover-date,
 .mag-quiet-reader .magazine-cover .mag-cover-date {
- font-size:7cqw;font-weight:600;line-height:1.6;text-align:center;margin:0;padding:3% 0 0;
- border-top:1px solid #b9a886;color:#163f5b;background:var(--cover-paper);
+ position:absolute;inset:auto 5% 4%;z-index:2;width:auto;
+ font-size:7cqw;font-weight:600;line-height:1.6;text-align:center;margin:0;padding:2% 3%;
+ border:0;border-radius:2px;color:#fff;background:rgba(12,28,32,.82);
 }
 /* Consistent issue opening and comfortably sized links, including phones. */
 .magazine-issue .mag-edition-opening {grid-template-columns:minmax(0,1fr) 280px;gap:48px;padding-block:28px 36px!important}
@@ -64,7 +74,7 @@
 @media(forced-colors:active) {
  .ia-site .magazine-cover,.mag-quiet-reader .magazine-cover {--cover-paper:Canvas;color:CanvasText;border-color:CanvasText;box-shadow:none}
  .ia-site .magazine-cover :is(.mag-cover-heading,.mag-cover-heading strong,.mag-cover-date),
- .mag-quiet-reader .magazine-cover :is(.mag-cover-heading,.mag-cover-heading strong,.mag-cover-date){color:CanvasText;border-color:CanvasText}
+ .mag-quiet-reader .magazine-cover :is(.mag-cover-heading,.mag-cover-heading strong,.mag-cover-date){color:CanvasText;background:Canvas;border-color:CanvasText;text-shadow:none}
 }
 @media(max-width:600px) {
  .shishu .ia-main>.ia-issue-intro:has(.magazine-cover)>div:first-child {grid-column:1;grid-row:1;min-width:0}

@@ -19,3 +19,5 @@ This adoption is a development workflow, not evidence of a completed accessibili
 Use Node 24. For implementation changes, run the relevant checks and the project's required `npm test` and `npm run build` checks. Documentation-only changes do not require rebuilding the website. Publishing must follow the actual user request; adoption of this guidance alone does not authorize deployment.
 
 Routing: publish directly at the site root. Never recreate public/shishu, public/sishu or corresponding deployment directories. Known legacy bookmarks use the root 404 handler; unlisted paths are hashed in its lookup so the compatibility file does not expose a directory of review URLs. Preserve historical archives outside public delivery.
+
+Cover direction (1 November 2026): Use full-page artwork with live white masthead lettering over a dark contrast overlay, replacing the earlier solid cream header/frame. Keep portrait cover art complete; extend landscape archive artwork with a decorative soft background copy rather than cropping characters. Preserve the original source images, Baloo Bhaina 2 lettering, restrained desktop tilt and flat mobile covers.
