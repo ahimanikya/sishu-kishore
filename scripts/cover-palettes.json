@@ -1,0 +1,66 @@
+{
+  "palettes": {
+    "teal": {
+      "ink": "#075052",
+      "edge": "#fff4d4",
+      "wash": "rgba(255,244,212,.48)"
+    },
+    "rust": {
+      "ink": "#872d19",
+      "edge": "#fff2d0",
+      "wash": "rgba(255,242,208,.48)"
+    },
+    "indigo": {
+      "ink": "#293c76",
+      "edge": "#f4f0dc",
+      "wash": "rgba(244,240,220,.48)"
+    },
+    "berry": {
+      "ink": "#752746",
+      "edge": "#fff0d9",
+      "wash": "rgba(255,240,217,.48)"
+    },
+    "gold": {
+      "ink": "#ffd56a",
+      "edge": "#173b45",
+      "wash": "rgba(23,59,69,.46)"
+    }
+  },
+  "artwork": {
+    "/editions/2026-11/assets/cover-v1.webp": "gold",
+    "/art/shishu-durga-cartoon-v6-natural-cover.webp": "rust",
+    "/art/archive/portrait/issue-10-cartoon-v1-portrait.webp": "rust",
+    "/art/archive/portrait/issue-05-cartoon-v1-portrait.webp": "gold",
+    "/art/archive/portrait/issue-18-cartoon-v1-portrait.webp": "rust",
+    "/art/archive/portrait/issue-01-cartoon-v1-portrait.webp": "gold",
+    "/art/archive/portrait/issue-16-cartoon-v1-portrait.webp": "indigo",
+    "/art/archive/portrait/issue-25-cartoon-v2-portrait.webp": "rust",
+    "/art/archive/portrait/issue-09-cartoon-v1-portrait.webp": "rust",
+    "/art/archive/portrait/issue-26-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-33-cartoon-v2-portrait.webp": "teal",
+    "/art/archive/portrait/issue-12-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-19-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-22-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-23-cartoon-v1-portrait.webp": "rust",
+    "/art/archive/portrait/issue-17-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-27-cartoon-v2-portrait.webp": "rust",
+    "/art/archive/portrait/issue-13-cartoon-v1-portrait.webp": "berry",
+    "/art/archive/portrait/issue-24-cartoon-v1-portrait.webp": "berry",
+    "/art/archive/portrait/issue-32-cartoon-v1-portrait.webp": "indigo",
+    "/art/archive/portrait/issue-14-cartoon-v1-portrait.webp": "indigo",
+    "/art/archive/portrait/issue-21-cartoon-v1-portrait.webp": "indigo",
+    "/art/archive/portrait/issue-04-cartoon-v1-portrait.webp": "rust",
+    "/art/archive/portrait/issue-29-cartoon-v1-portrait.webp": "indigo",
+    "/art/archive/portrait/issue-08-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-30-cartoon-v1-portrait.webp": "berry",
+    "/art/archive/portrait/issue-03-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-11-cartoon-v1-portrait.webp": "indigo",
+    "/art/archive/portrait/issue-02-cartoon-v1-portrait.webp": "berry",
+    "/art/archive/portrait/issue-15-cartoon-v1-portrait.webp": "rust",
+    "/art/archive/portrait/issue-31-cartoon-v1-portrait.webp": "rust",
+    "/art/archive/portrait/issue-06-cartoon-v1-portrait.webp": "teal",
+    "/art/archive/portrait/issue-07-cartoon-v1-portrait.webp": "indigo",
+    "/art/archive/portrait/issue-20-cartoon-v1-portrait.webp": "berry",
+    "/art/archive/portrait/issue-28-cartoon-v1-portrait.webp": "teal"
+  }
+}

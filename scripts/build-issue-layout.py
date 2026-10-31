@@ -4,12 +4,17 @@ from bs4 import BeautifulSoup
 import copy,json
 P=Path('public')
 catalog=json.loads((P/'edition-reader.json').read_text())
+cover_palettes=json.loads(Path('scripts/cover-palettes.json').read_text())
 def parse(p):return BeautifulSoup(p.read_text(),'html.parser')
 def save(p,s):p.write_text(str(s))
 def page(route):return P/(route.lstrip('/')+('index.html' if route.endswith('/') else ''))
 current_route=parse(P/'current_issue.html').body['data-reading-issue']
 def cover(s,image,title):
  f=s.new_tag('figure');f['class']=['storybook-cover','magazine-cover']
+ palette=cover_palettes['artwork'].get(image.get('data-delivery-original',image.get('src')),'teal')
+ f['data-cover-palette']=palette
+ tokens=cover_palettes['palettes'][palette]
+ f['style']=';'.join('--cover-'+key+':'+value for key,value in tokens.items())
  caption=s.new_tag('figcaption');caption['class']=['mag-cover-heading']
  brand=s.new_tag('strong',lang='or');brand.string='ଶିଶୁ କିଶୋର';caption.append(brand)
  subtitle=s.new_tag('span');subtitle.string='ମାସିକ ଶିଶୁ ପତ୍ରିକା';caption.append(subtitle);f.append(caption)

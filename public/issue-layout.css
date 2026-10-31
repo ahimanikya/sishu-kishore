@@ -2,6 +2,7 @@
 .ia-site .magazine-cover,
 .mag-quiet-reader .magazine-cover {
  --cover-paper:#fff8e6;
+ --cover-ink:#075052;--cover-edge:#fff4d4;--cover-wash:rgba(255,244,212,.48);
  position:relative;display:block;
  container-type:inline-size;box-sizing:border-box;width:100%;aspect-ratio:2/3;
  margin:0;padding:0;background:#203e39;color:#fff;
@@ -14,18 +15,18 @@
  position:absolute;inset:0 0 auto;z-index:2;display:flex;flex-direction:column;align-items:flex-start;
  margin:0;padding:4% 6% 0;
  background:transparent;
- color:#fff8e6;line-height:1.4;text-align:left;
+ color:var(--cover-ink);line-height:1.4;text-align:left;
 }
 .ia-site .magazine-cover .mag-cover-heading strong,
 .mag-quiet-reader .magazine-cover .mag-cover-heading strong {
  display:block;font-family:'Baloo Bhaina 2',sans-serif;font-size:12cqw;font-weight:700;
- line-height:1.35;color:#fff8e6;white-space:nowrap;margin:0;padding:0;letter-spacing:0;
- -webkit-text-stroke:.65cqw #183632;paint-order:stroke fill;
- text-shadow:0 1px 1px #183632;
+ line-height:1.35;color:var(--cover-ink);white-space:nowrap;margin:0;padding:0;letter-spacing:0;
+ -webkit-text-stroke:.5cqw var(--cover-edge);paint-order:stroke fill;
+ text-shadow:none;
 }
 .ia-site .magazine-cover .mag-cover-heading span,
-.mag-quiet-reader .magazine-cover .mag-cover-heading span {font-size:4.5cqw;line-height:1.6;color:#fff8e6;
- -webkit-text-stroke:.55cqw #183632;paint-order:stroke fill;text-shadow:0 1px 1px #183632}
+.mag-quiet-reader .magazine-cover .mag-cover-heading span {font-size:4.5cqw;line-height:1.6;color:var(--cover-ink);
+ -webkit-text-stroke:.5cqw var(--cover-edge);paint-order:stroke fill;text-shadow:none}
 .ia-site .magazine-cover img.storybook-cover-art,
 .mag-quiet-reader .magazine-cover img.storybook-cover-art {
  position:absolute;inset:0;z-index:1;display:block;min-height:0;width:100%;height:100%;
@@ -37,8 +38,8 @@
 .mag-quiet-reader .magazine-cover .mag-cover-date {
  position:absolute;inset:auto auto 4% 6%;z-index:2;width:max-content;max-width:88%;
  font-size:5.5cqw;font-weight:600;line-height:1.6;text-align:left;margin:0;padding:0;
- border:0;border-radius:0;color:#fff8e6;background:transparent;
- -webkit-text-stroke:.55cqw #183632;paint-order:stroke fill;text-shadow:0 1px 1px #183632;
+ border:0;border-radius:0;color:var(--cover-ink);background:transparent;
+ -webkit-text-stroke:.5cqw var(--cover-edge);paint-order:stroke fill;text-shadow:none;
 }
 /* Feather the artwork only immediately behind each text line. */
 .ia-site .magazine-cover .mag-cover-heading :is(strong,span),
@@ -48,8 +49,8 @@
 .ia-site .magazine-cover :is(.mag-cover-heading strong,.mag-cover-heading span,.mag-cover-date)::before,
 .mag-quiet-reader .magazine-cover :is(.mag-cover-heading strong,.mag-cover-heading span,.mag-cover-date)::before {
  content:"";position:absolute;inset:-1cqw -2cqw;z-index:-1;pointer-events:none;
- border-radius:50%;background:rgba(24,54,50,.38);
- -webkit-backdrop-filter:blur(1cqw);backdrop-filter:blur(1cqw);
+ border-radius:50%;background:var(--cover-wash);
+ -webkit-backdrop-filter:blur(1.5cqw);backdrop-filter:blur(1.5cqw);
  -webkit-mask-image:radial-gradient(ellipse, #000 45%,transparent 75%);
  mask-image:radial-gradient(ellipse, #000 45%,transparent 75%);
 }
