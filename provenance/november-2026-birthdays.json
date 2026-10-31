@@ -1,0 +1,56 @@
+{
+  "issue": "2026-11",
+  "source": "User-supplied November 2026 birthday list in this chat",
+  "review_status": "pending_editor_review",
+  "birthdays": [
+    {
+      "date_of_birth": "1957-11-03",
+      "source_date": "03.11.1957",
+      "name": "ତନୟା ଦାସ ଗୋସ୍ଵାମୀ",
+      "profile": "/shishu/writers/6bd0f39ff075.html"
+    },
+    {
+      "date_of_birth": "1948-11-14",
+      "source_date": "14.11.1948",
+      "name": "ଡ ମନୀନ୍ଦ୍ର ମହାନ୍ତି",
+      "profile": "/shishu/review/2026-11/writers/manindra-mohanty.html"
+    },
+    {
+      "date_of_birth": "1952-11-22",
+      "source_date": "22.11.1952",
+      "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ",
+      "profile": "/shishu/writers/5721f5a8f48e.html"
+    },
+    {
+      "date_of_birth": "1949-11-27",
+      "source_date": "27.11.1949",
+      "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "profile": "/shishu/writers/c15042e65fc9.html"
+    },
+    {
+      "date_of_birth": "1958-11-30",
+      "source_date": "30.11.1958",
+      "name": "ଶ୍ରୀମତୀ ସୁବାସିନୀ ଧଳ",
+      "profile": "/shishu/writers/809247c9a1cc.html"
+    }
+  ],
+  "layout_reference": "public/shishu/writers.html October birthday cards and public/author-birthdays.css",
+  "identity_notes": [
+    "Tanaya: exact given/family names with Unicode variant for wa; no merge of existing profiles.",
+    "Shakuntala: exact honorific/name match.",
+    "Subasini: existing November byline profile, honorific omitted on canonical page.",
+    "Manindra: no matching existing profile found; unlisted source-only profile created, no invented biography or portrait."
+  ],
+  "verification": {
+    "profiles": "All five birthday links resolve; Manindra source-only profile stays unlisted and noindex",
+    "viewports": [
+      1280,
+      390,
+      320
+    ],
+    "layout": "No horizontal overflow; birthday cards inspected at phone size; cover inspected desktop and phone",
+    "tests": "26 passed",
+    "build": "passed",
+    "cover": "CSS-only static perspective, spine lighting, paper edge and layered shadows; original illustration unchanged"
+  }
+}
