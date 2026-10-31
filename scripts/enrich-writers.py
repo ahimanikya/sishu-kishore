@@ -22,7 +22,7 @@ for w in writers:
     portrait=f'<img class="writer-photo writer-illustration" data-portrait-treatment="cartoon-natural" src="{w["portrait"]}" alt="{escape(w["name"])}" width="512" height="512" decoding="async">'
     image_pattern=r'<span class="writer-photo writer-avatar"[^>]*>.*?</span>|<img\b[^>]*class="writer-photo writer-illustration"[^>]*>'
     if w.get('portrait'):text=re.sub(image_pattern,lambda _:portrait,text,count=1,flags=re.S)
-    text=re.sub(r'<section class="writer-introduction".*?</section>','',text,flags=re.S)
+    text=re.sub(r'<section\b(?=[^>]*class="writer-introduction")[^>]*>.*?</section>','',text,flags=re.S)
     source_links=''.join(f'<li><a href="{escape(s["url"],quote=True)}" target="_blank" rel="noopener noreferrer">{escape(s["label"])}</a></li>' for s in w['sources'])
     bio=f'<section class="writer-introduction" aria-labelledby="writer-introduction-title"><h2 id="writer-introduction-title">ଲେଖକଙ୍କୁ ଜାଣନ୍ତୁ</h2><p>{escape(w["bio"])}</p><details><summary>ପରିଚୟର ଉତ୍ସ</summary><ul>{source_links}</ul></details></section>'
     text=text.replace('<div class="contribution-heading">',bio+'<div class="contribution-heading">')

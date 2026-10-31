@@ -12,7 +12,7 @@ def issue_number(artwork):return int(re.search(r'\d+',artwork['issue'])[0])
 home_items=[(i,a) for i,a in enumerate(items) if issue_number(a)==home_issue['number']]
 od=lambda s:str(s).translate(str.maketrans('0123456789','୦୧୨୩୪୫୬୭୮୯'))
 esc=escape
-home=(public/'index.html').read_text();home=re.sub(r'<section class="art-home".*?</section>','',home,flags=re.S);head=home.split('<head>',1)[1].split('</head>',1)[0].replace('<link rel="stylesheet" href="/children-art.css?v=1">','')
+home=(public/'index.html').read_text();home=re.sub(r'<section\b(?=[^>]*class="art-home")[^>]*>.*?</section>','',home,flags=re.S);head=home.split('<head>',1)[1].split('</head>',1)[0].replace('<link rel="stylesheet" href="/children-art.css?v=1">','')
 head=re.sub(r'<script\b[^>]*>.*?</script>','',head,flags=re.S)
 head=re.sub(r'<meta\b[^>]*>|<link\b[^>]*rel="canonical"[^>]*>|<title>.*?</title>','',head,flags=re.S)
 header=re.search(r'<header class="ia-header".*?</header>',home,re.S)[0];footer=re.search(r'<footer.*?</footer>',home,re.S)[0]

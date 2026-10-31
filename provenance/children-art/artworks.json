@@ -2,11 +2,47 @@
   "source": "https://www.shishukishora.com/activity_children.php",
   "retrieved": "2026-10-10",
   "homepage_issue": {
-    "number": 34,
-    "edition_title": "ଅକ୍ଟୋବର: ୨୦୨୬",
-    "edition_route": "/shishu/current_issue.html"
+    "number": 35,
+    "edition_title": "ନଭେମ୍ବର: ୨୦୨୬",
+    "edition_route": "/shishu/editions/2026-11/"
   },
   "artworks": [
+    {
+      "source": "User-supplied November 2026 manuscript / drawing",
+      "name": "ଦିବ୍ୟାନ୍ଶୁ ସାମଲ",
+      "caption": "ଶ୍ରେଣୀ – 8ମ  ଶହିଦ ରାଜପାଲ ଡିଏଭି ପବ୍ଲିକ ସ୍କୁଲ \nଦୟାନନ୍ଦ ବିହାର , ନିଉଦିଲ୍ଲୀ ",
+      "issue": "( ସଂଖ୍ୟା - 35 ରେ ପ୍ରକାଶିତ )",
+      "local": "/shishu/editions/2026-11/assets/drawing-1.png",
+      "width": 201,
+      "height": 278,
+      "sha256": "11ce29c7de97236fb378315bc14f9d9688cbbd8018b0a33554b16df6daea9e62",
+      "display_caption": "ରଙ୍ଗ ଓ ରେଖାରେ ସଜା ଚିତ୍ର",
+      "caption_provenance": "Existing reviewed November description; original credit preserved."
+    },
+    {
+      "source": "User-supplied November 2026 manuscript / drawing",
+      "name": "ଦିବ୍ୟା ଦିବ୍ୟଜ୍ୟୋତି ମହାନ୍ତି",
+      "caption": "ଶ୍ରେଣୀ – ୯,  ଓଡିଶା ଆଦର୍ଶ ବିଦ୍ୟାଳୟ , କୁଞ୍ଜର , କାକଟପୁର",
+      "issue": "( ସଂଖ୍ୟା - 35 ରେ ପ୍ରକାଶିତ )",
+      "local": "/shishu/editions/2026-11/assets/drawing-2.png",
+      "width": 466,
+      "height": 573,
+      "sha256": "3aa6a4751fdacde34512c38a35da025fa6c5cdfa03d5e91374599634b1719566",
+      "display_caption": "ମା କାଳୀଙ୍କ ଚିତ୍ର",
+      "caption_provenance": "Existing reviewed November description; original credit preserved."
+    },
+    {
+      "source": "User-supplied November 2026 manuscript / drawing",
+      "name": "ଦିବ୍ୟାଂଶ ମହାନ୍ତି",
+      "caption": "ନବମ ଶ୍ରେଣୀ\nପି. ଏମ୍. କେନ୍ଦ୍ରୀୟ ବିଦ୍ୟାଳୟ ନ. ୫ ଭୁବନେଶ୍ବର",
+      "issue": "( ସଂଖ୍ୟା - 35 ରେ ପ୍ରକାଶିତ )",
+      "local": "/shishu/editions/2026-11/assets/drawing-3.png",
+      "width": 1162,
+      "height": 1599,
+      "sha256": "222a344c1cc7ddd75f1264ad9f28ba004cb4b6699dc46ee7ff8c66734a717bd9",
+      "display_caption": "ଶିବ ଓ ପାର୍ବତୀଙ୍କ ଚିତ୍ର",
+      "caption_provenance": "Existing reviewed November description; original credit preserved."
+    },
     {
       "source": "https://www.shishukishora.com/images/Soumya Sekhar 34-50kb.jpg",
       "name": "ସୌମ୍ୟଶେଖର ସ୍ଵାଇଁ",

@@ -3,7 +3,7 @@ const cfg=JSON.parse(fs.readFileSync('scripts/site.json','utf8')),root=path.reso
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const registry='provenance/published.json',old=fs.existsSync(registry)?JSON.parse(fs.readFileSync(registry,'utf8')):{files:[],targets:[]};
 const start='<!-- approved-publications:start -->',end='<!-- approved-publications:end -->';
-const safe=p=>{if(typeof p!=='string'||(p!=='/index.html'&&!p.startsWith(cfg.prefix+'/'))||p.includes('..')||!p.endsWith('.html'))throw Error('Invalid publication route');return path.join(root,p);};
+const safe=p=>{const edition=typeof p==='string'&&new RegExp('^'+cfg.prefix+'/editions/\\d{4}-\\d{2}/$').test(p);if(typeof p!=='string'||(p!=='/index.html'&&!p.startsWith(cfg.prefix+'/'))||p.includes('..')||(!p.endsWith('.html')&&!edition))throw Error('Invalid publication route');return path.join(root,p,edition?'index.html':'');};
 const {fetchPublished}=await import('./lib/publications-feed.mjs');
 let records=process.env.NODE_ENV==='test' && process.env.PUBLICATIONS_FIXTURE?JSON.parse(fs.readFileSync(process.env.PUBLICATIONS_FIXTURE,'utf8')):await fetchPublished({projectId:cfg.projectId});
 records=records.filter(d=>d.state==='published').sort((a,b)=>a.id.localeCompare(b.id));

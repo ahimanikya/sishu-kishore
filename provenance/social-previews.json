@@ -14,8 +14,8 @@
   {
     "page": "/index.html",
     "url": "https://shishukishora.com/",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/editions/2026-11/assets/cover-v1.webp"
   },
   {
     "page": "/shishu/activities.html",
@@ -26,8 +26,8 @@
   {
     "page": "/shishu/activity_children.html",
     "url": "https://shishukishora.com/shishu/activity_children.html",
-    "image": "/social/f95885837951068f.jpg",
-    "source": "/media/214784454eb0b946cf5b6eb7.jpg"
+    "image": "/social/aec694c7cf361ea3.jpg",
+    "source": "/shishu/editions/2026-11/assets/drawing-1.png"
   },
   {
     "page": "/shishu/article-765.html",
@@ -4512,6 +4512,12 @@
     "source": "/media/b7f201479b991ce95e1b05e7.jpg"
   },
   {
+    "page": "/shishu/books/ketejami_loda/illustrated.html",
+    "url": "https://shishukishora.com/shishu/books/ketejami_loda/illustrated.html",
+    "image": "/social/2d08c953c95aab63.jpg",
+    "source": "/shishu/books/ketejami_loda/art/cover-v1.jpg"
+  },
+  {
     "page": "/shishu/books/ketejami_loda/page-1.html",
     "url": "https://shishukishora.com/shishu/books/ketejami_loda/page-1.html",
     "image": "/social/6bd88e1968a87306.jpg",
@@ -4660,6 +4666,18 @@
     "url": "https://shishukishora.com/shishu/books/ketejami_loda/page-9.html",
     "image": "/social/73f9e5bc951d7589.jpg",
     "source": "/media/02dd11fc99906fecbb0027d8.jpg"
+  },
+  {
+    "page": "/shishu/books/ketejami_loda/proofread.html",
+    "url": "https://shishukishora.com/shishu/books/ketejami_loda/proofread.html",
+    "image": "/social/2d08c953c95aab63.jpg",
+    "source": "/shishu/books/ketejami_loda/art/cover-v1.jpg"
+  },
+  {
+    "page": "/shishu/books/musha_mushi/illustrated.html",
+    "url": "https://shishukishora.com/shishu/books/musha_mushi/illustrated.html",
+    "image": "/social/0e9908c78eadc4e0.jpg",
+    "source": "/shishu/books/musha_mushi/art/poem-01-v1.jpg"
   },
   {
     "page": "/shishu/books/musha_mushi/page-1.html",
@@ -4962,6 +4980,24 @@
     "source": "/media/21d5c9f38734a7baa8e216d7.jpg"
   },
   {
+    "page": "/shishu/books/musha_mushi/proofread.html",
+    "url": "https://shishukishora.com/shishu/books/musha_mushi/proofread.html",
+    "image": "/social/555b09e45d35f58f.jpg",
+    "source": "/art/shishu-durga-cartoon-v5.webp"
+  },
+  {
+    "page": "/shishu/books/three-mysteries/index.html",
+    "url": "https://shishukishora.com/shishu/books/three-mysteries/",
+    "image": "/social/3923722d061ffbb7.jpg",
+    "source": "/shishu/books/three-mysteries/cover.jpg"
+  },
+  {
+    "page": "/shishu/books/three-mysteries/line-art.html",
+    "url": "https://shishukishora.com/shishu/books/three-mysteries/line-art.html",
+    "image": "/social/3923722d061ffbb7.jpg",
+    "source": "/shishu/books/three-mysteries/cover.jpg"
+  },
+  {
     "page": "/shishu/books.html",
     "url": "https://shishukishora.com/shishu/books.html",
     "image": "/social/039d5dacbb699434.jpg",
@@ -4982,8 +5018,8 @@
   {
     "page": "/shishu/current_issue.html",
     "url": "https://shishukishora.com/shishu/current_issue.html",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/editions/2026-11/assets/cover-v1.webp"
   },
   {
     "page": "/shishu/e_library-dakuchhi_gaon-html.html",
@@ -5002,6 +5038,192 @@
     "url": "https://shishukishora.com/shishu/e_library-musha_mushi-html.html",
     "image": "/social/9df489dc7dbd1668.jpg",
     "source": "/media/45ff3447605ee593efe1fdbf.jpg"
+  },
+  {
+    "page": "/shishu/editions/2026-10/index.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-10/",
+    "image": "/social/555b09e45d35f58f.jpg",
+    "source": "/art/shishu-durga-cartoon-v5.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/all-writing.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/all-writing.html",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/editions/2026-11/assets/cover-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-01.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-01.html",
+    "image": "/social/11cd62ec2c8e618a.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-01-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-02.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-02.html",
+    "image": "/social/29cd21f3a192d704.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-02-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-03.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-03.html",
+    "image": "/social/032c8a0fcb492867.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-03-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-04.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-04.html",
+    "image": "/social/202fd9d936f31ef1.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-04-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-05.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-05.html",
+    "image": "/social/12b69e7f36543756.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-05-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-06.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-06.html",
+    "image": "/social/588e68e4aef428a7.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-06-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-07.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-07.html",
+    "image": "/social/b529966fb293ff68.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-07-v3.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-08.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-08.html",
+    "image": "/social/2c3dae7c5a9bb7a4.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-08-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-09.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-09.html",
+    "image": "/social/8aaf36d6586c7f77.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-09-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-10.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-10.html",
+    "image": "/social/dc82d837e6c1449e.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-10-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-11.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-11.html",
+    "image": "/social/cdd9bec441f609df.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-11-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-12.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-12.html",
+    "image": "/social/32550c621df325bc.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-12-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-13.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-13.html",
+    "image": "/social/0df34cd7a0330522.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-13-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-14.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-14.html",
+    "image": "/social/8362ddd4744c3081.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-14-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-15.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-15.html",
+    "image": "/social/b636e7c987f81576.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-15-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-16.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-16.html",
+    "image": "/social/4689eca84a95ed74.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-16-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-17.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-17.html",
+    "image": "/social/ad720da277618c05.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-17-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-18.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-18.html",
+    "image": "/social/35a7328138a9e4d5.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-18-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-19.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-19.html",
+    "image": "/social/599ef952fa01c961.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-19-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-20.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-20.html",
+    "image": "/social/e6af0a868e6da3c5.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-20-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-21.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-21.html",
+    "image": "/social/02a60ce5ea7c97ac.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-21-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-22.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-22.html",
+    "image": "/social/9cc54cf3301033c8.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-22-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-23.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-23.html",
+    "image": "/social/0d2b97005890cba2.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-23-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-24.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-24.html",
+    "image": "/social/7428496eb64562b7.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-24-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-25.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-25.html",
+    "image": "/social/8e36613d03b607f1.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-25-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-26.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-26.html",
+    "image": "/social/0bd491f94692af72.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-26-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-27.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-27.html",
+    "image": "/social/c25179a55b9b608c.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-27-v2.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/article-28.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/article-28.html",
+    "image": "/social/6bfbda98de75e452.jpg",
+    "source": "/shishu/editions/2026-11/assets/articles/article-28-v1.webp"
+  },
+  {
+    "page": "/shishu/editions/2026-11/index.html",
+    "url": "https://shishukishora.com/shishu/editions/2026-11/",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/editions/2026-11/assets/cover-v1.webp"
   },
   {
     "page": "/shishu/editorial.html",
@@ -5054,8 +5276,8 @@
   {
     "page": "/shishu/old_issues.html",
     "url": "https://shishukishora.com/shishu/old_issues.html",
-    "image": "/social/acfe09caf4d11b10.jpg",
-    "source": "/art/archive/issue-01-cartoon-v1.webp"
+    "image": "/social/555b09e45d35f58f.jpg",
+    "source": "/art/shishu-durga-cartoon-v5.webp"
   },
   {
     "page": "/shishu/old_issues_details-01d938c402.html",
@@ -5262,6 +5484,198 @@
     "source": "/art/archive/issue-28-cartoon-v1.webp"
   },
   {
+    "page": "/shishu/review/2026-11/all-writing.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/all-writing.html",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-01.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-01.html",
+    "image": "/social/11cd62ec2c8e618a.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-01-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-02.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-02.html",
+    "image": "/social/29cd21f3a192d704.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-02-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-03.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-03.html",
+    "image": "/social/032c8a0fcb492867.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-03-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-04.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-04.html",
+    "image": "/social/202fd9d936f31ef1.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-04-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-05.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-05.html",
+    "image": "/social/12b69e7f36543756.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-05-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-06.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-06.html",
+    "image": "/social/588e68e4aef428a7.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-06-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-07.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-07.html",
+    "image": "/social/b529966fb293ff68.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-07-v3.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-08.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-08.html",
+    "image": "/social/2c3dae7c5a9bb7a4.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-08-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-09.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-09.html",
+    "image": "/social/8aaf36d6586c7f77.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-09-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-10.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-10.html",
+    "image": "/social/dc82d837e6c1449e.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-10-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-11.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-11.html",
+    "image": "/social/cdd9bec441f609df.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-11-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-12.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-12.html",
+    "image": "/social/32550c621df325bc.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-12-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-13.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-13.html",
+    "image": "/social/0df34cd7a0330522.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-13-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-14.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-14.html",
+    "image": "/social/8362ddd4744c3081.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-14-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-15.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-15.html",
+    "image": "/social/b636e7c987f81576.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-15-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-16.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-16.html",
+    "image": "/social/4689eca84a95ed74.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-16-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-17.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-17.html",
+    "image": "/social/ad720da277618c05.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-17-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-18.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-18.html",
+    "image": "/social/35a7328138a9e4d5.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-18-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-19.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-19.html",
+    "image": "/social/599ef952fa01c961.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-19-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-20.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-20.html",
+    "image": "/social/e6af0a868e6da3c5.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-20-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-21.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-21.html",
+    "image": "/social/02a60ce5ea7c97ac.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-21-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-22.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-22.html",
+    "image": "/social/9cc54cf3301033c8.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-22-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-23.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-23.html",
+    "image": "/social/0d2b97005890cba2.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-23-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-24.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-24.html",
+    "image": "/social/7428496eb64562b7.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-24-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-25.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-25.html",
+    "image": "/social/8e36613d03b607f1.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-25-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-26.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-26.html",
+    "image": "/social/0bd491f94692af72.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-26-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-27.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-27.html",
+    "image": "/social/c25179a55b9b608c.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-27-v2.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/article-28.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/article-28.html",
+    "image": "/social/6bfbda98de75e452.jpg",
+    "source": "/shishu/review/2026-11/assets/articles/article-28-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/index.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/writers/manindra-mohanty.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/writers/manindra-mohanty.html",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
+  },
+  {
+    "page": "/shishu/review/2026-11/writers/shekhar-kumar-swain.html",
+    "url": "https://shishukishora.com/shishu/review/2026-11/writers/shekhar-kumar-swain.html",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
+  },
+  {
     "page": "/shishu/site-structure.html",
     "url": "https://shishukishora.com/shishu/site-structure.html",
     "image": "/social/555b09e45d35f58f.jpg",
@@ -5438,8 +5852,8 @@
   {
     "page": "/shishu/writers/1928b5c64b0a.html",
     "url": "https://shishukishora.com/shishu/writers/1928b5c64b0a.html",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
+    "image": "/social/55ff5a78b7f2706c.jpg",
+    "source": "/portraits/swarnalata-tripathy-cartoon-natural-v1.webp"
   },
   {
     "page": "/shishu/writers/19c8f0c69b64.html",
@@ -5678,7 +6092,7 @@
   {
     "page": "/shishu/writers/37cc648aa7a1.html",
     "url": "https://shishukishora.com/shishu/writers/37cc648aa7a1.html",
-    "image": "/social/writer-lakshmikanta-khuntia-v1.jpg",
+    "image": "/social/976b5bc4039ad440.jpg",
     "source": "/portraits/lakshmikanta-khuntia-cartoon-natural-v1.webp"
   },
   {
@@ -5858,8 +6272,8 @@
   {
     "page": "/shishu/writers/524cb79f75d5.html",
     "url": "https://shishukishora.com/shishu/writers/524cb79f75d5.html",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
+    "image": "/social/24484840d835880c.jpg",
+    "source": "/portraits/kunjabihari-sahu-cartoon-natural-v1.webp"
   },
   {
     "page": "/shishu/writers/53153e4b9c59.html",
@@ -5888,7 +6302,7 @@
   {
     "page": "/shishu/writers/5642d255a831.html",
     "url": "https://shishukishora.com/shishu/writers/5642d255a831.html",
-    "image": "/social/writer-5642d255a831-v1.jpg",
+    "image": "/social/9d3153d47e59ad39.jpg",
     "source": "/portraits/lakshmidhar-nayak-cartoon-natural-v1.jpg"
   },
   {
@@ -6320,7 +6734,7 @@
   {
     "page": "/shishu/writers/8d9480d84ea8.html",
     "url": "https://shishukishora.com/shishu/writers/8d9480d84ea8.html",
-    "image": "/social/writer-dash-benhur-v1.jpg",
+    "image": "/social/2dd849a444114e8f.jpg",
     "source": "/portraits/dash-benhur-cartoon-natural-v1.webp"
   },
   {
@@ -6524,7 +6938,7 @@
   {
     "page": "/shishu/writers/a0cccf418dd7.html",
     "url": "https://shishukishora.com/shishu/writers/a0cccf418dd7.html",
-    "image": "/social/writer-sasmita-swain-v1.jpg",
+    "image": "/social/f4542dbd48893a61.jpg",
     "source": "/portraits/sasmita-swain-cartoon-natural-v1.jpg"
   },
   {
@@ -6716,7 +7130,7 @@
   {
     "page": "/shishu/writers/b98810c4015c.html",
     "url": "https://shishukishora.com/shishu/writers/b98810c4015c.html",
-    "image": "/social/writer-brundaban-kumbhar-v1.jpg",
+    "image": "/social/a4731eb61dcad05d.jpg",
     "source": "/portraits/brundaban-kumbhar-cartoon-natural-v1.webp"
   },
   {
@@ -6842,7 +7256,7 @@
   {
     "page": "/shishu/writers/c89e02766cff.html",
     "url": "https://shishukishora.com/shishu/writers/c89e02766cff.html",
-    "image": "/social/writer-jayakrushna-sahu-v1.jpg",
+    "image": "/social/0254ce94f3ae4ff2.jpg",
     "source": "/portraits/jayakrushna-sahu-cartoon-natural-v1.webp"
   },
   {
@@ -7164,10 +7578,22 @@
     "source": "/art/shishu-durga-cartoon-v5.webp"
   },
   {
+    "page": "/shishu/writers/manindra-mohanty.html",
+    "url": "https://shishukishora.com/shishu/writers/manindra-mohanty.html",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/editions/2026-11/assets/cover-v1.webp"
+  },
+  {
+    "page": "/shishu/writers/shekhar-kumar-swain.html",
+    "url": "https://shishukishora.com/shishu/writers/shekhar-kumar-swain.html",
+    "image": "/social/955dfc3d128e324d.jpg",
+    "source": "/shishu/editions/2026-11/assets/cover-v1.webp"
+  },
+  {
     "page": "/shishu/writers.html",
     "url": "https://shishukishora.com/shishu/writers.html",
-    "image": "/social/c76a484c4947d615.jpg",
-    "source": "/media/0c2d3766fe270057e5a7b867.jpg"
+    "image": "/social/6b21707ef3f9a73b.jpg",
+    "source": "/portraits/ananta-pradhan-cartoon-natural-v1.webp"
   },
   {
     "page": "/shishu/young_details-08d082707f.html",
@@ -7216,233 +7642,5 @@
     "url": "https://shishukishora.com/unavailable.html",
     "image": "/social/555b09e45d35f58f.jpg",
     "source": "/art/shishu-durga-cartoon-v5.webp"
-  },
-  {
-    "page": "/shishu/books/musha_mushi/illustrated.html",
-    "url": "https://shishukishora.com/shishu/books/musha_mushi/illustrated.html",
-    "image": "/social/0e9908c78eadc4e0.jpg",
-    "source": "/shishu/books/musha_mushi/art/poem-01-v1.jpg"
-  },
-  {
-    "page": "/shishu/books/musha_mushi/proofread.html",
-    "url": "https://shishukishora.com/shishu/books/musha_mushi/proofread.html",
-    "image": "/social/555b09e45d35f58f.jpg",
-    "source": "/art/shishu-durga-cartoon-v5.webp"
-  },
-  {
-    "page": "/shishu/books/ketejami_loda/illustrated.html",
-    "url": "https://shishukishora.com/shishu/books/ketejami_loda/illustrated.html",
-    "image": "/social/2d08c953c95aab63.jpg",
-    "source": "/shishu/books/ketejami_loda/art/cover-v1.jpg"
-  },
-  {
-    "page": "/shishu/books/ketejami_loda/proofread.html",
-    "url": "https://shishukishora.com/shishu/books/ketejami_loda/proofread.html",
-    "image": "/social/2d08c953c95aab63.jpg",
-    "source": "/shishu/books/ketejami_loda/art/cover-v1.jpg"
-  },
-  {
-    "page": "/shishu/books/three-mysteries/index.html",
-    "url": "https://shishukishora.com/shishu/books/three-mysteries/",
-    "image": "/social/3923722d061ffbb7.jpg",
-    "source": "/shishu/books/three-mysteries/cover.jpg"
-  },
-  {
-    "page": "/shishu/books/three-mysteries/line-art.html",
-    "url": "https://shishukishora.com/shishu/books/three-mysteries/line-art.html",
-    "image": "/social/3923722d061ffbb7.jpg",
-    "source": "/shishu/books/three-mysteries/cover.jpg"
-  },
-  {
-    "page": "/shishu/review/2026-11/all-writing.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/all-writing.html",
-    "image": "/social/955dfc3d128e324d.jpg",
-    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-01.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-01.html",
-    "image": "/social/11cd62ec2c8e618a.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-01-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-02.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-02.html",
-    "image": "/social/29cd21f3a192d704.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-02-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-03.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-03.html",
-    "image": "/social/032c8a0fcb492867.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-03-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-04.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-04.html",
-    "image": "/social/202fd9d936f31ef1.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-04-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-05.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-05.html",
-    "image": "/social/12b69e7f36543756.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-05-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-06.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-06.html",
-    "image": "/social/588e68e4aef428a7.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-06-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-07.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-07.html",
-    "image": "/social/b529966fb293ff68.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-07-v3.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-08.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-08.html",
-    "image": "/social/2c3dae7c5a9bb7a4.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-08-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-09.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-09.html",
-    "image": "/social/8aaf36d6586c7f77.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-09-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-10.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-10.html",
-    "image": "/social/dc82d837e6c1449e.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-10-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-11.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-11.html",
-    "image": "/social/cdd9bec441f609df.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-11-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-12.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-12.html",
-    "image": "/social/32550c621df325bc.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-12-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-13.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-13.html",
-    "image": "/social/0df34cd7a0330522.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-13-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-14.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-14.html",
-    "image": "/social/8362ddd4744c3081.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-14-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-15.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-15.html",
-    "image": "/social/b636e7c987f81576.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-15-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-16.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-16.html",
-    "image": "/social/4689eca84a95ed74.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-16-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-17.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-17.html",
-    "image": "/social/ad720da277618c05.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-17-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-18.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-18.html",
-    "image": "/social/35a7328138a9e4d5.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-18-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-19.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-19.html",
-    "image": "/social/599ef952fa01c961.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-19-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-20.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-20.html",
-    "image": "/social/e6af0a868e6da3c5.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-20-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-21.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-21.html",
-    "image": "/social/02a60ce5ea7c97ac.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-21-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-22.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-22.html",
-    "image": "/social/9cc54cf3301033c8.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-22-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-23.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-23.html",
-    "image": "/social/0d2b97005890cba2.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-23-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-24.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-24.html",
-    "image": "/social/7428496eb64562b7.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-24-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-25.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-25.html",
-    "image": "/social/8e36613d03b607f1.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-25-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-26.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-26.html",
-    "image": "/social/0bd491f94692af72.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-26-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-27.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-27.html",
-    "image": "/social/c25179a55b9b608c.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-27-v2.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/article-28.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/article-28.html",
-    "image": "/social/6bfbda98de75e452.jpg",
-    "source": "/shishu/review/2026-11/assets/articles/article-28-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/index.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/",
-    "image": "/social/955dfc3d128e324d.jpg",
-    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/writers/manindra-mohanty.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/writers/manindra-mohanty.html",
-    "image": "/social/955dfc3d128e324d.jpg",
-    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
-  },
-  {
-    "page": "/shishu/review/2026-11/writers/shekhar-kumar-swain.html",
-    "url": "https://shishukishora.com/shishu/review/2026-11/writers/shekhar-kumar-swain.html",
-    "image": "/social/955dfc3d128e324d.jpg",
-    "source": "/shishu/review/2026-11/assets/cover-v1.webp"
   }
 ]

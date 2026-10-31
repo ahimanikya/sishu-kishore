@@ -41,7 +41,7 @@ def select_image(soup, path):
     if edition_preview:
         src=edition_preview.get('content','')
         local=(ROOT/src.lstrip('/')).resolve()
-        if src.startswith('/shishu/review/') and local.is_relative_to((ROOT/'shishu/review').resolve()) and local.is_file() and local.suffix.lower() in ['.jpg','.jpeg','.png','.webp']:
+        if src.startswith(('/shishu/review/','/shishu/editions/')) and local.is_relative_to((ROOT/'shishu').resolve()) and local.is_file() and local.suffix.lower() in ['.jpg','.jpeg','.png','.webp']:
             return src
     book_preview=soup.select_one('meta[name="book-preview"]')
     if book_preview:
