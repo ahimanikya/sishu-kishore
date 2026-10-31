@@ -1,0 +1,12 @@
+{
+  "article": "article-12",
+  "title": "ହୋଇବି ଭଲପିଲା",
+  "scene": "A thoughtful Odia schoolchild studies attentively at a tidy desk by an open window, mother nearby with a plate of food; through window calm autumn river and white kash flowers. Child's good habits shown with natural gestures, no text.",
+  "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: A thoughtful Odia schoolchild studies attentively at a tidy desk by an open window, mother nearby with a plate of food; through window calm autumn river and white kash flowers. Child's good habits shown with natural gestures, no text.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ହୋଇବି ଭଲପିଲା. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\nଶରତ କାଳେ ନଈ ଯେପରି\nହୁଏନି ଅମାନିଆ\nମନ ଖୁସି ରେ ଖାଇବି ଯାହା\nପରଷି ଦେବେ ମାଆ।\n\nବାଟ ଘାଟ ରେ କାଦୁଅ ନାହିଁ\nଆକାଶ ନିରିମଳ\nସଫା ସୁତୁରା ରଖିବି ସଦା\nମନ ଅଗଣା ମୋର।\n\nଗଙ୍ଗଶିଉଳି ଫୁଲ ଯେପରି\nପବନେ ଭରେ ବାସ\nସୁଗୁଣ ବାସେ ମୁହିଁ ସଭିଙ୍କ\nକରିବି ମନତୋଷ।\n\nବେଣା ଗହୀରେ ନଈ ପଠାରେ\nହସଇ କାଶତଣ୍ଡୀ\nରୂପେଲି ଫୁଲ ଦିହେ ତାହର\nହୋଇଛି କି ବା ମଣ୍ଡି ?\n\nଥିରି ପବନେ ଦୋହଲି କରି\nଚାମର କିବା ଢ଼ାଳେ\nଭକତି ଭାବ ରଖିବି ସଦା\nମାଆ ଙ୍କ ପୟର ରେ।\n\nପଢ଼ା ବେଳରେ ପାଠ ପଢାରେ\nଦେବିନି ଜମା ଢିଲା\nଗୁରୁଜନ ଙ୍କ କଥା ମାନି ମୁଁ\nହୋଇବି ସୁନା ପିଲା।",
+  "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-3030e7a8-3b9f-49f3-b8c6-091ca14813bf.png",
+  "original": "site/editorial-private/november-2026/art-originals/article-12-v1.png",
+  "asset": "/shishu/review/2026-11/assets/articles/article-12-v1.webp",
+  "tool": "built-in image generation",
+  "review": "Visual QA completed: full 3:2 compositions, source-grounded scenes, no generated lettering; editor approval pending.",
+  "sha256": "3543feaa60dd04767df4536d5727ed3c0d0319b8444610d477e083c1f99940eb"
+}

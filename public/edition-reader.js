@@ -146,7 +146,7 @@
  }
  document.querySelectorAll('[data-quiet-reader]').forEach(button=>button.addEventListener('click',async event=>{event.preventDefault();if(button.disabled)return;opener=button;returnTo=autoOpening?arrival:null;entryScroll=window.scrollY;button.disabled=true;
   try{
-   if(!collection){const r=await fetch('/edition-reader.json',{cache:'no-cache'});if(!r.ok)throw Error();collection=(await r.json())[issue];if(!collection?.items.length)throw Error();select.append(new Option('ମଲାଟ','front'));collection.items.forEach((item,i)=>select.append(new Option(item.title,String(i))));select.append(new Option('ପଛ ମଲାଟ','back'));}
+   if(!collection){const r=await fetch(document.body.dataset.editionCatalog||'/edition-reader.json',{cache:'no-cache'});if(!r.ok)throw Error();collection=(await r.json())[issue];if(!collection?.items.length)throw Error();select.append(new Option('ମଲାଟ','front'));collection.items.forEach((item,i)=>select.append(new Option(item.title,String(i))));select.append(new Option('ପଛ ମଲାଟ','back'));}
    dialog.showModal();document.documentElement.classList.add('quiet-open');await openEdition();
   }catch{button.textContent='ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ';}finally{button.disabled=false;}
  }));

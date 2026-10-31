@@ -1,0 +1,12 @@
+{
+  "article": "article-22",
+  "title": "ଆମେ ଆଙ୍କିଦେବୁ ନୂଆ ଆଲୋକ",
+  "scene": "Hopeful children together paint a large sunrise on a wall and plant a sapling nearby, a lamp shines softly beside their books; a symbolic but natural Odisha school courtyard scene of learning, kindness and new possibilities. No writing on wall.",
+  "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: Hopeful children together paint a large sunrise on a wall and plant a sapling nearby, a lamp shines softly beside their books; a symbolic but natural Odisha school courtyard scene of learning, kindness and new possibilities. No writing on wall.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ଆମେ ଆଙ୍କିଦେବୁ ନୂଆ ଆଲୋକ. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\n\n\nସୃଷ୍ଟି ହୋଇଛୁ ଏ ଧରା ପୃଷ୍ଠରେ\nଅମୃତ ତୋଳି ପାରିବୁ ଦିନେ,\nଚମକୁ ବିଜୁଳି ଆସୁ ବଜ୍ର ବାଡ଼ି\nପଛେଇବୁ ନାହିଁ ଆମ ଜୀବନେ    ।\n\nଆମେ ଆଙ୍କିଦେବୁ ଧରଣୀ ବୁକୁରେ\nନୂଆ ସମ୍ଭାବନା, ସୃଷ୍ଟି ଧାରା,\nପୁଲକି ଉଠିବ ଦଶ ଦିଶ ଦେଶ\nଚମକି ଉଠିବ ବିଶ୍ୱ ସାରା     ।\n\nଦୁରେଇ ପାରିବୁ ଅମା ଅନ୍ଧକାର\nଜ୍ଞାନ ର ଦୀପାଳି ଦେବୁ ଯେ ଜାଳି,\nଶସ୍ୟ ଶ୍ୟାମଳା ହୋଇବ ଏ ମାଟି\nମନ ମୁନ ଆମ ଦେବୁ ଯେ ଢ଼ାଳି       ।\n\nପ୍ରତି ସକାଳ ରେ ସୁନା ଫୁଲ ହୋଇ\nଫୁଟିବୁ ପାଖୁଡା କେତେ ମେଲି,\nସୂରୁଜ, ଆକାଶ ଦେଖିବୁ ନୟନେ\nପବନରେ ନିତି ଝୁଲି ଝୁଲି         ।\n\nମନ ଟିକି ସିନା ହୃଦୟେ ଆମର\nଭରିଛି ଅନେକ ନୂଆ ସପନ,\nସିନେହ, ଆଦର ଲୋଡ଼ା ଆମ ପାଇଁ\nଆମେ ଅଟୁ ପରା ଦେଶ ରତନ      ।\n\nସବୁରି ଓଠରେ ଭରିଦେବୁ ହସ\nସତ୍ୟ ପଥରେ ଯାଇ,\nଭଲ ପଥେ ଯାଇ କରମ କରିଲେ\nସାହା ହୋଇଥିବେ ସାଇଁ           ।\n\n",
+  "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-00fdeefa-656d-4394-ac65-c3115552b9d7.png",
+  "original": "site/editorial-private/november-2026/art-originals/article-22-v1.png",
+  "asset": "/shishu/review/2026-11/assets/articles/article-22-v1.webp",
+  "tool": "built-in image generation",
+  "review": "Visual QA completed: full 3:2 compositions, source-grounded scenes, no generated lettering; editor approval pending.",
+  "sha256": "4c7da431f65854a6c672069436b01836e59572ca7354942d35aeb8092828f2b5"
+}

@@ -1,0 +1,12 @@
+{
+  "article": "article-08",
+  "title": "ବର୍ଷା ଗଲା",
+  "scene": "After the monsoon: bright clear autumn sky over an Odisha riverside lined with swaying white kash flowers; dew glitters on grass and a child watches distant village festival preparations. Airy, breezy, seasonal wonder.",
+  "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: After the monsoon: bright clear autumn sky over an Odisha riverside lined with swaying white kash flowers; dew glitters on grass and a child watches distant village festival preparations. Airy, breezy, seasonal wonder.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ବର୍ଷା ଗଲା. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\nବର୍ଷା ଗଲା\nଆକାଶ ଟା ତୋରା\nଫର୍ଚା ହେଲା\nଶରତ ଆସି\nମରତ କୋଲ ରେ\nଯାଇଛି ବସି ।।\nମୌଜ ଫୌଜ  ଆସୁଛି\nମାଡ଼ି\nପୂଜା ଲାଗି ଯିବ\nଧାଡ଼ି କି ଧାଡ଼ି,\nଢାଉଁ ଢାଉଁ ଢାଉଁ\nଢାକ ଶବଦ\nଗଗନେ ପବନେ\nଉଠିବ ନାଦ।।\nଦୁର୍ଗା ପୂଜା,\nଆଉ ତ ଅଳପ\nଦିନ ରହିଲା,\nବିରାଟ ମେଢ\nଶିଳ୍ପୀ ଗଢୁଛି\nଲଗାଇ ବେଡ।।\nତାପରେ ଆସିବ\nକୁଁ ଆର ପୁନି\nଦମ୍ମେ ମଜ୍ଜା କରିବୁ\nପୁଣି।।\nଟୁପ ଟୁପ ଟୁପ\nକାକର ଟୋପା\nଭୋର୍ ରୁ ଖସୁଛି\nଟିପି ଟିପିକା\nସକାଳ ରୁ ଘାସ ପତର\nଦେଖି,\nମନ ଟା ଖୁସୀ ରେ\nନାଚି ଯାଉଛି।।\nନଈ ପଠା ଯାକ\nକାଶ ତନ୍ଡି ର\nବସିଛି କି ସତେ\nହାଟ ବଜାର,\nଝୁଲି ଝୁଲି କହେ\nଆସ ରେ ଯିବା\nଦଶରା ମେଳା ଟା\nବୁଲି ଦେଖିବା",
+  "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-4e5b5fa1-4481-4d5b-b9bc-7094dbd2710b.png",
+  "original": "site/editorial-private/november-2026/art-originals/article-08-v1.png",
+  "asset": "/shishu/review/2026-11/assets/articles/article-08-v1.webp",
+  "tool": "built-in image generation",
+  "review": "Visual QA completed: full 3:2 compositions, source-grounded scenes, no generated lettering; editor approval pending.",
+  "sha256": "96f2515f767b5a0d03f85559334e968829c0666e1e38cd6e6c1fa04123e4ba65"
+}

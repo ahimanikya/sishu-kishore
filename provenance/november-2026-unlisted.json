@@ -44,5 +44,15 @@
     "type": "AI-generated review draft",
     "prompt": "Use case: illustration-story. Create a portrait 2:3 cover illustration for the November 2026 issue of an Odia children's magazine. Inspired by its story Jibe Daya: an eight-year-old Odia boy Muna has left a handful of rice and millet in the courtyard on a cold misty morning; he now watches quietly from the window with his mother as three small birds eat. Show the boy and mother warmly but naturally, modest Odisha village house, mango branches softened by mist, tender early golden sun breaking through. Expressive traditional 2D children's cartoon drawing, confident dark outlines, simple faces, broad warm colour shapes, restrained flat shadows, slightly irregular ink quality. Composition: coherent single scene, birds clearly visible in lower foreground, child at open window middle left, breathing room in upper fifth for live magazine title added by website. No text or lettering anywhere in image, no logos, no watermark. No photorealism, no 3D, no glossy rendering. All anatomy natural; three distinct birds, boy with two arms. Full composition, portrait 1024x1536.\n\nGenerated with the built-in image generation tool on 2026-10-31. Draft for editor review; not approved for publication. Live title is added as HTML, not painted into the art.\n"
   },
-  "private_source": "Retained outside public delivery and Git; no original manuscript or editor notes exported."
+  "private_source": "Retained outside public delivery and Git; no original manuscript or editor notes exported.",
+  "layout": "Shared published-edition layout, illustrated contents, article sidebar and full edition reader",
+  "article_illustrations": 28,
+  "author_profiles": 28,
+  "reader_catalogues": "Issue-local only; public discovery catalogues unchanged",
+  "verification": {
+    "manuscript": "28 complete body hashes matched",
+    "tests": "26 passed",
+    "browser": "1280px and 390px; no horizontal overflow or page script errors; 28 images decoded; all byline destinations resolved",
+    "approval": "Editorial approval remains pending"
+  }
 }

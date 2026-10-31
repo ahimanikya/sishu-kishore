@@ -7,7 +7,7 @@
   const select=document.createElement('select');select.setAttribute('aria-label','ସଂଖ୍ୟା ବା ବହି ବାଛନ୍ତୁ');select.disabled=true;label.append(select);
   const open=document.createElement('button');open.type='button';open.textContent='ଖୋଲନ୍ତୁ →';open.disabled=true;
   const status=document.createElement('span');status.setAttribute('role','status');status.textContent='ଲୋଡ୍ ହେଉଛି…';section.append(label,open,status);container.append(section);
-  catalog ||= fetch('/reader-catalog.json').then(r=>{if(!r.ok)throw Error();return r.json();}).catch(e=>{catalog=null;throw e;});
+  catalog ||= fetch(document.body.dataset.readerCatalog||'/reader-catalog.json').then(r=>{if(!r.ok)throw Error();return r.json();}).catch(e=>{catalog=null;throw e;});
   catalog.then(groups=>{
    groups.forEach(group=>{const optgroup=document.createElement('optgroup');optgroup.label=group.title;group.items.forEach(item=>{const option=document.createElement('option');option.value=item.href;option.textContent=item.title;if(item.book)option.dataset.book=item.book;optgroup.append(option);});select.append(optgroup);});
    select.value=current;select.disabled=false;status.textContent='';select.onchange=()=>{open.disabled=!select.value||select.value===current;};

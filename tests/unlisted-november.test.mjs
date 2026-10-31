@@ -24,3 +24,27 @@ test('November review stays direct-link only and excludes private editorial mate
   assert.ok(!fs.existsSync(path.join(dir,'READ-ME.txt')));
   assert.ok(!fs.existsSync(path.join(dir,'manifest.json')));
 });
+
+test('November uses the magazine reader with linked authors and individual artwork',()=>{
+  const authors=JSON.parse(fs.readFileSync('provenance/november-2026-author-links.json','utf8')).articles;
+  const catalog=JSON.parse(fs.readFileSync(path.join(dir,'edition-reader.json'),'utf8'));
+  assert.equal(catalog[prefix].items.length,28);
+  const images=new Set();
+  for(const author of authors){
+    const html=fs.readFileSync(path.join(dir,author.id+'.html'),'utf8');
+    assert.ok(html.includes('data-edition-catalog="'+prefix+'edition-reader.json"'));
+    assert.ok(html.includes('data-reading-issue="'+prefix+'"'));
+    assert.ok(html.includes('<p class="ia-byline"><a href="'+author.profile+'">'));
+    assert.ok(fs.existsSync(path.join(root,author.profile)));
+    const artwork=prefix+'assets/articles/'+author.id+'-v1.webp';
+    assert.ok(html.includes(artwork));
+    assert.ok(fs.existsSync(path.join(root,artwork)));
+    images.add(artwork);
+    assert.ok(catalog[prefix].items.some(item=>item.href===prefix+author.id+'.html'));
+  }
+  assert.equal(images.size,28);
+  const home=fs.readFileSync(path.join(dir,'index.html'),'utf8');
+  assert.equal((home.match(/class="nov-card-byline"/g)||[]).length,28);
+  assert.match(home,/class="ia-page-head mag-edition-opening"/);
+  assert.match(home,/class="ia-contents ia-illustrated-contents"/);
+});
