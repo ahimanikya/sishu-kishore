@@ -18,7 +18,7 @@
  const head=article?.querySelector('.ia-article-head');if(head)head.append(tools);else text.before(tools);
  text.classList.add('article-reading-text');
  const paint=()=>{window.SishuStoryWash?.paint(document.body,location.pathname);wash.setAttribute('aria-pressed',String(window.SishuStoryWash?.enabled()));};wash.onclick=()=>window.SishuStoryWash?.set(!window.SishuStoryWash.enabled());window.addEventListener('sishu-paper-change',paint);paint();
- const apply=()=>{text.style.setProperty('--article-type',size+'px');text.classList.toggle('article-reading-night',night);theme.setAttribute('aria-pressed',String(night));smaller.disabled=size<=18;larger.disabled=size>=34;save('sishu-article-size',size);save('sishu-article-night',night);};
+ const apply=()=>{text.style.setProperty('--article-type',(size/16)+'rem');text.classList.toggle('article-reading-night',night);theme.setAttribute('aria-pressed',String(night));smaller.disabled=size<=18;larger.disabled=size>=34;save('sishu-article-size',size);save('sishu-article-night',night);};
  smaller.onclick=()=>{size=Math.max(18,size-2);apply();};larger.onclick=()=>{size=Math.min(34,size+2);apply();};theme.onclick=()=>{night=!night;apply();};reset.onclick=()=>{size=24;night=false;apply();};apply();
  document.addEventListener('click',e=>{if(!options.contains(e.target))options.open=false;});options.addEventListener('keydown',e=>{if(e.key==='Escape'){options.open=false;summary.focus();}});
 })();

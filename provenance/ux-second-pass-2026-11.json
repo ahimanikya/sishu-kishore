@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-01",
+  "scope": "Second UX audit: public magazine spacing, typography, story-image representation and animal anatomy regression review.",
+  "coverage": {
+    "public_editions": 35,
+    "article_pages": 714,
+    "unique_article_images_contact_screened": 709,
+    "cover_placements_screened": 35,
+    "forest_book_illustrations_screened": 18,
+    "method": "Contact-sheet triage of active images, then full-size inspection of flagged scenes and previously corrected animal illustrations. Published story text read for every replaced illustration. Original documentary photographs and child drawings retained.",
+    "limits": "Contact-sheet screening is not a full-resolution anatomy or semantic certification of all 714 writings. No claim of human editorial approval or specialist zoological/cultural certification."
+  },
+  "resolved": [
+    {
+      "finding": "Homepage read action inherited the thumbnail/title grid, leaving the arrow midway across the card.",
+      "change": "Scope grid to primary link; separate flex footer; consistent 16px card insets, readable author credits, 44px minimum read action."
+    },
+    {
+      "finding": "Fixed pixel reading text ignored browser font preferences.",
+      "change": "Use rem for adjustable article/reader type; preserve saved numeric preferences; use actual root font size when calculating reader heading room."
+    },
+    {
+      "finding": "Small metadata and uneven heading/credit spacing.",
+      "change": "Scalable headings, 16px-equivalent bylines, 14px-equivalent breadcrumbs/context; unitless line-height and wrapping."
+    },
+    {
+      "finding": "Older children’s illustrations were capped at 240px and had oversized issue metadata.",
+      "change": "Full-width uncropped story art and smaller contextual metadata without rewriting source text."
+    },
+    {
+      "finding": "Nine story-image or anatomy mismatches.",
+      "change": "Versioned AI-generated replacements with full text comparison, source files retained, card/reader/share alignment.",
+      "manifest": "reviewed-illustrations-2026-11.json"
+    }
+  ],
+  "anatomy_regressions": [
+    {
+      "asset": "/editions/2026-11/assets/articles/article-07-v3.webp",
+      "sha256": "dae5296df7aae3dca15350eafe08f43d8005d15802d7c3c2d404a24aed15b10b",
+      "review": "Retained published corrected version; full-size visual inspection. Occluded limbs treated as occluded, not automatically missing."
+    },
+    {
+      "asset": "/books/paresh/assets/forest-opening-v1-anatomy-v2.jpg",
+      "sha256": "55de498497cccf1eae1b2ad719b169edc1747665f90afd3a45be1da33de9b781",
+      "review": "Retained published corrected version; full-size visual inspection. Occluded limbs treated as occluded, not automatically missing."
+    },
+    {
+      "asset": "/books/paresh/assets/forest-art/chapter-06-anatomy-v2.jpg",
+      "sha256": "695acf0594c4509db26e1c8f4885cf3098c2e86e33c791b51bcbf2451eea86ef",
+      "review": "Retained published corrected version; full-size visual inspection. Occluded limbs treated as occluded, not automatically missing."
+    },
+    {
+      "asset": "/books/paresh/assets/forest-art/chapter-06-extra-01-anatomy-v2.jpg",
+      "sha256": "080987c6d160c998af7d39d4115f646c69d7bdb51bcc28936e9ca49bb6b070fe",
+      "review": "Retained published corrected version; full-size visual inspection. Occluded limbs treated as occluded, not automatically missing."
+    },
+    {
+      "asset": "/books/paresh/assets/forest-art/chapter-08-anatomy-v2.jpg",
+      "sha256": "48ae3ee9e5131fc3f009142e54c789398d09673f68587e703e978ffc571d294a",
+      "review": "Retained published corrected version; full-size visual inspection. Occluded limbs treated as occluded, not automatically missing."
+    }
+  ],
+  "validation": {
+    "issue_and_home_viewport_checks": 144,
+    "viewports": [
+      320,
+      390,
+      768,
+      1280
+    ],
+    "horizontal_overflow": false,
+    "enlarged_text": "200% root font at 320,390,1280 on homepage, current issue, current article, older article and children’s contribution; 48px article text and working size controls.",
+    "reader": "200% root font; 44px story text; controls inside screen at 320,390,1280; top controls wrap.",
+    "source_text": "All 714 article main-text strings unchanged.",
+    "image_delivery": "All nine corrected main illustrations decode and use contain; original image hashes retained.",
+    "tests": "31 tests passed; no failures.",
+    "build": "Production build and required delivery, routing, sharing, discovery, ebook, writer and book UI checks passed."
+  },
+  "references": [
+    {
+      "url": "https://odishatourism.gov.in/en/places/barehipani-waterfall",
+      "use": "Two-tier waterfall and green forest setting; the animal gathering itself is fictional and comes from the poem."
+    }
+  ],
+  "remaining_review_opportunities": [
+    "Older imported images retain mixed visual styles; aesthetic difference alone was not treated as permission to replace source artwork.",
+    "Manual editor review of literary nuance and original historical imagery remains valuable; this is a targeted second audit, not an assertion that every old illustration is error-free.",
+    "Actual Safari/VoiceOver and reader-assisted accessibility validation remain unperformed."
+  ],
+  "guidance": {
+    "typography": "Support user zoom preferences: Allow users to resize text up to 200% without loss of content or functionality.",
+    "css": "Write selectors in a way that expresses intent."
+  }
+}

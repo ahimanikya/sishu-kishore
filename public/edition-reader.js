@@ -87,7 +87,7 @@
  dialog.addEventListener('cancel',event=>{if(document.fullscreenElement){event.preventDefault();document.exitFullscreen().catch(()=>{});}});
  const odia=value=>String(value).replace(/[0-9]/g,d=>'୦୧୨୩୪୫୬୭୮୯'[Number(d)]);
  const save=()=>{if(collection&&ready&&!busy&&phase!=='front'){savedPlace={version:3,phase,index,spread,within:Math.max(0,spread*columnCount-(articleColumns[index]||0))};put('sishu-place:'+issue,savedPlace);put('sishu-last-reader',{issue});window.dispatchEvent(new Event('sishu-reading-saved'));}};
- const apply=()=>{dialog.style.setProperty('--reading-size',size+'px');dialog.dataset.theme=theme;dialog.querySelectorAll('[data-theme]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.theme===theme)));};apply();
+ const apply=()=>{dialog.style.setProperty('--reading-size',(size/16)+'rem');dialog.dataset.theme=theme;dialog.querySelectorAll('[data-theme]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.theme===theme)));};apply();
  function turn(to){
   phase='body';spread=Math.max(0,Math.min(spreadCount-1,to));pane.scrollLeft=spread*(pane.clientWidth+48);
   showPosition();save();
@@ -99,7 +99,7 @@
   columnCount=matchMedia('(min-width:1000px) and (min-height:500px)').matches?2:1;dialog.dataset.columns=columnCount;
   content.style.width=pane.clientWidth+'px';content.style.columnCount=columnCount;content.style.columnWidth=((pane.clientWidth-48*(columnCount-1))/columnCount)+'px';track.style.width=pane.clientWidth+'px';
   const headings=[...content.querySelectorAll('[data-edition-heading]')];headings.forEach(h=>h.style.breakBefore='auto');
-  const pageTop=pane.getBoundingClientRect().top,minRoom=size*1.95*5;
+  const pageTop=pane.getBoundingClientRect().top,minRoom=(size/16)*parseFloat(getComputedStyle(document.documentElement).fontSize)*1.95*5;
   // Process in reading order: each forced break may move later headings.
   headings.forEach((h,i)=>{if(i&&pane.clientHeight-(h.getBoundingClientRect().top-pageTop)<Math.min(minRoom,pane.clientHeight))h.style.breakBefore='column';});
   const stride=(pane.clientWidth+48)/columnCount;

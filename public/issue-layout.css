@@ -39,7 +39,7 @@
 .magazine-issue .mag-edition-actions a {display:inline-flex;align-items:center;min-height:44px}
 .magazine-issue .ia-contents .ia-article-card {display:flex;flex-direction:column}
 .magazine-issue .ia-contents .ia-article-card>a:first-child {height:auto}
-.magazine-issue .ia-contents :is(.mag-card-byline,.nov-card-byline) {display:block;margin:8px 0 12px;font-size:15px;line-height:1.8}
+.magazine-issue .ia-contents :is(.mag-card-byline,.nov-card-byline) {display:block;margin:8px 0 12px;font-size:1rem;line-height:1.8}
 .magazine-issue .ia-contents :is(.mag-card-byline,.nov-card-byline) a {display:inline-block;min-height:28px;padding-block:3px;text-decoration:underline;text-underline-offset:4px}
 .magazine-issue .ia-contents .ia-card-read {display:flex;flex-direction:row;justify-content:space-between;align-items:center;min-height:44px;height:auto;margin-top:auto;padding-block:10px}
 .magazine-issue .ia-contents :is(h2,h3) {scroll-margin-top:24px}

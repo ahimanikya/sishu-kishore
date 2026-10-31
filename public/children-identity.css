@@ -159,3 +159,27 @@ body.shishu.ia-site.book-reading[data-theme="night"]{background:#17241f;color:va
 
 /* Shared live typography, including standalone books and character pages. */
 body, body :is(h1,h2,h3,h4,h5,h6,p,a,span,small,strong,em,b,i,li,dt,dd,blockquote,figcaption,label,button,input,select,textarea,summary,nav,header,footer,main,section,article,aside,div,table,th,td){font-family:var(--kid-type)!important}
+
+/* Second reading audit: scalable Odia typography and consistent metadata rhythm. */
+.shishu .ia-header nav a{font-size:1rem;line-height:1.7}
+.shishu .ia-breadcrumb{font-size:.875rem;line-height:1.8;flex-wrap:wrap}
+.shishu :is(.ia-page-head h1,.ia-issue-intro h1){font-size:clamp(1.875rem,1.25rem + 2.5vw,3rem)}
+.shishu .ia-article-head h1{font-size:clamp(1.625rem,1.25rem + 1.4vw,2.25rem)}
+.shishu :is(.ia-section-heading h2,.ia-genre>h2,.mag-year>h2){font-size:clamp(1.5rem,1.2rem + 1vw,1.875rem)}
+.shishu .ia-article-card .ia-card-title{font-size:1.4375rem;line-height:1.7;overflow-wrap:break-word}
+.shishu .ia-article .ia-byline{font-size:1rem;line-height:1.8;margin-block:4px 8px}
+.shishu .ia-article .mag-article-context{font-size:.875rem;line-height:1.8;margin-block:4px 8px}
+.shishu .ia-article-head :is(.ia-byline a,.mag-article-context a){display:inline-block;padding-block:4px}
+.shishu .ia-reading-end{flex-wrap:wrap;font-size:1rem;line-height:1.8}
+.shishu .ia-publication-context{font-size:.875rem;line-height:1.8}
+.shishu .article-reading-tools,.shishu .article-reading-tools .mag-read-button{font-size:1rem}
+.magazine-issue .ia-contents :is(.mag-card-byline,.nov-card-byline){font-size:1rem;line-height:1.8}
+.shishu .ia-secondary-prose .subject{font-size:var(--article-type,1.5rem)!important;line-height:1.95!important;overflow-wrap:break-word}
+@media(max-width:600px){.shishu .ia-article-card .ia-card-title{font-size:1.3125rem}}
+/* Legacy children's contributions retain the full illustration at reading size. */
+body.shishu[data-reader-article=true] main.ia-secondary-prose .vesitable-img img{width:100%!important;max-width:100%!important;height:auto!important;max-height:none!important;object-fit:contain;margin-block:20px!important}
+body.shishu[data-reader-article=true] main.ia-secondary-prose>.container-fluid>h4{font-size:1rem!important;line-height:1.8!important;margin-block:8px!important}
+body.shishu[data-reader-article=true] main.ia-secondary-prose .vesitable-img{margin-block:20px}
+.mag-quiet-reader .quiet-top{flex-wrap:wrap}
+.mag-quiet-reader .quiet-top button{font-size:.875rem}
+.mag-quiet-reader .quiet-bottom button{font-size:1rem}
