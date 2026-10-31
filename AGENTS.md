@@ -21,3 +21,5 @@ Use Node 24. For implementation changes, run the relevant checks and the project
 Routing: publish directly at the site root. Never recreate public/shishu, public/sishu or corresponding deployment directories. Known legacy bookmarks use the root 404 handler; unlisted paths are hashed in its lookup so the compatibility file does not expose a directory of review URLs. Preserve historical archives outside public delivery.
 
 Cover direction (1 November 2026): Use full-page artwork with live white masthead lettering over a dark contrast overlay, replacing the earlier solid cream header/frame. Keep portrait cover art complete; extend landscape archive artwork with a decorative soft background copy rather than cropping characters. Preserve the original source images, Baloo Bhaina 2 lettering, restrained desktop tilt and flat mobile covers.
+
+Cover refinement (1 November 2026): Follow Kabita Live’s lighter treatment: compact dark masthead over a translucent cream wash and a small date over a fading footer. No large dark title panel or solid date bar; the illustration should stay prominent. This supersedes the white-masthead direction above.

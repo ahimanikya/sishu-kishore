@@ -11,18 +11,18 @@
 }
 .ia-site .magazine-cover .mag-cover-heading,
 .mag-quiet-reader .magazine-cover .mag-cover-heading {
- position:absolute;inset:0 0 auto;z-index:2;display:flex;flex-direction:column;align-items:center;
- margin:0;padding:4% 3% 14%;
- background:linear-gradient(to bottom,rgba(12,28,32,.88),rgba(12,28,32,.76) 85%,rgba(12,28,32,0));
- color:#fff;line-height:1.4;text-align:center;
+ position:absolute;inset:0 0 auto;z-index:2;display:flex;flex-direction:column;align-items:flex-start;
+ margin:0;padding:4% 6% 8%;
+ background:linear-gradient(to bottom,rgba(245,239,223,.82),rgba(245,239,223,.74) 78%,rgba(245,239,223,0));
+ color:#183632;line-height:1.4;text-align:left;
 }
 .ia-site .magazine-cover .mag-cover-heading strong,
 .mag-quiet-reader .magazine-cover .mag-cover-heading strong {
- display:block;font-family:'Baloo Bhaina 2',sans-serif;font-size:14cqw;font-weight:700;
- line-height:1.6;color:#fff;white-space:nowrap;margin:0;padding:0;letter-spacing:0;text-shadow:0 1px 2px #102126;
+ display:block;font-family:'Baloo Bhaina 2',sans-serif;font-size:12cqw;font-weight:700;
+ line-height:1.35;color:#183632;white-space:nowrap;margin:0;padding:0;letter-spacing:0;text-shadow:none;
 }
 .ia-site .magazine-cover .mag-cover-heading span,
-.mag-quiet-reader .magazine-cover .mag-cover-heading span {font-size:5cqw;line-height:1.7;color:#fff}
+.mag-quiet-reader .magazine-cover .mag-cover-heading span {font-size:4.5cqw;line-height:1.6;color:#183632}
 .ia-site .magazine-cover img.storybook-cover-art,
 .mag-quiet-reader .magazine-cover img.storybook-cover-art {
  position:absolute;inset:0;z-index:1;display:block;min-height:0;width:100%;height:100%;
@@ -37,9 +37,9 @@
 }
 .ia-site .magazine-cover .mag-cover-date,
 .mag-quiet-reader .magazine-cover .mag-cover-date {
- position:absolute;inset:auto 5% 4%;z-index:2;width:auto;
- font-size:7cqw;font-weight:600;line-height:1.6;text-align:center;margin:0;padding:2% 3%;
- border:0;border-radius:2px;color:#fff;background:rgba(12,28,32,.82);
+ position:absolute;inset:auto 0 0;z-index:2;width:auto;
+ font-size:5.5cqw;font-weight:600;line-height:1.6;text-align:left;margin:0;padding:9% 6% 4%;
+ border:0;border-radius:0;color:#fff;background:linear-gradient(to bottom,rgba(24,54,50,0),rgba(24,54,50,.72) 38%,rgba(24,54,50,.8));
 }
 /* Consistent issue opening and comfortably sized links, including phones. */
 .magazine-issue .mag-edition-opening {grid-template-columns:minmax(0,1fr) 280px;gap:48px;padding-block:28px 36px!important}
