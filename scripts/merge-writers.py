@@ -3,9 +3,9 @@ import json,re
 from html import escape
 from pathlib import Path
 ROOT=Path('public');ORIGIN='https://shishukishora.com'
-manifest=json.loads(Path('provenance/writer-merges.json').read_text());groups=manifest['groups']
+manifest=json.loads(Path('provenance/writer-merges.json').read_text().replace('/shishu/', '/'));groups=manifest['groups']
 redirects={m['route']:g['canonical'] for g in groups for m in g['members'] if m['route']!=g['canonical']}
-index=ROOT/'shishu/writers.html';directory=index.read_text()
+index=ROOT/'writers.html';directory=index.read_text()
 for g in groups:
  cards={}
  # Include newly published contributions already on the canonical profile.
@@ -14,7 +14,7 @@ for g in groups:
  for card in [c for m in g['members'] for c in m['contributions']]+re.findall(r'<li\b.*?</li>',current[1],re.S):
   href=re.search(r'href="([^"]+)"',card)[1]
   publication=Path('provenance/november-2026-publication.json')
-  if publication.exists():card=card.replace('/shishu/current_issue.html',json.loads(publication.read_text())['previous_issue'])
+  if publication.exists():card=card.replace('/current_issue.html',json.loads(publication.read_text())['previous_issue'])
   cards[href]=card
  html=re.sub(r'(<ul\b(?=[^>]*class="mag-contributions)[^>]*>).*?</ul>',lambda m:m[1]+''.join(cards.values())+'</ul>',html,flags=re.S)
  count=str(len(cards)).translate(str.maketrans('0123456789','୦୧୨୩୪୫୬୭୮୯'))

@@ -18,10 +18,10 @@ function avatar(name){const variant=styleFor(name);return `<span class="writer-p
 const generated=/<span class="writer-photo writer-avatar"[^>]*><img[^>]*>(?:<span[^>]*>[\s\S]*?<\/span>)?<\/span>/g;
 const empty=/<span\b[^>]*class="writer-photo writer-photo-empty"[^>]*>\s*<\/span>/g;
 const css='<link rel="stylesheet" href="/writer-avatars.css?v=1">';
-const index=path.join(root,'shishu/writers.html');let html=fs.readFileSync(index,'utf8');let count=0;html=html.replace(generated,'<span class="writer-photo writer-photo-empty"></span>');
+const index=path.join(root,'writers.html');let html=fs.readFileSync(index,'utf8');let count=0;html=html.replace(generated,'<span class="writer-photo writer-photo-empty"></span>');
 html=html.replace(/<li\b[^>]*data-writer="([^"]+)"[\s\S]*?<\/li>/g,(card,name)=>card.replace(empty,()=>{count++;return avatar(name);}));
 if(!html.includes('/writer-avatars.css'))html=html.replace('</head>',css+'</head>');
 if(!html.includes('writer-avatar-note'))html=html.replace('<label class="mag-search">','<p class="writer-avatar-note">ଫଟୋ ନଥିଲେ ସାଙ୍କେତିକ ଚିତ୍ର ଦିଆଯାଇଛି ।</p><label class="mag-search">');
 fs.writeFileSync(index,html);
-for(const file of fs.readdirSync(path.join(root,'shishu/writers'))){if(!file.endsWith('.html'))continue;const p=path.join(root,'shishu/writers',file);let text=fs.readFileSync(p,'utf8').replace(generated,'<span class="writer-photo writer-photo-empty"></span>');const name=text.match(/<h1[^>]*>([^<]+)<\/h1>/)?.[1];if(!name||!text.includes('writer-photo-empty'))continue;text=text.replace(empty,()=>avatar(name));if(!text.includes('/writer-avatars.css'))text=text.replace('</head>',css+'</head>');fs.writeFileSync(p,text);}
+for(const file of fs.readdirSync(path.join(root,'writers'))){if(!file.endsWith('.html'))continue;const p=path.join(root,'writers',file);let text=fs.readFileSync(p,'utf8').replace(generated,'<span class="writer-photo writer-photo-empty"></span>');const name=text.match(/<h1[^>]*>([^<]+)<\/h1>/)?.[1];if(!name||!text.includes('writer-photo-empty'))continue;text=text.replace(empty,()=>avatar(name));if(!text.includes('/writer-avatars.css'))text=text.replace('</head>',css+'</head>');fs.writeFileSync(p,text);}
 console.log(`Added ${count} generic directory avatars; verified photos retained. Gender variants use explicit source honorifics only.`);

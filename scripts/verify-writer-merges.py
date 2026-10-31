@@ -1,7 +1,7 @@
 """Verify duplicates stay offline and no published contribution was lost."""
 import json,re
 from pathlib import Path
-root=Path('public');groups=json.loads(Path('provenance/writer-merges.json').read_text())['groups'];directory=(root/'shishu/writers.html').read_text();sitemap=(root/'sitemap.xml').read_text()
+root=Path('public');groups=json.loads(Path('provenance/writer-merges.json').read_text().replace('/shishu/', '/'))['groups'];directory=(root/'writers.html').read_text();sitemap=(root/'sitemap.xml').read_text()
 def cards(s):
  ul=re.search(r'<ul\b(?=[^>]*class="mag-contributions)[^>]*>(.*?)</ul>',s,re.S)
  return re.findall(r'<li\b.*?</li>',ul[1],re.S) if ul else []
@@ -11,7 +11,7 @@ for g in groups:
  assert len(re.findall(r'<li\b[^>]*data-writer="[^"]*".*?href="'+re.escape(g['canonical'])+'"',directory,re.S))==1
  for m in g['members']:
   if m['route']==g['canonical']:continue
-  assert cards(Path(m['archive']).read_text())==m['contributions']
+  assert cards(Path(m['archive']).read_text().replace('/shishu/', '/'))==m['contributions']
   assert not (root/m['route'].lstrip('/')).exists()
   assert m['route'] not in sitemap
   assert 'href="'+m['route']+'"' not in directory

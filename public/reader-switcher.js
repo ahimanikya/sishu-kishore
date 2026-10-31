@@ -15,6 +15,6 @@
     if(option.dataset.book){try{const page=Number(localStorage.getItem('sishu-book-'+option.dataset.book));const max=groups.flatMap(g=>g.items).find(i=>i.href===option.value)?.total;if(Number.isInteger(page)&&page>1&&page<=max)href=href.replace('page-1.html','page-'+page+'.html');}catch{}}
     window.SishuReaderReturn?.prepare(href,origin());location.assign(href);
    };
-  }).catch(()=>{status.textContent='ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ ।';const link=document.createElement('a');link.href='/shishu/old_issues.html';link.textContent='ସଂଖ୍ୟାଗୁଡ଼ିକ →';section.append(link);});
+  }).catch(()=>{status.textContent='ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ ।';const link=document.createElement('a');link.href='/old_issues.html';link.textContent='ସଂଖ୍ୟାଗୁଡ଼ିକ →';section.append(link);});
  }};
 })();

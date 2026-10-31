@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
+if(fs.existsSync('public/shishu')||fs.existsSync('public/sishu'))throw Error('Retired publication directory must not exist');
 fs.rmSync('dist',{recursive:true,force:true});fs.cpSync('public','dist',{recursive:true});
 // Preserve extensionless links shared from the former host. Relative reader assets
 // use a base URL so an index alias behaves like the original .html document.
@@ -14,10 +15,10 @@ function aliases(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true}
   const out=path.join('dist',path.relative('public',dest));fs.mkdirSync(out,{recursive:true});fs.writeFileSync(path.join(out,'index.html'),html);
  }
 }}
-aliases('public/shishu');
+aliases('public');
 // Refresh changed reader/home assets on both regular pages and extensionless
 // aliases, even when the browser still has an earlier version cached.
-const readerAssets=['book-ui.js','shishu/books/paresh/reading.css','shishu/books/musha_mushi/illustrated.css','shishu/books/ketejami_loda/illustrated.css','shishu/books/paresh/reading.js','shishu/books/ketejami_loda/illustrated.js','shishu/books/musha_mushi/illustrated.js','book-ui.css','share.js','editorial/book-review.js','page-turn.js','edition-reader.js','edition-reader.css','shishu-magazine.js','shishu-magazine.css','children-art.css','children-identity.css','kid-ux.js'];
+const readerAssets=['book-ui.js','books/paresh/reading.css','books/musha_mushi/illustrated.css','books/ketejami_loda/illustrated.css','books/paresh/reading.js','books/ketejami_loda/illustrated.js','books/musha_mushi/illustrated.js','book-ui.css','share.js','editorial/book-review.js','page-turn.js','edition-reader.js','edition-reader.css','shishu-magazine.js','shishu-magazine.css','children-art.css','children-identity.css','kid-ux.js'];
 const versions=new Map(readerAssets.map(name=>['/'+name,createHash('sha256').update(fs.readFileSync(path.join('dist',name))).digest('hex').slice(0,12)]));
 function versionReaderAssets(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){
  const file=path.join(dir,entry.name);

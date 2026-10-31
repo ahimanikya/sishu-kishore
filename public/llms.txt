@@ -5,9 +5,9 @@
 Public articles are complete static HTML and can be read without login. The canonical article URL is the citation destination; its text/plain alternate contains the same published writing. Author names and edition relationships are in the article catalogue. Original printed book scans are preserved; unreviewed OCR is not represented as verified book text.
 
 ## Start here
-- [Current issue](https://shishukishora.com/shishu/current_issue.html)
-- [Past issues](https://shishukishora.com/shishu/old_issues.html)
-- [Writers](https://shishukishora.com/shishu/writers.html)
+- [Current issue](https://shishukishora.com/current_issue.html)
+- [Past issues](https://shishukishora.com/old_issues.html)
+- [Writers](https://shishukishora.com/writers.html)
 - [Article catalogue](https://shishukishora.com/content-index.json): titles, writers, issue relationships, canonical URLs, text URLs and images.
 - [Issue and book catalogue](https://shishukishora.com/reader-catalog.json)
 - [Sitemap](https://shishukishora.com/sitemap.xml)

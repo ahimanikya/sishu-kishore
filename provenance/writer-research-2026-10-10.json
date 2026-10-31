@@ -4,7 +4,7 @@
   "writers": [
     {
       "slug": "jayakrushna-sahu",
-      "route": "/shishu/writers/c89e02766cff.html",
+      "route": "/writers/c89e02766cff.html",
       "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ଜୟକୃଷ୍ଣ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ତାଙ୍କର ଜନ୍ମ ପୁରୀ ଜିଲ୍ଲାର ସତ୍ୟବାଦୀ ଅଞ୍ଚଳର ଅଳଗୁମ୍ ଗାଁରେ । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ପରିଚୟ ଅନୁସାରେ, ତାଙ୍କର ନଅଟି କବିତା ବହି ଓ ଗୋଟିଏ ଗପ ବହି ପ୍ରକାଶ ପାଇଛି ।",
@@ -15,14 +15,14 @@
         {
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
-          "snapshot": "public/shishu/birthday_details-bb525959f7.html"
+          "snapshot": "public/birthday_details-bb525959f7.html"
         }
       ],
       "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match. Batch 006: original birthday biography explicitly gives nine poetry books and one story book. Count is attributed to that profile, not asserted as an up-to-date total. Existing verified portrait retained; no specific award or book title inferred."
     },
     {
       "slug": "jayantika",
-      "route": "/shishu/writers/5022efa803e9.html",
+      "route": "/writers/5022efa803e9.html",
       "name": "ଜୟନ୍ତିକା",
       "role": "ଲେଖିକା ଓ ଅବସରପ୍ରାପ୍ତ ପ୍ରଫେସର",
       "bio": "ଜୟନ୍ତିକା ହେଉଛି ଲେଖିକା ଜୟନ୍ତୀ ପଣ୍ଡାଙ୍କ ସାହିତ୍ୟିକ ନାମ । ସେ ଜଣେ ଅବସରପ୍ରାପ୍ତ ପ୍ରଫେସର । ତାଙ୍କର ଜନ୍ମ ଭଦ୍ରକ ଜିଲ୍ଲାର ଧାମନଗରରେ । ସେ ଶିଶୁ କିଶୋର ସାହିତ୍ୟ ଏକାଡେମୀ, ଓଡ଼ିଶାର ସଦସ୍ୟା ।",
@@ -33,14 +33,14 @@
         {
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=199",
-          "snapshot": "public/shishu/birthday_details-f9ece26ba7.html"
+          "snapshot": "public/birthday_details-f9ece26ba7.html"
         }
       ],
       "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match. Original birthday profile explicitly supports academy membership; existing verified portrait retained."
     },
     {
       "slug": "basiran-bibi",
-      "route": "/shishu/writers/fc19d89e45a8.html",
+      "route": "/writers/fc19d89e45a8.html",
       "name": "ବସିରନ ବିବି",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକା",
       "bio": "ବସିରନ ବିବି ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଜଣେ ଲେଖିକା । ସେ ଓଡ଼ିଆ ଭାଷାରେ ଅନେକ ପୁସ୍ତକ ରଚନା କରିଛନ୍ତି ।",
@@ -51,14 +51,14 @@
         {
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=194",
-          "snapshot": "public/shishu/birthday_details-ed3dc89efb.html"
+          "snapshot": "public/birthday_details-ed3dc89efb.html"
         }
       ],
       "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
     },
     {
       "slug": "raghunandan-mohapatra",
-      "route": "/shishu/writers/e1f187c86103.html",
+      "route": "/writers/e1f187c86103.html",
       "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଜଣେ ଲେଖକ । ପୁରୁଣା ଭୁବନେଶ୍ୱରରେ ଜନ୍ମିତ ଏହି ଲେଖକ ପିଲାଦିନରୁ ସାହିତ୍ୟ ପ୍ରତି ଆଗ୍ରହୀ ଥିଲେ । ସେ ଅନେକ ପୁସ୍ତକ ରଚନା କରିଛନ୍ତି । ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ ଅନୁସାରେ ସେ ଶିଶୁ କିଶୋର ସାହିତ୍ୟ ଏକାଡେମୀର ସଦସ୍ୟ । ତାଙ୍କ ‘ଏକାମ୍ରର ରୁକୁଣା ରଥଯାତ୍ରା’ ଲେଖାରେ ଭୁବନେଶ୍ୱରର ଏହି ପର୍ବର ପରମ୍ପରା ବିଷୟରେ ଜାଣିବାକୁ ମିଳେ ।",
@@ -69,19 +69,19 @@
         {
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=195",
-          "snapshot": "public/shishu/birthday_details-efb8a74bfb.html"
+          "snapshot": "public/birthday_details-efb8a74bfb.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4379ccc635.html",
-          "snapshot": "public/shishu/article_details-4379ccc635.html"
+          "url": "https://shishukishora.com/article_details-4379ccc635.html",
+          "snapshot": "public/article_details-4379ccc635.html"
         }
       ],
       "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
     },
     {
       "slug": "ananta-pradhan",
-      "route": "/shishu/writers/dfedff336b61.html",
+      "route": "/writers/dfedff336b61.html",
       "name": "ଅନନ୍ତ ପ୍ରଧାନ",
       "role": "ଲେଖକ ଓ ସମ୍ପାଦକ",
       "bio": "ଅନନ୍ତ ପ୍ରଧାନ ଓଡ଼ିଆ ସାହିତ୍ୟର ଜଣେ ଲେଖକ । ସେ ‘କାଦମ୍ବିନୀ’ ଓ ‘କୁନିକଥା’ ପତ୍ରିକାର ସମ୍ପାଦନା ମଣ୍ଡଳୀରେ କାମ କରିଛନ୍ତି । ତାଙ୍କର ଜନ୍ମ ପୁରୀରେ ।",
@@ -92,14 +92,14 @@
         {
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=200",
-          "snapshot": "public/shishu/birthday_details-821e7ffc8d.html"
+          "snapshot": "public/birthday_details-821e7ffc8d.html"
         }
       ],
       "identity": "Named biography and its associated photograph in the original magazine; exact writer byline match."
     },
     {
       "slug": "birendra-mohanty",
-      "route": "/shishu/writers/69bca452d630.html",
+      "route": "/writers/69bca452d630.html",
       "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କର କବିତା ପୁସ୍ତକ ‘ରୁମ୍‌କୁ ଝୁମା’ ପାଇଁ ସେ ୨୦୧୮ ମସିହାରେ ସାହିତ୍ୟ ଅକାଦେମିର ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର ପାଇଥିଲେ । ‘ମୀନା ବଜାର’ ଓ ‘ପିଲାଙ୍କ ଧରିତ୍ରୀ’ ପରି ପିଲାଙ୍କ ପାଠ୍ୟରୁ ସେ ଲେଖିବାର ପ୍ରେରଣା ପାଇଛନ୍ତି ।",
@@ -119,7 +119,7 @@
     },
     {
       "slug": "brundaban-kumbhar",
-      "route": "/shishu/writers/b98810c4015c.html",
+      "route": "/writers/b98810c4015c.html",
       "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ବୃନ୍ଦାବନ କୁମ୍ଭାର ଟିଟିଲାଗଡ଼ ଅଞ୍ଚଳର ଜଣେ ଶିଶୁ ସାହିତ୍ୟିକ । ସେ ‘ବିଦ୍ୟାଶ୍ରୀ’ ଭ୍ରାମ୍ୟମାଣ ପାଠାଗାରର ପ୍ରତିଷ୍ଠାତା । ଶିଶୁ କିଶୋରରେ ତାଙ୍କର ପିଲାଙ୍କ ପାଇଁ କବିତା ପ୍ରକାଶିତ ହୋଇଛି ।",
@@ -130,7 +130,7 @@
         {
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
-          "snapshot": "public/shishu/birthday_details-7295f3c559.html"
+          "snapshot": "public/birthday_details-7295f3c559.html"
         },
         {
           "label": "ମୂଳ ପତ୍ରିକାରେ କବିତା",
@@ -141,7 +141,7 @@
     },
     {
       "slug": "radhamadhab-rath",
-      "route": "/shishu/writers/262e7a578d40.html",
+      "route": "/writers/262e7a578d40.html",
       "name": "ରାଧାମାଧବ ରଥ",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ରାଧାମାଧବ ରଥ ଶିଶୁ କିଶୋରରେ ପିଲାମାନଙ୍କ ପାଇଁ ଗପ ଲେଖନ୍ତି । ତାଙ୍କର ‘ମୋ ପାପା’ ଏକ ଶିଶୁ-କିଶୋର ଉପନ୍ୟାସ । ଏଥିରେ ଝିଅର ଜୀବନ ଗଢ଼ିବାରେ ବାପାଙ୍କ ଭୂମିକାକୁ ନେଇ କାହାଣୀ ରହିଛି ।",
@@ -157,7 +157,7 @@
     },
     {
       "slug": "dhruba-charan-ghibela",
-      "route": "/shishu/writers/55f2b4a6ba42.html",
+      "route": "/writers/55f2b4a6ba42.html",
       "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା ବୌଦ୍ଧର ଜଣେ ଶିଶୁ ସାହିତ୍ୟିକ । ଶିଶୁ କିଶୋରରେ ତାଙ୍କର ଓଡ଼ିଆ ଭାଷା, ପର୍ବପର୍ବାଣି ଓ ଭ୍ରମଣକୁ ନେଇ କବିତା ପ୍ରକାଶିତ ହୋଇଛି । ୨୦୨୫ ମସିହାରେ ବୌଦ୍ଧରେ ଆୟୋଜିତ ରାଜ୍ୟସ୍ତରୀୟ ସାହିତ୍ୟ ଆସରରେ ସେ ସଭାପତିତ୍ୱ କରିଥିଲେ ।",
@@ -174,11 +174,11 @@
         }
       ],
       "identity": "Boudh identity corroborated by original article signature and named 2025 literary-event report. Subject description derived from actual published poems, not an inferred personal interest. No group-photo face chosen.",
-      "evidenceArticle": "public/shishu/article_details-448effc32f.html"
+      "evidenceArticle": "public/article_details-448effc32f.html"
     },
     {
       "slug": "ajay-kumar-sethi",
-      "route": "/shishu/writers/2a4f422edb86.html",
+      "route": "/writers/2a4f422edb86.html",
       "name": "ଅଜୟ କୁମାର ସେଠୀ",
       "role": "ଶିଶୁ କବିତା ଲେଖକ",
       "bio": "ଅଜୟ କୁମାର ସେଠୀ ପିଲାମାନଙ୍କ ପାଇଁ ଓଡ଼ିଆରେ କବିତା ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ତାଙ୍କର ‘ଓଡ଼ିଶା ମାଟିରେ ଜନମ ନେଇଛେ’ କବିତାରେ ଓଡ଼ିଶାର ପ୍ରକୃତି ଓ ସଂସ୍କୃତିର କଥା ରହିଛି । ‘ଭଲ ମଣିଷ ମୁଁ ହେବି’ କବିତାରେ ସେବା, ସ୍ନେହ ଓ ଭଲ ମଣିଷ ହେବାର ଇଚ୍ଛା ପ୍ରକାଶ ପାଇଛି ।",
@@ -191,14 +191,14 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ଭଲ ମଣିଷ ମୁଁ ହେବି",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-788.html"
+          "url": "https://shishukishora.com/article-788.html"
         }
       ],
       "identity": "Original magazine bylines and matching Puri locality. Introduction describes only the published poems; external newspaper OCR is unreliable and not used for dates or photograph."
     },
     {
       "slug": "sarat-kumar-das",
-      "route": "/shishu/writers/bd817933d592.html",
+      "route": "/writers/bd817933d592.html",
       "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
       "role": "କବି ଓ ଅଧ୍ୟାପକ",
       "bio": "ଶରତ କୁମାର ଦାସ ଓଡ଼ିଆରେ କବିତା ଲେଖନ୍ତି ଏବଂ ବଡ଼ବିଲ ମହାବିଦ୍ୟାଳୟର ରାଜନୀତି ବିଜ୍ଞାନ ବିଭାଗରେ ଅଧ୍ୟାପନା କରିଛନ୍ତି । ତାଙ୍କର ଶିଶୁ କବିତା ‘ସରଗେ ଉଇଁଛି ଜହ୍ନ’ରେ ଜହ୍ନକୁ ନେଇ କୁନି ପିଲାର କୌତୂହଳ ଓ ମାଆ ସହ ତାହାର କଥାବାର୍ତ୍ତା ରହିଛି । ‘ଅତି ଆପଣାର କପିଳା ଅଜା’ କବିତାରେ ଗାଁର ଜଣେ ପ୍ରିୟ ଅଜା ପିଲାଙ୍କୁ ମିଳିମିଶି ରହିବାକୁ ବୁଝାନ୍ତି ।",
@@ -207,7 +207,7 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ସରଗେ ଉଇଁଛି ଜହ୍ନ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-5a8b8cc029.html"
+          "url": "https://shishukishora.com/article_details-5a8b8cc029.html"
         },
         {
           "label": "ବଣମଲ୍ଲୀ · ଲେଖକଙ୍କ କବିତା ଓ ପରିଚୟ",
@@ -215,20 +215,20 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bb35305be2.html",
-          "snapshot": "public/shishu/article_details-bb35305be2.html"
+          "url": "https://shishukishora.com/article_details-bb35305be2.html",
+          "snapshot": "public/article_details-bb35305be2.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-71f0199e6e.html",
-          "snapshot": "public/shishu/article_details-71f0199e6e.html"
+          "url": "https://shishukishora.com/article_details-71f0199e6e.html",
+          "snapshot": "public/article_details-71f0199e6e.html"
         }
       ],
       "identity": "Original October 2025 article signature and 2018 Banamalli signature both identify the writer with Political Science at Barbil College, Kendujhar. Past-tense teaching wording avoids claiming current employment. Original Sarage Uinchhi Janha and Ati Apanara Kapila Aja signatures share exact published contact after Odia-digit normalization, Political Science department and Barbil College Keonjhar. Banamalli named author signature independently confirms institution. Same writer, safe merge; preserve original bylines. Full Kakara Topa read. Exact published contact after Odia numeral normalization matches verified Sarat Kumar Das Barbil College author. Honorific-only variant safe to merge. Existing book/award claims not extended."
     },
     {
       "slug": "ananta-kumar-senapati",
-      "route": "/shishu/writers/9d348fab7d0e.html",
+      "route": "/writers/9d348fab7d0e.html",
       "name": "ଅନନ୍ତ କୁମାର ସେନାପତି",
       "role": "ଶିଶୁ କବିତା ଲେଖକ",
       "bio": "ଅନନ୍ତ କୁମାର ସେନାପତି ପିଲାମାନଙ୍କ ପାଇଁ ଓଡ଼ିଆ କବିତା ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ‘ଫୁଟି ବି ଫୁଲଟି ପରି’ କବିତାରେ ଫୁଲ ହୋଇ ଅନ୍ୟକୁ ଆନନ୍ଦ ଦେବାର ଇଚ୍ଛା ରହିଛି । ‘ମହକିବି ଦିନେ ଫୁଲ ପରିକା’ କବିତାରେ ପିଲାମନର ଖେଳ, ସପନ ଓ ବଡ଼ ହୋଇ ଭଲ କାମ କରିବାର ଆଶା ଫୁଟିଉଠିଛି ।",
@@ -244,7 +244,7 @@
     },
     {
       "slug": "antaryami-bej",
-      "route": "/shishu/writers/8aa404dcfb41.html",
+      "route": "/writers/8aa404dcfb41.html",
       "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
       "role": "କବି ଓ ଶିକ୍ଷକ",
       "bio": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ ଜଣେ ଶିକ୍ଷକ ଓ ଓଡ଼ିଆ କବିତା ଲେଖକ । ଶିଶୁ କିଶୋରରେ ତାଙ୍କର ‘ବନ ମହୋତ୍ସବ’ କବିତା ପ୍ରକାଶିତ ହୋଇଛି । ଏହି କବିତାରେ ଗଛର ଉପକାରିତା ଓ ପରିବେଶର ସୁରକ୍ଷା ପାଇଁ ଚାରା ଲଗାଇବାର କଥା ରହିଛି ।",
@@ -253,15 +253,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ବନ ମହୋତ୍ସବ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-766.html",
-          "snapshot": "public/shishu/article-766.html"
+          "url": "https://shishukishora.com/article-766.html",
+          "snapshot": "public/article-766.html"
         }
       ],
       "identity": "Original October 2026 poem explicitly signs as teacher, Pattamundai, Kendrapara. Teacher role is based on that signature, not a same-name news report. No portrait verified."
     },
     {
       "slug": "kabita-devi",
-      "route": "/shishu/writers/05c4bac63090.html",
+      "route": "/writers/05c4bac63090.html",
       "name": "କବିତା ଦେବୀ",
       "role": "ଗଳ୍ପ ଲେଖକ ଓ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ",
       "bio": "କବିତା ଦେବୀ ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ତାଙ୍କ ଗପ ‘ମୋ ଠାକୁର କହିଲେ’ରେ କୁନି ପୁଅ ବଣ୍ଟିର ଦୟା ଓ ଅନ୍ୟକୁ ସାହାଯ୍ୟ କରିବାର ମନୋଭାବ ଫୁଟିଉଠିଛି ।",
@@ -270,15 +270,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୋ’ ଠାକୁର କହିଲେ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-07bfa9d10e.html",
-          "snapshot": "public/shishu/article_details-07bfa9d10e.html"
+          "url": "https://shishukishora.com/article_details-07bfa9d10e.html",
+          "snapshot": "public/article_details-07bfa9d10e.html"
         }
       ],
       "identity": "Original November 2024 story explicitly identifies the named writer as a retired female teacher. No same-name social profile used. No merge with Kabita Mishra; source contact spelling differs and name relationship is unconfirmed."
     },
     {
       "slug": "kunjabihari-sahu",
-      "route": "/shishu/writers/524cb79f75d5.html",
+      "route": "/writers/524cb79f75d5.html",
       "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
       "role": "କବି ଓ ଗଳ୍ପ ଲେଖକ",
       "bio": "କୁଞ୍ଜବିହାରୀ ସାହୁ କବିତା ଓ ଗପ ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ତାଙ୍କ ‘ବିଷୁବ ସଂକରାନ୍ତି’ କବିତାରେ ପଣା, ପରବ ଓ ଓଡ଼ିଆ ନୂଆବର୍ଷର ଖୁସି ଫୁଟିଉଠିଛି । ଓଡ଼ିଶା ସମ୍ବାଦରେ ତାଙ୍କ ଗପ ‘ନୂଆବର୍ଷ’ ପ୍ରକାଶିତ ହୋଇଛି । ‘ଶପଥ’ ଗପରେ ସ୍ୱାଧୀନତା ଦିବସରେ ସୁନିତା ଦେଶ ପାଇଁ କାମ କରିବାର ଶପଥ ନିଏ ।",
@@ -288,8 +288,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ବିଷୁବ ସଂକରାନ୍ତି",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d474d9d5fa.html",
-          "snapshot": "public/shishu/article_details-d474d9d5fa.html"
+          "url": "https://shishukishora.com/article_details-d474d9d5fa.html",
+          "snapshot": "public/article_details-d474d9d5fa.html"
         },
         {
           "label": "ଓଡ଼ିଶା ସମ୍ବାଦ · ଗଳ୍ପ: ନୂଆବର୍ଷ",
@@ -297,20 +297,20 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e0dbb59ef.html",
-          "snapshot": "public/shishu/article_details-7e0dbb59ef.html"
+          "url": "https://shishukishora.com/article_details-7e0dbb59ef.html",
+          "snapshot": "public/article_details-7e0dbb59ef.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-086fa2c541.html",
-          "snapshot": "public/shishu/article_details-086fa2c541.html"
+          "url": "https://shishukishora.com/article_details-086fa2c541.html",
+          "snapshot": "public/article_details-086fa2c541.html"
         }
       ],
       "identity": "Exact named byline and matching contact signature connect original magazine poem with Odisha Sambad story. The publisher places the named portrait directly under the author name; image filename also names Kunjabihari Sahu. No personal contact republished in biography. Original Shapatha and Bishuba Sankranti signatures share exact published contact and Patrapada Bhubaneswar locality. Same contact also matches named Odisha Sambad Nuabarsha story. Confirmed same writer; retain existing verified portrait and all seven contributions. Holi Khela Bhari Badhia original signature matches existing Bishuba Sankranti and named Odisha Sambad story by exact published contact and Bhubaneswar. Honorific/spacing variant confirmed same writer; existing verified portrait retained. No new outside biographical claim."
     },
     {
       "slug": "kirtan-sahu",
-      "route": "/shishu/writers/2c5ca3733964.html",
+      "route": "/writers/2c5ca3733964.html",
       "name": "କୀର୍ତ୍ତନ ସାହୁ",
       "role": "ଶିଶୁ କବିତାର ଲେଖକ",
       "bio": "କୀର୍ତ୍ତନ ସାହୁ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ କବିତା ‘କଥା ଦେଇଛି’ରେ ନିଜ କାମ ନିଜେ କରିବା ଓ ମାଟି, ଗଛ, ଜଳର ଯତ୍ନ ନେବାର କଥା ରହିଛି ।",
@@ -319,15 +319,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · କଥା ଦେଇଛି",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c49b6e61da.html",
-          "snapshot": "public/shishu/article_details-c49b6e61da.html"
+          "url": "https://shishukishora.com/article_details-c49b6e61da.html",
+          "snapshot": "public/article_details-c49b6e61da.html"
         }
       ],
       "identity": "Introduction limited to the complete signed magazine poem. No occupation, awards or named photograph established; external story lead not used for public claims."
     },
     {
       "slug": "gitanjali-swain-a",
-      "route": "/shishu/writers/3cab06f38bc2.html",
+      "route": "/writers/3cab06f38bc2.html",
       "name": "ଗୀତାଞ୍ଜଳି ସ୍ଵାଇଁ",
       "role": "କବିତାର ଲେଖକ ଓ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ",
       "bio": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ । ସେ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ କବିତା ‘ଗଛ କାଟନା ଭାଇ’ରେ ଗଛର ଉପକାର ଓ ଗଛ ଲଗାଇବାର କଥା ରହିଛି ।",
@@ -336,20 +336,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ଗଛ କାଟନା ଭାଇ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-9df5c5273b.html",
-          "snapshot": "public/shishu/article_details-9df5c5273b.html"
+          "url": "https://shishukishora.com/article_details-9df5c5273b.html",
+          "snapshot": "public/article_details-9df5c5273b.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ଜହ୍ନ ମାମୁଁ ଆମର",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-595234403d.html",
-          "snapshot": "public/shishu/article_details-595234403d.html"
+          "url": "https://shishukishora.com/article_details-595234403d.html",
+          "snapshot": "public/article_details-595234403d.html"
         }
       ],
       "identity": "Two orthographic variants carry the same specific Kanan Vihar Phase 2/Patia signature. July 2026 poem explicitly states retired female teacher. Shared biography supported; directory routes and contributions remain separate. Award announcement and foundation photograph lack a stronger connection and are not attributed."
     },
     {
       "slug": "gitanjali-swain",
-      "route": "/shishu/writers/4b75b270fdbe.html",
+      "route": "/writers/4b75b270fdbe.html",
       "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ",
       "role": "କବିତାର ଲେଖକ ଓ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ",
       "bio": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ । ସେ ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ କବିତା ‘ଗଛ କାଟନା ଭାଇ’ରେ ଗଛର ଉପକାର ଓ ଗଛ ଲଗାଇବାର କଥା ରହିଛି ।",
@@ -358,20 +358,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ଗଛ କାଟନା ଭାଇ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-9df5c5273b.html",
-          "snapshot": "public/shishu/article_details-9df5c5273b.html"
+          "url": "https://shishukishora.com/article_details-9df5c5273b.html",
+          "snapshot": "public/article_details-9df5c5273b.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ଜହ୍ନ ମାମୁଁ ଆମର",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-595234403d.html",
-          "snapshot": "public/shishu/article_details-595234403d.html"
+          "url": "https://shishukishora.com/article_details-595234403d.html",
+          "snapshot": "public/article_details-595234403d.html"
         }
       ],
       "identity": "Two orthographic variants carry the same specific Kanan Vihar Phase 2/Patia signature. July 2026 poem explicitly states retired female teacher. Shared biography supported; directory routes and contributions remain separate. Award announcement and foundation photograph lack a stronger connection and are not attributed."
     },
     {
       "slug": "gobinda-chandra-tripathy",
-      "route": "/shishu/writers/646ed979fded.html",
+      "route": "/writers/646ed979fded.html",
       "name": "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ତ୍ରିପାଠୀ",
       "role": "କବିତା ଓ ପ୍ରବନ୍ଧର ଲେଖକ",
       "bio": "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ତ୍ରିପାଠୀ କବିତା ଓ ପ୍ରବନ୍ଧ ଲେଖନ୍ତି । ଶିଶୁ କିଶୋରରେ ତାଙ୍କ କବିତା ‘ଅଙ୍କାବଙ୍କା’ ପ୍ରକାଶିତ ହୋଇଛି । ଏଥିରେ ଗାଁ ବାଟ, ନଈ, ପାହାଡ଼ ଓ ଲତାର ଆକୃତିକୁ ଛନ୍ଦରେ ସଜାଇଛନ୍ତି । ଧରିତ୍ରୀରେ ତାଙ୍କ ପ୍ରବନ୍ଧ ‘ଘର୍‌ମାଓ’ ପ୍ରକାଶିତ ହୋଇଛି ।",
@@ -380,8 +380,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ଅଙ୍କାବଙ୍କା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fb78e00ac1.html",
-          "snapshot": "public/shishu/article_details-fb78e00ac1.html"
+          "url": "https://shishukishora.com/article_details-fb78e00ac1.html",
+          "snapshot": "public/article_details-fb78e00ac1.html"
         },
         {
           "label": "ଧରିତ୍ରୀ · ଘର୍‌ମାଓ",
@@ -392,7 +392,7 @@
     },
     {
       "slug": "chaturbhuja-pahi",
-      "route": "/shishu/writers/4365113dce3c.html",
+      "route": "/writers/4365113dce3c.html",
       "name": "ଚତୁର୍ଭୁଜ ପହି",
       "role": "କବି ଓ ସାହିତ୍ୟ ସଂଗଠକ",
       "bio": "ଚତୁର୍ଭୁଜ ପହି ପିଲାମାନଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ସେ କେନ୍ଦୁଝରର ସଢାସ୍ଥିତ ସାଇ ଚେତନା ସାହିତ୍ୟ ସଂସଦର ସମ୍ପାଦକ । ତାଙ୍କ କବିତା ‘ଠେକୁଆ ପାଇଲା ନୂଆ ଜୀବନ’ରେ ବଣର ଜୀବଜନ୍ତୁ ଏକାଠି ହୋଇ ରୋଗୀ ଠେକୁଆକୁ ସାହାଯ୍ୟ କରନ୍ତି ।",
@@ -401,15 +401,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ଠେକୁଆ ପାଇଲା ନୂଆ ଜୀବନ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-dbfdaf075a.html",
-          "snapshot": "public/shishu/article_details-dbfdaf075a.html"
+          "url": "https://shishukishora.com/article_details-dbfdaf075a.html",
+          "snapshot": "public/article_details-dbfdaf075a.html"
         }
       ],
       "identity": "Exact byline and explicit Sai Chetana Sahitya Sansad, Sadha, Kendujhar secretary signature in September 2026 poem. Introduction and literary role rely on original magazine, not same-name event reports. No photograph verified."
     },
     {
       "slug": "jayanta-kumar-ojha",
-      "route": "/shishu/writers/bef5579559e6.html",
+      "route": "/writers/bef5579559e6.html",
       "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
       "portrait": null,
       "role": "କବିତାର ଲେଖକ",
@@ -418,20 +418,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ବୃନ୍ଦାବନ ମାଙ୍କଡ଼",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bbb00f4e2b.html",
-          "snapshot": "public/shishu/article_details-bbb00f4e2b.html"
+          "url": "https://shishukishora.com/article_details-bbb00f4e2b.html",
+          "snapshot": "public/article_details-bbb00f4e2b.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ହେ ନୂଆ ସକାଳ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
-          "snapshot": "public/shishu/article_details-8d4b45cea6.html"
+          "url": "https://shishukishora.com/article_details-8d4b45cea6.html",
+          "snapshot": "public/article_details-8d4b45cea6.html"
         }
       ],
       "identity": "Both byline spellings share SSPL/DRDO/Timarpur signature and identical published contact. January 2025 signature also links Bhanra/Bhurunga/Jajpur. March 2024 explicitly states Technical Officer. Separate routes and literary text retained."
     },
     {
       "slug": "jayantakumar-ojha",
-      "route": "/shishu/writers/8218162be47d.html",
+      "route": "/writers/8218162be47d.html",
       "name": "ଜୟନ୍ତକୁମାର ଓଝା",
       "portrait": null,
       "role": "କବିତାର ଲେଖକ",
@@ -440,20 +440,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ବୃନ୍ଦାବନ ମାଙ୍କଡ଼",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bbb00f4e2b.html",
-          "snapshot": "public/shishu/article_details-bbb00f4e2b.html"
+          "url": "https://shishukishora.com/article_details-bbb00f4e2b.html",
+          "snapshot": "public/article_details-bbb00f4e2b.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ହେ ନୂଆ ସକାଳ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8d4b45cea6.html",
-          "snapshot": "public/shishu/article_details-8d4b45cea6.html"
+          "url": "https://shishukishora.com/article_details-8d4b45cea6.html",
+          "snapshot": "public/article_details-8d4b45cea6.html"
         }
       ],
       "identity": "Both byline spellings share SSPL/DRDO/Timarpur signature and identical published contact. January 2025 signature also links Bhanra/Bhurunga/Jajpur. March 2024 explicitly states Technical Officer. Separate routes and literary text retained."
     },
     {
       "slug": "jharana-mallik",
-      "route": "/shishu/writers/6fa730670541.html",
+      "route": "/writers/6fa730670541.html",
       "name": "ଝରଣା ମଲ୍ଲିକ",
       "portrait": null,
       "role": "କବିତାର ଲେଖକ",
@@ -462,8 +462,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · କାଉ ଡାକିଦେଲା ସକାଳୁ ଆସି",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-786.html",
-          "snapshot": "public/shishu/article-786.html"
+          "url": "https://shishukishora.com/article-786.html",
+          "snapshot": "public/article-786.html"
         },
         {
           "label": "ଶୁଭପଲ୍ଲବ · ତୃତୀୟ ସଂସ୍କରଣ, ପୃଷ୍ଠା ୨୧",
@@ -481,13 +481,13 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f3f014cddd.html",
-          "snapshot": "public/shishu/article_details-f3f014cddd.html"
+          "url": "https://shishukishora.com/article_details-f3f014cddd.html",
+          "snapshot": "public/article_details-f3f014cddd.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8ab8f3ca6a.html",
-          "snapshot": "public/shishu/article_details-8ab8f3ca6a.html"
+          "url": "https://shishukishora.com/article_details-8ab8f3ca6a.html",
+          "snapshot": "public/article_details-8ab8f3ca6a.html"
         },
         {
           "label": "ଶିକ୍ଷା ମନ୍ତ୍ରଣାଳୟ · STARS, ସେପ୍ଟେମ୍ବର ୨୦୨୩",
@@ -499,12 +499,12 @@
         }
       ],
       "identity": "Exact name and identical published professional contact connect original poems with Ministry of Education STARS September 2023 indexed report identifying Joint Director, Higher Secondary Education. Full PDF URL now returns application shell; indexed contact/role corroborates contemporary OdishaLIVE report explicitly naming educationist and children writer. Historical service phrasing, not current job. No individual portrait verified.",
-      "route": "/shishu/writers/75d699aa5d34.html",
+      "route": "/writers/75d699aa5d34.html",
       "name": "ଡ. ସନାତନ ପଣ୍ଡା"
     },
     {
       "slug": "arun-kumar-panda",
-      "route": "/shishu/writers/26f88a3357be.html",
+      "route": "/writers/26f88a3357be.html",
       "name": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା",
       "role": "ଶିଶୁ କବିତା ଓ ନାଟକର ଲେଖକ",
       "bio": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା ପିଲାଙ୍କ ପାଇଁ କବିତା ଓ ନାଟକ ଲେଖନ୍ତି । ତାଙ୍କ ‘ଦିବ୍ୟାଙ୍ଗ ଦେଶପ୍ରେମୀ’ ବହିରେ ପିଲା ଓ କିଶୋରଙ୍କ ପାଇଁ ଏକାଂକିକା ବା ଛୋଟ ନାଟକ ରହିଛି । ୨୦୨୫ ମସିହାରେ ଏହି ବହି ଲୋକାର୍ପିତ ହୋଇଥିଲା ।",
@@ -513,8 +513,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-778.html",
-          "snapshot": "public/shishu/article-778.html"
+          "url": "https://shishukishora.com/article-778.html",
+          "snapshot": "public/article-778.html"
         },
         {
           "label": "ହିନ୍ଦୁସ୍ଥାନ ସମାଚାର · ପୁସ୍ତକ ଲୋକାର୍ପଣ",
@@ -525,7 +525,7 @@
     },
     {
       "slug": "krutibas-nayak",
-      "route": "/shishu/writers/4381c6ffcaa4.html",
+      "route": "/writers/4381c6ffcaa4.html",
       "name": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକ",
       "role": "ପିଲାଙ୍କ ଗଳ୍ପର ଲେଖକ",
       "bio": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକଙ୍କ ଗପ ‘ନାତୁଣୀଙ୍କ ଉପହାର’ ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ହୋଇଛି । ଏହି ଗପରେ ଦୁଇ ନାତୁଣୀ ଜେଜେଙ୍କୁ ମୋବାଇଲ ଓ ଲାପଟପରେ ଓଡ଼ିଆ ଲେଖିବା ଶିଖାଉଛନ୍ତି । ପରିବାରରେ ପରସ୍ପରଠାରୁ ଶିଖିବାର ଆନନ୍ଦ ଏଥିରେ ରହିଛି ।",
@@ -534,15 +534,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-acdf9a8458.html",
-          "snapshot": "public/shishu/article_details-acdf9a8458.html"
+          "url": "https://shishukishora.com/article_details-acdf9a8458.html",
+          "snapshot": "public/article_details-acdf9a8458.html"
         }
       ],
       "identity": "Read entire Natuninka Upahara. Add concise introduction grounded only in this signed story: children help grandparents learn Odia typing. Author/blog and encyclopedic biography found, but source story has no independent identity bridge; no external life dates, awards, books or photograph borrowed."
     },
     {
       "slug": "prabina-parida",
-      "route": "/shishu/writers/85798d39be19.html",
+      "route": "/writers/85798d39be19.html",
       "name": "ଡକ୍ଟର ପ୍ରବୀଣା ପରିଡା",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଡକ୍ଟର ପ୍ରବୀଣା ପରିଡାଙ୍କ ‘ତୁମ ପରି ପିଲାଟିଏ’ କବିତା ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ହୋଇଛି । ଗାନ୍ଧୀଜୀଙ୍କ ପିଲାଦିନର ଏକ ଘଟଣା ମାଧ୍ୟମରେ କବିତାଟି ସତ କହିବା ଓ ସଚ୍ଚୋଟ ରହିବାର କଥା କହେ ।",
@@ -551,15 +551,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d2bb16dd80.html",
-          "snapshot": "public/shishu/article_details-d2bb16dd80.html"
+          "url": "https://shishukishora.com/article_details-d2bb16dd80.html",
+          "snapshot": "public/article_details-d2bb16dd80.html"
         }
       ],
       "identity": "Original byline and complete poem verified. Research directory lists a same-name scholar of Nandakishore Bal, but this contribution has no identity signature to bridge them. No thesis, dates or photograph borrowed."
     },
     {
       "slug": "basanta-kishore-sahoo",
-      "route": "/shishu/writers/7d7b89d315b9.html",
+      "route": "/writers/7d7b89d315b9.html",
       "name": "ଡକ୍ଟର ବସନ୍ତ କିଶୋର ସାହୁ",
       "role": "ଶିଶୁ ସାହିତ୍ୟର ଲେଖକ ଓ ଗବେଷକ",
       "bio": "ଡକ୍ଟର ବସନ୍ତ କିଶୋର ସାହୁ ପିଲାଙ୍କ ପାଇଁ ଗପ ଓ କବିତା ଲେଖନ୍ତି । ସେ ଓଡ଼ିଆ ମୌଖିକ ଶିଶୁ ସାହିତ୍ୟ ଉପରେ ଗବେଷଣା କରିଛନ୍ତି । ତାଙ୍କର ‘ଓଡ଼ିଆ ମୌଖିକ ଶିଶୁ ସାହିତ୍ୟ’ ବହି ୧୯୯୬ ମସିହାରେ ପ୍ରକାଶିତ ହୋଇଥିଲା ।",
@@ -568,8 +568,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e144e1690.html",
-          "snapshot": "public/shishu/article_details-7e144e1690.html"
+          "url": "https://shishukishora.com/article_details-7e144e1690.html",
+          "snapshot": "public/article_details-7e144e1690.html"
         },
         {
           "label": "ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟ · ଗବେଷକ ପରିଚୟ",
@@ -584,7 +584,7 @@
     },
     {
       "slug": "bijaya-patra-6b99833c7415",
-      "route": "/shishu/writers/6b99833c7415.html",
+      "route": "/writers/6b99833c7415.html",
       "name": "ଡକ୍ଟର ବିଜୟା ପାତ୍ର",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଡକ୍ଟର ବିଜୟା ପାତ୍ରଙ୍କ ‘ଅଜା, ଆଇ ଆଉ ଚା’ କବିତାରେ ଅଜା ଓ ଆଇଙ୍କ ମଜାଳିଆ କଥାବାର୍ତ୍ତା ରହିଛି । ଚା ତିଆରିକୁ ନେଇ ଘରର ଏକ ଛୋଟ ଘଟଣା କବିତାରେ ହସ ଆଣେ ।",
@@ -593,15 +593,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-3e6a7305ea.html",
-          "snapshot": "public/shishu/article_details-3e6a7305ea.html"
+          "url": "https://shishukishora.com/article_details-3e6a7305ea.html",
+          "snapshot": "public/article_details-3e6a7305ea.html"
         }
       ],
       "identity": "Complete magazine poem supports introduction only. No signature identity bridge to Satyabadi August 2026 biography or earlier variants. Do not merge variants or use external book counts/photos."
     },
     {
       "slug": "raghu-sahu",
-      "route": "/shishu/writers/8547fb8c3a5d.html",
+      "route": "/writers/8547fb8c3a5d.html",
       "name": "ଡକ୍ଟର ରଘୁ ସାହୁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଡକ୍ଟର ରଘୁ ସାହୁଙ୍କ ‘ଏମିତି କରିବି ନାହିଁ’ କବିତାରେ ଜଣେ ପିଲା ମାଆଙ୍କୁ ଅବହେଳା ନ କରିବାର କଥା କହେ । ବଡ଼ମାନଙ୍କ ପ୍ରତି ଭଲପାଇବା ଓ ଯତ୍ନର ଭାବନା ଏହି କବିତାରେ ରହିଛି ।",
@@ -610,15 +610,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bfc3656207.html",
-          "snapshot": "public/shishu/article_details-bfc3656207.html"
+          "url": "https://shishukishora.com/article_details-bfc3656207.html",
+          "snapshot": "public/article_details-bfc3656207.html"
         }
       ],
       "identity": "Original poem and Raghunath Sahu Bana Bhoji have identical published contact, supporting spelling-variant connection, but preserve routes/contributions. External searches find unrelated artist, politician and researcher; no supported external biography or photo. Contact not added to biography."
     },
     {
       "slug": "raghunath-sahu",
-      "route": "/shishu/writers/5ff484d72f52.html",
+      "route": "/writers/5ff484d72f52.html",
       "name": "ଡକ୍ଟର ରଘୁନାଥ ସାହୁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଡକ୍ଟର ରଘୁନାଥ ସାହୁଙ୍କ ‘ବଣ ଭୋଜି’ କବିତାରେ ପଶୁମାନେ ଏକାଠି ଭୋଜି କରନ୍ତି । ନାଚଗୀତ ଓ ହସମଜା ଭିତରେ ବିଲେଇର ମାଛ ଚୋରି ଘଟଣା କବିତାଟିକୁ ଆହୁରି ମଜାଦାର କରେ ।",
@@ -627,8 +627,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a8fca5035b.html",
-          "snapshot": "public/shishu/article_details-a8fca5035b.html"
+          "url": "https://shishukishora.com/article_details-a8fca5035b.html",
+          "snapshot": "public/article_details-a8fca5035b.html"
         }
       ],
       "identity": "Original poem and Raghu Sahu Emiti Karibi Nahin share identical published contact. Introduction restricted to this poem; no external profession, dates or likeness inferred. Artist/politician/physics researcher matches not corroborated."
@@ -642,11 +642,11 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-1e5088030d.html",
-          "snapshot": "public/shishu/article_details-1e5088030d.html"
+          "url": "https://shishukishora.com/article_details-1e5088030d.html",
+          "snapshot": "public/article_details-1e5088030d.html"
         }
       ],
-      "route": "/shishu/writers/250e17ab1f6b.html",
+      "route": "/writers/250e17ab1f6b.html",
       "name": "ଡକ୍ଟର ରାଜକିଶୋର ପାଢୀ",
       "identity": "Read complete Galurugalu poem; no identity signature. Search finds children writer conference and 2025 award news, but no corroborating bridge beyond name to this byline. Introduction limited to the published lullaby; no award, photograph or external personal facts attributed."
     },
@@ -659,11 +659,11 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-49c1f31f6b.html",
-          "snapshot": "public/shishu/article_details-49c1f31f6b.html"
+          "url": "https://shishukishora.com/article_details-49c1f31f6b.html",
+          "snapshot": "public/article_details-49c1f31f6b.html"
         }
       ],
-      "route": "/shishu/writers/2b115441917c.html",
+      "route": "/writers/2b115441917c.html",
       "name": "ଡକ୍ଟର ଲିଙ୍ଗରାଜ ରଥ",
       "identity": "Google Books names a same-name poet and retired administrator, but no corroborating bridge to original Tankapani Road signature. Biography restricted to complete original poem; no external career or photograph attributed."
     },
@@ -676,17 +676,17 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-739c9558b7.html",
-          "snapshot": "public/shishu/article_details-739c9558b7.html"
+          "url": "https://shishukishora.com/article_details-739c9558b7.html",
+          "snapshot": "public/article_details-739c9558b7.html"
         }
       ],
-      "route": "/shishu/writers/91df27f82af9.html",
+      "route": "/writers/91df27f82af9.html",
       "name": "ଡକ୍ଟର ସଚ୍ଚିଦାନନ୍ଦ କର",
       "identity": "Original poem has Nirmalya/Nuapada/Nayabazar Cuttack signature. Bibliography and book listing have same name but no identity bridge. No conflation with Sachidananda Routray or engineering professional. Poem-only introduction; portrait unverified."
     },
     {
       "slug": "sunamani-rout",
-      "route": "/shishu/writers/c6223054b1e8.html",
+      "route": "/writers/c6223054b1e8.html",
       "name": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ ପିଲାମାନଙ୍କ ପାଇଁ ଓଡ଼ିଆରେ ଲେଖନ୍ତି । ତାଙ୍କର ‘କିଚିରି ମିଚିରି ଚିଁ’ ପୁସ୍ତକ ୨୦୦୫ ମସିହା ପାଇଁ ଓଡ଼ିଶା ସାହିତ୍ୟ ଏକାଡେମୀର ଶିଶୁ ସାହିତ୍ୟ ପୁରସ୍କାର ପାଇଥିଲା । ତାଙ୍କ ‘ଵାପା’ କବିତାରେ ପରିବାର ପାଇଁ ବାପାଙ୍କ ଯତ୍ନ ଓ ଭଲପାଇବାର କଥା ରହିଛି ।",
@@ -699,8 +699,8 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fade75494b.html",
-          "snapshot": "public/shishu/article_details-fade75494b.html"
+          "url": "https://shishukishora.com/article_details-fade75494b.html",
+          "snapshot": "public/article_details-fade75494b.html"
         }
       ],
       "identity": "Existing award introduction reviewed against 2009 announcement search result. Retail listing for Relabai Pilamane and college report are leads only, not added without further identity bridge. Add original Bapa poem discussion, preserving existing award year distinction. No verified individual photograph."
@@ -714,11 +714,11 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d5f58dc504.html",
-          "snapshot": "public/shishu/article_details-d5f58dc504.html"
+          "url": "https://shishukishora.com/article_details-d5f58dc504.html",
+          "snapshot": "public/article_details-d5f58dc504.html"
         }
       ],
-      "route": "/shishu/writers/496b5ec4f76f.html",
+      "route": "/writers/496b5ec4f76f.html",
       "name": "ଡ଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
       "identity": "Original poem identifies Gati Rout Patna, Cuttack. PIB names a college principal, but no corroboration links him to this contributor. Other search hits are unrelated officials/people. No job, degree specialization or photograph inferred."
     },
@@ -731,11 +731,11 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-92227bb58c.html",
-          "snapshot": "public/shishu/article_details-92227bb58c.html"
+          "url": "https://shishukishora.com/article_details-92227bb58c.html",
+          "snapshot": "public/article_details-92227bb58c.html"
         }
       ],
-      "route": "/shishu/writers/3234455e0870.html",
+      "route": "/writers/3234455e0870.html",
       "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)",
       "identity": "Original article signature matches Kotitirtha locality of earlier variants, but external Satyabadi biography remains unbridged. No external books, career or portrait added. Introduction describes original article only."
     },
@@ -748,11 +748,11 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-cac147298f.html",
-          "snapshot": "public/shishu/article_details-cac147298f.html"
+          "url": "https://shishukishora.com/article_details-cac147298f.html",
+          "snapshot": "public/article_details-cac147298f.html"
         }
       ],
-      "route": "/shishu/writers/f2b0afc83d0c.html",
+      "route": "/writers/f2b0afc83d0c.html",
       "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ",
       "identity": "Original science article and Odisha Bigyan Academy membership list share exact full name and published Sahidnagar address. Award sources name same-name children writer; award-to-member bridge not independently established, so introduction remains article-based. Memorial Trust electrical engineer is not assumed same person. No portrait verified."
     },
@@ -765,11 +765,11 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ba58c7a1a6.html",
-          "snapshot": "public/shishu/article_details-ba58c7a1a6.html"
+          "url": "https://shishukishora.com/article_details-ba58c7a1a6.html",
+          "snapshot": "public/article_details-ba58c7a1a6.html"
         }
       ],
-      "route": "/shishu/writers/1b15f0d011c5.html",
+      "route": "/writers/1b15f0d011c5.html",
       "name": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
       "identity": "Same published contact and Gati Rout Patna signature as batch013 variant. Preserve route/contributions. External college principal identity remains unverified; no profession or portrait added."
     },
@@ -782,17 +782,17 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7b145a63ae.html",
-          "snapshot": "public/shishu/article_details-7b145a63ae.html"
+          "url": "https://shishukishora.com/article_details-7b145a63ae.html",
+          "snapshot": "public/article_details-7b145a63ae.html"
         }
       ],
-      "route": "/shishu/writers/21afaaab9e9e.html",
+      "route": "/writers/21afaaab9e9e.html",
       "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
       "identity": "Original signature is Khuntakata, Athagarh, distinct from earlier Balangir contributor. Do not merge them. Search with locality does not corroborate profession or portrait. Keep source honorific; introduction limited to original poem."
     },
     {
       "slug": "ashok-kumar-sethi-balangir",
-      "route": "/shishu/writers/5858dbd35ce2.html",
+      "route": "/writers/5858dbd35ce2.html",
       "name": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀଙ୍କ ‘ପଣତକାନି’ କବିତାରେ ମାଆର ସ୍ନେହ ଓ ଆଦରର କଥା ରହିଛି । ମାଆର ପଣତ ତଳେ ପିଲାଟି ନିରାପଦ ଓ ଖୁସି ଅନୁଭବ କରେ ।",
@@ -801,15 +801,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-9769dbd2ae.html",
-          "snapshot": "public/shishu/article_details-9769dbd2ae.html"
+          "url": "https://shishukishora.com/article_details-9769dbd2ae.html",
+          "snapshot": "public/article_details-9769dbd2ae.html"
         }
       ],
       "identity": "Original signature Balangir; do not merge with Athagarh writer. Literary event report names a Balangir poet but lacks sufficient identity bridge. No career or photograph attributed."
     },
     {
       "slug": "tanaya-das-goswami",
-      "route": "/shishu/writers/6bd0f39ff075.html",
+      "route": "/writers/6bd0f39ff075.html",
       "name": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀଙ୍କ ‘ଉଡା ଜାହାଜରେ ଯିବି’ କବିତାରେ ମିଲି ଓ ତାର ମାଆଙ୍କ କଥା ରହିଛି । ଗାନ୍ଧୀଙ୍କ ଜୀବନୀ ଉପରେ ରଚନା ଲେଖିବାକୁ ନେଇ କବିତାଟି ମହାପୁରୁଷଙ୍କ ବିଷୟରେ ପଢ଼ିବାର ଆଗ୍ରହ ଜଗାଏ ।",
@@ -818,15 +818,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-832c9c74f9.html",
-          "snapshot": "public/shishu/article_details-832c9c74f9.html"
+          "url": "https://shishukishora.com/article_details-832c9c74f9.html",
+          "snapshot": "public/article_details-832c9c74f9.html"
         }
       ],
       "identity": "Original signature Radhakrishna Nagar Bhubaneswar. Government publishers directory lists same full name at Ratha Road but no exact bridge, books or photo. Only original poem described."
     },
     {
       "slug": "tapan-kumar-swain-cuttack",
-      "route": "/shishu/writers/15098a8414dc.html",
+      "route": "/writers/15098a8414dc.html",
       "name": "ତପନ କୁମାର ସ୍ବାଇଁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ତପନ କୁମାର ସ୍ବାଇଁଙ୍କ ‘ସାତ ରଙ୍ଗର ଝୋଟି’ କବିତାରେ ସକାଳର ଖରା, ଫୁଲ ଓ ପ୍ରଜାପତିର ସୁନ୍ଦର ଛବି ରହିଛି । ପ୍ରକୃତିର ରଙ୍ଗକୁ ଦେଖି ପିଲାମନରେ ଉଠୁଥିବା ପ୍ରଶ୍ନ ଏଥିରେ ପ୍ରକାଶ ପାଇଛି ।",
@@ -835,15 +835,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-3a34a6c8bc.html",
-          "snapshot": "public/shishu/article_details-3a34a6c8bc.html"
+          "url": "https://shishukishora.com/article_details-3a34a6c8bc.html",
+          "snapshot": "public/article_details-3a34a6c8bc.html"
         }
       ],
       "identity": "Original Mahanadi Vihar Cuttack signature differs from Aibili variant in locality and published contact. StoryMirror and Aahwaan named works/portrait lack bridge to this route; no merge or portrait."
     },
     {
       "slug": "tapan-kumar-swain-aibili",
-      "route": "/shishu/writers/00baa2538a54.html",
+      "route": "/writers/00baa2538a54.html",
       "name": "ତପନ କୁମାର ସ୍ୱାଇଁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ତପନ କୁମାର ସ୍ୱାଇଁ ଶିଶୁ ସାହିତ୍ୟ ଓ ଗୀତି କବିତା ଲେଖନ୍ତି । ସାହିତ୍ୟ ସହ ଚିତ୍ର ଓ ଅଭିନୟରେ ତାଙ୍କର ଆଗ୍ରହ ରହିଛି । ଶିଶୁ କିଶୋରରେ ପ୍ରକାଶିତ ‘ଖରା ଦିନରେ ମିତ’ କବିତାରେ ଗରମ ଦିନରେ ଶୀତଳ ପବନକୁ ବନ୍ଧୁ ଭାବେ ଡକାଯାଇଛି ।",
@@ -852,8 +852,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7e92279e76.html",
-          "snapshot": "public/shishu/article_details-7e92279e76.html"
+          "url": "https://shishukishora.com/article_details-7e92279e76.html",
+          "snapshot": "public/article_details-7e92279e76.html"
         },
         {
           "label": "ଆମେ ଓଡ଼ିଆ · ଲେଖକ ପରିଚୟ",
@@ -864,7 +864,7 @@
     },
     {
       "slug": "tulasi-swain",
-      "route": "/shishu/writers/3236a8530ef9.html",
+      "route": "/writers/3236a8530ef9.html",
       "name": "ତୁଳସୀ ସ୍ବାଇଁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ତୁଳସୀ ସ୍ବାଇଁଙ୍କ କବିତାରେ ପ୍ରକୃତି ଓ ବିଜ୍ଞାନ ପ୍ରତି ଆଗ୍ରହ ଦେଖିବାକୁ ମିଳେ । ‘ସବୁ ତ ପ୍ରକୃତି ଦାନ’ ଜୀବଜନ୍ତୁଙ୍କ ପ୍ରତି ଦୟାର କଥା କହେ । ‘ମୁକୁଳ ସୁଶୀଳ ଭାରି ଖୁସି’ରେ ଦୁଇ ସାଙ୍ଗଙ୍କ ମହାକାଶ ଯାତ୍ରାର ସ୍ୱପ୍ନ ରହିଛି ।",
@@ -873,20 +873,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-62c0c4c35a.html",
-          "snapshot": "public/shishu/article_details-62c0c4c35a.html"
+          "url": "https://shishukishora.com/article_details-62c0c4c35a.html",
+          "snapshot": "public/article_details-62c0c4c35a.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୁକୁଳ ସୁଶୀଳ ଭାରି ଖୁସି",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-544e5682a3.html",
-          "snapshot": "public/shishu/article_details-544e5682a3.html"
+          "url": "https://shishukishora.com/article_details-544e5682a3.html",
+          "snapshot": "public/article_details-544e5682a3.html"
         }
       ],
       "identity": "Both original poems read; no locality or identity bridge to same-name Bhubaneswar award winner in news/bookstore. Do not attribute 2020 literary or 2023 science awards yet. No verified photograph."
     },
     {
       "slug": "kamalakanta-jena",
-      "route": "/shishu/writers/e44ccf4a4e44.html",
+      "route": "/writers/e44ccf4a4e44.html",
       "name": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା",
       "role": "ବିଜ୍ଞାନ ଲେଖକ ଓ ଶିକ୍ଷକ",
       "bio": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା ଓଡ଼ିଆରେ ବିଜ୍ଞାନ ବିଷୟରେ ଲେଖନ୍ତି ଏବଂ ପଦାର୍ଥ ବିଜ୍ଞାନ ପଢ଼ାଇଛନ୍ତି । ତାଙ୍କର ‘ଗପରେ ଗପରେ ବିଜ୍ଞାନ’ ପୁସ୍ତକ ୨୦୧୧ ମସିହାର ପ୍ରାଣକୃଷ୍ଣ ପରିଜା ଜନପ୍ରିୟ ବିଜ୍ଞାନ ପୁରସ୍କାର ପାଇଥିଲା ।",
@@ -904,37 +904,37 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-14ea7c35d1.html",
-          "snapshot": "public/shishu/article_details-14ea7c35d1.html"
+          "url": "https://shishukishora.com/article_details-14ea7c35d1.html",
+          "snapshot": "public/article_details-14ea7c35d1.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-77398117b7.html",
-          "snapshot": "public/shishu/article_details-77398117b7.html"
+          "url": "https://shishukishora.com/article_details-77398117b7.html",
+          "snapshot": "public/article_details-77398117b7.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c0d3c4b83f.html",
-          "snapshot": "public/shishu/article_details-c0d3c4b83f.html"
+          "url": "https://shishukishora.com/article_details-c0d3c4b83f.html",
+          "snapshot": "public/article_details-c0d3c4b83f.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c7cc908c05.html",
-          "snapshot": "public/shishu/article_details-c7cc908c05.html"
+          "url": "https://shishukishora.com/article_details-c7cc908c05.html",
+          "snapshot": "public/article_details-c7cc908c05.html"
         }
       ],
       "identity": "2026 Sishu article signature explicitly names the university Controller of Examinations role; official university officer row names Dr Kamalakanta Jena and attaches the downloaded portrait. Earlier contributions identify Physics teaching; official science academy confirms 2011 book award. Batch 010: this variant has identical published professional contact and Bhadrak physics teaching signature.",
-      "evidenceArticle": "public/shishu/article_details-77398117b7.html",
+      "evidenceArticle": "public/article_details-77398117b7.html",
       "sourceImageUrl": "https://fmuniversity.nic.in/getdata?dir=OfficersImage&rid=officers_49_6520261778054302935.jpg",
       "mergedFrom": [
-        "/shishu/writers/fb95b574ae09.html",
-        "/shishu/writers/a639dc57e6dc.html",
-        "/shishu/writers/ef4e39279854.html"
+        "/writers/fb95b574ae09.html",
+        "/writers/a639dc57e6dc.html",
+        "/writers/ef4e39279854.html"
       ]
     },
     {
       "slug": "lakshmikanta-khuntia",
-      "route": "/shishu/writers/37cc648aa7a1.html",
+      "route": "/writers/37cc648aa7a1.html",
       "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ଗବେଷକ",
       "bio": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ ଶିଶୁ ସାହିତ୍ୟିକ, ଗବେଷକ ଓ ସମାଲୋଚକ । ସେ ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟର ଇତିହାସ ଉପରେ ପୁସ୍ତକ ଲେଖିଛନ୍ତି । ସେ ଭୁବନେଶ୍ୱରର ଶହୀଦନଗର ସରକାରୀ ଉଚ୍ଚ ବିଦ୍ୟାଳୟରେ ଶିକ୍ଷକ ଭାବେ କାମ କରିଛନ୍ତି ।",
@@ -945,39 +945,39 @@
         {
           "label": "ଶିଶୁ କିଶୋରର ମୂଳ ପରିଚୟ",
           "url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
-          "snapshot": "public/shishu/birthday_details-de2df616cc.html"
+          "snapshot": "public/birthday_details-de2df616cc.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-96ab8b2eb7.html",
-          "snapshot": "public/shishu/article_details-96ab8b2eb7.html"
+          "url": "https://shishukishora.com/article_details-96ab8b2eb7.html",
+          "snapshot": "public/article_details-96ab8b2eb7.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f26ac28596.html",
-          "snapshot": "public/shishu/article_details-f26ac28596.html"
+          "url": "https://shishukishora.com/article_details-f26ac28596.html",
+          "snapshot": "public/article_details-f26ac28596.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b70752bad1.html",
-          "snapshot": "public/shishu/article_details-b70752bad1.html"
+          "url": "https://shishukishora.com/article_details-b70752bad1.html",
+          "snapshot": "public/article_details-b70752bad1.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7ccee9e4b1.html",
-          "snapshot": "public/shishu/article_details-7ccee9e4b1.html"
+          "url": "https://shishukishora.com/article_details-7ccee9e4b1.html",
+          "snapshot": "public/article_details-7ccee9e4b1.html"
         }
       ],
       "identity": "Original named birthday biography anchors identity/portrait. Full-name 2024 poem signature gives Shahidnagar Government High School teaching role. Variant signature shares identical published professional contact; 2024 Bhala Manishate Hebi also gives same teaching role. Reuse verified portrait and add past-tense teaching detail; no route/contribution merge. Research directory and university bibliography checked; no unverified award or book-count added.",
       "mergedFrom": [
-        "/shishu/writers/9fb160aa710f.html",
-        "/shishu/writers/eceb568b07ba.html",
-        "/shishu/writers/3e60d30994d9.html"
+        "/writers/9fb160aa710f.html",
+        "/writers/eceb568b07ba.html",
+        "/writers/3e60d30994d9.html"
       ]
     },
     {
       "slug": "swarnalata-tripathy",
-      "route": "/shishu/writers/1928b5c64b0a.html",
+      "route": "/writers/1928b5c64b0a.html",
       "name": "ଡଃ ସ୍ବର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
       "role": "ଶିଶୁ କବିତାର ଲେଖକ ଓ ଶିକ୍ଷାବିତ",
       "bio": "ଡକ୍ଟର ସ୍ୱର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ ପିଲାଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ସେ ପୁରୀ ସଦର ବ୍ଲକ୍‌ରେ ମଣ୍ଡଳ ସହ ଶିକ୍ଷାଧିକାରୀ ଭାବେ କାମ କରି ଅବସର ନେଇଛନ୍ତି । ୨୦୧୨ ମସିହାରେ ସେ ଜାତୀୟ ଶିକ୍ଷକ ପୁରସ୍କାର ପାଇଥିଲେ । ତାଙ୍କ ‘ସୁଗୁଣ’ ଓ ‘ଉତ୍ତମ ଛାତ୍ର ଆଗାମୀ ଦିନର’ କବିତାରେ ସତ୍ୟ, ଦୟା, ପରୋପକାର ଓ ଭଲ ମଣିଷ ହେବାର କଥା ରହିଛି ।",
@@ -992,49 +992,49 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ସୁଗୁଣ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fb17c322cd.html"
+          "url": "https://shishukishora.com/article_details-fb17c322cd.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ଉତ୍ତମ ଛାତ୍ର ଆଗାମୀ ଦିନର",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a029824e94.html"
+          "url": "https://shishukishora.com/article_details-a029824e94.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a0537163a4.html",
-          "snapshot": "public/shishu/article_details-a0537163a4.html"
+          "url": "https://shishukishora.com/article_details-a0537163a4.html",
+          "snapshot": "public/article_details-a0537163a4.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ac4777362d.html",
-          "snapshot": "public/shishu/article_details-ac4777362d.html"
+          "url": "https://shishukishora.com/article_details-ac4777362d.html",
+          "snapshot": "public/article_details-ac4777362d.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-506bf49749.html",
-          "snapshot": "public/shishu/article_details-506bf49749.html"
+          "url": "https://shishukishora.com/article_details-506bf49749.html",
+          "snapshot": "public/article_details-506bf49749.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6eaf0de36f.html",
-          "snapshot": "public/shishu/article_details-6eaf0de36f.html"
+          "url": "https://shishukishora.com/article_details-6eaf0de36f.html",
+          "snapshot": "public/article_details-6eaf0de36f.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f18f55b901.html",
-          "snapshot": "public/shishu/article_details-f18f55b901.html"
+          "url": "https://shishukishora.com/article_details-f18f55b901.html",
+          "snapshot": "public/article_details-f18f55b901.html"
         }
       ],
       "identity": "All four distinct directory spellings have matching original signatures: assistant block education officer, Puri Sadar, Puri/Konark; multiple signatures explicitly say retired and presidential awardee. Named PATF member profile independently matches retired ABEO, Puri Sadar and supplies National Teacher Award (2012) and associated portrait. University botanist and other name-only results excluded. No routes merged. Poems read in full; literary theme sentence is grounded in their contents.",
       "mergedFrom": [
-        "/shishu/writers/c74768426438.html",
-        "/shishu/writers/53aa42b70560.html",
-        "/shishu/writers/5be77343df78.html",
-        "/shishu/writers/93d3aa4ff161.html"
+        "/writers/c74768426438.html",
+        "/writers/53aa42b70560.html",
+        "/writers/5be77343df78.html",
+        "/writers/93d3aa4ff161.html"
       ]
     },
     {
       "slug": "dr-rabinarayan-sahu",
-      "route": "/shishu/writers/06d2d2e22ec2.html",
+      "route": "/writers/06d2d2e22ec2.html",
       "name": "ଡକ୍ଟର ରବିନାରାୟଣ ସାହୁ",
       "portrait": null,
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ ଓ ସମ୍ପାଦକ",
@@ -1043,13 +1043,13 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ନୂଆ ସୂରୁଜଟି ହସେ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-589a3914a7.html",
-          "snapshot": "public/shishu/article_details-589a3914a7.html"
+          "url": "https://shishukishora.com/article_details-589a3914a7.html",
+          "snapshot": "public/article_details-589a3914a7.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ଲେଖକଙ୍କ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b208ef2172.html",
-          "snapshot": "public/shishu/article_details-b208ef2172.html"
+          "url": "https://shishukishora.com/article_details-b208ef2172.html",
+          "snapshot": "public/article_details-b208ef2172.html"
         },
         {
           "label": "ଓଡ଼ିଶା ନ୍ୟୁଜ୍ · ଶିଶୁ ପୁସ୍ତକ ଦିବସ",
@@ -1057,18 +1057,18 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା ଓ ପରିଚୟ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c9276efd44.html",
-          "snapshot": "public/shishu/article_details-c9276efd44.html"
+          "url": "https://shishukishora.com/article_details-c9276efd44.html",
+          "snapshot": "public/article_details-c9276efd44.html"
         }
       ],
       "identity": "Original Tiki Chadhei and Chhota Chhota signatures explicitly identify Kalamanika editor in Smruti Nagar, Bargarh, corroborating verified sibling profile and Odisha.News Shishushree account. No verified individually identified photograph; retain placeholder.",
       "mergedFrom": [
-        "/shishu/writers/e4d18d48489d.html"
+        "/writers/e4d18d48489d.html"
       ]
     },
     {
       "slug": "dash-benhur",
-      "route": "/shishu/writers/8d9480d84ea8.html",
+      "route": "/writers/8d9480d84ea8.html",
       "name": "ଦାଶ ବେନହୁର",
       "role": "ଶିଶୁ ସାହିତ୍ୟିକ",
       "bio": "ଦାଶ ବେନହୁର ହେଉଛି ଜିତେନ୍ଦ୍ର ନାରାୟଣ ଦାଶଙ୍କ ସାହିତ୍ୟିକ ନାମ । ଶିଶୁ ସାହିତ୍ୟକୁ ତାଙ୍କର ସାମଗ୍ରିକ ଅବଦାନ ପାଇଁ ସେ ୨୦୧୪ ମସିହାରେ ସାହିତ୍ୟ ଅକାଦେମିର ବାଳ ସାହିତ୍ୟ ପୁରସ୍କାର ପାଇଥିଲେ । ସେ ପୁରୀର ସାମନ୍ତ ଚନ୍ଦ୍ରଶେଖର କଲେଜର ଅଧ୍ୟକ୍ଷ ଭାବେ କାମ କରିଛନ୍ତି । ପିଲାଙ୍କ ପାଇଁ ଗପ, କବିତା ଓ ଛନ୍ଦମୟ ଗୀତ ଲେଖନ୍ତି ।",
@@ -1088,7 +1088,7 @@
     },
     {
       "slug": "dillip-kumar-sahu-village",
-      "route": "/shishu/writers/bb7df6043851.html",
+      "route": "/writers/bb7df6043851.html",
       "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଦିଲ୍ଲିପ କୁମାର ସାହୁଙ୍କ ‘ଏପଟରେ ବଣ ସେପଟରେ ବିଲ’ କବିତାରେ ଗାଁର ସ୍ମୃତି ଓ ଆପଣାପଣର କଥା ରହିଛି । ସହରରେ ରହୁଥିଲେ ମଧ୍ୟ ଗାଁର ମମତାକୁ ମନେ ପକାଉଥିବା ମଣିଷର ଭାବନା ଏଥିରେ ପ୍ରକାଶ ପାଇଛି ।",
@@ -1097,15 +1097,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4d7a278aa6.html",
-          "snapshot": "public/shishu/article_details-4d7a278aa6.html"
+          "url": "https://shishukishora.com/article_details-4d7a278aa6.html",
+          "snapshot": "public/article_details-4d7a278aa6.html"
         }
       ],
       "identity": "No locality/contact in original poem. English/Odia name searches show unrelated people and no reliable biography bridge. Do not merge spelling variant based on name alone. Poem narrator not treated as author biography. No verified portrait."
     },
     {
       "slug": "dilip-kumar-sahu",
-      "route": "/shishu/writers/17bad6eebece.html",
+      "route": "/writers/17bad6eebece.html",
       "name": "ଦିଲ୍ଲୀପ କୁମାର ସାହୁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଦିଲ୍ଲୀପ କୁମାର ସାହୁଙ୍କ ‘କାନ୍ଦେନି ବୋଉ’ କବିତାରେ ଦେଶ ପାଇଁ ଜୀବନ ଦେଇଥିବା ଜଣେ ସୈନିକଙ୍କୁ ମନେ ପକାଯାଇଛି । ପିଲାଟିର କଥା ମାଧ୍ୟମରେ ପରିବାରର ଦୁଃଖ ଓ ବାପାଙ୍କ ସାହସ ପ୍ରତି ସମ୍ମାନ ପ୍ରକାଶ ପାଇଛି ।",
@@ -1114,15 +1114,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-be53063c27.html",
-          "snapshot": "public/shishu/article_details-be53063c27.html"
+          "url": "https://shishukishora.com/article_details-be53063c27.html",
+          "snapshot": "public/article_details-be53063c27.html"
         }
       ],
       "identity": "Original poem has no identity bridge to external same-name people or the short-i spelling variant. Search returned namesakes; no biography or photo attributed. Fictional family not treated as personal history."
     },
     {
       "slug": "dinabandhu-kar",
-      "route": "/shishu/writers/8f595aa31265.html",
+      "route": "/writers/8f595aa31265.html",
       "name": "ଦୀନବନ୍ଧୁ କର",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଦୀନବନ୍ଧୁ କରଙ୍କ ‘ଗଛ ଜୀବନ ଧନ’ କବିତାରେ ଗଛକୁ ଆମର ବନ୍ଧୁ ବୋଲି କୁହାଯାଇଛି । ଗଛର ଉପକାର ମନେ ପକାଇ କବିତାଟି ପିଲାଙ୍କୁ ଗଛ ଲଗାଇବା ଓ ତାହାର ଯତ୍ନ ନେବାକୁ ଡାକେ ।",
@@ -1131,15 +1131,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-5cb13e99a9.html",
-          "snapshot": "public/shishu/article_details-5cb13e99a9.html"
+          "url": "https://shishukishora.com/article_details-5cb13e99a9.html",
+          "snapshot": "public/article_details-5cb13e99a9.html"
         }
       ],
       "identity": "Original Niladeipur Dharmasala Jajpur signature reviewed. Goodreads Sanskrit translator name has no locality/work bridge; not attributed. Targeted English/Odia searches found no verified biography/photo."
     },
     {
       "slug": "dinabandhu-poi",
-      "route": "/shishu/writers/88dee196240d.html",
+      "route": "/writers/88dee196240d.html",
       "name": "ଦୀନବନ୍ଧୁ ପୋଇ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଦୀନବନ୍ଧୁ ପୋଇଙ୍କ ‘ଜଳ ହିଁ ଜୀବନ’ କବିତାରେ ପାଣିର ଆବଶ୍ୟକତା ଓ ଗଛର ଉପକାର ବିଷୟରେ କୁହାଯାଇଛି । ପାଣି ନଷ୍ଟ ନ କରି ତାହାକୁ ସଞ୍ଚୟ କରିବାର ବାର୍ତ୍ତା ଏଥିରେ ରହିଛି ।",
@@ -1148,15 +1148,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-47428eabbe.html",
-          "snapshot": "public/shishu/article_details-47428eabbe.html"
+          "url": "https://shishukishora.com/article_details-47428eabbe.html",
+          "snapshot": "public/article_details-47428eabbe.html"
         }
       ],
       "identity": "Original Goradapal Karamul Mahimagadi Dhenkanal signature matches original site lemon poem. Independent biographical source/photo not found by targeted searches. Do not amplify health claims from lemon poem; introduction only describes water conservation poem."
     },
     {
       "slug": "debasish-chakraborty",
-      "route": "/shishu/writers/979836c3a0c2.html",
+      "route": "/writers/979836c3a0c2.html",
       "name": "ଦେବାଶିଷ ଚକ୍ରବର୍ତ୍ତୀ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଦେବାଶିଷ ଚକ୍ରବର୍ତ୍ତୀଙ୍କ ‘ଶରତ ଆସେ’ କବିତାରେ ଗଙ୍ଗଶିଉଳି, କାଶତଣ୍ଡୀ ଓ ନଈଝରଣାର ସୁନ୍ଦର ଛବି ରହିଛି । ଶରତ ଋତୁ ଓ ଦୁର୍ଗାପୂଜାର ଆନନ୍ଦକୁ କବିତାଟି ପିଲାଙ୍କ ପାଖରେ ପହଞ୍ଚାଏ ।",
@@ -1165,15 +1165,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-9f51557351.html",
-          "snapshot": "public/shishu/article_details-9f51557351.html"
+          "url": "https://shishukishora.com/article_details-9f51557351.html",
+          "snapshot": "public/article_details-9f51557351.html"
         }
       ],
       "identity": "Original Mandua Keonjhargarh signature matches separately indexed Raja poem. Government book list names Bigyana Jhalaka author but lacks locality bridge. No book, profession or portrait attributed."
     },
     {
       "slug": "devendra-choudhury",
-      "route": "/shishu/writers/ea266eb20316.html",
+      "route": "/writers/ea266eb20316.html",
       "name": "ଦେବେନ୍ଦ୍ର ଚୌଧୁରୀ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଦେବେନ୍ଦ୍ର ଚୌଧୁରୀଙ୍କ ‘ଗୁଡ଼ିରେ ଗୁଡ଼ି ଯା` ତୁ ଉଡ଼ି’ କବିତାରେ ଗୁଡ଼ି ଉଡ଼ାଇବାର ଖୁସି ରହିଛି । ଶୀତ ସକାଳର ଆକାଶରେ ଗୁଡ଼ିକୁ ଉଡ଼ାଇ ପିଲାଟି ତାହାକୁ ନିଜର ବନ୍ଧୁ ଭାବେ କଳ୍ପନା କରେ ।",
@@ -1182,15 +1182,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8407822a83.html",
-          "snapshot": "public/shishu/article_details-8407822a83.html"
+          "url": "https://shishukishora.com/article_details-8407822a83.html",
+          "snapshot": "public/article_details-8407822a83.html"
         }
       ],
       "identity": "Original Koelnagar Rourkela signature reviewed. Targeted English/Odia searches found no reliable biography/photo match; unrelated Gunupur cooperative official excluded."
     },
     {
       "slug": "dhananjay-swain",
-      "route": "/shishu/writers/a563e88779d8.html",
+      "route": "/writers/a563e88779d8.html",
       "name": "ଧନଞ୍ଜୟ ସ୍ୱାଇଁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଧନଞ୍ଜୟ ସ୍ୱାଇଁଙ୍କ କବିତାରେ ପିଲାଙ୍କ ଖେଳ, ପ୍ରକୃତି ଓ ଆମ ପର୍ବପର୍ବାଣିର କଥା ରହିଛି । ‘ଆ ରେ ବରଷା ଆ’ରେ ବର୍ଷାକୁ ଡକାଯାଇଛି । ‘ଜରି ଗୋଟାଳି ଝିଅ’ କବିତାଟି ସବୁ ପିଲାଙ୍କ ପାଠପଢ଼ା ଓ ପରସ୍ପରକୁ ସାହାଯ୍ୟ କରିବାର କଥା କହେ ।",
@@ -1199,25 +1199,25 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-13bdc17a3f.html",
-          "snapshot": "public/shishu/article_details-13bdc17a3f.html"
+          "url": "https://shishukishora.com/article_details-13bdc17a3f.html",
+          "snapshot": "public/article_details-13bdc17a3f.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-effb8b4d75.html",
-          "snapshot": "public/shishu/article_details-effb8b4d75.html"
+          "url": "https://shishukishora.com/article_details-effb8b4d75.html",
+          "snapshot": "public/article_details-effb8b4d75.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-167bddbf4f.html",
-          "snapshot": "public/shishu/article_details-167bddbf4f.html"
+          "url": "https://shishukishora.com/article_details-167bddbf4f.html",
+          "snapshot": "public/article_details-167bddbf4f.html"
         }
       ],
       "identity": "Three spelling variants share identical published contact in original poems effb8b4d75,167bddbf4f,13bdc17a3f, establishing same contributor. Merge authorized. Same-name lyricist/admin/award reports lack contact or original-work bridge; those career claims and images not attributed."
     },
     {
       "slug": "dhiren-mishra",
-      "route": "/shishu/writers/55f62a9245be.html",
+      "route": "/writers/55f62a9245be.html",
       "name": "ଧୀରେନ ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ଧୀରେନ ମିଶ୍ରଙ୍କ କବିତାରେ ମଜାଳିଆ ଛନ୍ଦ ଓ ପିଲାଙ୍କ କଳ୍ପନାର ଦୁନିଆ ରହିଛି । ‘ଚମ ଧୁଡୁଧୁଡୁ ଧାକୁଡି’ରେ ଗାଁର ଜୀବନକୁ ନେଇ ହସକଥା ରହିଛି । ‘ଝିଇକି ଝିକା’ କବିତାଟି ତ୍ରିରଙ୍ଗା ପତାକାକୁ ସମ୍ମାନ କରିବାର କଥା କହେ । ‘ଉକୁଡୁ - ମୁକୁଡୁ’ କବିତାରେ ପଶୁପକ୍ଷୀଙ୍କ ଡାକ ଓ ରେଳଗାଡ଼ିର ଶବ୍ଦକୁ ନେଇ ମଜାଳିଆ ଛନ୍ଦ ରହିଛି ।",
@@ -1226,25 +1226,25 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-edf4d84d52.html",
-          "snapshot": "public/shishu/article_details-edf4d84d52.html"
+          "url": "https://shishukishora.com/article_details-edf4d84d52.html",
+          "snapshot": "public/article_details-edf4d84d52.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ କବିତା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8aa5eed98d.html",
-          "snapshot": "public/shishu/article_details-8aa5eed98d.html"
+          "url": "https://shishukishora.com/article_details-8aa5eed98d.html",
+          "snapshot": "public/article_details-8aa5eed98d.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c419969d92.html",
-          "snapshot": "public/shishu/article_details-c419969d92.html"
+          "url": "https://shishukishora.com/article_details-c419969d92.html",
+          "snapshot": "public/article_details-c419969d92.html"
         }
       ],
       "identity": "Original poems edf4d84d52 and 8aa5eed98d have identical published contact after Odia numeral normalization, and the same Shushuda, Angul locality. Full-name and short-name profiles are the same contributor. English and Odia locality searches found no reliable additional biography or individual portrait. Namesake television/technical writers excluded. Full Ukudu Mukudu poem read. Exact published contact after numeral normalization and Shushuda Angul locality match canonical original poem. Honorific variant confirmed. Locality-focused Odia search found magazine writing but no reliable new biography or individual portrait."
     },
     {
       "slug": "nagendra-nath-pattanaik",
-      "route": "/shishu/writers/7202756cab09.html",
+      "route": "/writers/7202756cab09.html",
       "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ ଓଡ଼ିଶା ସରକାରଙ୍କ ପ୍ରାକ୍ତନ ଅତିରିକ୍ତ ଶାସନ ସଚିବ । ସେ ପିଲାଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ ‘ଜୀବନଟା ହେଉ ସରସା’ କବିତାରେ ସକାଳର ପ୍ରକୃତି ସହ ମିଳିମିଶି ଖୁସି ବାଣ୍ଟିବାର କଥା ରହିଛି ।",
@@ -1253,15 +1253,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f4035b8aaa.html",
-          "snapshot": "public/shishu/article_details-f4035b8aaa.html"
+          "url": "https://shishukishora.com/article_details-f4035b8aaa.html",
+          "snapshot": "public/article_details-f4035b8aaa.html"
         }
       ],
       "identity": "Career explicitly printed in original poem f4035b8aaa signature, same Bhubaneswar locality/contact as original article_cd=336. Name-only retailer Sadhusanthanka Kathamruta and Dharitri/StoryMirror bylines lack sufficient identity bridge; book and extra career details not attributed. No verified individual portrait."
     },
     {
       "slug": "natya-gourab-bibhuti-pattanaik",
-      "route": "/shishu/writers/45ab42330e07.html",
+      "route": "/writers/45ab42330e07.html",
       "name": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକଙ୍କ ‘ମୋ ଗାଁ’ କବିତାରେ ଗାଁ ପ୍ରତି ମମତାର ଛବି ରହିଛି । ନଈ, ଚାଷଜମି ଓ ବର୍ଷାଦିନର କଥା ସହ କଳା, ସାହିତ୍ୟ ଓ ସମାଜସେବାର ଭାବନା କବିତାଟିରେ ମିଳେ ।",
@@ -1270,15 +1270,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-332a4b92e5.html",
-          "snapshot": "public/shishu/article_details-332a4b92e5.html"
+          "url": "https://shishukishora.com/article_details-332a4b92e5.html",
+          "snapshot": "public/article_details-332a4b92e5.html"
         }
       ],
       "identity": "Original Mo Gan signature is Baidyanath Patna, Kanas, Puri. Targeted honorific/name and locality searches did not verify biography or photo. Famous novelist Bibhuti Patnaik has no demonstrated identity bridge; awards, birthdate and portrait excluded. Poem narrator not treated as biography."
     },
     {
       "slug": "niranjan-sahu",
-      "route": "/shishu/writers/4e1da9edfd0f.html",
+      "route": "/writers/4e1da9edfd0f.html",
       "name": "ନିରଞ୍ଜନ ସାହୁ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ନିରଞ୍ଜନ ସାହୁଙ୍କ ‘ଆମେ ଭାରତ ଶିଶୁ’ କବିତାରେ ଶାନ୍ତି, ସାହାଯ୍ୟ ଓ ଭଲ କାମର କଥା ରହିଛି । ପଡ଼ୋଶୀଙ୍କ ଦୁଃଖରେ ସାହା ହେବା ଓ ଗଛ ଲଗାଇବାକୁ କବିତାଟି ପିଲାଙ୍କୁ ଉତ୍ସାହ ଦିଏ ।",
@@ -1287,15 +1287,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-49d6d7fe5b.html",
-          "snapshot": "public/shishu/article_details-49d6d7fe5b.html"
+          "url": "https://shishukishora.com/article_details-49d6d7fe5b.html",
+          "snapshot": "public/article_details-49d6d7fe5b.html"
         }
       ],
       "identity": "Original signature Nadua, Keonjhar. Targeted Odia locality and English writer searches found same-name Antarangakalinga contributor and Jajpur publisher without identity bridge. No external career/books/photo attributed. Introduction restricted to read original poem."
     },
     {
       "slug": "nirakar-chaini",
-      "route": "/shishu/writers/908c7bf20e5b.html",
+      "route": "/writers/908c7bf20e5b.html",
       "name": "ନିରାକାର ଚଇନି",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ନିରାକାର ଚଇନି କେନ୍ଦୁଝରରେ ଶିକ୍ଷକ ଭାବେ କାମ କରନ୍ତି ଓ ପିଲାଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ ‘ଟିକି ବନ ଝରଣା’ କବିତାରେ ପାହାଡ଼ରୁ ବହିଆସୁଥିବା ଝରଣାଟି ପଶୁ, ପକ୍ଷୀ ଓ ଗଛଲତାଙ୍କ ସାଥୀ ହୋଇଛି ।",
@@ -1304,15 +1304,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b3e3566468.html",
-          "snapshot": "public/shishu/article_details-b3e3566468.html"
+          "url": "https://shishukishora.com/article_details-b3e3566468.html",
+          "snapshot": "public/article_details-b3e3566468.html"
         }
       ],
       "identity": "Original October 2025 poem explicitly identifies teacher at government primary school Subudhisahi, Jagamohanpur, Keonjhar. English and Odia name/locality searches found no reliable additional biography or individual photo. Public introduction includes only broad professional/locality detail, no contact or street information."
     },
     {
       "slug": "nirupama-kabi",
-      "route": "/shishu/writers/3bd88c1233b5.html",
+      "route": "/writers/3bd88c1233b5.html",
       "name": "ନିରୁପମା କବି",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ନିରୁପମା କବିଙ୍କ ‘ଆସିଛି ଆଷାଢ’ କବିତାରେ ବର୍ଷା ଆସିବାର ଆନନ୍ଦ ରହିଛି । ସବୁଜ ବନ ଓ ମେଘ ସହ ରଥଯାତ୍ରାର ପ୍ରସ୍ତୁତି ଓ ଭକ୍ତଙ୍କ ଖୁସି କବିତାଟିରେ ମିଳେ ।",
@@ -1321,15 +1321,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2dc5a25470.html",
-          "snapshot": "public/shishu/article_details-2dc5a25470.html"
+          "url": "https://shishukishora.com/article_details-2dc5a25470.html",
+          "snapshot": "public/article_details-2dc5a25470.html"
         }
       ],
       "identity": "Original poem signature Rairangpur. State bibliography search lists Kabi, Nirupama but PDF retrieval failed (502); no verified book/locality bridge. Three spelling variants lack matching signature/contact/work evidence, so kept separate. No biography facts or photograph inferred."
     },
     {
       "slug": "nilamani-chand",
-      "route": "/shishu/writers/ec4c0847b900.html",
+      "route": "/writers/ec4c0847b900.html",
       "name": "ନୀଳମଣି ଚାନ୍ଦ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ନୀଳମଣି ଚାନ୍ଦଙ୍କ ‘ଆମ ଘୋଷଯାତ’ କବିତାରେ ରଥଯାତ୍ରାର ଆନନ୍ଦ ଓ ତିନି ରଥର କଥା ରହିଛି । ‘ରଜ ପାଇଁ ଗୀତ’ରେ ପିଠା, ଦୋଳି ଓ ଖେଳ ମାଧ୍ୟମରେ ରଜପର୍ବର ଖୁସିକୁ ସେ ଆଙ୍କିଛନ୍ତି ।",
@@ -1338,8 +1338,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b8713f0925.html",
-          "snapshot": "public/shishu/article_details-b8713f0925.html"
+          "url": "https://shishukishora.com/article_details-b8713f0925.html",
+          "snapshot": "public/article_details-b8713f0925.html"
         },
         {
           "label": "ରଜ ପାଇଁ ଗୀତ · AIMA",
@@ -1350,7 +1350,7 @@
     },
     {
       "slug": "pandit-madhusudan-mishra",
-      "route": "/shishu/writers/a9b25ea481c8.html",
+      "route": "/writers/a9b25ea481c8.html",
       "name": "ପଣ୍ଡିତ ମଧୁସୂଦନ ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ପଣ୍ଡିତ ମଧୁସୂଦନ ମିଶ୍ରଙ୍କ ‘ସଂଖ୍ୟା ଗୀତ’ରେ ଛନ୍ଦରେ ଛନ୍ଦରେ ଏକରୁ ଦଶ ଗଣିବାର ମଜା ରହିଛି । ମିଳିମିଶି ରହିବା ଓ ସତ କଥା କହିବାର ଭାବନା ମଧ୍ୟ କବିତାଟିରେ ମିଳେ ।",
@@ -1359,15 +1359,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4d2710a10e.html",
-          "snapshot": "public/shishu/article_details-4d2710a10e.html"
+          "url": "https://shishukishora.com/article_details-4d2710a10e.html",
+          "snapshot": "public/article_details-4d2710a10e.html"
         }
       ],
       "identity": "Original Keonjhar signature read. Exact Odia honorific/name/locality and English searches found no identity-backed biography or portrait. Unrelated administrator, academic and legal namesakes excluded. Do not infer profession from Pandit title. Nutrition statements in poem not amplified in introduction."
     },
     {
       "slug": "purushottam-singh-samant",
-      "route": "/shishu/writers/7f0fa5526981.html",
+      "route": "/writers/7f0fa5526981.html",
       "name": "ପୁରୁଷୋତ୍ତମ ସିଂହ ସାମନ୍ତ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ପୁରୁଷୋତ୍ତମ ସିଂହ ସାମନ୍ତ ଅନୁଗୋଳର ଜଣେ ଶିକ୍ଷକ । ତାଙ୍କ ‘ଆସ ଆମେ ଶିଖିବା’ କବିତାରେ ପ୍ରକୃତିଠାରୁ ଭଲ ଗୁଣ ଶିଖିବାର କଥା ରହିଛି । ମହୁମାଛି, ପବନ ଓ ପାହାଡ଼ର ଉଦାହରଣରେ ପରିଶ୍ରମ, ସମତା ଓ ଧୈର୍ଯ୍ୟର ଭାବନା ମିଳେ ।",
@@ -1376,15 +1376,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fcb2dd4e51.html",
-          "snapshot": "public/shishu/article_details-fcb2dd4e51.html"
+          "url": "https://shishukishora.com/article_details-fcb2dd4e51.html",
+          "snapshot": "public/article_details-fcb2dd4e51.html"
         }
       ],
       "identity": "Original Asa Ame Sikhiba signature explicitly teacher, Sribihar Angul. Original Nua article_cd=317 corroborates same occupation/locality. No reliable external books/awards or individual portrait after Odia/English name searches. Public bio omits contact/address."
     },
     {
       "slug": "pushpalata-panigrahi",
-      "route": "/shishu/writers/56c301ef5582.html",
+      "route": "/writers/56c301ef5582.html",
       "name": "ପୁଷ୍ପଲତା ପାଣିଗ୍ରାହୀ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ପୁଷ୍ପଲତା ପାଣିଗ୍ରାହୀଙ୍କ ‘ସଵୁରି ହେବା ପ୍ରିୟ’ କବିତାରେ ଭଲ ମଣିଷ ହେବାର ଇଚ୍ଛା ରହିଛି । ଅସହାୟଙ୍କୁ ସାହାଯ୍ୟ କରିବା, ସତ କହିବା ଓ ମାତୃଭାଷାକୁ ଭଲ ପାଇବାର କଥା କବିତାଟି ପିଲାଙ୍କୁ କହେ ।",
@@ -1393,15 +1393,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-783.html",
-          "snapshot": "public/shishu/article-783.html"
+          "url": "https://shishukishora.com/article-783.html",
+          "snapshot": "public/article-783.html"
         }
       ],
       "identity": "Original October 2026 poem signed Sundargarh. Odia and English searches found same-name Ispat Sahitya Sansad award recipient, but no work/contact/locality-specific bridge beyond region. Award and photo not attributed; poem narrator not treated as biography."
     },
     {
       "slug": "pournna-masi-devi",
-      "route": "/shishu/writers/6789b0ad8e74.html",
+      "route": "/writers/6789b0ad8e74.html",
       "name": "ପୌର୍ଣ୍ଣ ମାସୀ ଦେବୀ",
       "role": "ପିଲାଙ୍କ କବିତା",
       "bio": "ପୌର୍ଣ୍ଣ ମାସୀ ଦେବୀଙ୍କ ‘ଗଛ ଲଗାଇବା -ଆଶିଷ ପାଇବା’ କବିତାରେ ଜଗନ୍ନାଥଙ୍କ ଦାରୁବିଗ୍ରହର କଥା ସହ ଗଛର ମହତ୍ତ୍ୱ ରହିଛି । ଗଛ ଲଗାଇବା ଓ ତାହାର ଯତ୍ନ ନେଇ ପରିବେଶକୁ ସୁସ୍ଥ ରଖିବାକୁ କବିତାଟି କହେ ।",
@@ -1410,15 +1410,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d60b8314ff.html",
-          "snapshot": "public/shishu/article_details-d60b8314ff.html"
+          "url": "https://shishukishora.com/article_details-d60b8314ff.html",
+          "snapshot": "public/article_details-d60b8314ff.html"
         }
       ],
       "identity": "Original January 2025 tree poem signed Puri only. Similar closed-spelling Pournamasi Devi contributor article_cd=327 has fuller Puri signature; same broad locality and name alone insufficient to merge this spaced profile. No identity-verified biography or photo in English/Odia searches; unrelated religious and historical namesakes excluded."
     },
     {
       "slug": "pournamasi-devi",
-      "route": "/shishu/writers/3463bd958459.html",
+      "route": "/writers/3463bd958459.html",
       "name": "ପୌର୍ଣ୍ଣମାସୀ ଦେବୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପୌର୍ଣ୍ଣମାସୀ ଦେବୀଙ୍କ ‘କହିଲେ ହେବ ସୁନା ପିଲା’ କବିତାରେ ଗପ ସହ ଗଣିତର ମଜା ରହିଛି । ହାଟରେ ପରିବା ବିକୁଥିବା ମାଉସୀଙ୍କ କଥା ଶୁଣି ପିଲାଏ ଭାଗ ଓ ଟଙ୍କାର ହିସାବ କରିପାରିବେ ।",
@@ -1427,15 +1427,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-dab2fabdcd.html",
-          "snapshot": "public/shishu/article_details-dab2fabdcd.html"
+          "url": "https://shishukishora.com/article_details-dab2fabdcd.html",
+          "snapshot": "public/article_details-dab2fabdcd.html"
         }
       ],
       "identity": "Read full market arithmetic poem and original Kuna O Prajapati article_cd=327 with Puri signature. Spaced Pournna Masi profile still lacks corroborating signature/contact; no merge. Commons Parichaya category names a photograph but individual page could not be retrieved and no link to this magazine contributor beyond name established. Retain placeholder."
     },
     {
       "slug": "prakash-chandra-dash",
-      "route": "/shishu/writers/63287addfe85.html",
+      "route": "/writers/63287addfe85.html",
       "name": "ପ୍ରକାଶ ଚନ୍ଦ୍ର ଦାଶ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରକାଶ ଚନ୍ଦ୍ର ଦାଶଙ୍କ ‘କାମରେ ଏବେଠୁ ଲାଗ’ କବିତାରେ ସମୟର ମୂଲ୍ୟ ଓ ପରିଶ୍ରମର କଥା ରହିଛି । ଅଳସୁଆ ହୋଇ ସମୟ ନଷ୍ଟ ନକରି ନିଜ କାମରେ ମନ ଦେବାକୁ କବିତାଟି କହେ ।",
@@ -1444,15 +1444,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f77b63536e.html",
-          "snapshot": "public/shishu/article_details-f77b63536e.html"
+          "url": "https://shishukishora.com/article_details-f77b63536e.html",
+          "snapshot": "public/article_details-f77b63536e.html"
         }
       ],
       "identity": "Original Kesura Bhubaneswar signature reviewed. English author search gives marketing academic and retailer listings, but no matching work or locality/contact bridge. Do not attach academic career, books or photograph. Targeted Odia locality search found no verified biography."
     },
     {
       "slug": "prafulla-kumar-sahu",
-      "route": "/shishu/writers/57b2cccb4266.html",
+      "route": "/writers/57b2cccb4266.html",
       "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁଙ୍କ ‘ମାଆ ଙ୍କ ସ୍ବାଗତ ପାଇଁ’ କବିତାରେ ଶରତ ଓ ଦଶହରାର ଆନନ୍ଦ ରହିଛି । କାଶତଣ୍ଡୀ, ସଜା ମଣ୍ଡପ ଓ ପରିବାର ସହ ପୂଜା ବୁଲିବାର ଛବି ମାଧ୍ୟମରେ ମିଳିମିଶି ପର୍ବ ପାଳିବାର କଥା ମିଳେ । ‘ଜଗତ ହିତରେ ଗଛ ଜୀବନ’ କବିତାରେ ଗଛର ଉପକାର ମନେ ପକାଇ ଚାରା ଲଗାଇବା ଓ ଯତ୍ନ ନେବାର କଥା କହିଛନ୍ତି ।",
@@ -1461,20 +1461,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-774.html",
-          "snapshot": "public/shishu/article-774.html"
+          "url": "https://shishukishora.com/article-774.html",
+          "snapshot": "public/article-774.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-01e9e2f545.html",
-          "snapshot": "public/shishu/article_details-01e9e2f545.html"
+          "url": "https://shishukishora.com/article_details-01e9e2f545.html",
+          "snapshot": "public/article_details-01e9e2f545.html"
         }
       ],
       "identity": "Original Shakti Vihar/Balipada Mahanga Cuttack signature. Local news names a Mahanga poet at events but no specific work/contact bridge or useful biography verified. Name alone insufficient for retailer author or individual/group photograph attribution; original poem introduction only. Full Jagata Hitare Gachha Jibana read. Exact published contact and named residence/Shakti Vihar Balipada Cuttack signature match original Maa nka Swagata Pain. Confirmed same writer. Same-name Utkal Prasanga contributor and newspaper items lack contact/work bridge; no books, awards or photo assigned."
     },
     {
       "slug": "professor-rekha-das",
-      "route": "/shishu/writers/33a8832ae9ee.html",
+      "route": "/writers/33a8832ae9ee.html",
       "name": "ପ୍ରଫେସର ରେଖା ଦାସ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରଫେସର ରେଖା ଦାସଙ୍କ ‘ବକ୍ସିଂ ଡେ’ ଲେଖାଟି ଏକ ପର୍ବର ନାମକୁ ନେଇ ପିଲାଙ୍କ ଜିଜ୍ଞାସାରୁ ଆରମ୍ଭ ହୋଇଛି । ଅନ୍ୟଙ୍କୁ ଉପହାର ଦେବା ଓ ଅସହାୟଙ୍କୁ ସାହାଯ୍ୟ କରିବାର ଆନନ୍ଦ ଏହାର ମୁଖ୍ୟ କଥା ।",
@@ -1483,15 +1483,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f25565a69a.html",
-          "snapshot": "public/shishu/article_details-f25565a69a.html"
+          "url": "https://shishukishora.com/article_details-f25565a69a.html",
+          "snapshot": "public/article_details-f25565a69a.html"
         }
       ],
       "identity": "Original article signed Sahidnagar Bhubaneswar. Academy report identifies Dr Rekha Das secretary and science work, but no exact address/work bridge to this contributor. Geography faculty, actress and Rashmi Rekha Das namesakes excluded. Retain source honorific without inferring institution or specialty. Historical dates in literary text not amplified. No portrait verified."
     },
     {
       "slug": "prabasini-mishra",
-      "route": "/shishu/writers/1f5f23903bf9.html",
+      "route": "/writers/1f5f23903bf9.html",
       "name": "ପ୍ରବାସିନୀ ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରବାସିନୀ ମିଶ୍ରଙ୍କ ‘ଆ...ଲୋ ବଣି ଆ’ ଗପରେ ଲିପୁ, ବଣି ଚଢ଼େଇ ଓ ନେଉଳର ବନ୍ଧୁତା ରହିଛି । ବିପଦ ବେଳେ ବୁଦ୍ଧି ଖଟାଇ ପରସ୍ପରକୁ ସାହାଯ୍ୟ କରିବାର କଥା ଗପଟି କହେ ।",
@@ -1500,15 +1500,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bd836ca791.html",
-          "snapshot": "public/shishu/article_details-bd836ca791.html"
+          "url": "https://shishukishora.com/article_details-bd836ca791.html",
+          "snapshot": "public/article_details-bd836ca791.html"
         }
       ],
       "identity": "Complete story read; original Sribihar Road Puri signature. Magazine Pari ra Piladina source also found. Commons Parichaya category lists named writer photo, but file page could not be retrieved and identity beyond name not corroborated. Keep placeholder; unrelated Prabasini Mahakud/Nanda and employment records excluded. No biography inferred from story characters."
     },
     {
       "slug": "prabhat-chandra-rath",
-      "route": "/shishu/writers/cfba3363dbbe.html",
+      "route": "/writers/cfba3363dbbe.html",
       "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷକ । ତାଙ୍କ ‘ଅଗଷ୍ଟ ପନ୍ଦର’ କବିତାରେ ଜାତୀୟ ପତାକା ଓ ସ୍ୱାଧୀନତା ଦିବସର ଆନନ୍ଦ ରହିଛି । ‘ବରଷା ତୁମେ ଆସୁନ କିଆଁ’ କବିତାରେ ଖରାରେ ଶୁଖିଯାଇଥିବା ମାଟି ଓ ଜୀବଜନ୍ତୁଙ୍କ ପାଇଁ ବରଷାକୁ ଡାକିଛନ୍ତି ।",
@@ -1517,35 +1517,35 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-407229d167.html",
-          "snapshot": "public/shishu/article_details-407229d167.html"
+          "url": "https://shishukishora.com/article_details-407229d167.html",
+          "snapshot": "public/article_details-407229d167.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7c62abbd0e.html",
-          "snapshot": "public/shishu/article_details-7c62abbd0e.html"
+          "url": "https://shishukishora.com/article_details-7c62abbd0e.html",
+          "snapshot": "public/article_details-7c62abbd0e.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b7686dc544.html",
-          "snapshot": "public/shishu/article_details-b7686dc544.html"
+          "url": "https://shishukishora.com/article_details-b7686dc544.html",
+          "snapshot": "public/article_details-b7686dc544.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f1069f43bd.html",
-          "snapshot": "public/shishu/article_details-f1069f43bd.html"
+          "url": "https://shishukishora.com/article_details-f1069f43bd.html",
+          "snapshot": "public/article_details-f1069f43bd.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d173e68918.html",
-          "snapshot": "public/shishu/article_details-d173e68918.html"
+          "url": "https://shishukishora.com/article_details-d173e68918.html",
+          "snapshot": "public/article_details-d173e68918.html"
         }
       ],
       "identity": "Original signature explicitly retired teacher, Satyabadi. Local news corroborates name, locality and occupation. Balangir teacher namesake excluded. Honorific variants c34b6668eb6e and b62d26b5f3be require complete contribution review before a merge; retained pending. No verified photograph. Rain and Sadhaba Bohu poems fully read. Sri variant matches canonical by exact published contact plus explicit retired-teacher occupation. Final-period variant has identical full name, honorific and retired-teacher Satyabadi signature as multiple canonical/honorific poems; consistent magazine identity. Corroborating local report identifies retired teacher at Satyabadi school; no unsupported current role, awards or photo added."
     },
     {
       "slug": "prabhat-nalini-sahu",
-      "route": "/shishu/writers/d75e5aefba14.html",
+      "route": "/writers/d75e5aefba14.html",
       "name": "ପ୍ରଭାତ ନଳିନୀ ସାହୁ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରଭାତ ନଳିନୀ ସାହୁଙ୍କ ‘ପାର୍ବଣ ପାର୍ବଣ ବାସିଲାଣି’ କବିତାରେ ଶରତର ରଙ୍ଗ ଓ ପୂଜାର ଆନନ୍ଦ ରହିଛି । କାଶତଣ୍ଡୀ, ଜହ୍ନିଫୁଲ ଓ ପଦ୍ମ ମାଧ୍ୟମରେ ମାଆ ଦୁର୍ଗାଙ୍କ ଆଗମନର ଛବି ଫୁଟିଉଠେ ।",
@@ -1554,15 +1554,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-784.html",
-          "snapshot": "public/shishu/article-784.html"
+          "url": "https://shishukishora.com/article-784.html",
+          "snapshot": "public/article-784.html"
         }
       ],
       "identity": "Original Pandab Nagar Tankapani Road Bhubaneswar signature. Odia Sahitya 2012 poem identifies same name in Rourkela, without identity bridge; no external biography or photo attached. Source-based literary introduction only."
     },
     {
       "slug": "prabhasini-barad",
-      "route": "/shishu/writers/37d0d83e9abc.html",
+      "route": "/writers/37d0d83e9abc.html",
       "name": "ପ୍ରଭାସିନୀ ବରାଡ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରଭାସିନୀ ବରାଡଙ୍କ ‘ଉଦ୍ୟମ କଲେ ସଫଳତା ମିଳେ’ ଗପରେ ପିଲାଙ୍କୁ ସମୟ ଓ ଉତ୍ସାହ ଦେବାର କଥା ରହିଛି । ପରିବାରର ସହଯୋଗ ଓ ନିଜ ଚେଷ୍ଟାରେ ଆଗକୁ ବଢ଼ିବାର ବାର୍ତ୍ତା ଗପଟି ଦିଏ ।",
@@ -1571,15 +1571,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c8a6c32f48.html",
-          "snapshot": "public/shishu/article_details-c8a6c32f48.html"
+          "url": "https://shishukishora.com/article_details-c8a6c32f48.html",
+          "snapshot": "public/article_details-c8a6c32f48.html"
         }
       ],
       "identity": "Full story read; Sribihar College Road Nayagarh signature. Dotted variant has only Nayagarh: no exact contact/work bridge. Book fair award same-name candidate and local event do not establish identity conclusively. No award or fictional collector career attributed; no merge/photo."
     },
     {
       "slug": "prabhasini-barada",
-      "route": "/shishu/writers/578096bf3439.html",
+      "route": "/writers/578096bf3439.html",
       "name": "ପ୍ରଭାସିନୀ ବରାଡ଼",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରଭାସିନୀ ବରାଡ଼ଙ୍କ ‘ମାଟିର ମଣି’ କବିତାରେ ଅଜା ଓ ପିଲାଙ୍କ କଥାବାର୍ତ୍ତା ମାଧ୍ୟମରେ ପଠାଣି ସାମନ୍ତଙ୍କ ପରିଚୟ ମିଳେ । ଆକାଶକୁ ଜାଣିବାର ଆଗ୍ରହ ଓ ବିଜ୍ଞାନର ଆଶ୍ଚର୍ଯ୍ୟ କବିତାଟିରେ ରହିଛି ।",
@@ -1588,15 +1588,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-84ef02031f.html",
-          "snapshot": "public/shishu/article_details-84ef02031f.html"
+          "url": "https://shishukishora.com/article_details-84ef02031f.html",
+          "snapshot": "public/article_details-84ef02031f.html"
         }
       ],
       "identity": "Full poem read; Nayagarh signature only. Keep separate from undotted profile pending stronger corroboration. Same-name award/book candidate not attributed; no verified photograph."
     },
     {
       "slug": "prashanta-kumar-dash",
-      "route": "/shishu/writers/d4a1c781b77f.html",
+      "route": "/writers/d4a1c781b77f.html",
       "name": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ ପିଲାଙ୍କ ପାଇଁ କବିତା ଓ ଗୀତ ଲେଖନ୍ତି । ‘କଣ୍ଢେଇ ଗାଉଛି ଗୀତ’, ‘ସୁନା ଚଢ଼େଇ ମୋ ରୁପା ଚଢ଼େଇ’ ଓ ‘ଫୁଲ ପାଇଁ ଗୀତଟିଏ’ ତାଙ୍କର କେତୋଟି ଶିଶୁକିଶୋର ପୁସ୍ତକ । ସେ ଆକାଶବାଣୀର କଟକ ଓ ପୁରୀ କେନ୍ଦ୍ରର ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ଗୀତିକାର ।",
@@ -1605,8 +1605,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-178dac6c0a.html",
-          "snapshot": "public/shishu/article_details-178dac6c0a.html"
+          "url": "https://shishukishora.com/article_details-178dac6c0a.html",
+          "snapshot": "public/article_details-178dac6c0a.html"
         },
         {
           "label": "ସତ୍ୟବାଦୀ · ଅଗଷ୍ଟ ୨୦୨୬ · ଲେଖକ ପରିଚୟ",
@@ -1621,7 +1621,7 @@
     },
     {
       "slug": "40eff86013b3",
-      "route": "/shishu/writers/40eff86013b3.html",
+      "route": "/writers/40eff86013b3.html",
       "name": "ବାଲ୍ମୀକି ପାତ୍ର",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ବାଲ୍ମୀକି ପାତ୍ରଙ୍କ ‘ଜୀବନ ନିଧି’ ଗପରେ ଗୋଟିଏ ଗଛକୁ ଘିରି ଗାଁର ସ୍ମୃତି ଓ ପକ୍ଷୀଙ୍କ ଜୀବନର କଥା ରହିଛି । ଗଛ ଲଗାଇବା ଓ ପ୍ରକୃତିର ଯତ୍ନ ନେବାକୁ ଗପଟି ପ୍ରେରଣା ଦିଏ ।",
@@ -1630,15 +1630,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8665ec3ad7.html",
-          "snapshot": "public/shishu/article_details-8665ec3ad7.html"
+          "url": "https://shishukishora.com/article_details-8665ec3ad7.html",
+          "snapshot": "public/article_details-8665ec3ad7.html"
         }
       ],
       "identity": "Full original story read. Academy member list names writer. Same-name LinkedIn reposts exact story but repost alone does not establish authorship or justify career/photo attribution. Writing-based introduction only."
     },
     {
       "slug": "5127a44ec63e",
-      "route": "/shishu/writers/5127a44ec63e.html",
+      "route": "/writers/5127a44ec63e.html",
       "name": "ବିଜୟ କୁମାର ଛାଟୋଇ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ବିଜୟ କୁମାର ଛାଟୋଇଙ୍କ ‘ଭାବର ଠାକୁର’ କବିତାରେ ଜଗନ୍ନାଥ ଓ ରଥଯାତ୍ରାର କଥା ରହିଛି । ସଭିଙ୍କୁ ସମାନ ଭାବେ ଦେଖିବା ଓ ମିଳିମିଶି ପର୍ବ ପାଳିବାର ଭାବ କବିତାଟିରେ ଫୁଟିଉଠେ । ‘ନୂଆ ଦେଶ ଗଢିବା’ କବିତାରେ ଭେଦଭାବ ଛାଡ଼ି ସମସ୍ତଙ୍କୁ ଆଦର କରିବା ଓ ପରର ଉପକାର କରିବାର କଥା ରହିଛି ।",
@@ -1647,20 +1647,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fdb3bea438.html",
-          "snapshot": "public/shishu/article_details-fdb3bea438.html"
+          "url": "https://shishukishora.com/article_details-fdb3bea438.html",
+          "snapshot": "public/article_details-fdb3bea438.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0189168c81.html",
-          "snapshot": "public/shishu/article_details-0189168c81.html"
+          "url": "https://shishukishora.com/article_details-0189168c81.html",
+          "snapshot": "public/article_details-0189168c81.html"
         }
       ],
       "identity": "Full original poem with Mahura Satyabadi Puri signature read. Name/locality search no reliable biography. Birthday advt109 is Paresh Pattanayak biography: Chhatoi only commenter. Dharitri hit about Ajay Mahapatra excluded. No inferred books/awards/portrait. Full Nua Desha Gadhiba read. Identical name except spacing/honorific and matching Mahura Satyabadi Puri original signature in both poems establishes contributor identity. No books/awards/photo inferred from name-only search hits."
     },
     {
       "slug": "9021c2a7b8a2",
-      "route": "/shishu/writers/9021c2a7b8a2.html",
+      "route": "/writers/9021c2a7b8a2.html",
       "name": "ବିଜୟ ଲଷ୍ମୀ ଚୌଧୁରୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ବିଜୟ ଲଷ୍ମୀ ଚୌଧୁରୀ ଜଣେ ଶିକ୍ଷୟିତ୍ରୀ । ତାଙ୍କ ‘ମ୍ୟାଜିକ ବୋତଲ’ ଗପରେ ଅନିଲ ନାମକ ପିଲାଟିର ମାଆଙ୍କ ପ୍ରତି ସ୍ନେହର କଥା ରହିଛି । ନିଜ ପାଇଁ କିଛି ନ ଚାହିଁ ଅନ୍ୟକୁ ଖୁସି ଦେବାରେ ଆନନ୍ଦ ମିଳେ ବୋଲି ଗପଟି କହେ ।",
@@ -1669,15 +1669,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e60776bfca.html",
-          "snapshot": "public/shishu/article_details-e60776bfca.html"
+          "url": "https://shishukishora.com/article_details-e60776bfca.html",
+          "snapshot": "public/article_details-e60776bfca.html"
         }
       ],
       "identity": "Full Magic Bottle story read; signature explicitly teacher DAV Public School Puri. Exact name/story and normalized-name searches no biography beyond original. Bijayalakshmi Patri and Bijay Choudhury unrelated results excluded. Keep spelling variant unmerged pending corroboration, photo placeholder."
     },
     {
       "slug": "92a6df756017",
-      "route": "/shishu/writers/92a6df756017.html",
+      "route": "/writers/92a6df756017.html",
       "name": "ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ ଜଣେ ଶିକ୍ଷୟିତ୍ରୀ । ତାଙ୍କ ‘ସ୍ୱପ୍ନ ଓ ଆତ୍ମବିଶ୍ୱାସ’ ଗପରେ ଗୋଟିଏ ଚାରାଗଛର ଯତ୍ନ ନେଇ ରଘୁ ନିଜ ଉପରେ ଭରସା କରିବା ଶିଖେ । ଚେଷ୍ଟା ଓ ଶିକ୍ଷା ମାଧ୍ୟମରେ ଆଗକୁ ବଢ଼ିବାର କଥା ଏହି ଗପଟି କହେ ।",
@@ -1686,15 +1686,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-905c491430.html",
-          "snapshot": "public/shishu/article_details-905c491430.html"
+          "url": "https://shishukishora.com/article_details-905c491430.html",
+          "snapshot": "public/article_details-905c491430.html"
         }
       ],
       "identity": "Original two stories read; teacher DAV Public School Puri explicitly signed. Similar 9021c2a7b8a2 spelling same school but contact differs final digit; no merge without corroboration. Actress-parent namesake excluded."
     },
     {
       "slug": "1b949512c327",
-      "route": "/shishu/writers/1b949512c327.html",
+      "route": "/writers/1b949512c327.html",
       "name": "ବିଜୟା ପାତ୍ର",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ବିଜୟା ପାତ୍ରଙ୍କ ‘ରଜ ଦୋଳି ଖେଳ ମଜା’ କବିତାରେ ଆମ୍ବ, ପଣସ, ନଡ଼ିଆ ଓ କଦଳୀ ମିଶି ଦୋଳି ଖେଳନ୍ତି । ଏହି ମଜାଳିଆ କଳ୍ପନା ସହ ‘ମାଆ ଆସେ’ କବିତାରେ ଶରତ ଓ ପୂଜାର ଆନନ୍ଦ ମିଳେ ।",
@@ -1703,20 +1703,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-3849b0c4d5.html",
-          "snapshot": "public/shishu/article_details-3849b0c4d5.html"
+          "url": "https://shishukishora.com/article_details-3849b0c4d5.html",
+          "snapshot": "public/article_details-3849b0c4d5.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମାଆ ଆସେ",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-767.html",
-          "snapshot": "public/shishu/article-767.html"
+          "url": "https://shishukishora.com/article-767.html",
+          "snapshot": "public/article-767.html"
         }
       ],
       "identity": "Full Raja poem and Maa Ase read: same exact published contact after numeral normalization and Bhubaneswar-2 locality. Confirmed two byline variants; merge into short-name profile. Book_cd48 names Dr Bijaya Patra(Swain), but no locality/contact bridge to doctor variants yet; book not attributed in this batch. No verified photo."
     },
     {
       "slug": "f6533f24d098",
-      "route": "/shishu/writers/f6533f24d098.html",
+      "route": "/writers/f6533f24d098.html",
       "name": "ବିଦ୍ୟୁତପ୍ରଭା ଦେଓ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ବିଦ୍ୟୁତପ୍ରଭା ଦେଓଙ୍କ ‘ଆମେରେ ଶିଶୁ’ କବିତାରେ ପିଲାଙ୍କ ଆଶା ଓ ଆଗକୁ ବଢ଼ିବାର ସ୍ୱପ୍ନ ରହିଛି । ଜ୍ଞାନ, ଶାନ୍ତି ଓ ମୈତ୍ରୀରେ ଦେଶକୁ ସୁନ୍ଦର କରିବାର କଥା କବିତାଟି କହେ ।",
@@ -1725,15 +1725,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-90a8a00000.html",
-          "snapshot": "public/shishu/article_details-90a8a00000.html"
+          "url": "https://shishukishora.com/article_details-90a8a00000.html",
+          "snapshot": "public/article_details-90a8a00000.html"
         }
       ],
       "identity": "Full original poem read; no locality or biographical signature. Exact Odia and split-name literary searches returned no reliable biography. Electoral records excluded without investigation or retention of personal data. Placeholder retained."
     },
     {
       "slug": "956ee9bbaa9a",
-      "route": "/shishu/writers/956ee9bbaa9a.html",
+      "route": "/writers/956ee9bbaa9a.html",
       "name": "ବିରଞ୍ଚି ନାରାୟଣ ଦାଶ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ବିରଞ୍ଚି ନାରାୟଣ ଦାଶ ‘ନିର୍ଝରିଣୀ’ର ସମ୍ପାଦକ । ତାଙ୍କ ‘ଗୋଟିଏ ପରିବାର’ କବିତାରେ ଭେଦଭାବ ଭୁଲି ମିଳିମିଶି ରହିବାର କଥା ରହିଛି । ଅନ୍ୟର ଦୁଃଖରେ ସାହାଯ୍ୟ କରିବା ଓ ଅହିଂସାକୁ ଆପଣେଇବାର ବାର୍ତ୍ତା କବିତାଟି ଦିଏ ।",
@@ -1742,15 +1742,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-81a1777e44.html",
-          "snapshot": "public/shishu/article_details-81a1777e44.html"
+          "url": "https://shishukishora.com/article_details-81a1777e44.html",
+          "snapshot": "public/article_details-81a1777e44.html"
         }
       ],
       "identity": "Original poem explicitly editor Nirjharini Kantabanji Balangir. Literary institution event search consistent but no new precise biography/photo verified. Publishers association namesake and temple-event namesake not attributed."
     },
     {
       "slug": "0da992c5b5cc",
-      "route": "/shishu/writers/0da992c5b5cc.html",
+      "route": "/writers/0da992c5b5cc.html",
       "name": "ମିନତି ପଟ୍ଟନାୟକ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ମିନତି ପଟ୍ଟନାୟକ ପିଲାଙ୍କ ପାଇଁ ଗପ ଓ କବିତା ଲେଖନ୍ତି । ସେ ପୁରୀର ଦତ୍ତତୋଟା ପ୍ରକଳ୍ପ ଉଚ୍ଚ ପ୍ରାଥମିକ ବିଦ୍ୟାଳୟର ପ୍ରଧାନ ଶିକ୍ଷୟିତ୍ରୀ ଭାବେ କାମ କରିଛନ୍ତି । ତାଙ୍କ ‘ବିଲୁଆ ବଡ଼ ଚତୁର’ ଗପରେ ପଶୁପକ୍ଷୀମାନେ ମିଳିମିଶି ଜଙ୍ଗଲର ନିଆଁ ଲିଭାନ୍ତି । ‘ଗଛ ଆମର ବନ୍ଧୁ’ କବିତାରେ ଗଛର ଯତ୍ନ ନେବାର ଆନନ୍ଦ ମିଳେ ।",
@@ -1759,13 +1759,13 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b8b213426c.html",
-          "snapshot": "public/shishu/article_details-b8b213426c.html"
+          "url": "https://shishukishora.com/article_details-b8b213426c.html",
+          "snapshot": "public/article_details-b8b213426c.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-78e27bee0d.html",
-          "snapshot": "public/shishu/article_details-78e27bee0d.html"
+          "url": "https://shishukishora.com/article_details-78e27bee0d.html",
+          "snapshot": "public/article_details-78e27bee0d.html"
         },
         {
           "label": "ଭାରତ ସରକାର · ଶିକ୍ଷକ ତାଲିକା",
@@ -1776,7 +1776,7 @@
     },
     {
       "slug": "7ae172e3d1b8",
-      "route": "/shishu/writers/7ae172e3d1b8.html",
+      "route": "/writers/7ae172e3d1b8.html",
       "name": "ରତ୍ନାକର ଦାସ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ରତ୍ନାକର ଦାସ ଶିଶୁ କିଶୋର ସାହିତ୍ୟ ଏକାଡେମିର ସଦସ୍ୟ । ସେ ପିଲାଙ୍କ ପାଇଁ ଗପ ଓ କବିତା ଲେଖନ୍ତି । ତାଙ୍କ ‘ହେବୁ ଜଗତଜିତା’ କବିତାରେ ଜେଜେମା ଓ ନାତୁଣୀଙ୍କ କଥାବାର୍ତ୍ତା ମାଧ୍ୟମରେ ବୁଦ୍ଧି ଖଟାଇ ଆଗକୁ ବଢ଼ିବାର ବାର୍ତ୍ତା ରହିଛି ।",
@@ -1785,8 +1785,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b05a795354.html",
-          "snapshot": "public/shishu/article_details-b05a795354.html"
+          "url": "https://shishukishora.com/article_details-b05a795354.html",
+          "snapshot": "public/article_details-b05a795354.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ଏକାଡେମି ପରିଚୟ",
@@ -1797,7 +1797,7 @@
     },
     {
       "slug": "accae4541e91",
-      "route": "/shishu/writers/accae4541e91.html",
+      "route": "/writers/accae4541e91.html",
       "name": "ରତ୍ନାକର ନାୟକ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ରତ୍ନାକର ନାୟକଙ୍କ କବିତାରେ ଗଛ, ଫୁଲ ଓ ପରିବେଶ ପ୍ରତି ଭଲପାଇବାର କଥା ମିଳେ । ‘ଟିକି ବଗିଚାର ଫୁଲ କଢ଼ି’ କବିତାରେ ପିଲାମାନେ ଗଛର ଯତ୍ନ ନେବାକୁ ଆଗେଇ ଆସନ୍ତି । ‘ଗଛ ପଚାରୁଛି କୁହ’ କବିତା ଗଛର ଉପକାର ମନେ ପକାଇ ଦିଏ ।",
@@ -1806,15 +1806,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-943d440ace.html",
-          "snapshot": "public/shishu/article_details-943d440ace.html"
+          "url": "https://shishukishora.com/article_details-943d440ace.html",
+          "snapshot": "public/article_details-943d440ace.html"
         }
       ],
       "identity": "All three original poems read; signatures Bhabanipur/Jaraka Dharmasala Jajpur. OdishaLIVE review of Pashupakhira Kahani names same author but no locality/contact bridge, so books not assigned. Reviewer Bhaskar Parichha is the journalist described at end, not Ratnakar. No verified photograph. Literary introduction only."
     },
     {
       "slug": "5721f5a8f48e",
-      "route": "/shishu/writers/5721f5a8f48e.html",
+      "route": "/writers/5721f5a8f48e.html",
       "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ ପିଲାଙ୍କ ପାଇଁ କବିତା ଓ ମଜାଳିଆ ଗପ ଲେଖନ୍ତି । ‘ପିଲାଟି ବୋଲି’ କବିତାରେ କାଗଜ ଚକିରୀ, ଡଙ୍ଗା ଓ ଉଡ଼ାଜାହାଜ ସହ ପିଲାଙ୍କ ବିଜ୍ଞାନ କଳ୍ପନା ଯୋଡ଼ି ହୋଇଛି । ‘ଚନ୍ଦାମାମୁଙ୍କର ରୋବଟ୍ ଡର’ ଗପରେ ଯନ୍ତ୍ରର ଭୁଲକୁ ନେଇ ହସର କାହାଣୀ ରହିଛି ।",
@@ -1823,15 +1823,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-aeee488b2e.html",
-          "snapshot": "public/shishu/article_details-aeee488b2e.html"
+          "url": "https://shishukishora.com/article_details-aeee488b2e.html",
+          "snapshot": "public/article_details-aeee488b2e.html"
         }
       ],
       "identity": "Full Pilati Boli and Chandamamu robot story read; latter signature Kabita Bhaban Jayadev Vihar Bhubaneswar. NBT catalogue and state bibliography list same-name translator/books, but independent work/contact identity bridge not established. LEISA PDF search snippet unreliable and mismatched contact, not used. No verified photo. Literary introduction only."
     },
     {
       "slug": "fba8a7194ce5",
-      "route": "/shishu/writers/fba8a7194ce5.html",
+      "route": "/writers/fba8a7194ce5.html",
       "name": "ରାଜଶ୍ରୀ ନନ୍ଦ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ରାଜଶ୍ରୀ ନନ୍ଦଙ୍କ ‘ମୋ ଗାଁ’ କବିତାରେ ସବୁଜ କ୍ଷେତ, ପକ୍ଷୀଙ୍କ ସ୍ୱର ଓ ଗାଁର ପର୍ବପର୍ବାଣିର ଛବି ରହିଛି । ଗାଁର ସ୍ନେହ ଓ ମିଳିମିଶି ରହିବାର ଆନନ୍ଦକୁ କବିତାଟି ମନେ ପକାଇ ଦିଏ ।",
@@ -1840,15 +1840,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e904ca66ec.html",
-          "snapshot": "public/shishu/article_details-e904ca66ec.html"
+          "url": "https://shishukishora.com/article_details-e904ca66ec.html",
+          "snapshot": "public/article_details-e904ca66ec.html"
         }
       ],
       "identity": "Full Mo Gan poem read with Bhubaneswar signature. Exact Odia name, poet and Shishira title searches yielded no verified biography or photograph. Other Nanda/Tripathy/Mahapatra namesakes excluded. Literary introduction only."
     },
     {
       "slug": "5642d255a831",
-      "route": "/shishu/writers/5642d255a831.html",
+      "route": "/writers/5642d255a831.html",
       "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଲକ୍ଷ୍ମୀଧର ନାୟକ ନୟାଗଡ଼ ଜିଲ୍ଲାର ବାଉଁଶିଆପଡ଼ାର ଶିଶୁ ସାହିତ୍ୟିକ । ତାଙ୍କ ପିଲାଙ୍କ ବହି ମଧ୍ୟରେ ‘ଆସରେ ମିତ ଗାଇବା ଗୀତ’, ‘ଗୀତ ମହକ’ ଓ ‘ଆମ ବଣରାଇଜର କାହାଣୀ’ ରହିଛି । ତାଙ୍କ ‘ବସନ୍ତ ରାଜା’ କବିତାରେ ଫୁଲ, ପକ୍ଷୀ ଓ ପ୍ରଜାପତି ସହ ବସନ୍ତର ସୌନ୍ଦର୍ଯ୍ୟ ଫୁଟିଉଠେ ।",
@@ -1861,8 +1861,8 @@
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d7466cb6dc.html",
-          "snapshot": "public/shishu/article_details-d7466cb6dc.html"
+          "url": "https://shishukishora.com/article_details-d7466cb6dc.html",
+          "snapshot": "public/article_details-d7466cb6dc.html"
         }
       ],
       "identity": "Original birthday biography advt248 matches original poem by exact published contact and Baunshiapada Nayagarh. Three book titles explicitly named. Distinguished from historical Lakshmidhar Nayak (1913–2004), Adisya author and scientific-officer namesakes. Named page photograph downloaded and visually checked: adult man, short black hair, blue checked shirt; Cartoon Natural portrait completed and visually compared with source; source/prompt/versioned files preserved.",
@@ -1870,7 +1870,7 @@
     },
     {
       "slug": "c213a7f6b400",
-      "route": "/shishu/writers/c213a7f6b400.html",
+      "route": "/writers/c213a7f6b400.html",
       "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସଙ୍କ ‘ନିଜଘର ସୁଖ କାହିଁ ନମିଳେ’ କବିତାରେ ଗୁଣ୍ଡୁଚି ଓ ବାୟା ଚଢ଼େଇର ମିଠା କଥାବାର୍ତ୍ତା ରହିଛି । ନିଜ ଘର ପ୍ରତି ଆଦର ଓ ପରସ୍ପରକୁ ଆପଣାର କରିବାର ଭାବ କବିତାଟିରେ ଫୁଟିଉଠେ ।",
@@ -1879,15 +1879,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-97c34aa887.html",
-          "snapshot": "public/shishu/article_details-97c34aa887.html"
+          "url": "https://shishukishora.com/article_details-97c34aa887.html",
+          "snapshot": "public/article_details-97c34aa887.html"
         }
       ],
       "identity": "Full Nijaghara Sukha and Kancha Lanka poems read; Sudarshan Nagar Puri signature. Odia/English name searches did not establish external biography or portrait. Dancer, scholarship and other namesakes excluded. Medical claims in chilli poem not amplified. Literary introduction only."
     },
     {
       "slug": "8cb35cfb3c53",
-      "route": "/shishu/writers/8cb35cfb3c53.html",
+      "route": "/writers/8cb35cfb3c53.html",
       "name": "ଲୀଳାବତୀ ପରିଡ଼ା",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଲୀଳାବତୀ ପରିଡ଼ାଙ୍କ ‘ଶୀତ ସକାଳ’ କବିତାରେ ଘରର ସକାଳ, ପାଠପଢ଼ା ଓ ପିଲାଙ୍କ ଖେଳର ଛବି ମିଳେ । କଅଁଳ ଖରାରେ ପାରାଙ୍କୁ ଚାଉଳ ଖୁଆଇବା ଓ ସେମାନଙ୍କ ଉଡ଼ିଯିବା ଦୃଶ୍ୟ କବିତାଟିକୁ ମଜାଳିଆ କରିଛି ।",
@@ -1896,15 +1896,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e25d1f3610.html",
-          "snapshot": "public/shishu/article_details-e25d1f3610.html"
+          "url": "https://shishukishora.com/article_details-e25d1f3610.html",
+          "snapshot": "public/article_details-e25d1f3610.html"
         }
       ],
       "identity": "Full Shita Sakala read; Kutunia/Babandha/Hindol Road Dhenkanal signature. Exact Odia and English searches found Vedanti July2022 same-name contributor; PDF fetch406 prevented identity comparison. No outside biography, photo or publication claim assigned. Literary introduction only."
     },
     {
       "slug": "a60e8eb19db8",
-      "route": "/shishu/writers/a60e8eb19db8.html",
+      "route": "/writers/a60e8eb19db8.html",
       "name": "ଶକୁନ୍ତଳା ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶକୁନ୍ତଳା ମିଶ୍ରଙ୍କ କବିତାରେ ଋତୁ, ପର୍ବ ଓ ପକ୍ଷୀଙ୍କ କଥା ମିଳେ । ‘ଶରତ ଆସେ’ କବିତା ଶରତର ଫୁଲ ଓ ପୂଜାର ଆନନ୍ଦକୁ ମନେ ପକାଏ । ‘ପକ୍ଷୀ ଆମର ପ୍ରିୟ’ କବିତାରେ ଅନ୍ଧବିଶ୍ୱାସ ଛାଡ଼ି ପକ୍ଷୀଙ୍କୁ ଭଲପାଇବା ଓ ସୁରକ୍ଷା ଦେବାର କଥା ରହିଛି ।",
@@ -1913,15 +1913,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-df9a1b8730.html",
-          "snapshot": "public/shishu/article_details-df9a1b8730.html"
+          "url": "https://shishukishora.com/article_details-df9a1b8730.html",
+          "snapshot": "public/article_details-df9a1b8730.html"
         }
       ],
       "identity": "Both full poems read. No distinguishing locality/contact signature. Original academy list has same name but insufficient identity bridge for membership claim. No external biography or portrait assigned. Literary introduction only."
     },
     {
       "slug": "d86d9d088679",
-      "route": "/shishu/writers/d86d9d088679.html",
+      "route": "/writers/d86d9d088679.html",
       "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ ପିଲାଙ୍କ ପାଇଁ କବିତା ଲେଖନ୍ତି । ‘ଵଳୁଆ ଯେ ଦୟାଳୁ ସେ’ କବିତାରେ ଚଢ଼େଇ, ପବନ ଓ ପାହାଡ଼ର କଥା ମାଧ୍ୟମରେ ଦୟାର ମହତ୍ତ୍ୱ ବୁଝାଇଛନ୍ତି । ‘ଓଲୁଅ କରିଲା ଓଲା’ କବିତାରେ ଜଣେ ପିଲାର ମଜାଳିଆ ଅନୁଭୂତି ଭଲଭାବେ ବୁଝି କାମ କରିବାକୁ ଶିଖାଏ ।",
@@ -1930,20 +1930,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2885fd48a5.html",
-          "snapshot": "public/shishu/article_details-2885fd48a5.html"
+          "url": "https://shishukishora.com/article_details-2885fd48a5.html",
+          "snapshot": "public/article_details-2885fd48a5.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2b3f842c49.html",
-          "snapshot": "public/shishu/article_details-2b3f842c49.html"
+          "url": "https://shishukishora.com/article_details-2b3f842c49.html",
+          "snapshot": "public/article_details-2b3f842c49.html"
         }
       ],
       "identity": "Full Olua Karila Ola, Shita Sakala and Balua Je Dayalu Se read. Original May2024 and May2026/Oct2025 signatures have identical published house identifier and Srivihar Patia Bhubaneswar locality despite orthographic variant; safe merge. Odia and English searches found no further verified biography or portrait. No private address repeated in new biography. Literary introduction only."
     },
     {
       "slug": "d6da7034de48",
-      "route": "/shishu/writers/d6da7034de48.html",
+      "route": "/writers/d6da7034de48.html",
       "name": "ଶିବ ପ୍ରସାଦ ସାହୁ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶିବ ପ୍ରସାଦ ସାହୁଙ୍କ ‘ନୁହେଁ କେ ଏକାପରି’ କବିତାରେ ବେଙ୍ଗ ଓ କାଉ ନିଜନିଜ ଗୁଣକୁ ନେଇ କଳି କରନ୍ତି । ଗଛଟି ସେମାନଙ୍କୁ ବୁଝାଏ ଯେ ସମସ୍ତଙ୍କର ଅଲଗା ଗୁଣ ଅଛି । ଗର୍ବ ଛାଡ଼ି ସାଙ୍ଗ ହୋଇ ରହିବାର କଥା କବିତାଟି କହେ ।",
@@ -1952,15 +1952,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-4de460f010.html",
-          "snapshot": "public/shishu/article_details-4de460f010.html"
+          "url": "https://shishukishora.com/article_details-4de460f010.html",
+          "snapshot": "public/article_details-4de460f010.html"
         }
       ],
       "identity": "Full Nuhein Ke Ekapari read; Gopinathpur Sahi Chandpur Nayagarh signature. Kunikatha July2023 publisher index names same author for Sakala Shakti Amara, but PDF fetch failed and no identity bridge established. Excluded Siba Prasad Dash/Rath and unrelated people. No outside biography or photo assigned. Literary introduction only."
     },
     {
       "slug": "ab1399b7121b",
-      "route": "/shishu/writers/ab1399b7121b.html",
+      "route": "/writers/ab1399b7121b.html",
       "name": "ଶୁଭନାରାୟଣ ଶତପଥୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶୁଭନାରାୟଣ ଶତପଥୀ ପିଲାଙ୍କ ପାଇଁ ଗପ ଲେଖନ୍ତି । ତାଙ୍କ ‘ସତ୍ୟର ଶକ୍ତି’ ଗପରେ ସତିଆର ସତ କହିବା ଅଭ୍ୟାସ ତା’ର ସାଙ୍ଗକୁ ନିଜ ଭୁଲ ମାନିବାକୁ ପ୍ରେରଣା ଦିଏ । ‘ଧରିତ୍ରୀ’ରେ ତାଙ୍କ ‘ସନ୍ତାନ ମନସ୍ତତ୍ତ୍ୱରେ ମାଆ’ ପ୍ରବନ୍ଧ ପ୍ରକାଶିତ ହୋଇଛି ।",
@@ -1969,8 +1969,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-ebb785a0d8.html",
-          "snapshot": "public/shishu/article_details-ebb785a0d8.html"
+          "url": "https://shishukishora.com/article_details-ebb785a0d8.html",
+          "snapshot": "public/article_details-ebb785a0d8.html"
         },
         {
           "label": "ଧରିତ୍ରୀ · ଲେଖକଙ୍କ ପ୍ରବନ୍ଧ",
@@ -1981,7 +1981,7 @@
     },
     {
       "slug": "bb6bd7814e9c",
-      "route": "/shishu/writers/bb6bd7814e9c.html",
+      "route": "/writers/bb6bd7814e9c.html",
       "name": "ଶ୍ରୀମତୀ ଜିବେ ଶ୍ୱରୀ ପଟେଲ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶ୍ରୀମତୀ ଜିବେ ଶ୍ୱରୀ ପଟେଲ ସୁନ୍ଦରଗଡ଼ ଜିଲ୍ଲାର ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ । ତାଙ୍କ ‘ଶିଶୁର ହସ’ କବିତାରେ ପିଲାଙ୍କ ହସ, ସ୍ୱପ୍ନ ଓ ସମ୍ଭାବନାର କଥା ରହିଛି । ପିଲାଙ୍କୁ ଆଦର ଓ ଉପଯୁକ୍ତ ଯତ୍ନ ଦେବାକୁ କବିତାଟି ମନେ ପକାଇଦିଏ ।",
@@ -1990,15 +1990,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f130cfcb1d.html",
-          "snapshot": "public/shishu/article_details-f130cfcb1d.html"
+          "url": "https://shishukishora.com/article_details-f130cfcb1d.html",
+          "snapshot": "public/article_details-f130cfcb1d.html"
         }
       ],
       "identity": "Full poem read. Original signature explicitly retired teacher, Sundargarh. It also says Governor-awarded but no award name/year independently verified, so omitted. Exact Odia/English searches found name-only literary event and unrelated legal records, not used for identity or private information. No verified photograph."
     },
     {
       "slug": "b03d843cd408",
-      "route": "/shishu/writers/b03d843cd408.html",
+      "route": "/writers/b03d843cd408.html",
       "name": "ଶ୍ରୀମତୀ ଜ୍ଯୋତ୍ସ୍ନା ସିଂହ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶ୍ରୀମତୀ ଜ୍ଯୋତ୍ସ୍ନା ସିଂହ କଟକ ଜିଲ୍ଲାର ନିଆଳୀର ଜଣେ ଅବସରପ୍ରାପ୍ତ ଶିକ୍ଷୟିତ୍ରୀ । ତାଙ୍କ ‘ପ୍ରକୃତ ସୁଖ’ ଗପରେ ଅନ୍ୟର ଉପକାର କରିବାର ଆନନ୍ଦ ରହିଛି । ଧନକୁ କେବଳ ସାଇତି ନ ରଖି ଲୋକଙ୍କ କାମରେ ଲଗାଇଲେ ପ୍ରକୃତ ସୁଖ ମିଳେ ବୋଲି ଗପଟି କହେ ।",
@@ -2007,15 +2007,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-7bc3ae51cd.html",
-          "snapshot": "public/shishu/article_details-7bc3ae51cd.html"
+          "url": "https://shishukishora.com/article_details-7bc3ae51cd.html",
+          "snapshot": "public/article_details-7bc3ae51cd.html"
         }
       ],
       "identity": "Full Prakruta Sukha story read across initial output and continuation. Original signature explicitly retired teacher Niali Cuttack; Panatakani appears below signature, insufficient to infer editor/role. Exact name and name+Niali searches found no verified extra biography or photo. Namesake poets excluded."
     },
     {
       "slug": "79403f37456a",
-      "route": "/shishu/writers/79403f37456a.html",
+      "route": "/writers/79403f37456a.html",
       "name": "ଶ୍ରୀମତୀ ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶ୍ରୀମତୀ ତନୟା ଦାସ ଗୋସ୍ୱାମୀଙ୍କ ‘ରଜମଉଜ’ କବିତାରେ ଦୋଳି, ପିଠାପଣା ଓ ସାଙ୍ଗମାନଙ୍କ ସହ ରଜ ପାଳିବାର ଆନନ୍ଦ ରହିଛି । ରାଗରୋଷ ଓ ଭେଦଭାବ ଭୁଲି ଏକାଠି ହେବାକୁ କବିତାଟି ଡାକ ଦିଏ ।",
@@ -2024,15 +2024,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-24cf0969a2.html",
-          "snapshot": "public/shishu/article_details-24cf0969a2.html"
+          "url": "https://shishukishora.com/article_details-24cf0969a2.html",
+          "snapshot": "public/article_details-24cf0969a2.html"
         }
       ],
       "identity": "Full Rajamauja poem read; no contact/locality signature. Academy membership list, government directory, cultural-event reports and Prananath Samman2021 news name Tanaya Das Goswami, but no exact work/contact bridge to this unsigned-location poem. Keep honorific profile separate from6bd0f39ff075; no award, organiser role or photo assigned. Literary introduction only."
     },
     {
       "slug": "c15042e65fc9",
-      "route": "/shishu/writers/c15042e65fc9.html",
+      "route": "/writers/c15042e65fc9.html",
       "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ରଙ୍କ ‘ତିନିମାଙ୍କଡ଼’ କବିତାରେ କୁନା ଓ ମୁନାଙ୍କ କଥାବାର୍ତ୍ତା ଭିତରେ ଗାନ୍ଧୀଜୀଙ୍କ ତିନି ମାଙ୍କଡ଼ର ବାର୍ତ୍ତା ରହିଛି । ଭଲ କଥା ଶୁଣିବା ଓ ମଧୁର କଥା କହିବାକୁ କବିତାଟି ପିଲାଙ୍କୁ ମନେ ପକାଇଦିଏ ।",
@@ -2041,15 +2041,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0e48ff4897.html",
-          "snapshot": "public/shishu/article_details-0e48ff4897.html"
+          "url": "https://shishukishora.com/article_details-0e48ff4897.html",
+          "snapshot": "public/article_details-0e48ff4897.html"
         }
       ],
       "identity": "Full Tini Mankada read; original signature Shiv Bhavan,Dolamandap Sahi,Puri. Nonhonorific a60e8eb19db8 poems df9a1b8730 and61c968b009 lack identifying signature; no merge on name alone. Exact name/title and name/Puri searches did not verify external biography or portrait. Literary introduction only."
     },
     {
       "slug": "bb30f47596f3",
-      "route": "/shishu/writers/bb30f47596f3.html",
+      "route": "/writers/bb30f47596f3.html",
       "name": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କା",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କାଙ୍କ ‘ଓହ କି ଖରା’ କବିତା ପରିବେଶର ଯତ୍ନ ନେବାକୁ ମନେ ପକାଇଦିଏ । ଗଛ କଟା ଓ ପ୍ରବଳ ଗରମର କଥା କହି କବିତାଟି ସଭିଙ୍କୁ ମିଶି ଗଛ ଲଗାଇବାକୁ ଡାକ ଦିଏ ।",
@@ -2058,15 +2058,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-720dfd70d7.html",
-          "snapshot": "public/shishu/article_details-720dfd70d7.html"
+          "url": "https://shishukishora.com/article_details-720dfd70d7.html",
+          "snapshot": "public/article_details-720dfd70d7.html"
         }
       ],
       "identity": "Full poem read; Khandagiri Vihar Kolathia Bhubaneswar signature. Search found same-name essay on Gopinath Mohanty in Utkal Prasanga Aug2019 pp62-63 and literary event report; no verified identity bridge. PDF text legacy font and screenshot cache miss, so no external essay attribution. No verified portrait. Poem introduction only; medical advice in poem not repeated as biography."
     },
     {
       "slug": "cfe3bf05e6dd",
-      "route": "/shishu/writers/cfe3bf05e6dd.html",
+      "route": "/writers/cfe3bf05e6dd.html",
       "name": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକଙ୍କ ‘ପ୍ରଜାପତି କଥା ଶୁଣିଲା’ ଗପରେ ସୁମନ ନାମର ପିଲାଟିଏ ନିଜ ବଗିଚାର ପ୍ରଜାପତିଙ୍କୁ ଦେଖି ଖୁସି ହୁଏ । ଫୁଲ, ପ୍ରଜାପତି ଓ ପରାଗଣର କଥା ଦେଇ ଗପଟି ପ୍ରକୃତି ପ୍ରତି ପିଲାଙ୍କ ଆଗ୍ରହ ବଢ଼ାଏ ।",
@@ -2075,15 +2075,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6a972dc850.html",
-          "snapshot": "public/shishu/article_details-6a972dc850.html"
+          "url": "https://shishukishora.com/article_details-6a972dc850.html",
+          "snapshot": "public/article_details-6a972dc850.html"
         }
       ],
       "identity": "Full story read; no identifying locality/contact signature. Own-story thank-you comment provides English spelling but is not independent identity proof. Exact Odia/English searches surfaced comments and a same-name government book-purchase list; no identity bridge to occupation/books/photo. Unrelated legal/household results excluded without opening. Literary introduction only."
     },
     {
       "slug": "957caf2186d7",
-      "route": "/shishu/writers/957caf2186d7.html",
+      "route": "/writers/957caf2186d7.html",
       "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି ଅନୁଗୋଳ ଜିଲ୍ଲାର କିଶୋରନଗର ପିଏମ୍ ଶ୍ରୀ ସରକାରୀ ଉଚ୍ଚ ବିଦ୍ୟାଳୟର ଜଣେ ଶିକ୍ଷକ । ତାଙ୍କ ‘ଗୁଣୁଗୁଣୁ - ଝୁଣୁଝୁଣୁ’ ଓ ‘ଟିନ୍ ଟିନ୍ ଟିନ୍’ କବିତାରେ ମଜାଦାର ଶବ୍ଦ ଓ ଛନ୍ଦର ଖେଳ ରହିଛି । ‘ହେଇ ପରା ପୁଷି ଆସୁଛି’ କବିତାରେ ବିଲେଇଟି ମୂଷାଙ୍କୁ ସାହାଯ୍ୟ କରେ । ସେ ଶିକ୍ଷା ବିଷୟରେ ପ୍ରବନ୍ଧ ମଧ୍ୟ ଲେଖନ୍ତି ।",
@@ -2092,18 +2092,18 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-49d2e30f0c.html",
-          "snapshot": "public/shishu/article_details-49d2e30f0c.html"
+          "url": "https://shishukishora.com/article_details-49d2e30f0c.html",
+          "snapshot": "public/article_details-49d2e30f0c.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-55dec52a56.html",
-          "snapshot": "public/shishu/article_details-55dec52a56.html"
+          "url": "https://shishukishora.com/article_details-55dec52a56.html",
+          "snapshot": "public/article_details-55dec52a56.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e2e6cb62bc.html",
-          "snapshot": "public/shishu/article_details-e2e6cb62bc.html"
+          "url": "https://shishukishora.com/article_details-e2e6cb62bc.html",
+          "snapshot": "public/article_details-e2e6cb62bc.html"
         },
         {
           "label": "ଧରିତ୍ରୀ · ଯୋଗ୍ୟତମ ଗୁରୁ",
@@ -2114,7 +2114,7 @@
     },
     {
       "slug": "cc748aac2f6e",
-      "route": "/shishu/writers/cc748aac2f6e.html",
+      "route": "/writers/cc748aac2f6e.html",
       "name": "ସତ୍ୟ ନାରାୟଣ ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସତ୍ୟ ନାରାୟଣ ମିଶ୍ରଙ୍କ ‘ବଳଠୁଁ ବୁଦ୍ଧି ବଡ’ କବିତାରେ ମାଛ ଖଣ୍ଡିଏ ପାଇଁ ବିଲେଇ, କୁକୁର ଓ କାଉଙ୍କ ମଜାଳିଆ କଥା ରହିଛି । ବଳ ସହିତ ବୁଦ୍ଧିର ମୂଲ୍ୟକୁ କବିତାଟି ପିଲାଙ୍କ ଆଗରେ ରଖେ ।",
@@ -2123,15 +2123,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-971f760855.html",
-          "snapshot": "public/shishu/article_details-971f760855.html"
+          "url": "https://shishukishora.com/article_details-971f760855.html",
+          "snapshot": "public/article_details-971f760855.html"
         }
       ],
       "identity": "Full poem read; signature Hrudapallaba,Gurubihar,Sarvodaya Nagar,Puri. Exact name/title, English name and Puri literary searches surfaced name-only award and library-book records and an archives official; no identity bridge. No award,book,profession or photo assigned; literary introduction only."
     },
     {
       "slug": "3dcbd369d7ea",
-      "route": "/shishu/writers/3dcbd369d7ea.html",
+      "route": "/writers/3dcbd369d7ea.html",
       "name": "ସନ୍ତୋଷ କୁମାର ସାହୁ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସନ୍ତୋଷ କୁମାର ସାହୁଙ୍କ ‘ତିନିଟି ଗଛ’ ଗପରେ ଆମ୍ବ, ପଣସ ଓ ଲିମ୍ବ ଗଛଙ୍କ ବନ୍ଧୁତାର କଥା ରହିଛି । ରୂପ ବା ଧନ ଅପେକ୍ଷା ଭଲପାଇବା ଓ ସାହାଯ୍ୟ କରିବାର ମନ ହିଁ ପ୍ରକୃତ ବନ୍ଧୁତାର ପରିଚୟ ବୋଲି ଗପଟି କହେ ।",
@@ -2140,15 +2140,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-16718b49d6.html",
-          "snapshot": "public/shishu/article_details-16718b49d6.html"
+          "url": "https://shishukishora.com/article_details-16718b49d6.html",
+          "snapshot": "public/article_details-16718b49d6.html"
         }
       ],
       "identity": "Full Tiniti Gachha read; no identifying signature. Exact Odia/English name and exact story searches found original article318 and multiple namesakes including academic,yoga-textbook author,politician and environmental volunteer. No shared work/contact/locality supports assigning their careers/photos. Literary introduction only."
     },
     {
       "slug": "sasmita-swain",
-      "route": "/shishu/writers/a0cccf418dd7.html",
+      "route": "/writers/a0cccf418dd7.html",
       "name": "ସସ୍ମିତା ସ୍ୱାଇଁ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସସ୍ମିତା ସ୍ୱାଇଁ ଖୋର୍ଦ୍ଧା ଜିଲ୍ଲାର ଶିଶିଲୋ ଗାଁର ଓଡ଼ିଆ ଶିଶୁ ସାହିତ୍ୟ ଲେଖିକା । ‘ଆମେ ଓଡ଼ିଆ’ର ପରିଚୟ ଅନୁସାରେ ସେ ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟରୁ ବିଜ୍ଞାନରେ ସ୍ନାତକ ହୋଇଛନ୍ତି । ତାଙ୍କ କବିତାରେ ପାଠପଢ଼ା, ପରିବାରର ସ୍ନେହ ଓ ପ୍ରକୃତିର କଥା ମିଳେ । ‘ପଇସା ଆଣିବ ଗଣିକି’ କବିତାରେ ହନୁ ଓ ବିଲୁଆଙ୍କ କଥା ଦେଇ ହିସାବ ରଖିବାର ମଜାଳିଆ ଶିକ୍ଷା ରହିଛି ।",
@@ -2157,23 +2157,23 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-27f98545b9.html",
-          "snapshot": "public/shishu/article_details-27f98545b9.html"
+          "url": "https://shishukishora.com/article_details-27f98545b9.html",
+          "snapshot": "public/article_details-27f98545b9.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-cc1080a355.html",
-          "snapshot": "public/shishu/article_details-cc1080a355.html"
+          "url": "https://shishukishora.com/article_details-cc1080a355.html",
+          "snapshot": "public/article_details-cc1080a355.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-bbda59174d.html",
-          "snapshot": "public/shishu/article_details-bbda59174d.html"
+          "url": "https://shishukishora.com/article_details-bbda59174d.html",
+          "snapshot": "public/article_details-bbda59174d.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-e5b440c678.html",
-          "snapshot": "public/shishu/article_details-e5b440c678.html"
+          "url": "https://shishukishora.com/article_details-e5b440c678.html",
+          "snapshot": "public/article_details-e5b440c678.html"
         },
         {
           "label": "ଆମେ ଓଡ଼ିଆ · ଲେଖିକାଙ୍କ ପରିଚୟ",
@@ -2185,7 +2185,7 @@
     },
     {
       "slug": "31e0b719b778",
-      "route": "/shishu/writers/31e0b719b778.html",
+      "route": "/writers/31e0b719b778.html",
       "name": "ସୁଜିତ କୁମାର ମିଶ୍ର",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସୁଜିତ କୁମାର ମିଶ୍ରଙ୍କ ‘ଧାଡି ଭାଙ୍ଗନି ପିମ୍ପୁଡ଼ି ପରି’ କବିତାରେ କୁନା ଓ ଜେଜେମାଆଙ୍କ କଥାବାର୍ତ୍ତା ରହିଛି । ପିମ୍ପୁଡ଼ିଙ୍କ ମିଳିମିଶି କାମ କରିବା ଦେଖି କୁନା ପରିଶ୍ରମ ଓ ଶୃଙ୍ଖଳାର ମୂଲ୍ୟ ବୁଝେ ।",
@@ -2194,15 +2194,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-36f8e845e8.html",
-          "snapshot": "public/shishu/article_details-36f8e845e8.html"
+          "url": "https://shishukishora.com/article_details-36f8e845e8.html",
+          "snapshot": "public/article_details-36f8e845e8.html"
         }
       ],
       "identity": "Full poem read; signature Janardanpur Sasan,Keonjhar. Exact Odia name and locality searches found shortened Sujit Mishra in Aahwaan February2024; no independent bridge to directory writer. No outside career,award or photo assigned."
     },
     {
       "slug": "681d1628c630",
-      "route": "/shishu/writers/681d1628c630.html",
+      "route": "/writers/681d1628c630.html",
       "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀଙ୍କ ‘ପଇସା ଗଛ’ ଗପରେ ବିଟୁର ନିରୀହ ଇଚ୍ଛା ଓ ଜେଜେମାଆଙ୍କ ପ୍ରତି ଭଲପାଇବାର କଥା ରହିଛି । ପରିବାରର ବଡ଼ମାନଙ୍କୁ ପାଖରେ ରଖି ଯତ୍ନ ନେବାର ମୂଲ୍ୟ ଗପଟି ମନେ ପକାଏ ।",
@@ -2211,15 +2211,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d5f019b2d1.html",
-          "snapshot": "public/shishu/article_details-d5f019b2d1.html"
+          "url": "https://shishukishora.com/article_details-d5f019b2d1.html",
+          "snapshot": "public/article_details-d5f019b2d1.html"
         }
       ],
       "identity": "Full story read; signature Salt Lake,Kolkata. Exact Odia spelling variants and English searches found Shubhapallaba named page and Aahwaan contributions. Shubhapallaba open returned no usable text; no independently verified Salt Lake or shared-work bridge. Literary introduction only; external biography and portrait unresolved."
     },
     {
       "slug": "809247c9a1cc",
-      "route": "/shishu/writers/809247c9a1cc.html",
+      "route": "/writers/809247c9a1cc.html",
       "name": "ସୁବାସିନୀ ଧଳ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସୁବାସିନୀ ଧଳଙ୍କ ‘ମାଆର ମମତା’ ଗପରେ ମୁନୁର ଏକୁଟିଆପଣ ଓ ପରିବାରର ସ୍ନେହ ପାଇବାର ଇଚ୍ଛା ରହିଛି । ପିଲାଙ୍କୁ ସମୟ ଦେବା, ସେମାନଙ୍କ କଥା ଶୁଣିବା ଓ ଯତ୍ନ ନେବା କେତେ ଜରୁରୀ, ଗପଟି ସେ କଥା ମନେ ପକାଏ । ‘ଵେଙ୍ଗୁଲୀ ବାହାଘର’ରେ ବର୍ଷା ଓ କାଗଜ ଡଙ୍ଗାକୁ ନେଇ ପିଲାଙ୍କ ଆନନ୍ଦର କଥା ରହିଛି ।",
@@ -2228,25 +2228,25 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a14288fce0.html",
-          "snapshot": "public/shishu/article_details-a14288fce0.html"
+          "url": "https://shishukishora.com/article_details-a14288fce0.html",
+          "snapshot": "public/article_details-a14288fce0.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-13107aa7f9.html",
-          "snapshot": "public/shishu/article_details-13107aa7f9.html"
+          "url": "https://shishukishora.com/article_details-13107aa7f9.html",
+          "snapshot": "public/article_details-13107aa7f9.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-520d3bae85.html",
-          "snapshot": "public/shishu/article_details-520d3bae85.html"
+          "url": "https://shishukishora.com/article_details-520d3bae85.html",
+          "snapshot": "public/article_details-520d3bae85.html"
         }
       ],
       "identity": "Full story read; signature Siddhamahavir Chhak,Puri. Odia full name with writer and English searches found academy listing but no independently matched career or photograph. Preserve spelling variants separately until corroborated. Literary introduction only. Subasini Dhal spelling variants confirmed by exact published contact in original Maa-ra Mamata a14288fce0(Puri) and Benguli Bahaghara13107aa7f9(Bhubaneswar). 520d3bae85 also Bhubaneswar. Name differs only ba/va spelling; exact contact bridges changed locality. Preserve all five works and original bylines; archive alias without redirect. No new external biography or portrait verified."
     },
     {
       "slug": "db792c256d76",
-      "route": "/shishu/writers/db792c256d76.html",
+      "route": "/writers/db792c256d76.html",
       "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆଙ୍କ ‘ରହିଯା ପରଜାପତି’ କବିତାରେ ଫୁଲ ବଗିଚା ଓ ପ୍ରଜାପତିର ରଙ୍ଗଭରା ଦୁନିଆ ରହିଛି । ଫୁଲଙ୍କ ମଝିରେ ରହିବାକୁ ପ୍ରଜାପତିକୁ ଡାକି କବିତାଟି ପିଲାଙ୍କୁ ପ୍ରକୃତିର ଆନନ୍ଦ ସହ ଯୋଡ଼େ ।",
@@ -2255,15 +2255,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0b73a3b02a.html",
-          "snapshot": "public/shishu/article_details-0b73a3b02a.html"
+          "url": "https://shishukishora.com/article_details-0b73a3b02a.html",
+          "snapshot": "public/article_details-0b73a3b02a.html"
         }
       ],
       "identity": "Full poem read; signature Dihadola,Parjang,Dhenkanal. Exact Odia and English name searches surfaced StoryMirror Kala Aloka, but open failed and no locality/shared-work bridge independently verified. No external photo or biography assigned."
     },
     {
       "slug": "369056700718",
-      "route": "/shishu/writers/369056700718.html",
+      "route": "/writers/369056700718.html",
       "name": "ସୁଲେଖା ସାମନ୍ତରାୟ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସୁଲେଖା ସାମନ୍ତରାୟଙ୍କ ‘ଜ୍ଞାନ ମନ୍ଦିରରେ ଶ୍ରମଦାନ’ ଗପରେ ବାତ୍ୟାରେ ଭାଙ୍ଗିଯାଇଥିବା ବିଦ୍ୟାଳୟକୁ ସଜାଡ଼ିବାର କଥା ରହିଛି । ଶିକ୍ଷକ ଓ ପିଲାମାନେ ମିଳିମିଶି କାମ କରି ଶ୍ରେଣୀଘର ଓ ବଗିଚାକୁ ପୁଣି ସୁନ୍ଦର କରନ୍ତି । ସହଯୋଗ ଓ ନିଜ ବିଦ୍ୟାଳୟ ପ୍ରତି ଯତ୍ନର ମୂଲ୍ୟ ଏହି ଗପରେ ଦେଖିବାକୁ ମିଳେ ।",
@@ -2272,20 +2272,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a556f2e474.html",
-          "snapshot": "public/shishu/article_details-a556f2e474.html"
+          "url": "https://shishukishora.com/article_details-a556f2e474.html",
+          "snapshot": "public/article_details-a556f2e474.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-2a9eb511e0.html",
-          "snapshot": "public/shishu/article_details-2a9eb511e0.html"
+          "url": "https://shishukishora.com/article_details-2a9eb511e0.html",
+          "snapshot": "public/article_details-2a9eb511e0.html"
         }
       ],
       "identity": "Two-part story read; signature IRC Village,Bhubaneswar. Exact Odia/English searches found PNCollege English lecturer,Melting Moments and Apasrustira Atmalipi. College page open403; name plus broad city does not establish identity. Books,career,awards and portrait withheld pending distinctive shared work/locality evidence. Literary introduction only."
     },
     {
       "slug": "2ce7bb2a72a7",
-      "route": "/shishu/writers/2ce7bb2a72a7.html",
+      "route": "/writers/2ce7bb2a72a7.html",
       "name": "ସୁଶାନ୍ତ କୁମାର ସାମଲ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସୁଶାନ୍ତ କୁମାର ସାମଲଙ୍କ ‘ପୁଣ୍ୟ କାର୍ତ୍ତିକ’ କବିତାରେ କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମା, ଡଙ୍ଗା ଭସା ଓ ସାଧବପୁଅଙ୍କ ସ୍ମୃତିର କଥା ରହିଛି । ‘ଶୀତକୁ କହିଲି ମୁହିଁ’ କବିତା ପ୍ରକୃତି ଓ ଗଛଲତାର ଯତ୍ନ ନେବାକୁ ମନେ ପକାଏ ।",
@@ -2294,20 +2294,20 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-d16cfd1112.html",
-          "snapshot": "public/shishu/article_details-d16cfd1112.html"
+          "url": "https://shishukishora.com/article_details-d16cfd1112.html",
+          "snapshot": "public/article_details-d16cfd1112.html"
         },
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-f8eff52561.html",
-          "snapshot": "public/shishu/article_details-f8eff52561.html"
+          "url": "https://shishukishora.com/article_details-f8eff52561.html",
+          "snapshot": "public/article_details-f8eff52561.html"
         }
       ],
       "identity": "Both available poems read; winter poem source ends in ellipsis, no missing text reconstructed. Punya Karttika signature Dayanadi Bihar,Bhubaneswar. Exact Odia/English/locality searches surfaced unrelated officials and real-estate namesakes; no independent literary identity or photo bridge. Work-based introduction only."
     },
     {
       "slug": "4ddae1ce7968",
-      "route": "/shishu/writers/4ddae1ce7968.html",
+      "route": "/writers/4ddae1ce7968.html",
       "name": "ସୁଶ୍ରୀ ସଂଯୁକ୍ତା ପରିଚ୍ଛା",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସଂଯୁକ୍ତା ପରିଚ୍ଛାଙ୍କ ‘ଟୁକୁନା ଋଷିଛି’ କବିତାରେ ପଶୁପକ୍ଷୀଙ୍କୁ ସାଙ୍ଗ ଭାବୁଥିବା ଟୁକୁନାର କଥା ରହିଛି । ଛେଳିଛୁଆଟିର ମୃତ୍ୟୁରେ ତା’ର ମନଦୁଃଖ ପିଲାଙ୍କ ଜୀବଦୟା ଓ କୋମଳ ମନକୁ ଦେଖାଏ ।",
@@ -2316,15 +2316,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-6635972a90.html",
-          "snapshot": "public/shishu/article_details-6635972a90.html"
+          "url": "https://shishukishora.com/article_details-6635972a90.html",
+          "snapshot": "public/article_details-6635972a90.html"
         }
       ],
       "identity": "Complete poem read; signature Patnagarh,Balangir. Original article362 confirms named byline and locality. Local literary-event reports name poet in Patnagarh; no need to add one-off attendance or assign unlabelled group photo. No career/book/award claim. Preserve earlier cb897d1577 concatenation anomaly separately."
     },
     {
       "slug": "53c5b3ec02e3",
-      "route": "/shishu/writers/53c5b3ec02e3.html",
+      "route": "/writers/53c5b3ec02e3.html",
       "name": "ସୁଶ୍ରୀ ସବିତା ଭୋଇ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସବିତା ଭୋଇଙ୍କୁ ‘ଶିଶୁ କିଶୋର’ରେ ପ୍ରକାଶିତ ମୂଳ ଲେଖାର ପରିଚୟରେ ‘ଇନ୍ଦ୍ରଧନୁ’ର ସଂପାଦିକା ଭାବେ ଉଲ୍ଲେଖ କରାଯାଇଛି । ତାଙ୍କ ‘ଦୂରରୁ ହୁଅ ଗେଲ’ କବିତାରେ ଆକ୍ଵାରିଅମର ମାଛ ଓ ବିଲେଇର ମଜାଳିଆ କଥାବାର୍ତ୍ତା ରହିଛି ।",
@@ -2333,15 +2333,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-fda5ac8695.html",
-          "snapshot": "public/shishu/article_details-fda5ac8695.html"
+          "url": "https://shishukishora.com/article_details-fda5ac8695.html",
+          "snapshot": "public/article_details-fda5ac8695.html"
         }
       ],
       "identity": "Full poem read; original explicitly identifies editor Indradhanu,Damkipali,Patnagarh,Balangir. Added attributed editorial role only. Sahitya Akademi2014 newsletter/annual report list Sabita Bhoi as Odia woman writer, but no locality/shared-work bridge verified; event and associated group photograph not assigned."
     },
     {
       "slug": "5c4b7e337fe1",
-      "route": "/shishu/writers/5c4b7e337fe1.html",
+      "route": "/writers/5c4b7e337fe1.html",
       "name": "ସ୍ନିଗ୍ଧା ନାୟକ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସ୍ନିଗ୍ଧା ନାୟକଙ୍କ ‘ବୁନ୍ଦି’ ଗପରେ ପାଣିବୁନ୍ଦାଟିଏ ଓ ରିଆର କଥା ରହିଛି । ଖୋଲା ନଳରୁ ପାଣି ନଷ୍ଟ ହେଉଥିବା ଦେଖି ରିଆ ତା’ର ଭୁଲ ସୁଧାରେ । ପାଣିକୁ ଯତ୍ନରେ ବ୍ୟବହାର କରିବାର ଛୋଟ ଛୋଟ ଅଭ୍ୟାସ ଗପଟି ପିଲାଙ୍କୁ ମନେ ପକାଏ ।",
@@ -2350,15 +2350,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-07746c741d.html",
-          "snapshot": "public/shishu/article_details-07746c741d.html"
+          "url": "https://shishukishora.com/article_details-07746c741d.html",
+          "snapshot": "public/article_details-07746c741d.html"
         }
       ],
       "identity": "Full Bundi read; original has contact but no locality. StoryMirror named Shikshita signature Kota,Rajasthan surfaced but page fetch failed and no shared contact/work verified. Multiple unrelated professional namesakes rejected. Literary introduction only; no location,career or portrait assigned."
     },
     {
       "slug": "35695eb8faa9",
-      "route": "/shishu/writers/35695eb8faa9.html",
+      "route": "/writers/35695eb8faa9.html",
       "name": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କାଙ୍କ ‘ମଶା ମାଛି’ ଗପରେ ରାଜୁ ମଶା ଓ ମାଛିଙ୍କ କଥା ଶୁଣେ । ଘରଦ୍ୱାର ସଫା ରଖିବାର ମୂଲ୍ୟ ବୁଝି ସେ ନିଜ ପରିବାର ସହ ଏହି କାମରେ ଲାଗିପଡ଼େ ।",
@@ -2367,15 +2367,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-a1d8fa353b.html",
-          "snapshot": "public/shishu/article_details-a1d8fa353b.html"
+          "url": "https://shishukishora.com/article_details-a1d8fa353b.html",
+          "snapshot": "public/article_details-a1d8fa353b.html"
         }
       ],
       "identity": "Complete story read; signature Jharpada,Bhubaneswar. Exact full-name search found SahityaCharcha book review but open failed; no matching locality or shared work independently established. No books,profession or photograph assigned."
     },
     {
       "slug": "95e30378a1ca",
-      "route": "/shishu/writers/95e30378a1ca.html",
+      "route": "/writers/95e30378a1ca.html",
       "name": "ହଂସନାଥ ମୁଦୁଲି",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ହଂସନାଥ ମୁଦୁଲି ଗୀତ, ଗପ ଓ ଶିଶୁ ସାହିତ୍ୟ ଲେଖନ୍ତି । ତାଙ୍କ ଶିଶୁ ପୁସ୍ତକ ମଧ୍ୟରେ ‘କାଗଜ ଡଙ୍ଗା’ ଓ ‘ଦୁନିଆ ପାରିବ ଦେଖି’ ରହିଛି । ତାଙ୍କ ‘ମୁଁ ପ୍ରକୃତିର ଫୁଲଟିଏ’ କବିତାରେ ଫୁଲର ରଙ୍ଗ, ସୁଗନ୍ଧ ଓ କୋମଳତା ଦେଇ ସଭିଙ୍କୁ ଆପଣାର କରିବାର କଥା ରହିଛି ।",
@@ -2384,8 +2384,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-15807c7ef4.html",
-          "snapshot": "public/shishu/article_details-15807c7ef4.html"
+          "url": "https://shishukishora.com/article_details-15807c7ef4.html",
+          "snapshot": "public/article_details-15807c7ef4.html"
         },
         {
           "label": "The Odisha Pride · ଲେଖକଙ୍କ ପରିଚୟ",
@@ -2396,7 +2396,7 @@
     },
     {
       "slug": "826c1453908c",
-      "route": "/shishu/writers/826c1453908c.html",
+      "route": "/writers/826c1453908c.html",
       "name": "ହରପ୍ରିୟା ରାଉତରାୟ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ହରପ୍ରିୟା ରାଉତରାୟଙ୍କ ‘ଘର’ କବିତାରେ ପରିବାରର ସ୍ନେହ ଓ ଏକାଠି ରହିବାର ଖୁସି ରହିଛି । ଜେଜେମାଆଙ୍କ ଗପ, ପାଠପଢ଼ା ଓ ଭାଇଭଉଣୀଙ୍କ ଖେଳ ଦେଇ କବିତାଟି ଘରର ଆପଣାପଣକୁ ମନେ ପକାଏ ।",
@@ -2405,15 +2405,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ଘର",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article-782.html",
-          "snapshot": "public/shishu/article-782.html"
+          "url": "https://shishukishora.com/article-782.html",
+          "snapshot": "public/article-782.html"
         }
       ],
       "identity": "Full Ghara article782 read; original signature contact only,no locality. Exact Odia and English name searches surfaced unrelated professional profiles, no distinctive match. Literary introduction only; no profession,location or photo assigned."
     },
     {
       "slug": "2eec0d5e026a",
-      "route": "/shishu/writers/2eec0d5e026a.html",
+      "route": "/writers/2eec0d5e026a.html",
       "name": "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀଙ୍କ ‘ଶୀତ ମାଉସୀ’ କବିତାରେ ଶୀତଦିନର ଫୁଲ, ଝୋଟି ଓ ପରିବା ଚାଷର କଥା ରହିଛି । ଶୀତକୁ ମାଉସୀ ଭାବେ ଡାକି କବିତାଟି ଋତୁର ଏକ ମଜାଳିଆ ପରିଚୟ ଦିଏ ।",
@@ -2422,15 +2422,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-b526dcfdac.html",
-          "snapshot": "public/shishu/article_details-b526dcfdac.html"
+          "url": "https://shishukishora.com/article_details-b526dcfdac.html",
+          "snapshot": "public/article_details-b526dcfdac.html"
         }
       ],
       "identity": "Complete poem read; no identifying signature. Exact Odia/English searches yielded no reliable independent author biography or named photograph. Work-grounded introduction only; spelling variants not merged."
     },
     {
       "slug": "9012bd18bab1",
-      "route": "/shishu/writers/9012bd18bab1.html",
+      "route": "/writers/9012bd18bab1.html",
       "name": "ହରି ପ୍ରିୟା ପଟ୍ଟନାୟକ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ହରି ପ୍ରିୟା ପଟ୍ଟନାୟକଙ୍କ ‘ମୂଷାଛୁଆର କରାମତି’ ଗପରେ ମୂଷାଛୁଆଟିଏ ନିଜ ବାପାମାଆଙ୍କୁ ବିପଦରୁ ବଞ୍ଚାଏ । ତା’ର ସାହସ ଓ ଠିକ୍ ସମୟରେ ବୁଦ୍ଧି ଖଟାଇବା ଗପଟିକୁ ରୋମାଞ୍ଚକର କରେ ।",
@@ -2439,15 +2439,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-c585fc853c.html",
-          "snapshot": "public/shishu/article_details-c585fc853c.html"
+          "url": "https://shishukishora.com/article_details-c585fc853c.html",
+          "snapshot": "public/article_details-c585fc853c.html"
         }
       ],
       "identity": "Complete story read; no identifying signature. Exact name and English searches found comments and name-only bibliography records but no shared contact,work or locality connecting to4fa2a98145f6 orcfe3bf05e6dd. Preserve separate profile; biography/photo and possible duplicate identity unresolved."
     },
     {
       "slug": "4fa2a98145f6",
-      "route": "/shishu/writers/4fa2a98145f6.html",
+      "route": "/writers/4fa2a98145f6.html",
       "name": "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକଙ୍କ ‘ଗୁଡ଼ି’ ଗପରେ ଛୋଟୁ ଓ ବିଶୁଙ୍କ ଖେଳ ଓ ବନ୍ଧୁତାର କଥା ରହିଛି । ବିଶୁ ଛୋଟୁର ଜେଜେଙ୍କୁ ସାହାଯ୍ୟ କରେ । ହାରଜିତରେ ରାଗ ରଖିବା ଅପେକ୍ଷା ପରସ୍ପରର ସାଙ୍ଗ ହୋଇ ରହିବାର ମୂଲ୍ୟ ଗପଟି ଦେଖାଏ ।",
@@ -2456,15 +2456,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-0c80175cc7.html",
-          "snapshot": "public/shishu/article_details-0c80175cc7.html"
+          "url": "https://shishukishora.com/article_details-0c80175cc7.html",
+          "snapshot": "public/article_details-0c80175cc7.html"
         }
       ],
       "identity": "Complete Gudi read including ending; no identifying signature. Same-name comments are not identity bridge. No corroborating source joins spacing variant9012bd18bab1 or orthographic variantcfe3bf05e6dd. Keep all issue contributions and separate identity; no name-only book/award/photo assigned."
     },
     {
       "slug": "08ddd798056f",
-      "route": "/shishu/writers/08ddd798056f.html",
+      "route": "/writers/08ddd798056f.html",
       "name": "ହରିହର ଶୁକ୍ଳ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ହରିହର ଶୁକ୍ଳଙ୍କ ‘ଫେରିଯିବି ପୁଣି ଗାଆଁକୁ’ କବିତାରେ ଗାଁର ପର୍ବ, ପ୍ରକୃତି, ଖାଦ୍ୟ ଓ ଲୋକଙ୍କ ସ୍ନେହର କଥା ରହିଛି । ଗାଁର ସ୍ମୃତି ଓ ମାଟି ପ୍ରତି ଆପଣାପଣ କବିତାଟିରେ ଫୁଟିଉଠେ ।",
@@ -2473,15 +2473,15 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-02f4127adc.html",
-          "snapshot": "public/shishu/article_details-02f4127adc.html"
+          "url": "https://shishukishora.com/article_details-02f4127adc.html",
+          "snapshot": "public/article_details-02f4127adc.html"
         }
       ],
       "identity": "Complete poem read. Original published contact matches OdishaBahareOdia2014 NewDelhi coordinator list; supports identity beyond name, but old coordinator post not useful current-role claim. NBT2025 catalogue translator name lacks further bridge, so translated book not assigned. No verified named photo."
     },
     {
       "slug": "0a644308bf04",
-      "route": "/shishu/writers/0a644308bf04.html",
+      "route": "/writers/0a644308bf04.html",
       "name": "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହ",
       "role": "ପିଲାଙ୍କ ପାଇଁ ଲେଖା",
       "bio": "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହଙ୍କ ‘ଭାରତୀୟ ଉଦ୍ଭାବନ କାହାଣୀ-୨ : ୟୁଏସ୍‌ବି’ ଲେଖା କମ୍ପ୍ୟୁଟର ସହ ବିଭିନ୍ନ ଉପକରଣକୁ ଯୋଡ଼ିବାର କଥା ବୁଝାଏ । ତାଙ୍କ ଲେଖା ପିଲାଙ୍କୁ ଦୈନନ୍ଦିନ ଜୀବନରେ ବ୍ୟବହୃତ ପ୍ରଯୁକ୍ତି ଓ ଉଦ୍ଭାବନ ବିଷୟରେ ଜାଣିବାକୁ ଆଗ୍ରହୀ କରେ ।",
@@ -2490,8 +2490,8 @@
       "sources": [
         {
           "label": "ଶିଶୁ କିଶୋର · ମୂଳ ଲେଖା",
-          "url": "https://sishu.kabitawithoutborders.org/shishu/article_details-8f14d630d4.html",
-          "snapshot": "public/shishu/article_details-8f14d630d4.html"
+          "url": "https://shishukishora.com/article_details-8f14d630d4.html",
+          "snapshot": "public/article_details-8f14d630d4.html"
         }
       ],
       "identity": "Complete USB article read; additional original SonalikaTractor signature Gurujang,Khordha. External IITlibrary PanipagaBigyan and Sakala science essays found; no shared work/contact/locality bridge verified during this review. Name-only teacher record excluded. Work-based introduction only; no external career,award,book or portrait assigned."

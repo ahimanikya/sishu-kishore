@@ -1,6 +1,6 @@
+/*
+  Cache-Control: public, max-age=0, must-revalidate
 /art/responsive/*
   Cache-Control: public, max-age=31536000, immutable
 /fonts/*.woff2
   Cache-Control: public, max-age=31536000, immutable
-/shishu/*
-  Cache-Control: public, max-age=0, must-revalidate

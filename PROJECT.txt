@@ -1,3 +1,5 @@
+Current routing (31 October 2026): The user requested removal of the legacy shishu directory. All magazine pages, editions, writers, books and review shells now publish directly at the site root. Never create public/shishu, public/sishu, dist/shishu or dist/sishu. The root 404 handler preserves known old page bookmarks using legacy-routes.json; removed character pages are not mapped. Keep private review boundaries and original literary text/scans unchanged. This supersedes earlier instructions to retain /shishu/ URLs as publication locations.
+
 Sishu Kishore — independent magazine repository
 
 Public reading pages, locally stored artwork, full Odia fonts, ebook scans and reviewed text. Shalandi storefront is excluded.

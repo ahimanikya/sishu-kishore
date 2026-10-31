@@ -1,17 +1,17 @@
 (()=>{
  const get=(k)=>{try{return localStorage.getItem(k)}catch{return null}},set=(k,v)=>{try{localStorage.setItem(k,String(v))}catch{}};
- document.querySelectorAll('[data-resume]').forEach(a=>{const n=Number(get('sishu-book-'+a.dataset.resume));if(n>1){a.href='/shishu/books/'+a.dataset.resume+'/page-'+n+'.html';a.hidden=false}});
+ document.querySelectorAll('[data-resume]').forEach(a=>{const n=Number(get('sishu-book-'+a.dataset.resume));if(n>1){a.href='/books/'+a.dataset.resume+'/page-'+n+'.html';a.hidden=false}});
  const root=document.querySelector('#book-reader');if(!root)return;
  const origin=window.SishuReaderReturn?.entry();if(origin)history.replaceState({...history.state,sishuReaderOrigin:origin},'');
  const exit=document.querySelector('.book-exit');if(origin&&exit){exit.href=origin.url;exit.addEventListener('click',e=>{if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();window.SishuReaderReturn.leave(origin);});}
  window.SishuPageSound?.mount(document.querySelector('.book-options'));
- window.SishuReaderSwitcher?.mount(document.querySelector('.book-options>div'),'/shishu/books/'+root.dataset.book+'/page-1.html',()=>origin||{url:exit.href,y:0});
+ window.SishuReaderSwitcher?.mount(document.querySelector('.book-options>div'),'/books/'+root.dataset.book+'/page-1.html',()=>origin||{url:exit.href,y:0});
  const odia=n=>String(n).replace(/[0-9]/g,d=>'୦୧୨୩୪୫୬୭୮୯'[Number(d)]);
  const slug=root.dataset.book,spread=document.querySelector('#book-spread'),jump=document.querySelector('#book-jump'),prev=document.querySelector('#book-prev'),next=document.querySelector('#book-next'),message=document.querySelector('#book-message');
  let current=Number(root.dataset.page),book,mode=get('sishu-reading-mode')||'original',size=Math.max(18,Math.min(34,Number(get('sishu-reading-size'))||24)),zoom=false;
  const mobile=matchMedia('(max-width:760px)');const modeControl=document.querySelector('#book-mode'),themeControl=document.querySelector('#book-theme');modeControl.value=mode;themeControl.value=get('sishu-reading-theme')||'paper';
  function surface(){document.body.dataset.theme=themeControl.value;document.documentElement.style.setProperty('--book-type',size+'px')};surface();
- const route=n=>'/shishu/books/'+slug+'/page-'+n+'.html';
+ const route=n=>'/books/'+slug+'/page-'+n+'.html';
  function leaf(p){const f=document.createElement('figure');f.className='book-leaf';if(mode==='text'&&p.text){const article=document.createElement('article');article.className='book-text '+(p.kind||'');p.text.split('\n\n').forEach(t=>{const para=document.createElement('p');para.textContent=t;article.append(para)});f.append(article)}else{const image=document.createElement('img');image.src=p.src;image.alt=book.title+' — ପୃଷ୍ଠା '+odia(p.page);image.decoding='async';if(p.width&&p.height){image.width=p.width;image.height=p.height}image.fetchPriority='high';f.append(image)}const caption=document.createElement('figcaption');caption.textContent=odia(p.page);f.append(caption);return f}
  function count(){return mode==='original'&&!mobile.matches&&!zoom&&current>1&&current<book.total?2:1}
  function render(push=false){if(!book)return;current=Math.max(1,Math.min(book.total,current));const n=count();spread.replaceChildren(...book.pages.slice(current-1,current-1+n).map(leaf));spread.classList.toggle('two-pages',n===2);spread.classList.toggle('zoomed',zoom);spread.classList.toggle('text-view',mode==='text');jump.value=String(current);prev.href=route(Math.max(1,current-(n===2?2:1)));next.href=route(Math.min(book.total,current+n));prev.setAttribute('aria-disabled',String(current===1));next.setAttribute('aria-disabled',String(current+n>book.total));message.hidden=!(mode==='text'&&!book.pages[current-1].text);message.textContent='ଏହି ପୃଷ୍ଠାର ପାଠ୍ୟ ଯାଞ୍ଚ ଚାଲିଛି। ଏବେ ମୂଳ ପୃଷ୍ଠା ପଢ଼ନ୍ତୁ।';set('sishu-book-'+slug,current);document.title=book.title+' · '+current;if(push){history.pushState({page:current,sishuReaderOrigin:origin},'',route(current));window.scrollTo({top:0,behavior:'instant'})}}
@@ -23,5 +23,5 @@
  document.querySelector('#book-zoom').addEventListener('click',e=>{zoom=!zoom;e.currentTarget.textContent=zoom?'ସାଧାରଣ ଆକାର':'ବଡ଼ କରି ଦେଖନ୍ତୁ';e.currentTarget.setAttribute('aria-pressed',String(zoom));render()});
  document.addEventListener('keydown',e=>{if(e.target.isContentEditable||['INPUT','SELECT','TEXTAREA','BUTTON','SUMMARY'].includes(e.target.tagName)||e.altKey||e.metaKey||e.ctrlKey)return;if(e.key==='ArrowRight'){e.preventDefault();next.click()}if(e.key==='ArrowLeft'){e.preventDefault();prev.click()}});
  window.addEventListener('popstate',()=>{const n=location.pathname.match(/page-(\d+)/);if(n){current=Number(n[1]);render()}});mobile.addEventListener('change',()=>render());
- fetch('/shishu/books/'+slug+'/book.json').then(r=>{if(!r.ok)throw Error('unavailable');return r.json()}).then(data=>{book=data;render()}).catch(()=>{message.hidden=false;message.textContent='ମୂଳ ପୃଷ୍ଠା ପଢ଼ନ୍ତୁ। ପର ପୃଷ୍ଠା ପାଇଁ ଲିଙ୍କ ବ୍ୟବହାର କରନ୍ତୁ।';document.querySelector('.book-options').hidden=true});
+ fetch('/books/'+slug+'/book.json').then(r=>{if(!r.ok)throw Error('unavailable');return r.json()}).then(data=>{book=data;render()}).catch(()=>{message.hidden=false;message.textContent='ମୂଳ ପୃଷ୍ଠା ପଢ଼ନ୍ତୁ। ପର ପୃଷ୍ଠା ପାଇଁ ଲିଙ୍କ ବ୍ୟବହାର କରନ୍ତୁ।';document.querySelector('.book-options').hidden=true});
 })();

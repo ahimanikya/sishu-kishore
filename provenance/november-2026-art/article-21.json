@@ -5,14 +5,14 @@
   "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: A visual poem about days, months and seasons: one continuous circular countryside landscape transitions through sunny fields, monsoon clouds, white autumn grasses, misty winter and spring flowers; two children explore with curiosity. No calendar numerals, labels, panels or text.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ଦିନ- ବାର, ଋତୁ-ମାସ. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\nସାତଟି ଦିନରେ ସପ୍ତାହ ହୁଏ\nସୁନ୍ଦର କେତେ ତା ନାମେ\nରବିବାର ଠାରୁ ଆରମ୍ଭ ହୁଅଇ \nଚାଲେ ନିତି ଅବିରାମେ l\nସୋମବାର ଆସେ ସକାଳକୁ ଘେନି \nମଙ୍ଗଳବାର ତା’ ପରେ,\nବୁଧବାର ଆସେ ହସି ହସି ପୁଣି \nଗୁରୁବାର ମନ ଭରେ।\nଶୁକ୍ରବାରର କୋଉତୁକ ଚାଲି \nଶନିବାର ମନ ମାରେ,\nସାତ ଦିନର ଗୋଲେଇ ଚକ୍ରିଟି \nଭେଟୁଥାଏ ନିତି ଘରେ l\n\nବାରଟି ମାସରେ ବରଷ ହୁଏ,\nକେତେ ରଙ୍ଗ ତା’ ଭିତରେ,\nବୈଶାଖ ଆଣେ ଗରମ ଖରା\nଜ୍ୟେଷ୍ଠ ଜଳେ ତା’ ସାଥିରେ।\nଆଷାଢ଼ ଆଣେ କଳାଧଳା ମେଘ\nଶ୍ରାବଣରେ ବହେ ଧାରା,\nଭାଦ୍ରବରେ ସାରା ସବୁଜ ଦିଶଇ \nକ୍ଷେତ ହୁଏ ମନଭରା।\nଆଶ୍ୱିନ ମାସରେ ଶାରଦୀୟ ପୂଜା,\nକାଶତଣ୍ଡୀ ମାରେ ହସ,\nକାର୍ତ୍ତିକ ମାସରେ ହବିଷ ପୂର୍ଣ୍ଣିମା \nପବିତ୍ର ହୁଏ ମୋ ଦେଶ।\nମାର୍ଗଶିର ମାସ ଧାନ ପେଣ୍ଡା ଧରେ \nପୌଷରେ କୁହୁଡ଼ି ଧୂଆଁ,\nମାଘମାସ ଆଣେ ମେଳାର ମେଲଣ \nଫଗୁଣରେ ଫୁଲ ଛୁଆଁ।\nଚୈତ୍ରମାସ ଆସି ବରଷକୁ ସାରେ \nବୈଶାଖ ପଛରେ ବସେ,\nବାର ମାସର ଏ ରଙ୍ଗୀନ ଚକ୍ରକୁ \nଦେଖି ଦେଖି ଧରା ହସେ।\n\nଛଅଟି ଋତୁରେ ଆମରି ଦେଶ \nପ୍ରକୃତିର ଛଅ ରୂପ,\nଗ୍ରୀଷ୍ମ, ବର୍ଷା ପରେ ଶରତ ଆସେ,\nହେମନ୍ତ ଦିଏ ସ୍ୱରୂପ।\nଶୀତ ଧୀରେ ଆସେ ଶିଶିରକୁ ନେଇ,\nବସନ୍ତ ଫୁଲ ଫୁଟାଏ,\nଛଅଟି ଋତୁର ଛଅଟି ଏ ରଙ୍ଗ,\nଜୀବନକୁ ମହକାଏ ।\nଦିନ–ବାର ସହ ମାସ–ଋତୁ\nପ୍ରକୃତିର  ଉପହାର,\nପୁଣି ସାଥେ ଆମ ପୃଥିବୀଟା ଘୂରେ \nଧରି ଜୀବନ ସଂସାର।",
   "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-294d6ac4-9e5f-47f2-983a-a10f827582d3.png",
   "original": "site/editorial-private/november-2026/art-originals/article-21-v1.png",
-  "asset": "/shishu/review/2026-11/assets/articles/article-21-v2.webp",
+  "asset": "/review/2026-11/assets/articles/article-21-v2.webp",
   "tool": "built-in image generation",
   "review": "Cartoon Natural / Odisha visual audit completed 2026-10-31; editor approval pending. Revise: snow, leafless winter trees and pink cherry orchard removed. Winter now mist, green kitchen garden and harvested stubble; spring red palash and mango blossom; six seasonal regions simplified.",
   "sha256": "ad5a990ec9e7df9297e5c3b428e721081aff0d6e2e95ec95d59fbabcf53fed87",
   "audit_history": [
     {
-      "previous_asset": "/shishu/review/2026-11/assets/articles/article-21-v1.webp",
-      "selected_asset": "/shishu/review/2026-11/assets/articles/article-21-v2.webp",
+      "previous_asset": "/review/2026-11/assets/articles/article-21-v1.webp",
+      "selected_asset": "/review/2026-11/assets/articles/article-21-v2.webp",
       "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-2205b582-3696-4ca4-9c07-3a74b14b5873.png",
       "original": "editorial-private/november-2026/art-originals/article-21-v2.png",
       "prompts": [

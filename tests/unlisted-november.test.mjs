@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const root=path.resolve('public');
-const prefix='/shishu/review/2026-11/';
+const prefix='/review/2026-11/';
 const dir=path.join(root,prefix);
 
 test('November review stays direct-link only and excludes private editorial material',()=>{
@@ -17,7 +17,7 @@ test('November review stays direct-link only and excludes private editorial mate
     assert.doesNotMatch(html,/editor-notes\.html|Article_Nov_26\.docx|editorial-private|Not published|Local review draft/);
     assert.match(html,/Editorial approval pending/);
   }
-  for(const file of ['index.html','shishu/current_issue.html','shishu/old_issues.html','sitemap.xml','content-index.json','edition-reader.json','reader-catalog.json']){
+  for(const file of ['index.html','current_issue.html','old_issues.html','sitemap.xml','content-index.json','edition-reader.json','reader-catalog.json']){
     assert.ok(!fs.readFileSync(path.join(root,file),'utf8').includes(prefix),file);
   }
   assert.ok(!fs.existsSync(path.join(dir,'editor-notes.html')));

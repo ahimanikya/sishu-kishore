@@ -6,9 +6,9 @@ test('approved article joins reader/discovery; withdrawal removes every generate
   for(const part of ['public','scripts','provenance'])fs.cpSync(path.join(repo,part),path.join(dir,part),{recursive:true});
   fs.copyFileSync(path.join(repo,'package.json'),path.join(dir,'package.json'));
   const cfg=JSON.parse(fs.readFileSync(path.join(dir,'scripts/site.json'))),id='ReleaseCheck12345678';
-  const route=`/shishu/published/${id}.html`,fixture=path.join(dir,'fixture.json');
-  const original=fs.readFileSync(path.join(dir,'public/shishu/article-790.html'),'utf8');
-  const issue=fs.readFileSync(path.join(dir,'public/shishu/current_issue.html'),'utf8').match(/data-reading-issue="([^"]+)"/)[1];
+  const route=`/published/${id}.html`,fixture=path.join(dir,'fixture.json');
+  const original=fs.readFileSync(path.join(dir,'public/article-790.html'),'utf8');
+  const issue=fs.readFileSync(path.join(dir,'public/current_issue.html'),'utf8').match(/data-reading-issue="([^"]+)"/)[1];
   const record={id,kind:'article',title:'Review fixture',body:'First paragraph.\n\nSecond paragraph.',byline:'Release fixture',issue,page:'',image:cfg.fallback,state:'published',publishedAt:'2026-10-10T00:00:00Z'};
   const run=items=>{
    fs.writeFileSync(fixture,JSON.stringify(items));
@@ -23,13 +23,13 @@ test('approved article joins reader/discovery; withdrawal removes every generate
   assert.ok(JSON.parse(fs.readFileSync(path.join(dir,'public/content-index.json'))).articles.some(i=>i.url===cfg.origin+route));
   assert.ok(fs.existsSync(path.join(dir,`public/reading-text/${id}.txt`)));
   assert.ok(fs.readFileSync(path.join(dir,'public/index.html'),'utf8').includes('Published writing →'));
-  assert.ok(!fs.readFileSync(path.join(dir,'public/shishu/index.html'),'utf8').includes('Published writing →'));
+  assert.ok(!fs.existsSync(path.join(dir,'public/shishu')));
   run([{...record,state:'withdrawn'}]);
   assert.ok(!fs.existsSync(path.join(dir,'public',route)));
   assert.ok(!fs.existsSync(path.join(dir,`public/reading-text/${id}.txt`)));
   assert.ok(!catalog()[issue].items.some(i=>i.href===route));
   assert.ok(!fs.readFileSync(path.join(dir,'public/sitemap.xml'),'utf8').includes(route));
-  assert.ok(!fs.readFileSync(path.join(dir,'public/shishu/current_issue.html'),'utf8').includes(route));
-  assert.equal(fs.readFileSync(path.join(dir,'public/shishu/article-790.html'),'utf8'),original);
+  assert.ok(!fs.readFileSync(path.join(dir,'public/current_issue.html'),'utf8').includes(route));
+  assert.equal(fs.readFileSync(path.join(dir,'public/article-790.html'),'utf8'),original);
  }finally{fs.rmSync(dir,{recursive:true,force:true});}
 });

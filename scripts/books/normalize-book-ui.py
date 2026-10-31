@@ -5,13 +5,13 @@ import json,re
 R=Path(__file__).resolve().parents[2];P=R/'public'
 review_metadata=json.loads((R/'scripts/books/review-metadata.json').read_text())
 configs={
- 'ketejami_loda':('/shishu/books/ketejami_loda/illustrated.html','/shishu/books/ketejami_loda/kete-jami-loda-illustrated.pdf','/shishu/books/ketejami_loda/proofread.html'),
- 'musha_mushi':('/shishu/books/musha_mushi/illustrated.html','/shishu/books/musha_mushi/musha-mushi-illustrated.pdf','/shishu/books/musha_mushi/proofread.html'),
- 'forest':('/shishu/books/paresh/forest.html','/shishu/books/paresh/downloads/banaraijar-kahani-illustrated.pdf','/shishu/books/paresh/forest-proofread.html'),
- 'frog':('/shishu/books/paresh/frog.html','/shishu/books/paresh/downloads/frog-and-the-mouse-illustrated.pdf','/shishu/books/paresh/frog-proofread.html'),
- 'dakuchhi_gaon':('/shishu/books/dakuchhi_gaon/page-1.html',None,None)}
-source_pdfs={'forest':'/shishu/books/paresh/assets/forest-original.pdf','frog':'/shishu/books/paresh/assets/frog-original.pdf','ketejami_loda':'/shishu/books/ketejami_loda/kete-jami-loda-original.pdf','musha_mushi':'/shishu/books/musha_mushi/musha-mushi-original.pdf'}
-files=list((P/'shishu/books').rglob('*.html'))+list((P/'shishu').glob('e_library-*.html'))
+ 'ketejami_loda':('/books/ketejami_loda/illustrated.html','/books/ketejami_loda/kete-jami-loda-illustrated.pdf','/books/ketejami_loda/proofread.html'),
+ 'musha_mushi':('/books/musha_mushi/illustrated.html','/books/musha_mushi/musha-mushi-illustrated.pdf','/books/musha_mushi/proofread.html'),
+ 'forest':('/books/paresh/forest.html','/books/paresh/downloads/banaraijar-kahani-illustrated.pdf','/books/paresh/forest-proofread.html'),
+ 'frog':('/books/paresh/frog.html','/books/paresh/downloads/frog-and-the-mouse-illustrated.pdf','/books/paresh/frog-proofread.html'),
+ 'dakuchhi_gaon':('/books/dakuchhi_gaon/page-1.html',None,None)}
+source_pdfs={'forest':'/books/paresh/assets/forest-original.pdf','frog':'/books/paresh/assets/frog-original.pdf','ketejami_loda':'/books/ketejami_loda/kete-jami-loda-original.pdf','musha_mushi':'/books/musha_mushi/musha-mushi-original.pdf'}
+files=list((P/'books').rglob('*.html'))+list(P.glob('e_library-*.html'))
 for path in files:
  route='/'+path.relative_to(P).as_posix();s=BeautifulSoup(path.read_text(),'html.parser')
  if not s.body:continue
@@ -34,7 +34,7 @@ for path in files:
  for x in s.select('.book-explanation'):
   text=x.get_text();text=re.sub(r'\s*·\s*(?:ଲେଖକଙ୍କ\s*)?ପ୍ରୁଫ୍‌.*$','',text);x.string=text
  for x in s.select('.book-note'):x.decompose()
- header=s.new_tag('header',attrs={'class':'book-site-header'});back=s.new_tag('a',href='/shishu/elibrary_main.html',attrs={'class':'book-back book-exit exit','aria-label':'Back'});back.string='←';brand=s.new_tag('a',href='/',attrs={'class':'book-site-brand'});brand.string='ଶିଶୁ କିଶୋର';header.extend([back,brand]);s.body.insert(0,header)
+ header=s.new_tag('header',attrs={'class':'book-site-header'});back=s.new_tag('a',href='/elibrary_main.html',attrs={'class':'book-back book-exit exit','aria-label':'Back'});back.string='←';brand=s.new_tag('a',href='/',attrs={'class':'book-site-brand'});brand.string='ଶିଶୁ କିଶୋର';header.extend([back,brand]);s.body.insert(0,header)
  if cfg and cfg[1]:
   a=s.new_tag('a',href=cfg[1],attrs={'class':'book-quick-download','download':''});a.string='PDF ଡାଉନଲୋଡ୍';header.append(a)
  if key=='forest' and route==cfg[0]:
@@ -42,7 +42,7 @@ for path in files:
   if not s.select_one('#theme'):
    button=s.new_tag('button',id='theme',attrs={'type':'button','aria-pressed':'false'});button.string='ରାତି';controls.append(button)
   for script in s.select('script[src]'):
-   if script['src'].split('?')[0] in ['reading.js','/shishu/books/paresh/reading.js']:script['src']='/shishu/books/paresh/reading.js'
+   if script['src'].split('?')[0] in ['reading.js','/books/paresh/reading.js']:script['src']='/books/paresh/reading.js'
  if not s.select_one('link[href="/book-ui.css"]'):s.head.append(s.new_tag('link',rel='stylesheet',href='/book-ui.css'))
  if cfg and cfg[2]:
   # Keep credits, source and private review in one footer.
@@ -59,7 +59,7 @@ for path in files:
 for key in ['ketejami_loda','musha_mushi','forest','frog']:
  data={'title':{'ketejami_loda':'କେତେ ଜମି ଲୋଡ଼ା','musha_mushi':'ମୂଷା ଓ ମୁଷୀ','forest':'ବଣରାଇଜର କାହାଣୀ','frog':'The Frog & the Mouse'}[key],'reader':configs[key][0]};route=configs[key][2];path=P/route.lstrip('/')
  path.write_text(f'''<!doctype html><html lang="or"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{data['title']} · ପ୍ରୁଫ୍‌</title>{review_metadata.get(key, "")}<link rel="stylesheet" href="/children-identity.css"><link rel="stylesheet" href="/book-ui.css"></head><body class="book-ui review-page" data-review-book="{key}"><header class="book-site-header"><a class="book-back" href="{data['reader']}" aria-label="Return to reading">←</a><a class="book-site-brand" href="/">ଶିଶୁ କିଶୋର</a></header><main id="book-review-app" class="review-app"><h1>{data['title']}</h1><p role="status">Loading sign-in…</p><noscript>Enable JavaScript to sign in with Google.</noscript></main><script type="module" src="/editorial/book-review.js"></script></body></html>''')
-for name in ['shishu/books/ketejami_loda/proofread-pages.json','shishu/books/musha_mushi/proofread-pages.json','shishu/books/paresh/forest-proofread.json','shishu/books/paresh/banaraijar-kahani-odia-proofreading.txt','shishu/books/ketejami_loda/proofread.js','shishu/books/musha_mushi/proofread.js']:
+for name in ['books/ketejami_loda/proofread-pages.json','books/musha_mushi/proofread-pages.json','books/paresh/forest-proofread.json','books/paresh/banaraijar-kahani-odia-proofreading.txt','books/ketejami_loda/proofread.js','books/musha_mushi/proofread.js']:
  (P/name).unlink(missing_ok=True)
 print(f'Unified {len(files)} book pages; review content requires Google sign-in.')
 

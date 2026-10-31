@@ -5,7 +5,7 @@ import json,re
 
 ROOT=Path('public')
 writers=json.loads(Path('provenance/writer-research-2026-10-10.json').read_text())['writers']
-index=ROOT/'shishu/writers.html'
+index=ROOT/'writers.html'
 directory=index.read_text()
 css='<link rel="stylesheet" href="/writer-discovery.css?v=1">'
 

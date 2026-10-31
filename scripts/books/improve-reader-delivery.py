@@ -9,9 +9,9 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[2]
 PUBLIC = ROOT / 'public'
 READERS = (
-    'shishu/books/paresh/forest.html',
-    'shishu/books/musha_mushi/illustrated.html',
-    'shishu/books/ketejami_loda/illustrated.html',
+    'books/paresh/forest.html',
+    'books/musha_mushi/illustrated.html',
+    'books/ketejami_loda/illustrated.html',
 )
 FONT = '/fonts/baloo-bhaina-2-variable-oriya.woff2'
 
@@ -45,7 +45,7 @@ for route in ('index.html', *READERS):
             soup.body.append(soup.new_tag('script', src='/book-ui.js', defer=''))
         for link in soup.select('link[rel="stylesheet"]'):
             if link['href'] == 'reading.css':
-                link['href'] = '/shishu/books/paresh/reading.css'
+                link['href'] = '/books/paresh/reading.css'
 
         # Keep the exact existing sprite crop, but allow native image lazy loading.
         # SVG <image> eagerly requests every comic sheet, even far below the fold.

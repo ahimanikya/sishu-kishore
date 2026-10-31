@@ -5,9 +5,9 @@ root=Path('public'); origin='https://shishukishora.com'
 ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
 urls=[e.text for e in ET.parse(root/'sitemap.xml').findall('.//s:loc',ns)]
 assert len(urls)==len(set(urls))
-assert origin+'/' in urls and origin+'/shishu/' not in urls
+assert origin+'/' in urls and not any('/shishu/' in u for u in urls)
 for url in urls:
- assert (url == origin+'/' or url.startswith(origin+'/shishu/')) and '/editorial/' not in url and '/page-' not in url
+ assert (url == origin+'/' or url.startswith(origin+'/')) and '/editorial/' not in url and '/page-' not in url
  route=urlparse(url).path;file=root/(route.lstrip('/')+('index.html' if route.endswith('/') else ''));html=file.read_text()
  assert 'noindex' not in re.search(r'<meta name="robots"[^>]+>',html)[0]
  data=json.loads(re.search(r'<script id="search-structured-data" type="application/ld\+json">(.*?)</script>',html,re.S)[1]);assert data['@context']=='https://schema.org'
@@ -22,10 +22,10 @@ for item in index['articles']:
 assert 'Sitemap: '+origin+'/sitemap.xml' in (root/'robots.txt').read_text()
 for file in (root/'editorial').glob('*.html'):assert 'noindex, follow' in file.read_text()
 # Direct-link review editions must stay outside public discovery surfaces.
-review_prefix='/shishu/review/'
-for name in ['sitemap.xml','content-index.json','edition-reader.json','reader-catalog.json','index.html','shishu/current_issue.html','shishu/old_issues.html']:
+review_prefix='/review/'
+for name in ['sitemap.xml','content-index.json','edition-reader.json','reader-catalog.json','index.html','current_issue.html','old_issues.html']:
  assert review_prefix not in (root/name).read_text(),f'Unlisted review exposed by {name}'
-for file in (root/'shishu/review').rglob('*.html'):
+for file in (root/'review').rglob('*.html'):
  assert 'noindex, follow' in file.read_text(),f'Review is indexable: {file}'
  assert file.name!='editor-notes.html',f'Private editor notes exposed: {file}'
 print(f'Discovery verified: {len(urls)} sitemap URLs, schemas, article text, private-screen exclusions.')

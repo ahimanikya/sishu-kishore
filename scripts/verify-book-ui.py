@@ -18,12 +18,12 @@ class Page(HTMLParser):
   if tag=='a':self.anchor=None
  def handle_data(self,text):
   if self.anchor is not None:self.anchor['text']+=text
-for route in ['shishu/books/ketejami_loda/proofread.html','shishu/books/musha_mushi/proofread.html','shishu/books/paresh/forest-proofread.html','shishu/books/paresh/frog-proofread.html']:
+for route in ['books/ketejami_loda/proofread.html','books/musha_mushi/proofread.html','books/paresh/forest-proofread.html','books/paresh/frog-proofread.html']:
  s=Page();s.feed((P/route).read_text());assert not s.editable and s.review_script and s.review_id,route
-for name in ['shishu/books/ketejami_loda/proofread-pages.json','shishu/books/musha_mushi/proofread-pages.json','shishu/books/paresh/forest-proofread.json','shishu/books/paresh/banaraijar-kahani-odia-proofreading.txt']:
+for name in ['books/ketejami_loda/proofread-pages.json','books/musha_mushi/proofread-pages.json','books/paresh/forest-proofread.json','books/paresh/banaraijar-kahani-odia-proofreading.txt']:
  assert not (P/name).exists(),name
 count=0
-for p in (P/'shishu/books').rglob('*.html'):
+for p in (P/'books').rglob('*.html'):
  s=Page();s.feed(p.read_text());count+=1;assert s.header and not s.share,str(p)
  for a in s.anchors:
   assert 'proofread' not in a['href'] or a['footer'],str(p)

@@ -34,7 +34,7 @@ def setmeta(html,key,value):
  return re.sub(pattern,lambda m:tag,html,flags=re.I) if re.search(pattern,html,re.I) else html.replace('</head>',tag+'</head>')
 issues=json.loads((ROOT/'edition-reader.json').read_text()); articles={i['href']:{**i,'issue':k,'edition':v['title']} for k,v in issues.items() for i in v['items']}
 writer_profiles={w['route']:w for w in json.loads(Path('provenance/writer-research-2026-10-10.json').read_text())['writers']}
-books={b['landing']:b for f in (ROOT/'shishu/books').glob('*/book.json') for b in [json.loads(f.read_text())]}
+books={b['landing']:b for f in (ROOT/'books').glob('*/book.json') for b in [json.loads(f.read_text())]}
 # Remove stale text exports when an approved article is withdrawn.
 for stale in (ROOT/'reading-text').glob('*.txt'):
  if stale.stem not in {Path(route).stem for route in articles}:stale.unlink()
@@ -43,8 +43,8 @@ for path in sorted(ROOT.rglob('*.html')):
  html=path.read_text();tree=Tree(html);nodes=list(tree.root.all());route='/'+path.relative_to(ROOT).as_posix();actual=route[:-10] if route.endswith('index.html') else route
  canonical=next((n.attrs.get('href','') for n in nodes if n.tag=='link' and n.attrs.get('rel')=='canonical'),ORIGIN+actual)
  redirect=any(n.tag=='meta' and n.attrs.get('http-equiv','').lower()=='refresh' for n in nodes)
- private=route.startswith('/shishu/review/') or route=='/shishu/books/paresh/frog.html' or route.endswith(('-proofread.html', '/proofread.html', '-pages.html')) or route.startswith('/editorial/') or '/books/' in route and '/page-' in route or route in ('/404.html','/unavailable.html')
- indexable=not redirect and not private and canonical==ORIGIN+actual and (actual == '/' or actual.startswith('/shishu/'))
+ private=route.startswith('/review/') or route=='/books/paresh/frog.html' or route.endswith(('-proofread.html', '/proofread.html', '-pages.html')) or route.startswith('/editorial/') or '/books/' in route and '/page-' in route or route in ('/404.html','/unavailable.html')
+ indexable=not redirect and not private and canonical==ORIGIN+actual and (actual == '/' or actual.startswith('/'))
  html=re.sub(r'<script\b[^>]*id="search-structured-data"[^>]*>.*?</script>','',html,flags=re.S)
  html=re.sub(r'<link\b[^>]*data-search-discovery="true"[^>]*>','',html)
  if not indexable:
@@ -82,7 +82,7 @@ for path in sorted(ROOT.rglob('*.html')):
   book=books[route];graph.append({'@type':'Book','name':book['title'],'url':canonical,'inLanguage':'or','image':image,'numberOfPages':book['total']})
  breadcrumbs=[n for n in nodes if n.has('ia-breadcrumb')]
  if breadcrumbs:
-  links=[n for n in breadcrumbs[0].all() if n.tag=='a' and (n.attrs.get('href') == '/' or n.attrs.get('href','').startswith('/shishu/'))]
+  links=[n for n in breadcrumbs[0].all() if n.tag=='a' and (n.attrs.get('href') == '/' or n.attrs.get('href','').startswith('/'))]
   items=[{'@type':'ListItem','position':i+1,'name':clean(n.text()),'item':ORIGIN+n.attrs['href']} for i,n in enumerate(links)]
   items.append({'@type':'ListItem','position':len(items)+1,'name':title,'item':canonical});graph.append({'@type':'BreadcrumbList','itemListElement':items})
  html=html.replace('</head>','<script id="search-structured-data" type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')+'</script></head>')
@@ -104,9 +104,9 @@ Sitemap: https://shishukishora.com/sitemap.xml
 Public articles are complete static HTML and can be read without login. The canonical article URL is the citation destination; its text/plain alternate contains the same published writing. Author names and edition relationships are in the article catalogue. Original printed book scans are preserved; unreviewed OCR is not represented as verified book text.
 
 ## Start here
-- [Current issue](https://shishukishora.com/shishu/current_issue.html)
-- [Past issues](https://shishukishora.com/shishu/old_issues.html)
-- [Writers](https://shishukishora.com/shishu/writers.html)
+- [Current issue](https://shishukishora.com/current_issue.html)
+- [Past issues](https://shishukishora.com/old_issues.html)
+- [Writers](https://shishukishora.com/writers.html)
 - [Article catalogue](https://shishukishora.com/content-index.json): titles, writers, issue relationships, canonical URLs, text URLs and images.
 - [Issue and book catalogue](https://shishukishora.com/reader-catalog.json)
 - [Sitemap](https://shishukishora.com/sitemap.xml)

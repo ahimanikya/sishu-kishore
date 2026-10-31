@@ -9,7 +9,7 @@ before(async()=>env=await initializeTestEnvironment({projectId:'demo-sishu-kisho
 const db=(uid='writer',editor=false,verified=true)=>env.authenticatedContext(uid,{email:uid+'@example.test',email_verified:verified,editor}).firestore();
 const data=()=>({owner:'writer',name:'Writer',contact:'writer@example.test',kind:'article',title:'A story',body:'Private manuscript',page:'',status:'received',consent:'editorial-review-v1',createdAt:serverTimestamp(),updatedAt:serverTimestamp()});const id='abcdefghijklmnopqrst';
 async function submit(database,overrides={}){const b=writeBatch(database);b.set(doc(database,'submissions',id),{...data(),...overrides});b.set(doc(database,'submissionLimits','writer'),nextQuota((await getDoc(doc(database,'submissionLimits','writer'))).data(),{id}));return b.commit();}
-const pub=()=>({kind:'article',title:'Reviewed story',body:'Public text',byline:'Writer',issue:'/shishu/current_issue.html',page:'',image:'/art/cover.webp',state:'published',publishedAt:serverTimestamp()});
+const pub=()=>({kind:'article',title:'Reviewed story',body:'Public text',byline:'Writer',issue:'/current_issue.html',page:'',image:'/art/cover.webp',state:'published',publishedAt:serverTimestamp()});
 test('verified writer submits atomically',async()=>assertSucceeds(submit(db())));
 test('anonymous cannot submit',async()=>assertFails(submit(env.unauthenticatedContext().firestore())));
 test('unverified cannot submit',async()=>assertFails(submit(db('writer',false,false))));
@@ -37,7 +37,7 @@ test('duplicate like cannot inflate count',async()=>{await toggleLike(db());awai
 test('like counter cannot be changed alone or with forged identity',async()=>{await assertFails(setDoc(doc(db(),'articleLikes','article-790'),{count:100}));await assertFails(toggleLike(db(),'article-790','other'));});
 test('anonymous and unverified likes rejected',async()=>{await assertFails(toggleLike(env.unauthenticatedContext().firestore()));await assertFails(toggleLike(db('writer',false,false)));});
 test('two readers have independent likes',async()=>{await toggleLike(db());await toggleLike(db('other'),'article-790','other');const c=await getDoc(doc(db(),'articleLikes','article-790'));if(c.data().count!==2)throw Error('wrong count');await ageLike();await toggleLike(db(),'article-790','writer',true);});
-test('comment uses private moderated submissions and cannot self-publish',async()=>{await assertSucceeds(submit(db(),{kind:'comment',page:'/shishu/article-790.html',name:'ପାଠକ'}));await assertFails(getDocs(collection(env.unauthenticatedContext().firestore(),'submissions')));await assertFails(setDoc(doc(db(),'publications',id),{...pub(),kind:'comment',page:'/shishu/article-790.html'}));});
+test('comment uses private moderated submissions and cannot self-publish',async()=>{await assertSucceeds(submit(db(),{kind:'comment',page:'/article-790.html',name:'ପାଠକ'}));await assertFails(getDocs(collection(env.unauthenticatedContext().firestore(),'submissions')));await assertFails(setDoc(doc(db(),'publications',id),{...pub(),kind:'comment',page:'/article-790.html'}));});
 test('oversized comments rejected',async()=>assertFails(submit(db(),{kind:'comment',body:'x'.repeat(2001)})));
 
 async function ageLike(){await env.withSecurityRulesDisabled(async c=>updateDoc(doc(c.firestore(),'engagementLimits','writer'),{at:Timestamp.fromMillis(Date.now()-5000)}));}
@@ -64,8 +64,8 @@ test('withdrawal blocks anonymous reads while preserving editor access',async()=
  if(!visible.empty)throw Error('Withdrawn record leaked into public list');
 });
 test('approved-comment query remains available with published-state filter',async()=>{
- await setDoc(doc(db('editor',true),'publications',id),{...pub(),kind:'comment',page:'/shishu/article-790.html'});
- await assertSucceeds(getDocs(query(collection(env.unauthenticatedContext().firestore(),'publications'),where('page','==','/shishu/article-790.html'),where('state','==','published'),limit(100))));
+ await setDoc(doc(db('editor',true),'publications',id),{...pub(),kind:'comment',page:'/article-790.html'});
+ await assertSucceeds(getDocs(query(collection(env.unauthenticatedContext().firestore(),'publications'),where('page','==','/article-790.html'),where('state','==','published'),limit(100))));
 });
 
 

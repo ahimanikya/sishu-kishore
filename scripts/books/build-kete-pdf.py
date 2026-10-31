@@ -7,7 +7,7 @@ from fpdf.enums import XPos,YPos,MethodReturnValue
 from fontTools.ttLib import TTFont
 from fontTools.varLib.instancer import instantiateVariableFont
 from pypdf import PdfReader
-R=Path(__file__).resolve().parents[2];S=R/'provenance/kete-jami-loda';D=R/'public/shishu/books/ketejami_loda';B=json.loads((S/'book-draft.json').read_text())
+R=Path(__file__).resolve().parents[2];S=R/'provenance/kete-jami-loda';D=R/'public/books/ketejami_loda';B=json.loads((S/'book-draft.json').read_text())
 fonts=S/'pdf-fonts';fonts.mkdir(exist_ok=True)
 for weight in [400,600]:
  p=fonts/f'BalooBhaina2-{weight}.ttf'

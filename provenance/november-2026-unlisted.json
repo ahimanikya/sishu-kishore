@@ -1,6 +1,6 @@
 {
   "issue": "2026-11",
-  "route": "/shishu/review/2026-11/",
+  "route": "/review/2026-11/",
   "status": "unlisted_editor_review",
   "authorization": "User requested: Publish - but don't link to home page (31 October 2026).",
   "not_current_issue": true,
@@ -40,7 +40,7 @@
     "article-28": "8cc230bf6b630c2b80b8bc9956c4baf704f801ed2e981c1b4060d48016dbfa72"
   },
   "cover": {
-    "asset": "/shishu/review/2026-11/assets/cover-v1.webp",
+    "asset": "/review/2026-11/assets/cover-v1.webp",
     "type": "AI-generated review draft",
     "prompt": "Use case: illustration-story. Create a portrait 2:3 cover illustration for the November 2026 issue of an Odia children's magazine. Inspired by its story Jibe Daya: an eight-year-old Odia boy Muna has left a handful of rice and millet in the courtyard on a cold misty morning; he now watches quietly from the window with his mother as three small birds eat. Show the boy and mother warmly but naturally, modest Odisha village house, mango branches softened by mist, tender early golden sun breaking through. Expressive traditional 2D children's cartoon drawing, confident dark outlines, simple faces, broad warm colour shapes, restrained flat shadows, slightly irregular ink quality. Composition: coherent single scene, birds clearly visible in lower foreground, child at open window middle left, breathing room in upper fifth for live magazine title added by website. No text or lettering anywhere in image, no logos, no watermark. No photorealism, no 3D, no glossy rendering. All anatomy natural; three distinct birds, boy with two arms. Full composition, portrait 1024x1536.\n\nGenerated with the built-in image generation tool on 2026-10-31. Draft for editor review; not approved for publication. Live title is added as HTML, not painted into the art.\n"
   },

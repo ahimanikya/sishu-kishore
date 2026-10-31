@@ -3,9 +3,11 @@ const cfg=JSON.parse(fs.readFileSync('scripts/site.json','utf8')),root=path.reso
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const registry='provenance/published.json',old=fs.existsSync(registry)?JSON.parse(fs.readFileSync(registry,'utf8')):{files:[],targets:[]};
 const start='<!-- approved-publications:start -->',end='<!-- approved-publications:end -->';
-const safe=p=>{const edition=typeof p==='string'&&new RegExp('^'+cfg.prefix+'/editions/\\d{4}-\\d{2}/$').test(p);if(typeof p!=='string'||(p!=='/index.html'&&!p.startsWith(cfg.prefix+'/'))||p.includes('..')||(!p.endsWith('.html')&&!edition))throw Error('Invalid publication route');return path.join(root,p,edition?'index.html':'');};
+if(cfg.prefix!=='')throw Error('Publication must use the site root');
+const safe=p=>{const edition=typeof p==='string'&&new RegExp('^'+cfg.prefix+'/editions/\\d{4}-\\d{2}/$').test(p);if(typeof p!=='string'||(p!=='/index.html'&&!p.startsWith(cfg.prefix+'/'))||p.includes('..')||!/^\/[A-Za-z0-9_./-]+$/.test(p)||p.startsWith('//')||/^\/(?:shishu|sishu)(?:\/|$)/.test(p)||(!p.endsWith('.html')&&!edition))throw Error('Invalid publication route');return path.join(root,p,edition?'index.html':'');};
 const {fetchPublished}=await import('./lib/publications-feed.mjs');
 let records=process.env.NODE_ENV==='test' && process.env.PUBLICATIONS_FIXTURE?JSON.parse(fs.readFileSync(process.env.PUBLICATIONS_FIXTURE,'utf8')):await fetchPublished({projectId:cfg.projectId});
+records=records.map(d=>({...d,issue:typeof d.issue==='string'?d.issue.replace(/^\/shishu\//,'/'):d.issue,page:typeof d.page==='string'?d.page.replace(/^\/shishu\//,'/'):d.page}));
 records=records.filter(d=>d.state==='published').sort((a,b)=>a.id.localeCompare(b.id));
 const activeRoutes=new Set(records.filter(d=>d.kind!=='comment').map(d=>`${cfg.prefix}/published/${d.id}.html`));
 records=records.filter(d=>d.kind!=='comment'||!d.page.startsWith(cfg.prefix+'/published/')||activeRoutes.has(d.page));
@@ -37,14 +39,14 @@ const writers=new Map(),cards=[];
 for(const d of records){if(d.kind==='comment'){append(d.page,`<li class="ia-comments"><h3>${esc(d.byline)}</h3><p style="white-space:pre-wrap">${esc(d.body)}</p></li>`);continue;}
  const route=`${cfg.prefix}/published/${d.id}.html`;const normalized=d.byline.normalize('NFC').trim();const writer=knownWriters[normalized]||`${cfg.prefix}/writers/published-${crypto.createHash('sha256').update(normalized).digest('hex').slice(0,12)}.html`;
  const card=`<li><a href="${route}">${esc(d.title)}</a> — ${esc(d.byline)}</li>`;cards.push(card);append(d.issue,card);
- const author=cfg.prefix==='/shishu'?`<a href="${writer}">${esc(d.byline)}</a>`:esc(d.byline);
+ const author=cfg.prefix===''?`<a href="${writer}">${esc(d.byline)}</a>`:esc(d.byline);
  const paragraphs=d.body.split(/\n\s*\n/).map(part=>`<p style="white-space:pre-wrap">${esc(part)}</p>`).join('');
  const previous=catalog[d.issue]?.items.at(-1);
  const navigation=`<nav class="mag-web-reading" aria-label="ଲେଖା ପଢ଼ିବା ପଥ">${previous?`<a href="${esc(previous.href)}">← ପୂର୍ବ ଲେଖା</a>`:''}<a href="${esc(d.issue)}">ସୂଚୀପତ୍ର</a></nav>`;
  const text=`<nav class="ia-breadcrumb"><a href="${esc(d.issue)}">← ${esc(catalog[d.issue]?.title||cfg.name)}</a></nav><article class="ia-article"><header class="ia-article-head"><h1>${esc(d.title)}</h1><p class="ia-byline">${author}</p><p class="mag-article-context"><a href="${esc(d.issue)}">${esc(catalog[d.issue]?.title||cfg.name)}</a></p><button class="mag-read-button" data-quiet-reader>ରିଡର୍‌ରେ ପଢ଼ନ୍ତୁ ↗</button></header><figure class="ia-story-art"><img src="${esc(d.image)}" alt="${esc(d.title)}" width="1200" height="800" fetchpriority="high"></figure><div class="ia-prose">${paragraphs}</div></article>${navigation}`;
  save(route,render(route,d.title,text,d.image,d.kind==='article'?d.issue:null));
  if(d.kind==='article')catalog[d.issue].items.push({href:route,title:d.title,byline:d.byline});
- if(cfg.prefix==='/shishu'){const authorInfo=writers.get(writer)||{name:d.byline,cards:[]};authorInfo.cards.push(card);writers.set(writer,authorInfo);}}
+ if(cfg.prefix===''){const authorInfo=writers.get(writer)||{name:d.byline,cards:[]};authorInfo.cards.push(card);writers.set(writer,authorInfo);}}
 // Complete previous/next navigation after every article is in the issue catalog.
 for(const [issueRoute,edition] of Object.entries(catalog))for(let i=0;i<edition.items.length;i++){
  const item=edition.items[i];if(!files.includes(item.href))continue;
@@ -56,7 +58,7 @@ for(const [issueRoute,edition] of Object.entries(catalog))for(let i=0;i<edition.
 }
 if(fs.existsSync(catalogPath))fs.writeFileSync(catalogPath,JSON.stringify(catalog)+'\n');
 
-for(const [route,w]of writers){if(Object.values(knownWriters).includes(route)){append(route,w.cards.join(''));}else{save(route,render(route,w.name,`<h1>${esc(w.name)}</h1><ul>${w.cards.join('')}</ul>`));append('/shishu/writers.html',`<li><a href="${route}">${esc(w.name)}</a></li>`);}}
+for(const [route,w]of writers){if(Object.values(knownWriters).includes(route)){append(route,w.cards.join(''));}else{save(route,render(route,w.name,`<h1>${esc(w.name)}</h1><ul>${w.cards.join('')}</ul>`));append('/writers.html',`<li><a href="${route}">${esc(w.name)}</a></li>`);}}
 if(cards.length){const route=cfg.prefix+'/published/index.html';save(route,render(route,'Published writing',`<h1>Published writing</h1><ul>${cards.join('')}</ul>`));append('/index.html',`<li><a href="${route}">Published writing →</a></li>`);}
 for(const [route,html]of targets){const f=safe(route),s=fs.readFileSync(f,'utf8');fs.writeFileSync(f,s.replace('</main>',`${start}<section class="ia-published"><ul>${html}</ul></section>${end}</main>`));}
 fs.writeFileSync(registry,JSON.stringify({fingerprint,files,targets:[...targets.keys()]},null,2)+'\n');console.log(`Published ${records.length} approved items; private submissions never fetched.`);

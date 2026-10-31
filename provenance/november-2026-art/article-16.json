@@ -5,14 +5,14 @@
   "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: Winter morning in Odisha: dew on grass sparkles in first sunlight, vegetables and flowers grow beside green fields, a farmer walks through the vegetable garden; warm gentle sun through cool mist. Nature is the subject, no text.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ଶୀତ ର ପରଶେ ଜଗତ ହସେ. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\nଶୀତ ର ପରଶେ ଜଗତ ହସେ,\nକୁହୁଡ଼ି ଘେରରେ କାକର ଝରାଇ \nସବୁଜ କ୍ଷେତ କି ସୁନ୍ଦର ଦିଶେ l ୧ l\n\nଘାସ ପତରରେ କାକର ପଡ଼ି, \nସକାଳ ସୂରୁଜ କିରଣରେ ଦିଶେ \nସତେକି ପଡ଼ିଛି ମୁକୁତା ଝଡ଼ି l ୨ l\n\nସବୁଜ କ୍ଷେତ ର ଶୋଭା ନିଆରା,\nଦେଖିଦେଲେ ଥରେ ପେଟ ପୁରିଉଠେ \nଅପରୂପ ତା'ର ରୂପ ପସରା l ୩ l\n\nବିଦାୟ ନେଇଛି ଝଡ଼ି ବରଷା,\nଆଖି ଆଗେ ନାଚେ ଚଉଦିଗ ଶୋଭା \nବାଡ଼ି ବଗିଚାର ରୂପ ସରସା l  ୪ l\n\nବଗିଚା ର ଶୋଭା ବଢ଼ାଏ ଫୁଲ,\nଚାଷୀ ର ବାଡ଼ିରେ ପରିବା ର ହାଟ \nସତେ ଦିଶେ ଆହା କେତେ ଯେ ଭଲ l ୫ l\n\nଘରେ ଘରେ ହୁଏ ଓଷା ପରବ,\nଓଷା ରେ ତିଆରି ନାନା ଜାତି ପିଠା \nଆମ ରାଇଜ ର ଅଟେ ଗରବ l ୬ l",
   "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-387cb0c8-ed75-4d56-8aed-2d970a9cdd74.png",
   "original": "site/editorial-private/november-2026/art-originals/article-16-v1.png",
-  "asset": "/shishu/review/2026-11/assets/articles/article-16-v2.webp",
+  "asset": "/review/2026-11/assets/articles/article-16-v2.webp",
   "tool": "built-in image generation",
   "review": "Cartoon Natural / Odisha visual audit completed 2026-10-31; editor approval pending. Revise: photographic dew and ornamental flower border removed; clear cartoon kitchen-garden rows, winter haze, brinjal and cauliflower, round manda at veranda.",
   "sha256": "7067139fcc5237990f2fbf2d7ac283defae336c50a274fdb3b659fdbfb8302de",
   "audit_history": [
     {
-      "previous_asset": "/shishu/review/2026-11/assets/articles/article-16-v1.webp",
-      "selected_asset": "/shishu/review/2026-11/assets/articles/article-16-v2.webp",
+      "previous_asset": "/review/2026-11/assets/articles/article-16-v1.webp",
+      "selected_asset": "/review/2026-11/assets/articles/article-16-v2.webp",
       "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-6d719a2d-4f38-4dc6-88e0-2fb3b60ba9df.png",
       "original": "editorial-private/november-2026/art-originals/article-16-v2.png",
       "prompts": [

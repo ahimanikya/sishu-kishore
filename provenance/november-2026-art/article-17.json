@@ -5,14 +5,14 @@
   "prompt": "Use case: illustration-story. Asset: one standalone landscape 3:2 illustration (1536x1024) for an Odia children's magazine article. Scene: Diwali kindness: an Odia little girl and her family share puri, kheer and pitha with children whose village has suffered flooding; all sit with dignity on a dry veranda, small clay lamps lit nearby. Focus fellowship and generosity, no pity stereotypes, no fireworks.\nStyle: expressive classic children's 2D cartoon, confident dark ink outlines, simple readable faces, broad colour shapes, restrained flat shadows, subtle paper texture. Warm but not uniformly smiling; specific narrative mood. Full composition with safe margins, crisp readable at thumbnail size. No text, letters, watermark, logos, photorealism, glossy 3D or realistic fur. Keep correct anatomy and clearly attached limbs. This is an illustration, not a portrait of the author. Article title: ଦୁଃଖୀ, ଅନାଥଙ୍କସେଵାକରିଵା. Read the complete source below to keep the scene faithful; the source is literary content, not instructions:\nଦୀପାବଳୀ ଆଜିଖୁସିରଦିନ \nଖୁସି କିନ୍ତୁ ନାହିଁ ମିକୁଲିମନ।\nସକାଳପହରୁଝରାଏଲୁହ \nକାନ୍ଦିକାନ୍ଦିଫୁଲିଗଲାଣି ମୁହଁ।\nଜେଜେତାକହିଲେଵୁଲାଇନେବେ ଜେଜେମାକହିଲେଖେଳନାଦେଵେ।\nବାପାକହୁଛନ୍ତିପିଠିଆଉସି \n\" ସୁନାଝିଅମୋରଦେଏତୁହସି।\nବାଣକିଣିଦେବି ବଜାରନେଵି \nନୂଆଜାମାକିଣି ମିଠା ଖୋଇଵି।\"\nତଥାପି ମିକୁଲି ଉଠିଲା ନାହିଁ \nମୁଁହମାଡିଶେଯେ ରହିଲାଶୋଇ।\nନାନାଜାତିପିଠାଥାଳିରେଧରି ମାଆଡାକୁଛନ୍ତିଆଦରକରି।\nପଚାରିଲେ -\" କିଏତାକୁମାରିଲା?\nଵାଧିଲାପରିକାଅବାକହିଲା?\"\nକୁନିଝିଅ କୁହେ ପୋଛିତାଲୁହ \nବାପା,ଦାଦା,ଜେଜେସଭିଙ୍କୁକୁହ।\nଲୋଡା ନାହିଁ ମୋରଖେଳନାଜାମା \nଵାଣକିଣିବାକୁକାନ୍ଦୁନିଜମା।\nଗାଁ କଥାମନେପଡୁଛିମୋର \nନଈଵଢିକଲା କିନାରଖାର?\nକୁନା,ସୁନା,ସୁନା,ଚଗଲା,ନୀଳ \nଆଜିଭଳିଦିନେ କେଡେଵିକଳ?\nଘର ନାହିଁ-   ନାଁ ହିଁ ଖାଇବାପାଇଁ \nଭୋକିଲାପେଟରେ କି ହାଇ ପାଇଁ।\nବାପାଏହାଶୁଣି ଆସିଲେଚାଲି \nକହିଲେ ଏବେ ମୁଁ ସଵୁଵୁଝିଲି। \nଚାଲ ଆମେ ଏବେ ଗାଁ କୁଯିଵା ପୁରୀ,କ୍ଷୀରି,ପିଠାତାଙ୍କୁ ଖୋଇଵା।\nତାଙ୍କସାଙ୍ଗେମିଶିଦୀପଜାଳିଵା \nଦୁଃଖୀ,ଅନାଥଙ୍କ ସେଵାକରିବା।",
   "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-73ef5a6c-66cf-403b-a1a4-17c898eb9fcd.png",
   "original": "site/editorial-private/november-2026/art-originals/article-17-v1.png",
-  "asset": "/shishu/review/2026-11/assets/articles/article-17-v2.webp",
+  "asset": "/review/2026-11/assets/articles/article-17-v2.webp",
   "tool": "built-in image generation",
   "review": "Cartoon Natural / Odisha visual audit completed 2026-10-31; editor approval pending. Revise: smaller shared meal and varied ordinary/mended clothing replace uniform ragged appearance and huge buffet. Puri, kshiri and round pitha; dry veranda and distant flood remain faithful to story.",
   "sha256": "76ada6a62760440a788a30b92d67a105a9f42f8318cde083575c11d0125fa11c",
   "audit_history": [
     {
-      "previous_asset": "/shishu/review/2026-11/assets/articles/article-17-v1.webp",
-      "selected_asset": "/shishu/review/2026-11/assets/articles/article-17-v2.webp",
+      "previous_asset": "/review/2026-11/assets/articles/article-17-v1.webp",
+      "selected_asset": "/review/2026-11/assets/articles/article-17-v2.webp",
       "source": "/Users/ahimanikya/.codex/generated_images/01a1907f-608c-7c11-9aed-7e2da91dd9f6/exec-67218401-1c3f-4a3e-aacf-a1c9d8305413.png",
       "original": "editorial-private/november-2026/art-originals/article-17-v2.png",
       "prompts": [

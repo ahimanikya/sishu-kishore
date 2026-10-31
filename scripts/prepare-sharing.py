@@ -41,13 +41,13 @@ def select_image(soup, path):
     if edition_preview:
         src=edition_preview.get('content','')
         local=(ROOT/src.lstrip('/')).resolve()
-        if src.startswith(('/shishu/review/','/shishu/editions/')) and local.is_relative_to((ROOT/'shishu').resolve()) and local.is_file() and local.suffix.lower() in ['.jpg','.jpeg','.png','.webp']:
+        if src.startswith(('/review/','/editions/')) and local.is_relative_to(ROOT.resolve()) and local.is_file() and local.suffix.lower() in ['.jpg','.jpeg','.png','.webp']:
             return src
     book_preview=soup.select_one('meta[name="book-preview"]')
     if book_preview:
         src=book_preview.get('content','')
         local=(ROOT/src.lstrip('/')).resolve()
-        if src.startswith('/shishu/books/') and local.is_relative_to((ROOT/'shishu/books').resolve()) and local.is_file() and local.suffix.lower() in ['.jpg','.jpeg','.png','.webp']:
+        if src.startswith('/books/') and local.is_relative_to((ROOT/'books').resolve()) and local.is_file() and local.suffix.lower() in ['.jpg','.jpeg','.png','.webp']:
             return src
     if '/writers/' in str(path):
         candidates=soup.select('main img[src*="portraits/"]')
@@ -67,7 +67,7 @@ for path in sorted(SCOPE.rglob('*.html')):
     before=soup.body.get_text() if soup.body else ''
     relative='/'+path.relative_to(ROOT).as_posix()
     route=relative.removesuffix('index.html') if relative.endswith('/index.html') else relative
-    if relative == '/shishu/index.html': route = '/'  # Retired homepage redirects to the root.
+    if relative == '/index.html': route = '/'  # The magazine homepage is canonical at the root.
     title=soup.title.get_text(' ',strip=True) if soup.title else 'ଶିଶୁ କିଶୋର'
     # Use an existing excerpt, never fabricate editorial descriptions.
     excerpt=soup.select_one('.ia-prose .subject, .ia-prose p, main > p, main header p')

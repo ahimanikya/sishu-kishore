@@ -4,7 +4,7 @@ from pathlib import Path
 root=Path('public')
 approved=json.loads(Path('provenance/ebook-review/approved-text.json').read_text())
 count=verified=0
-for path in sorted((root/'shishu/books').glob('*/book.json')):
+for path in sorted((root/'books').glob('*/book.json')):
  book=json.loads(path.read_text());assert len(book['pages'])==book['total'],path
  for number,page in enumerate(book['pages'],1):
   assert page['page']==number,(path,number)

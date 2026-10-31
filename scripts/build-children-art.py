@@ -16,7 +16,7 @@ home=(public/'index.html').read_text();home=re.sub(r'<section\b(?=[^>]*class="ar
 head=re.sub(r'<script\b[^>]*>.*?</script>','',head,flags=re.S)
 head=re.sub(r'<meta\b[^>]*>|<link\b[^>]*rel="canonical"[^>]*>|<title>.*?</title>','',head,flags=re.S)
 header=re.search(r'<header class="ia-header".*?</header>',home,re.S)[0];footer=re.search(r'<footer.*?</footer>',home,re.S)[0]
-url='https://shishukishora.com/shishu/activity_children.html';title='ପିଲାଙ୍କ ଚିତ୍ର';description='ପିଲାଙ୍କ ଚିତ୍ର - ପିଲାଙ୍କ ତୂଳୀରୁ'
+url='https://shishukishora.com/activity_children.html';title='ପିଲାଙ୍କ ଚିତ୍ର';description='ପିଲାଙ୍କ ଚିତ୍ର - ପିଲାଙ୍କ ତୂଳୀରୁ'
 home_only='--home-only' in sys.argv
 # Social preview uses the existing contain-preview convention; original drawing stays untouched.
 source=public/items[0]['local'].lstrip('/');digest=hashlib.sha256(source.read_bytes()+b'share-contain-v1').hexdigest()[:16];social='/social/'+digest+'.jpg';target=public/social.lstrip('/')
@@ -38,9 +38,9 @@ def card(i,a,mini=False):
  return f'<figure class="art-card">{frame}{caption}</figcaption></figure>'
 sections=''.join(f'<section class="art-edition" aria-labelledby="art-issue-{n}"><h2 id="art-issue-{n}">ସଂଖ୍ୟା {od(n)}</h2><div class="art-grid">'+''.join(card(i,a) for i,a in group)+'</div></section>' for n,group in groups.items())
 html=f'<!doctype html><html lang="or"><head>{meta}{head}<link rel="stylesheet" href="/children-art.css?v=1"></head><body class="shishu ia-site"><a class="ia-skip" href="#main">ସିଧା ଚିତ୍ରକୁ ଯାଆନ୍ତୁ</a>{header}<main id="main" class="ia-main art-gallery"><nav class="ia-breadcrumb"><a href="/">← ମୂଳ ପୃଷ୍ଠା</a></nav>{intro}{nav}{sections}</main>{footer}<script defer src="/kid-ux.js?v=1"></script><script defer src="/share.js?v=release-v2"></script></body></html>'
-if not home_only:(public/'shishu/activity_children.html').write_text(html)
+if not home_only:(public/'activity_children.html').write_text(html)
 # Home shows every drawing from the current issue; the gallery retains all issues.
-preview=f'<section class="art-home" id="home-art" data-issue-number="{home_issue["number"]}" aria-labelledby="art-home-title"><div class="art-home-heading"><div><p class="art-eyebrow">ଚଳିତ ସଂଖ୍ୟା · ପିଲାଙ୍କ ତୂଳୀରୁ</p><h2 id="art-home-title">ପିଲାଙ୍କ ଚିତ୍ର</h2></div><a class="art-gallery-link" href="/shishu/activity_children.html">ଚିତ୍ରଶାଳା →</a></div><div class="art-grid">'+''.join(card(i,a,True) for i,a in home_items)+'</div></section>'
+preview=f'<section class="art-home" id="home-art" data-issue-number="{home_issue["number"]}" aria-labelledby="art-home-title"><div class="art-home-heading"><div><p class="art-eyebrow">ଚଳିତ ସଂଖ୍ୟା · ପିଲାଙ୍କ ତୂଳୀରୁ</p><h2 id="art-home-title">ପିଲାଙ୍କ ଚିତ୍ର</h2></div><a class="art-gallery-link" href="/activity_children.html">ଚିତ୍ରଶାଳା →</a></div><div class="art-grid">'+''.join(card(i,a,True) for i,a in home_items)+'</div></section>'
 home=home.replace('<section class="mag-editor-link">',preview+'<section class="mag-editor-link">')
 if '/children-art.css' not in home:home=home.replace('</head>','<link rel="stylesheet" href="/children-art.css?v=1"></head>')
 # Keep the two contribution sections together, ahead of the browsing shortcuts.
@@ -52,16 +52,16 @@ home=re.sub(r'(<a href="#home-art">).*?(</a>)',lambda m:m[1]+f'ପିଲାଙ�
 if home_only:
  print(f'Updated homepage: {len(home_items)} current-issue drawings (issue {home_issue["number"]}) and their credits; full gallery unchanged.')
  sys.exit(0)
-for path in (public/'shishu').rglob('*.html'):
+for path in public.rglob('*.html'):
  s=path.read_text()
  def add(m):
   f=m[0]
-  if '/shishu/activity_children.html' not in f:f=f.replace('</nav>','<a href="/shishu/activity_children.html">ପିଲାଙ୍କ ଚିତ୍ର</a></nav>',1)
+  if '/activity_children.html' not in f:f=f.replace('</nav>','<a href="/activity_children.html">ପିଲାଙ୍କ ଚିତ୍ର</a></nav>',1)
   return f
  n=re.sub(r'<footer\b.*?</footer>',add,s,flags=re.S)
  if n!=s:path.write_text(n)
 manifest=public.parent/'provenance/social-previews.json';entries=json.loads(manifest.read_text())
 for entry in entries:
- if entry['page']=='/shishu/activity_children.html':entry.update(source=items[0]['local'],image=social,url=url)
+ if entry['page']=='/activity_children.html':entry.update(source=items[0]['local'],image=social,url=url)
 manifest.write_text(json.dumps(entries,ensure_ascii=False,indent=2)+'\n')
 print(f'Built gallery: {len(items)} original drawings, {len(groups)} issue groups, {len(home_items)} current-issue home drawings and footer links.')

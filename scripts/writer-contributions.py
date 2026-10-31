@@ -6,7 +6,7 @@ import re
 ROOT = Path('public')
 CSS = '<link rel="stylesheet" href="/writer-contributions.css?v=1">'
 pages = entries = 0
-for page in sorted((ROOT / 'shishu/writers').glob('*.html')):
+for page in sorted((ROOT / 'writers').glob('*.html')):
     source = page.read_text()
     match = re.search(r'<ul class="mag-contributions[^\"]*"[^>]*>(.*?)</ul>', source, re.S)
     if not match:

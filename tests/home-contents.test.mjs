@@ -4,7 +4,7 @@ import vm from 'node:vm';
 import fs from 'node:fs';
 
 const source=fs.readFileSync(new URL('../public/shishu-magazine.js',import.meta.url),'utf8');
-const ids=Array.from({length:25},(_,i)=>`/shishu/article-${i}.html`);
+const ids=Array.from({length:25},(_,i)=>`/article-${i}.html`);
 function visit({state=null,random=()=>0.25,blocked=false,home=true,articles=ids,navigation='navigate'}={}){
  const cards=articles.map(id=>({id,querySelector:()=>({getAttribute:()=>id})}));
  const list={children:[...cards],append(...nodes){this.children=nodes;}};
@@ -47,9 +47,9 @@ test('changed contents and corrupt or duplicate saved IDs cannot omit or duplica
   const a=visit({state:{sishuHomeArticleOrder:saved},navigation:'back_forward'});
   assert.deepEqual([...a.order].sort(),[...ids].sort());
  }
- const first=visit();const next=visit({state:first.state,navigation:'back_forward',articles:[...ids,'/shishu/new.html']});
+ const first=visit();const next=visit({state:first.state,navigation:'back_forward',articles:[...ids,'/new.html']});
  assert.equal(next.order.length,26);assert.equal(new Set(next.order).size,26);
- assert.ok(next.order.includes('/shishu/new.html'));
+ assert.ok(next.order.includes('/new.html'));
 });
 test('issue and other non-home pages do not reorder or write history state',()=>{
  const a=visit({home:false,random:()=>{throw Error('must not shuffle');}});
@@ -57,17 +57,12 @@ test('issue and other non-home pages do not reorder or write history state',()=>
 });
 
 
-test('root serves the magazine and old home links preserve anchors and queries',()=>{
+test('root serves the magazine with a separate current edition',()=>{
  const home=fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8');
- const old=fs.readFileSync(new URL('../public/shishu/index.html',import.meta.url),'utf8');
  assert.ok(home.includes('mag-home-articles'));
  assert.ok(!/http-equiv=["']refresh["']/i.test(home));
  assert.ok(home.includes('href="https://shishukishora.com/" rel="canonical"'));
  assert.ok(home.includes('aria-current="page" data-kid-icon="home" href="/"'));
- const redirect=[...old.matchAll(/<script[^>]*>([\s\S]*?)<\/script>/g)].map(m=>m[1]).find(s=>s.includes('location.replace'));
- let destination;
- vm.runInNewContext(redirect,{location:{search:'?source=bookmark',hash:'#home-art',replace:url=>{destination=url;}}});
- assert.equal(destination,'/?source=bookmark#home-art');
- const issue=fs.readFileSync(new URL('../public/shishu/current_issue.html',import.meta.url),'utf8');
- assert.ok(issue.includes('aria-current="page" data-kid-icon="book" href="/shishu/current_issue.html"'));
+ const issue=fs.readFileSync(new URL('../public/current_issue.html',import.meta.url),'utf8');
+ assert.ok(issue.includes('aria-current="page" data-kid-icon="book" href="/current_issue.html"'));
 });
