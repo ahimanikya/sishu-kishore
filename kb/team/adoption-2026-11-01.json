@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-01",
+  "project": "Sishu Kishore",
+  "user_request": "Let's bring the Odisha blueprint team structure to this project and credit page should AI Agenets worked under the direction of Ahimanikya Satapathy",
+  "human_direction": "Ahimanikya Satapathy",
+  "source_repository": "https://github.com/ahimanikya/project-odisha",
+  "source_commit": "4ba1104626120d74f36c911995754e0361ea01bd",
+  "source_sha256": {
+    "kb/team/roles.md": "8a48b2cdeaf8ef42cc4876ac47268ad0df36aeeda5a9b2f868953a4ff3ebea66",
+    "kb/team/assignments.json": "d9dbe76765901a7458c2a8aadfce0163253347f53f13856ebc7ab1e5b4fd3a0e",
+    "kb/team/operations.json": "73d0a8e5920ddcdd0e6fa7a1683c58cc84ee49b3719afb5d247674918cd067b3",
+    "kb/records/blueprint-persona-onboarding-2026-10-24.json": "d61acb4c3f251cb48fc2365cb0638c60c161b0fc78372950fd0fbdbeeef364a8"
+  },
+  "roles": [
+    "Disha Dash",
+    "Samanta Chandrasekhar",
+    "Anvesha Acharya",
+    "Drishti Senapati"
+  ],
+  "scope": "Adapted AI team responsibilities and central public credit; existing human editorial roles and access boundaries retained.",
+  "execution": "Current assistant adapted the structure; no separate workers launched for this change. Review by this assistant is self-review.",
+  "access_added": [],
+  "schedules_created": [],
+  "not_imported": [
+    "Project Odisha programme queues and activation decisions",
+    "Character collection",
+    "Human editor-in-chief title",
+    "Prior runtime IDs and independent-review claims"
+  ]
+}

@@ -27,3 +27,7 @@ Cover readability refinement (1 November 2026): The user permits softening immed
 Cover colour refinement (1 November 2026): Select lettering colours to complement each illustration, using scripts/cover-palettes.json. Do not force white/cream type on every issue. Keep opacity/blur local to the words, preserve full-height artwork, and verify the same palette in archive, issue and reader views.
 
 Artwork disclosure (1 November 2026): Keep the AI artwork disclosure and Ahimanikya Satapathy’s illustration-direction/digital-design credit on /credits/, linked from the magazine footer. Do not restore repeated AI-generated notices on individual pages. Preserve original author/artist credits, printed artwork, and editorial-review status.
+
+## AI team structure
+
+Read `kb/team/roles.md` for the Project Odisha Blueprint team structure adapted to Sishu Kishore. Disha coordinates; Samanta handles design and engineering; Anvesha handles research and archives; Drishti handles quality review. All AI roles work under Ahimanikya Satapathy’s direction. Follow task-scoped assignments and explicit file reservations; record actual execution and distinguish self-review from separate-agent review. Preserve existing human editorial roles and publication boundaries. Adoption creates no autonomous schedule or additional access.
