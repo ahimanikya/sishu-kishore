@@ -4,7 +4,7 @@ Adopted on 1 November 2026 at Ahimanikya Satapathy’s request from the Project 
 
 ## Direction and editorial authority
 
-The AI team works under the direction of **Ahimanikya Satapathy**. Existing magazine editors, authors and artists retain their roles and credits. This adoption does not appoint a new editor-in-chief, transfer literary authorship, or authorize publication beyond the actual user request. No human reports to an AI role.
+**Ahimanikya Satapathy is Creative Editor.** The human editors are peers at the same organizational level. Every AI agent — Disha, Samanta, Anvesha and Drishti — reports directly to Ahimanikya Satapathy, Creative Editor. Disha coordinates tasks but is not the other agents’ reporting manager. Existing magazine editors, authors and artists retain their titles and credits. This adoption does not appoint a new editor-in-chief, transfer literary authorship, or authorize publication beyond the actual user request. No human reports to an AI role.
 
 ## Roles
 
@@ -27,7 +27,7 @@ Names define on-demand responsibilities; they do not establish continuously runn
 
 ## Public credit
 
-The central `/credits/` page states: **AI agents worked under the direction of Ahimanikya Satapathy.** Keep the role roster and AI artwork explanation there, while preserving author, child artist and book-specific credits throughout the magazine.
+The central `/credits/` page states: **AI agents worked under the direction of Ahimanikya Satapathy, Creative Editor.** Keep the role roster and AI artwork explanation there, while preserving author, child artist and book-specific credits throughout the magazine.
 
 ## Source
 

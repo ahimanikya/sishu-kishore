@@ -26,5 +26,18 @@
     "Character collection",
     "Human editor-in-chief title",
     "Prior runtime IDs and independent-review claims"
-  ]
+  ],
+  "organization_clarification": {
+    "date": "2026-11-01",
+    "user_direction": "Editors are at the same level; all agents report to Ahimanikya Satapathy, whose role is Creative Editor.",
+    "human_role": "Creative Editor",
+    "editor_relationship": "peers at the same organizational level",
+    "agent_reports_to": {
+      "Disha Dash": "Ahimanikya Satapathy",
+      "Samanta Chandrasekhar": "Ahimanikya Satapathy",
+      "Anvesha Acharya": "Ahimanikya Satapathy",
+      "Drishti Senapati": "Ahimanikya Satapathy"
+    },
+    "coordinator_authority": "Task coordination only; no agent reports to Disha."
+  }
 }
