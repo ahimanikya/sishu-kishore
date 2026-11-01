@@ -1,0 +1,103 @@
+{
+  "id": "duplicate-audit-reader-options-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Audit duplicate information in site; explore a few book app redesign options, especially borders.",
+  "coordinator": "Disha",
+  "input_head": "4081be443bfe8e0b363576110748754ae20b6049",
+  "task": "Read-only site duplicate audit and local book-reader concept comparison; no production reader redesign selected.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/site_dup_audit_nov",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "932indexable pages and704canonical article texts audited; seven findings, no content removals.",
+        "evidence": [
+          "provenance/duplicate-information-audit-2026-11-01.json",
+          "Identity review and editor decision boundaries recorded."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/book_reader_options_nov",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "editorial-private/book-reader-options/index.html",
+        "editorial-private/book-reader-options/README.txt"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Three local reader concepts using two complete existing poems and art.",
+        "evidence": [
+          "9viewport/concept checks passed; controls function.",
+          "Five source verse paragraphs and linebreaks preserved exactly."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/reader_options_review_nov",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Audit evidence and local reader prototypes passed independent review.",
+        "evidence": [
+          "Independently verified both author-profile pairs have identical biography/source sections; report requires canonical merge decision and preserves works.",
+          "Independently confirmed seven news-overview/archive paragraph matches and visually compared the same Baba Maa poem in May/July with distinct issue context.",
+          "Prototype preserves all five source verse paragraphs, titles and line breaks exactly; local-only assets, no external network or production mutation.",
+          "Independently reran nine viewport/concept checks at320/390/1280: no overflow/browser errors; poem navigation, type size and day/night controls work.",
+          "Reviewed desktop A and mobile B/C screenshots: complete uncropped art, readable layout and labelled controls.",
+          "Repository status shows only audit/coordination additions; production site files unchanged."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/duplicate-audit-reader-options-2026-11-01.json",
+    "kb/team/operations.json",
+    "provenance/duplicate-information-audit-2026-11-01.json"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/reader_options_review_nov",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "provenance/duplicate-information-audit-2026-11-01.json": "b2976c9f84474a7f3808194cb917ce16d64a3c7fe83b9eee22fcb64acd60e029",
+      "editorial-private/book-reader-options/index.html": "de324484627b35d147459b7bf2b3a90a717136a4f9dd50cc4cd5a763b6710941",
+      "editorial-private/book-reader-options/README.txt": "5c1c3a38ce42a602fef97e78bf0a62b7882a5cda5d3136d42849d79b3a9a1c61"
+    },
+    "evidence": [
+      "Independently verified both author-profile pairs have identical biography/source sections; report requires canonical merge decision and preserves works.",
+      "Independently confirmed seven news-overview/archive paragraph matches and visually compared the same Baba Maa poem in May/July with distinct issue context.",
+      "Prototype preserves all five source verse paragraphs, titles and line breaks exactly; local-only assets, no external network or production mutation.",
+      "Independently reran nine viewport/concept checks at320/390/1280: no overflow/browser errors; poem navigation, type size and day/night controls work.",
+      "Reviewed desktop A and mobile B/C screenshots: complete uncropped art, readable layout and labelled controls.",
+      "Repository status shows only audit/coordination additions; production site files unchanged."
+    ],
+    "limitations": [
+      "Bounded audit, not exhaustive semantic duplicate detection or identity adjudication; proposed literary and roster removals remain editor decisions.",
+      "Prototype is not a production reader or complete accessibility certification; no persistence, source-scan mode, downloads or all-book-format integration.",
+      "Reader-versus-library clarification pending; these are stated reading-app concepts.",
+      "No live deployment or native human Odia proofreading performed."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "932pages and704texts audited; seven actionable findings recorded.",
+      "Three interactive options with same two poems and original art,9viewport/concept checks passed.",
+      "Local previews stored in editorial-private/book-reader-options/previews; no production content changed."
+    ]
+  },
+  "next_action": "User selects reader direction; canonical-author and literary duplicate decisions remain pending.",
+  "coordinator_reservations_released": true
+}

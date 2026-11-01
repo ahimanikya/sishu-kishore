@@ -1,0 +1,137 @@
+{
+  "role": "Anvesha",
+  "runtime": "/root/site_dup_audit_nov",
+  "mode": "read_only",
+  "scope": "Current local source; not a live-site verification. Indexable HTML main content, canonical article text, key informational pages and three public book readers. Unlisted and editorial-private content excluded from public findings.",
+  "method": {
+    "indexable_pages_scanned": 932,
+    "canonical_article_texts_compared": 704,
+    "normalization": "Unicode NFC and whitespace; exact paragraphs >=90 characters; first prose body >=150 characters; same-title near matches using text similarity. Shared navigation/context removed before paragraph matching. Manual follow-up for actionable candidates.",
+    "exact_long_paragraph_groups": 78,
+    "within_page_exact_long_paragraph_groups": 0,
+    "limitations": [
+      "Semantic repetition cannot be exhaustively detected by exact matching.",
+      "Books use differing layouts; public readers also manually inspected.",
+      "Identity consolidation requires existing canonical-author workflow. No literature or source files changed."
+    ]
+  },
+  "findings": [
+    {
+      "id": "writer-gitanjali",
+      "severity": "medium",
+      "type": "well-supported-profile-consolidation",
+      "title": "Gitanjali Swain has two profile pages with identical biography and split works",
+      "paths": [
+        "public/writers/4b75b270fdbe.html",
+        "public/writers/3cab06f38bc2.html"
+      ],
+      "evidence": "Same biography and source links; spelling differs only in the sw/w orthographic form. First profile lists2works; second lists1. Existing identity notes corroborate matching locality signatures and retired-teacher attribution; linked source signatures inspected.",
+      "sources": [
+        "provenance/writer-research-2026-10-10.json",
+        "public/article_details-9df5c5273b.html",
+        "public/article_details-595234403d.html"
+      ],
+      "recommendation": "Consolidate through the canonical-author merge workflow, preserving3contributions and original bylines. Existing research intentionally retained routes, so record the new merge decision explicitly.",
+      "status": "not_modified"
+    },
+    {
+      "id": "writer-jayanta",
+      "severity": "medium",
+      "type": "well-supported-profile-consolidation",
+      "title": "Jayanta Kumar Ojha has two profiles with identical biography and split works",
+      "paths": [
+        "public/writers/bef5579559e6.html",
+        "public/writers/8218162be47d.html"
+      ],
+      "evidence": "Names differ by spacing. First profile lists4works; second lists1. Existing identity record and inspected source signatures corroborate the same SSPL/DRDO/Timarpur institutional affiliation.",
+      "sources": [
+        "provenance/writer-research-2026-10-10.json",
+        "public/article_details-bbb00f4e2b.html",
+        "public/article_details-8d4b45cea6.html"
+      ],
+      "recommendation": "Canonical consolidation retaining5contributions, sources and original literary bylines; do not merge unrelated authors based on name similarity.",
+      "status": "not_modified"
+    },
+    {
+      "id": "news-overview",
+      "severity": "low",
+      "type": "redundant-overview-copy",
+      "title": "News overview repeats seven archived news articles in full",
+      "paths": [
+        "public/news.html",
+        "public/article_details-7e5a414972.html",
+        "public/article_details-0bb4428279.html",
+        "public/article_details-5490f0a95b.html",
+        "public/article_details-c274d2130c.html",
+        "public/article_details-5a0438bc0c.html",
+        "public/article_details-84ba455f6e.html",
+        "public/article_details-7d302037d1.html"
+      ],
+      "evidence": "Seven exact paragraph matches between the news overview and original archive article pages. This duplicates reading length rather than creating new information.",
+      "recommendation": "Keep archive article originals; turn news overview into dated short summaries/excerpts with direct article links if editors want a shorter overview.",
+      "status": "not_modified"
+    },
+    {
+      "id": "archival-poem",
+      "severity": "medium",
+      "type": "editor-decision-required-literature",
+      "title": "ବାପା ମାଆ appears in May and July2026",
+      "paths": [
+        "public/young_details-e101d27331.html",
+        "public/young_details-cd6d0c81b4.html"
+      ],
+      "evidence": "Same poem title, student author ଦିବ୍ୟ ସ୍ୱରୂପ ସାହୁ and exact normalized poem paragraph including school/class attribution; issue labels differ. Full article-text similarity0.977 because publication context differs.",
+      "recommendation": "Ask editors whether this was an intentional republication before deduplicating or changing issue membership. Preserve both archived originals until decision.",
+      "status": "not_modified"
+    },
+    {
+      "id": "academy-roster",
+      "severity": "low",
+      "type": "identity-review-required",
+      "title": "Academy member list repeats two names",
+      "paths": [
+        "public/whoweare.html"
+      ],
+      "evidence": "ପ୍ରଶାନ୍ତ କୁମାର ସ୍ୱାଇଁ appears as96and107; ଲାବଣ୍ୟ ଚନ୍ଦ୍ର ସାହୁ appears as104and116.",
+      "recommendation": "Verify against academy roster before removing entries; identical names alone cannot prove identical people.",
+      "status": "not_modified"
+    },
+    {
+      "id": "reader-musha-art",
+      "severity": "low",
+      "type": "reader-entry-repetition",
+      "title": "Musha Mushi reader repeats its opening illustration before poem1",
+      "paths": [
+        "public/books/musha_mushi/illustrated.html"
+      ],
+      "evidence": "Header img.cover-art and first img.story-art both use /books/musha_mushi/art/poem-01-v1.jpg.",
+      "recommendation": "For reader redesign, keep one compact book identity/header and begin at the first poem without a second large hero illustration. Keep artwork and source assets intact.",
+      "status": "not_modified"
+    },
+    {
+      "id": "reader-forest-art",
+      "severity": "low",
+      "type": "reader-entry-repetition",
+      "title": "Forest reader repeats its cover artwork as chapter1 opening",
+      "paths": [
+        "public/books/paresh/forest.html"
+      ],
+      "evidence": "Header img.cover and first img.story-art both use assets/forest-opening-v1-anatomy-v2.jpg.",
+      "recommendation": "Explore a compact reader header or cover as a separate first page to avoid two consecutive full presentations of the same illustration.",
+      "status": "not_modified"
+    }
+  ],
+  "intentional_repetition": [
+    "November all-writing.html is the complete-issue alternative to individual article pages; repeated article text is intentional, not two submissions in an edition.",
+    "Homepage, edition contents and author contribution pages reference the same articles intentionally. Shared navigation, edition context, source credits and author bylines are necessary orientation.",
+    "Book original scans, illustrated versions and text/reading variants preserve distinct reading purposes and should not be deleted because titles repeat.",
+    "Kete Jami illustrated reader reuses sprite-sheet image URLs with different panel crops; repeated src values are not repeated visual panels.",
+    "Brand page design/art sections and AI disclosure partly discuss similar topics but serve distinct design-principle and provenance/credit purposes. No exact long paragraph repetition found there after the recent consolidation."
+  ],
+  "resolved_in_current_source": [
+    "Old /credits/ page absent; unified /our-brand/ is the current credit/process home.",
+    "About team list now links to the unified page; Studio no longer links into public brand navigation."
+  ],
+  "privacy": "No new privacy issue found in this bounded audit; this is not a full authentication or data-exposure audit.",
+  "repository_changes": []
+}
