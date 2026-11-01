@@ -27,6 +27,14 @@ for path in pages.rglob('*.html'):
         return match[1] + content + match[3]
 
     after = nav_pattern.sub(navigation, before)
+    # Keep artwork disclosure central, without removing editorial review status.
+    after = after.replace('Editorial approval pending · Article illustrations are AI-generated.', 'Editorial approval pending')
+    after = re.sub(r'<p\b[^>]*class="nov-review-note"[^>]*>Article illustrations are AI-generated\.</p>', '', after)
+    def credits_link(match):
+        if 'href="/credits/"' in match[0]:
+            return match[0]
+        return match[1] + match[2] + '<a href="/credits/">ଶ୍ରେୟ ଓ ଚିତ୍ରକଳା</a>' + match[3]
+    after = re.sub(r'(<nav aria-label="Footer">)(.*?)(</nav>)', credits_link, after, flags=re.S)
     if after != before:
         path.write_text(after)
         changed += 1

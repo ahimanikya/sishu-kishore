@@ -31,7 +31,7 @@ for f in (P/nov.lstrip('/')).rglob('*.html'):
  for before,after in profile_map.items():text=text.replace(before,after)
  s=BeautifulSoup(text,'html.parser');route='/'+str(f.relative_to(P));route=route.removesuffix('index.html') if route.endswith('/index.html') else route
  canonical(s,route);s.body['data-reading-issue']=nov
- for note in s.select('.nov-review-note'):note.string='Article illustrations are AI-generated.'
+ for note in s.select('.nov-review-note'):note.decompose()
  write(route+'index.html' if route.endswith('/') else route,s)
 for before,after in profile_map.items():
  s=read(before);canonical(s,after);write(after,s);(P/before.lstrip('/')).unlink()

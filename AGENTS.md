@@ -25,3 +25,5 @@ Cover direction (1 November 2026, latest user correction): Keep lettering direct
 Cover readability refinement (1 November 2026): The user permits softening immediately behind the lettering, but not across the cover width. Keep each feathered backdrop tied to the actual title/subtitle/date text width; retain transparent cover-wide text containers and the glyph outline fallback.
 
 Cover colour refinement (1 November 2026): Select lettering colours to complement each illustration, using scripts/cover-palettes.json. Do not force white/cream type on every issue. Keep opacity/blur local to the words, preserve full-height artwork, and verify the same palette in archive, issue and reader views.
+
+Artwork disclosure (1 November 2026): Keep the AI artwork disclosure and Ahimanikya Satapathy’s illustration-direction/digital-design credit on /credits/, linked from the magazine footer. Do not restore repeated AI-generated notices on individual pages. Preserve original author/artist credits, printed artwork, and editorial-review status.
