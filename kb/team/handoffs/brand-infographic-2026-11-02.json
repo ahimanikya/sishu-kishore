@@ -1,0 +1,67 @@
+{
+  "id": "brand-infographic-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Create a similar Sishu infographic using supplied Kabita Live reference.",
+  "coordinator": "Disha",
+  "input_head": "c44ece80f8d298e2933a41d5b2a8add1c181db52",
+  "task": "Create local four-panel Odia brand colour infographic with approved logo and original Sishu metaphors.",
+  "workers": [
+    {
+      "role": "Drishti",
+      "runtime": "/root/reader_options_review_nov",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Four-panel brand infographic passed separate visual review.",
+        "evidence": [
+          "Viewed full portrait image: complete logo symbol and single-line lettering are visible; title, subtitle, all four panels and footer are inside margins.",
+          "Four panel headings/captions visually match requested Odia: morning sunshine/joy, open sky/imagination, young leaves/growth, open book/story home.",
+          "Footer visibly reads shishukishora.com; no Kabita Live name, logo or fruit/water narrative copied.",
+          "Sunlit courtyard, kite/open sky, fresh leaves and open book form a coherent Sishu colour narrative; no artwork or lettering clipping observed.",
+          "Provenance records exact prompt and local-only artifact status."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/brand-infographic-2026-11-02.json",
+    "kb/team/operations.json",
+    "public/media/sishu-colour-story-infographic-v1.png",
+    "provenance/brand-infographic-v1.json"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/reader_options_review_nov",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "public/media/sishu-colour-story-infographic-v1.png": "1822763f219bd47aac6bdea3426e682c74c8b3db17805d0586f22c9863407ee3",
+      "provenance/brand-infographic-v1.json": "536765b406af4f20a2ecea0654976c1b3b39ea566ac32bd2289767af2bdf0d70"
+    },
+    "evidence": [
+      "Viewed full portrait image: complete logo symbol and single-line lettering are visible; title, subtitle, all four panels and footer are inside margins.",
+      "Four panel headings/captions visually match requested Odia: morning sunshine/joy, open sky/imagination, young leaves/growth, open book/story home.",
+      "Footer visibly reads shishukishora.com; no Kabita Live name, logo or fruit/water narrative copied.",
+      "Sunlit courtyard, kite/open sky, fresh leaves and open book form a coherent Sishu colour narrative; no artwork or lettering clipping observed.",
+      "Provenance records exact prompt and local-only artifact status."
+    ],
+    "limitations": [
+      "Visual review of generated Odia lettering, not native-human proofreading or OCR certification.",
+      "Artwork colours are narrative approximations, not verified exact hexadecimal swatches.",
+      "Logo is a generated faithful rendition, not a pixel-identical source composite.",
+      "Artifact only; embedding, mobile-page rendering and publication were not performed."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "PNG and exact generation prompt preserved in project.",
+      "Title, four captions, logo and website visually checked; no page edits or publication."
+    ]
+  },
+  "next_action": "User reviews infographic; embedding/publication not performed.",
+  "coordinator_reservations_released": true
+}
