@@ -1,6 +1,6 @@
 {
   "reviewed": "2026-10-10",
-  "policy": "Only identity-corroborated groups. Original literary bylines unchanged. Source contribution cards retained here for lossless, repeatable merging. User requested no forwarding: old pages and earlier redirect aliases are offline only.",
+  "policy": "Only identity-corroborated groups. Original literary bylines unchanged. Source contribution cards retained here for lossless, repeatable merging. User requested no forwarding: old pages and earlier redirect aliases are offline only. Groups explicitly marked preserveAliasRoutes preserve their former URLs as noindex forwarding pages under the November 2026 link-preservation instruction; historical groups keep their previous behavior.",
   "groups": [
     {
       "slug": "kamalakanta-jena",
@@ -607,6 +607,60 @@
             "<li><a class=\"contribution-title\" href=\"/shishu/article_details-ba75d31188.html\">ଶ୍ରୀରାମଙ୍କ  ଦେବୀ ପୂଜା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/shishu/old_issues_details-4de6385d8a.html\">ଅକ୍ଟୋବର: ୨୦୨୫</a></small></li>"
           ],
           "archive": "provenance/writer-profile-archive/2026-10-10/2c2d39d45599.html"
+        }
+      ]
+    },
+    {
+      "slug": "gitanjali-swain",
+      "canonical": "/writers/4b75b270fdbe.html",
+      "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ",
+      "preserveAliasRoutes": true,
+      "members": [
+        {
+          "route": "/writers/4b75b270fdbe.html",
+          "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ",
+          "identityEvidence": "Three source signatures share Kanan Vihar Phase 2, Patia, Bhubaneswar-24; the July 2026 signature states retired female teacher. Orthographic variants only. Existing research and identical sourced biographies corroborate the identity; no unverified award or portrait added.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/article_details-9df5c5273b.html\">ଗଛ କାଟନା ଭାଇ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-bf55bf225f.html\">ଜୁଲାଇ: ୨୦୨୬</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/article_details-08b170a18c.html\">ବିଲାତି ଆଳୁ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-02dcbb12fc.html\">ମଇ: ୨୦୨୬</a></small></li>"
+          ]
+        },
+        {
+          "route": "/writers/3cab06f38bc2.html",
+          "name": "ଗୀତାଞ୍ଜଳି ସ୍ଵାଇଁ",
+          "identityEvidence": "Three source signatures share Kanan Vihar Phase 2, Patia, Bhubaneswar-24; the July 2026 signature states retired female teacher. Orthographic variants only. Existing research and identical sourced biographies corroborate the identity; no unverified award or portrait added.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/article_details-595234403d.html\">ଜହ୍ନ ମାମୁଁ ଆମର<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-cb3d189e4b.html\">ନଭେମ୍ବର: ୨୦୨୫</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-11-02/3cab06f38bc2.html"
+        }
+      ]
+    },
+    {
+      "slug": "jayanta-kumar-ojha",
+      "canonical": "/writers/bef5579559e6.html",
+      "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
+      "preserveAliasRoutes": true,
+      "members": [
+        {
+          "route": "/writers/bef5579559e6.html",
+          "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
+          "identityEvidence": "Both name spellings share SSPL, DRDO, Timarpur, Delhi institutional signatures and identical published contact in March 2024 and January 2025 source pages. March 2024 explicitly states Technical Officer; January 2025 also supplies Bhanra/Bhurunga/Jajpur. Existing research corroborates identity, not name similarity alone.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/article_details-539c536ea6.html\">ପଣା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-083c8367be.html\">ଏପ୍ରିଲ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/article_details-8d4b45cea6.html\">ହେ ନୂଆ ସକାଳ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-8d69dd7d5f.html\">ଜାନୁୟାରୀ: ୨୦୨୫</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/article_details-497f81d502.html\">ସବୁ ମନ ଯିବୁ ଆମେ ଛୁଇଁରେ<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-80b4c3e98a.html\">ଅକ୍ଟୋବର: ୨୦୨୪</a></small></li>",
+            "<li><a class=\"contribution-title\" href=\"/article_details-c318b480b0.html\">ଆମର ସେ କେଡେ ଭରସା<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-744bf97428.html\">ଜୁଲାଇ: ୨୦୨୪</a></small></li>"
+          ]
+        },
+        {
+          "route": "/writers/8218162be47d.html",
+          "name": "ଜୟନ୍ତକୁମାର ଓଝା",
+          "identityEvidence": "Both name spellings share SSPL, DRDO, Timarpur, Delhi institutional signatures and identical published contact in March 2024 and January 2025 source pages. March 2024 explicitly states Technical Officer; January 2025 also supplies Bhanra/Bhurunga/Jajpur. Existing research corroborates identity, not name similarity alone.",
+          "contributions": [
+            "<li><a class=\"contribution-title\" href=\"/article_details-bbb00f4e2b.html\">ବୃନ୍ଦାବନ ମାଙ୍କଡ଼<span class=\"contribution-arrow\" aria-hidden=\"true\">→</span></a><small><a class=\"contribution-edition\" href=\"/old_issues_details-e20aeb3604.html\">ମାର୍ଚ : ୨୦୨୪</a></small></li>"
+          ],
+          "archive": "provenance/writer-profile-archive/2026-11-02/8218162be47d.html"
         }
       ]
     }

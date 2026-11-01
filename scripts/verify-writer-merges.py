@@ -16,7 +16,14 @@ for g in groups:
  for m in g['members']:
   if m['route']==g['canonical']:continue
   assert cards(Path(m['archive']).read_text().replace('/shishu/', '/'))==m['contributions']
-  assert not (root/m['route'].lstrip('/')).exists()
+  alias=root/m['route'].lstrip('/')
+  if g.get('preserveAliasRoutes'):
+   forwarding=alias.read_text()
+   assert 'noindex' in forwarding and 'http-equiv="refresh"' in forwarding
+   assert 'url='+g['canonical'] in forwarding and 'href="'+g['canonical']+'"' in forwarding
+   assert not cards(forwarding)
+  else:
+   assert not alias.exists()
   assert m['route'] not in sitemap
   assert 'href="'+m['route']+'"' not in directory
 print(f'Writer merges verified: {len(groups)} canonical profiles, {sum(len(g["members"])-1 for g in groups)} archived originals, complete contribution unions and no live duplicates.')

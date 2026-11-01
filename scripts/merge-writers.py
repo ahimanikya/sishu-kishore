@@ -29,9 +29,18 @@ for g in groups:
   return s
  directory=re.sub(r'<li\b[^>]*data-writer="[^"]*".*?</li>',card_update,directory,flags=re.S)
 index.write_text(directory)
-# Original profiles are archived in provenance and are not published or redirected.
+# Historical merges remain withdrawn; new explicitly approved aliases can forward.
+forwarding={m['route']:g for g in groups if g.get('preserveAliasRoutes') for m in g['members'] if m['route']!=g['canonical']}
 for old in list(redirects)+[x['route'] for x in manifest.get('archivedLegacyAliases',[])]:
- (ROOT/old.lstrip('/')).unlink(missing_ok=True)
+ alias=ROOT/old.lstrip('/')
+ if old in forwarding:
+  group=forwarding[old];target=escape(group['canonical'],quote=True);name=escape(group['name'])
+  member=next(m for m in group['members'] if m['route']==old)
+  original=Path(member['archive']).read_text()
+  sharing=''.join(tag for tag in re.findall(r'<meta\b[^>]*>',original) if re.search(r'(?:property|name)="(?:og:|twitter:)',tag))
+  alias.write_text(f'''<!doctype html><html lang="or"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url={target}"><link rel="canonical" href="{ORIGIN}{target}"><link rel="stylesheet" href="/children-identity.css"><title>{name} · ଲେଖକ ପରିଚୟ</title>{sharing}</head><body><main><h1>{name}</h1><p>ଲେଖକଙ୍କ ପରିଚୟ ଓ ସମସ୍ତ ଲେଖା ଏକାଠି ରହିଛି। <a href="{target}">ଲେଖକ ପରିଚୟ ପଢ଼ନ୍ତୁ →</a></p></main></body></html>''')
+ else:
+  alias.unlink(missing_ok=True)
 # Internal links point directly to the canonical profile; byline text stays untouched.
 for p in ROOT.rglob('*.html'):
  s=p.read_text();updated=s

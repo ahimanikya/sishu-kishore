@@ -1,0 +1,109 @@
+{
+  "runtime": "/root/cleanup_narratives",
+  "scope": "About narrative tightening and seven news summary replacements only.",
+  "status": "local candidate; not published",
+  "changed_files": [
+    "public/our-brand/index.html",
+    "public/news.html"
+  ],
+  "preserved": [
+    "Editorial team and Creative Editor section unchanged",
+    "AI team text unchanged",
+    "Personal reflection details unchanged",
+    "Infographic unchanged",
+    "All seven archive article files unchanged",
+    "Four newer reports without matched standalone archive remain in full; total overview entries11"
+  ],
+  "guidance": {
+    "id": "html",
+    "quote": "use a single `<h1>` per page/view representing the main topic",
+    "application": "Kept one page heading, used article titles as h2, dates as time elements and descriptive native archive links. Repeated decorative news thumbnails have empty alternative text."
+  },
+  "news_sources": [
+    {
+      "source": "public/article_details-5490f0a95b.html",
+      "source_sha256": "112f04bf29ec00b5822fa4f1e9fcea1dc10d76f78d5ef5fb276a47a0113b3bd7",
+      "date": "ତା ୨୭.୦୧.୨୦୨୪",
+      "datetime": "2024-01-27",
+      "title": "ଇ – ପତ୍ରିକା ଉନ୍ମୋଚନ",
+      "summary": "ଭୁବନେଶ୍ୱରର ଜୟଦେବ ଭବନରେ ଶିଶୁ କିଶୋର ଇ-ପତ୍ରିକା ଉନ୍ମୋଚିତ ହୋଇଥିଲା। ପଦ୍ମଶ୍ରୀ ଦେବୀ ପ୍ରସନ୍ନ ପଟ୍ଟନାୟକ ମୁଖ୍ୟ ଅତିଥି ଭାବେ ଯୋଗ ଦେଇଥିଲେ।",
+      "link": "/article_details-5490f0a95b.html",
+      "verified": "Exact normalized original news paragraph matched archive subject; date retained from original overview."
+    },
+    {
+      "source": "public/article_details-7e5a414972.html",
+      "source_sha256": "5259186c481f483ab307586148d61376c240745710f4c9fc4a77695033648c92",
+      "date": "ତା୧୮/୧୨/୨୨",
+      "datetime": "2022-12-18",
+      "title": "ପୁସ୍ତକ ଉନ୍ମୋଚନ ଏବଂ ଆଲୋଚନା ଚକ୍ର",
+      "summary": "ଭୁବନେଶ୍ୱରର ଶ୍ରୀ ଜୟଦେବ ଶିକ୍ଷା କେନ୍ଦ୍ରରେ ପୁସ୍ତକ ଉନ୍ମୋଚନ ଓ ଆଲୋଚନା ଚକ୍ର ହୋଇଥିଲା। ‘ମନଛୁଁଆ କାହାଣି ପେଡି’ ଓ ‘ଶିଶୁ ସାହିତ୍ୟିକ ଚତୁଷ୍ଟୟ’ ଉନ୍ମୋଚିତ ହୋଇଥିଲା।",
+      "link": "/article_details-7e5a414972.html",
+      "verified": "Exact normalized original news paragraph matched archive subject; date retained from original overview."
+    },
+    {
+      "source": "public/article_details-c274d2130c.html",
+      "source_sha256": "3dfe350c8962c1bacf47444dd99201b693dec7be17462d7bdbf0b1e5e2daaf82",
+      "date": "ତା୨୪/୦୯/୨୩",
+      "datetime": "2023-09-24",
+      "title": "ନୟାଗଡ଼ରେ ଶିଶୁ ସାହିତ୍ଯ ଆଲୋଚନା",
+      "summary": "ନୟାଗଡ଼ର ବ୍ରଜେନ୍ଦ୍ର ସରକାରୀ ଉଚ୍ଚ ବିଦ୍ୟାଳୟରେ ଶିଶୁ ସାହିତ୍ୟ ବିଷୟରେ ବୈଠକ ହୋଇଥିଲା। ଏହି ଅବସରରେ ଶତାଧିକ କବି କବିତା ପାଠ କରିଥିଲେ।",
+      "link": "/article_details-c274d2130c.html",
+      "verified": "Exact normalized original news paragraph matched archive subject; date retained from original overview."
+    },
+    {
+      "source": "public/article_details-5a0438bc0c.html",
+      "source_sha256": "e771b77ea29e8b0f94bf9df49aac70f0531f4c22234fa951c0d39b87150c8b07",
+      "date": "ତା୦୬/୦୯/୨୩",
+      "datetime": "2023-09-06",
+      "title": "ପ୍ରଥମ ବାର୍ଷିକ ଉତ୍ସବ",
+      "summary": "ଭୁବନେଶ୍ୱରର ଯଯାତି ହୋଟେଲ ସଭାଗୃହରେ ଏକାଡେମୀର ପ୍ରଥମ ବାର୍ଷିକ ଉତ୍ସବ ପାଳିତ ହୋଇଥିଲା। ବାର୍ଷିକ ବିବରଣୀ ପାଠ ସହ ଇ-ପତ୍ରିକା ପ୍ରକାଶନର ପ୍ରସ୍ତାବ ରଖାଯାଇଥିଲା।",
+      "link": "/article_details-5a0438bc0c.html",
+      "verified": "Exact normalized original news paragraph matched archive subject; date retained from original overview."
+    },
+    {
+      "source": "public/article_details-0bb4428279.html",
+      "source_sha256": "d869c93099c9303afc00a9cee88339d1b42525788c95f19d1c73b964ff328f9b",
+      "date": "ତା୩୦/୦୭/୨୩",
+      "datetime": "2023-07-30",
+      "title": "ଡକ୍ଟର ଯୁଗଳ ଷଡଙ୍ଗୀଙ୍କୁ ସମ୍ବର୍ଧନା",
+      "summary": "କେନ୍ଦ୍ର ସାହିତ୍ୟ ଏକାଡେମୀ ପୁରସ୍କାର ପାଇଁ ମନୋନୀତ ଡକ୍ଟର ଯୁଗଳ ଷଡଙ୍ଗୀଙ୍କୁ ସମ୍ବର୍ଧନା ଦିଆଯାଇଥିଲା। ଏହି ଅବସରରେ ଶିଶୁ ସାହିତ୍ୟ ଓ ବିଜ୍ଞାନ ବିଷୟରେ ଆଲୋଚନା ହୋଇଥିଲା।",
+      "link": "/article_details-0bb4428279.html",
+      "verified": "Exact normalized original news paragraph matched archive subject; date retained from original overview."
+    },
+    {
+      "source": "public/article_details-84ba455f6e.html",
+      "source_sha256": "57e0dada76d129dfb54a8d0aa039e69596f166a8bf85d8ce373d1ce8685103f2",
+      "date": "ତା୦୪/୦୯/୨୦୨୨",
+      "datetime": "2022-09-04",
+      "title": "ଡକ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ  ଙ୍କୁ ସମ୍ବର୍ଧନା",
+      "summary": "ଏକାଡେମୀର ଦ୍ୱିତୀୟ ବୈଠକରେ ଡକ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସଙ୍କୁ ସମ୍ବର୍ଧନା ଦିଆଯାଇଥିଲା। ସେ ୨୦୨୨ ମସିହାର କେନ୍ଦ୍ର ସାହିତ୍ୟ ଏକାଡେମୀ ପୁରସ୍କାର ପାଇଁ ମନୋନୀତ ହୋଇଥିଲେ।",
+      "link": "/article_details-84ba455f6e.html",
+      "verified": "Exact normalized original news paragraph matched archive subject; date retained from original overview."
+    },
+    {
+      "source": "public/article_details-7d302037d1.html",
+      "source_sha256": "75aa3e433ead93d756b2ab8652973f0f323a73d11a7b1e3e07d81e286f9b8d7a",
+      "date": "ତା୧୮/୦୮/୨୦୨୨",
+      "datetime": "2022-08-18",
+      "title": "ଓଡିଶା ଶିଶୁ କିଶୋର ସାହିତ୍ୟ ଏକାଡେମୀ ଗଠନ",
+      "summary": "ଭୁବନେଶ୍ୱରର ଶୈଳଶ୍ରୀବିହାର ମା ମଙ୍ଗଳା ମନ୍ଦିର ପରିସରରେ ଓଡ଼ିଶା ଶିଶୁ କିଶୋର ସାହିତ୍ୟ ଏକାଡେମୀ ଗଠିତ ହୋଇଥିଲା। ବିଭିନ୍ନ ଜିଲ୍ଲାର ଶିଶୁ ସାହିତ୍ୟ ସ୍ରଷ୍ଟାମାନେ ବୈଠକରେ ଯୋଗ ଦେଇଥିଲେ।",
+      "link": "/article_details-7d302037d1.html",
+      "verified": "Exact normalized original news paragraph matched archive subject; date retained from original overview."
+    }
+  ],
+  "checks": [
+    "Seven exact source matches before replacement",
+    "Archive hashes retained",
+    "Personal reflection and protected sections compared unchanged"
+  ],
+  "limitations": [
+    "Coordinator to run full tests/build, responsive checks and separate review.",
+    "Odia summaries derived from existing reports; no external historical verification or human proofreading claimed."
+  ],
+  "size_change": {
+    "about_chars_before": 18253,
+    "about_chars_after": 16928,
+    "news_chars_before": 22750,
+    "news_chars_after": 20119
+  }
+}

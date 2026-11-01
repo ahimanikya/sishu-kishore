@@ -5,6 +5,7 @@ import json,re
 
 ROOT=Path('public')
 writers=json.loads(Path('provenance/writer-research-2026-10-10.json').read_text())['writers']
+merged_aliases={m['route'] for g in json.loads(Path('provenance/writer-merges.json').read_text())['groups'] for m in g['members'] if m['route']!=g['canonical']}
 index=ROOT/'writers.html'
 directory=index.read_text()
 css='<link rel="stylesheet" href="/writer-discovery.css?v=1">'
@@ -16,6 +17,8 @@ def meta(text,key,value):
     return re.sub(pattern,lambda _:tag,text) if re.search(pattern,text) else text.replace('</head>',tag+'</head>')
 
 for w in writers:
+    # Alias pages forward to the reviewed canonical biography; never enrich them.
+    if w['route'] in merged_aliases:continue
     path=ROOT/w['route'].lstrip('/')
     text=path.read_text()
     if w.get('portrait'):assert (ROOT/w['portrait'].lstrip('/')).exists(),w['portrait']

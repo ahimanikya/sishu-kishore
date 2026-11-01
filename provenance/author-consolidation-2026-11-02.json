@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-02",
+  "role": "Anvesha",
+  "runtime": "/root/cleanup_profiles",
+  "status": "configuration prepared; generator integration and review pending",
+  "input_revision": "e8c73ebf40c3325ecb32d944cc9dbcb445ecf825",
+  "authorization": "User accepted cleanup of the two duplicate author-profile pairs, preserving contributions and existing links.",
+  "scope": "Identity-corroborated consolidation configuration only; no generated pages or original literary wording edited.",
+  "groups": [
+    {
+      "slug": "gitanjali-swain",
+      "canonical": "/writers/4b75b270fdbe.html",
+      "alias": "/writers/3cab06f38bc2.html",
+      "canonical_reason": "Retain established route containing the larger contribution list and the conventional spaced/orthographic name.",
+      "expected_unique_contributions": 3,
+      "contribution_routes": [
+        "/article_details-9df5c5273b.html",
+        "/article_details-08b170a18c.html",
+        "/article_details-595234403d.html"
+      ],
+      "identity_evidence": "Three source signatures share Kanan Vihar Phase 2, Patia, Bhubaneswar-24; the July 2026 signature states retired female teacher. Orthographic variants only. Existing research and identical sourced biographies corroborate the identity; no unverified award or portrait added.",
+      "sources": [
+        "provenance/writer-research-2026-10-10.json",
+        "public/article_details-9df5c5273b.html",
+        "public/article_details-595234403d.html",
+        "public/article_details-08b170a18c.html"
+      ],
+      "archive_required": "provenance/writer-profile-archive/2026-11-02/3cab06f38bc2.html",
+      "source_sha256": {
+        "public/writers/4b75b270fdbe.html": "598102d206439d88c042655b2be29caa1637c3c994a1d7a028736ede1823c5cd",
+        "public/writers/3cab06f38bc2.html": "ed6d5e3df2b0ac86eb988f7bc8b1661d0f79bb30d0673ee0d70e12aadddf2191",
+        "public/article_details-9df5c5273b.html": "3ae7c6eaba6d8996db0ee6ba4af1076ef8a4539b532ef6ee1aa1344769b10559",
+        "public/article_details-595234403d.html": "8eb154a21ddbd7e071d8b5cb35362edc9ec1d2289be2372c66fbf8a4c91a35ea",
+        "public/article_details-08b170a18c.html": "9abe3c69b1423f994224f438fc308f5a818a5171b2af98203ef9145f308cb840"
+      },
+      "preserveAliasRoutes": true
+    },
+    {
+      "slug": "jayanta-kumar-ojha",
+      "canonical": "/writers/bef5579559e6.html",
+      "alias": "/writers/8218162be47d.html",
+      "canonical_reason": "Retain established route containing the larger contribution list and the conventional spaced/orthographic name.",
+      "expected_unique_contributions": 5,
+      "contribution_routes": [
+        "/article_details-539c536ea6.html",
+        "/article_details-8d4b45cea6.html",
+        "/article_details-497f81d502.html",
+        "/article_details-c318b480b0.html",
+        "/article_details-bbb00f4e2b.html"
+      ],
+      "identity_evidence": "Both name spellings share SSPL, DRDO, Timarpur, Delhi institutional signatures and identical published contact in March 2024 and January 2025 source pages. March 2024 explicitly states Technical Officer; January 2025 also supplies Bhanra/Bhurunga/Jajpur. Existing research corroborates identity, not name similarity alone.",
+      "sources": [
+        "provenance/writer-research-2026-10-10.json",
+        "public/article_details-bbb00f4e2b.html",
+        "public/article_details-8d4b45cea6.html",
+        "public/article_details-539c536ea6.html",
+        "public/article_details-497f81d502.html",
+        "public/article_details-c318b480b0.html"
+      ],
+      "archive_required": "provenance/writer-profile-archive/2026-11-02/8218162be47d.html",
+      "source_sha256": {
+        "public/writers/bef5579559e6.html": "6562d5d4266093d8b19c06636d3d4f61ac39f498b898c89f8a0ae572d55c0d3d",
+        "public/writers/8218162be47d.html": "4d45ba846d11f187ba1264b85a5ccfa548e2b7e0ac4f23a347138c462e3fe7b1",
+        "public/article_details-bbb00f4e2b.html": "3b1bb063a72c468e5d2411674ef15bab8ab42ee0a43a7273a712f7ddf24727a9",
+        "public/article_details-8d4b45cea6.html": "396c01f264e3b7ee20ff2065db913d102176c0aeeb8ad02bd5d016ec5ab9b75b",
+        "public/article_details-539c536ea6.html": "579218314c8a47e238bd04b7601608af1f9a3a7d6b12f3c7c10b8ca5ad140bb0",
+        "public/article_details-497f81d502.html": "5ee2635e743ce7326f3c534ba4483016b4c909167f69f67abfb07a417e8fab1b",
+        "public/article_details-c318b480b0.html": "ec79f0a2481e5fd22c45623afcd7fc70f9755368434c8fe5f981c851aa2d0483"
+      },
+      "preserveAliasRoutes": true
+    }
+  ],
+  "integration_requirements": [
+    "Archive the exact two alias source profiles at the recorded paths before running merge-writers.py.",
+    "Add opt-in preserveAliasRoutes support to merge generator and verifier; historical aliases remain unchanged.",
+    "Run full build to update internal links, directory, discovery and editor choices; verify three and five unique contributions and original bylines."
+  ],
+  "limitations": [
+    "No new external biography or portrait research performed; identity rests on existing research and original locally preserved source signatures.",
+    "No publication or generator run performed by this worker."
+  ]
+}

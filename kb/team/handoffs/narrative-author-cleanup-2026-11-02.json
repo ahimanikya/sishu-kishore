@@ -1,0 +1,128 @@
+{
+  "id": "narrative-author-cleanup-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "ok, let’s go — complete recommended cleanup items 1–3, then review reader designs.",
+  "coordinator": "Disha",
+  "task": "Tighten brand narrative, consolidate two verified profile pairs and shorten seven duplicate news items.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/cleanup_profiles",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "provenance/writer-merges.json",
+        "provenance/author-consolidation-2026-11-02.json"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Reserved work completed and integrated.",
+        "evidence": [
+          "Source evidence and checks recorded in task provenance."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/cleanup_narratives",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/our-brand/index.html",
+        "public/news.html",
+        "provenance/narrative-cleanup-2026-11-02.json"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Reserved work completed and integrated.",
+        "evidence": [
+          "Source evidence and checks recorded in task provenance."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/cleanup_drishti",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Pass with limitations; all blocking findings resolved.",
+        "evidence": [
+          "All seven news summaries compared against archive report bodies and supported; 11 overview reports retained, first four full reports text unchanged.",
+          "Team, infographic and personal reflection text compared unchanged; original-art credits preserve source wording and attribution obligations.",
+          "Canonical profile contribution sets equal the expected three and five unique article routes.",
+          "Two archived source profiles match recorded original SHA256 values.",
+          "Eight contributed literary subject bodies and seven archive news bodies compare unchanged to HEAD.",
+          "New alias routes forward to canonical profiles, are noindex and absent from sitemap; historical merge behavior unchanged.",
+          "Sharing metadata copied from original archived aliases; author enrichment skips configured alias routes before full-profile assumptions.",
+          "Coordinator build log passes all checks including18canonical merges/33archived originals; 110 tests passed including repeated publication workflow build.",
+          "git diff --check passed."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/narrative-author-cleanup-2026-11-02.json",
+    "kb/team/operations.json",
+    "scripts/merge-writers.py",
+    "scripts/verify-writer-merges.py",
+    "scripts/enrich-writers.py"
+  ],
+  "review": {
+    "runtime": "/root/cleanup_drishti",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "public/our-brand/index.html": "dac1729bb5d02a66ececf532441e300566869d24720b4be9026504279960dc37",
+      "public/news.html": "c33d3ce6bf691d2e906475b0756140138606a89cd4aea4af427d5dff433eda39",
+      "scripts/merge-writers.py": "8bd81601fcd07dc4ee2bff188e2bad48598d5605d54b97d63fdc2aa4866935e8",
+      "scripts/enrich-writers.py": "ea47a5c449f85919d861c023e2920477b7d0372620e7cec5a52572b14f37c135",
+      "scripts/verify-writer-merges.py": "63daaa768fdd67851e6d2e2ff72eb9efc7a58c873a05c1afcaf6de0b3bb4cefe",
+      "provenance/writer-merges.json": "d8d7fd3ff8d3c77b71fe6005a35d5874ee5c99f5d7d2160151839b3e40bd70c3",
+      "provenance/author-consolidation-2026-11-02.json": "e39693ebba0aeee4cace9778687ef4c9872808db7325a89435800048d37feb7f",
+      "provenance/narrative-cleanup-2026-11-02.json": "a8043e24c96ca820071af5fed39fae3b5b99817bf1833d8d6945eeccdcbaaed4",
+      "public/writers/4b75b270fdbe.html": "bc523ef70f46eac13514b5ad2f765ba9ff8463df2337fcac36bfbe8445fa6af5",
+      "public/writers/bef5579559e6.html": "310ca674cee8bcdcaba0527a1a42f1550c3b3730f40b80f25a75ebdeed07c167",
+      "public/writers/3cab06f38bc2.html": "195a0a4755d2b463344eb2a2b03ba8d8b24f47ca7c37d89d1d66e8d9216853e3",
+      "public/writers/8218162be47d.html": "b5f9852c737d0a06b09a5c041b3840b77a2f228bf1c0eccb54d3a4245129fbf7",
+      "provenance/writer-profile-archive/2026-11-02/3cab06f38bc2.html": "ed6d5e3df2b0ac86eb988f7bc8b1661d0f79bb30d0673ee0d70e12aadddf2191",
+      "provenance/writer-profile-archive/2026-11-02/8218162be47d.html": "4d45ba846d11f187ba1264b85a5ccfa548e2b7e0ac4f23a347138c462e3fe7b1"
+    },
+    "findings": [],
+    "resolved_findings": [
+      "Repeated build failed because enrich-writers attempted full biography enrichment on new forwarding aliases; fixed by excluding configured merged aliases before enrichment, successful repeat-build test verified."
+    ],
+    "evidence": [
+      "All seven news summaries compared against archive report bodies and supported; 11 overview reports retained, first four full reports text unchanged.",
+      "Team, infographic and personal reflection text compared unchanged; original-art credits preserve source wording and attribution obligations.",
+      "Canonical profile contribution sets equal the expected three and five unique article routes.",
+      "Two archived source profiles match recorded original SHA256 values.",
+      "Eight contributed literary subject bodies and seven archive news bodies compare unchanged to HEAD.",
+      "New alias routes forward to canonical profiles, are noindex and absent from sitemap; historical merge behavior unchanged.",
+      "Sharing metadata copied from original archived aliases; author enrichment skips configured alias routes before full-profile assumptions.",
+      "Coordinator build log passes all checks including18canonical merges/33archived originals; 110 tests passed including repeated publication workflow build.",
+      "git diff --check passed."
+    ],
+    "limitations": [
+      "Read-only code/content review; browser screenshots and interaction verification performed by coordinator, not this reviewer.",
+      "No native-human Odia proofreading or new external biographical research claimed.",
+      "Manifest covers key source and profile artifacts; mechanically regenerated discovery surfaces need coordinator integration check."
+    ],
+    "reviewer": "Drishti"
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "110 tests and full build passed; final npm check passed.",
+      "Browser checks at390/1280px: About, news and both canonical profiles have no horizontal overflow. Both old URLs forward and3/5 contributions verified.",
+      "Source poems and news archive bodies preserved. Unrelated generated changes reverted; canonical link changes retained.",
+      "Saved existing three reader concepts for user review; no new theme selected or deployed."
+    ]
+  },
+  "next_action": "User reviews cleanup and chooses a book-reader direction. Not published.",
+  "coordinator_reservations_released": true,
+  "input_head": "e8c73ebf40c3325ecb32d944cc9dbcb445ecf825"
+}
