@@ -51,6 +51,8 @@ def select_image(soup, path):
             return src
     if '/writers/' in str(path):
         candidates=soup.select('main img[src*="portraits/"]')
+    elif path.parent == ROOT/'our-brand':
+        return '/media/sishu-symbol-v1.png'
     elif path.name in ['index.html','current_issue.html']:
         return FALLBACK
     else:

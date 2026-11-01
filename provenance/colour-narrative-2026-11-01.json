@@ -1,0 +1,44 @@
+{
+  "purpose": "Present-day narrative for existing visual identity; not a historical account or claim of original palette intent.",
+  "source_palette": "public/children-identity.css",
+  "palette": {
+    "paper": "#fffdf6",
+    "ink": "#173f5f",
+    "blue": "#1767a1",
+    "yellow": "#ffd45b",
+    "green": "#26705b",
+    "coral": "#f18f7b"
+  },
+  "proposed_theme": "ଟିକିଏ ଖରା, ମୁଠାଏ ଆକାଶ, ଖୋଲା ବହିଟିଏ।",
+  "references": [
+    {
+      "project": "Project Odisha",
+      "source": "/Users/ahimanikya/Projects/Utkal Blueprint/output/bhubaneswar-week/site-publication/projects/site/src/pages/brand-review.astro",
+      "lesson": "Connect familiar materials to colour roles; do not invent historical or personal origins."
+    },
+    {
+      "project": "Kabita Live",
+      "source": "/Users/ahimanikya/Projects/Kabita Live/output/kabitalive-design-proposal-2026-09-29/site/templates/our-story-design.html",
+      "lesson": "Brief narrative, labelled colour meanings, symbol, typography and reading space."
+    },
+    {
+      "project": "Kabita without Borders",
+      "source": "/Users/ahimanikya/Projects/Poem Without Borders/output/fleet-alignment/checkouts/free-to-dream/kb/guides/brand.md",
+      "lesson": "Quiet reading canvas; artwork retains its own colours."
+    }
+  ],
+  "scope": "Original Odia prose, existing palette and approved symbol, no palette/cover/illustration changes.",
+  "contrast_checks": {
+    "ink/paper": 10.79,
+    "blue/paper": 5.91,
+    "green/paper": 5.81,
+    "ink/yellow": 7.75,
+    "ink/coral": 4.68
+  },
+  "limitations": [
+    "References inspected from local project sources, not live-site audit.",
+    "Narrative is new interpretation; native human editorial review not claimed."
+  ],
+  "destination": "/our-brand/",
+  "page_title": "ଆମ ପରିଚୟ"
+}

@@ -1,0 +1,33 @@
+/* The identity's existing colours are the subject here, not a new site palette. */
+.colour-story{max-width:1120px;color:var(--kid-ink)}
+.colour-intro{display:grid;grid-template-columns:minmax(0,1fr) 192px;gap:32px;align-items:center;padding:26px 0 32px;border-bottom:2px solid var(--kid-yellow)}
+.colour-intro h1{font-size:clamp(32px,3rem + 1vw,52px);margin:0 0 14px}
+.colour-story .colour-eyebrow{font-size:17px;color:var(--kid-green);margin:0 0 12px}
+.colour-story .colour-theme{font-size:clamp(24px,1.2rem + 1vw,34px);line-height:1.7;margin:0;color:var(--kid-blue);font-weight:600}
+.colour-symbol{width:192px;height:auto;aspect-ratio:1;max-width:100%;display:block}
+.colour-opening,.colour-reading{max-width:780px;margin:36px auto}
+.colour-story p{font-size:20px;line-height:1.95;margin:0 0 22px}
+.colour-story h2{font-size:28px;line-height:1.65;margin:0 0 20px}
+.colour-palette{margin:48px 0}
+.colour-grid{list-style:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px 28px;margin:24px 0 0;padding:0}
+.colour-grid li{min-width:0;background:var(--kid-paper);border:1px solid var(--kid-line);border-radius:18px;overflow:hidden;padding:0 22px 10px}
+.colour-swatch{display:block;height:76px;margin:0 -22px 20px;border-bottom:1px solid var(--kid-line)}
+.colour-sun{background:var(--kid-yellow)}.colour-blue{background:var(--kid-blue)}.colour-green{background:var(--kid-green)}.colour-coral{background:var(--kid-coral)}.colour-paper{background:var(--kid-paper)}.colour-ink{background:var(--kid-ink)}
+.colour-grid h3{font-size:23px;line-height:1.6;margin:0 0 12px}
+.colour-grid p{font-size:18px;line-height:1.9}
+.colour-reading{padding-top:28px;border-top:1px solid var(--kid-line)}
+.colour-back{max-width:780px;margin:32px auto!important}
+.colour-back a{display:inline-block;min-height:48px;padding:10px 0;color:var(--kid-blue);text-decoration:underline;text-underline-offset:5px}
+@media(max-width:850px){.colour-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.colour-intro{grid-template-columns:1fr;gap:22px;padding-top:16px}.colour-symbol{width:144px}.colour-grid{grid-template-columns:1fr;gap:22px}.colour-story p{font-size:19px}.colour-grid p{font-size:18px}.colour-palette{margin:36px 0}.colour-story h2{font-size:25px}.colour-intro h1{font-size:34px}.colour-opening,.colour-reading{margin:28px auto}}
+@media(forced-colors:active){.colour-grid li,.colour-swatch,.colour-reading,.colour-intro{border-color:CanvasText}.colour-swatch{forced-color-adjust:none}.colour-story .colour-eyebrow,.colour-story .colour-theme{color:CanvasText}.colour-back a{color:LinkText}}
+.brand-jumps{display:flex;flex-wrap:wrap;gap:10px 20px;padding:22px 0;border-bottom:1px solid var(--kid-line)}
+.brand-jumps a{display:inline-flex;align-items:center;min-height:48px;padding:6px 0;color:var(--kid-blue);font-size:17px;text-decoration:underline;text-underline-offset:5px}
+.colour-story :is(section,h2){scroll-margin-top:24px}
+.brand-editorial{max-width:780px;margin:52px auto 0;padding-top:36px;border-top:3px solid var(--kid-yellow)}
+.brand-editorial .ia-prose>section{margin:34px 0}
+.brand-editorial h3{font-size:23px;line-height:1.65;margin:26px 0 12px}
+.brand-editorial :is(li,summary){font-size:20px;line-height:1.95}
+.brand-editorial li{margin-bottom:16px}
+.brand-editorial summary{cursor:pointer;text-decoration:underline;text-underline-offset:5px}
+@media(forced-colors:active){.brand-jumps,.brand-editorial{border-color:CanvasText}.brand-jumps a{color:LinkText}}
