@@ -61,9 +61,10 @@
 }
 @media(max-width:360px){.shishu .ia-main>.ia-issue-intro:has(.storybook-cover){grid-template-columns:90px minmax(0,1fr);gap:14px;padding:20px 12px}.shishu .ia-main>.ia-issue-intro .storybook-cover-link{width:90px}.shishu .ia-main>.ia-issue-intro h1{font-size:23px}}
 
-/* Transparent masthead wordmark, without the old domain suffix. */
-.shishu .ia-brand .mag-brand-crop{display:block;width:224px;height:59px;overflow:hidden;flex:none}
-.shishu .ia-brand .mag-brand-crop img{display:block;width:224px!important;max-width:100%!important;height:59px!important;object-fit:contain;transform:none}
+/* Complete horizontal logo: reserve its natural ratio and never crop the icon or lettering. */
+.shishu .ia-brand{max-width:100%}
+.shishu .ia-brand .mag-brand-logo{display:block;width:280px;max-width:100%;aspect-ratio:3/1;flex:none}
+.shishu .ia-brand .mag-brand-logo img{display:block;width:100%;max-width:100%;height:auto;max-height:none;aspect-ratio:3/1;object-fit:contain;transform:none}
 .mag-about-links{display:flex;flex-wrap:wrap;gap:18px 32px;padding:24px 0}
 .mag-source-entry{border-top:1px solid #dedbcb;padding:30px 0;display:flow-root}
 .mag-source-entry>img{float:left;max-width:180px;height:auto;object-fit:contain;margin:0 24px 18px 0}
@@ -71,7 +72,7 @@
 .mag-source-entry p{overflow-wrap:anywhere}
 .mag-team{padding:18px 24px;background:#f3f4e9;border-radius:8px;margin-bottom:28px}
 .mag-editorial-note+.mag-editorial-note{border-top:1px solid #dedbcb;margin-top:36px;padding-top:24px}
-@media(max-width:520px){.mag-source-entry>img{float:none;display:block;margin:0 0 20px}.shishu .ia-brand .mag-brand-crop{width:184px;height:49px}.shishu .ia-brand .mag-brand-crop img{width:184px!important;height:49px!important;transform:none}}
+@media(max-width:520px){.mag-source-entry>img{float:none;display:block;margin:0 0 20px}.shishu .ia-brand .mag-brand-logo{width:240px}}
 
 /* A complete, compact homepage overview; larger issue cards keep their own layout. */
 .mag-home-jumps{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 28px}

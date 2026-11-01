@@ -7,6 +7,13 @@ pages = root / 'public'
 nav_pattern = re.compile(r'(<nav aria-label="Main navigation">)(.*?)(</nav>)', re.S)
 home_pattern = re.compile(r'<a\b[^>]*href="/"[^>]*>.*?</a>', re.S)
 edition_pattern = re.compile(r'<a\b[^>]*href="/current_issue\.html"[^>]*>.*?</a>', re.S)
+# Only the shared navigation brand changes; covers and book artwork retain their identity.
+brand_pattern = re.compile(r'(<a\b[^>]*class="ia-brand"[^>]*>).*?(</a>)', re.S)
+brand_image = (
+    '<span class="mag-brand-logo"><img alt="ଶିଶୁ କିଶୋର" decoding="async" '
+    'height="362" loading="eager" src="/media/sishu-kishore-horizontal-logo-v1.webp" '
+    'width="1086"/></span>'
+)
 changed = 0
 
 for path in pages.rglob('*.html'):
@@ -27,6 +34,7 @@ for path in pages.rglob('*.html'):
         return match[1] + content + match[3]
 
     after = nav_pattern.sub(navigation, before)
+    after = brand_pattern.sub(lambda match: match[1] + brand_image + match[2], after)
     # Keep artwork disclosure central, without removing editorial review status.
     after = after.replace('Editorial approval pending · Article illustrations are AI-generated.', 'Editorial approval pending')
     after = re.sub(r'<p\b[^>]*class="nov-review-note"[^>]*>Article illustrations are AI-generated\.</p>', '', after)
