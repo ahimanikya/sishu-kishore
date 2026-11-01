@@ -97,6 +97,33 @@ service cloud.firestore {
      && getAfter(countPath(article)).data.count == get(countPath(article)).data.count-1;
    }
   }
+  // Studio prepares private publications; it never writes the publication feed.
+  function studioPath(id){return /databases/$(database)/documents/editorStudios/$(id);}
+  function studioHistory(id,revision){return /databases/$(database)/documents/editorStudios/$(id)/history/$(revision);}
+  function validStudio(d){return d.keys().hasAll(['format','revision','kind','title','state','payload','updatedBy','updatedAt'])
+   && d.keys().hasOnly(['format','revision','kind','title','state','payload','updatedBy','updatedAt'])
+   && d.format=='sishu-studio-record-v1' && d.revision is int && d.revision>=1
+   && d.kind in ['magazine','book'] && validText(d.title,240)
+   && d.state in ['draft','review'] && validText(d.payload,700000)
+   && d.updatedBy==request.auth.uid && d.updatedAt==request.time;}
+  match /editorStudios/{id} {
+   allow read: if editor();
+   allow create,update: if editor() && id.matches('^[a-zA-Z0-9_-]{1,80}$') && validStudio(request.resource.data)
+    && ((!exists(studioPath(id)) && request.resource.data.revision==1)
+     || (exists(studioPath(id)) && request.resource.data.revision==resource.data.revision+1 && request.resource.data.kind==resource.data.kind))
+    && !exists(studioHistory(id,string(request.resource.data.revision)))
+    && getAfter(studioHistory(id,string(request.resource.data.revision))).data==request.resource.data;
+   allow delete: if false;
+   match /history/{revision} {
+    allow read: if editor();
+    allow create: if editor() && validStudio(request.resource.data)
+     && revision==string(request.resource.data.revision)
+     && getAfter(studioPath(id)).data==request.resource.data
+     && ((!exists(studioPath(id)) && request.resource.data.revision==1)
+      || (exists(studioPath(id)) && request.resource.data.revision==get(studioPath(id)).data.revision+1));
+    allow update,delete: if false;
+   }
+  }
   // Proofreading payloads are never served by the public static host.
   match /bookReviews/{book} {
    allow get: if signedIn() && request.auth.token.firebase.sign_in_provider == 'google.com';

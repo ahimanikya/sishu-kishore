@@ -72,3 +72,7 @@ node scripts/editorial/model.mjs migrate editorial-private/editorial-model/old-b
 ```
 
 The command writes a new versioned private file, preserves the original, increments the candidate revision, clears release authorization/delivery, and adds the new planning fields and pending stages. Review the generated book plan before release. Existing source artifacts and credited wording are preserved.
+
+## Editor Studio
+
+The browser preparation workspace at `/editorial/studio.html` follows the [Editor Studio adoption guide](editor-studio.md). It prepares private magazine/book drafts and review handoffs; it does not replace this model’s full evidence record or release authorization. Existing submissions and authenticated book proofreading remain separate.

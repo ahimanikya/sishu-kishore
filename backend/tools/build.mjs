@@ -3,3 +3,5 @@ await build({entryPoints:['src/editorial.js'],bundle:true,minify:true,format:'es
 
 await build({entryPoints:['src/engagement.js'],bundle:true,minify:true,format:'esm',target:['es2022'],outfile:'../public/editorial/engagement.js'});
 await build({entryPoints:['src/book-review.js'],bundle:true,minify:true,format:'esm',target:['es2022'],outfile:'../public/editorial/book-review.js'});
+
+await build({entryPoints:['src/studio.js'],bundle:true,minify:true,format:'esm',target:['es2022'],outfile:'../public/editorial/studio.js'});

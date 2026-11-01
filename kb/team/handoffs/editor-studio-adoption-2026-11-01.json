@@ -1,0 +1,126 @@
+{
+  "id": "editor-studio-adoption-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "We should adopt Editor Studio here from Kabita Live",
+  "coordinator": "Disha",
+  "input_head": "166523d383b11aff91341e9c8931cef8fe3c5a3c",
+  "task": "Adapt Kabita Live Editor Studio patterns to Sishu magazine and book preparation with existing editor claims, private shared drafts and revision history. No website or rules deployment in this task.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/studio_sources",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Compared actual Kabita Studio code and Sishu access architecture.",
+        "evidence": [
+          "Kabita editor-workspace model/service/template; revision history and preparation patterns adopted.",
+          "No private accounts or manuscripts copied; Sishu custom claims and Firebase retained."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/studio_implementation",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/editorial/studio.html",
+        "public/editorial/studio.css",
+        "public/editorial/studio-ui.mjs",
+        "public/editorial/studio-model.mjs",
+        "tests/editor-studio.test.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Implemented Odia Studio UI and validated model, then author picker and book refinements.",
+        "evidence": [
+          "12 focused model tests pass; pure UI syntax checked.",
+          "Browser flow verified separately by coordinator using synthetic records, including author picker and rotation."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/studio_review",
+      "status": "completed",
+      "mode": "read_only",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate review passed with limitations; no blocking findings.",
+        "evidence": [
+          "13 focused Studio/catalog tests passed independently.",
+          "Generated bundle matched source; editor-only access, history, conflicts and source boundaries reviewed."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "backend/src/studio.js",
+    "backend/src/studio-service.js",
+    "backend/firestore.rules",
+    "backend/test/studio.test.mjs",
+    "backend/tools/build.mjs",
+    "backend/README.md",
+    "public/editorial/studio.js",
+    "public/editorial/manage.html",
+    "scripts/build.mjs",
+    "kb/editorial-model/editor-studio.md",
+    "kb/team/operations.json",
+    "kb/team/handoffs/editor-studio-adoption-2026-11-01.json",
+    "scripts/editorial/build-studio-catalog.mjs",
+    "public/editorial/studio-catalog.json",
+    "package.json",
+    "kb/editorial-model/README.md",
+    "tests/editor-studio-catalog.test.mjs"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/studio_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "backend/src/studio.js": "08fc94d725f5515c0e285dea7b330a187378cb2bb933b96edd2320496b9a73f6",
+      "backend/src/studio-service.js": "10f97fb86cd239938516ac3196c1e5e0e59585c931c495af613d2a635ba1a9d6",
+      "backend/firestore.rules": "e6d82b8b6769af31c1900fdd73f312418becdb06e68d69448ec022201137f7b9",
+      "backend/test/studio.test.mjs": "a3c0ab1d26cb079f486100abd5c6aeb5e6a4f2ac676cb1caea0110ff35192a09",
+      "backend/tools/build.mjs": "a1ebacc09542852539f678cd8b457fadaf00d4a4a549ad5e5993ee0c189e00c7",
+      "backend/README.md": "33b9781d51c87e11f6d44a6606b3c743eb01adb4bacfc6608dee933823309d96",
+      "public/editorial/studio.js": "984306e752dc00998c6509e3848dffacb4d1762a6941ac5ab4782a1318f7bd24",
+      "public/editorial/manage.html": "fdd5e877bf8513a81539ad08756d13177c32bbd19634581915fa6909ee2aca41",
+      "scripts/build.mjs": "31b66469e276eddd6dd0551b73afbd72d6d52d1ece49ef36f5a097baad0f5b95",
+      "kb/editorial-model/editor-studio.md": "9146e5ed35d34c90f8cab7bb1ef959f1499b092227ae2924e7df68374dd49ed0",
+      "scripts/editorial/build-studio-catalog.mjs": "c74b16a32fd3e5576b39f8a0ef1c5941a2f963ff85973e06ecf66a83a68bb9c7",
+      "public/editorial/studio-catalog.json": "232c49ab79fae0616639aff38705fa7008b10eb85943e846a9d066c3dd604927",
+      "package.json": "b1d3625159c2f9e84b57ecb9e01cfd7a44bfb7f19bf0b83c01b1f9f92f63a1aa",
+      "kb/editorial-model/README.md": "bcc8e3f8549d8ad9849af164b94e42e19ee816f93cf0e72d1ef3ec7bb9950617",
+      "tests/editor-studio-catalog.test.mjs": "939fe1a78d8f70ff0aad45c7c194c5573544f2bdf75d44d62ab5be2461ca7d6a",
+      "public/editorial/studio.html": "6bf65f5092faa779e848b61e0a726bc6854cec9d936dcfee6ea47bf0696f9b76",
+      "public/editorial/studio.css": "502a0d26502c6d55df3becebed073a59fa8b06cff5c9c4f053e421108f9d5968",
+      "public/editorial/studio-ui.mjs": "51d08c795b139abaae5b12485b8b9a132f353e788e15491d71e40e2eae16a62d",
+      "public/editorial/studio-model.mjs": "b160ca5dd8caee8357696c7ee3c9838986da8a950ea9b13eea4c72f93432488e",
+      "tests/editor-studio.test.mjs": "057f34ad8c7ade644cace75cf0f5e89a989e2e10ba320f9a10e2221b38c72723"
+    },
+    "evidence": [
+      "Independent focused tests and source/bundle consistency verification passed.",
+      "No live authenticated editor acceptance test; no automatic certification of literary, visual or language review claims.",
+      "Manually corrupted privileged records can fail dashboard decoding; ordinary application writes validate payloads."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Site tests:100 passed. Full site build and backend bundle build passed.",
+      "Backend emulator suite:47 passed; final Studio service/rules subset:6 passed.",
+      "Synthetic browser flow verified at1280/390/320px, no overflow or browser errors: edits, author picker, previous-month rotation, proof, conflict retention, history recovery, review blocking and JSON backup.",
+      "No live database rules, account changes or website deployment performed. Existing books, manuscripts and public publisher unchanged.",
+      "Modern Web Guidance forms: visible labels, native form controls, 48px targets, focus visibility and live feedback."
+    ]
+  },
+  "next_action": "Deploy the reviewed Sishu rules and matching site when publication is requested; verify authorized editor acceptance. Existing drafts require explicit migration or import, never automatic publication.",
+  "coordinator_reservations_released": true
+}
