@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-01",
+  "method": "built-in image generation edit",
+  "source": "brand/facebook/logo-v3-readable.png",
+  "source_sha256": "f3102b3d32ba36062f8d4e37b7f7a3f653e5ea531734946138f63bd68a314ab5",
+  "output": "public/media/sishu-kishore-horizontal-logo-v1.png",
+  "output_sha256": "fcff75bcbd5b2d08b305b9570fa86aa88a433ab79f81e489ba8caed02d160889",
+  "prompt": "Edit the supplied Sishu Kishore logo into a clean wide SINGLE-LINE horizontal brand lockup. Preserve the exact identity and drawing style: the two orange/yellow and green birds facing one another above an open book with rising orange sun, dark teal outlines. Place that complete icon at LEFT, and to its RIGHT put the exact Odia name 'ଶିଶୁ କିଶୋର' on ONE uninterrupted horizontal line, never stacked. Preserve the reference's chunky rounded Odia lettering style, dark teal outline, first word ଶିଶୁ golden yellow/orange, second word କିଶୋର bright green. Large legible lettering, balanced icon height roughly matching letters plus ascenders, compact spacing but no overlap, no cropped marks, generous small safe padding. Flat front-facing professional logo, no mockup, no new words, no slogan, no changed spelling. Transparent background. Wide 3:1 canvas with whole logo filling most available width. Keep source icon recognizably identical; just rearrange icon and words horizontally.",
+  "review": "Inspected icon, lettering, one-line layout, transparent background and safe edges; used in Studio header. Original source retained."
+}

@@ -3,7 +3,7 @@ const repo=new URL('../',import.meta.url).pathname.replaceAll('%20',' ');
 test('approved article joins reader/discovery; withdrawal removes every generated surface',()=>{
  const dir=fs.mkdtempSync(path.join(os.tmpdir(),'sishu-release-test-'));
  try{
-  for(const part of ['public','scripts','provenance'])fs.cpSync(path.join(repo,part),path.join(dir,part),{recursive:true});
+  for(const part of ['public','scripts','provenance','data'])fs.cpSync(path.join(repo,part),path.join(dir,part),{recursive:true});
   fs.copyFileSync(path.join(repo,'package.json'),path.join(dir,'package.json'));
   fs.mkdirSync(path.join(dir,'kb/editorial-model'),{recursive:true});
   fs.copyFileSync(path.join(repo,'kb/editorial-model/model.json'),path.join(dir,'kb/editorial-model/model.json'));

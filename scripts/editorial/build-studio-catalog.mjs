@@ -5,13 +5,14 @@ import {fileURLToPath} from 'node:url';
 import {readSiteEdition} from './author-selection.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../..');
 const decode=s=>s.replace(/<[^>]*>/g,'').replace(/&#(x[0-9a-f]+|\d+);/gi,(_,n)=>String.fromCodePoint(n[0].toLowerCase()==='x'?parseInt(n.slice(1),16):Number(n))).replace(/&(amp|lt|gt|quot|apos|nbsp);/g,(_,n)=>({amp:'&',lt:'<',gt:'>',quot:'"',apos:"'",nbsp:' '})[n]).trim();
+const birthdayRecords=JSON.parse(fs.readFileSync(path.join(root,'data/author-birthdays.json'),'utf8')).authors;
 const authors=[];
 for(const name of fs.readdirSync(path.join(root,'public/writers')).filter(n=>n.endsWith('.html'))){
  const route='/writers/'+name,html=fs.readFileSync(path.join(root,'public',route),'utf8');
  if(/<meta[^>]*content=["'][^"']*noindex/i.test(html))continue;
  const canonical=[...html.matchAll(/<link\b[^>]*>/g)].find(m=>/rel=["']canonical["']/.test(m[0]))?.[0].match(/href=["']([^"']+)/)?.[1];
  if(canonical!=='https://shishukishora.com'+route)continue;
- const title=html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1];if(title)authors.push({path:route,name:decode(title)});
+ const title=html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1];if(title)authors.push({path:route,name:decode(title),birthday:birthdayRecords[route]?.approved?birthdayRecords[route]:null});
 }
 authors.sort((a,b)=>a.name.localeCompare(b.name,'or'));
 const catalog=JSON.parse(fs.readFileSync(path.join(root,'public/edition-reader.json'),'utf8'));

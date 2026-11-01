@@ -124,6 +124,37 @@ service cloud.firestore {
     allow update,delete: if false;
    }
   }
+  function authorPath(id){return /databases/$(database)/documents/editorAuthors/$(id);}
+  function authorHistory(id,revision){return /databases/$(database)/documents/editorAuthors/$(id)/history/$(revision);}
+  function validBirthday(b){return b==null || (b is map
+   && b.keys().hasAll(['day','month','year','source','approved']) && b.keys().hasOnly(['day','month','year','source','approved'])
+   && b.day is int && b.month is int && b.month>=1 && b.month<=12
+   && (b.year==null || (b.year is int && b.year>=1000 && b.year<=9999))
+   && b.day>=1 && b.day<=([31,29,31,30,31,30,31,31,30,31,30,31][b.month-1])
+   && (b.month!=2 || b.day!=29 || b.year==null || (b.year%4==0 && (b.year%100!=0 || b.year%400==0)))
+   && validText(b.source,2000) && b.approved is bool);}
+  function validAuthor(d,id){return d.keys().hasAll(['format','profile','birthday','revision','updatedBy','updatedAt'])
+   && d.keys().hasOnly(['format','profile','birthday','revision','updatedBy','updatedAt'])
+   && d.format=='sishu-author-birthday-v1' && d.profile=='/writers/'+id+'.html'
+   && validBirthday(d.birthday) && d.revision is int && d.revision>=1
+   && d.updatedBy==request.auth.uid && d.updatedAt==request.time;}
+  match /editorAuthors/{id} {
+   allow read: if editor();
+   allow create,update: if editor() && id.matches('^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$') && validAuthor(request.resource.data,id)
+    && ((!exists(authorPath(id)) && request.resource.data.revision==1)
+     || (exists(authorPath(id)) && request.resource.data.revision==resource.data.revision+1))
+    && !exists(authorHistory(id,string(request.resource.data.revision)))
+    && getAfter(authorHistory(id,string(request.resource.data.revision))).data==request.resource.data;
+   allow delete: if false;
+   match /history/{revision} {
+    allow read: if editor();
+    allow create: if editor() && validAuthor(request.resource.data,id) && revision==string(request.resource.data.revision)
+     && getAfter(authorPath(id)).data==request.resource.data
+     && ((!exists(authorPath(id)) && request.resource.data.revision==1)
+      || (exists(authorPath(id)) && request.resource.data.revision==get(authorPath(id)).data.revision+1));
+    allow update,delete: if false;
+   }
+  }
   // Proofreading payloads are never served by the public static host.
   match /bookReviews/{book} {
    allow get: if signedIn() && request.auth.token.firebase.sign_in_provider == 'google.com';

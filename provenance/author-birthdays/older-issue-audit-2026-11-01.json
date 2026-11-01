@@ -1,0 +1,544 @@
+{
+  "scope": "35 public edition routes,34 raw original old-issue HTML captures,9 archived author birthday detail pages, original birthday index and12 article birthday mentions. Read-only; no private manuscript sources.",
+  "current_edition_pages": [
+    {
+      "route": "/editions/2026-11/",
+      "title": "ନଭେମ୍ବର: ୨୦୨୬",
+      "contains_birthday_text": true,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/editions/2026-10/",
+      "title": "ଅକ୍ଟୋବର: ୨୦୨୬",
+      "contains_birthday_text": true,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-01d938c402.html",
+      "title": "ଡିସେମ୍ବର: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-02dcbb12fc.html",
+      "title": "ମଇ: ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-083c8367be.html",
+      "title": "ଏପ୍ରିଲ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-14e6b35237.html",
+      "title": "ସେପ୍ଟେମ୍ବର: ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-179b7ebd4f.html",
+      "title": "ଜୁନ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-1c25bd097b.html",
+      "title": "ସେପ୍ଟେମ୍ବର: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-31fdaf256f.html",
+      "title": "ଜାନୁଆରୀ: 2026",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-3a1a317850.html",
+      "title": "ଅଗଷ୍ଟ: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-4d80e1b5e4.html",
+      "title": "ଜାନୁୟାରୀ: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-4de6385d8a.html",
+      "title": "ଅକ୍ଟୋବର: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-58149d6349.html",
+      "title": "ମାର୍ଚ୍ଚ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-618529ceeb.html",
+      "title": "ଡିସେମ୍ବର: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-63db0681d9.html",
+      "title": "ନଭେମ୍ବର : ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-6949643b1a.html",
+      "title": "ମଇ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-744bf97428.html",
+      "title": "ଜୁଲାଇ: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-7457869a98.html",
+      "title": "ସେପ୍ଟେମ୍ବର: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-80b4c3e98a.html",
+      "title": "ଅକ୍ଟୋବର: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-899f2c1a2e.html",
+      "title": "ଫେବୃଆରୀ: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-8a077c1fec.html",
+      "title": "ଅଗଷ୍ଟ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-8d69dd7d5f.html",
+      "title": "ଜାନୁୟାରୀ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-939dbe1cbe.html",
+      "title": "ଜୁନ\t: ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-94f1c04ce6.html",
+      "title": "ମଇ: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-b863ef0279.html",
+      "title": "ଫେବୃଆରୀ : ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-bde027047d.html",
+      "title": "ଏପ୍ରିଲ: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-bf55bf225f.html",
+      "title": "ଜୁଲାଇ: ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-cb3d189e4b.html",
+      "title": "ନଭେମ୍ବର: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-d403030c2c.html",
+      "title": "ଅଗଷ୍ଟ: ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-df53b87507.html",
+      "title": "ଜୁଲାଇ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-e20aeb3604.html",
+      "title": "ମାର୍ଚ : ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-ed6fe3720c.html",
+      "title": "ଏପ୍ରିଲ: ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-f0f3e2cb5e.html",
+      "title": "ମାର୍ଚ୍ଚ: ୨୦୨୬",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-f28964a742.html",
+      "title": "ଫେବୃଆରୀ: ୨୦୨୫",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    },
+    {
+      "route": "/old_issues_details-f36eb7b144.html",
+      "title": "ଜୁନ: ୨୦୨୪",
+      "contains_birthday_text": false,
+      "note": "Current files may include in-progress generated birthday additions; original raw snapshots audited separately."
+    }
+  ],
+  "raw_old_issue_pages": [
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=34",
+      "source": "archive/original-website-capture/public-source/aeadaa7a252e564df4c5288385fb209825a203d7c904bae23422936081a769f5",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=33",
+      "source": "archive/original-website-capture/public-source/78056a46639773641885f09674e554b11b4c318fdfc5c29a33dfd5ac9681df99",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=32",
+      "source": "archive/original-website-capture/public-source/0b2280861c011d48455d24e46d991b504fa60a2799c6e917611565a54a54af48",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=31",
+      "source": "archive/original-website-capture/public-source/82b439169eb78e2a6bad395fb76599f6444303ca9ccc4f2c449694b1b3223a70",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=30",
+      "source": "archive/original-website-capture/public-source/a86497ebad49baba8439516c52844d884d66cc986d3966be591d2051579710f5",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=29",
+      "source": "archive/original-website-capture/public-source/1ac5ed4d9a0c0c3e7ea4ee6de91fc0f880b23ef63ff6a9a94ceef823f8379ce8",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=28",
+      "source": "archive/original-website-capture/public-source/34a6b3101bb75e50c9ae0d2ac9915c72a60f7d6a714631fed97c415f5eb895fc",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=27",
+      "source": "archive/original-website-capture/public-source/d0ac46b9211637adc2d754d43dc27293b94b94b29db56494d5e6376aecbcf892",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=26",
+      "source": "archive/original-website-capture/public-source/bb9e7b0d769c9cbc6433e43fa1357e230362626722d8010e9f19669a198ceb2a",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=25",
+      "source": "archive/original-website-capture/public-source/6412a97197b88fa32e708c20ebdf77bad3171a4747acc9c47588d35a57d4c14e",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=24",
+      "source": "archive/original-website-capture/public-source/91c39be9d39480ee2a3220d9315996980f6673c0c149b751783a4835bca21a17",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=23",
+      "source": "archive/original-website-capture/public-source/73975d3456326428300330b680302a85c9b04097f59d3082ad0c90287a030368",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=22",
+      "source": "archive/original-website-capture/public-source/796ff435727fe59472d8a9ddf68b3f42f3063eecf9d15adf0a4768cf1bd95324",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=21",
+      "source": "archive/original-website-capture/public-source/8be3a0744874f86ed1d713f1a3857aed548fde266b3b99c4dff3531b278baf93",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=20",
+      "source": "archive/original-website-capture/public-source/d4634701d3c5ec7484ba6ac27c73f8a30da63d9b3812ee3fa80a4ae8f83d5ddb",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=19",
+      "source": "archive/original-website-capture/public-source/fd2b84f5f4d0acb691734c351e2dcc853d40cad905329aacc4c8cdc5ea4bf090",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=18",
+      "source": "archive/original-website-capture/public-source/b52aa490b9aca4bc481cbf5e915235029bc7a57a37285b114b4e07ad4ea0fe67",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=17",
+      "source": "archive/original-website-capture/public-source/ad63508741096a95e1edd4010700e21fb9e1e3fbd8ad0b6f30f2decd94e711e3",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=16",
+      "source": "archive/original-website-capture/public-source/42cdac6de2e350829c488e2ef8e8e5d526322832e60f67e05e7bb30b4b7c3003",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=15",
+      "source": "archive/original-website-capture/public-source/502404e39a187c30d4afb38499fc50d7528012415053b86ee584a7c77efbeb41",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=14",
+      "source": "archive/original-website-capture/public-source/e2e6ead44275654dc07de6b7b4cebd9bcaebb74c2c01977ef3d952c01b7b9fe9",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=13",
+      "source": "archive/original-website-capture/public-source/48cebef5f32dab7f7f49dc54e824d34d01855cd3a38e4ef470bef5ca41c78737",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=12",
+      "source": "archive/original-website-capture/public-source/2ee4ed1bbba38b03bb80483104a359bad7df0d93e1b200f3001910e2ca60efe4",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=11",
+      "source": "archive/original-website-capture/public-source/e1294eb3513e6e0f635b778fcbdbaf124e363249c614340b71a3fa811ca038c6",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=10",
+      "source": "archive/original-website-capture/public-source/8a87fe218238e5ca180cccd4c5c3ff2614163e26d5cc2557bd25a3d8b5cffde1",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=9",
+      "source": "archive/original-website-capture/public-source/ea683ea69aab247bdb392d59f445e66790c73d7042a2f3c4c523b4194bdb4e41",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=8",
+      "source": "archive/original-website-capture/public-source/14a09c56b09592b2542b8d6f86ce1349be4a19b9ba322ec27f09d315d1684074",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=7",
+      "source": "archive/original-website-capture/public-source/cedd23166f04106f6af6d736912a7b0f084be4b414023ec2043a1e6d8d16171c",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=6",
+      "source": "archive/original-website-capture/public-source/74c3bd82017c9146324f81b3d989637a2c98e94e38f39b2a42d8d734fd32997d",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=5",
+      "source": "archive/original-website-capture/public-source/70f9e9fbbeb9adb1162d5181ef457230e24ffd3731a356ff0d68197bd08226fe",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=4",
+      "source": "archive/original-website-capture/public-source/4b742666348539884a2b77b1ad3e7633dad43aa553c5bdd2f734542907745ad7",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=3",
+      "source": "archive/original-website-capture/public-source/e00e16c5c1cfc55c78ca56dab6a9b44b28a9289e113c1127ec7bb3eb8017d706",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=2",
+      "source": "archive/original-website-capture/public-source/8ca8a680c53a712f04c745cd273e732e1c74fb28562ede716e16a8040caefec1",
+      "birthday_text_present": false,
+      "pdf_links": []
+    },
+    {
+      "url": "https://www.shishukishora.com/old_issues_details.php?issue_cd=1",
+      "source": "archive/original-website-capture/public-source/9c548e159da4c99cf5f6fe9e2309caf42882772c523e045302deeb24471bc6e6",
+      "birthday_text_present": false,
+      "pdf_links": []
+    }
+  ],
+  "source_birthday_records": [
+    {
+      "source_name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "source_date": "୧୫/୧୦/୧୯୫୨",
+      "day": 15,
+      "month": 10,
+      "year": 1952,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=276",
+      "source_file": "archive/original-website-capture/public-source/5699fc17c4a21cbd89ed8458de9b7653a20ad73bb3cfbc9c766073d3294f8252",
+      "canonical_profile": "/writers/c89e02766cff.html",
+      "identity_status": "previously_verified",
+      "evidence": "Exact source name",
+      "new_birthday": false
+    },
+    {
+      "source_name": "ଡକ୍ଟର ଶରତ କୁମାର ବିଶ୍ୱାଳ",
+      "source_date": "୨୬.୧୦.୧୯୫୩",
+      "day": 26,
+      "month": 10,
+      "year": 1953,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=201",
+      "source_file": "archive/original-website-capture/public-source/a6a60e6ba5108ad6a5d56634d0f48d5cc8904991231efab417cc918f49620fba",
+      "canonical_profile": null,
+      "identity_status": "unresolved",
+      "evidence": "Archived author birthday detail states the name/date, but no verified canonical author identity match. Do not infer from spelling similarity.",
+      "new_birthday": null
+    },
+    {
+      "source_name": "ଶ୍ରୀଯୁକ୍ତ ଅନନ୍ତ ପ୍ରଧାନ",
+      "source_date": "୨୩.୧୦.୧୯୬୧",
+      "day": 23,
+      "month": 10,
+      "year": 1961,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=200",
+      "source_file": "archive/original-website-capture/public-source/500856f04f3d5caf47182b8ba783f83c1450c3ebf458b48ade4666fee7474ecc",
+      "canonical_profile": "/writers/dfedff336b61.html",
+      "identity_status": "previously_verified",
+      "evidence": "Source name with honorific omitted",
+      "new_birthday": false
+    },
+    {
+      "source_name": "ଶ୍ରୀମତୀ ଜୟନ୍ତୀ ପଣ୍ଡା(ଜୟନ୍ତିକା)",
+      "source_date": "୧୬.୧୦.୧୯୫୯",
+      "day": 16,
+      "month": 10,
+      "year": 1959,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=199",
+      "source_file": "archive/original-website-capture/public-source/bf87d0143fe687e030cdc766a69583f525bc2cc2b173e95b03e104b7f5a668e8",
+      "canonical_profile": "/writers/5022efa803e9.html",
+      "identity_status": "previously_verified",
+      "evidence": "Pen name explicitly given in source name: ଜୟନ୍ତୀ ପଣ୍ଡା(ଜୟନ୍ତିକା)",
+      "new_birthday": false
+    },
+    {
+      "source_name": "ଶ୍ରୀମତୀ ଆଶାଲତା ପ୍ରଧାନ",
+      "source_date": "୦୫.୧୦.୧୯୫୭",
+      "day": 5,
+      "month": 10,
+      "year": 1957,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=198",
+      "source_file": "archive/original-website-capture/public-source/9883f4f420d165b9d9a2c108d73f255e341133d876e6e626657715db56b1f8a5",
+      "canonical_profile": null,
+      "identity_status": "unresolved",
+      "evidence": "Archived author birthday detail states the name/date, but no verified canonical author identity match. Do not infer from spelling similarity.",
+      "new_birthday": null
+    },
+    {
+      "source_name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "source_date": "୦୩.୧୦.୧୯୬୪",
+      "day": 3,
+      "month": 10,
+      "year": 1964,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=197",
+      "source_file": "archive/original-website-capture/public-source/bff1a63c136033c5cda56f21de48998437b662395ea6d71650f39c3396d8c929",
+      "canonical_profile": "/writers/37cc648aa7a1.html",
+      "identity_status": "previously_verified",
+      "evidence": "Exact source name",
+      "new_birthday": false
+    },
+    {
+      "source_name": "ଶ୍ରୀଯୁକ୍ତ ବ୍ରୁନ୍ଦାବନ କୁମ୍ଭାର",
+      "source_date": "୦୩.୧୦.୧୯୬୧",
+      "day": 3,
+      "month": 10,
+      "year": 1961,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=196",
+      "source_file": "archive/original-website-capture/public-source/e5ffb80e12de7de3775ea23d490149ce37c7b27f93171510b40517fa5b4da15e",
+      "canonical_profile": null,
+      "identity_status": "unresolved",
+      "evidence": "Archived author birthday detail states the name/date, but no verified canonical author identity match. Do not infer from spelling similarity.",
+      "new_birthday": null
+    },
+    {
+      "source_name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "source_date": "୦୨.୧୦.୧୯୫୧",
+      "day": 2,
+      "month": 10,
+      "year": 1951,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=195",
+      "source_file": "archive/original-website-capture/public-source/3926d2b1b6b10a679f044213a6e91e069a3d159945ed84a6aacdb9096194794c",
+      "canonical_profile": "/writers/e1f187c86103.html",
+      "identity_status": "previously_verified",
+      "evidence": "Exact source name",
+      "new_birthday": false
+    },
+    {
+      "source_name": "ବସିରନ ବିବି",
+      "source_date": "୦୧.୧୦.୧୯୫୦",
+      "day": 1,
+      "month": 10,
+      "year": 1950,
+      "source_url": "https://www.shishukishora.com/birthday_details.php?advt_cd=194",
+      "source_file": "archive/original-website-capture/public-source/eaf8125f21f08a8f3f6b396cc89ae7d33165cb03e211cbad408c4f9d57150ad3",
+      "canonical_profile": "/writers/fc19d89e45a8.html",
+      "identity_status": "previously_verified",
+      "evidence": "Exact source name",
+      "new_birthday": false
+    }
+  ],
+  "new_verified_authors": [],
+  "unresolved_identity_count": 3,
+  "conclusion": "No additional month-specific author birthdays found in captured older issue HTML. All9 original birthday details are October:6 already verified plus3 unresolved. Story/festival birthday mentions are not author DOB evidence. Printed or uncaptured historical lists were not available in these sources.",
+  "display_note": "Years extracted here are provenance only. Existing October public feature deliberately displays day/month only; do not expand disclosure merely because the source contains a year."
+}

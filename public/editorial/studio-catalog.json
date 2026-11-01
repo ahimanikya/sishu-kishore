@@ -2,627 +2,849 @@
   "authors": [
     {
       "path": "/writers/c06d26ee0057.html",
-      "name": "; ନୀଳମଣି ଚାନ୍ଦ"
+      "name": "; ନୀଳମଣି ଚାନ୍ଦ",
+      "birthday": null
     },
     {
       "path": "/writers/2a4f422edb86.html",
-      "name": "ଅଜୟ କୁମାର ସେଠୀ"
+      "name": "ଅଜୟ କୁମାର ସେଠୀ",
+      "birthday": null
     },
     {
       "path": "/writers/bd817933d592.html",
-      "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ"
+      "name": "ଅଧ୍ୟାପକ ଶ୍ରୀ ଶରତ କୁମାର ଦାସ",
+      "birthday": null
     },
     {
       "path": "/writers/9d348fab7d0e.html",
-      "name": "ଅନନ୍ତ କୁମାର ସେନାପତି"
+      "name": "ଅନନ୍ତ କୁମାର ସେନାପତି",
+      "birthday": null
     },
     {
       "path": "/writers/dfedff336b61.html",
-      "name": "ଅନନ୍ତ ପ୍ରଧାନ"
+      "name": "ଅନନ୍ତ ପ୍ରଧାନ",
+      "birthday": {
+        "day": 23,
+        "month": 10,
+        "year": null,
+        "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=200; Source name with honorific omitted",
+        "approved": true
+      }
     },
     {
       "path": "/writers/8aa404dcfb41.html",
-      "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ"
+      "name": "ଅନ୍ତର୍ଯ୍ୟାମୀ ବେଜ",
+      "birthday": null
     },
     {
       "path": "/writers/66393b0de741.html",
-      "name": "ଅଶୋକ କୁମାର ପ୍ରଧାନ"
+      "name": "ଅଶୋକ କୁମାର ପ୍ରଧାନ",
+      "birthday": null
     },
     {
       "path": "/writers/ced75a694fd6.html",
-      "name": "ଅଶୋକ କୁମାର ସେଠୀ"
+      "name": "ଅଶୋକ କୁମାର ସେଠୀ",
+      "birthday": null
     },
     {
       "path": "/writers/9b2a83434590.html",
-      "name": "ଉମାକାନ୍ତ ବେହେରା"
+      "name": "ଉମାକାନ୍ତ ବେହେରା",
+      "birthday": null
     },
     {
       "path": "/writers/a7fd935e072c.html",
-      "name": "କନ୍ଦର୍ପ ବେହେରା"
+      "name": "କନ୍ଦର୍ପ ବେହେରା",
+      "birthday": null
     },
     {
       "path": "/writers/ae85c64c0f18.html",
-      "name": "କବିଜ୍ୟୋତି ନିରଞ୍ଜନ ପତି"
+      "name": "କବିଜ୍ୟୋତି ନିରଞ୍ଜନ ପତି",
+      "birthday": null
     },
     {
       "path": "/writers/05c4bac63090.html",
-      "name": "କବିତା ଦେବୀ"
+      "name": "କବିତା ଦେବୀ",
+      "birthday": null
     },
     {
       "path": "/writers/19c8f0c69b64.html",
-      "name": "କବିତା ମିଶ୍ର"
+      "name": "କବିତା ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/af743bc99a97.html",
-      "name": "କବିତାମିଶ୍ର"
+      "name": "କବିତାମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/036f70ab6fb9.html",
-      "name": "କମଳିନୀ ମଲ୍ଲିକ"
+      "name": "କମଳିନୀ ମଲ୍ଲିକ",
+      "birthday": null
     },
     {
       "path": "/writers/f5e65e2d3dc9.html",
-      "name": "କମଳିନୀ ମଲ୍ଲିକ୍‌"
+      "name": "କମଳିନୀ ମଲ୍ଲିକ୍‌",
+      "birthday": null
     },
     {
       "path": "/writers/2c5ca3733964.html",
-      "name": "କୀର୍ତ୍ତନ ସାହୁ"
+      "name": "କୀର୍ତ୍ତନ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/524cb79f75d5.html",
-      "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ"
+      "name": "କୁଞ୍ଜବିହାରୀ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/4aa0a9dbf33c.html",
-      "name": "କୈଳାସ ଚନ୍ଦ୍ର ଧଳ"
+      "name": "କୈଳାସ ଚନ୍ଦ୍ର ଧଳ",
+      "birthday": null
     },
     {
       "path": "/writers/d878ef9ba83c.html",
-      "name": "କୈଳାସ ଚନ୍ଦ୍ର ବେହେରା"
+      "name": "କୈଳାସ ଚନ୍ଦ୍ର ବେହେରା",
+      "birthday": null
     },
     {
       "path": "/writers/3cab06f38bc2.html",
-      "name": "ଗୀତାଞ୍ଜଳି ସ୍ଵାଇଁ"
+      "name": "ଗୀତାଞ୍ଜଳି ସ୍ଵାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/4b75b270fdbe.html",
-      "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ"
+      "name": "ଗୀତାଞ୍ଜଳି ସ୍ୱାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/67fc1496f8fc.html",
-      "name": "ଗୋପୀନାଥ ଦାଶ"
+      "name": "ଗୋପୀନାଥ ଦାଶ",
+      "birthday": null
     },
     {
       "path": "/writers/646ed979fded.html",
-      "name": "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ତ୍ରିପାଠୀ"
+      "name": "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ତ୍ରିପାଠୀ",
+      "birthday": null
     },
     {
       "path": "/writers/0ffecc9a3bd3.html",
-      "name": "ଘନଶ୍ୟାମ ବୋଇତେଇ"
+      "name": "ଘନଶ୍ୟାମ ବୋଇତେଇ",
+      "birthday": null
     },
     {
       "path": "/writers/4365113dce3c.html",
-      "name": "ଚତୁର୍ଭୁଜ ପହି"
+      "name": "ଚତୁର୍ଭୁଜ ପହି",
+      "birthday": null
     },
     {
       "path": "/writers/c89e02766cff.html",
-      "name": "ଜୟକୃଷ୍ଣ ସାହୁ"
+      "name": "ଜୟକୃଷ୍ଣ ସାହୁ",
+      "birthday": {
+        "day": 15,
+        "month": 10,
+        "year": null,
+        "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=276; Exact source name",
+        "approved": true
+      }
     },
     {
       "path": "/writers/bef5579559e6.html",
-      "name": "ଜୟନ୍ତ କୁମାର ଓଝା"
+      "name": "ଜୟନ୍ତ କୁମାର ଓଝା",
+      "birthday": null
     },
     {
       "path": "/writers/8218162be47d.html",
-      "name": "ଜୟନ୍ତକୁମାର ଓଝା"
+      "name": "ଜୟନ୍ତକୁମାର ଓଝା",
+      "birthday": null
     },
     {
       "path": "/writers/5022efa803e9.html",
-      "name": "ଜୟନ୍ତିକା"
+      "name": "ଜୟନ୍ତିକା",
+      "birthday": {
+        "day": 16,
+        "month": 10,
+        "year": null,
+        "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=199; Pen name explicitly given in source name: ଜୟନ୍ତୀ ପଣ୍ଡା(ଜୟନ୍ତିକା)",
+        "approved": true
+      }
     },
     {
       "path": "/writers/b1204e468fea.html",
-      "name": "ଜିତେନ୍ଦ୍ର ଚନ୍ଦ୍ର ସାହୁ"
+      "name": "ଜିତେନ୍ଦ୍ର ଚନ୍ଦ୍ର ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/74f717baed70.html",
-      "name": "ଜିତେନ୍ଦ୍ର ସାହୁ"
+      "name": "ଜିତେନ୍ଦ୍ର ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/ea5ac870c4bd.html",
-      "name": "ଜ୍ୟୋତିର୍ମୟୀ ମହାନ୍ତି"
+      "name": "ଜ୍ୟୋତିର୍ମୟୀ ମହାନ୍ତି",
+      "birthday": null
     },
     {
       "path": "/writers/6fa730670541.html",
-      "name": "ଝରଣା ମଲ୍ଲିକ"
+      "name": "ଝରଣା ମଲ୍ଲିକ",
+      "birthday": null
     },
     {
       "path": "/writers/496b5ec4f76f.html",
-      "name": "ଡ଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ"
+      "name": "ଡ଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
+      "birthday": null
     },
     {
       "path": "/writers/1b15f0d011c5.html",
-      "name": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ"
+      "name": "ଡ଼଼ ପ୍ରଶାନ୍ତ କୁମାର ରାଉତ",
+      "birthday": null
     },
     {
       "path": "/writers/manindra-mohanty.html",
-      "name": "ଡ ମନୀନ୍ଦ୍ର ମହାନ୍ତି"
+      "name": "ଡ ମନୀନ୍ଦ୍ର ମହାନ୍ତି",
+      "birthday": {
+        "day": 14,
+        "month": 11,
+        "year": 1948,
+        "source": "User-supplied November birthdays, 31 October 2026; identity already linked in /editions/2026-11/#birthdays",
+        "approved": true
+      }
     },
     {
       "path": "/writers/9aaf459c3069.html",
-      "name": "ଡ. ବିଜୟା ପାତ୍ର"
+      "name": "ଡ. ବିଜୟା ପାତ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/be558d5e012a.html",
-      "name": "ଡ. ବିଜୟା ପାତ୍ର (ସ୍ବାଇଁ)"
+      "name": "ଡ. ବିଜୟା ପାତ୍ର (ସ୍ବାଇଁ)",
+      "birthday": null
     },
     {
       "path": "/writers/75d699aa5d34.html",
-      "name": "ଡ. ସନାତନ ପଣ୍ଡା"
+      "name": "ଡ. ସନାତନ ପଣ୍ଡା",
+      "birthday": null
     },
     {
       "path": "/writers/809b37f8b67c.html",
-      "name": "ଡ.ବିଜୟା ପାତ୍ର"
+      "name": "ଡ.ବିଜୟା ପାତ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/3234455e0870.html",
-      "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)"
+      "name": "ଡ଼ଃ ବିଜୟା ପାତ୍ର (ସ୍ୱାଇଁ)",
+      "birthday": null
     },
     {
       "path": "/writers/1928b5c64b0a.html",
-      "name": "ଡଃ ସ୍ବର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ"
+      "name": "ଡଃ ସ୍ବର୍ଣ୍ଣଲତା ତ୍ରିପାଠୀ",
+      "birthday": null
     },
     {
       "path": "/writers/26f88a3357be.html",
-      "name": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା"
+      "name": "ଡକ୍ଟର ଅରୁଣ କୁମାର ପଣ୍ଡା",
+      "birthday": null
     },
     {
       "path": "/writers/def97730a814.html",
-      "name": "ଡକ୍ଟର ଅଶୋକ କୁମାର ସେଠୀ"
+      "name": "ଡକ୍ଟର ଅଶୋକ କୁମାର ସେଠୀ",
+      "birthday": null
     },
     {
       "path": "/writers/e44ccf4a4e44.html",
-      "name": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା"
+      "name": "ଡକ୍ଟର କମଳାକାନ୍ତ ଜେନା",
+      "birthday": null
     },
     {
       "path": "/writers/4381c6ffcaa4.html",
-      "name": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକ"
+      "name": "ଡକ୍ଟର କୃତ୍ତିବାସ ନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/f2b0afc83d0c.html",
-      "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ"
+      "name": "ଡ଼କ୍ଟର ନରେନ୍ଦ୍ର ପ୍ରସାଦ ଦାସ",
+      "birthday": null
     },
     {
       "path": "/writers/85798d39be19.html",
-      "name": "ଡକ୍ଟର ପ୍ରବୀଣା ପରିଡା"
+      "name": "ଡକ୍ଟର ପ୍ରବୀଣା ପରିଡା",
+      "birthday": null
     },
     {
       "path": "/writers/7d7b89d315b9.html",
-      "name": "ଡକ୍ଟର ବସନ୍ତ କିଶୋର ସାହୁ"
+      "name": "ଡକ୍ଟର ବସନ୍ତ କିଶୋର ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/6b99833c7415.html",
-      "name": "ଡକ୍ଟର ବିଜୟା ପାତ୍ର"
+      "name": "ଡକ୍ଟର ବିଜୟା ପାତ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/8547fb8c3a5d.html",
-      "name": "ଡକ୍ଟର ରଘୁ ସାହୁ"
+      "name": "ଡକ୍ଟର ରଘୁ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/5ff484d72f52.html",
-      "name": "ଡକ୍ଟର ରଘୁନାଥ ସାହୁ"
+      "name": "ଡକ୍ଟର ରଘୁନାଥ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/06d2d2e22ec2.html",
-      "name": "ଡକ୍ଟର ରବିନାରାୟଣ ସାହୁ"
+      "name": "ଡକ୍ଟର ରବିନାରାୟଣ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/250e17ab1f6b.html",
-      "name": "ଡକ୍ଟର ରାଜକିଶୋର ପାଢୀ"
+      "name": "ଡକ୍ଟର ରାଜକିଶୋର ପାଢୀ",
+      "birthday": null
     },
     {
       "path": "/writers/37cc648aa7a1.html",
-      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ"
+      "name": "ଡକ୍ଟର ଲକ୍ଷ୍ମୀକାନ୍ତ ଖୁଣ୍ଟିଆ",
+      "birthday": {
+        "day": 3,
+        "month": 10,
+        "year": null,
+        "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=197; Exact source name",
+        "approved": true
+      }
     },
     {
       "path": "/writers/2b115441917c.html",
-      "name": "ଡକ୍ଟର ଲିଙ୍ଗରାଜ ରଥ"
+      "name": "ଡକ୍ଟର ଲିଙ୍ଗରାଜ ରଥ",
+      "birthday": null
     },
     {
       "path": "/writers/91df27f82af9.html",
-      "name": "ଡକ୍ଟର ସଚ୍ଚିଦାନନ୍ଦ କର"
+      "name": "ଡକ୍ଟର ସଚ୍ଚିଦାନନ୍ଦ କର",
+      "birthday": null
     },
     {
       "path": "/writers/c6223054b1e8.html",
-      "name": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ"
+      "name": "ଡକ୍ଟର ସୁନାମଣି ରାଉତ",
+      "birthday": null
     },
     {
       "path": "/writers/5858dbd35ce2.html",
-      "name": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ"
+      "name": "ଡାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "birthday": null
     },
     {
       "path": "/writers/21afaaab9e9e.html",
-      "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ"
+      "name": "ଡ଼ାକ୍ତର ଅଶୋକ କୁମାର ସେଠୀ",
+      "birthday": null
     },
     {
       "path": "/writers/6bd0f39ff075.html",
-      "name": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀ"
+      "name": "ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
+      "birthday": {
+        "day": 3,
+        "month": 11,
+        "year": 1957,
+        "source": "User-supplied November birthdays, 31 October 2026; identity already linked in /editions/2026-11/#birthdays",
+        "approved": true
+      }
     },
     {
       "path": "/writers/15098a8414dc.html",
-      "name": "ତପନ କୁମାର ସ୍ବାଇଁ"
+      "name": "ତପନ କୁମାର ସ୍ବାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/00baa2538a54.html",
-      "name": "ତପନ କୁମାର ସ୍ୱାଇଁ"
+      "name": "ତପନ କୁମାର ସ୍ୱାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/3236a8530ef9.html",
-      "name": "ତୁଳସୀ ସ୍ବାଇଁ"
+      "name": "ତୁଳସୀ ସ୍ବାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/8d9480d84ea8.html",
-      "name": "ଦାଶ ବେନହୁର"
+      "name": "ଦାଶ ବେନହୁର",
+      "birthday": null
     },
     {
       "path": "/writers/bb7df6043851.html",
-      "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ"
+      "name": "ଦିଲ୍ଲିପ କୁମାର ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/17bad6eebece.html",
-      "name": "ଦିଲ୍ଲୀପ କୁମାର ସାହୁ"
+      "name": "ଦିଲ୍ଲୀପ କୁମାର ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/8f595aa31265.html",
-      "name": "ଦୀନବନ୍ଧୁ କର"
+      "name": "ଦୀନବନ୍ଧୁ କର",
+      "birthday": null
     },
     {
       "path": "/writers/88dee196240d.html",
-      "name": "ଦୀନବନ୍ଧୁ ପୋଇ"
+      "name": "ଦୀନବନ୍ଧୁ ପୋଇ",
+      "birthday": null
     },
     {
       "path": "/writers/979836c3a0c2.html",
-      "name": "ଦେବାଶିଷ ଚକ୍ରବର୍ତ୍ତୀ"
+      "name": "ଦେବାଶିଷ ଚକ୍ରବର୍ତ୍ତୀ",
+      "birthday": null
     },
     {
       "path": "/writers/ea266eb20316.html",
-      "name": "ଦେବେନ୍ଦ୍ର ଚୌଧୁରୀ"
+      "name": "ଦେବେନ୍ଦ୍ର ଚୌଧୁରୀ",
+      "birthday": null
     },
     {
       "path": "/writers/a563e88779d8.html",
-      "name": "ଧନଞ୍ଜୟ ସ୍ୱାଇଁ"
+      "name": "ଧନଞ୍ଜୟ ସ୍ୱାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/55f62a9245be.html",
-      "name": "ଧୀରେନ ମିଶ୍ର"
+      "name": "ଧୀରେନ ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/55f2b4a6ba42.html",
-      "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା"
+      "name": "ଧ୍ରୁବ ଚରଣ ଘିବେଲା",
+      "birthday": null
     },
     {
       "path": "/writers/7202756cab09.html",
-      "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ"
+      "name": "ନଗେନ୍ଦ୍ର ନାଥ ପଟ୍ଟନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/45ab42330e07.html",
-      "name": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକ"
+      "name": "ନାଟ୍ୟ ଗୌରବ ବିଭୂତି ପଟ୍ଟନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/4e1da9edfd0f.html",
-      "name": "ନିରଞ୍ଜନ ସାହୁ"
+      "name": "ନିରଞ୍ଜନ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/908c7bf20e5b.html",
-      "name": "ନିରାକାର ଚଇନି"
+      "name": "ନିରାକାର ଚଇନି",
+      "birthday": null
     },
     {
       "path": "/writers/3bd88c1233b5.html",
-      "name": "ନିରୁପମା କବି"
+      "name": "ନିରୁପମା କବି",
+      "birthday": null
     },
     {
       "path": "/writers/845d029c5cb6.html",
-      "name": "ନିରୁପମା କଵି"
+      "name": "ନିରୁପମା କଵି",
+      "birthday": null
     },
     {
       "path": "/writers/a37c63e8d347.html",
-      "name": "ନିରୂପମା କବି"
+      "name": "ନିରୂପମା କବି",
+      "birthday": null
     },
     {
       "path": "/writers/ec4c0847b900.html",
-      "name": "ନୀଳମଣି ଚାନ୍ଦ"
+      "name": "ନୀଳମଣି ଚାନ୍ଦ",
+      "birthday": null
     },
     {
       "path": "/writers/a9b25ea481c8.html",
-      "name": "ପଣ୍ଡିତ ମଧୁସୂଦନ ମିଶ୍ର"
+      "name": "ପଣ୍ଡିତ ମଧୁସୂଦନ ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/7f0fa5526981.html",
-      "name": "ପୁରୁଷୋତ୍ତମ ସିଂହ ସାମନ୍ତ"
+      "name": "ପୁରୁଷୋତ୍ତମ ସିଂହ ସାମନ୍ତ",
+      "birthday": null
     },
     {
       "path": "/writers/56c301ef5582.html",
-      "name": "ପୁଷ୍ପଲତା ପାଣିଗ୍ରାହୀ"
+      "name": "ପୁଷ୍ପଲତା ପାଣିଗ୍ରାହୀ",
+      "birthday": null
     },
     {
       "path": "/writers/6789b0ad8e74.html",
-      "name": "ପୌର୍ଣ୍ଣ ମାସୀ ଦେବୀ"
+      "name": "ପୌର୍ଣ୍ଣ ମାସୀ ଦେବୀ",
+      "birthday": null
     },
     {
       "path": "/writers/3463bd958459.html",
-      "name": "ପୌର୍ଣ୍ଣମାସୀ ଦେବୀ"
+      "name": "ପୌର୍ଣ୍ଣମାସୀ ଦେବୀ",
+      "birthday": null
     },
     {
       "path": "/writers/63287addfe85.html",
-      "name": "ପ୍ରକାଶ ଚନ୍ଦ୍ର ଦାଶ"
+      "name": "ପ୍ରକାଶ ଚନ୍ଦ୍ର ଦାଶ",
+      "birthday": null
     },
     {
       "path": "/writers/57b2cccb4266.html",
-      "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ"
+      "name": "ପ୍ରଫୁଲ୍ଲ କୁମାର ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/33a8832ae9ee.html",
-      "name": "ପ୍ରଫେସର ରେଖା ଦାସ"
+      "name": "ପ୍ରଫେସର ରେଖା ଦାସ",
+      "birthday": null
     },
     {
       "path": "/writers/1f5f23903bf9.html",
-      "name": "ପ୍ରବାସିନୀ ମିଶ୍ର"
+      "name": "ପ୍ରବାସିନୀ ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/cfba3363dbbe.html",
-      "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ"
+      "name": "ପ୍ରଭାତ ଚନ୍ଦ୍ର ରଥ",
+      "birthday": null
     },
     {
       "path": "/writers/d75e5aefba14.html",
-      "name": "ପ୍ରଭାତ ନଳିନୀ ସାହୁ"
+      "name": "ପ୍ରଭାତ ନଳିନୀ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/37d0d83e9abc.html",
-      "name": "ପ୍ରଭାସିନୀ ବରାଡ"
+      "name": "ପ୍ରଭାସିନୀ ବରାଡ",
+      "birthday": null
     },
     {
       "path": "/writers/578096bf3439.html",
-      "name": "ପ୍ରଭାସିନୀ ବରାଡ଼"
+      "name": "ପ୍ରଭାସିନୀ ବରାଡ଼",
+      "birthday": null
     },
     {
       "path": "/writers/d4a1c781b77f.html",
-      "name": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ"
+      "name": "ପ୍ରଶାନ୍ତ କୁମାର ଦାଶ",
+      "birthday": null
     },
     {
       "path": "/writers/fc19d89e45a8.html",
-      "name": "ବସିରନ ବିବି"
+      "name": "ବସିରନ ବିବି",
+      "birthday": {
+        "day": 1,
+        "month": 10,
+        "year": null,
+        "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=194; Exact source name",
+        "approved": true
+      }
     },
     {
       "path": "/writers/b2ea4834959d.html",
-      "name": "ବସିରନ୍ ବିବି"
+      "name": "ବସିରନ୍ ବିବି",
+      "birthday": null
     },
     {
       "path": "/writers/40eff86013b3.html",
-      "name": "ବାଲ୍ମୀକି ପାତ୍ର"
+      "name": "ବାଲ୍ମୀକି ପାତ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/5127a44ec63e.html",
-      "name": "ବିଜୟ କୁମାର ଛାଟୋଇ"
+      "name": "ବିଜୟ କୁମାର ଛାଟୋଇ",
+      "birthday": null
     },
     {
       "path": "/writers/9021c2a7b8a2.html",
-      "name": "ବିଜୟ ଲଷ୍ମୀ ଚୌଧୁରୀ"
+      "name": "ବିଜୟ ଲଷ୍ମୀ ଚୌଧୁରୀ",
+      "birthday": null
     },
     {
       "path": "/writers/92a6df756017.html",
-      "name": "ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ"
+      "name": "ବିଜୟଲକ୍ଷ୍ମୀ ଚୌଧୁରୀ",
+      "birthday": null
     },
     {
       "path": "/writers/1b949512c327.html",
-      "name": "ବିଜୟା ପାତ୍ର"
+      "name": "ବିଜୟା ପାତ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/f6533f24d098.html",
-      "name": "ବିଦ୍ୟୁତପ୍ରଭା ଦେଓ"
+      "name": "ବିଦ୍ୟୁତପ୍ରଭା ଦେଓ",
+      "birthday": null
     },
     {
       "path": "/writers/956ee9bbaa9a.html",
-      "name": "ବିରଞ୍ଚି ନାରାୟଣ ଦାଶ"
+      "name": "ବିରଞ୍ଚି ନାରାୟଣ ଦାଶ",
+      "birthday": null
     },
     {
       "path": "/writers/69bca452d630.html",
-      "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି"
+      "name": "ବୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "birthday": null
     },
     {
       "path": "/writers/b98810c4015c.html",
-      "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର"
+      "name": "ବୃନ୍ଦାବନ କୁମ୍ଭାର",
+      "birthday": null
     },
     {
       "path": "/writers/91a1452012c8.html",
-      "name": "ମଧୁସୂଦନ ମିଶ୍ର"
+      "name": "ମଧୁସୂଦନ ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/fb5e637ed769.html",
-      "name": "ମନୋରମା ମିଶ୍ର"
+      "name": "ମନୋରମା ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/f984695b07fe.html",
-      "name": "ମହେନ୍ଦ୍ର କୁମାର ମଲ୍ଲିକ"
+      "name": "ମହେନ୍ଦ୍ର କୁମାର ମଲ୍ଲିକ",
+      "birthday": null
     },
     {
       "path": "/writers/0da992c5b5cc.html",
-      "name": "ମିନତି ପଟ୍ଟନାୟକ"
+      "name": "ମିନତି ପଟ୍ଟନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/9210d5fb2fa2.html",
-      "name": "ରଘୁ ନନ୍ଦନ ମହାପାତ୍ର"
+      "name": "ରଘୁ ନନ୍ଦନ ମହାପାତ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/c4e96a0c83de.html",
-      "name": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର"
+      "name": "ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/7ae172e3d1b8.html",
-      "name": "ରତ୍ନାକର ଦାସ"
+      "name": "ରତ୍ନାକର ଦାସ",
+      "birthday": null
     },
     {
       "path": "/writers/accae4541e91.html",
-      "name": "ରତ୍ନାକର ନାୟକ"
+      "name": "ରତ୍ନାକର ନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/5721f5a8f48e.html",
-      "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ"
+      "name": "ରବୀନ୍ଦ୍ରନାଥ ମାଝୀ",
+      "birthday": {
+        "day": 22,
+        "month": 11,
+        "year": 1952,
+        "source": "User-supplied November birthdays, 31 October 2026; identity already linked in /editions/2026-11/#birthdays",
+        "approved": true
+      }
     },
     {
       "path": "/writers/fba8a7194ce5.html",
-      "name": "ରାଜଶ୍ରୀ ନନ୍ଦ"
+      "name": "ରାଜଶ୍ରୀ ନନ୍ଦ",
+      "birthday": null
     },
     {
       "path": "/writers/262e7a578d40.html",
-      "name": "ରାଧାମାଧବ ରଥ"
+      "name": "ରାଧାମାଧବ ରଥ",
+      "birthday": null
     },
     {
       "path": "/writers/5642d255a831.html",
-      "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ"
+      "name": "ଲକ୍ଷ୍ମୀଧର ନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/c213a7f6b400.html",
-      "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ"
+      "name": "ଲକ୍ଷ୍ମୀପ୍ରିୟା ଦାସ",
+      "birthday": null
     },
     {
       "path": "/writers/8cb35cfb3c53.html",
-      "name": "ଲୀଳାବତୀ ପରିଡ଼ା"
+      "name": "ଲୀଳାବତୀ ପରିଡ଼ା",
+      "birthday": null
     },
     {
       "path": "/writers/3546f3743b55.html",
-      "name": "ଵୀରେନ୍ଦ୍ର ମହାନ୍ତି"
+      "name": "ଵୀରେନ୍ଦ୍ର ମହାନ୍ତି",
+      "birthday": null
     },
     {
       "path": "/writers/a60e8eb19db8.html",
-      "name": "ଶକୁନ୍ତଳା ମିଶ୍ର"
+      "name": "ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/d86d9d088679.html",
-      "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ"
+      "name": "ଶରତ କୁମାରୀ ସ୍ଵାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/d6da7034de48.html",
-      "name": "ଶିବ ପ୍ରସାଦ ସାହୁ"
+      "name": "ଶିବ ପ୍ରସାଦ ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/ab1399b7121b.html",
-      "name": "ଶୁଭନାରାୟଣ ଶତପଥୀ"
+      "name": "ଶୁଭନାରାୟଣ ଶତପଥୀ",
+      "birthday": null
     },
     {
       "path": "/writers/shekhar-kumar-swain.html",
-      "name": "ଶେଖର କୁମାର ସ୍ବାଇଁ"
+      "name": "ଶେଖର କୁମାର ସ୍ବାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/bb6bd7814e9c.html",
-      "name": "ଶ୍ରୀମତୀ ଜିବେ ଶ୍ୱରୀ ପଟେଲ"
+      "name": "ଶ୍ରୀମତୀ ଜିବେ ଶ୍ୱରୀ ପଟେଲ",
+      "birthday": null
     },
     {
       "path": "/writers/b03d843cd408.html",
-      "name": "ଶ୍ରୀମତୀ ଜ୍ଯୋତ୍ସ୍ନା ସିଂହ"
+      "name": "ଶ୍ରୀମତୀ ଜ୍ଯୋତ୍ସ୍ନା ସିଂହ",
+      "birthday": null
     },
     {
       "path": "/writers/79403f37456a.html",
-      "name": "ଶ୍ରୀମତୀ ତନୟା ଦାସ ଗୋସ୍ୱାମୀ"
+      "name": "ଶ୍ରୀମତୀ ତନୟା ଦାସ ଗୋସ୍ୱାମୀ",
+      "birthday": null
     },
     {
       "path": "/writers/c15042e65fc9.html",
-      "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର"
+      "name": "ଶ୍ରୀମତୀ ଶକୁନ୍ତଳା ମିଶ୍ର",
+      "birthday": {
+        "day": 27,
+        "month": 11,
+        "year": 1949,
+        "source": "User-supplied November birthdays, 31 October 2026; identity already linked in /editions/2026-11/#birthdays",
+        "approved": true
+      }
     },
     {
       "path": "/writers/bb30f47596f3.html",
-      "name": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କା"
+      "name": "ଶ୍ରୀମତୀ ସୁଷମା ଲେଙ୍କା",
+      "birthday": null
     },
     {
       "path": "/writers/cfe3bf05e6dd.html",
-      "name": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ"
+      "name": "ଶ୍ରୀମତୀ ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/e1f187c86103.html",
-      "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର"
+      "name": "ଶ୍ରୀଯୁକ୍ତ ରଘୁନନ୍ଦନ ମହାପାତ୍ର",
+      "birthday": {
+        "day": 2,
+        "month": 10,
+        "year": null,
+        "source": "https://www.shishukishora.com/birthday_details.php?advt_cd=195; Exact source name",
+        "approved": true
+      }
     },
     {
       "path": "/writers/957caf2186d7.html",
-      "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି"
+      "name": "ସଂଗ୍ରାମ କେଶରୀ ପୃଷ୍ଟି",
+      "birthday": null
     },
     {
       "path": "/writers/cc748aac2f6e.html",
-      "name": "ସତ୍ୟ ନାରାୟଣ ମିଶ୍ର"
+      "name": "ସତ୍ୟ ନାରାୟଣ ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/3dcbd369d7ea.html",
-      "name": "ସନ୍ତୋଷ କୁମାର ସାହୁ"
+      "name": "ସନ୍ତୋଷ କୁମାର ସାହୁ",
+      "birthday": null
     },
     {
       "path": "/writers/a0cccf418dd7.html",
-      "name": "ସସ୍ମିତା ସ୍ୱାଇଁ"
+      "name": "ସସ୍ମିତା ସ୍ୱାଇଁ",
+      "birthday": null
     },
     {
       "path": "/writers/31e0b719b778.html",
-      "name": "ସୁଜିତ କୁମାର ମିଶ୍ର"
+      "name": "ସୁଜିତ କୁମାର ମିଶ୍ର",
+      "birthday": null
     },
     {
       "path": "/writers/681d1628c630.html",
-      "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ"
+      "name": "ସୁଧାଂଶୁ ଶେଖର ଦ୍ବିବେଦୀ",
+      "birthday": null
     },
     {
       "path": "/writers/809247c9a1cc.html",
-      "name": "ସୁବାସିନୀ ଧଳ"
+      "name": "ସୁବାସିନୀ ଧଳ",
+      "birthday": {
+        "day": 30,
+        "month": 11,
+        "year": 1958,
+        "source": "User-supplied November birthdays, 31 October 2026; identity already linked in /editions/2026-11/#birthdays",
+        "approved": true
+      }
     },
     {
       "path": "/writers/db792c256d76.html",
-      "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ"
+      "name": "ସୁଭାଷ ଚନ୍ଦ୍ର ଭୂତିଆ",
+      "birthday": null
     },
     {
       "path": "/writers/369056700718.html",
-      "name": "ସୁଲେଖା ସାମନ୍ତରାୟ"
+      "name": "ସୁଲେଖା ସାମନ୍ତରାୟ",
+      "birthday": null
     },
     {
       "path": "/writers/2ce7bb2a72a7.html",
-      "name": "ସୁଶାନ୍ତ କୁମାର ସାମଲ"
+      "name": "ସୁଶାନ୍ତ କୁମାର ସାମଲ",
+      "birthday": null
     },
     {
       "path": "/writers/4ddae1ce7968.html",
-      "name": "ସୁଶ୍ରୀ ସଂଯୁକ୍ତା ପରିଚ୍ଛା"
+      "name": "ସୁଶ୍ରୀ ସଂଯୁକ୍ତା ପରିଚ୍ଛା",
+      "birthday": null
     },
     {
       "path": "/writers/53c5b3ec02e3.html",
-      "name": "ସୁଶ୍ରୀ ସବିତା ଭୋଇ"
+      "name": "ସୁଶ୍ରୀ ସବିତା ଭୋଇ",
+      "birthday": null
     },
     {
       "path": "/writers/5c4b7e337fe1.html",
-      "name": "ସ୍ନିଗ୍ଧା ନାୟକ"
+      "name": "ସ୍ନିଗ୍ଧା ନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/35695eb8faa9.html",
-      "name": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା"
+      "name": "ସ୍ନେହଲତା ଦାସ ଲେଙ୍କା",
+      "birthday": null
     },
     {
       "path": "/writers/95e30378a1ca.html",
-      "name": "ହଂସନାଥ ମୁଦୁଲି"
+      "name": "ହଂସନାଥ ମୁଦୁଲି",
+      "birthday": null
     },
     {
       "path": "/writers/826c1453908c.html",
-      "name": "ହରପ୍ରିୟା ରାଉତରାୟ"
+      "name": "ହରପ୍ରିୟା ରାଉତରାୟ",
+      "birthday": null
     },
     {
       "path": "/writers/2eec0d5e026a.html",
-      "name": "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀ"
+      "name": "ହରପ୍ରୀୟା ଦ୍ୱୀବେଦୀ",
+      "birthday": null
     },
     {
       "path": "/writers/9012bd18bab1.html",
-      "name": "ହରି ପ୍ରିୟା ପଟ୍ଟନାୟକ"
+      "name": "ହରି ପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/4fa2a98145f6.html",
-      "name": "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ"
+      "name": "ହରିପ୍ରିୟା ପଟ୍ଟନାୟକ",
+      "birthday": null
     },
     {
       "path": "/writers/08ddd798056f.html",
-      "name": "ହରିହର ଶୁକ୍ଳ"
+      "name": "ହରିହର ଶୁକ୍ଳ",
+      "birthday": null
     },
     {
       "path": "/writers/0a644308bf04.html",
-      "name": "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହ"
+      "name": "ହିମାଂଶୁ ଶେଖର ଫତେସିଂହ",
+      "birthday": null
     }
   ],
   "issues": [

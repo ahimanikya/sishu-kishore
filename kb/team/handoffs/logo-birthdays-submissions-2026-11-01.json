@@ -1,0 +1,196 @@
+{
+  "id": "logo-birthdays-submissions-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Make a single-line logo using the same icon and text style. Add author birthday attribute and automatic edition birthdays. Create a form accepting writing.",
+  "coordinator": "Disha",
+  "input_head": "d4f56f69c4c3a2916f86c3b1c5eecc6ea3064148",
+  "task": "Horizontal brand asset, source-backed author birthdays with editor controls and edition-month automation, public writing submission form.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/birthday_sources",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Identified eleven verified author birthdays and existing rendering/data paths.",
+        "evidence": [
+          "provenance/author-birthdays/verified.json: six October day/month records.",
+          "Published November issue and user message establish five November dates and canonical profiles.",
+          "Follow-up inspected35 current issues,34 original old-issue captures and9 birthday detail sources; no new verified identities beyond six October."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/writing_form",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "backend/src/editorial.js",
+        "public/write.html",
+        "public/editorial/submit.html",
+        "public/editorial/editorial.css",
+        "public/editorial/studio-ui.mjs",
+        "public/editorial/author-birthday-model.mjs",
+        "tests/studio-birthdays.test.mjs"
+      ],
+      "execution_history": [
+        {
+          "runtime": "/root/writing_form",
+          "scope": "Submission form"
+        },
+        {
+          "runtime": "/root/birthday_studio",
+          "scope": "Studio author birthdays"
+        }
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Form and central birthday Studio controls implemented by two separately scoped Samanta executions.",
+        "evidence": [
+          "Writing form synthetic browser checks passed for whitespace, privacy, failures, duplicates and account switching.",
+          "Birthday model plus existing Studio tests:17 passed; explicit author revision handling and edition-month lists."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/features_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent review passed with limitations; no blocking findings.",
+        "evidence": [
+          "19 focused edition/birthday/Studio tests passed",
+          "3 author registry reconciliation tests passed",
+          "git diff --check passed",
+          "Horizontal logo visually inspected; no cropping",
+          "Source, auth/session, calendar/revision, publication boundary and writing failure-state review"
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "backend/README.md",
+    "backend/firestore.rules",
+    "backend/src/studio-service.js",
+    "backend/test/author-birthdays.test.mjs",
+    "data/author-birthdays.json",
+    "kb/editorial-model/editor-studio.md",
+    "kb/editorial-model/templates.json",
+    "kb/team/handoffs/logo-birthdays-submissions-2026-11-01.json",
+    "kb/team/operations.json",
+    "package.json",
+    "provenance/author-birthdays/older-issue-audit-2026-11-01.json",
+    "provenance/horizontal-logo-v1.json",
+    "public/current_issue.html",
+    "public/editions/2026-10/index.html",
+    "public/editions/2026-11/index.html",
+    "public/editorial/app.js",
+    "public/editorial/studio-catalog.json",
+    "public/editorial/studio.css",
+    "public/editorial/studio.html",
+    "public/editorial/studio.js",
+    "public/index.html",
+    "public/media/sishu-kishore-horizontal-logo-v1.png",
+    "public/writers.html",
+    "public/writers/37cc648aa7a1.html",
+    "public/writers/5022efa803e9.html",
+    "public/writers/5721f5a8f48e.html",
+    "public/writers/6bd0f39ff075.html",
+    "public/writers/809247c9a1cc.html",
+    "public/writers/c15042e65fc9.html",
+    "public/writers/c89e02766cff.html",
+    "public/writers/dfedff336b61.html",
+    "public/writers/e1f187c86103.html",
+    "public/writers/fc19d89e45a8.html",
+    "public/writers/manindra-mohanty.html",
+    "scripts/build-author-birthdays.py",
+    "scripts/editorial/build-studio-catalog.mjs",
+    "scripts/editorial/import-author-birthdays.mjs",
+    "tests/author-birthday-import.test.mjs",
+    "tests/edition-birthdays.test.mjs",
+    "tests/publication-release.test.mjs"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/features_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "backend/README.md": "c9479ceef344bd96978f0296e770f2f60b59f448e919dd41b9669992b3ff58a7",
+      "backend/firestore.rules": "5ea9833ebf1c3f3172619b69f89619e05c5d3c90f9e0d95e04ff9d411b28d64d",
+      "backend/src/editorial.js": "3772dc92a80d072c1fc45211e00f12e1783d9d68cc3d4e51efccca7b36eb5083",
+      "backend/src/studio-service.js": "93b4497fdba1a117660f886ec2f789e54df7797afabeb6f790a9e42b91b01a02",
+      "backend/test/author-birthdays.test.mjs": "4fdace3d87604ec7e98d41f5e94e1762a5b46e47434b470a730e3cfd59b7ff9f",
+      "data/author-birthdays.json": "618791c98264723b65e14c155368c5b92923546fc592357393bec33d5833759d",
+      "kb/editorial-model/editor-studio.md": "6e170a5f2ee67112350059b33ebdb1cc3e7bc78e736f6ec4608f1630ccd248b6",
+      "kb/editorial-model/templates.json": "ec0c7394114d1dc94beb160535ef19723ee5a321e2f5aea4d826f7d94dc64c3d",
+      "package.json": "90b7db17446cdf0a0ff7d513cb3f49408f96d928ee66210fcc387bf8d288004c",
+      "provenance/author-birthdays/older-issue-audit-2026-11-01.json": "9715cd4afada745e23b152e19fb6622161499fac6e0c45ef69cf54cabbef98a9",
+      "provenance/horizontal-logo-v1.json": "576ffb412cfc9f47de07342c002d0ef196fa9a490af8923d3c8c9edee5f51089",
+      "public/current_issue.html": "c5e6d85d3a20a324f4e2e9c7917e81eab799d44cb68cd09fd7996c6dab77eefe",
+      "public/editions/2026-10/index.html": "1091417c61256c2b6393de0b6e24bf10280c8b3eb28db7d81f71a7a04556276a",
+      "public/editions/2026-11/index.html": "c90034ef05b1d99e536d748c804c9659f0d99505fde455c516a907a6c9550b40",
+      "public/editorial/app.js": "3a3f521e4d8096ca17fa18dab6b648aa4580e50b3d6b982cf7ec10ac6290f42f",
+      "public/editorial/author-birthday-model.mjs": "12c8f40e94cf12aaa7e696e355ed9643526a6250bfc2804a898ddb2a1859eaf6",
+      "public/editorial/editorial.css": "c18792844cdd49329ae6465bf3c8c9648e1daa7bc4c00a99142c5960e5243f13",
+      "public/editorial/studio-catalog.json": "3d2a023c056a71c54e5a44bb82ef00c960dcb1724cafacc3c8831b086b26d4fc",
+      "public/editorial/studio-ui.mjs": "dfd5754ec8d8c4be7bfe77468b3f9664bd7b092b1c6cf80d447140c149ad2ae9",
+      "public/editorial/studio.css": "670067098ecf9700b417be67c29a5eaf8c311ba2abbe02c1664af6d2d4dd6f36",
+      "public/editorial/studio.html": "5f2fee6e0d6abe4ab8bb44ebf855e8a0088bbd949779228908aad1a212999fb2",
+      "public/editorial/studio.js": "209d4de0bc1a91857761e08ba572b6c357d5476aaa5d37eea2cb7a1ce90ab680",
+      "public/editorial/submit.html": "ecea500d53e29d85926d7133143f1642a2c8aae40f544ce1928bcc2f96e6120e",
+      "public/index.html": "f4992868aa71da17c5391ae33abbef242ea169acfb7aebe5d1dd4bd42f1b82f4",
+      "public/media/sishu-kishore-horizontal-logo-v1.png": "fcff75bcbd5b2d08b305b9570fa86aa88a433ab79f81e489ba8caed02d160889",
+      "public/write.html": "a03f36b158eaeb3cdde7ea707b282c14c5b6980ea8e4c5248ad498e09c6698b9",
+      "public/writers.html": "0805453b1dce6e8567d487c63c5865747ec30d4351b34fde786a1d6347895e53",
+      "public/writers/37cc648aa7a1.html": "38a6e3c231415e776b6e9a7ada0e7012744cb82611d2a2b1fbdc9b890e0d0b01",
+      "public/writers/5022efa803e9.html": "8d7ef6dc66d81b3106f99cb3c61ca4c5bde91152854f9292164da0ff58a893a0",
+      "public/writers/5721f5a8f48e.html": "2320bdc73a66baf477795bab614891fe067f055a97b132835d7fc1fa3d4af42e",
+      "public/writers/6bd0f39ff075.html": "de04cd41fb379b9046b44c200d63c25f864fd8dccf2cff4175b6b8610e7b4618",
+      "public/writers/809247c9a1cc.html": "432502a428d5a095aa1f32f2dc92dfa684cac462001df568cabd89d8ede89f30",
+      "public/writers/c15042e65fc9.html": "2699a4d3018ed2d87bbc77d7f85713961af42b0b92e14cbc65bde741b0053488",
+      "public/writers/c89e02766cff.html": "cd9e2c411ca0794dd65a48d4845e62781b0c69592f316f35d132fc5e4f4c3d04",
+      "public/writers/dfedff336b61.html": "08eb145cbdcb4b8aca2c98ed6dcb61d4ea115621514d8754051eb26ae97daa6b",
+      "public/writers/e1f187c86103.html": "dae1148925095460a43259fca18bb0a4a9ad4542d148dd4d430b441189f3f07b",
+      "public/writers/fc19d89e45a8.html": "1b967099577c56504faf2d0b20fb1af7ffb924c4c29969532639fba0525344b4",
+      "public/writers/manindra-mohanty.html": "fc41ce827368ee045e7929ca1c8c6913640a12c9027b5de80cb188ca64b4aa67",
+      "scripts/build-author-birthdays.py": "8f386512be8fa9e2362636fcfe84abca3f4bf3907a81196baaac9a84f34d845e",
+      "scripts/editorial/build-studio-catalog.mjs": "ebbb3b6dae28d420b79e57c058feaaa5b89b9e0fd7f10186ab318873e760d13f",
+      "scripts/editorial/import-author-birthdays.mjs": "eb216c9891245f7b232efe0fc9c227661e1a414943a20ba334ed3e48f7c7a885",
+      "tests/author-birthday-import.test.mjs": "f239fc9977f902d50ebc7d957d11d87e2bc27d0c6eb953029f967104cbc189bc",
+      "tests/edition-birthdays.test.mjs": "ad085bfd724bcf4ab688bb4041347dbb5622a027f2ce224bde6276f50d3d706a",
+      "tests/publication-release.test.mjs": "e6362697c33daa33c82333bdbaeef8491228a8d167397d3ed20033a5632b7506",
+      "tests/studio-birthdays.test.mjs": "e90bad8033b6ccf5ba3d661d49b7946743f8fa5664b4885ad311f1728a2008ba"
+    },
+    "evidence": [
+      "19 focused edition/birthday/Studio tests passed",
+      "3 author registry reconciliation tests passed",
+      "git diff --check passed",
+      "Horizontal logo visually inspected; no cropping",
+      "Source, auth/session, calendar/revision, publication boundary and writing failure-state review"
+    ],
+    "limitations": [
+      "No production sign-in or live submission was exercised.",
+      "Private author updates require reviewed export/import and ordinary publication; they do not update the public site directly.",
+      "Three historical birthday identities remain unresolved and excluded."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "110 site tests passed",
+      "Full build passed",
+      "50 backend emulator tests passed",
+      "Birthday and submission synthetic browser scenarios passed"
+    ]
+  },
+  "next_action": "Local changes ready. Publication and live authenticated acceptance remain pending. Three historical birthday identities remain excluded pending verification.",
+  "coordinator_reservations_released": true
+}

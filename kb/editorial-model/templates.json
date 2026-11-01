@@ -18,6 +18,14 @@
       "inspected_on": "",
       "status": "unverified",
       "conflicts": []
+    },
+    "birthday": null,
+    "birthday_example": {
+      "day": null,
+      "month": null,
+      "year": null,
+      "source": "",
+      "approved": false
     }
   },
   "visual_brief": {
@@ -55,7 +63,8 @@
       },
       "review_state": "pending",
       "report_file": ""
-    }
+    },
+    "birthday_selection": "Automatic by edition month from verified adult author records, independent of literary contribution limits."
   },
   "book_inventory": {
     "edition": "",

@@ -33,3 +33,13 @@ This adoption prepares code and review evidence locally. No live rules deploymen
 ## Source pattern
 
 Reviewed local Kabita source: `output/kabitalive-design-proposal-2026-09-29/site/data/editor-workspace.html.template`, `assets/editor-workspace-model.mjs`, `assets/editor-workspace.mjs`, `assets/editor-preparation.mjs`, `assets/editor-recovery.mjs`, and `src/editor-workspace-service.mjs`. Adopted principles include contents-first work, separate publication identities, explicit preparation, review reset after edits, transactional revisions and preserved conflicts. Kabita's issue numbers, anthology defaults, language requirements and permissions were not adopted.
+
+## Author birthdays and writing intake
+
+Author catalog entries have a `birthday` attribute, either null or a sourced day/month with optional year and an acknowledgement approval flag. The Studio’s English “Authors and birthdays” form saves private revisioned records in `editorAuthors`; conflict protection and immutable history match publication drafts. Only verified adult-author dates are eligible. Unknown years stay blank. The automatic list uses the chosen edition month, includes approved writers independently of literary contributions, and never changes an old issue according to today’s calendar. Books have no monthly birthday list.
+
+The versioned public source is `data/author-birthdays.json`. `scripts/build-author-birthdays.py` renders author attributes, dated editions, current issue/home and the directory. Existing legacy issues remain preserved. The directory alone filters by the current India calendar month. Sources from older captures are recorded in `provenance/author-birthdays/older-issue-audit-2026-11-01.json`; unresolved identities remain excluded.
+
+To carry reviewed Studio changes into a release, use “Download author records”, save that private JSON under `editorial-private/`, then preview with `node scripts/editorial/import-author-birthdays.mjs editorial-private/author-records.json`. After reviewing the proposed changes, rerun with `--apply`, build and follow normal release approval. Null or an unapproved record clears the public attribute without copying private unapproved dates or deleting their private history; no import publishes automatically. Workspace backups contain a saved birthday snapshot for the edition, not unsaved author-form fields.
+
+`/write.html` now embeds the existing private writing intake; `/editorial/submit.html` remains supported. Public labels are Odia, original writing stays unchanged, preview is text-only, and submitting never publishes. Verified sign-in, consent and server quotas remain required. Uploads remain disabled.
