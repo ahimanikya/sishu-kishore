@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
+import {validateAuthorSelection} from './author-selection.mjs';
 
 const repo = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 export const model = JSON.parse(fs.readFileSync(path.join(repo, 'kb/editorial-model/model.json'), 'utf8'));
@@ -25,6 +26,7 @@ export function newProject(kind, id) {
     creative_editor: model.authority.creative_editor,
     required_artifacts: [], artifacts: [], authorization: null,
     stages: model.workflows[kind].map(id => ({id, state: 'pending', evidence: ''})),
+    ...(kind === 'magazine' ? {author_selection: null} : {}),
     delivery: null,
   };
 }
@@ -111,6 +113,25 @@ export function validateProject(record, {release = false, readArtifact} = {}) {
     if (item.kind === 'translation' && !kinds.some(k => ['source','article','book-text'].includes(k))) incomplete(`${id}: must depend directly on original text, not only another translation.`);
     if (item.kind === 'illustration' && !kinds.some(k => ['article','book-text'].includes(k))) incomplete(`${id}: must link the complete literary contribution.`);
     if (['cover','editorial'].includes(item.kind) && !kinds.includes('contents')) incomplete(`${id}: must link the edition/book contents.`);
+  }
+  if (record.kind === 'magazine') {
+    const publicRelease = release && record.visibility === 'public';
+    const policy = model.profiles[record.profile]?.author_selection;
+    const selection = record.author_selection;
+    if (!object(selection)) {
+      (publicRelease ? errors : warnings).push('Magazine author_selection is required before public edition release.');
+    } else {
+      // Draft checks report rotation without deciding the pending editorial policy.
+      const report = validateAuthorSelection(selection.candidate, selection.previous,
+        {rotationMode: policy?.rotation_mode ?? 'strict'});
+      (publicRelease ? errors : warnings).push(...report.errors);
+      warnings.push(...report.warnings);
+      const expected = [...selected].filter(id => items.get(id)?.kind === 'article').sort();
+      const supplied = (Array.isArray(selection.candidate?.articles) ? selection.candidate.articles : []).map(item => item?.id).sort();
+      if (JSON.stringify(expected) !== JSON.stringify(supplied)) {
+        (publicRelease ? errors : warnings).push('Author selection must cover exactly the release article artifact IDs.');
+      }
+    }
   }
   if (release) {
     const kinds = [...selected].map(id => items.get(id)?.kind);

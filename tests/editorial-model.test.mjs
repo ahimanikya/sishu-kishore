@@ -74,3 +74,22 @@ test('malformed top-level arrays produce errors rather than throwing', () => {
   const r=candidate();r.artifacts={};r.required_artifacts=null;
   assert.ok(validateProject(r,options).errors.length);
 });
+
+test('public magazine release requires complete author selection and a resolved rotation policy',()=>{
+ const r=candidate();r.visibility='public';
+ let report=validateProject(r,{...options,release:true});
+ assert.ok(report.errors.some(e=>e.includes('author_selection')));
+ r.author_selection={candidate:{issue:'2026-12',articles:[{id:'story',title:'Test',author_profiles:['/writers/a.html']},{id:'extra',title:'Second',author_profiles:['/writers/a.html']}]},previous:{issue:'2026-11',articles:[{id:'prior',title:'Earlier',author_profiles:['/writers/b.html']}]}};
+ report=validateProject(r,{...options,release:true});
+ assert.ok(report.errors.some(e=>e.includes('More than one contribution')));
+ assert.ok(report.errors.some(e=>e.includes('exactly the release article')));
+});
+test('public release accepts unique rotated authors and rejects a consecutive author',()=>{
+ const r=candidate();r.visibility='public';r.destination='/editions/2026-12/';
+ r.author_selection={candidate:{issue:'2026-12',articles:[{id:'story',title:'Test',author_profiles:['/writers/a.html']}]},previous:{issue:'2026-11',articles:[{id:'prior',title:'Earlier',author_profiles:['/writers/b.html']}]}};
+ r.authorization={...r.authorization,visibility:r.visibility,destination:r.destination,candidate_sha256:candidateFingerprint(r)};
+ assert.deepEqual(validateProject(r,{...options,release:true}).errors,[]);
+ r.author_selection.previous.articles[0].author_profiles=['/writers/a.html'];
+ r.authorization.candidate_sha256=candidateFingerprint(r);
+ assert.ok(validateProject(r,{...options,release:true}).errors.some(e=>e.includes('previous issue')));
+});

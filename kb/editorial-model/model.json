@@ -84,7 +84,16 @@
       "retired_route_prefixes": [
         "/shishu/",
         "/sishu/"
-      ]
+      ],
+      "author_selection": {
+        "max_contributions_per_author": 1,
+        "identity": "canonical author profile route",
+        "count_coauthors": true,
+        "check_previous_issue": true,
+        "rotation_mode": "strict",
+        "rotation_decision": "User selected strict one-edition gap on 1 November 2026; no consecutive monthly contributions.",
+        "draft_conflicts": "Flag for selection; do not automatically withdraw or reschedule writings."
+      }
     }
   },
   "learning_policy": {

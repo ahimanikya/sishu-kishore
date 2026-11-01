@@ -43,7 +43,19 @@
     "cover_concept": "",
     "editorial_angle": "",
     "intended_editor": "",
-    "editorial_approval_evidence": ""
+    "editorial_approval_evidence": "",
+    "author_selection": {
+      "candidate": {
+        "issue": "",
+        "articles": []
+      },
+      "previous": {
+        "issue": "",
+        "articles": []
+      },
+      "review_state": "pending",
+      "report_file": ""
+    }
   },
   "book_inventory": {
     "edition": "",

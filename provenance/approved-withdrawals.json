@@ -44,15 +44,25 @@
       "route": "/editions/2026-11/article-09.html",
       "retained_route": null,
       "reason": "one_poem_per_author_in_issue",
-      "planned_issue": "2026-12",
-      "authorization": "any; move the other to December draft"
+      "planned_issue": "2027-01",
+      "authorization": "any; move the other to December draft",
+      "rotation_authorization": "Strict gap: hold their deferred poems for January"
     },
     {
       "route": "/editions/2026-11/article-14.html",
       "retained_route": null,
       "reason": "one_poem_per_author_in_issue",
-      "planned_issue": "2026-12",
-      "authorization": "any; move the other to December draft"
+      "planned_issue": "2027-01",
+      "authorization": "any; move the other to December draft",
+      "rotation_authorization": "Strict gap: hold their deferred poems for January"
+    },
+    {
+      "route": "/editions/2026-11/article-20.html",
+      "retained_route": null,
+      "reason": "one_poem_per_author_in_issue",
+      "planned_issue": "2027-01",
+      "authorization": "Keep ଝାଇଁକି ଝମ୍ପର; move ଜହ୍ନମାମୁ to December",
+      "rotation_authorization": "Strict gap: hold their deferred poems for January"
     }
   ],
   "excerpt_removals": [

@@ -46,3 +46,11 @@ Load the installed Human Natural Translation skill for translations, Human Natur
 Use [evaluation-cases.json](evaluation-cases.json) as review scenarios, not claimed passed tests. Select a small authorized sample spanning a poem, story, informational article, uncertain author identity and scanned book page. Record the baseline, human corrections and accepted result. Hold back different works for evaluation; avoid placing drafts or translations of the same work on both sides. Assess meaning, voice, culture, anatomy, completeness, revisions and editorial effort separately.
 
 The initial implementation changes no magazine content, author profile, translation, image or publishing access. No model training or paid service is started.
+
+## Author selection preflight
+
+The Sishu profile permits one literary contribution per canonical author per issue. Poems and prose count together; co-authors count individually. Run `node scripts/editorial/author-selection.mjs site /editions/2026-11/ /editions/2026-10/ --rotation-mode strict` to audit actual linked identities, or pass candidate/previous JSON snapshots using the CLI help. The editor selected Manorama Mishra's article-19 for November and moved article-20 to January's draft. Do not interpret a checker finding as approval to remove writing.
+
+A magazine production record carries `author_selection: {candidate, previous}` using the validator schema. Candidate article IDs must exactly match the article artifacts selected for release. Public release fails for missing or conflicting author selections. Draft checks surface conflicts without publishing or automatically rescheduling the work. Books are outside this issue-selection policy.
+
+Rotation must be checked against the immediately preceding monthly issue. The editor selected a strict one-edition gap: an author in November is next eligible in January. Consecutive-author conflicts block public edition release. Recheck the actual preceding issue at release; a draft reservation is not publication approval. The site build checks the current edition against the preceding issue and blocks duplicates or unresolved rotation conflicts. Historical editions and unlisted draft queues are not automatically rewritten.

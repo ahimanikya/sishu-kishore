@@ -1,0 +1,163 @@
+{
+  "id": "author-selection-rules-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "ready",
+  "authorization": "Can we make that a rule, rotation and no two article from same author in the same edition?; Keep ଝାଇଁକି ଝମ୍ପର; move ଜହ୍ନମାମୁ to December; Strict gap: hold their deferred poems for January",
+  "coordinator": "Disha",
+  "input_head": "5cdd1061387fec4b930b6aa87540e55a55e86aaf",
+  "task": "Enforce one contribution per author and strict monthly gap; resolve final November duplicate and hold three deferred poems for January.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/author_rules",
+      "status": "completed",
+      "mode": "write",
+      "reserved_files": [
+        "scripts/editorial/author-selection.mjs",
+        "tests/author-selection.test.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Added canonical-author selection validator and adapter.",
+        "evidence": [
+          "7 focused validator tests passed."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/jahn_mamu_draft",
+      "status": "completed",
+      "mode": "write",
+      "reserved_files": [
+        "public/review/2026-12/index.html",
+        "public/review/2026-12/jahnmamu.html",
+        "tests/december-draft.test.mjs",
+        "public/review/2026-12/tiki-bachhuri.html",
+        "public/review/2026-12/chaiti-khara.html",
+        "public/review/2027-01/index.html",
+        "public/review/2027-01/tiki-bachhuri.html",
+        "public/review/2027-01/jahnmamu.html",
+        "public/review/2027-01/chaiti-khara.html"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Created Jahnmamu draft, then moved three November-author poems to January under strict rotation.",
+        "evidence": [
+          "December one poem; January three poems; exact prose/navigation checks passed."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/author_rules_review",
+      "status": "completed",
+      "mode": "read_only",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Strict canonical-author policy and placements reviewed; no blocking findings.",
+        "evidence": [
+          "73 tests/build passed, including automatic publishing negative cases.",
+          "24 November authors, no October overlap; December1 and January3 drafts; exact text/art preserved."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "AGENTS.md",
+    "PROJECT.txt",
+    "kb/editorial-model/README.md",
+    "kb/editorial-model/model.json",
+    "kb/editorial-model/templates.json",
+    "kb/editorial-model/workflows.md",
+    "kb/team/handoffs/author-selection-rules-2026-11-01.json",
+    "kb/team/operations.json",
+    "package.json",
+    "provenance/approved-withdrawals.json",
+    "provenance/social-previews.json",
+    "public/content-index.json",
+    "public/current_issue.html",
+    "public/edition-reader.json",
+    "public/editions/2026-11/all-writing.html",
+    "public/editions/2026-11/article-18.html",
+    "public/editions/2026-11/article-19.html",
+    "public/editions/2026-11/article-20.html",
+    "public/editions/2026-11/article-21.html",
+    "public/editions/2026-11/article-22.html",
+    "public/editions/2026-11/index.html",
+    "public/index.html",
+    "public/reading-text/article-20.txt",
+    "public/review/2026-12/chaiti-khara.html",
+    "public/review/2026-12/index.html",
+    "public/review/2026-12/tiki-bachhuri.html",
+    "public/review/2027-01/chaiti-khara.html",
+    "public/review/2027-01/index.html",
+    "public/review/2027-01/jahnmamu.html",
+    "public/review/2027-01/tiki-bachhuri.html",
+    "public/sitemap.xml",
+    "public/writers.html",
+    "public/writers/fb5e637ed769.html",
+    "scripts/editorial/author-selection.mjs",
+    "scripts/editorial/check-current-authors.mjs",
+    "scripts/editorial/model.mjs",
+    "tests/author-selection.test.mjs",
+    "tests/december-draft.test.mjs",
+    "tests/editorial-model.test.mjs",
+    "tests/november-publication.test.mjs",
+    "tests/publication-release.test.mjs"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/author_rules_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass",
+    "candidate_files": {
+      "AGENTS.md": "b0bbb59379f79bf11a2cc27dfb96628949f23605717ecda7243616160f18e066",
+      "PROJECT.txt": "10a715fb4fc9af1848e5254833e76116e55efa9e4ff574003d0d38065b1bd072",
+      "kb/editorial-model/README.md": "3376be96e55ab6c372cb7e48fbc6462dcdc0443bd032cac845e36d9025fba457",
+      "kb/editorial-model/model.json": "74a17a289808beadd5c4b160ab536bf1394d88ef0f945bc6fdf605031a00681e",
+      "kb/editorial-model/templates.json": "6f12161cab0401bc5a2a11b8b73fec08bf540bab3c9104bd1d901c2cfa1156ab",
+      "kb/editorial-model/workflows.md": "b788ac7b339a1d1df606e1c7fe3f713c98b61a1ff8ba956e1759a6b1bcc8466c",
+      "package.json": "fac74f41cc6efe13b02f8fc83787b7914823a670b84c58e619dffedf3ca901fc",
+      "provenance/approved-withdrawals.json": "ab61b38314a6448e98a048383eee150e3c390ef3256b429cc82891ff731fb64c",
+      "provenance/social-previews.json": "f4646cf5eb863644d684beb406b809e526972907bf49c489910814814eda602c",
+      "public/content-index.json": "f75fe1ae45f8c5cb257e1c38effa088d544bbf49da7dc6962595644a2dc408a9",
+      "public/current_issue.html": "8c792b3d5e4cc28ce0c10e5b74e9b9f523e4e66ec7efff5e319d453cc2e15edd",
+      "public/edition-reader.json": "f800968fd7bb707839a60b90c4196b14b92f45d8a5545309c5b613189776238a",
+      "public/editions/2026-11/all-writing.html": "467b13d72a975396441f6ab2b07d270f238a3821ae2df79e7afe31d98f9208c8",
+      "public/editions/2026-11/article-18.html": "6e377161ad883ace1bbcaf0280f8d02c8445d0a70dcf38a34c287ee34813aa73",
+      "public/editions/2026-11/article-19.html": "194319b09de8ecc45f20da1d6b7b214158a85160e40e78765eeebd83155a33b5",
+      "public/editions/2026-11/article-21.html": "d78fe2f979e0bdded001f0ec2813616d783180d4c48ecc3797554ed81444fe87",
+      "public/editions/2026-11/article-22.html": "59c8c6fda97e36a79f749dc5d1ec1f7ae40ef0d78607d8a269cd31ac6d441a6d",
+      "public/editions/2026-11/index.html": "b85797b2532f6c40f8ca89a9014821902f7252e0942dd67216f81dd4ebb3f0aa",
+      "public/index.html": "d71b68721c8f241b949f59d1a937a773d4f1efea56c10183d204ed57760526d6",
+      "public/review/2026-12/index.html": "ddc301e2ed33cd5a6c42f07ea35c4199adaea0a9049f1fc3f2149ffaa3a73d87",
+      "public/sitemap.xml": "ad08b91579a764d649869c1e5040db00f4321f5cb78811371c96508791796767",
+      "public/writers.html": "cfecace7cd1652a8e3a10aebb49291c678dec9476e0c5e70df0e21937a46c1eb",
+      "public/writers/fb5e637ed769.html": "2c9b84ab482680f500e5e3143338ce05385fcb19e955490c4ee29c9ded641400",
+      "scripts/editorial/model.mjs": "761ca830491595563dcf04ea01eb59ca787448066f5882e40e3ec8da51edcaf7",
+      "tests/december-draft.test.mjs": "fc8fa8a567c3a689069c47dee7347766b28dcd7f62a6f051d32e95864510e205",
+      "tests/editorial-model.test.mjs": "c8bdb5399c283fa398c285550b80237a725392449c2e390b8f692b265794dc7f",
+      "tests/november-publication.test.mjs": "646db365ae36ebc03bf388759eebcc38f91be0befbfc1f1256a1215af5cb22c8",
+      "scripts/editorial/author-selection.mjs": "f654eec032f79dab51d978f03fa01f21cbf8ac98e9df6626fe4ad3bd9b724e11",
+      "scripts/editorial/check-current-authors.mjs": "66d69128ccc976258c62eded2d74d8a8d3e226d75dc3233cccecd7834dc26599",
+      "tests/author-selection.test.mjs": "426afb7d11f80bbef12e36096c7444c65c9836e2094d5957ed27a67cdb3ab8c4",
+      "public/review/2027-01/index.html": "a76d868bf8d308ddf0da7e706a9f227ba678b3c1faa30ff8c4a6ff467e71d49f",
+      "public/review/2027-01/tiki-bachhuri.html": "d0500fd2a6ab9aef7260564eb64ffbeab213159048392f36cfc31ad96d141b40",
+      "public/review/2027-01/jahnmamu.html": "4099f26aaee4958b7ac9ef006a4d36f450b860ecd9e5ff9891710aaf4ec7171f",
+      "public/review/2027-01/chaiti-khara.html": "9732948664c2dc8cf25e5e6e3d3c80ecd44e2d804709b30d3722849ff7edbb46",
+      "tests/publication-release.test.mjs": "04c56373727175ac931ac257acd5e88b60eb8699e46a33800d9c85ac7247b150"
+    },
+    "evidence": [
+      "Canonical identities, coauthors, strict gap, malformed inputs, release gates and live build integration checked.",
+      "73 tests/build passed; original content and access boundaries verified."
+    ],
+    "limitations": [
+      "Canonical author identity research remains editorial responsibility.",
+      "Recheck January against final December contents before release."
+    ]
+  },
+  "delivery": null,
+  "next_action": "Publish exact reviewed candidate and verify live."
+}

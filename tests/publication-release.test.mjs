@@ -5,6 +5,8 @@ test('approved article joins reader/discovery; withdrawal removes every generate
  try{
   for(const part of ['public','scripts','provenance'])fs.cpSync(path.join(repo,part),path.join(dir,part),{recursive:true});
   fs.copyFileSync(path.join(repo,'package.json'),path.join(dir,'package.json'));
+  fs.mkdirSync(path.join(dir,'kb/editorial-model'),{recursive:true});
+  fs.copyFileSync(path.join(repo,'kb/editorial-model/model.json'),path.join(dir,'kb/editorial-model/model.json'));
   const cfg=JSON.parse(fs.readFileSync(path.join(dir,'scripts/site.json'))),id='ReleaseCheck12345678';
   const route=`/published/${id}.html`,fixture=path.join(dir,'fixture.json');
   const original=fs.readFileSync(path.join(dir,'public/article-790.html'),'utf8');
@@ -24,6 +26,20 @@ test('approved article joins reader/discovery; withdrawal removes every generate
   assert.ok(fs.existsSync(path.join(dir,`public/reading-text/${id}.txt`)));
   assert.ok(fs.readFileSync(path.join(dir,'public/index.html'),'utf8').includes('Published writing →'));
   assert.ok(!fs.existsSync(path.join(dir,'public/shishu')));
+  // Approved-feed imports also pass through the canonical-author gate.
+  const second={...record,id:'ReleaseCheck87654321',title:'Second fixture'};
+  fs.writeFileSync(fixture,JSON.stringify([record,second]));
+  let attempt=spawnSync(process.execPath,['scripts/sync-publications.mjs'],{cwd:dir,env:{...process.env,NODE_ENV:'test',PUBLICATIONS_FIXTURE:fixture},encoding:'utf8'});
+  assert.equal(attempt.status,0,attempt.stderr);
+  attempt=spawnSync(process.execPath,['scripts/editorial/check-current-authors.mjs'],{cwd:dir,encoding:'utf8'});
+  assert.notEqual(attempt.status,0);
+  assert.match(attempt.stderr,/More than one contribution/);
+  fs.writeFileSync(fixture,JSON.stringify([record,{...second,issue:'/editions/2026-10/'}]));
+  attempt=spawnSync(process.execPath,['scripts/sync-publications.mjs'],{cwd:dir,env:{...process.env,NODE_ENV:'test',PUBLICATIONS_FIXTURE:fixture},encoding:'utf8'});
+  assert.equal(attempt.status,0,attempt.stderr);
+  attempt=spawnSync(process.execPath,['scripts/editorial/check-current-authors.mjs'],{cwd:dir,encoding:'utf8'});
+  assert.notEqual(attempt.status,0);
+  assert.match(attempt.stderr,/previous issue/);
   run([{...record,state:'withdrawn'}]);
   assert.ok(!fs.existsSync(path.join(dir,'public',route)));
   assert.ok(!fs.existsSync(path.join(dir,`public/reading-text/${id}.txt`)));
