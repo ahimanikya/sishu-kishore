@@ -32,3 +32,7 @@ The design system governs placement and review, not literary meaning. Before app
 ## Narrative ownership
 
 `/our-brand/` owns brand, editorial process and central disclosure; `/whoweare.html` preserves academy history and roster; `/editorial.html` preserves editorial writing. Do not copy their full narratives into every issue. A short contextual link is enough. Infographic captions summarize colour meaning; supporting prose should add practical information rather than repeat it verbatim. Historical literature requires an editorial decision before deletion.
+
+## Story Garden selection — 2 November 2026
+
+The user chose Story Garden after reviewing three visual concepts. Apply it first to the full Musha Mushi illustrated reader: gentle leaf details, compact book identity, artwork beside poetry on wide screens and stacked on phones. Preserve all 18 poems, source art and original order. Keep a full-book selector, visible reading controls, night mode and a clear exit from focus reading. Avoid repeating the first poem image as a second large cover. This choice does not approve rewriting verses, generating replacement art, changing other books or publishing without release authorization.

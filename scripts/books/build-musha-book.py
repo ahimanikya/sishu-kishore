@@ -50,3 +50,6 @@ import runpy
 runpy.run_path(str(R/'scripts/books/publish-musha-entrypoints.py'))
 
 runpy.run_path(str(R/'scripts/books/normalize-book-ui.py'))
+
+# Preserve the selected reader layout when the book is regenerated.
+runpy.run_path(str(R/'scripts/books/apply-story-garden.py'))

@@ -1,0 +1,105 @@
+{
+  "id": "story-garden-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Story Garden — user selected the reviewed book reader direction.",
+  "coordinator": "Disha",
+  "input_head": "745382a5e3e8353df9e480f0a8a4e144d112c270",
+  "task": "Apply Story Garden to all18 Musha Mushi poems, preserving text, art, reading order, controls and review boundaries.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/story_garden_implementation",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/books/musha_mushi/illustrated.html",
+        "public/books/musha_mushi/illustrated.css",
+        "public/books/musha_mushi/illustrated.js",
+        "scripts/books/build-musha-book.py",
+        "scripts/books/apply-story-garden.py",
+        "provenance/story-garden-2026-11-02.json"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Full18-poem Story Garden reader implemented and integrated.",
+        "evidence": [
+          "Original18titles,44verse blocks and18art paths preserved; enhancer idempotent."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/story_garden_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate review passed with stated limitations.",
+        "evidence": [
+          "Independent exact equality of 18 poem IDs/titles/art paths and 44 verse blocks against pre-change baseline",
+          "Independent exact footer markup and head-link preservation against HEAD",
+          "Enhancer independently rerun in isolated temporary copy: stable exact bytes on consecutive enhancement runs; first rerun normalizes later build HTML formatting",
+          "Reviewed scoped garden CSS and guarded progressive-enhancement JS",
+          "Reviewed generation integration: normal build enhancer follows delivery normalization; source generator only adds enhancer invocation",
+          "Visually reviewed root-produced Chrome screenshots at 390 and 1280 pixels",
+          "Read passing build verifier log and 110/110 test log; root reported browser navigation/settings/no-JS checks at 320,390,768,1280",
+          "Final provenance fingerprints refreshed; no implementation file changed since review; root reports final npm check passed after unrelated generated-page cleanup"
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/story-garden-2026-11-02.json",
+    "kb/team/operations.json",
+    "package.json",
+    "kb/design-system/components.md",
+    "kb/design-system/README.md"
+  ],
+  "review": {
+    "role": "Drishti",
+    "runtime": "/root/story_garden_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "public/books/musha_mushi/illustrated.html": "a506eb5f2293edd6acf4acec7648d9c67d969682d54cbf188f3e2530aa7e0c82",
+      "public/books/musha_mushi/illustrated.css": "6abbb8a6e2cf2da9b195e5979383c5ca4b9ffbf8d7300dafed1eea6413a915fb",
+      "public/books/musha_mushi/illustrated.js": "44b403e9e51bf9951dec4b73c76c1d4403c5b667b0d3900c92d5d72f96337502",
+      "scripts/books/apply-story-garden.py": "5e2e774ffca2a72c10066afe06f8615c1aea0cab6c25a125ca4402933804f390",
+      "scripts/books/build-musha-book.py": "22980f6b530fa09d2ceb9d0aba2effceee932e6729f37c2c7cc2c385c7667cc2",
+      "package.json": "507428edd7000c7ee8f27bc881b0dd5cec15b6af132ad4ac36d506c5ebc3c559",
+      "provenance/story-garden-2026-11-02.json": "e2fc7fd50d9a1e247d459cbc1a137e6eb497ba548e377168f1879ca3641b1318",
+      "kb/design-system/README.md": "915f0ae33f8329bdeb31150f4fea7bfedec2cd6d4e1d240fb216bba1d6d4216d",
+      "kb/design-system/components.md": "80308641e39ff6585c46d3317f22cca9602b8bf780c0149123a171b3a12b77d1"
+    },
+    "findings": [],
+    "evidence": [
+      "Independent exact equality of 18 poem IDs/titles/art paths and 44 verse blocks against pre-change baseline",
+      "Independent exact footer markup and head-link preservation against HEAD",
+      "Enhancer independently rerun in isolated temporary copy: stable exact bytes on consecutive enhancement runs; first rerun normalizes later build HTML formatting",
+      "Reviewed scoped garden CSS and guarded progressive-enhancement JS",
+      "Reviewed generation integration: normal build enhancer follows delivery normalization; source generator only adds enhancer invocation",
+      "Visually reviewed root-produced Chrome screenshots at 390 and 1280 pixels",
+      "Read passing build verifier log and 110/110 test log; root reported browser navigation/settings/no-JS checks at 320,390,768,1280",
+      "Final provenance fingerprints refreshed; no implementation file changed since review; root reports final npm check passed after unrelated generated-page cleanup"
+    ],
+    "limitations": [
+      "Browser screenshots and interaction checks were produced by root; reviewer independently inspected screenshots and source, not a separate browser session",
+      "No human Odia proofreading, physical-device or screen-reader testing",
+      "Illustration paths unchanged; no new anatomy assessment of all source illustrations",
+      "Review authorizes no publication"
+    ],
+    "reviewer": "Drishti"
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Full build and110 tests passed. Final npm check passed.",
+      "Chrome checks at320/390/768/1280: complete content, natural image ratio, navigation, focus exit, font size, night/paper controls and no-JS reading passed.",
+      "Unrelated generated pages restored; no publication performed."
+    ]
+  },
+  "next_action": "Ready for user review; publication requires user request.",
+  "coordinator_reservations_released": true
+}

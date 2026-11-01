@@ -2,7 +2,7 @@
 
 Version 1.0 · 2 November 2026 · implementation and local review, not publication approval.
 
-This is the working design reference for Sishu Kishore. It formalizes the existing sunshine, sky, leaf and paper identity; it does not select a new book-reader theme or change literary content. Public readers see the Odia brand story at `/our-brand/`. Technical specifications and specimens stay outside public delivery.
+This is the working design reference for Sishu Kishore. It formalizes the existing sunshine, sky, leaf and paper identity; it does not change literary content. The user selected Story Garden on 2 November 2026; its first implementation is the Musha Mushi reader, with publication governed separately. Public readers see the Odia brand story at `/our-brand/`. Technical specifications and specimens stay outside public delivery.
 
 ## Sources of truth
 
@@ -34,7 +34,7 @@ The CSS values are authoritative; do not maintain a second independent token tab
 | Experience | Language and visual behavior | Boundaries |
 | --- | --- | --- |
 | Magazine | Odia, warm illustrated discovery, compact homepage cards, larger edition contents | Homepage shuffles all current contributions; edition order stays fixed |
-| Books | Original Odia or English literary language; quiet adjustable reading surface, playful optional framing | Preserve section order, scans, credits and proof controls. Garden/Theatre/Notebook are review concepts, not approved production themes |
+| Books | Original Odia or English literary language; quiet adjustable reading surface, playful optional framing | Preserve section order, scans, credits and proof controls. Story Garden is selected for Musha Mushi; Theatre and Notebook remain unselected concepts |
 | Studio | English controls, task-oriented forms and clear status | Direct editor app; no public navigation entry and no change to editor access rules |
 
 All variants share recognizable identity and accessible controls. Do not apply a magazine decorative treatment to every Studio form or force the same page composition on poetry and prose.
@@ -53,4 +53,4 @@ Patch changes correct implementation or documentation without changing the visua
 
 ## Known boundaries
 
-Legacy styles still contain local values and stronger overrides. Book themes have not been unified. Browser screenshots and automated checks do not establish full WCAG compliance, human Odia proofreading, child usability or real-device performance. Keep these as explicit review work rather than declaring the entire site certified.
+Legacy styles still contain local values and stronger overrides. Story Garden is being applied to Musha Mushi; other book themes have not been migrated. Browser screenshots and automated checks do not establish full WCAG compliance, human Odia proofreading, child usability or real-device performance. Keep these as explicit review work rather than declaring the entire site certified.

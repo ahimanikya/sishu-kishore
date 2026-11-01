@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-02",
+  "book": "musha_mushi",
+  "direction": "Story Garden",
+  "authorization": "User selected Story Garden from reader concepts. Implementation only; no publication.",
+  "reference": "editorial-private/playful-reader-options/index.html concept a",
+  "preservation": {
+    "poems": 18,
+    "verse_blocks": 44,
+    "illustrations": 18,
+    "comparison": "All poem titles, exact verse text, illustration paths and footer links match pre-change Git HEAD.",
+    "duplicate_cover": "Removed repeated header image; original first poem art retained.",
+    "no_javascript": "Complete poems and native contents anchors remain available."
+  },
+  "checks": [
+    "JavaScript syntax checked using Node 24",
+    "Python syntax checked",
+    "Enhancer idempotence verified",
+    "All18 original poem/title/art records preserved",
+    "Original footer source and private proof links preserved"
+  ],
+  "regeneration": "python3 scripts/books/apply-story-garden.py after reader delivery transforms; build-musha-book.py also invokes enhancer.",
+  "web_guidance": {
+    "article": "responsive-design",
+    "recommendation": "Use aspect-ratio for media to reserve space; use clamp with font-relative and viewport units for headings."
+  },
+  "publication": false,
+  "refinement": "Compact sticky primary navigation; secondary preferences in native closed details; explicit focus exit; softer horizontal cream-green gradient.",
+  "sha256": {
+    "public/books/musha_mushi/illustrated.html": "a506eb5f2293edd6acf4acec7648d9c67d969682d54cbf188f3e2530aa7e0c82",
+    "public/books/musha_mushi/illustrated.css": "6abbb8a6e2cf2da9b195e5979383c5ca4b9ffbf8d7300dafed1eea6413a915fb",
+    "public/books/musha_mushi/illustrated.js": "44b403e9e51bf9951dec4b73c76c1d4403c5b667b0d3900c92d5d72f96337502"
+  }
+}

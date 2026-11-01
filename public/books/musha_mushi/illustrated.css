@@ -3,3 +3,64 @@
 body.night .draft-note{color:#d9c99c}body.night .poem-number{color:#b0b99e}
 
 .book-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:12px;margin:20px 0}.book-actions a{display:inline-block;padding:10px 20px;border:1px solid #a7b8a5;border-radius:7px;text-decoration:none;min-height:44px}.book-actions a:first-child{background:#356347;color:#fff}
+
+/* Story Garden — selected reader direction, scoped to this book only. */
+body.book-ui.story-garden{--garden-leaf:#dce8bd;--garden-paper:#fffdf6;--garden-green:#26705b;background:linear-gradient(90deg,#faf6e8 0%,#f7f9ed 42%,#f1f6e5 100%)!important;color:var(--kid-ink,#173f5f)}
+body.book-ui.story-garden .book-site-header{background:transparent;border:0}
+body.book-ui.story-garden .book-header{max-width:1180px;text-align:start;padding:var(--kid-space-6,24px) 28px 8px}
+body.book-ui.story-garden .book-header h1{font-size:clamp(1.75rem,1.4rem + 1vw,2.25rem);margin:0;color:inherit}
+body.book-ui.story-garden .book-header .byline{font-size:1.125rem;margin:0}
+body.book-ui.story-garden .book-header .eyebrow{margin:0;font-size:1rem;letter-spacing:0}
+body.book-ui.story-garden .reader-tools{justify-content:flex-start;padding-inline:max(20px,calc((100% - 1124px)/2));background:#f5f7e5f5;border-color:#dce8bd}
+body.book-ui.story-garden .reader-tools :is(button,select){min-height:var(--kid-target-comfortable,48px);border-radius:var(--kid-radius-control,16px);border-color:#91aaa0;background:var(--kid-paper,#fffdf6);color:var(--kid-ink,#173f5f);font-size:1rem}
+body.book-ui.story-garden .reader-tools select{max-width:min(320px,100%)}
+body.book-ui.story-garden .reader-tools button[aria-pressed=true]{background:var(--kid-yellow,#ffd45b);border-color:var(--kid-ink,#173f5f)}
+body.book-ui.story-garden .reader-tools button:disabled{opacity:.45;cursor:default}
+body.book-ui.story-garden .reader-tools [hidden]{display:none}
+body.book-ui.story-garden main{max-width:1180px;padding:var(--kid-space-6,24px) 28px;position:relative}
+body.book-ui.story-garden main::before{content:'';position:absolute;inline-size:38px;block-size:100px;border-radius:100% 0;transform:rotate(-20deg);background:var(--garden-leaf);inset-inline-start:-30px;top:10px;pointer-events:none}
+body.book-ui.story-garden .poem{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:42px;align-items:start;margin-block:0 64px;padding-block:24px 40px;border-bottom:1px solid #d7e4c7}
+body.book-ui.story-garden .garden-picture{min-width:0;position:sticky;top:var(--book-toolbar-offset,160px)}
+body.book-ui.story-garden.uniform-illustrations .story-art{width:100%;max-width:none;height:auto;aspect-ratio:3/2;object-fit:contain;margin:0;border:10px solid var(--garden-paper);border-radius:30px 8px 30px 8px;box-shadow:0 6px 0 #dae5c1}
+body.book-ui.story-garden .garden-text{min-width:0}
+body.book-ui.story-garden .poem-number{text-align:start;font-size:.875rem;letter-spacing:0;color:#3c674e;margin:0 0 8px}
+body.book-ui.story-garden h2{text-align:start;font-size:clamp(1.75rem,1.3rem + 1vw,2.25rem);line-height:1.65;margin:0 0 24px;color:inherit}
+body.book-ui.story-garden h2::after{content:'';display:block;width:66px;height:6px;border-radius:100%;background:var(--kid-yellow,#ffd45b);margin-block-start:16px}
+body.book-ui.story-garden .source-passage{max-width:none;margin:0}
+body.book-ui.story-garden .verse{margin:0 0 28px;line-height:var(--kid-leading-reading,1.95)}
+body.book-ui.story-garden .garden-contents{max-width:1124px;margin:20px auto 0;padding-inline:20px;font-size:1.125rem;color:inherit}
+body.book-ui.story-garden .garden-contents summary{cursor:pointer;min-height:48px;padding-block:10px;color:var(--garden-green)}
+body.book-ui.story-garden .garden-contents nav{display:flex;flex-wrap:wrap;gap:12px;padding-block:12px}
+body.book-ui.story-garden .garden-contents a{display:flex;align-items:center;min-height:54px;max-width:100%;padding:12px 18px;border:2px solid #7da98d;border-radius:32px 7px 32px 7px;background:#e4efce;color:#204d3a;text-decoration:none;overflow-wrap:anywhere}
+body.book-ui.story-garden .garden-contents a[aria-current]{background:var(--kid-yellow,#ffd45b);border-color:var(--kid-ink,#173f5f);color:var(--kid-ink,#173f5f);text-decoration:underline;text-underline-offset:4px}
+body.book-ui.story-garden.garden-paper{background:var(--kid-paper,#fffdf6)!important}
+body.book-ui.story-garden.garden-paper main::before{display:none}
+body.book-ui.story-garden.garden-focus .garden-picture,body.book-ui.story-garden.garden-focus .book-header,body.book-ui.story-garden.garden-focus .garden-contents,body.book-ui.story-garden.garden-focus main::before{display:none}
+body.book-ui.story-garden.garden-focus .poem{display:block;max-width:780px;margin-inline:auto}
+body.book-ui.story-garden.night{background:#14221c!important;color:#e8eddf;--garden-paper:#1e3026;--garden-leaf:#314a36;--garden-green:#c3e4c4}
+body.book-ui.story-garden.night .reader-tools{background:#1e3026f5;border-color:#576a59}
+body.book-ui.story-garden.night .reader-tools :is(button,select){background:#263d30;color:#e8eddf;border-color:#7d9883}
+body.book-ui.story-garden.night .reader-tools button[aria-pressed=true]{background:#43633d;color:#fff}
+body.book-ui.story-garden.night .poem-number{color:#c3d5b7}
+body.book-ui.story-garden.night .poem{border-color:#576a59}
+body.book-ui.story-garden.night .garden-contents a{background:#263d30;color:#e8eddf}
+body.book-ui.story-garden.night .garden-contents a[aria-current]{background:#43633d;color:#fff;border-color:#c3e4c4}
+body.book-ui.story-garden.night .story-art{box-shadow:0 6px 0 #314a36!important}
+@media(max-width:800px){body.book-ui.story-garden .poem{grid-template-columns:minmax(0,1fr);gap:28px}body.book-ui.story-garden .garden-picture{position:static}body.book-ui.story-garden main,body.book-ui.story-garden .book-header{padding-inline:20px}body.book-ui.story-garden main::before{display:none}body.book-ui.story-garden .reader-tools{position:sticky;padding:8px 16px}body.book-ui.story-garden .reader-tools label{max-width:100%}body.book-ui.story-garden .reader-tools select{width:100%;max-width:100%}body.book-ui.story-garden .poem{scroll-margin-top:var(--book-toolbar-offset,140px)}body.book-ui.story-garden h2{font-size:1.75rem}}
+@media(forced-colors:active){body.book-ui.story-garden{background:Canvas!important;color:CanvasText}body.book-ui.story-garden .story-art{border-color:CanvasText;box-shadow:none!important}body.book-ui.story-garden .garden-contents a[aria-current]{border-color:Highlight}body.book-ui.story-garden main::before,body.book-ui.story-garden h2::after{display:none}}
+
+/* Keep reading navigation within reach; secondary preferences open on demand. */
+body.book-ui.story-garden .garden-settings{position:relative;margin-inline-start:auto}
+body.book-ui.story-garden .garden-settings summary{cursor:pointer;min-height:48px;padding:10px 12px;border:1px solid #91aaa0;border-radius:16px;background:var(--garden-paper);font-size:1rem}
+body.book-ui.story-garden .garden-settings-panel{position:absolute;inset-inline-end:0;top:calc(100% + 8px);width:300px;max-width:calc(100vw - 32px);display:flex;gap:8px;flex-wrap:wrap;padding:12px;border:1px solid #91aaa0;border-radius:16px;background:var(--garden-paper);box-shadow:0 6px 18px #173f5f20}
+body.book-ui.story-garden main>section{scroll-margin-top:var(--book-toolbar-offset,140px)}
+@media(max-width:800px){
+ body.book-ui.story-garden .reader-tools{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
+ body.book-ui.story-garden .reader-tools>label{grid-column:1/4;grid-row:1;min-width:0}
+ body.book-ui.story-garden .reader-tools :is(button,select){padding-inline:8px}
+ body.book-ui.story-garden .garden-settings{grid-column:4;grid-row:1;margin:0}
+ body.book-ui.story-garden .garden-settings summary{padding-inline:8px;text-align:center}
+ body.book-ui.story-garden #garden-previous{grid-column:1;grid-row:2}
+ body.book-ui.story-garden #garden-next{grid-column:2;grid-row:2}
+ body.book-ui.story-garden #garden-focus{grid-column:3/5;grid-row:2}
+}
