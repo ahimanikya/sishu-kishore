@@ -1,0 +1,94 @@
+{
+  "id": "credits-odia-2026-11-01",
+  "unit_type": "translation_section",
+  "status": "ready",
+  "authorization": "Keep the text in Odia - since the whole site is Odia",
+  "coordinator": "Disha",
+  "input_head": "6925c321e26b34aebe07c9e8aad32e56dd03d70f",
+  "task": "Translate central credits/process page fully into natural Odia, preserving meaning and disclosures.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/anvesha",
+      "status": "completed",
+      "mode": "write",
+      "reserved_files": [
+        "public/credits/index.html"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Translated all reader-facing credits/process prose, reflection, names and descriptions into Odia; consolidated duplicates.",
+        "evidence": [
+          "No reader-facing Latin text after excluding scripts/styles; no lang=en or literal AI token.",
+          "Preserved eight sections, four reflection paragraphs, four process steps; JSON-LD parses."
+        ],
+        "source_sha256": "296ac3f2133944878b6cd433988bddcc4a8c156f32d31443ef4039a78665a7c5"
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/drishti",
+      "status": "completed",
+      "mode": "read_only",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate Odia translation review passed after four scoped corrections.",
+        "evidence": [
+          "Meaning preserved; requirement versus completed practice corrected.",
+          "No visible English prose or lang=en; valid headings/JSONLD.",
+          "Refreshed candidate hash verified."
+        ],
+        "limitations": [
+          "Separate AI review, not native-human certification."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "AGENTS.md",
+    "kb/team/operations.json",
+    "kb/team/handoffs/credits-odia-2026-11-01.json",
+    "public/credits/index.html"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/drishti",
+    "kind": "separate_ai_review",
+    "outcome": "pass",
+    "candidate_files": {
+      "public/credits/index.html": "5519166d7a9592e3a81bcccee86f716cbe79f257a36d165c22677af9e0af4b56"
+    },
+    "evidence": [
+      "All four scoped corrections resolved; no remaining translation-review findings."
+    ],
+    "limitations": [
+      "AI language review, not human native-speaker certification."
+    ]
+  },
+  "delivery": null,
+  "next_action": "Publish and verify live Odia credits.",
+  "candidate_files": {
+    "public/credits/index.html": "5519166d7a9592e3a81bcccee86f716cbe79f257a36d165c22677af9e0af4b56"
+  },
+  "review_history": [
+    {
+      "reviewer": "Drishti",
+      "runtime": "/root/drishti",
+      "outcome": "changes_requested",
+      "candidate_files": {
+        "public/credits/index.html": "7f62c61f417d726443a483d677cfc4fefccf7880a0f9abbcd0104f5862c8af91"
+      },
+      "findings": [
+        "Preserve requirement rather than claiming all book formats checked.",
+        "Avoid guaranteeing changed homepage order on every visit.",
+        "Refine Odia words for context and editorial choice."
+      ]
+    }
+  ],
+  "checks": {
+    "tests": 59,
+    "build": "pass",
+    "mobile": "390px viewport with no horizontal overflow; Odia headings and Baloo Bhaina 2 rendering checked."
+  }
+}
