@@ -61,6 +61,9 @@ for path in pages.rglob('*.html'):
         content = re.sub(r'<a\b[^>]*href="/credits/"[^>]*>.*?</a>', '', match[2], flags=re.S)
         return match[1] + content + '<a href="/our-brand/">ଆମ ପରିଚୟ</a>' + match[3]
     after = re.sub(r'(<nav aria-label="Footer">)(.*?)(</nav>)', credits_link, after, flags=re.S)
+    # Editor applications are direct-entry tools, not public magazine navigation.
+    if path not in (pages / 'editorial/studio.html', pages / 'editorial/manage.html'):
+        after = re.sub(r'<a\b[^>]*href="/editorial/(?:studio|manage)\.html(?:[?#][^\"]*)?"[^>]*>.*?</a>', '', after, flags=re.S)
     if after != before:
         path.write_text(after)
         changed += 1

@@ -43,3 +43,7 @@ The versioned public source is `data/author-birthdays.json`. `scripts/build-auth
 To carry reviewed Studio changes into a release, use “Download author records”, save that private JSON under `editorial-private/`, then preview with `node scripts/editorial/import-author-birthdays.mjs editorial-private/author-records.json`. After reviewing the proposed changes, rerun with `--apply`, build and follow normal release approval. Null or an unapproved record clears the public attribute without copying private unapproved dates or deleting their private history; no import publishes automatically. Workspace backups contain a saved birthday snapshot for the edition, not unsaved author-form fields.
 
 `/write.html` now embeds the existing private writing intake; `/editorial/submit.html` remains supported. Public labels are Odia, original writing stays unchanged, preview is text-only, and submitting never publishes. Verified sign-in, consent and server quotas remain required. Uploads remain disabled.
+
+## Direct editor access
+
+Editor Studio is an app for editors, reached directly at `/editorial/studio.html`. Do not add Studio or the publishing desk to public magazine navigation, footers or contributor forms. Studio navigation connects editorial tools; keep public identity/process links out of its app footer. Public writing submission remains available at `/write.html`. Existing editor authentication and private data rules remain required.
