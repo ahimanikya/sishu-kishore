@@ -1,7 +1,7 @@
 {
   "id": "approved-removals-2026-11-01",
   "unit_type": "bounded_maintenance",
-  "status": "ready",
+  "status": "completed",
   "authorization": "Approved eight listed removals; carry November poem into next issue.",
   "coordinator": "Disha",
   "input_head": "4a0bccd2752bf010e495ca2819895f52a5a8d100",
@@ -198,6 +198,17 @@
       "Existing reused older article navigation issue outside this scope remains unchanged."
     ]
   },
-  "delivery": null,
-  "next_action": "Publish approved candidate and verify live."
+  "delivery": {
+    "mode": "published",
+    "url": "https://shishukishora.com/current_issue.html",
+    "evidence": [
+      "Deployment 41277564554 succeeded for 55ad246b99ee8ac2fa7187e9bc3d8690d78878ae.",
+      "Live November 27 cards; live author 7 contributions, no poem or private links.",
+      "All seven removed article URLs return HTTP404.",
+      "60 tests and build passed; separate Drishti review passed."
+    ],
+    "screenshot": "/tmp/sishu-author-after-withdrawal.png"
+  },
+  "next_action": "December poem remains queued privately; no further removal work pending.",
+  "coordinator_reservations_released": true
 }
