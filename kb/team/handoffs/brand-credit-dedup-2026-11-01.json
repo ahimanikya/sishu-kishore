@@ -1,0 +1,42 @@
+{
+  "id": "brand-credit-dedup-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Remove duplicate credit-page information.",
+  "coordinator": "Disha",
+  "coordinator_runtime": "/root",
+  "input_head": "c28f073d09ab795b2b0c8accc74b4e31d54f90d0",
+  "task": "Remove repeated team list from About and direct Studio to unified identity page.",
+  "workers": [],
+  "coordinator_files": [
+    "public/editorial/studio.html",
+    "public/whoweare.html",
+    "kb/team/handoffs/brand-credit-dedup-2026-11-01.json",
+    "kb/team/operations.json"
+  ],
+  "coordinator_reservations_released": true,
+  "review": {
+    "kind": "self_review",
+    "reviewer": "Disha",
+    "runtime": "/root",
+    "exception_reason": "trivial_change",
+    "limitation": "Two small content/link corrections; no separate-agent review claimed.",
+    "outcome": "pass",
+    "candidate_files": {
+      "public/editorial/studio.html": "7204b83de53ab00e510876e339d0dc6d2d88e3597eaf138ef5f0eeb581aac6ca",
+      "public/whoweare.html": "9cba68d897ad179e590d4ebcb80a01719041a9538c0a6e1376e538d9bb493616"
+    },
+    "evidence": [
+      "About academy and member content preserved exactly.",
+      "No public HTML links point to old Credits; old URL remains redirect only.",
+      "Site checks and packaging passed."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Unified identity page remains sole team/process/credit narrative. No publish."
+    ]
+  },
+  "next_action": "Local changes ready for requested publication."
+}
