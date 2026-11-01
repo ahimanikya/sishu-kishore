@@ -1,0 +1,8 @@
+{
+  "method": "built-in image_gen edit",
+  "source": "public/media/sishu-kishore-horizontal-logo-v1.png",
+  "master": "public/media/sishu-symbol-v1.png",
+  "prompt": "Edit the supplied Sishu Kishore logo into a square symbol-only website favicon master. Remove all Odia lettering. Preserve the existing symbol faithfully: two cheerful birds facing inward (left golden yellow/orange, right bright green), orange sun above, open book below, thick dark teal outlines and white page shapes. No new elements, no text, no badge, no shadows. Center the complete uncropped symbol on a transparent square canvas with only a small even safe margin, large enough to be clear at tiny favicon sizes. Preserve the original shapes and colors as closely as possible. Output one clean square transparent PNG.",
+  "delivery": "Master preserved; standard PNG/ICO sizes resampled mechanically.",
+  "master_sha256": "045a2ad85d8c5c2edd6bb663b9dc31c9aa65eca9302e3fc9778b17bd28c32b1d"
+}

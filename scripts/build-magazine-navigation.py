@@ -14,6 +14,22 @@ brand_image = (
     'height="362" loading="eager" src="/media/sishu-kishore-horizontal-logo-v1.webp" '
     'width="1086"/></span>'
 )
+favicon_block = (
+    '<!-- sishu-favicon:start -->'
+    '<link rel="icon" href="/favicon.ico?v=symbol-v1" type="image/x-icon" sizes="16x16 32x32 48x48"/>'
+    '<link rel="icon" href="/media/favicon-32-v1.png" type="image/png" sizes="32x32"/>'
+    '<link rel="icon" href="/media/favicon-192-v1.png" type="image/png" sizes="192x192"/>'
+    '<link rel="apple-touch-icon" href="/media/apple-touch-icon-v1.png" sizes="180x180"/>'
+    '<!-- sishu-favicon:end -->'
+)
+favicon_pattern = re.compile(r'<!-- sishu-favicon:start -->.*?<!-- sishu-favicon:end -->', re.S)
+
+
+def favicon_head(match):
+    # Replace only our own generated metadata; leave reading content and access tags intact.
+    return match[1] + favicon_pattern.sub('', match[2]) + favicon_block + match[3]
+
+
 changed = 0
 
 for path in pages.rglob('*.html'):
@@ -35,6 +51,7 @@ for path in pages.rglob('*.html'):
 
     after = nav_pattern.sub(navigation, before)
     after = brand_pattern.sub(lambda match: match[1] + brand_image + match[2], after)
+    after = re.sub(r'(<head\b[^>]*>)(.*?)(</head\s*>)', favicon_head, after, count=1, flags=re.S | re.I)
     # Keep artwork disclosure central, without removing editorial review status.
     after = after.replace('Editorial approval pending · Article illustrations are AI-generated.', 'Editorial approval pending')
     after = re.sub(r'<p\b[^>]*class="nov-review-note"[^>]*>Article illustrations are AI-generated\.</p>', '', after)
