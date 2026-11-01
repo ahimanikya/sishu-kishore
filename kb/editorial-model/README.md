@@ -33,6 +33,8 @@ The tool does not control the existing publisher. Run it as a preparation check 
 
 Human editors are peers. All AI agents report directly to Ahimanikya Satapathy, Creative Editor. Disha coordinates scope and handoffs; Anvesha researches identity, source meaning and cultural context; Samanta prepares design and technical delivery; Drishti reviews the candidate. Assign translation and visual drafting tasks explicitly to a capable worker and record the actual executor. A persona name is not evidence that a separate worker ran. Human language review is distinct from AI review.
 
+For execution, follow [agent working arrangements](../team/working-arrangements.md): Disha reserves work, separate Anvesha/Samanta workers return results, and Drishti reviews the integrated candidate. Link production handoffs to this model’s artifact IDs and candidate fingerprint.
+
 ## Shared knowledge and publication profiles
 
 Keep portable literary, translation and visual principles in this model. Keep Sishu-specific navigation, fonts, artwork treatment, authority and release boundaries in the `sishu-kishore` profile and project instructions. Other publications need an explicit profile; do not copy their manuscripts, permissions or editorial authority into this project.

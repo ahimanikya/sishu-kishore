@@ -1,0 +1,215 @@
+{
+  "id": "operations-adoption-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "look ate how project odisha agents are working, we can adopt that here",
+  "coordinator": "Disha",
+  "input_head": "fb67fe0e",
+  "task": "Adopt Project Odisha separate-agent operations for Sishu Kishore. No public content changes.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/anvesha",
+      "status": "completed",
+      "mode": "read_only",
+      "reserved_files": [],
+      "result": {
+        "input_head": "fb67fe0e",
+        "changed_files": [],
+        "findings": [
+          "Saved activation and Dhaga records demonstrate separate worker outputs and separate review of an integrated revision.",
+          "Adapt active work to bounded magazine/book units and retain direct reporting to Creative Editor."
+        ],
+        "checks": [
+          "Read source operations, activation and later publication handoff."
+        ],
+        "limitations": [
+          "Historical local evidence; no claim that Project Odisha workers are running now."
+        ],
+        "next_action": "Use findings in Sishu working arrangements.",
+        "summary": "Confirmed separate-agent practice in saved Project Odisha activation and later delivery records.",
+        "evidence": [
+          "Project Odisha kb/records/team-activation-2026-10-19.json",
+          "Project Odisha kb/records/odia-dhaga-unified-art-2026-10-26.json"
+        ]
+      },
+      "reservations_released": true
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/samanta",
+      "status": "completed",
+      "mode": "write",
+      "reserved_files": [
+        "scripts/editorial/team.mjs",
+        "tests/editorial-team.test.mjs"
+      ],
+      "result": {
+        "summary": "Implemented checker and resolved active-worker readiness and explicit self-review exception findings.",
+        "evidence": [
+          "17 targeted tests passed."
+        ],
+        "changed_files": [
+          "scripts/editorial/team.mjs",
+          "tests/editorial-team.test.mjs"
+        ],
+        "next_action": "Separate re-review."
+      },
+      "reservations_released": true,
+      "previous_result": {
+        "summary": "Implemented read-only team/handoff consistency checker and targeted tests.",
+        "evidence": [
+          "12 targeted tests passed.",
+          "Active handoff CLI check passed."
+        ],
+        "changed_files": [
+          "scripts/editorial/team.mjs",
+          "tests/editorial-team.test.mjs"
+        ],
+        "limitations": [
+          "Record checks cannot authenticate approval, prove live workers or enforce OS locks."
+        ],
+        "next_action": "Separate review of integrated candidate."
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/drishti",
+      "status": "completed",
+      "mode": "read_only",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate re-review passed with limitations; both findings resolved.",
+        "evidence": [
+          "Verified all 9 revised candidate hashes.",
+          "17 focused tests passed.",
+          "No new blockers found."
+        ],
+        "limitations": [
+          "Separate AI review, not human editorial approval.",
+          "Saved records do not prove runtime liveness or authenticate authorization."
+        ],
+        "next_action": "Coordinator finishes checks and records delivery."
+      }
+    }
+  ],
+  "coordinator_files": [
+    "AGENTS.md",
+    "kb/index.md",
+    "kb/team/roles.md",
+    "kb/team/assignments.json",
+    "kb/team/operations.json",
+    "kb/team/working-arrangements.md",
+    "kb/team/handoffs/operations-adoption-2026-11-01.json",
+    "kb/editorial-model/README.md"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/drishti",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "AGENTS.md": "36e214e5a640ce0b7eea2b71d725f4458a3ba6e2c43ed96965337a207239363f",
+      "kb/index.md": "839cf05b73788e944c5f1e9ac72183b39e53ac6c01343ee4170770962dd2cd20",
+      "kb/team/roles.md": "7139acf94efeece14638c06cfd8a8a75b9bce8863f614b2c6119d3f224d83b84",
+      "kb/team/assignments.json": "5d139f1170be91d9b5ef9d4a1ea24d40d28c912057a55e78d843e79696302cf1",
+      "kb/team/operations.json": "79e3dfb9fd3442685db095de9e345607dd9f3e4b98e868061bbf5de3c1f4d046",
+      "kb/team/working-arrangements.md": "d67c2e25d15bd881229781518914e4537c1fd8beb91434e7a16cd9ef754e1edf",
+      "kb/editorial-model/README.md": "a28489b40c29be79765b4360023a0c3fc8d86369a5d5fcd831d9261037ad217f",
+      "scripts/editorial/team.mjs": "c31a789b440d4c79b958f55e59c68080cdc3e164e1ec976bc4faa092cf5e4299",
+      "tests/editorial-team.test.mjs": "9095c892039f7e15393940bca816adc91f0f6f48800acb264665ed6383ec5667"
+    },
+    "evidence": [
+      "All 9 updated candidate hashes match.",
+      "17 focused tests pass.",
+      "Both initial findings resolved."
+    ],
+    "limitations": [
+      "Record consistency only; not human editorial approval or live worker certification.",
+      "Commit-only pins are format checked; active file manifests verify actual bytes."
+    ],
+    "resolved_findings": [
+      "Explicit bounded self-review schema matches policy.",
+      "Ready state now requires completed evidenced workers and released reservations."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "59 automated tests passed on the revised candidate.",
+      "Website build passed.",
+      "Separate Drishti re-review passed with limitations; initial findings resolved.",
+      "Active ready-state manifest and final team-record checks passed.",
+      "No public content changed; website publication not required."
+    ],
+    "validation": {
+      "tests": 59,
+      "build": "pass",
+      "separate_review": "pass_with_limitations"
+    }
+  },
+  "next_action": "Use this operating loop on the next authorized magazine/book production unit. No work is running automatically.",
+  "candidate_files": {
+    "AGENTS.md": "36e214e5a640ce0b7eea2b71d725f4458a3ba6e2c43ed96965337a207239363f",
+    "kb/index.md": "839cf05b73788e944c5f1e9ac72183b39e53ac6c01343ee4170770962dd2cd20",
+    "kb/team/roles.md": "7139acf94efeece14638c06cfd8a8a75b9bce8863f614b2c6119d3f224d83b84",
+    "kb/team/assignments.json": "5d139f1170be91d9b5ef9d4a1ea24d40d28c912057a55e78d843e79696302cf1",
+    "kb/team/operations.json": "79e3dfb9fd3442685db095de9e345607dd9f3e4b98e868061bbf5de3c1f4d046",
+    "kb/team/working-arrangements.md": "d67c2e25d15bd881229781518914e4537c1fd8beb91434e7a16cd9ef754e1edf",
+    "kb/editorial-model/README.md": "a28489b40c29be79765b4360023a0c3fc8d86369a5d5fcd831d9261037ad217f",
+    "scripts/editorial/team.mjs": "c31a789b440d4c79b958f55e59c68080cdc3e164e1ec976bc4faa092cf5e4299",
+    "tests/editorial-team.test.mjs": "9095c892039f7e15393940bca816adc91f0f6f48800acb264665ed6383ec5667"
+  },
+  "review_history": [
+    {
+      "reviewer": "Drishti",
+      "runtime": "/root/drishti",
+      "kind": "separate_ai_review",
+      "outcome": "fail",
+      "candidate_files": {
+        "AGENTS.md": "36e214e5a640ce0b7eea2b71d725f4458a3ba6e2c43ed96965337a207239363f",
+        "kb/index.md": "839cf05b73788e944c5f1e9ac72183b39e53ac6c01343ee4170770962dd2cd20",
+        "kb/team/roles.md": "7139acf94efeece14638c06cfd8a8a75b9bce8863f614b2c6119d3f224d83b84",
+        "kb/team/assignments.json": "5d139f1170be91d9b5ef9d4a1ea24d40d28c912057a55e78d843e79696302cf1",
+        "kb/team/operations.json": "79e3dfb9fd3442685db095de9e345607dd9f3e4b98e868061bbf5de3c1f4d046",
+        "kb/team/working-arrangements.md": "37835463b6f2b24e308a4545907fb7a6f74da93f613417ff80c41dde6e530378",
+        "kb/editorial-model/README.md": "a28489b40c29be79765b4360023a0c3fc8d86369a5d5fcd831d9261037ad217f",
+        "scripts/editorial/team.mjs": "f6227e7f33019a6a1e59306d5a9cb18b4b4a7974ff3826aab11608200b4f8b3c",
+        "tests/editorial-team.test.mjs": "e5900543ee63c5fa303f6b18fa5dca82fd8f004a3e22d674fcdcfa272c0e090b"
+      },
+      "evidence": [
+        "Verified nine candidate hashes and 12 targeted tests."
+      ],
+      "findings": [
+        "Self-review exception in guide not supported by checker.",
+        "Ready state permits active implementation/review workers."
+      ]
+    }
+  ],
+  "source_evidence": {
+    "repository": "https://github.com/ahimanikya/project-odisha",
+    "snapshot": "4ba1104626120d74f36c911995754e0361ea01bd",
+    "files": {
+      "kb/team/operations.json": "73d0a8e5920ddcdd0e6fa7a1683c58cc84ee49b3719afb5d247674918cd067b3",
+      "kb/records/team-activation-2026-10-19.json": "9bca6266f0076e74a34d9d47ed996379807bd6f9b8ec468379c2ad2f769675d3",
+      "kb/records/odia-dhaga-unified-art-2026-10-26.json": "ed2c33f8e05f5d179804708d747ccb91b14ad490240ac35d82c0df954130a694"
+    },
+    "interpretation": "Historical saved separate-worker evidence; not a claim of current runtime activity."
+  },
+  "validation_before_review_fixes": {
+    "tests": 54,
+    "result": "pass",
+    "build": "pass"
+  },
+  "coordinator_reservations_released": true,
+  "post_review_receipt_changes": [
+    {
+      "file": "kb/team/operations.json",
+      "before_sha256": "79e3dfb9fd3442685db095de9e345607dd9f3e4b98e868061bbf5de3c1f4d046",
+      "after_sha256": "68c1423d3f46f8cf6aac17f1b6471da740f5bd7e5f38e3be44b9c258f292b963",
+      "change": "Clear active_handoff and set latest_handoff after delivery; no operating rules changed.",
+      "review_note": "Drishti reviewed this planned pointer-only transition and allowed it as receipt metadata."
+    }
+  ]
+}

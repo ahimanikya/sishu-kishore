@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "human_supervisor": "Ahimanikya Satapathy",
+  "human_role": "Creative Editor",
+  "human_editors": "peers",
+  "authorization": "look ate how project odisha agents are working, we can adopt that here",
+  "assignments": [
+    {
+      "name": "Disha",
+      "reports_to": "Ahimanikya Satapathy",
+      "mode": "coordinator",
+      "scope": "Coordinate, reserve files, integrate, maintain records and deliver within actual user authorization.",
+      "human_reports": []
+    },
+    {
+      "name": "Anvesha",
+      "reports_to": "Ahimanikya Satapathy",
+      "mode": "separate_task_agent",
+      "scope": "Research author identity, complete sources, literary meaning and cultural context; preserve provenance.",
+      "human_reports": []
+    },
+    {
+      "name": "Samanta",
+      "reports_to": "Ahimanikya Satapathy",
+      "mode": "separate_task_agent",
+      "scope": "Implement magazine/book production, visual presentation and tooling in reserved files.",
+      "human_reports": []
+    },
+    {
+      "name": "Drishti",
+      "reports_to": "Ahimanikya Satapathy",
+      "mode": "separate_task_agent",
+      "scope": "Separately review the integrated candidate and report actual checks, findings and limitations.",
+      "human_reports": []
+    }
+  ]
+}

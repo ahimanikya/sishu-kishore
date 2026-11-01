@@ -17,6 +17,8 @@ Adopted on 1 November 2026 at Ahimanikya Satapathy’s request from the Project 
 
 ## Working arrangement
 
+The current execution loop is in [working arrangements](working-arrangements.md), with [assignments](assignments.json) and [operations](operations.json). Separate task-scoped execution is now adopted for substantive work; the historical adoption receipt remains unchanged.
+
 1. Disha reads project instructions, this file, the latest handoff and actual working-tree state. Resume authorized work and preserve other contributors’ changes.
 2. Reserve exact, non-overlapping file scopes before delegating. Use task-scoped agents when separately assigned; never assume an old runtime remains active. Samanta implements; Anvesha researches when evidence is needed. Neither publishes or changes shared records independently.
 3. Drishti reviews the integrated candidate separately when a separate reviewer is assigned. A role pass performed by the same assistant is **self-review**, never independent review. A separate AI review is not human editorial approval.

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "project": "Sishu Kishore",
+  "human_supervisor": "Ahimanikya Satapathy",
+  "human_role": "Creative Editor",
+  "coordinator": "Disha",
+  "shared_writer": "Disha",
+  "publisher": "Disha",
+  "maximum_active_units": 1,
+  "unit_types": [
+    "article",
+    "author_profile",
+    "book_section",
+    "translation_section",
+    "illustration_batch",
+    "edition_assembly",
+    "bounded_maintenance"
+  ],
+  "runtime": "Separate task-scoped agents; no continuous workers or new schedules. Reconcile saved work with actual runtime before resuming.",
+  "assignments": "kb/team/assignments.json",
+  "guide": "kb/team/working-arrangements.md",
+  "active_handoff": null,
+  "publication_rule": "User authorization applies to the actual candidate and destination. Agent coordination/review never grants publication authority.",
+  "record_privacy": "Operational adoption evidence may be versioned here; manuscript-bearing production handoffs stay in editorial-private/editorial-model/.",
+  "latest_handoff": "kb/team/handoffs/operations-adoption-2026-11-01.json"
+}
