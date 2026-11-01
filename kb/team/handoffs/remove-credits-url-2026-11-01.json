@@ -1,0 +1,41 @@
+{
+  "id": "remove-credits-url-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Remove old Credits page /credits/ entirely; no redirect required.",
+  "coordinator": "Disha",
+  "coordinator_runtime": "/root",
+  "input_head": "74a9cd1452288702415eee059b9c2280f7e7e388",
+  "task": "Delete obsolete Credits redirect and preview inventory entry.",
+  "workers": [],
+  "coordinator_files": [
+    "public/credits/index.html",
+    "provenance/social-previews.json",
+    "kb/team/handoffs/remove-credits-url-2026-11-01.json",
+    "kb/team/operations.json"
+  ],
+  "coordinator_reservations_released": true,
+  "review": {
+    "kind": "self_review",
+    "reviewer": "Disha",
+    "runtime": "/root",
+    "exception_reason": "trivial_change",
+    "limitation": "Simple explicitly requested file deletion; no separate review claimed.",
+    "outcome": "pass",
+    "candidate_files": {
+      "provenance/social-previews.json": "c0266de6db034741fbe0e4911ff04f3497fbe4641992707a596525409b9baa3d"
+    },
+    "evidence": [
+      "Credits directory absent from public and rebuilt dist.",
+      "No public links or sitemap entry; root Credits path cannot trigger legacy redirect handler.",
+      "All site checks passed; unified brand page remains intact."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Removed public/credits/index.html; no replacement redirect."
+    ]
+  },
+  "next_action": "Local deletion ready; publication not requested."
+}
