@@ -1,5 +1,7 @@
 # Sishu Kishore children's identity
 
+Current working reference: [Sishu Design System v1](../../kb/design-system/README.md). This file preserves the identity history and earlier audit notes; dated readiness notes below are not a statement of current service status. The design-system guide and current project/user instructions govern new changes.
+
 The magazine's own cheerful identity, using its existing cartoon artwork and Odia writing.
 
 ## Colour roles

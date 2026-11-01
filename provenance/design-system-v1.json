@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "status": "local candidate; not published",
+  "input_revision": "d6fb23166da64fbb4d037045f6f08c7c6a605309",
+  "implementation_role": "Samanta",
+  "runtime": "/root/design_system_samanta",
+  "scope": "Shared design variables in existing identity and colour-story styles; private generated production-component reference.",
+  "source_of_truth": "public/children-identity.css",
+  "preview": {
+    "generator": "scripts/design-system-preview.mjs",
+    "output": "editorial-private/design-system/",
+    "command": "node scripts/design-system-preview.mjs --serve --port 8894",
+    "url": "http://127.0.0.1:8894/design-system/",
+    "access": "loopback-only server; generated files ignored and excluded from public/dist; no public navigation link"
+  },
+  "decisions": [
+    "Retain all existing colour and font values; add named spacing, size, weight, radius, layout and target variables.",
+    "Use existing --kid naming instead of a parallel token system.",
+    "Token replacements retain numerical values; book decorative redesign and Studio production styles unchanged.",
+    "Effective heading weight was already 600 due to a late !important rule; preserve and name it.",
+    "Reference extracts a current homepage card and imports actual production styles. Separate frames isolate actual book and Studio CSS.",
+    "Local controls validate/demo only; no account access, submission, storage or publication."
+  ],
+  "guidance": {
+    "id": "css",
+    "quote": "Check for any existing conventions around naming and levels before inventing your own.",
+    "application": "Retained --kid naming and extended existing shared root tokens. Scoped/layered private reference styles; no new dependency or global reset."
+  },
+  "checks": [
+    "node --check scripts/design-system-preview.mjs passed",
+    "Preview generation passed",
+    "git diff --check passed"
+  ],
+  "limitations": [
+    "Browser checks, integrated test/build and separate review belong to coordinator before completion.",
+    "Reference is a targeted component specimen, not every legacy page or accessibility certification.",
+    "Fonts/assets require supplied loopback preview server; file:// opening is not supported."
+  ],
+  "candidate_files": {
+    "public/children-identity.css": "1cfe3e0787623af789b368f7219e82a024fd8dbb64649a17fb34c418c4a7dfbd",
+    "public/colour-story.css": "d96659fe021220685a9b2e082fba78189af29f953f81a1c84c97d74754fd5c35",
+    "scripts/design-system-preview.mjs": "266ecdc590dd8d8a7d225a20ad7f99e5c36d6d16c1faf0f4713473fdb23f3f48"
+  }
+}

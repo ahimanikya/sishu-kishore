@@ -35,6 +35,10 @@ Human editors are peers. All AI agents report directly to Ahimanikya Satapathy, 
 
 For execution, follow [agent working arrangements](../team/working-arrangements.md): Disha reserves work, separate Anvesha/Samanta workers return results, and Drishti reviews the integrated candidate. Link production handoffs to this model’s artifact IDs and candidate fingerprint.
 
+## Design system
+
+Use [Sishu Design System v1](../design-system/README.md) for shared values, component contracts, magazine/book/Studio variants and visual review. Record layout review against its checklist alongside source, illustration and literary review; neither substitutes for the other. The private component reference is outside public delivery.
+
 ## Shared knowledge and publication profiles
 
 Keep portable literary, translation and visual principles in this model. Keep Sishu-specific navigation, fonts, artwork treatment, authority and release boundaries in the `sishu-kishore` profile and project instructions. Other publications need an explicit profile; do not copy their manuscripts, permissions or editorial authority into this project.
