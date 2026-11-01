@@ -1,0 +1,91 @@
+{
+  "id": "editor-studio-english-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Use English Interface for Studio",
+  "coordinator": "Disha",
+  "input_head": "5843e5cc151173cd32e0f83f882d0ccbacfc93e9",
+  "task": "Change only Studio interface language to English; preserve literary content, schema and access.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/studio_english",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/editorial/studio-ui.mjs",
+        "public/editorial/studio-model.mjs",
+        "public/editorial/studio.html",
+        "tests/editor-studio.test.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "English interface implemented and checked.",
+        "evidence": [
+          "Focused Studio tests pass; language-only scope, original content and schema preserved.",
+          "No live publication or authenticated acceptance test performed."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/studio_english_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent review passed with limitations; no blocking findings.",
+        "evidence": [
+          "Focused Studio tests pass; language-only scope, original content and schema preserved.",
+          "No live publication or authenticated acceptance test performed."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "backend/src/studio.js",
+    "backend/src/studio-service.js",
+    "public/editorial/studio.js",
+    "scripts/editorial/build-studio-catalog.mjs",
+    "public/editorial/studio-catalog.json",
+    "kb/editorial-model/editor-studio.md",
+    "AGENTS.md",
+    "kb/team/operations.json",
+    "kb/team/handoffs/editor-studio-english-2026-11-01.json"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/studio_english_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "backend/src/studio.js": "684dc24bf0f814c254f71cb49130810eaf2459dd46c74dbf2b8b42c8c505fef4",
+      "backend/src/studio-service.js": "065d77234a69ce0c3cc8d91eae610b1a484a9563f4e53eef5ec8a4b24807054a",
+      "public/editorial/studio.js": "18d3e04c97cf19d581ffd6461e0e17ff73ea8b05c12c4e937737844a509af955",
+      "scripts/editorial/build-studio-catalog.mjs": "f192aaa0d134eb3474e3fdff0809bc524d1ec28b02a47824953652547104a280",
+      "public/editorial/studio-catalog.json": "81feb00a81a03cd3875648c575b72dcf1c19e843b3a8ae16f0154f931455670a",
+      "kb/editorial-model/editor-studio.md": "fe1d988377574c7d0909e940946f673addbb3b60be8f25a654a37102c457a21c",
+      "AGENTS.md": "51af07f64056bc5b644a109bf76aa313452f2a5ae6189b19cbe3a3bd94a41089",
+      "public/editorial/studio-ui.mjs": "cdd1cfc60b32088e1653de9cbf2cae7dfe94e389a6c5113c01f4465eee54d0b9",
+      "public/editorial/studio-model.mjs": "7fa11683ac868771453996115c91037eb36ea09825372b3d0460fd730a90135d",
+      "public/editorial/studio.html": "dea7c1135b2f79c7b1e2b8a01b9fb8a7294a3f81b22bce375a25a61ac8cfe1ee",
+      "tests/editor-studio.test.mjs": "a30a78308f5977875fae1599b7b447b2e2a36983110ca8b7763acafd4adb3fb8"
+    },
+    "evidence": [
+      "13 focused tests passed independently; generated bundle matches source.",
+      "English interface and Odia content language tags verified. No live authenticated acceptance."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "100 site tests and full build passed. Final text refinement:13 focused tests and distribution repack passed.",
+      "Browser synthetic flow at1280/390/320: English controls, Odia text, author picker, history, conflict handling, backup, rotation; no overflow/errors.",
+      "Actual bundled signed-out screen English; no private queries before authentication.",
+      "All156 catalog author names/profiles and issue membership preserved."
+    ]
+  },
+  "next_action": "Studio uses English; live activation remains pending the publication request.",
+  "coordinator_reservations_released": true
+}

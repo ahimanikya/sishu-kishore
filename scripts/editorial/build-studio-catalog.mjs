@@ -17,7 +17,7 @@ authors.sort((a,b)=>a.name.localeCompare(b.name,'or'));
 const catalog=JSON.parse(fs.readFileSync(path.join(root,'public/edition-reader.json'),'utf8'));
 const issues=Object.keys(catalog).filter(route=>/^\/editions\/\d{4}-\d{2}\/$/.test(route)).sort().map(route=>{
  const month=route.split('/')[2],issue=readSiteEdition(route,month,root);
- return {month,route,authors:[...new Set(issue.articles.flatMap(a=>a.author_profiles))].sort(),evidence:`ପ୍ରକାଶିତ ସଂଖ୍ୟା ${route}; ${issue.articles.length} ଲେଖା। ଅନ୍ତିମ ପ୍ରକାଶନ ପୂର୍ବରୁ ପୁଣି ମିଳାନ୍ତୁ।`};
+ return {month,route,authors:[...new Set(issue.articles.flatMap(a=>a.author_profiles))].sort(),evidence:`Published issue ${route}; ${issue.articles.length} contributions. Recheck against the actual issue before publication.`};
 });
 fs.writeFileSync(path.join(root,'public/editorial/studio-catalog.json'),JSON.stringify({authors,issues},null,2)+'\n');
 console.log(`Studio references: ${authors.length} public authors, ${issues.length} dated published issues.`);

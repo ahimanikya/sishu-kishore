@@ -19,7 +19,7 @@ export function createStudioService(db, assertSession) {
   async save(id,input,expectedRevision){
    check(id);if(!Number.isSafeInteger(expectedRevision)||expectedRevision<0)throw Error('Invalid expected revision.');
    const payload=validateWorkspace(input),encoded=JSON.stringify(payload);
-   if(payload.state==='review' && reviewProblems(payload).length)throw Error('ସମୀକ୍ଷା ପୂର୍ବରୁ ବାକି ଯାଞ୍ଚ ପୂରଣ କରନ୍ତୁ।');
+   if(payload.state==='review' && reviewProblems(payload).length)throw Error('Complete the remaining checks before requesting review.');
    if(new TextEncoder().encode(encoded).length>700000)throw Error('Workspace too large.');
    const reference=doc(db,'editorStudios',id);
    const result=await runTransaction(db,async transaction=>{

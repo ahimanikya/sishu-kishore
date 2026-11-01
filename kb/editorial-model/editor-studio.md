@@ -2,7 +2,7 @@
 
 Sishu adapts Kabita Live's publication-workspace pattern at `/editorial/studio.html`: separate magazine and book working copies, ordered contents, author identities, illustration preparation, cover/editorial work, whole-text proof, readiness checks and revision history. The existing submission/publication desk remains at `/editorial/manage.html`; existing submissions and books are not automatically migrated or republished.
 
-The interface is in Odia. Original English/Odia literary text keeps its language and line breaks. Public author names and canonical profile paths come from `studio-catalog.json`, generated from public profile pages. Previous monthly author snapshots use the same canonical-identity extractor as the author-selection checker, and only dated published editions are included. Unlisted reviews and private sources are not indexed. Missing preceding issues need explicit evidence; publication must recheck actual preceding contents.
+The Studio interface is in English, as requested on 1 November 2026. Original English/Odia literary text keeps its language and line breaks. Public author names and canonical profile paths come from `studio-catalog.json`, generated from public profile pages. Previous monthly author snapshots use the same canonical-identity extractor as the author-selection checker, and only dated published editions are included. Unlisted reviews and private sources are not indexed. Missing preceding issues need explicit evidence; publication must recheck actual preceding contents.
 
 ## Workflow and scope
 
