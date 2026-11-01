@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "approved_on": "2026-11-01",
+  "authorization": "Approved",
+  "private_archive": "editorial-private/approved-removals-2026-11-01",
+  "withdrawals": [
+    {
+      "route": "/article_details-a63cd63227.html",
+      "retained_route": "/article_details-a2c2bfb136.html",
+      "reason": "duplicate"
+    },
+    {
+      "route": "/article_details-4aa14ed84c.html",
+      "retained_route": "/article_details-f5d8374ec2.html",
+      "reason": "duplicate"
+    },
+    {
+      "route": "/article_details-9769dbd2ae.html",
+      "retained_route": "/article_details-f71021f813.html",
+      "reason": "duplicate"
+    },
+    {
+      "route": "/article_details-94fb90f027.html",
+      "retained_route": "/article_details-6eaf0de36f.html",
+      "reason": "duplicate"
+    },
+    {
+      "route": "/article_details-3b06bb5a3d.html",
+      "retained_route": "/article_details-ca8b581976.html",
+      "reason": "duplicate"
+    },
+    {
+      "route": "/article_details-3dd3110b0b.html",
+      "retained_route": "/article_details-7ed3fb3a75.html",
+      "reason": "duplicate"
+    },
+    {
+      "route": "/editions/2026-11/article-16.html",
+      "retained_route": null,
+      "reason": "author_rotation",
+      "planned_issue": "2026-12"
+    }
+  ],
+  "excerpt_removals": [
+    {
+      "route": "/article_details-cb897d1577.html",
+      "start_text": "ଟୁକୁନା ଋଷିଛି",
+      "retained_route": "/article_details-6635972a90.html"
+    }
+  ]
+}

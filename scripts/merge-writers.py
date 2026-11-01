@@ -5,6 +5,8 @@ from pathlib import Path
 ROOT=Path('public');ORIGIN='https://shishukishora.com'
 manifest=json.loads(Path('provenance/writer-merges.json').read_text().replace('/shishu/', '/'));groups=manifest['groups']
 redirects={m['route']:g['canonical'] for g in groups for m in g['members'] if m['route']!=g['canonical']}
+withdrawal_manifest=Path('provenance/approved-withdrawals.json')
+withdrawn={x['route'] for x in json.loads(withdrawal_manifest.read_text())['withdrawals']} if withdrawal_manifest.exists() else set()
 index=ROOT/'writers.html';directory=index.read_text()
 for g in groups:
  cards={}
@@ -13,6 +15,7 @@ for g in groups:
  current=re.search(r'<ul\b(?=[^>]*class="mag-contributions)[^>]*>(.*?)</ul>',html,re.S)
  for card in [c for m in g['members'] for c in m['contributions']]+re.findall(r'<li\b.*?</li>',current[1],re.S):
   href=re.search(r'href="([^"]+)"',card)[1]
+  if href in withdrawn:continue
   publication=Path('provenance/november-2026-publication.json')
   if publication.exists():card=card.replace('/current_issue.html',json.loads(publication.read_text())['previous_issue'])
   cards[href]=card
