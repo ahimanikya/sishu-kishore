@@ -39,6 +39,20 @@
       "retained_route": null,
       "reason": "author_rotation",
       "planned_issue": "2026-12"
+    },
+    {
+      "route": "/editions/2026-11/article-09.html",
+      "retained_route": null,
+      "reason": "one_poem_per_author_in_issue",
+      "planned_issue": "2026-12",
+      "authorization": "any; move the other to December draft"
+    },
+    {
+      "route": "/editions/2026-11/article-14.html",
+      "retained_route": null,
+      "reason": "one_poem_per_author_in_issue",
+      "planned_issue": "2026-12",
+      "authorization": "any; move the other to December draft"
     }
   ],
   "excerpt_removals": [

@@ -108,16 +108,17 @@ def apply(root, check=False):
                     for node in list(paragraph.next_siblings):
                         node.extract()
                 dirty = True
+        withdrawn_ids = {Path(x).stem for x in withdrawn if x.startswith('/editions/2026-11/')}
         if aggregate:
-            block = soup.select_one('article#article-16')
-            if block:
-                block.decompose()
-                dirty = True
+            for block in list(soup.select('article[id]')):
+                if block['id'] in withdrawn_ids:
+                    block.decompose()
+                    dirty = True
         for anchor in list(soup.select('a[href]')):
             if anchor.attrs is None:
                 continue
             href = route(anchor.get('href'))
-            if aggregate and anchor.get('href') == '#article-16':
+            if aggregate and anchor.get('href', '').startswith('#') and anchor['href'][1:] in withdrawn_ids:
                 (anchor.find_parent('li') or anchor).decompose()
                 dirty = True
                 continue
@@ -188,7 +189,7 @@ def apply(root, check=False):
     if check:
         if errors:
             raise SystemExit('Approved withdrawals not applied:\n' + '\n'.join(errors))
-        print('Approved withdrawals verified: seven pages absent, excerpt/listings filtered; review copies preserved.')
+        print(f'Approved withdrawals verified: {len(withdrawn)} pages absent, excerpt/listings filtered; review copies preserved.')
     else:
         print(f'Approved withdrawals applied: {len(changed)} files changed; originals preserved under {manifest["private_archive"]}.')
     return changed

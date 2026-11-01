@@ -1,0 +1,122 @@
+{
+  "id": "two-poems-december-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "ready",
+  "authorization": "any; move the other to December draft",
+  "coordinator": "Disha",
+  "input_head": "0e9f59d174c85beed1dcc6974f16ca9c2b0d39ff",
+  "task": "Retain Jeje Bapa and Chhutita Chhuti in November; move Tiki Bachhuri and Chaiti Khara to unlisted December draft.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/carry_two_poems",
+      "status": "completed",
+      "mode": "write",
+      "reserved_files": [
+        "public/review/2026-12/index.html",
+        "public/review/2026-12/tiki-bachhuri.html",
+        "public/review/2026-12/chaiti-khara.html",
+        "tests/december-draft.test.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Created two Odia December draft poems and extended draft listing/tests.",
+        "evidence": [
+          "Exact source prose preserved; original art and author links retained."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/two_poems_review",
+      "status": "completed",
+      "mode": "read_only",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate candidate review passed.",
+        "evidence": [
+          "25 November entries; correct retained poems and navigation.",
+          "No public-author draft links; December three-poem draft, source preservation verified.",
+          "64 tests/build passed."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "PROJECT.txt",
+    "kb/team/handoffs/two-poems-december-2026-11-01.json",
+    "kb/team/operations.json",
+    "provenance/approved-withdrawals.json",
+    "provenance/social-previews.json",
+    "public/content-index.json",
+    "public/current_issue.html",
+    "public/edition-reader.json",
+    "public/editions/2026-11/all-writing.html",
+    "public/editions/2026-11/article-07.html",
+    "public/editions/2026-11/article-08.html",
+    "public/editions/2026-11/article-09.html",
+    "public/editions/2026-11/article-10.html",
+    "public/editions/2026-11/article-11.html",
+    "public/editions/2026-11/article-12.html",
+    "public/editions/2026-11/article-13.html",
+    "public/editions/2026-11/article-14.html",
+    "public/editions/2026-11/article-15.html",
+    "public/editions/2026-11/index.html",
+    "public/index.html",
+    "public/reading-text/article-09.txt",
+    "public/reading-text/article-14.txt",
+    "public/review/2026-12/chaiti-khara.html",
+    "public/review/2026-12/index.html",
+    "public/review/2026-12/tiki-bachhuri.html",
+    "public/sitemap.xml",
+    "public/writers.html",
+    "public/writers/9b2a83434590.html",
+    "public/writers/b98810c4015c.html",
+    "scripts/apply-approved-withdrawals.py",
+    "tests/approved-withdrawals.test.mjs",
+    "tests/december-draft.test.mjs",
+    "tests/november-publication.test.mjs"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/two_poems_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass",
+    "candidate_files": {
+      "PROJECT.txt": "ad41f90af96b5f3285e1ec898a12a3a57fd6ee905d06463f3c4452eb670c4391",
+      "provenance/approved-withdrawals.json": "b11f884857168cc836ff7054a9fdd861e2da65d6c283587cc3e94d3a8aad55a6",
+      "provenance/social-previews.json": "9f0454b8673748010d44be19ebf1db961c50b9e1dce70dc433e7e476a34a4bfe",
+      "public/content-index.json": "a7727233fceebcf0932abbddbb3a5d8cbcf256b1a04c68a136b3c0738d73bdda",
+      "public/current_issue.html": "01f7442edf276580a9dff22bfdc14b7940649753cc805bfd28b540a425b7d6ca",
+      "public/edition-reader.json": "01cb9d6d1ea9015c98e8697c63e6bb84bfce8b8814687340cb6b92c446ab399a",
+      "public/editions/2026-11/all-writing.html": "9644aa3aced9b74c6ca9c0c863a9b2864e1e2faa47646b5f12149d822066b1fe",
+      "public/editions/2026-11/article-07.html": "bcec0c226dcd04fd46de457d26e284b2b0c9c610e3eaa1697bad757e145100d2",
+      "public/editions/2026-11/article-08.html": "75766448453f7c2b768840698097ca731c9543069a8ada8f7253faa6496597ef",
+      "public/editions/2026-11/article-10.html": "672422e802bd4b7850acfd00d7d2251cad61b7f182d0c518b8a7bb39d9d915b1",
+      "public/editions/2026-11/article-11.html": "f561c34ebcfe68b681866a6383ea07360561e0431b522fa3261140a3c57fd7a7",
+      "public/editions/2026-11/article-12.html": "6f99e7948042eaf58503d3b258e77f1ec40da50fe8788737f87dad254b113551",
+      "public/editions/2026-11/article-13.html": "9da68933e2cd3cea081f987b55885b805247730dbf85bc1a9070afd39a19c4cf",
+      "public/editions/2026-11/article-15.html": "c1493bc6caad9209b064b4d9042cb468d446923f8435991fc090a63b0f2a43b5",
+      "public/editions/2026-11/index.html": "51c3f89a9d0bb86d4a161878727e114c7a23415663b21894d1141c9e046629b3",
+      "public/index.html": "eefa5af24f24e79294e805b643274e786dfa0233ce9f0604caca1fc2bad3ea0c",
+      "public/review/2026-12/index.html": "9db4b08e31e3168cb1e02c64da17d88502e295ad8863aed8e68e9690185d6c5b",
+      "public/sitemap.xml": "697da1829c8d5f7f498c57b13de0db0d9958e503472f5e4dfa3dfcb27f6bd58f",
+      "public/writers.html": "7d65ebad67a96231c0a8ddacd0e72aa31855e05b21449600a65575fb1c2db17b",
+      "public/writers/9b2a83434590.html": "af44944b468bee4788f188b5b72a199bcb006fb9e015026da11b11d63b784537",
+      "public/writers/b98810c4015c.html": "d4c110174af3ca6936f5dc5779519dac5e7e765c6a8affa92fae16525c8e341a",
+      "scripts/apply-approved-withdrawals.py": "3feea92f37f55750d648aa8383f7a87bdbee20717ca013f2dcd31366cd227277",
+      "tests/approved-withdrawals.test.mjs": "8031c5a14f9a534c0042b4359eed6b11798ef1aa663c84bc5eca415043bb6699",
+      "tests/december-draft.test.mjs": "e936d5e3efcf2c2aa03051c646bf4027c57781f165ca037178062c292fc811c6",
+      "tests/november-publication.test.mjs": "05dc5b8a6361f081a35e7987fef3b37e0397eb0d181555c386840dddaae22051",
+      "public/review/2026-12/tiki-bachhuri.html": "79ab846c9e20b9f54bb065662ea0f2cbc41d46dee1d0d86e2bcdbb63f1c5dc46",
+      "public/review/2026-12/chaiti-khara.html": "8bd01180f6c6a059940eea0816c6aaa98b978bb0276564d8fba0f6538d5afc68"
+    },
+    "evidence": [
+      "Exact candidate verified; no blocking findings.",
+      "64 tests/build passed; draft mobile layout and November title selection checked."
+    ]
+  },
+  "delivery": null,
+  "next_action": "Publish and verify live."
+}

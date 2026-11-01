@@ -6,11 +6,19 @@ test('November publication preserves the October archive and review boundaries',
  const read=p=>fs.readFileSync('public/'+p,'utf8');
  const route='/editions/2026-11/';
  const catalog=JSON.parse(read('edition-reader.json'));
- assert.equal(catalog[route].items.length,27);
+ assert.equal(catalog[route].items.length,25);
  assert.ok(!catalog[route].items.some(item=>item.href===route+'article-16.html'));
  assert.ok(!fs.existsSync('public/'+route+'article-16.html'));
  assert.ok(!read('writers/57b2cccb4266.html').includes(route+'article-16.html'));
  assert.ok(!read('writers/57b2cccb4266.html').includes('/editorial-private/')); 
+
+ for(const [id,profile] of [['09','9b2a83434590'],['14','b98810c4015c']]){
+  assert.ok(!catalog[route].items.some(item=>item.href===route+'article-'+id+'.html'));
+  assert.ok(!fs.existsSync('public'+route+'article-'+id+'.html'));
+  assert.ok(!read('writers/'+profile+'.html').includes(route+'article-'+id+'.html'));
+ }
+ assert.ok(catalog[route].items.some(item=>item.href===route+'article-11.html'));
+ assert.ok(catalog[route].items.some(item=>item.href===route+'article-18.html'));
  assert.equal(catalog['/editions/2026-10/'].items.length,25);
  const home=read('index.html'),current=read('current_issue.html');
  assert.equal((home.match(/id="home-art"/g)||[]).length,1);
