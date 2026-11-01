@@ -1,7 +1,7 @@
 {
   "id": "two-poems-december-2026-11-01",
   "unit_type": "bounded_maintenance",
-  "status": "ready",
+  "status": "completed",
   "authorization": "any; move the other to December draft",
   "coordinator": "Disha",
   "input_head": "0e9f59d174c85beed1dcc6974f16ca9c2b0d39ff",
@@ -117,6 +117,17 @@
       "64 tests/build passed; draft mobile layout and November title selection checked."
     ]
   },
-  "delivery": null,
-  "next_action": "Publish and verify live."
+  "delivery": {
+    "mode": "published",
+    "url": "https://shishukishora.com/review/2026-12/",
+    "evidence": [
+      "Merged remote update294b9c7f; reviewer confirmed poem candidate hashes unchanged and no blocking issue.",
+      "Deployment41279991779 succeeded for2e529f07d2e53128e2f475e362a475d22326a751; editorial privacy checks succeeded.",
+      "Live November25 cards retains Jeje Bapa and Chhutita Chhuti; deferred two absent.",
+      "Live December draft lists three poems. 64 tests, build, integration checks and separate review passed."
+    ],
+    "screenshot": "/tmp/sishu-december-three-poems-live.png"
+  },
+  "next_action": "December draft awaits full edition assembly and editorial approval.",
+  "coordinator_reservations_released": true
 }
