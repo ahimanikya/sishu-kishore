@@ -9,44 +9,49 @@
   "workers": [
     {
       "role": "Samanta",
-      "runtime": "/root/author_rules",
-      "status": "completed",
-      "mode": "write",
-      "reserved_files": [
-        "scripts/editorial/author-selection.mjs",
-        "tests/author-selection.test.mjs"
-      ],
-      "reservations_released": true,
-      "result": {
-        "summary": "Added canonical-author selection validator and adapter.",
-        "evidence": [
-          "7 focused validator tests passed."
-        ]
-      }
-    },
-    {
-      "role": "Samanta",
       "runtime": "/root/jahn_mamu_draft",
       "status": "completed",
       "mode": "write",
       "reserved_files": [
+        "public/review/2026-12/chaiti-khara.html",
         "public/review/2026-12/index.html",
         "public/review/2026-12/jahnmamu.html",
-        "tests/december-draft.test.mjs",
         "public/review/2026-12/tiki-bachhuri.html",
-        "public/review/2026-12/chaiti-khara.html",
+        "public/review/2027-01/chaiti-khara.html",
         "public/review/2027-01/index.html",
-        "public/review/2027-01/tiki-bachhuri.html",
         "public/review/2027-01/jahnmamu.html",
-        "public/review/2027-01/chaiti-khara.html"
+        "public/review/2027-01/tiki-bachhuri.html",
+        "scripts/editorial/author-selection.mjs",
+        "tests/author-selection.test.mjs",
+        "tests/december-draft.test.mjs"
       ],
       "reservations_released": true,
       "result": {
-        "summary": "Created Jahnmamu draft, then moved three November-author poems to January under strict rotation.",
+        "summary": "Two sequential Samanta executions: canonical-author validator, followed by reviewed draft placements.",
         "evidence": [
-          "December one poem; January three poems; exact prose/navigation checks passed."
+          "December one poem; January three poems; exact prose/navigation checks passed.",
+          "7 focused validator tests passed."
         ]
-      }
+      },
+      "execution_history": [
+        {
+          "role": "Samanta",
+          "runtime": "/root/author_rules",
+          "status": "completed",
+          "mode": "write",
+          "reserved_files": [
+            "scripts/editorial/author-selection.mjs",
+            "tests/author-selection.test.mjs"
+          ],
+          "reservations_released": true,
+          "result": {
+            "summary": "Added canonical-author selection validator and adapter.",
+            "evidence": [
+              "7 focused validator tests passed."
+            ]
+          }
+        }
+      ]
     },
     {
       "role": "Drishti",
