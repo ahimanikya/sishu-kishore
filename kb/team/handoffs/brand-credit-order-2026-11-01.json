@@ -1,0 +1,40 @@
+{
+  "id": "brand-credit-order-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Editorial team should go to top before it gives me credit; the same information is repeating.",
+  "coordinator": "Disha",
+  "coordinator_runtime": "/root",
+  "input_head": "7eee69587b804984d7134e0f3d9552879dc8bd3d",
+  "task": "Move editorial team to top, consolidate Creative Editor credit and remove repeated introductory credit statements.",
+  "workers": [],
+  "coordinator_files": [
+    "public/our-brand/index.html",
+    "kb/team/handoffs/brand-credit-order-2026-11-01.json",
+    "kb/team/operations.json"
+  ],
+  "coordinator_reservations_released": true,
+  "review": {
+    "kind": "self_review",
+    "reviewer": "Disha",
+    "runtime": "/root",
+    "exception_reason": "trivial_change",
+    "limitation": "Small editorial ordering and duplication correction; no separate review claimed. Personal-reflection attribution preserved.",
+    "outcome": "pass",
+    "candidate_files": {
+      "public/our-brand/index.html": "30214cd7630c020329c8a2374249e0e8e8417682a533032b93094338a4d459ea"
+    },
+    "evidence": [
+      "Human editors appear before Creative Editor and colour narrative.",
+      "All role names and existing section anchors retained; redundant role statements removed.",
+      "Site checks and packaging passed."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Only brand page content changed; no publication."
+    ]
+  },
+  "next_action": "Ready locally; publication pending."
+}
