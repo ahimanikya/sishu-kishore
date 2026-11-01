@@ -19,7 +19,7 @@
   "runtime": "Separate task-scoped agents; no continuous workers or new schedules. Reconcile saved work with actual runtime before resuming.",
   "assignments": "kb/team/assignments.json",
   "guide": "kb/team/working-arrangements.md",
-  "active_handoff": null,
+  "active_handoff": "kb/team/handoffs/credits-process-2026-11-01.json",
   "publication_rule": "User authorization applies to the actual candidate and destination. Agent coordination/review never grants publication authority.",
   "record_privacy": "Operational adoption evidence may be versioned here; manuscript-bearing production handoffs stay in editorial-private/editorial-model/.",
   "latest_handoff": "kb/team/handoffs/operations-adoption-2026-11-01.json"

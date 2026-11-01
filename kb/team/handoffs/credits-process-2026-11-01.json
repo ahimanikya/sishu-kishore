@@ -1,0 +1,81 @@
+{
+  "id": "credits-process-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "ready",
+  "authorization": "Adopt this description from Kabita Live. We can have similar page here too.",
+  "coordinator": "Disha",
+  "input_head": "1d238dc1027749969be3489b26f752a33a1667bd",
+  "task": "Expand existing central credits into Credits and how we work, adapting Kabita Live creative-process description. Preserve central route, credits, human roles and original contributions.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/samanta",
+      "status": "completed",
+      "mode": "write",
+      "reserved_files": [
+        "public/credits/index.html"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Expanded central credits from Kabita Live creative-process template, adapted to Sishu.",
+        "evidence": [
+          "HTML structure, unique anchors, metadata consistency, structured JSON and native details checks passed.",
+          "Modern Web Guidance html guide retrieved and applied."
+        ],
+        "changed_files": [
+          "public/credits/index.html"
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/drishti",
+      "status": "completed",
+      "mode": "read_only",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate source, content and HTML review passed; no blocking findings.",
+        "evidence": [
+          "Candidate SHA256 matches.",
+          "Sishu roles, workflow, source adaptation, credits and semantic HTML checked."
+        ],
+        "limitations": [
+          "Browser and full-build checks performed separately by coordinator."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/operations.json",
+    "kb/team/handoffs/credits-process-2026-11-01.json"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/drishti",
+    "kind": "separate_ai_review",
+    "outcome": "pass",
+    "candidate_files": {
+      "public/credits/index.html": "296ac3f2133944878b6cd433988bddcc4a8c156f32d31443ef4039a78665a7c5"
+    },
+    "evidence": [
+      "Compared complete Kabita Live source and Sishu adaptation.",
+      "No blocking content or semantic HTML findings."
+    ]
+  },
+  "delivery": null,
+  "next_action": "Publish reviewed credits page and verify live delivery.",
+  "source": {
+    "project": "Kabita Live",
+    "path": "output/kabitalive-design-proposal-2026-09-29/site/templates/our-story-ai.html",
+    "sha256": "23e5024880f9b099968648c490ce16bcb95c1916e0160cbe7237815a7b545563"
+  },
+  "candidate_files": {
+    "public/credits/index.html": "296ac3f2133944878b6cd433988bddcc4a8c156f32d31443ef4039a78665a7c5"
+  },
+  "checks": {
+    "tests": 59,
+    "build": "pass",
+    "browser": "Desktop and 390px mobile inspected; no horizontal overflow; reflection opens and closes; Baloo Bhaina 2 retained."
+  }
+}
