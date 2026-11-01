@@ -1,0 +1,36 @@
+{
+  "id": "editor-names-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "ready",
+  "authorization": "I am only the Creative Editor, the real Editors are different - we should bring their names",
+  "coordinator": "Disha",
+  "input_head": "643d78fd4d4c064e033abcba68c889e44d46f3d8",
+  "task": "Name existing chief editor, editor and management on Odia credits page; clarify Creative Editor scope.",
+  "workers": [],
+  "coordinator_files": [
+    "public/credits/index.html",
+    "kb/team/handoffs/editor-names-2026-11-01.json",
+    "kb/team/operations.json"
+  ],
+  "review": {
+    "reviewer": "Disha",
+    "runtime": "/root",
+    "kind": "self_review",
+    "exception_reason": "trivial_change",
+    "outcome": "pass",
+    "candidate_files": {
+      "public/credits/index.html": "fe5234b139f79a6b82c55632b29c123eee62fe49bdc1e06fa55f75659436aa28"
+    },
+    "evidence": [
+      "Names and titles matched public/whoweare.html existing roster.",
+      "59 tests and full build passed; rendered local section checked.",
+      "Modern Web Guidance semantic sections and heading hierarchy preserved."
+    ],
+    "limitations": [
+      "Small sourced credit correction; self-review, not separate agent review."
+    ],
+    "limitation": "Small sourced credit correction; self-review, not separate agent review."
+  },
+  "delivery": null,
+  "next_action": "Publish and verify live credits."
+}
