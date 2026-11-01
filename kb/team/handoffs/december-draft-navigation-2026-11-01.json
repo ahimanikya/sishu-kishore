@@ -1,7 +1,7 @@
 {
   "id": "december-draft-navigation-2026-11-01",
   "unit_type": "bounded_maintenance",
-  "status": "ready",
+  "status": "completed",
   "authorization": "Keep it on the site, but keep in the December draft; fix the issue found and publish.",
   "coordinator": "Disha",
   "input_head": "ac4bc3784ab5211e7f33e948b94dbd9e46ecd583",
@@ -117,6 +117,17 @@
       "Without JavaScript the shared article retains its existing October default."
     ]
   },
-  "delivery": null,
-  "next_action": "Publish and verify live."
+  "delivery": {
+    "mode": "published",
+    "url": "https://shishukishora.com/review/2026-12/",
+    "evidence": [
+      "Deployment 41278551226 succeeded for f0d694ce40b6e20a343a6f164744d066ddc36928.",
+      "Live December poem title, Odia draft notice and noindex verified.",
+      "Live August context selects correct contents, previous and next links.",
+      "63 tests/build passed; separate Drishti review passed."
+    ],
+    "screenshot": "/tmp/sishu-december-draft-live.png"
+  },
+  "next_action": "December draft awaits full edition assembly and editorial publication approval.",
+  "coordinator_reservations_released": true
 }
