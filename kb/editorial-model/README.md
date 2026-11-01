@@ -1,6 +1,6 @@
 # Children’s Magazine and Book Editorial Model
 
-Version 0.1.0 · 1 November 2026
+Version 0.2.0 · 1 November 2026
 
 This is the working domain model for preparing children’s magazines and books under Ahimanikya Satapathy’s direction as Creative Editor. It combines editorial knowledge, reusable production workflows, private work records and dependency checks. It is not a newly trained language or image model. The model does not start agents, generate content or publish automatically.
 
@@ -54,3 +54,21 @@ The Sishu profile permits one literary contribution per canonical author per iss
 A magazine production record carries `author_selection: {candidate, previous}` using the validator schema. Candidate article IDs must exactly match the article artifacts selected for release. Public release fails for missing or conflicting author selections. Draft checks surface conflicts without publishing or automatically rescheduling the work. Books are outside this issue-selection policy.
 
 Rotation must be checked against the immediately preceding monthly issue. The editor selected a strict one-edition gap: an author in November is next eligible in January. Consecutive-author conflicts block public edition release. Recheck the actual preceding issue at release; a draft reservation is not publication approval. The site build checks the current edition against the preceding issue and blocks duplicates or unresolved rotation conflicts. Historical editions and unlisted draft queues are not automatically rewritten.
+
+## English and Odia children's books
+
+Use [book-production.md](book-production.md) and the source-backed [book-lessons.json](book-lessons.json). Books share the magazine's fidelity, author identity, natural translation, illustration and access principles. They do **not** inherit magazine author rotation or the one-contribution limit. One author can write an entire book.
+
+A book record now includes `book_plan`: audience/reading mode, source language, ordered source-linked sections, language editions, original/translation/adaptation credits, and requested delivery formats. Missing information is reported while drafting; release requires the complete plan and evidence for each requested language and format. A web check cannot certify a PDF, EPUB or print edition. Checker success validates the record, not human reading quality or legal ownership.
+
+These lessons come from recorded project corrections. They are not new visual audits or claims that provisional OCR has become author-approved. Translation quality benchmarks remain a planned evaluation activity.
+
+## Upgrade an existing record
+
+Version 0.1.0 records must be explicitly migrated; they are never rewritten automatically:
+
+```sh
+node scripts/editorial/model.mjs migrate editorial-private/editorial-model/old-book.json
+```
+
+The command writes a new versioned private file, preserves the original, increments the candidate revision, clears release authorization/delivery, and adds the new planning fields and pending stages. Review the generated book plan before release. Existing source artifacts and credited wording are preserved.

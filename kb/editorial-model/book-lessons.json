@@ -1,0 +1,79 @@
+{
+  "version": "1.0.0",
+  "scope": "Documented local production lessons, not new audits or trained weights. Historical paths are evidence only, not publication destinations.",
+  "lessons": [
+    {
+      "id": "source-states",
+      "rule": "Preserve scans; distinguish raw OCR, source-compared text, writer approval and publication. Uncertain transcription blocks final release.",
+      "evidence": [
+        "provenance/musha-mushi/README.txt",
+        "provenance/musha-mushi/pdf-build-report.json"
+      ],
+      "status": "documented_prior_process"
+    },
+    {
+      "id": "literary-structure",
+      "rule": "Keep stanza, paragraph, chapter and comic-panel order; word counts alone do not prove fidelity.",
+      "evidence": [
+        "provenance/musha-mushi/pdf-build-report.json",
+        "provenance/three-mysteries-publication.json",
+        "provenance/kete-jami-loda/README.md"
+      ],
+      "status": "documented_prior_process"
+    },
+    {
+      "id": "credits",
+      "rule": "Preserve author, translator, transcreator, illustrator and original layout credits separately; do not infer missing bibliography.",
+      "evidence": [
+        "provenance/kete-jami-loda/README.md",
+        "public/books/paresh/frog.html"
+      ],
+      "status": "documented_prior_process"
+    },
+    {
+      "id": "scene-continuity",
+      "rule": "Review intended character count, identities, props and story meaning as well as anatomy.",
+      "evidence": [
+        "provenance/musha-mushi/art-revisions.json",
+        "provenance/kete-jami-loda/README.md"
+      ],
+      "status": "documented_prior_process"
+    },
+    {
+      "id": "anatomy-all-outputs",
+      "rule": "Review full-size animal anatomy and propagate approved corrections to every requested output, including PDF.",
+      "evidence": [
+        "provenance/forest-anatomy-2026-10-22.json"
+      ],
+      "status": "documented_prior_process"
+    },
+    {
+      "id": "typography",
+      "rule": "Keep live text separate from art; review Odia shaping and English typography. Preserve approved historical PDF type choices.",
+      "evidence": [
+        "provenance/kete-jami-loda/README.md",
+        "provenance/three-mysteries-publication.json"
+      ],
+      "status": "documented_prior_process"
+    },
+    {
+      "id": "output-qa",
+      "rule": "Review each requested format independently; web QA does not establish PDF, EPUB or print quality.",
+      "evidence": [
+        "provenance/kete-jami-loda/README.md",
+        "provenance/three-mysteries-publication.json"
+      ],
+      "status": "documented_prior_process"
+    },
+    {
+      "id": "access",
+      "rule": "Keep protected review distinct from publicly accessible unlisted links; authorization is candidate-specific.",
+      "evidence": [
+        "provenance/book-review/README.md",
+        "provenance/three-mysteries-visibility.json"
+      ],
+      "status": "documented_prior_process"
+    }
+  ],
+  "translation_limit": "Credited English translation demonstrates a workflow, not measured bilingual quality. Future human-reviewed English/Odia source-target cases are required for quality evaluation."
+}

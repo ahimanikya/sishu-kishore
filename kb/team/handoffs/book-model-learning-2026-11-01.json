@@ -1,0 +1,111 @@
+{
+  "id": "book-model-learning-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Make author rules part of the domain-specific model and apply learning from English and Odia children’s books.",
+  "coordinator": "Disha",
+  "input_head": "fcd41dae14a255a88c94219353a2e0a906bacec1",
+  "task": "Extend operational editorial model with evidence-backed book/language/output rules without changing existing books or visibility.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/book_learning_sources",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Researched ten reusable book lessons from local provenance.",
+        "evidence": [
+          "Musha/Kete provisional review and structure, Forest anatomy propagation, English credits/typography, unlisted access.",
+          "Distinguished documented corrections from translation evaluation policy."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/book_model_checks",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "scripts/editorial/book-production.mjs",
+        "tests/book-production.test.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Implemented book plan validation and ten focused passing tests.",
+        "evidence": [
+          "scripts/editorial/book-production.mjs",
+          "tests/book-production.test.mjs; 10 passed; no book content or deployment changed."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/book_model_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate review passed with limitations; integration test re-review passed.",
+        "evidence": [
+          "26 initial focused tests passed; 14 integration tests passed after addition.",
+          "No blocking findings. Evidence paths verified; source preservation, migration and magazine-only rotation reviewed."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/editorial-model/model.json",
+    "kb/editorial-model/README.md",
+    "kb/editorial-model/workflows.md",
+    "kb/editorial-model/templates.json",
+    "kb/editorial-model/evaluation-cases.json",
+    "kb/editorial-model/book-production.md",
+    "kb/editorial-model/book-lessons.json",
+    "scripts/editorial/model.mjs",
+    "tests/editorial-model.test.mjs",
+    "AGENTS.md",
+    "PROJECT.txt",
+    "kb/team/operations.json",
+    "kb/team/handoffs/book-model-learning-2026-11-01.json",
+    "tests/editorial-model-migration.test.mjs"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/book_model_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "kb/editorial-model/model.json": "32f229e5de868e13b02fdc0eb296bd58f9d36380dd466fcb608003d2111f4374",
+      "kb/editorial-model/README.md": "948d2696524250bead78dab4293a6d8411e9b3ee9b2a069d4b2930c9ae379284",
+      "kb/editorial-model/workflows.md": "5efd644e08e223c1f3783bace26f8415fce27b2f744a800fae3f245e7f1ee897",
+      "kb/editorial-model/templates.json": "32b4eadf485c22eaddca8460f62f7b883d4776e986b70058bc8de164384f6a6a",
+      "kb/editorial-model/evaluation-cases.json": "140932d5c4fe7553e9732b05197b3ccd578355ddbcdcf1aeeec30ed5352084ef",
+      "kb/editorial-model/book-production.md": "2b6d5a2dc41ba5dcf2917f753827c4b7e880f47ecd94941229a2d3651b2fc7ca",
+      "kb/editorial-model/book-lessons.json": "ad35136d86373a510629f6b91c867c4fd885972afdc3a6fd52bcd1f46f4ac4a5",
+      "scripts/editorial/model.mjs": "45196bce114930ba032f4982ae7e2a99d2f0d144d3470ce99c93c2ce1638b407",
+      "tests/editorial-model.test.mjs": "8cc260aa6eb59002f45ee3088f9b80d144f7cd3484788fa2172a36c5f6eb7655",
+      "AGENTS.md": "802bfe195f99dde1645375e9e79ef3a9f4ba7297aa3c0a6fb856ae8e6739b2ba",
+      "PROJECT.txt": "447428d4e874f7c0ab309a82e3cfd1002fa93c5bc8c1c0e30fd43e1f778a6f96",
+      "tests/editorial-model-migration.test.mjs": "8688c4aa0b4594115a222db7fa3b0526fe832d06f71a5f8c4b950a170664f4f6",
+      "scripts/editorial/book-production.mjs": "facafb6e4933915cd6cf180365abad606e13952674c8e16e09234baf12fc95ed",
+      "tests/book-production.test.mjs": "04c79077b4e3f7c6a10083a7f0dca72d382a8a1feebc493ac09a3cfdc7e3b721"
+    },
+    "evidence": [
+      "Reviewed exact implementation and documentation hashes; new integration test re-reviewed.",
+      "Review strings record claims, not literary quality certification; no fresh illustration or bilingual translation audit."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "npm test: 87 passed.",
+      "npm run build: passed, including author selection and book/access checks.",
+      "Internal operational model update only; no website publication requested or performed. Existing book content and access preserved."
+    ]
+  },
+  "next_action": "Use version 0.2.0 for the next authorized editorial production unit; collect human-reviewed bilingual evaluation cases.",
+  "coordinator_reservations_released": true
+}

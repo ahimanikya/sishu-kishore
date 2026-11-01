@@ -65,7 +65,23 @@
     "back_matter": [],
     "uncertain_readings": [],
     "outputs_requested": [],
-    "rights_evidence": []
+    "rights_evidence": [],
+    "source_language": "",
+    "language_editions": [],
+    "audience": {
+      "age_band": "",
+      "reading_mode": ""
+    },
+    "structure_kind": "",
+    "credited_roles": {
+      "authors": [],
+      "translators": [],
+      "transcreators": [],
+      "illustrators": [],
+      "original_layout": []
+    },
+    "character_and_prop_continuity": [],
+    "intentional_repetition": []
   },
   "correction": {
     "id": "",
@@ -79,7 +95,9 @@
     "does_not_apply_when": "",
     "approved_by": "",
     "approval_evidence": "",
-    "supersedes": []
+    "supersedes": [],
+    "evidence_kind": "documented_correction|policy|proposed_evaluation",
+    "source_records": []
   },
   "artifact": {
     "id": "",

@@ -93,3 +93,16 @@ test('public release accepts unique rotated authors and rejects a consecutive au
  r.authorization.candidate_sha256=candidateFingerprint(r);
  assert.ok(validateProject(r,{...options,release:true}).errors.some(e=>e.includes('previous issue')));
 });
+test('integrated book release requires its own output QA even with renewed authorization',()=>{
+ const r=candidate();r.kind='book';r.stages=newProject('book','fixture').stages;
+ r.stages.forEach(s=>{s.state='done';s.evidence='Synthetic fixture';});
+ r.artifacts.find(x=>x.id==='story').kind='book-text';delete r.author_selection;
+ const review={reviewer:'Fixture',outcome:'pass',evidence:'Synthetic only'};
+ r.book_plan={audience:{age_band:'8–10',reading_mode:'shared'},source_language:'or',source_preservation:{location:'test/source.txt',evidence:'Synthetic'},rights:{confirmed:true,evidence:'Synthetic'},credits:{authors:['Fixture author'],evidence:'Synthetic'},sections:[{id:'story',source_refs:['Source page 1'],text_mode:'born_digital',unresolved_readings:[]}],language_editions:[{language:'or',mode:'original',source_fidelity_review:review,natural_language_review:review,typography_review:review}],outputs:[{format:'web',languages:['or'],qa_review:review,discovery:{listed:false,indexed:false}},{format:'pdf',languages:['or'],qa_review:review,discovery:{listed:false,indexed:false}}]};
+ r.authorization.candidate_sha256=candidateFingerprint(r);
+ assert.deepEqual(validateProject(r,{...options,release:true}).errors,[]);
+ delete r.book_plan.outputs[1].qa_review;r.authorization.candidate_sha256=candidateFingerprint(r);
+ const errors=validateProject(r,{...options,release:true}).errors;
+ assert.ok(errors.some(e=>e.includes('Output 2 pdf')));
+ assert.ok(!errors.some(e=>e.includes('authorization')));
+});

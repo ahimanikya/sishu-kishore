@@ -1,6 +1,6 @@
 {
   "name": "Children’s Magazine and Book Editorial Model",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "kind": "domain-specific editorial workflow and knowledge model",
   "trained_weights": false,
   "authority": {
@@ -39,13 +39,21 @@
     "composition",
     "typography",
     "navigation",
-    "access_boundaries"
+    "access_boundaries",
+    "reading_level",
+    "read_aloud_flow",
+    "character_continuity",
+    "panel_order",
+    "language_typography",
+    "format_accessibility",
+    "rights_and_credits"
   ],
   "workflows": {
     "magazine": [
       "intake",
       "read_complete_contributions",
       "resolve_authors",
+      "validate_author_selection",
       "prepare_articles",
       "create_article_illustrations",
       "assemble_contents",
@@ -58,6 +66,7 @@
     ],
     "book": [
       "intake",
+      "define_audience_and_languages",
       "inventory_source_pages",
       "resolve_authors_and_rights",
       "transcribe_and_compare",
@@ -66,6 +75,7 @@
       "translate_if_requested",
       "design_cover_and_front_matter",
       "typeset_and_check_readers",
+      "verify_each_output",
       "review_book",
       "authorize_destination",
       "publish_and_verify"
@@ -92,7 +102,35 @@
         "check_previous_issue": true,
         "rotation_mode": "strict",
         "rotation_decision": "User selected strict one-edition gap on 1 November 2026; no consecutive monthly contributions.",
-        "draft_conflicts": "Flag for selection; do not automatically withdraw or reschedule writings."
+        "draft_conflicts": "Flag for selection; do not automatically withdraw or reschedule writings.",
+        "applies_to": [
+          "magazine"
+        ],
+        "book_scope": "Not applied to books, chapters, poetry collections or language editions."
+      },
+      "books": {
+        "supported_languages": [
+          "en",
+          "or"
+        ],
+        "forms": [
+          "prose",
+          "poetry",
+          "comic",
+          "bilingual"
+        ],
+        "reading_modes": [
+          "read_aloud",
+          "shared",
+          "independent"
+        ],
+        "source_preservation": "Keep original manuscripts/scans and credits; unresolved transcription stays provisional.",
+        "structure": "Preserve chapter, paragraph, stanza, verse-line and comic-panel order.",
+        "translation": "Direct from approved source; preserve meaning, voice and cultural context; review each language independently.",
+        "illustration": "Use full source content, cast/action/prop continuity and full-size anatomy review; propagate approved revisions to every requested output.",
+        "typography": "Language-specific shaping, font coverage and readable live text; preserve approved historical export typography.",
+        "output_quality": "Verify each requested language/format combination separately; do not infer PDF or print quality from web checks.",
+        "visibility": "Respect private and unlisted boundaries; unlisted is direct-link public, not authentication."
       }
     }
   },
@@ -106,7 +144,8 @@
       "general"
     ],
     "automatic_training": false,
-    "publication_permission_is_training_permission": false
+    "publication_permission_is_training_permission": false,
+    "evidence_library": "kb/editorial-model/book-lessons.json"
   },
   "quality_policy": {
     "reviews": [
@@ -117,6 +156,7 @@
     "review_is_publication_authority": false,
     "source_change": "invalidate dependent artifacts transitively",
     "separate_target_languages": true,
-    "automatic_quality_certification": false
+    "automatic_quality_certification": false,
+    "book_release_requires": "Book production plan with source inventory, audience/languages, rights/credits, per-language review and per-output evidence."
   }
 }

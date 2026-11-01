@@ -84,6 +84,30 @@
       "input_scenario": "A correction for one poem overwrites every author’s style.",
       "expected_behavior": "Store and retrieve the correction only within its justified scope.",
       "result": "not_run"
+    },
+    {
+      "id": "book-author-scope",
+      "input_scenario": "A collection has many poems by one author.",
+      "expected_behavior": "Allow repeated authors; magazine quotas and rotation do not apply.",
+      "result": "not_run"
+    },
+    {
+      "id": "book-bilingual-voice",
+      "input_scenario": "An Odia poem has a literal but awkward English translation.",
+      "expected_behavior": "Review each language against the original, aloud for rhythm and age suitability; obtain human review.",
+      "result": "not_run"
+    },
+    {
+      "id": "book-output-correction",
+      "input_scenario": "An animal anatomy correction reaches the web but the PDF retains the rejected image.",
+      "expected_behavior": "Block release until each requested format contains the approved version and has its own QA.",
+      "result": "not_run"
+    },
+    {
+      "id": "book-facsimile",
+      "input_scenario": "An unchanged source scan contains a faded word.",
+      "expected_behavior": "Preserve it with an honest preservation review; do not claim a final transcription.",
+      "result": "not_run"
     }
   ]
 }

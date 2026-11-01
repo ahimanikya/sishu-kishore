@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
+import {newBookPlan, validateBookPlan} from './book-production.mjs';
 import {validateAuthorSelection} from './author-selection.mjs';
 
 const repo = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
@@ -26,7 +27,7 @@ export function newProject(kind, id) {
     creative_editor: model.authority.creative_editor,
     required_artifacts: [], artifacts: [], authorization: null,
     stages: model.workflows[kind].map(id => ({id, state: 'pending', evidence: ''})),
-    ...(kind === 'magazine' ? {author_selection: null} : {}),
+    ...(kind === 'magazine' ? {author_selection: null} : {book_plan: newBookPlan()}),
     delivery: null,
   };
 }
@@ -133,6 +134,13 @@ export function validateProject(record, {release = false, readArtifact} = {}) {
       }
     }
   }
+  if (record.kind === 'book') {
+    const report = validateBookPlan(record.book_plan ?? newBookPlan(), {
+      release, visibility: record.visibility,
+      requiredSectionIds: [...selected].filter(id => items.get(id)?.kind === 'book-text'),
+    });
+    errors.push(...report.errors); warnings.push(...report.warnings);
+  }
   if (release) {
     const kinds = [...selected].map(id => items.get(id)?.kind);
     const baseline = record.kind === 'magazine' ? ['source','author','article','illustration','contents','cover','layout'] : ['source','author','book-text','contents','cover','layout'];
@@ -153,6 +161,33 @@ export function validateProject(record, {release = false, readArtifact} = {}) {
   return {errors: [...new Set(errors)], warnings: [...new Set(warnings)], stale: [...stale]};
 }
 
+export function migrateProject(record) {
+  if (!object(record) || record.model_version !== '0.1.0' || !Object.hasOwn(model.workflows, record.kind ?? '') || !positive(record.candidate_revision)) throw Error('Migration requires a valid version 0.1.0 book or magazine record.');
+  const result = structuredClone(record);
+  result.model_version = model.version;
+  result.candidate_revision++;
+  result.authorization = null;
+  result.delivery = null;
+  result.stages = model.workflows[result.kind].map(id => {
+    const previous = (Array.isArray(record.stages) ? record.stages : []).find(stage => stage?.id === id);
+    return id !== 'publish_and_verify' && previous ? structuredClone(previous) : {id, state:'pending', evidence:''};
+  });
+  if (result.kind === 'book') result.book_plan ??= newBookPlan();
+  result.migration = {from_version:record.model_version, from_revision:record.candidate_revision, requires_fresh_authorization:true};
+  return result;
+}
+
+export function migratePrivateRecord(root, file) {
+  if (!text(file) || path.isAbsolute(file)) throw Error('Use a private workspace-relative record path.');
+  const base = fs.realpathSync(path.join(root, 'editorial-private'));
+  const source = fs.realpathSync(path.resolve(root, file));
+  if (!source.startsWith(base + path.sep)) throw Error('Migration is restricted to editorial-private records.');
+  const result = migrateProject(JSON.parse(fs.readFileSync(source, 'utf8')));
+  const target = source.replace(/\.json$/, '') + `.v${model.version}.json`;
+  fs.writeFileSync(target, JSON.stringify(result, null, 2) + '\n', {flag:'wx'});
+  return target;
+}
+
 export function readWorkspaceArtifact(root, file) {
   if (!text(file) || path.isAbsolute(file)) throw Error('Artifact path must be relative.');
   const base = fs.realpathSync(root), target = fs.realpathSync(path.resolve(base, file));
@@ -168,6 +203,8 @@ function main(args) {
     const file = path.join(dir, `${record.id}.json`);
     fs.writeFileSync(file, JSON.stringify(record, null, 2) + '\n', {flag: 'wx'});
     console.log(`Created private draft: ${path.relative(repo, file)}`);
+  } else if (command === 'migrate') {
+    console.log(`Created new private record: ${path.relative(repo, migratePrivateRecord(repo, first))}`);
   } else if (command === 'candidate-hash') {
     console.log(candidateFingerprint(JSON.parse(fs.readFileSync(path.resolve(repo, first), 'utf8'))));
   } else if (command === 'hash') {
@@ -178,7 +215,7 @@ function main(args) {
     console.log(JSON.stringify(report, null, 2));
     console.log(report.errors.length ? 'CHECK FAILED' : 'Structure checked. This does not certify content or grant publication approval.');
     process.exitCode = report.errors.length ? 1 : 0;
-  } else throw Error('Usage: model.mjs init <magazine|book> <id> | hash <relative-file> | candidate-hash <record.json> | check <record.json> [--release]');
+  } else throw Error('Usage: model.mjs init <magazine|book> <id> | migrate <private-record.json> | hash <relative-file> | candidate-hash <record.json> | check <record.json> [--release]');
 }
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   try {main(process.argv.slice(2));} catch (error) {console.error(error.message); process.exitCode = 1;}

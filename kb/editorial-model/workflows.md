@@ -43,3 +43,7 @@ Compare source and target, then read the target for naturalness. Review pronouns
 **Poetic Natural:** begin with the poem’s emotional center and visual subtext. Consider direct, indirect and symbolic directions; choose the one that gives the poem room. Avoid collecting its nouns into one scene. Preserve mood and mystery while checking believable bodies, materials, space and interactions. Natural does not mean grainy, dark, rustic or uniformly nostalgic.
 
 For both, check story correspondence, anatomy and limb attachment, gaze/grip/support, setting, costume, tools, scale, cultural context, composition and neighbouring-image repetition. Fantasy or mythological anatomy follows the actual character, not a universal four-limb rule. Contact sheets support triage; they are not full-size approval of every image. Record keep/revise/replace reasons, exact asset version and actual review depth.
+
+## Book language and output gates (0.2.0)
+
+Use [book-production.md](book-production.md) for the book lane. Audience, preserved sources and credits precede section production. Each language has source-fidelity, natural-language and typography review; each requested format has independent QA. The book plan covers exactly the selected book-text artifacts. Books never inherit magazine author quotas or rotation. Migration adds new pending stages and requires fresh candidate authorization.
