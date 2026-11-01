@@ -1,7 +1,7 @@
 {
   "id": "author-selection-rules-2026-11-01",
   "unit_type": "bounded_maintenance",
-  "status": "ready",
+  "status": "completed",
   "authorization": "Can we make that a rule, rotation and no two article from same author in the same edition?; Keep ଝାଇଁକି ଝମ୍ପର; move ଜହ୍ନମାମୁ to December; Strict gap: hold their deferred poems for January",
   "coordinator": "Disha",
   "input_head": "5cdd1061387fec4b930b6aa87540e55a55e86aaf",
@@ -163,6 +163,17 @@
       "Recheck January against final December contents before release."
     ]
   },
-  "delivery": null,
-  "next_action": "Publish exact reviewed candidate and verify live."
+  "delivery": {
+    "mode": "published",
+    "url": "https://shishukishora.com/review/2027-01/",
+    "evidence": [
+      "Deployment 41292344252 succeeded for c73c49970e61f5e660a65a3a961cef4c5537a098.",
+      "Live November: 24 cards and 24 canonical author profiles; Jahnmamu absent.",
+      "Live December: Prafulla poem only; January: three deferred poems.",
+      "73 tests/build and separate review passed, including approved-feed duplicate and rotation rejection."
+    ],
+    "screenshot": "/tmp/sishu-january-rotation-draft-live.png"
+  },
+  "next_action": "Apply strict canonical-author selection checks to future issues; recheck January against final December contents.",
+  "coordinator_reservations_released": true
 }
