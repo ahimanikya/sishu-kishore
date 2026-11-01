@@ -12,7 +12,8 @@ test('every published issue has the same cover, reading entry and complete conte
   assert.ok(html.includes('class="mag-cover-date">'+issue.title),route);
   assert.ok(html.includes('/issue-layout.css'),route);
   assert.equal((html.match(/class="ia-article-card"/g)||[]).length,issue.items.length,route);
-  for(const item of issue.items)assert.ok(html.includes('href="'+item.href+'"'),item.href);
+  const links=[...html.matchAll(/href="([^"]+)"/g)].map(m=>new URL(m[1].replaceAll('&amp;','&'),'https://shishukishora.com'));
+  for(const item of issue.items)assert.ok(links.some(url=>url.pathname===item.href && (!url.searchParams.has('issue') || url.searchParams.get('issue')===route)),item.href);
  }
  const archive=fs.readFileSync('public/old_issues.html','utf8');
  assert.equal((archive.match(/class="storybook-cover magazine-cover"/g)||[]).length,Object.keys(catalog).length-1);

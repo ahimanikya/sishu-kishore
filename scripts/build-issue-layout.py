@@ -2,12 +2,15 @@
 from pathlib import Path
 from bs4 import BeautifulSoup
 import copy,json
+from urllib.parse import urlsplit
 P=Path('public')
 catalog=json.loads((P/'edition-reader.json').read_text())
 cover_palettes=json.loads(Path('scripts/cover-palettes.json').read_text())
 def parse(p):return BeautifulSoup(p.read_text(),'html.parser')
 def save(p,s):p.write_text(str(s))
-def page(route):return P/(route.lstrip('/')+('index.html' if route.endswith('/') else ''))
+def page(route):
+ route=urlsplit(route).path
+ return P/(route.lstrip('/')+('index.html' if route.endswith('/') else ''))
 current_route=parse(P/'current_issue.html').body['data-reading-issue']
 def cover(s,image,title):
  f=s.new_tag('figure');f['class']=['storybook-cover','magazine-cover']
@@ -42,8 +45,8 @@ for route,edition in catalog.items():
    a=card.select_one('a[href]');href=a['href'];byline=card.select_one('small')
    if byline:
     byline.extract();byline['class']=byline.get('class') or ['mag-card-byline']
-    if not byline.select_one('a') and profiles.get(href):
-     credit=s.new_tag('a',href=profiles[href]);credit.extend(list(byline.contents));byline.append(credit)
+    if not byline.select_one('a') and profiles.get(urlsplit(href).path):
+     credit=s.new_tag('a',href=profiles[urlsplit(href).path]);credit.extend(list(byline.contents));byline.append(credit)
     card.append(byline)
    oldread=card.select_one('.ia-card-read')
    if oldread:oldread.decompose()

@@ -1,0 +1,122 @@
+{
+  "id": "december-draft-navigation-2026-11-01",
+  "unit_type": "bounded_maintenance",
+  "status": "ready",
+  "authorization": "Keep it on the site, but keep in the December draft; fix the issue found and publish.",
+  "coordinator": "Disha",
+  "input_head": "ac4bc3784ab5211e7f33e948b94dbd9e46ecd583",
+  "task": "Unlisted December draft and correct selected issue context for shared older poem.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/navigation_audit",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Confirmed legitimate August/October memberships and exact reading neighbors.",
+        "evidence": [
+          "Canonical shared page defaulted October for both entry contexts."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/december_draft",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/review/2026-12/index.html",
+        "public/review/2026-12/shita-ra-parashe.html",
+        "tests/december-draft.test.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Created Odia unlisted December draft, preserved poem block, no public listings.",
+        "evidence": [
+          "Focused test passed."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/december_navigation_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Exact candidate reviewed: unlisted draft and selected-issue navigation passed.",
+        "evidence": [
+          "Original literary text unchanged; 63 tests/build passed.",
+          "No public draft listings; valid contexts only."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "PROJECT.txt",
+    "kb/team/handoffs/december-draft-navigation-2026-11-01.json",
+    "kb/team/operations.json",
+    "package.json",
+    "public/article_details-1e47d6bd18.html",
+    "public/article_details-2885fd48a5.html",
+    "public/article_details-4c50116a63.html",
+    "public/article_details-712f26dcf1.html",
+    "public/article_details-90e919ace4.html",
+    "public/article_details-ae16d991ef.html",
+    "public/article_details-bcf837670b.html",
+    "public/article_details-ce8bb35b7f.html",
+    "public/article_details-d7fea22462.html",
+    "public/article_details-fe1f30ea01.html",
+    "public/old_issues_details-4de6385d8a.html",
+    "public/old_issues_details-8a077c1fec.html",
+    "public/review/2026-12/index.html",
+    "public/review/2026-12/shita-ra-parashe.html",
+    "public/shared-article-context.js",
+    "scripts/build-issue-layout.py",
+    "scripts/build-shared-article-context.py",
+    "tests/december-draft.test.mjs",
+    "tests/issue-layout.test.mjs",
+    "tests/shared-article-context.test.mjs"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/december_navigation_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass",
+    "candidate_files": {
+      "PROJECT.txt": "8f27065cd3746c384a54d909f50aa3a4cf5a3fcadb1cee0003d1f19cdfade3ff",
+      "package.json": "21d3850875975154c575dab61ee73e348b5586ba7f75ca44b0c4cdcdf7e00a23",
+      "public/article_details-1e47d6bd18.html": "e56d49f3f4468c9a0285dddfb9ab480de3c377983d8cbaca7ac2b7738f14e2fb",
+      "public/article_details-2885fd48a5.html": "9cfef0ad52845ad9ce293d59599b33503fb165b6881311ec21a669e19b07431c",
+      "public/article_details-4c50116a63.html": "6b09b98aeb5f03c08451907f114423d67f1c809404596eaaea1b4e6815fd81a6",
+      "public/article_details-712f26dcf1.html": "d22cc01d88a08fc1383585f3063e9a38ebfc10d2b5dd854d30ac07072b829f9d",
+      "public/article_details-90e919ace4.html": "7786c18bbaa8977ad4822c2a1310a3c12e21d2b136ab7210748729ac62843623",
+      "public/article_details-ae16d991ef.html": "a14ddc63aff13c12e6e7b4602bfd0ead170fcb0389c8c66e080d14c03953a080",
+      "public/article_details-bcf837670b.html": "902509eb12ddde0be66c74e6b21485b5813b2d36dc5538310ce61f6ed0a8b618",
+      "public/article_details-ce8bb35b7f.html": "e99b40ecf8fec2daa2a503389e71f7744dc6320a830512986ed93915475c3bde",
+      "public/article_details-d7fea22462.html": "f4342c7eaf90584cfcbf7a94e497e970d8f11b6bf0914b6819cf30b1af4ae800",
+      "public/article_details-fe1f30ea01.html": "04b64f40f040f0c9661237bec2ae7e35ddd793c67da8f02b23b93e9398bc14a6",
+      "public/old_issues_details-4de6385d8a.html": "506166e221ea52cd3c8ba47bc136499ee164f359231887696d08b7b6a3f3b0ad",
+      "public/old_issues_details-8a077c1fec.html": "d5b9de785f5a8604222de6a9ace6ea68d6dbf7f2c15c4c44b84c887e71cd5f3f",
+      "public/review/2026-12/index.html": "ddc301e2ed33cd5a6c42f07ea35c4199adaea0a9049f1fc3f2149ffaa3a73d87",
+      "public/review/2026-12/shita-ra-parashe.html": "3e7bef19f5ac588a1c7074572faf6b3f632c83242f48afc9ed1b1b07a41fb345",
+      "public/shared-article-context.js": "99791d9c2f6f3ce3f6587c59f5b4daae564e10fd8d83776eeeb7434a7bcfeab2",
+      "scripts/build-issue-layout.py": "2de47ac824a21e221845d5487b9c103d33d03a49094bb04f3dafa67a2ac13068",
+      "scripts/build-shared-article-context.py": "542e63421a81eba9de7ad4567efd90f23fbad0b362b4e5ffaabcc36b812a6f9b",
+      "tests/december-draft.test.mjs": "0454d8d0c8f2552e45b957516fa1ac48159aae2e5ce69c5c9788c6b13aa67813",
+      "tests/issue-layout.test.mjs": "7b645ae0701727e4ca8f6a91534d6c3559aba64880917df8c86e8d19f1d7d948",
+      "tests/shared-article-context.test.mjs": "908dafc4e5ae819f8448bf10642ba5603248531f4283edb737d46eb4abf2d822"
+    },
+    "evidence": [
+      "Reviewed 22 files; browser confirms August/October reader context and draft mobile layout."
+    ],
+    "limitations": [
+      "Without JavaScript the shared article retains its existing October default."
+    ]
+  },
+  "delivery": null,
+  "next_action": "Publish and verify live."
+}
