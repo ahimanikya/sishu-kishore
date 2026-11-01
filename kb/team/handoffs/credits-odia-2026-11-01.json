@@ -1,7 +1,7 @@
 {
   "id": "credits-odia-2026-11-01",
   "unit_type": "translation_section",
-  "status": "ready",
+  "status": "completed",
   "authorization": "Keep the text in Odia - since the whole site is Odia",
   "coordinator": "Disha",
   "input_head": "6925c321e26b34aebe07c9e8aad32e56dd03d70f",
@@ -66,8 +66,17 @@
       "AI language review, not human native-speaker certification."
     ]
   },
-  "delivery": null,
-  "next_action": "Publish and verify live Odia credits.",
+  "delivery": {
+    "mode": "published",
+    "evidence": [
+      "Publish magazine run 41267841917 succeeded for 85cb4954940542baf8c5898673675371e43dacff.",
+      "Live browser verified Odia language, zero English prose and zero English-language elements in main content.",
+      "59 tests/build passed; separate AI language review and 390px mobile checks completed."
+    ],
+    "url": "https://shishukishora.com/credits/",
+    "screenshot": "/tmp/sishu-odia-credits-live.png"
+  },
+  "next_action": "No pending work for this translation.",
   "candidate_files": {
     "public/credits/index.html": "5519166d7a9592e3a81bcccee86f716cbe79f257a36d165c22677af9e0af4b56"
   },
@@ -90,5 +99,6 @@
     "tests": 59,
     "build": "pass",
     "mobile": "390px viewport with no horizontal overflow; Odia headings and Baloo Bhaina 2 rendering checked."
-  }
+  },
+  "coordinator_reservations_released": true
 }
