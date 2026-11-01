@@ -4,6 +4,6 @@
   "reference": "User-supplied Kabita Live poster; layout reference only.",
   "logo": "public/media/sishu-kishore-horizontal-logo-v1.png",
   "output": "public/media/sishu-colour-story-infographic-v1.png",
-  "status": "local review image; not published or embedded",
+  "status": "Embedded locally in /our-brand/; not published",
   "notes": "Four-colour narrative artwork, not an exact hexadecimal swatch specification. Original prompt preserved."
 }

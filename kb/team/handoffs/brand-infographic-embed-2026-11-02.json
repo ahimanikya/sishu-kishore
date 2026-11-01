@@ -1,0 +1,44 @@
+{
+  "id": "brand-infographic-embed-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Add this infographic to about page.",
+  "coordinator": "Disha",
+  "input_head": "5159aadd5e1d23e3451321e9fa2f564872eea074",
+  "task": "Embed colour-story infographic in unified identity page.",
+  "workers": [],
+  "coordinator_files": [
+    "provenance/brand-infographic-v1.json",
+    "public/colour-story.css",
+    "public/our-brand/index.html",
+    "kb/team/handoffs/brand-infographic-embed-2026-11-02.json",
+    "kb/team/operations.json"
+  ],
+  "coordinator_reservations_released": true,
+  "review": {
+    "kind": "self_review",
+    "reviewer": "Disha",
+    "runtime": "/root",
+    "exception_reason": "trivial_change",
+    "limitation": "Small image insertion; no separate review claimed.",
+    "outcome": "pass",
+    "candidate_files": {
+      "provenance/brand-infographic-v1.json": "3179a6e813258d5cf1bca9544bca8a05c92382c5a252dfc4c46d13e6502c6c4b",
+      "public/colour-story.css": "f09c03aab87d1930c8478b970f9c095f138363240ac5f65790bfc7f7b9aafdee",
+      "public/our-brand/index.html": "b4ed77067eba5277fb6b6cd656b62edf55577db3c6c8e41c478d16a090912e5e"
+    },
+    "evidence": [
+      "110 tests passed; npm run build and npm run check passed.",
+      "390px and 1280px browser checks: loaded image, original ratio, single insertion, no horizontal overflow.",
+      "Mobile and desktop screenshots visually inspected.",
+      "Unrelated generated page churn reverted."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Odia alternative text, full-size link, intrinsic dimensions and responsive sizing."
+    ]
+  },
+  "next_action": "Ready locally; publication not requested."
+}

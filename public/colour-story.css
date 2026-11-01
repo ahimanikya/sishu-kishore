@@ -31,3 +31,9 @@
 .brand-editorial li{margin-bottom:16px}
 .brand-editorial summary{cursor:pointer;text-decoration:underline;text-underline-offset:5px}
 @media(forced-colors:active){.brand-jumps,.brand-editorial{border-color:CanvasText}.brand-jumps a{color:LinkText}}
+
+.brand-infographic{max-width:780px;margin:24px auto 36px}
+.brand-infographic>a{display:block}
+.brand-infographic img{display:block;width:100%;height:auto;aspect-ratio:1122/1402;object-fit:contain}
+.brand-infographic figcaption{margin-top:12px;font-size:17px;line-height:1.7}
+.brand-infographic figcaption a{display:inline-flex;align-items:center;min-height:48px;color:var(--kid-blue);text-decoration:underline;text-underline-offset:4px}
