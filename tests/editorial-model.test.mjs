@@ -1,0 +1,76 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {newProject, validateProject, fingerprint, candidateFingerprint} from '../scripts/editorial/model.mjs';
+const bytes = Buffer.from('Synthetic test text, not a manuscript.');
+const options = {readArtifact: () => bytes};
+function artifact(id, kind, depends = []) {
+  return {id, kind, revision: 1, file: `test/${id}.txt`, sha256: fingerprint(bytes), state: 'ready',
+    depends_on: depends.map(id => ({id, revision: 1})), open_findings: [],
+    reviews: [{reviewer: 'test fixture', kind: 'self_review', revision: 1, outcome: 'pass', dimensions: ['source_fidelity'], evidence: 'Synthetic fixture review'}]};
+}
+function candidate() {
+  const r = newProject('magazine', 'fixture');
+  r.artifacts = [artifact('source','source'), artifact('writer','author'), artifact('story','article',['source','writer']),
+    artifact('art','illustration',['story']), artifact('contents','contents',['story']), artifact('cover','cover',['contents']),
+    artifact('layout','layout',['contents','art','cover'])];
+  r.required_artifacts = ['layout']; r.visibility = 'unlisted'; r.destination = '/review/fixture/';
+  r.stages.forEach(s => {s.state = 'done'; s.evidence = 'Synthetic fixture only';});
+  r.authorization = {human:r.creative_editor, instruction:'Synthetic authorization, not a real approval', candidate_revision:1, visibility:r.visibility, destination:r.destination, candidate_sha256:candidateFingerprint(r)};
+  return r;
+}
+test('empty draft is usable but cannot pass release; unsafe identifiers rejected', () => {
+  const r = newProject('book', 'fixture');
+  assert.equal(validateProject(r).errors.length, 0);
+  assert.ok(validateProject(r, {release:true}).errors.length);
+  assert.throws(() => newProject('magazine','../../public/test'));
+});
+test('complete synthetic candidate passes structural pre-release check', () => {
+  assert.deepEqual(validateProject(candidate(), {...options, release:true}).errors, []);
+});
+test('changed source revision invalidates images and layout transitively', () => {
+  const r = candidate(); r.artifacts[0].revision = 2;
+  const report = validateProject(r, options);
+  assert.ok(report.stale.includes('story')); assert.ok(report.stale.includes('art')); assert.ok(report.stale.includes('layout'));
+});
+test('changed bytes invalidate the source even when revision was not bumped', () => {
+  const r = candidate();
+  const result = validateProject(r, {readArtifact: file => file === 'test/source.txt' ? Buffer.from('changed') : bytes});
+  assert.ok(result.stale.includes('layout'));
+});
+test('review of an older revision and open findings block release', () => {
+  const r = candidate(); r.artifacts[2].reviews[0].revision = 9; r.artifacts[3].open_findings.push('Wrong scene');
+  const result = validateProject(r, {...options,release:true});
+  assert.ok(result.errors.some(e=>e.includes('passing review'))); assert.ok(result.errors.some(e=>e.includes('unresolved')));
+});
+test('wrong visibility, destination or candidate authorization cannot pass', () => {
+  for (const [key,value] of [['visibility','public'],['destination','/another/'],['candidate_revision',2]]) {
+    const r = candidate(); r.authorization[key] = value;
+    assert.ok(validateProject(r,{...options,release:true}).errors.some(e=>e.includes('authorization')));
+  }
+});
+test('cycles and dangling author links are rejected', () => {
+  const r = candidate(); r.artifacts[0].depends_on = [{id:'layout',revision:1}];
+  assert.ok(validateProject(r,options).errors.some(e=>e.includes('cycle')));
+  r.artifacts[0].depends_on = []; r.artifacts.splice(1,1);
+  assert.ok(validateProject(r,options).errors.some(e=>e.includes('missing dependency writer')));
+});
+test('a translation cannot rely solely on a bridge translation', () => {
+  const r = candidate(); r.artifacts.push(artifact('english','translation',['story']),artifact('hindi','translation',['english']));
+  r.required_artifacts.push('hindi');
+  assert.ok(validateProject(r,{...options,release:true}).errors.some(e=>e.includes('directly on original')));
+});
+test('release requires actual file verification and forbids private or retired destinations', () => {
+  assert.ok(validateProject(candidate(),{release:true}).errors.some(e=>e.includes('actual file')));
+  const r=candidate();r.visibility='private';r.destination='/shishu/review/';
+  assert.ok(validateProject(r,{...options,release:true}).errors.some(e=>e.includes('Private')));
+  assert.ok(validateProject(r,{...options,release:true}).errors.some(e=>e.includes('Retired')));
+});
+
+test('changing an accepted candidate without changing its revision invalidates authorization', () => {
+  const r=candidate();r.artifacts[2].metadata={title:'Changed title'};
+  assert.ok(validateProject(r,{...options,release:true}).errors.some(e=>e.includes('authorization')));
+});
+test('malformed top-level arrays produce errors rather than throwing', () => {
+  const r=candidate();r.artifacts={};r.required_artifacts=null;
+  assert.ok(validateProject(r,options).errors.length);
+});

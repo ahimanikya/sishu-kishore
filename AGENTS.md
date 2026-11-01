@@ -31,3 +31,7 @@ Artwork disclosure (1 November 2026): Keep the AI artwork disclosure and Ahimani
 ## AI team structure
 
 Read `kb/team/roles.md` for the Project Odisha Blueprint team structure adapted to Sishu Kishore. Disha coordinates; Samanta handles design and engineering; Anvesha handles research and archives; Drishti handles quality review. Ahimanikya Satapathy is Creative Editor, at the same organizational level as the other human editors. All AI agents report directly to him; Disha coordinates tasks without a managerial reporting line over other agents. Follow task-scoped assignments and explicit file reservations; record actual execution and distinguish self-review from separate-agent review. Preserve existing human editorial roles and publication boundaries. Adoption creates no autonomous schedule or additional access.
+
+## Children’s editorial model
+
+For magazine or book production, author-profile research, illustration, covers, editorials and literary translation, start with `kb/editorial-model/README.md` and follow its workflow and quality records. Version 0.1.0 is an operational domain model, not trained model weights. Keep real work records in ignored `editorial-private/editorial-model/`; use `scripts/editorial/model.mjs` to initialize and check them. Follow current user authorization and project-specific rules; the checker does not grant release permission or replace literary/human review. Preserve the homepage’s complete randomized current-article list and the edition/book’s intentional reading order.

@@ -1,0 +1,89 @@
+{
+  "status": "scenario bank; not executed quality results",
+  "cases": [
+    {
+      "id": "complete-source",
+      "input_scenario": "A poem has a final stanza absent from an extracted preview.",
+      "expected_behavior": "Use the complete original; preserve the stanza and emotional turn.",
+      "result": "not_run"
+    },
+    {
+      "id": "author-collision",
+      "input_scenario": "Two writers share a similar name.",
+      "expected_behavior": "Keep separate candidates until identity evidence supports a match.",
+      "result": "not_run"
+    },
+    {
+      "id": "new-author",
+      "input_scenario": "A supplied contributor has no central profile.",
+      "expected_behavior": "Create a provisional identity, research claims and link only the verified profile.",
+      "result": "not_run"
+    },
+    {
+      "id": "animal-anatomy",
+      "input_scenario": "An elephant illustration has a disconnected or missing limb.",
+      "expected_behavior": "Inspect full resolution and revise anatomy without replacing the story scene.",
+      "result": "not_run"
+    },
+    {
+      "id": "story-mismatch",
+      "input_scenario": "A Similipal forest celebration is depicted as a snowy human picnic.",
+      "expected_behavior": "Base the visual brief on the actual story and supported Odisha setting.",
+      "result": "not_run"
+    },
+    {
+      "id": "poetic-image",
+      "input_scenario": "A poem about absence is illustrated by assembling all its nouns.",
+      "expected_behavior": "Consider a lived or indirect moment preserving the emotional anchor.",
+      "result": "not_run"
+    },
+    {
+      "id": "translation-voice",
+      "input_scenario": "A restrained poem becomes sentimental explanatory prose.",
+      "expected_behavior": "Preserve voice, silence and final turn; remove added explanation.",
+      "result": "not_run"
+    },
+    {
+      "id": "source-change",
+      "input_scenario": "The approved original changes after translation review.",
+      "expected_behavior": "Flag translations and other downstream artifacts as stale.",
+      "result": "not_run"
+    },
+    {
+      "id": "cover-legibility",
+      "input_scenario": "A broad text mask hides the cover artwork.",
+      "expected_behavior": "Use readable complementary lettering and local softening.",
+      "result": "not_run"
+    },
+    {
+      "id": "homepage-order",
+      "input_scenario": "Randomization leaks into edition contents or omits articles.",
+      "expected_behavior": "Randomize all current homepage articles only; preserve editorial sequence.",
+      "result": "not_run"
+    },
+    {
+      "id": "editorial-authorship",
+      "input_scenario": "An editorial draft invents the editor’s childhood memory.",
+      "expected_behavior": "Remove invented testimony and keep the intended editor’s approval explicit.",
+      "result": "not_run"
+    },
+    {
+      "id": "book-ocr",
+      "input_scenario": "High-confidence OCR drops a line or changes panel order.",
+      "expected_behavior": "Compare with original pages; do not equate confidence with approval.",
+      "result": "not_run"
+    },
+    {
+      "id": "visibility",
+      "input_scenario": "An unlisted book appears in a public catalogue.",
+      "expected_behavior": "Preserve direct access boundaries and exclude public discovery.",
+      "result": "not_run"
+    },
+    {
+      "id": "scope-of-learning",
+      "input_scenario": "A correction for one poem overwrites every author’s style.",
+      "expected_behavior": "Store and retrieve the correction only within its justified scope.",
+      "result": "not_run"
+    }
+  ]
+}

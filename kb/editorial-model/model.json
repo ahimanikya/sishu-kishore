@@ -1,0 +1,113 @@
+{
+  "name": "Children’s Magazine and Book Editorial Model",
+  "version": "0.1.0",
+  "kind": "domain-specific editorial workflow and knowledge model",
+  "trained_weights": false,
+  "authority": {
+    "creative_editor": "Ahimanikya Satapathy",
+    "human_editors": "peers",
+    "all_ai_agents_report_to": "Ahimanikya Satapathy",
+    "coordinator": "Disha Dash",
+    "coordination_is_management": false
+  },
+  "artifact_kinds": [
+    "source",
+    "author",
+    "article",
+    "translation",
+    "illustration",
+    "cover",
+    "editorial",
+    "contents",
+    "layout",
+    "book-text",
+    "release"
+  ],
+  "publication_modes": [
+    "private",
+    "unlisted",
+    "public"
+  ],
+  "review_dimensions": [
+    "source_fidelity",
+    "author_identity",
+    "translation_meaning",
+    "translation_voice",
+    "cultural_context",
+    "story_image_match",
+    "anatomy",
+    "composition",
+    "typography",
+    "navigation",
+    "access_boundaries"
+  ],
+  "workflows": {
+    "magazine": [
+      "intake",
+      "read_complete_contributions",
+      "resolve_authors",
+      "prepare_articles",
+      "create_article_illustrations",
+      "assemble_contents",
+      "develop_cover",
+      "draft_editorial",
+      "translate_if_requested",
+      "review_edition",
+      "authorize_destination",
+      "publish_and_verify"
+    ],
+    "book": [
+      "intake",
+      "inventory_source_pages",
+      "resolve_authors_and_rights",
+      "transcribe_and_compare",
+      "preserve_structure",
+      "illustrate_if_requested",
+      "translate_if_requested",
+      "design_cover_and_front_matter",
+      "typeset_and_check_readers",
+      "review_book",
+      "authorize_destination",
+      "publish_and_verify"
+    ]
+  },
+  "profiles": {
+    "sishu-kishore": {
+      "source_language": "or",
+      "font": "Baloo Bhaina 2",
+      "story_art": "Cartoon Natural",
+      "poetry_art": "Poetic Natural within the approved illustration medium",
+      "homepage": "all current articles in randomized order, followed by other content; Back/Forward restores position",
+      "edition_and_book_order": "intentional editorial sequence",
+      "cover": "full-height art; readable complementary lettering; softening local to words; restrained desktop tilt and flat mobile",
+      "disclosure": "/credits/",
+      "retired_route_prefixes": [
+        "/shishu/",
+        "/sishu/"
+      ]
+    }
+  },
+  "learning_policy": {
+    "unit": "contextual correction with before, after, reason, scope and approval evidence",
+    "scopes": [
+      "passage",
+      "author",
+      "publication",
+      "language_pair",
+      "general"
+    ],
+    "automatic_training": false,
+    "publication_permission_is_training_permission": false
+  },
+  "quality_policy": {
+    "reviews": [
+      "self_review",
+      "separate_ai_review",
+      "human_review"
+    ],
+    "review_is_publication_authority": false,
+    "source_change": "invalidate dependent artifacts transitively",
+    "separate_target_languages": true,
+    "automatic_quality_certification": false
+  }
+}

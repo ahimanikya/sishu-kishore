@@ -1,0 +1,126 @@
+{
+  "author_research": {
+    "author_id": "",
+    "supplied_name": "",
+    "identity_status": "unresolved",
+    "existing_profile_candidates": [],
+    "profile_route": "",
+    "claims": [],
+    "portrait": {
+      "path": "",
+      "identity_evidence": [],
+      "reuse_evidence": []
+    },
+    "claims_example": {
+      "claim": "",
+      "source": "",
+      "locator": "",
+      "inspected_on": "",
+      "status": "unverified",
+      "conflicts": []
+    }
+  },
+  "visual_brief": {
+    "article_id": "",
+    "source_revision": 1,
+    "complete_text_read": false,
+    "mode": "Cartoon Natural",
+    "emotional_center": "",
+    "scene": "",
+    "cultural_anchors": [],
+    "must_preserve": [],
+    "avoid": [],
+    "references": [],
+    "prompt": "",
+    "asset_version": "",
+    "review_depth": "not_reviewed"
+  },
+  "edition_brief": {
+    "contents_revision": 1,
+    "contributions_read": [],
+    "themes": [],
+    "audience": "",
+    "cover_concept": "",
+    "editorial_angle": "",
+    "intended_editor": "",
+    "editorial_approval_evidence": ""
+  },
+  "book_inventory": {
+    "edition": "",
+    "source_pages": [],
+    "chapters": [],
+    "front_matter": [],
+    "back_matter": [],
+    "uncertain_readings": [],
+    "outputs_requested": [],
+    "rights_evidence": []
+  },
+  "correction": {
+    "id": "",
+    "artifact_id": "",
+    "source_revision": 1,
+    "before": "",
+    "accepted_after": "",
+    "reason": "",
+    "scope": "passage",
+    "applies_when": "",
+    "does_not_apply_when": "",
+    "approved_by": "",
+    "approval_evidence": "",
+    "supersedes": []
+  },
+  "artifact": {
+    "id": "",
+    "kind": "article",
+    "revision": 1,
+    "file": "",
+    "sha256": "",
+    "state": "draft",
+    "depends_on": [],
+    "metadata": {},
+    "reviews": [],
+    "open_findings": []
+  },
+  "review": {
+    "reviewer": "",
+    "kind": "self_review",
+    "revision": 1,
+    "outcome": "not_tested",
+    "dimensions": [],
+    "evidence": ""
+  },
+  "authorization": {
+    "human": "",
+    "instruction": "",
+    "candidate_revision": 1,
+    "visibility": "private",
+    "destination": "",
+    "candidate_sha256": ""
+  },
+  "translation_brief": {
+    "original_artifact_id": "",
+    "original_revision": 1,
+    "source_language": "or",
+    "target_language": "",
+    "mode": "Poetic Natural",
+    "audience": "",
+    "speaker_and_addressee": "",
+    "emotional_turn": "",
+    "cultural_anchors": [],
+    "contextual_glossary": [],
+    "ambiguities": [],
+    "bridge_language_used": null,
+    "meaning_review": "not_reviewed",
+    "voice_review": "not_reviewed",
+    "human_language_review": null
+  },
+  "delivery": {
+    "candidate_revision": 1,
+    "candidate_sha256": "",
+    "destination": "",
+    "visibility": "",
+    "published_revision": "",
+    "live_checked_on": "",
+    "verification_evidence": []
+  }
+}
