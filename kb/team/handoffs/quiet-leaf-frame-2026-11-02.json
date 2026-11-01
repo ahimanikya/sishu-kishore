@@ -1,0 +1,81 @@
+{
+  "id": "quiet-leaf-frame-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "OK, let us use B. Janhamamu reference awaiting clarification.",
+  "coordinator": "Disha",
+  "input_head": "b2069b217e706d7009692e86d81731a584a6cd65",
+  "task": "Apply approved quiet-reader leaf frame while preserving reader behavior.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/quiet_leaf_implementation",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/magazine-paper.css",
+        "provenance/quiet-leaf-frame-2026-11-02.json"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "B frame implemented, content and reading geometry preserved.",
+        "evidence": [
+          "Browser checks390/1280, real night/plain/cover/final-single controls passed."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/quiet_leaf_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate review passed.",
+        "evidence": [
+          "Exact source, screenshots and test evidence reviewed."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/quiet-leaf-frame-2026-11-02.json",
+    "kb/team/operations.json"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/quiet_leaf_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "public/magazine-paper.css": "55329866978be205e9002ec805526888c16e05a0960e00f4842b71b4a186cdc5",
+      "provenance/quiet-leaf-frame-2026-11-02.json": "3b6a1ab0dc5eef7dd52b655afca1eeaef402e97998b89eb8dd2b74e0e5e85e85"
+    },
+    "findings": [],
+    "resolved_findings": [
+      "Forced-colors token fallback now explicitly matches night-mode specificity."
+    ],
+    "evidence": [
+      "Reviewed CSS diff: page padding, column gaps, reading geometry, text and controls unchanged; existing aria-hidden corner elements reused.",
+      "Reviewed cascade against edition-reader.css, story-wash.css and children-identity.css: plain-paper hides leaves; cover and final-single state overrides preserve access/reading states.",
+      "Independently inspected implementer screenshots at390/1280day,1280night and actual odd final page; text/art/controls clear and decorations outside reading columns.",
+      "Read browser scripts and outputs: exact full text/geometry/page-status equality old-vs-newCSS at390/1280; actual settings and back-cover/previous navigation exercised.",
+      "Read full build verifier output and110/110test result; no other production files modified in final git status."
+    ],
+    "limitations": [
+      "Browser interaction runs performed by implementer; reviewer independently inspected code, screenshots and evidence rather than a second browser session.",
+      "No physical-device or screen-reader audit; no new art or literary proofreading.",
+      "No publication authorized by review."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Full build and110tests passed; final npm check passed; final CSS dist refreshed.",
+      "No publication. Janhamamu design reference clarification remains pending."
+    ]
+  },
+  "next_action": "User reviews frame; clarify Janhamamu reference before further book redesign.",
+  "coordinator_reservations_released": true
+}

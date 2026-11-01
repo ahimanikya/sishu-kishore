@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-02",
+  "scope": "Approved B leaf-corner quiet-reader page frame",
+  "authorization": "User: OK, let us use B; Janhamamu design inquiry is separate and pending clarification.",
+  "files": [
+    "public/magazine-paper.css"
+  ],
+  "implementation": [
+    "Reuse existing aria-hidden corner elements for small leaf shapes; no new artwork.",
+    "Thin green page edge, restrained paper shadow, simple running-header rule and plain folios.",
+    "Preserve article tint preferences, night mode, plain paper, cover and final single-page states.",
+    "No text, controls, pagination geometry, illustration paths or Story Garden changes."
+  ],
+  "web_guidance": {
+    "id": "color",
+    "applied": "System CanvasText frame edge in forced colors; decorative leaves hidden; existing night palette retained."
+  },
+  "checks": [
+    "Real browser cover open and baseline equality of full content, page geometry, scroll width and page status at390/1280.",
+    "Real settings buttons: night and plain paper toggle; back-cover selection then previous navigates actual final spread.",
+    "Real increased text size produced odd final page109/109; transparent right half verified in night mode.",
+    "Simulated forced-colors media hides leaf decoration; simulated final-single pseudo geometry is half spread.",
+    "Visually reviewed day390/1280, night390 and actual final-page screenshot."
+  ],
+  "limitations": [
+    "No physical-device or screen-reader audit.",
+    "Full repository build/tests and independent final review are coordinator responsibilities."
+  ],
+  "publication": false,
+  "sha256": {
+    "public/magazine-paper.css": "55329866978be205e9002ec805526888c16e05a0960e00f4842b71b4a186cdc5"
+  }
+}

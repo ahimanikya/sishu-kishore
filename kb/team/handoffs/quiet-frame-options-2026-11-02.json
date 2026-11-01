@@ -1,0 +1,95 @@
+{
+  "id": "quiet-frame-options-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "User confirmed page border/frame inside quiet reading mode; prepare visual options for review.",
+  "coordinator": "Disha",
+  "input_head": "b2069b217e706d7009692e86d81731a584a6cd65",
+  "task": "Preview three frame-only treatments on identical quiet reader content, without production changes.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/quiet_frame_previews",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "editorial-private/quiet-frame-options/a-1280.png",
+        "editorial-private/quiet-frame-options/a-390.png",
+        "editorial-private/quiet-frame-options/a.css",
+        "editorial-private/quiet-frame-options/b-1280.png",
+        "editorial-private/quiet-frame-options/b-390.png",
+        "editorial-private/quiet-frame-options/b.css",
+        "editorial-private/quiet-frame-options/c-1280.png",
+        "editorial-private/quiet-frame-options/c-390.png",
+        "editorial-private/quiet-frame-options/c.css",
+        "editorial-private/quiet-frame-options/capture.cjs",
+        "editorial-private/quiet-frame-options/checks.json"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Created three frame-only preview variants at desktop and mobile sizes.",
+        "evidence": [
+          "Six same-content screenshots and capture script in ignored editorial-private/quiet-frame-options."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/quiet_frame_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Preview review passed with limitations.",
+        "evidence": [
+          "Inspected six screenshots; content and controls clear; production unchanged."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/quiet-frame-options-2026-11-02.json",
+    "kb/team/operations.json"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/quiet_frame_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "editorial-private/quiet-frame-options/a-1280.png": "b81795639f87345bce187d4c111c50296944eb0642daef81a45bda8d78a99bc8",
+      "editorial-private/quiet-frame-options/a-390.png": "876c1a98b3097b254bb29a672205a1994a1922162d3cb0c7c944ece62904fe61",
+      "editorial-private/quiet-frame-options/a.css": "51bb4c8224bf28fdbfccfe95785a8afa04a9a31fc0e6dc4aebc8b9f97768d939",
+      "editorial-private/quiet-frame-options/b-1280.png": "7523bbe002b664d2c6dcefa3472525b1129d8bdd3e10db62e63464f0ac0febf4",
+      "editorial-private/quiet-frame-options/b-390.png": "a5dff66d46779ea8471083e5f88b3af782205aa5dc33bf728d03ffc2159b6e4a",
+      "editorial-private/quiet-frame-options/b.css": "365e282ff8ede89cf820bdb4a7a281d5af6c100fe3bc12e31251dee33711f1a5",
+      "editorial-private/quiet-frame-options/c-1280.png": "f050e74702e89f9e306271ca4723e944bf6e0118d8cf8f399657b38c64d4dc6d",
+      "editorial-private/quiet-frame-options/c-390.png": "fa7c8a3eb23cc4c03fe4ee7758b88399d2fbb02bf97c090f171f36843e1b87a2",
+      "editorial-private/quiet-frame-options/c.css": "cfb15a09b687cf67f950c11ce42ca3a7bfcf10170beee4b10bba1ee92d2ef594",
+      "editorial-private/quiet-frame-options/capture.cjs": "8d200e551d2f312d63694d373d354ee86a53556c7ddd4a1564738eaa2f6105a0",
+      "editorial-private/quiet-frame-options/checks.json": "61345376bdff085a53bee46ea220ebb69004d09f73792cea42cfcebf5a8c0e97"
+    },
+    "findings": [],
+    "evidence": [
+      "Reviewed all six actual quiet reader screenshots at1280x900 and390x844.",
+      "All options retain the same visible article text, artwork and controls; frame decorations stay clear of text and page numbers.",
+      "Reviewed capture.cjs: injects CSS in browser only, opens actual current_issue quiet dialog past cover, compares full quiet-content text across variants.",
+      "Git status contains only coordinator record changes and pre-existing untracked brand; no production source changes."
+    ],
+    "limitations": [
+      "Prototype screenshot review only; no night mode, last-single-page, keyboard or browser compatibility testing.",
+      "CSS prototype changes shared decorative print-header/folio treatment as well as outer borders; no literary layout change.",
+      "C is a generic terracotta/gold geometric edge, not a validated traditional Odisha motif.",
+      "No production implementation or publication approved."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Preview screenshots only; no production change or deployment."
+    ]
+  },
+  "next_action": "User chooses a quiet-reader frame option.",
+  "coordinator_reservations_released": true
+}
