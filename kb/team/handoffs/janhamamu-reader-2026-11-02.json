@@ -1,0 +1,85 @@
+{
+  "id": "janhamamu-reader-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "apply this \u2014 approved Janhamamu-inspired quiet reader preview",
+  "coordinator": "Disha",
+  "input_head": "56d1c767c653fe4d47c519db3395a01c5c89d535",
+  "task": "Apply approved warm printed-storybook palette to quiet reader, preserve all reading states.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/janhamamu_apply",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/magazine-paper.css",
+        "provenance/janhamamu-reader-2026-11-02.json"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Approved palette implemented preserving all reading states.",
+        "evidence": [
+          "Exact content, geometry and pagination equality390/1280; actual night/plain/cover/odd final-page controls passed."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/janhamamu_apply_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent candidate review passed with limitations.",
+        "evidence": [
+          "Independently reviewed CSS cascade against later story-wash and children-identity styles: light body scope preserves cover/night and final-single transparency.",
+          "Independently inspected day desktop1280/mobile390, night mobile390 and actual odd final-page screenshots; readable text, clear controls and preserved leaf corners.",
+          "Independently recalculated text contrast: body12.78, heading6.72, byline7.07, folios6.79, controls7.28.",
+          "Reviewed implementer browser scripts and results: HEAD content/geometry/pagination equality at390/1280, actual cover/night/plain controls and odd final109/109 in light/night.",
+          "Read passing110test log and build verifier log.",
+          "Production implementation scope is CSS only; no literary or image source edits."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/janhamamu-reader-2026-11-02.json",
+    "kb/team/operations.json"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/janhamamu_apply_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "public/magazine-paper.css": "5e3a62c408a3aa3859cfca40217b9e9863cdecbdf8eadb9cd06efc3dd3453fa4",
+      "provenance/janhamamu-reader-2026-11-02.json": "f29003aed39d1ea0715519dcf4f2b0f481e3a925d95a7aa0b81031647d8e767d"
+    },
+    "findings": [],
+    "evidence": [
+      "Independently reviewed CSS cascade against later story-wash and children-identity styles: light body scope preserves cover/night and final-single transparency.",
+      "Independently inspected day desktop1280/mobile390, night mobile390 and actual odd final-page screenshots; readable text, clear controls and preserved leaf corners.",
+      "Independently recalculated text contrast: body12.78, heading6.72, byline7.07, folios6.79, controls7.28.",
+      "Reviewed implementer browser scripts and results: HEAD content/geometry/pagination equality at390/1280, actual cover/night/plain controls and odd final109/109 in light/night.",
+      "Read passing110test log and build verifier log.",
+      "Production implementation scope is CSS only; no literary or image source edits."
+    ],
+    "limitations": [
+      "Browser interactions were run by implementer; reviewer inspected source, scripts and screenshots rather than launching a second browser session.",
+      "No physical-device, screen-reader or complete historical-edition visual audit.",
+      "Review does not authorize publication."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Full build110tests and final npm check passed.",
+      "Root inspected desktop screenshot; unrelated generated HTML restored and dist refreshed.",
+      "No publication performed."
+    ]
+  },
+  "next_action": "Ready locally; publication requires user request.",
+  "coordinator_reservations_released": true
+}

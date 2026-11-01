@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-02",
+  "authorization": "User approved Janhamamu-inspired preview: apply this.",
+  "scope": "Quiet reader light body pages; no publication.",
+  "reference": "editorial-private/janhamamu-preview/preview.css",
+  "preservation": [
+    "Original literary text, artwork paths, typography, geometry and pagination unchanged.",
+    "Story Garden book page unchanged. Covers and night palette preserved.",
+    "Approved B leaf corners retained; plain paper disables leaves and uses neutral paper."
+  ],
+  "checks": [
+    "Exact full quiet-content text, page geometry, content scroll width and page status compared to HEAD CSS at390/1280.",
+    "Actual cover-open, night toggle, plain-paper toggle, back cover then previous navigation passed.",
+    "Actual font-size changes produce odd final109/109: missing right-page transparent in both night and light.",
+    "Actual light final-page paper toggles between ivory#fff8e7 and neutral#fffdf7.",
+    "Simulated forced colors hides leaf decoration; no forced-color-adjust override.",
+    "Visually inspected desktop1280 and mobile390 screenshots."
+  ],
+  "contrast": {
+    "body": 12.78,
+    "heading": 6.72,
+    "byline": 7.07,
+    "folio": 6.79,
+    "control_text": 7.28,
+    "control_border": 4.03
+  },
+  "web_guidance": {
+    "id": "color",
+    "applied": "Readable palette, independent night styles and system-colour fallbacks."
+  },
+  "limitations": [
+    "No physical-device or screen-reader audit.",
+    "Full build/tests and separate review are coordinator responsibilities."
+  ],
+  "publication": false,
+  "sha256": {
+    "public/magazine-paper.css": "5e3a62c408a3aa3859cfca40217b9e9863cdecbdf8eadb9cd06efc3dd3453fa4"
+  }
+}
