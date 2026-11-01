@@ -1,7 +1,7 @@
 {
   "id": "credits-process-2026-11-01",
   "unit_type": "bounded_maintenance",
-  "status": "ready",
+  "status": "completed",
   "authorization": "Adopt this description from Kabita Live. We can have similar page here too.",
   "coordinator": "Disha",
   "input_head": "1d238dc1027749969be3489b26f752a33a1667bd",
@@ -63,8 +63,17 @@
       "No blocking content or semantic HTML findings."
     ]
   },
-  "delivery": null,
-  "next_action": "Publish reviewed credits page and verify live delivery.",
+  "delivery": {
+    "mode": "published",
+    "evidence": [
+      "Publish magazine run 41264922877 deployed candidate 5a559aef9953663a326ca6d4567504ee4b1e232a.",
+      "Live credits page verified through browser; all process and collaborator sections present.",
+      "59 tests and build passed; separate Drishti review passed; desktop/mobile and reflection interaction checked."
+    ],
+    "url": "https://shishukishora.com/credits/",
+    "screenshot": "/tmp/sishu-how-we-work-live.png"
+  },
+  "next_action": "No pending work for this page update.",
   "source": {
     "project": "Kabita Live",
     "path": "output/kabitalive-design-proposal-2026-09-29/site/templates/our-story-ai.html",
@@ -77,5 +86,6 @@
     "tests": 59,
     "build": "pass",
     "browser": "Desktop and 390px mobile inspected; no horizontal overflow; reflection opens and closes; Baloo Bhaina 2 retained."
-  }
+  },
+  "coordinator_reservations_released": true
 }
