@@ -118,6 +118,131 @@
       "sha256": "ff6957c39714f142f4fc867e7eb4f564097e0f12458c15163455e1098ffa97c9",
       "review": "Full-size visual review: source scene, coherent visible anatomy, no snow or unrelated characters; retained original source image.",
       "share_image": "/art/reviewed-2026-11/young_details-08d082707f-story-v2-share.jpg"
+    },
+    {
+      "article": "/article_details-1e21043954.html",
+      "title": "ଵନ୍ଦ  କର ଏ ଲଢେଇ",
+      "previous": "/media/201dba5d7bd3b5dc3f5671a6.jpg",
+      "replacement": "/art/reviewed-2026-11/article_details-1e21043954-story-v2.webp",
+      "reason": "The image reads as game-like sword combat and lacks the civilian suffering or consequences central to this anti-war poem. This creates an apparent tone and context mismatch.",
+      "prompt": "Use case: illustration-story. Create one landscape 3:2 children's Odia magazine illustration, no text. It accompanies an anti-war poem mourning civilians and children deprived of home and parents, pleading that fighting stop. Show a quiet child-centered aftermath, NOT a battle: two school-age children sitting close together on a safe low doorstep, the older child gently resting an arm around the younger one's shoulders; a closed schoolbook beside them; damaged ordinary brick homes far in the background, subdued dust, an empty street. Their expressions are worried and tired, tender rather than melodramatic. No bodies, injuries, blood, soldiers, weapons, national flags, explosions or graphic destruction. Do not imply a named real conflict or that war occurred in Odisha. Contemporary ordinary South Asian clothing, dignified and simple. Eye-level composition; children are the focal point, some calm open sky and restrained background detail. Expressive traditional 2D children's story drawing, confident dark ink outlines, broad matte muted blue and earthy ochre colors, modest flat shadows, believable anatomy and connected arms/hands. No glossy 3D, photorealism, airbrush, cinematic heroism, decorative borders, lettering or watermark.",
+      "generator": "built-in image_gen; AI-generated illustration",
+      "source_sha256": "201dba5d7bd3b5dc3f5671a6b0db2d9e613f1e9fa4bcfb49426d6a2b93a245d7",
+      "sha256": "f54418f1bfcf32b1be3a3d1bf0d2111bf977d917d5fc4e34077edf8f36143894",
+      "review": "Separate native-image story/anatomy review passed; original historical art retained. This application follows Creative Editor instruction to continue.",
+      "share_image": "/art/reviewed-2026-11/article_details-1e21043954-story-v2-share.jpg",
+      "share_sha256": "2e57855b397bbbc488fc563e28a7a09282ddff626a6b769ca46e9960b96f0264",
+      "generated_source": "editorial-private/illustration-revisions-2026-11-02/antiwar-v1.png",
+      "generated_source_sha256": "d52a281ee4c4dd9959152684144acbb92d876a72526863d14bdf7be9e487a9e2",
+      "source_briefs": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/source-briefs.json",
+        "sha256": "5c9d0862063d0ec131a4e4a401276791f406dcdcda8e23c06f67ccfca09847b5"
+      },
+      "prompt_set": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/prompts.json",
+        "sha256": "5b222ef158963a52495dbbbd47782ec2258d3a8c1e9a6a260813db27bdad4f1b"
+      },
+      "visual_review": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/review.json",
+        "sha256": "d64cdabf4d047c583424f92bd6ce3e4d26d7593a2c7119d988fde6aa107a84e6"
+      },
+      "update_editor_choice": true,
+      "share_width": 1200,
+      "share_height": 800
+    },
+    {
+      "article": "/article_details-5cd2ab45c2.html",
+      "title": "ବଣରାଇଜ କଥା",
+      "previous": "/media/6f7fe5c68cab79cee2a573bc.png",
+      "replacement": "/art/reviewed-2026-11/article_details-5cd2ab45c2-story-v2.webp",
+      "reason": "Glossy toy forest lineup includes spotted feline-like faces with deer antlers; species are visually conflated. Cheerful gathering also loses the poem’s alarm, pursuit and conflict.",
+      "prompt": "Use case: illustration-story. Create one landscape 3:2 illustration for an Odia children's poem about animals alarming one another in the forest. Depict exactly this moment: a spotted leopard partly hidden behind a thick tree trunk on the left growls, and a startled female spotted deer on the right steps swiftly away while glancing back. Exactly TWO animals. The leopard is unmistakably a feline with rounded ears, whiskers, rosette markings, a long feline tail and NO antlers. The doe has slender hooves, long deer ears, white spots and NO antlers. Four correctly attached legs per animal; occlusion only where physically natural, no hybrid species or duplicate legs. Entire doe inside frame with a clear silhouette, no contact between animals, no injury. Eastern Indian deciduous forest compatible with Odisha: irregular broadleaf trees, dry leaves and a few low shrubs, restrained detail. Curious mild tension suitable for children, not smiling animal lineup and not horror. Expressive traditional 2D storybook drawing with confident dark contours, simple faces, broad matte leaf-green, earth-red and tawny colors and restrained flat shadows. Selective hand-drawn-feel detail, no glossy fur, no photographic texture, no plastic 3D, no elaborate decorative frame. No text or watermark.",
+      "generator": "built-in image_gen; AI-generated illustration",
+      "source_sha256": "6f7fe5c68cab79cee2a573bc69b6d9dfb7631bb58fc789e33e1e32bdc1fa1e71",
+      "sha256": "bfe86d14364c1177fe87fc7fbd3f8c23d70b3da45552d4a0c348912fda04abfb",
+      "review": "Separate native-image story/anatomy review passed; original historical art retained. This application follows Creative Editor instruction to continue.",
+      "share_image": "/art/reviewed-2026-11/article_details-5cd2ab45c2-story-v2-share.jpg",
+      "share_sha256": "137b115e8dd02c3326001530b291bea094c86e062e9b096bdfbee8d870555e51",
+      "generated_source": "editorial-private/illustration-revisions-2026-11-02/forest-v1.png",
+      "generated_source_sha256": "b37eaff230e6edf8717dd79d05168fef8ab0c964a2d9a88f8e5ec4ed9edaf17f",
+      "source_briefs": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/source-briefs.json",
+        "sha256": "5c9d0862063d0ec131a4e4a401276791f406dcdcda8e23c06f67ccfca09847b5"
+      },
+      "prompt_set": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/prompts.json",
+        "sha256": "5b222ef158963a52495dbbbd47782ec2258d3a8c1e9a6a260813db27bdad4f1b"
+      },
+      "visual_review": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/review.json",
+        "sha256": "d64cdabf4d047c583424f92bd6ce3e4d26d7593a2c7119d988fde6aa107a84e6"
+      },
+      "update_editor_choice": true,
+      "share_width": 1200,
+      "share_height": 800
+    },
+    {
+      "article": "/article_details-4a875700e5.html",
+      "title": "ମିଳିମିଶି ରଜ ପାଳିବା",
+      "previous": "/media/d204d5b4d4007ca2bf08a2ef.png",
+      "replacement": "/art/reviewed-2026-11/article_details-4a875700e5-story-v2.webp",
+      "reason": "Generic glossy animal lineup does not depict the Raja swing, preparation of pitha, or mouse cutting the rope that drive the poem.",
+      "prompt": "Use case: illustration-story. Create one landscape 3:2 Odia children's magazine illustration for a playful animal fable about preparing a Raja festival swing, where an overlooked mouse later causes trouble. Show one coherent preparation scene, not a collage: beneath a strong spreading tree in an Odisha forest clearing, an anthropomorphic camel ties the final rope knot at a reachable low sturdy horizontal branch while a friendly brown dog holds the wooden swing seat level with its two forepaws. A brown bear nearby supplies a loose coil of thick rope with its paws. The swing has one plain wooden plank and two taut support ropes attached to the same strong branch; show coherent continuous ropes, no impossible floating supports. Small gray mouse, clearly separate, sits at the tree's base watching from aside with a hurt, excluded expression; it is NOT helping or smiling. Exactly these FOUR animals only, no extra cast. Anthropomorphic poses but anatomically coherent: camel has four limbs total, bear has two forepaws and two hind legs, dog has two forepaws and two hind legs, mouse has four limbs and one long thin tail; distinct species silhouettes. Ground-supported feet, plausible grips, uncluttered asymmetrical composition. Warm early-monsoon greenery, plain natural rope and wooden seat evoke Raja; do not add temple symbols or costume spectacle. Expressive traditional 2D cartoon drawing, confident dark outlines, broad matte colors and restrained flat shadows, no photorealism, glossy 3D or airbrushing. All principal figures and swing inside frame. No text, lettering, watermark or border.",
+      "generator": "built-in image_gen; AI-generated illustration",
+      "source_sha256": "d204d5b4d4007ca2bf08a2ef0a3a3b669ee0eecbcdc9b55aeccdc36370dd1002",
+      "sha256": "627c0f0f032108d30e7c885117f5b1cba3c88227eeb72158ec705130844f8b8a",
+      "review": "Separate native-image story/anatomy review passed; original historical art retained. This application follows Creative Editor instruction to continue. Rejected v1 camel limb attachment corrected in selected v2.",
+      "share_image": "/art/reviewed-2026-11/article_details-4a875700e5-story-v2-share.jpg",
+      "share_sha256": "a5ae075d66ed9311a44e5a46cf7064411ce2e739d45faf35b879975bbf92e07c",
+      "generated_source": "editorial-private/illustration-revisions-2026-11-02/raja-v2.png",
+      "generated_source_sha256": "0341d692a02e7b908b081384a0d95516d0a4046ffe416952fb4c8d7b7279fcd7",
+      "source_briefs": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/source-briefs.json",
+        "sha256": "5c9d0862063d0ec131a4e4a401276791f406dcdcda8e23c06f67ccfca09847b5"
+      },
+      "prompt_set": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/prompts.json",
+        "sha256": "5b222ef158963a52495dbbbd47782ec2258d3a8c1e9a6a260813db27bdad4f1b"
+      },
+      "visual_review": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/review.json",
+        "sha256": "d64cdabf4d047c583424f92bd6ce3e4d26d7593a2c7119d988fde6aa107a84e6"
+      },
+      "update_editor_choice": true,
+      "edit_prompt": "Edit only the camel's torso and leg attachment in this children's cartoon illustration. Keep the entire scene, bear, dog, mouse, tree, swing ropes, plank, colors and drawing style unchanged. The camel must stand clearly upright on TWO hind legs, BOTH connected to the rear pelvis beneath the hump, with TWO raised forelegs connected to its upper chest reaching the rope knot. Current left ground-support leg incorrectly emerges from the chest: REMOVE that chest-to-ground leg completely and replace it with the camel's second hind leg visibly attached beside/behind its other hind leg at the rear pelvis. Repose the torso vertically enough that this bipedal anthropomorphic stance makes physical sense. Exactly FOUR camel limbs total: two arms raised and two rear pelvic legs grounded. There must be an empty gap beneath the upper chest with NO extra downward foreleg. Preserve the smiling camel head, long neck, single hump, tail and knot-tying action. Do not change any other animal, scene object, rope attachment, lighting, canvas ratio or add text.",
+      "share_width": 1200,
+      "share_height": 800
+    },
+    {
+      "article": "/article_details-9bce9b9f78.html",
+      "title": "ଫୁଲର ମହକ",
+      "previous": "/media/8aefce0698e66b7b8c730741.jpg",
+      "replacement": "/art/reviewed-2026-11/article_details-9bce9b9f78-story-v2.webp",
+      "reason": "Dark semi-realistic corridor portrait conveys isolation but omits the rooftop flowers and sharing knowledge that resolve the story. It departs from the current child-friendly cartoon-natural direction.",
+      "prompt": "Use case: illustration-story. Create one landscape 3:2 Odia children's magazine illustration of the turning point in the story 'Fragrance of Flowers', without any written text. Yashodhara is a class-eight girl living in a town; in a soft Phalguna evening on her home's rooftop she waters potted jasmine and pauses thoughtfully as its fragrance makes her realize that knowledge, like fragrance, should be shared. Show just ONE adolescent Indian girl in an ordinary modest cotton salwar-kameez with subtle woven edging, practical tied-back dark hair, standing safely behind a waist-high rooftop parapet. She gently tips a small metal watering jug toward a terracotta pot of white jasmine; one hand on the handle, other supporting the jug base, anatomically clear hands and two connected arms. Her head turns slightly toward a jasmine blossom with a thoughtful, quiet expression, not posing at viewer. Other modest flowering pots, neighboring low-rise Odisha town rooftops and a small distant bird under a pale evening sky; urban rooftop, NOT a rural hut/veranda. Jasmine petals move lightly in a plausible breeze; no magical faces on flowers or floating scent symbols. Expressive traditional 2D cartoon story drawing, confident dark contours, broad matte dusty-rose, leaf-green and gentle blue colors, limited flat shadows. Girl and flowers form a natural off-center composition with breathing room; keep full body and jug inside frame. No photorealism, glossy 3D, airbrushing, theatrical glow, lettering, borders or watermark.",
+      "generator": "built-in image_gen; AI-generated illustration",
+      "source_sha256": "8aefce0698e66b7b8c730741179b4d53176b691933ea06d334d3e50baed5be7c",
+      "sha256": "72a88105f306c9bcf8564058f2e9e486c608e9003c705b66e7cfe5c9e9db8c76",
+      "review": "Separate native-image story/anatomy review passed; original historical art retained. This application follows Creative Editor instruction to continue.",
+      "share_image": "/art/reviewed-2026-11/article_details-9bce9b9f78-story-v2-share.jpg",
+      "share_sha256": "d98994ca585ffb0e89337c6d4430b11896d8910880c0b93493217ee3a29dac7b",
+      "generated_source": "editorial-private/illustration-revisions-2026-11-02/flowers-v1.png",
+      "generated_source_sha256": "1b4e298e87fa1086eabbc572f708714ab91b045d78dbf34d4c7238e0fd73a63d",
+      "source_briefs": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/source-briefs.json",
+        "sha256": "5c9d0862063d0ec131a4e4a401276791f406dcdcda8e23c06f67ccfca09847b5"
+      },
+      "prompt_set": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/prompts.json",
+        "sha256": "5b222ef158963a52495dbbbd47782ec2258d3a8c1e9a6a260813db27bdad4f1b"
+      },
+      "visual_review": {
+        "path": "editorial-private/illustration-revisions-2026-11-02/review.json",
+        "sha256": "d64cdabf4d047c583424f92bd6ce3e4d26d7593a2c7119d988fde6aa107a84e6"
+      },
+      "update_editor_choice": true,
+      "share_width": 1200,
+      "share_height": 800
     }
   ]
 }

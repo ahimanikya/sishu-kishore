@@ -24,6 +24,17 @@ for page in root.rglob('*.html'):
     if updated != source:
         page.write_text(updated)
         changed += 1
+# Retire explicitly superseded options in the editor's existing-artwork dropdown.
+choices_path = root / 'editorial/choices.json'
+choices = json.loads(choices_path.read_text())
+choice_replacements = {r['previous']: r['replacement'] for r in records if r.get('update_editor_choice')}
+choices_changed = False
+for choice in choices['images']:
+    if choice[0] in choice_replacements:
+        choice[0] = choice_replacements[choice[0]]
+        choices_changed = True
+if choices_changed:
+    choices_path.write_text(json.dumps(choices, ensure_ascii=False) + '\n')
 manifest = Path('provenance/social-previews.json')
 previews = json.loads(manifest.read_text())
 by_article = {r['article']: r for r in records}
@@ -42,6 +53,10 @@ for record in records:
         if re.search(r'(?:property|name)=["\'](?:og:image(?::secure_url)?|twitter:image)["\']', tag):
             return re.sub(r'content=["\'][^"\']*["\']',
                           'content="https://shishukishora.com' + record['share_image'] + '"', tag)
+        for dimension in ('width', 'height'):
+            value = record.get('share_' + dimension)
+            if value and re.search(r'(?:property|name)=["\']og:image:' + dimension + r'["\']', tag):
+                return re.sub(r'content=["\'][^"\']*["\']', 'content="' + str(value) + '"', tag)
         return tag
     updated = re.sub(r'<meta\b[^>]*>', preview, source)
     if updated != source:
