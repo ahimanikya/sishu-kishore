@@ -18,3 +18,10 @@ test('new drafts remain incomplete and arbitrary changes clear review state',()=
 
 test('unillustrated books keep text and cover gates without requiring chapter art',()=>{const d=ready('book');d.book.illustrated=false;d.entries[0].image='';d.entries[0].brief='';d.entries[0].checks.art=false;assert.deepEqual(reviewProblems(d),[]);d.kind='magazine';assert.ok(reviewProblems(d).length);d.kind='book';d.cover.reviewed=false;assert.ok(reviewProblems(d).some(p=>p.includes('cover')));});
 test('older studio books default to illustrated and never relax art checks silently',()=>{const d=ready('book');delete d.book.illustrated;assert.equal(validateWorkspace(d).book.illustrated,true);d.entries[0].image='';assert.ok(reviewProblems(d).length);});
+
+// Existing edition artwork can be reused in a private draft without copying assets.
+test('dated edition images are accepted without admitting traversal or external sources',()=>{
+ const d=ready();d.entries[0].image='/editions/2026-11/assets/articles/article-16-v2.webp';
+ assert.equal(validateWorkspace(d).entries[0].image,d.entries[0].image);
+ for(const image of ['/editions/2026-13/assets/scene.webp','/editions/2026-11/assets/../private.png','/editions/2026-11/assets/%2e%2e/private.png','/editions/2026-11/assets//scene.png','/editions/2026-11/scene.png','/review/2026-12/secret.png','https://shishukishora.com/editions/2026-11/assets/scene.png','//evil.test/editions/2026-11/assets/scene.png','/editions/2026-11/assets/scene.svg','/editions/2026-11/assets/scene.png?token=secret'])assert.equal(imagePath(image),false,image);
+});

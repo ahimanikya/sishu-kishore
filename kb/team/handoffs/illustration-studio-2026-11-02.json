@@ -1,0 +1,157 @@
+{
+  "id": "illustration-studio-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "in_progress",
+  "authorization": "OK lets go illustration audit; next edition draft should be visible in Editor Studio",
+  "coordinator": "Disha",
+  "input_head": "94e5a7b6eb3f8defd47e7d302a7312a089d5cc11",
+  "task": "Audit active illustrations and make December draft available in private Studio without edition publication.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/illustration_audit",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "editorial-private/illustration-audit-2026-11-02/REPORT.md",
+        "editorial-private/illustration-audit-2026-11-02/archive-01.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-02.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-03.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-04.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-05.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-06.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-07.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-08.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-09.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-10.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-11.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-12.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-13.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-14.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-15.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-16.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-17.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-18.jpg",
+        "editorial-private/illustration-audit-2026-11-02/archive-19.jpg",
+        "editorial-private/illustration-audit-2026-11-02/build_audit.py",
+        "editorial-private/illustration-audit-2026-11-02/current-01.jpg",
+        "editorial-private/illustration-audit-2026-11-02/current-02.jpg",
+        "editorial-private/illustration-audit-2026-11-02/current-03.jpg",
+        "editorial-private/illustration-audit-2026-11-02/current-04.jpg",
+        "editorial-private/illustration-audit-2026-11-02/current-05.jpg",
+        "editorial-private/illustration-audit-2026-11-02/findings.json",
+        "editorial-private/illustration-audit-2026-11-02/inventory.json",
+        "editorial-private/illustration-audit-2026-11-02/write_report.py"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Contact-sheet triage of 699 uses / 692 distinct assets across 35 issues; 11 native images and 20 full texts inspected. Four revision candidates and two uncertain items; originals preserved.",
+        "evidence": [
+          "editorial-private/illustration-audit-2026-11-02/REPORT.md"
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/studio_next_draft",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/editorial/studio-model.mjs",
+        "public/editorial/studio.js",
+        "tests/editor-studio.test.mjs",
+        "backend/tools/seed-studio-draft.mjs",
+        "provenance/studio-next-draft-2026-11-02.json",
+        "editorial-private/december-2026/studio-workspace.json",
+        "public/editorial/studio-ui.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Prepared private December draft, preserved poem stanzas and original artwork, added safe dated-art paths and create-only importer.",
+        "evidence": [
+          "provenance/studio-next-draft-2026-11-02.json"
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/illustration_studio_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent review passed with limitations.",
+        "evidence": [
+          "Independently reviewed narrow dated edition-image allowlist; rejects traversal, external URLs, query tokens and unsupported types.13focused Studio model tests passed.",
+          "Create-only admin seeder validates draft, active verified editor identity, atomic current document plus immutable history1 with exists:false preconditions; no publications feed, rules or public catalog writes.",
+          "Independent dryrun passed for december-2026. Private payload contains one original contribution, original author profile and matching illustration SHA256, draft state and all review checks pending.",
+          "Exact current source comparison preserves18nonempty lines and5blank stanza separators; November24canonical author snapshot matches published Studio catalog and December author does not overlap.",
+          "Inspected local Studio dashboard and proof fixture screenshots; private poem text is absent from public bundle and draft routes absent from public catalog.",
+          "Root reports full build and111tests passed; final environment-corrected check remains coordinator integration evidence.",
+          "Illustration inventory independently recounted699uses,692distinct assets,35issues; all files and SHA256 values match.",
+          "Independently inspected current contact sheet and four flagged native images, read three complete associated source poems. Forest species conflation is visible; antiwar tone mismatch and Raja weak narrative representation are supported editorial recommendations.",
+          "Art report correctly distinguishes699thumbnail uses from11native images and20fulltexts; ambiguous mites/goddess arm counts are not asserted as proven defects."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/illustration-studio-2026-11-02.json",
+    "kb/team/operations.json",
+    "editorial-private/studio-import/inspect-service.mjs"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/illustration_studio_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "public/editorial/studio-model.mjs": "1c2ff6f04d094cbc554158f0b6a3e1cf0fcbc2dc5925f03a71113a984bd22e39",
+      "public/editorial/studio-ui.mjs": "9f90b0ac5485e188821650fbf336146fb30623f230dd7a119e458e83801b313d",
+      "public/editorial/studio.js": "3a1e6b2b0e5f526fbb1030fd1175467d0dcda347e8bc113cc7e08f00a5830b54",
+      "tests/editor-studio.test.mjs": "7d3231fdf7a642ce44d37a35c97725c5daf839308615ea0ab1809db1dbbdede8",
+      "backend/tools/seed-studio-draft.mjs": "48734e610f9d8f4ef7c5cec8a1a9f53f97590f650895cf71866197ad913f137a",
+      "provenance/studio-next-draft-2026-11-02.json": "d41623a377bb5417e2d25f844cefff2016c9e58b693d0ba7003753127c92fd90"
+    },
+    "private_payload": {
+      "path": "editorial-private/december-2026/studio-workspace.json",
+      "file_sha256": "7cca8a35d9ac4b5c14412fcf0130b69cc1aceed357282714418850982a48c9bd",
+      "canonical_validated_sha256": "ccf12e7413297b87d8364b6899e291103fff2e32c423ab6b548e35550cd9f158"
+    },
+    "audit_artifacts": {
+      "editorial-private/illustration-audit-2026-11-02/REPORT.md": "bccec0b040bbd3802846913883e3835acb28fd7cedaede7e7ecfcfef7c13a773",
+      "editorial-private/illustration-audit-2026-11-02/findings.json": "d897ee2535e5f3d50c021954b2be3e78354ba79fb37999acff32332711328323"
+    },
+    "findings": [],
+    "resolved_findings": [
+      "Studio image-path help text now mentions supported edition assets.",
+      "Private draft initially omitted five stanza separators; corrected and independently verified exact23source paragraph values including5empty lines."
+    ],
+    "evidence": [
+      "Independently reviewed narrow dated edition-image allowlist; rejects traversal, external URLs, query tokens and unsupported types.13focused Studio model tests passed.",
+      "Create-only admin seeder validates draft, active verified editor identity, atomic current document plus immutable history1 with exists:false preconditions; no publications feed, rules or public catalog writes.",
+      "Independent dryrun passed for december-2026. Private payload contains one original contribution, original author profile and matching illustration SHA256, draft state and all review checks pending.",
+      "Exact current source comparison preserves18nonempty lines and5blank stanza separators; November24canonical author snapshot matches published Studio catalog and December author does not overlap.",
+      "Inspected local Studio dashboard and proof fixture screenshots; private poem text is absent from public bundle and draft routes absent from public catalog.",
+      "Root reports full build and111tests passed; final environment-corrected check remains coordinator integration evidence.",
+      "Illustration inventory independently recounted699uses,692distinct assets,35issues; all files and SHA256 values match.",
+      "Independently inspected current contact sheet and four flagged native images, read three complete associated source poems. Forest species conflation is visible; antiwar tone mismatch and Raja weak narrative representation are supported editorial recommendations.",
+      "Art report correctly distinguishes699thumbnail uses from11native images and20fulltexts; ambiguous mites/goddess arm counts are not asserted as proven defects."
+    ],
+    "limitations": [
+      "Local UI fixture is not an authenticated live Studio session; deployment and private record readback remain coordinator actions.",
+      "Seed review is source and dryrun review; no production write performed by reviewer.",
+      "Art review is sampled independent confirmation, not a second full699image inspection, human cultural approval or complete anatomy clearance.",
+      "No existing art replaced; original provenance must be checked before public replacements.",
+      "No December edition publication authorized by this review."
+    ]
+  },
+  "delivery": {
+    "mode": "local_and_private_studio",
+    "evidence": [
+      "Full build, 111 tests and environment-corrected final check passed."
+    ]
+  },
+  "next_action": "Independent final review, deploy Studio support and create private December draft."
+}

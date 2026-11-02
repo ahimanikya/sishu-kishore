@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-02",
+  "authorization": "Next edition draft should be visible in Editor Studio app.",
+  "scope": "Prepare December2026 private shared Studio workspace using existing approved carry-forward selection.",
+  "approach": [
+    "Existing verified-editor dashboard lists editorStudios records; no public draft catalog or navigation added.",
+    "Existing dated edition artwork paths accepted by narrow local path validation; source art not copied or modified.",
+    "Create-only administrative import paired with immutable revision1; verifies active verified editor identity and refuses overwrite.",
+    "December carries one entry; January-held entries stay separate; November24canonical author snapshot retained for rotation.",
+    "All editorial readiness checks remain false."
+  ],
+  "private_payload": "editorial-private/december-2026/studio-workspace.json",
+  "private_payload_sha256": "7cca8a35d9ac4b5c14412fcf0130b69cc1aceed357282714418850982a48c9bd",
+  "checks": [
+    "13Studio model tests passed, including new dated-art valid/invalid traversal/protocol cases.",
+    "Studio frontend bundle rebuilt.",
+    "Seed dryrun validates one December entry and draft-only state without network writes.",
+    "Local Studio UI fixture renders December dashboard card and existing illustration; exact 18 poem lines and five original stanza separators verified (23 text lines)."
+  ],
+  "limits": [
+    "Live record creation and deployed bundle verification remain coordinator actions.",
+    "Local UI fixture does not represent an authenticated production session.",
+    "No December edition publication or public author contribution link is authorized."
+  ],
+  "web_guidance": {
+    "search": "validate image URLs",
+    "catalog_checked": true,
+    "applied": null,
+    "reason": "Existing local path allowlist extension; cross-origin and external-subresource guides do not apply."
+  },
+  "sources": [
+    "https://docs.cloud.google.com/identity-platform/docs/reference/rest/v1/projects.accounts/lookup"
+  ],
+  "sha256": {
+    "public/editorial/studio-model.mjs": "1c2ff6f04d094cbc554158f0b6a3e1cf0fcbc2dc5925f03a71113a984bd22e39",
+    "public/editorial/studio-ui.mjs": "9f90b0ac5485e188821650fbf336146fb30623f230dd7a119e458e83801b313d",
+    "public/editorial/studio.js": "3a1e6b2b0e5f526fbb1030fd1175467d0dcda347e8bc113cc7e08f00a5830b54",
+    "tests/editor-studio.test.mjs": "7d3231fdf7a642ce44d37a35c97725c5daf839308615ea0ab1809db1dbbdede8",
+    "backend/tools/seed-studio-draft.mjs": "48734e610f9d8f4ef7c5cec8a1a9f53f97590f650895cf71866197ad913f137a"
+  },
+  "publication": false
+}

@@ -6,7 +6,7 @@ const str=(v,max=30000)=>{if(typeof v!=='string'||v.length>max)throw Error('Inva
 const bool=v=>{if(typeof v!=='boolean')throw Error('Invalid check state.');return v;};
 const list=(v,max=200)=>{if(!Array.isArray(v)||v.length>max)throw Error('Invalid list.');return v;};
 export const profilePath=v=>typeof v==='string'&&/^\/writers\/[a-zA-Z0-9][a-zA-Z0-9_-]*\.html$/.test(v);
-export const imagePath=v=>typeof v==='string'&&(/^\/(art|media|social)\/[a-zA-Z0-9_/-]+\.(webp|png|jpg|jpeg)$/i.test(v)||v==='');
+export const imagePath=v=>typeof v==='string'&&(v===''||/^\/(art|media|social)\/[a-zA-Z0-9_/-]+\.(webp|png|jpg|jpeg)$/i.test(v)||/^\/editions\/(?:19|20|21)\d{2}-(?:0[1-9]|1[0-2])\/assets\/(?:[a-zA-Z0-9_-]+\/)*[a-zA-Z0-9_-]+\.(webp|png|jpg|jpeg)$/i.test(v));
 const month=v=>typeof v==='string'&&/^(?:19|20|21)\d{2}-(0[1-9]|1[0-2])$/.test(v);
 export function precedingMonth(value){if(!month(value))throw Error('Choose the issue month.');const[y,m]=value.split('-').map(Number);return m===1?`${y-1}-12`:`${y}-${String(m-1).padStart(2,'0')}`;}
 export function newWorkspace(kind='magazine'){
