@@ -1,7 +1,7 @@
 {
   "id": "illustration-studio-2026-11-02",
   "unit_type": "bounded_maintenance",
-  "status": "in_progress",
+  "status": "completed",
   "authorization": "OK lets go illustration audit; next edition draft should be visible in Editor Studio",
   "coordinator": "Disha",
   "input_head": "94e5a7b6eb3f8defd47e7d302a7312a089d5cc11",
@@ -99,7 +99,8 @@
   "coordinator_files": [
     "kb/team/handoffs/illustration-studio-2026-11-02.json",
     "kb/team/operations.json",
-    "editorial-private/studio-import/inspect-service.mjs"
+    "editorial-private/studio-import/inspect-service.mjs",
+    "editorial-private/studio-import/create-december.mjs"
   ],
   "review": {
     "reviewer": "Drishti",
@@ -148,10 +149,21 @@
     ]
   },
   "delivery": {
-    "mode": "local_and_private_studio",
+    "mode": "published",
+    "code_commit": "d022a4d820dc971d2e847a165dbf5a46bc60d902",
+    "deployment_run": "https://github.com/ahimanikya/sishu-kishore/actions/runs/41387551230",
+    "workspace_id": "december-2026",
+    "state": "draft",
+    "revision": 1,
+    "edition_published": false,
     "evidence": [
-      "Full build, 111 tests and environment-corrected final check passed."
-    ]
+      "Full build, 111 tests, final check and team record check passed.",
+      "Live Studio bundle SHA256 matched independent reviewed candidate.",
+      "Create-only import verified current private draft and immutable history revision 1 by readback.",
+      "Live signed-in UI was not verified: Google sign-in was cancelled. Local dashboard/proof fixture reviewed; backend record and deployed decoder verified."
+    ],
+    "scope": "Studio support code deployed; December workspace saved privately. December edition not published."
   },
-  "next_action": "Independent final review, deploy Studio support and create private December draft."
+  "next_action": "Editors can open December in Studio. Four illustration revisions need provenance review; December cover, editorial and approvals remain pending.",
+  "coordinator_reservations_released": true
 }

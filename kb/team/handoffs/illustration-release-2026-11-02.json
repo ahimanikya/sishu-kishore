@@ -1,0 +1,92 @@
+{
+  "id": "illustration-release-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "in_progress",
+  "authorization": "Rest we can start now; December stays draft until 1 December 2026",
+  "coordinator": "Disha",
+  "input_head": "f05364330f0d76668a276239db8a2092a01489a0",
+  "task": "Release four independently reviewed illustration updates alongside existing remote Studio installability work; preserve December draft.",
+  "workers": [
+    {
+      "role": "Drishti",
+      "runtime": "/root/release_art_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent merged-release review passed.",
+        "evidence": [
+          "All eight Studio install files byte-identical to published remote 8a052efc.",
+          "All eight delivery WebP/JPEG files equal reviewed f0536433; all four historical original hashes preserved.",
+          "All eight article/issue pages preserve exact text and all links against remote; four conflict-resolved issue pages differ only in intended image URL/dimension attributes.",
+          "Homepage/current issue and edition/Studio catalogs unchanged against remote; no December edition route created.",
+          "Read final full-build/test/check logs: 116 tests passed, final publication/discovery/source checks passed.",
+          "December 1 hold recorded in PROJECT.txt; no unresolved merge conflicts or whitespace errors."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "PROJECT.txt",
+    "kb/team/handoffs/illustration-release-2026-11-02.json"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/release_art_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "provenance/reviewed-illustrations-2026-11.json": "dc8426d9124c9c34b2a5d6d9db909dc9b9fd1d9463150de7d8bd11888b9e99bd",
+      "provenance/social-previews.json": "76b404097f955b89edb53ab6be8c9dd4e2217c7a2b1e8a4fd843b2878511deb7",
+      "scripts/apply-reviewed-illustrations.py": "beca2261278e2eb233caf4808cf5c1b5724cb9ab1e96e4b5e2119b518499e047",
+      "public/editorial/choices.json": "78a34d5346ffd53f53cbfa786eff74616dd3202c5c8fce0bd37b323ff4e58b4d",
+      "provenance/illustration-application-2026-11-02.json": "838831a5b2cfe2633ac7f0c75cb45debf669b6892b57a3c65abe9d821312db6e",
+      "public/article_details-1e21043954.html": "d35217b8aa58004c9d88ae0c3a98f8d1c7601196b680a9265201256c24ccdac5",
+      "public/article_details-5cd2ab45c2.html": "ca50b8bca1ea31d623f62c5770c1423d06166f5468d62e9c9c7b2340091c726b",
+      "public/article_details-4a875700e5.html": "e3b85660ae11513c7edd5b28a00c9dccc8f8a7858bfd1afdcb230297446c9daa",
+      "public/article_details-9bce9b9f78.html": "316ceab0c2519636600e1a3709ea907bc6c4433e62820af53ac7228bdce84f0f",
+      "public/old_issues_details-01d938c402.html": "fde643515e873bf346eb08cc4902afb43cc81586adf2e4eb9381b69134bc8900",
+      "public/old_issues_details-4d80e1b5e4.html": "a162e41c5e07737536bea2b3958a204747eae7281da1a2d6336faf84c2bdade2",
+      "public/old_issues_details-f36eb7b144.html": "4281c3235d9a66498d95025a502912bb955bc00ec24ba37e559f9b5de0562562",
+      "public/old_issues_details-02dcbb12fc.html": "d43f531e003aa5bd25fe5b063d92b15e92d3e3d5368b1f396334795f12ad0933",
+      "public/art/reviewed-2026-11/article_details-1e21043954-story-v2.webp": "f54418f1bfcf32b1be3a3d1bf0d2111bf977d917d5fc4e34077edf8f36143894",
+      "public/art/reviewed-2026-11/article_details-1e21043954-story-v2-share.jpg": "2e57855b397bbbc488fc563e28a7a09282ddff626a6b769ca46e9960b96f0264",
+      "public/art/reviewed-2026-11/article_details-5cd2ab45c2-story-v2.webp": "bfe86d14364c1177fe87fc7fbd3f8c23d70b3da45552d4a0c348912fda04abfb",
+      "public/art/reviewed-2026-11/article_details-5cd2ab45c2-story-v2-share.jpg": "137b115e8dd02c3326001530b291bea094c86e062e9b096bdfbee8d870555e51",
+      "public/art/reviewed-2026-11/article_details-4a875700e5-story-v2.webp": "627c0f0f032108d30e7c885117f5b1cba3c88227eeb72158ec705130844f8b8a",
+      "public/art/reviewed-2026-11/article_details-4a875700e5-story-v2-share.jpg": "a5ae075d66ed9311a44e5a46cf7064411ce2e739d45faf35b879975bbf92e07c",
+      "public/art/reviewed-2026-11/article_details-9bce9b9f78-story-v2.webp": "72a88105f306c9bcf8564058f2e9e486c608e9003c705b66e7cfe5c9e9db8c76",
+      "public/art/reviewed-2026-11/article_details-9bce9b9f78-story-v2-share.jpg": "d98994ca585ffb0e89337c6d4430b11896d8910880c0b93493217ee3a29dac7b",
+      "public/content-index.json": "92ff2aa5d4768d9802d2690e16f2f0125c3aa467135eaf7c4488f0fe7fb7cc66",
+      "public/sitemap.xml": "132921f0d858b0b9fdc8c556d6f8ddbd3770ad3b611e84577f7730d1a0127bc8",
+      "PROJECT.txt": "1fa29d5bcd1b09f73d1e4d8fa7443281aa7d5e50fa3e5b4ce8b2f5c86a174793"
+    },
+    "findings": [],
+    "evidence": [
+      "All eight Studio install files byte-identical to published remote 8a052efc.",
+      "All eight delivery WebP/JPEG files equal reviewed f0536433; all four historical original hashes preserved.",
+      "All eight article/issue pages preserve exact text and all links against remote; four conflict-resolved issue pages differ only in intended image URL/dimension attributes.",
+      "Homepage/current issue and edition/Studio catalogs unchanged against remote; no December edition route created.",
+      "Read final full-build/test/check logs: 116 tests passed, final publication/discovery/source checks passed.",
+      "December 1 hold recorded in PROJECT.txt; no unresolved merge conflicts or whitespace errors."
+    ],
+    "review_hash_differences": [
+      "public/old_issues_details-01d938c402.html",
+      "public/old_issues_details-4d80e1b5e4.html",
+      "public/old_issues_details-f36eb7b144.html",
+      "public/old_issues_details-02dcbb12fc.html"
+    ],
+    "limitations": [
+      "Release integration source review only; no repeat browser session. Prior four-art browser review remains applicable because no layout or rendering behavior changed.",
+      "Live deployment verification remains coordinator action."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Merged candidate full build,116tests and final check passed."
+    ]
+  },
+  "next_action": "Verify merge, build/tests then deploy and live-check."
+}

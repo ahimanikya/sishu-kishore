@@ -1,0 +1,158 @@
+{
+  "id": "illustration-revisions-2026-11-02",
+  "unit_type": "illustration_batch",
+  "status": "completed",
+  "authorization": "continue — follow up four illustration audit revision candidates",
+  "coordinator": "Disha",
+  "input_head": "841652c71ac5caab9b9cf730bd38f697a226e431",
+  "task": "Research origins and create four source-faithful cartoon-natural illustration candidates, preserving originals.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/art_revision_sources",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "editorial-private/illustration-revisions-2026-11-02/source-briefs.json",
+        "editorial-private/illustration-revisions-2026-11-02/source-briefs.md"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Read complete texts and traced six assets to original website captures; illustrator attribution unknown. Originals retained; uncertain anatomy not asserted as a defect.",
+        "evidence": [
+          "editorial-private/illustration-revisions-2026-11-02/source-briefs.json",
+          "editorial-private/illustration-revisions-2026-11-02/source-briefs.md"
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/art_revision_drafts",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "editorial-private/illustration-revisions-2026-11-02/antiwar-v1.png",
+        "editorial-private/illustration-revisions-2026-11-02/forest-v1.png",
+        "editorial-private/illustration-revisions-2026-11-02/raja-v1.png",
+        "editorial-private/illustration-revisions-2026-11-02/flowers-v1.png",
+        "editorial-private/illustration-revisions-2026-11-02/prompts.json",
+        "editorial-private/illustration-revisions-2026-11-02/generation-results.json",
+        "editorial-private/illustration-revisions-2026-11-02/raja-v2.png"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Four versioned 3:2 candidates generated with built-in image tool; Raja limb attachment corrected in v2.",
+        "evidence": [
+          "editorial-private/illustration-revisions-2026-11-02/generation-results.json",
+          "editorial-private/illustration-revisions-2026-11-02/prompts.json"
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/art_revision_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Separate native-image review passed for four final drafts, with recorded limitations.",
+        "evidence": [
+          "editorial-private/illustration-revisions-2026-11-02/review.json"
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/illustration-revisions-2026-11-02.json",
+    "kb/team/operations.json",
+    "editorial-private/illustration-revisions-2026-11-02/review.json"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/art_revision_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "scope": "Local candidates only; no release approval.",
+    "source_readings": [
+      "public/article_details-1e21043954.html",
+      "public/article_details-5cd2ab45c2.html",
+      "public/article_details-4a875700e5.html",
+      "public/article_details-9bce9b9f78.html"
+    ],
+    "candidate_files": {
+      "editorial-private/illustration-revisions-2026-11-02/antiwar-v1.png": "d52a281ee4c4dd9959152684144acbb92d876a72526863d14bdf7be9e487a9e2",
+      "editorial-private/illustration-revisions-2026-11-02/forest-v1.png": "b37eaff230e6edf8717dd79d05168fef8ab0c964a2d9a88f8e5ec4ed9edaf17f",
+      "editorial-private/illustration-revisions-2026-11-02/flowers-v1.png": "1b4e298e87fa1086eabbc572f708714ab91b045d78dbf34d4c7238e0fd73a63d",
+      "editorial-private/illustration-revisions-2026-11-02/raja-v2.png": "0341d692a02e7b908b081384a0d95516d0a4046ffe416952fb4c8d7b7279fcd7"
+    },
+    "results": [
+      {
+        "key": "antiwar",
+        "outcome": "pass",
+        "findings": [],
+        "evidence": "Native1536x1024 inspected: two seated children, coherent limbs and embrace; quiet civilian loss and damaged homes, no combat spectacle, no named conflict."
+      },
+      {
+        "key": "forest",
+        "outcome": "pass",
+        "findings": [],
+        "evidence": "Native1536x1024 inspected: doe four distinct connected legs/hooves and no antlers, recognizable leopard with rosettes and growl behind trunk. Occluded leopard limbs not considered missing. Scene matches third stanza."
+      },
+      {
+        "key": "raja-v1",
+        "outcome": "revise",
+        "findings": [
+          {
+            "severity": "medium",
+            "issue": "Camel has two raised forelimbs plus planted leg under chest/shoulder and one rear leg; total four but attachment reads three forelimbs and one hindlimb.",
+            "correction": "Make camel clearly upright/rearing on two rear-pelvis-attached hind legs, with two forelegs reaching knot. Preserve other scene elements."
+          }
+        ],
+        "evidence": "Native1536x1024 image inspected. Swing ropes continuous to supported seat, bear supplies rope, dog supports plank, mouse excluded; exact source roles preserved."
+      },
+      {
+        "key": "flowers",
+        "outcome": "pass",
+        "findings": [],
+        "evidence": "Native1536x1024 inspected: adolescent girl, coherent two arms/hands gripping and supporting jug, two legs, rooftop parapet/urban scenery and jasmine at evening match turning point. Distant temple is contextual invented scenery, not a named landmark claim."
+      },
+      {
+        "key": "raja-v2",
+        "outcome": "pass",
+        "findings": [],
+        "evidence": "Native1536x1024 inspected: two ground-supported hind legs emerge together beneath pelvis, two raised forelimbs reach rope knot, underside chest free. Attachment correction resolves v1 concern; continuous swing ropes, seat, bear rope coil, dog support and excluded mouse intact."
+      }
+    ],
+    "limitations": [
+      "Separate AI review, not human cultural/editorial approval.",
+      "Illustrations interpret selected moments rather than depict every event.",
+      "No public layout/crop check in this local candidate review."
+    ],
+    "resolved_findings": [
+      "Raja-v1 camel attachment issue resolved in raja-v2; v1 retained as superseded working version."
+    ],
+    "evidence": [
+      "Independently read all four full literary works, including antiwar civilian-loss context, forest third stanza, seven Raja stanzas and complete flower story.",
+      "Read source-briefs.md and exact generation prompts.",
+      "Independently inspected all four final1536x1024native images plus superseded Raja-v1.",
+      "Git tracked changes limited to team operations at review time; no public article/source/image changes observed."
+    ],
+    "next_action": "Present final four local candidates for Creative Editor review; retain originals and do not infer publication authority.",
+    "supporting_files": {
+      "editorial-private/illustration-revisions-2026-11-02/source-briefs.json": "5c9d0862063d0ec131a4e4a401276791f406dcdcda8e23c06f67ccfca09847b5",
+      "editorial-private/illustration-revisions-2026-11-02/source-briefs.md": "46f5e7673bf31369a99d2af2f06472d0fc9c689b579be2a42a5b184d2c0de811",
+      "editorial-private/illustration-revisions-2026-11-02/prompts.json": "5b222ef158963a52495dbbbd47782ec2258d3a8c1e9a6a260813db27bdad4f1b"
+    }
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Four final images inspected by coordinator and independent reviewer; exact hashes verified.",
+      "Original assets and all public site files unchanged. No code changes; build/tests not applicable.",
+      "Built-in image generation prompts and rejected first Raja draft preserved."
+    ]
+  },
+  "next_action": "Creative Editor review of replacement drafts; originals remain preserved and live site unchanged.",
+  "coordinator_reservations_released": true
+}
