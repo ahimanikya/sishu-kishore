@@ -1,0 +1,11 @@
+.studio-install{border-block:1px solid var(--studio-border);padding-block:.85rem;margin-block:1.5rem;font-size:1rem;max-width:65ch}
+.studio-install[hidden],.studio-install [hidden]{display:none}
+.studio-install-actions{display:flex;align-items:baseline;gap:.75rem 1.25rem;flex-wrap:wrap}
+.studio-install details{flex:1 1 16rem;min-width:0}
+.studio-install summary{cursor:pointer;text-decoration:underline;text-underline-offset:.2em;min-height:44px;padding-block:.4rem}
+.studio-install ul{padding-inline-start:1.5rem}
+.studio-install li{margin-block:.5rem}
+.studio-install-note{color:#526257;margin:.35rem 0 0}
+#studio-install-status{margin:.5rem 0 0}
+#studio-install-status:empty{display:none}
+@media print{.studio-install{display:none}}

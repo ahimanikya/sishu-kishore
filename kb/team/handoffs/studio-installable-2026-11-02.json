@@ -1,0 +1,98 @@
+{
+  "id": "studio-installable-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Let's convert the Editor Studio to an installable app.",
+  "coordinator": "Disha",
+  "input_head": "f05364330f0d76668a276239db8a2092a01489a0",
+  "task": "Make Editor Studio an online installable web app preserving authentication and private access.",
+  "workers": [
+    {
+      "role": "Samanta",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/editorial/studio.html",
+        "public/editorial/studio-install.js",
+        "public/editorial/studio-install.css",
+        "public/editorial/studio.webmanifest",
+        "public/editorial/icons/studio-192.png",
+        "public/editorial/icons/studio-512.png",
+        "tests/studio-install.test.mjs"
+      ],
+      "reservations_released": true,
+      "runtime": "/root/samanta_install",
+      "result": {
+        "summary": "Implemented online-only installable Studio.",
+        "evidence": [
+          "Chrome reported zero manifest/installability errors and exposed a real install prompt.",
+          "Independent 390px/1280px layout review passed; original Baloo font and authentication preserved."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/drishti_install",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent review passed with limitations; no actionable findings.",
+        "evidence": [
+          "Chrome reported zero manifest/installability errors and exposed a real install prompt.",
+          "Independent 390px/1280px layout review passed; original Baloo font and authentication preserved."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/studio-installable-2026-11-02.json",
+    "kb/team/operations.json",
+    "scripts/build.mjs"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/drishti_install",
+    "outcome": "pass_with_limitations",
+    "evidence": [
+      "116 tests passed with Node 24 and project Python dependencies.",
+      "npm run build passed, including privacy/discovery/book/source checks.",
+      "Chrome reported zero manifest/installability errors and exposed a real install prompt.",
+      "Independent 390px/1280px layout review passed; original Baloo font and authentication preserved."
+    ],
+    "candidate_files": {
+      "public/editorial/studio.html": "970e55abb56f27a7141ce1478613aa6160b7b73c3858cf89ba797fe2b8d6652a",
+      "public/editorial/studio-install.js": "aaa7302932c59bd309aee757637916c72e39d7d5bd991a50e60660344084e38d",
+      "public/editorial/studio-install.css": "14449072ab8999fe3389b0d98c7c85b8a6318bfde2ba89132f023f26f035bdda",
+      "public/editorial/studio.webmanifest": "6d9aa4299db051451d4cb0075348461638b04babff2942dd8374399b77279758",
+      "public/editorial/icons/studio-192.png": "163db06df71ec33196a3a4db3377ebfc5a2ffee5af61504efaba0975e73b16f6",
+      "public/editorial/icons/studio-512.png": "72af33d03c461a1d476faffeda78326dfe97514f89d5b6a1fa3f1ecfb64510ed",
+      "tests/studio-install.test.mjs": "2c5b2fe2fc59f7818f1fc4fd155624e26d5c970da33cd907dc549852f58bb13c",
+      "scripts/build.mjs": "e97c61ef4eb2601b23dc8f643a049353bc95a1180fdd0d1480ba332d39c31af9"
+    },
+    "limitations": [
+      "Actual operating-system installation, physical iOS/Safari and authenticated editing were not tested."
+    ]
+  },
+  "next_action": "Ready for publication when requested. After publication editors can install from Studio.",
+  "coordinator_reservations_released": true,
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "116 tests passed with Node 24 and project Python dependencies.",
+      "npm run build passed, including privacy/discovery/book/source checks.",
+      "Chrome reported zero manifest/installability errors and exposed a real install prompt.",
+      "Independent 390px/1280px layout review passed; original Baloo font and authentication preserved.",
+      "No publication performed. Unrelated formatting and duplicate stylesheet changes produced by build restored; pre-existing brand/ left untouched."
+    ]
+  },
+  "guidance": {
+    "modern_web_guidance": "Searched installation capability and listed catalogue; no matching installation guide.",
+    "primary_sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Making_PWAs_installable",
+      "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Trigger_install_prompt"
+    ]
+  }
+}

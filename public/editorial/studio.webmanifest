@@ -1,0 +1,26 @@
+{
+  "id": "/editorial/studio.html",
+  "name": "Editor Studio \u00b7 Sishu Kishore",
+  "short_name": "Editor Studio",
+  "description": "Prepare and review Sishu Kishore magazines and books. Internet connection and editor sign-in required.",
+  "lang": "en",
+  "start_url": "/editorial/studio.html",
+  "scope": "/editorial/",
+  "display": "standalone",
+  "background_color": "#f5f2e8",
+  "theme_color": "#315e4c",
+  "icons": [
+    {
+      "src": "/editorial/icons/studio-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/editorial/icons/studio-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
