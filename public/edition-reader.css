@@ -119,3 +119,12 @@ body:has(main>.ia-article)>.ia-footer nav{margin-top:0;align-items:center}
 .mag-quiet-reader .quiet-illustrated-cover{padding:0;gap:0}
 .mag-quiet-reader .quiet-illustrated-cover>.storybook-cover{flex:1;min-height:0;width:100%;box-shadow:none;overflow:hidden}
 .mag-quiet-reader .quiet-illustrated-cover>.storybook-cover .storybook-cover-art{width:100%;height:100%;object-fit:contain}
+
+/* Keep a story's heading and illustration together on short landscape screens. */
+@media(max-height:500px){
+ .mag-quiet-reader .quiet-content .ia-article-head{margin-bottom:8px;padding-bottom:0}
+ .mag-quiet-reader .quiet-content .ia-article-head h1{font-size:24px;line-height:1.4;margin:0 0 2px}
+ .mag-quiet-reader .quiet-content .ia-article-head :is(.ia-byline,.mag-article-context){margin-top:0;margin-bottom:0}
+ .mag-quiet-reader .quiet-content .ia-story-art{margin-bottom:8px!important}
+ .mag-quiet-reader .quiet-content .ia-story-art img{max-height:min(24vh,90px);max-height:min(24dvh,90px);object-fit:contain}
+}

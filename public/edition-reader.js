@@ -112,7 +112,12 @@
  async function articleFor(item,n){
   if(cache.has(item.href))return cache.get(item.href).cloneNode(true);
   const response=await fetch(item.href);if(!response.ok)throw Error('article');const doc=new DOMParser().parseFromString(await response.text(),'text/html');let article=doc.querySelector('.ia-article');
-  if(!article){const legacy=doc.querySelector('main p.subject')?.parentElement;if(legacy){article=document.createElement('article');article.className='ia-article';const head=document.createElement('header');head.className='ia-article-head';const title=document.createElement('h1');title.textContent=item.title;head.append(title);const prose=document.createElement('div');prose.className='ia-prose';prose.append(legacy.cloneNode(true));article.append(head,prose);}}
+  if(!article){const legacy=doc.querySelector('main p.subject')?.parentElement;if(legacy){article=document.createElement('article');article.className='ia-article';const head=document.createElement('header');head.className='ia-article-head';const title=document.createElement('h1');title.textContent=item.title;head.append(title);const prose=document.createElement('div');prose.className='ia-prose';const legacyCopy=legacy.cloneNode(true);
+   // The generated title replaces only the matching legacy heading, never poem lines or credits.
+   const normalizeTitle=value=>value.trim().replace(/\s+/g,' ');
+   const legacyTitle=[...legacyCopy.children].find(e=>/^H[1-6]$/.test(e.tagName));
+   if(legacyTitle&&normalizeTitle(legacyTitle.textContent)===normalizeTitle(item.title))legacyTitle.remove();
+   prose.append(legacyCopy);article.append(head,prose);}}
   if(!article)throw Error('article');
   article.querySelectorAll('script,form,input,button,.article-reading-tools,.mag-read-button,.mag-article-sidebar,.mag-article-companion').forEach(e=>e.remove());
   let heading=article.querySelector('.ia-article-head')||article.querySelector('h1');if(!heading)throw Error('heading');heading.dataset.editionHeading=String(n);

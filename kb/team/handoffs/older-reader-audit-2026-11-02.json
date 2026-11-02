@@ -1,0 +1,157 @@
+{
+  "id": "older-reader-audit-2026-11-02",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "go \u2014 older-issue reader audit and clear usability fixes",
+  "coordinator": "Disha",
+  "input_head": "9e99899f77efd69814fe575dc252ede07711a1c5",
+  "task": "Audit older quiet readers, long poems, image layout and phone page breaks; fix confirmed issues. Correct exact generated legacy title duplication without altering source literature.",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/older_reader_audit",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "editorial-private/older-reader-audit/2026-10-1280-first.png",
+        "editorial-private/older-reader-audit/2026-10-1280-poem.png",
+        "editorial-private/older-reader-audit/2026-10-320-first.png",
+        "editorial-private/older-reader-audit/2026-10-320-poem.png",
+        "editorial-private/older-reader-audit/2026-10-390-first.png",
+        "editorial-private/older-reader-audit/2026-10-390-poem.png",
+        "editorial-private/older-reader-audit/2026-10-844-first.png",
+        "editorial-private/older-reader-audit/2026-10-844-poem.png",
+        "editorial-private/older-reader-audit/31fdaf256f-1280-first.png",
+        "editorial-private/older-reader-audit/31fdaf256f-1280-poem.png",
+        "editorial-private/older-reader-audit/31fdaf256f-390-first.png",
+        "editorial-private/older-reader-audit/31fdaf256f-390-poem.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-1280-first.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-1280-poem.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-320-first.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-320-poem.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-390-first.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-390-poem.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-844-first.png",
+        "editorial-private/older-reader-audit/4d80e1b5e4-844-poem.png",
+        "editorial-private/older-reader-audit/744bf97428-1280-first.png",
+        "editorial-private/older-reader-audit/744bf97428-1280-poem.png",
+        "editorial-private/older-reader-audit/744bf97428-390-first.png",
+        "editorial-private/older-reader-audit/744bf97428-390-poem.png",
+        "editorial-private/older-reader-audit/8a077c1fec-1280-first.png",
+        "editorial-private/older-reader-audit/8a077c1fec-1280-poem.png",
+        "editorial-private/older-reader-audit/8a077c1fec-320-first.png",
+        "editorial-private/older-reader-audit/8a077c1fec-320-poem.png",
+        "editorial-private/older-reader-audit/8a077c1fec-390-first.png",
+        "editorial-private/older-reader-audit/8a077c1fec-390-poem.png",
+        "editorial-private/older-reader-audit/8a077c1fec-844-first.png",
+        "editorial-private/older-reader-audit/8a077c1fec-844-poem.png",
+        "editorial-private/older-reader-audit/8d69dd7d5f-1280-first.png",
+        "editorial-private/older-reader-audit/8d69dd7d5f-1280-poem.png",
+        "editorial-private/older-reader-audit/8d69dd7d5f-390-first.png",
+        "editorial-private/older-reader-audit/8d69dd7d5f-390-poem.png",
+        "editorial-private/older-reader-audit/audit.cjs",
+        "editorial-private/older-reader-audit/browser-results.json",
+        "editorial-private/older-reader-audit/image-dimensions.json",
+        "editorial-private/older-reader-audit/inventory.json",
+        "editorial-private/older-reader-audit/report.json",
+        "editorial-private/older-reader-audit/short-audit.cjs",
+        "editorial-private/older-reader-audit/short-results.json"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Inventoried34older issues and18browser cases across6issues.",
+        "evidence": [
+          "682contributions,680unique articles,673sized images; no missing assets.",
+          "Confirmed short-landscape heading-only openings."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/older_reader_source",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/edition-reader.css",
+        "provenance/older-reader-audit-2026-11-02.json",
+        "public/edition-reader.js"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Fixed short-height opening layout and exact legacy duplicate titles.",
+        "evidence": [
+          "Four-viewports before/after, all7legacy poem/credit preservation and mismatch guard passed."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/older_reader_review",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent review passed with limitations.",
+        "evidence": [
+          "Independently recounted34olderissues,682contributions,680unique articles and673story images with intrinsic dimensions; no missing referenced articles or story images.",
+          "Reviewed audit18browser-case report and sampled desktop/mobile screenshots; scope explicitly sampled, not all-page visual or anatomy audit.",
+          "Independently viewed before/after short-screen screenshots: title and complete contained illustration now share opening at667x375 and844x390.",
+          "CSS change is scoped to max-height500px; body text size, content, artwork source and programmatic pagination model unchanged.",
+          "Read before/after script and results: exact literary text preserved, normal390x844 and1280x900 geometry/page status equal to HEAD, previous/next works four sizes.",
+          "Read passing full build,110tests and final check logs; CSS diff has no whitespace errors.",
+          "Independently reviewed legacy title fix: first direct heading in cloned fallback removed only on exact whitespace-normalized catalog-title match; source pages and modern article path untouched.",
+          "Read all7fallback browser results: exactly one title, exact original paragraph markup and credits preserved; inspected corrected May issue mobile screenshot.",
+          "Read final repeated full build and110-test logs after JS fix."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/older-reader-audit-2026-11-02.json",
+    "kb/team/operations.json"
+  ],
+  "review": {
+    "reviewer": "Drishti",
+    "runtime": "/root/older_reader_review",
+    "kind": "separate_ai_review",
+    "outcome": "pass_with_limitations",
+    "candidate_files": {
+      "public/edition-reader.css": "86486311eb6be82f453c0f5e49b8c2407a13073185f579da1942b9c71e216d66",
+      "public/edition-reader.js": "4c14e2730cd44559ca3098951fc2d0b7a0d6f1cb96ec06e17d3c8d4dea9907fa",
+      "provenance/older-reader-audit-2026-11-02.json": "433ce4b62e43e58e076bee5586e52517bbfe565c8a3d3ff439683308adaa0573"
+    },
+    "findings": [],
+    "evidence": [
+      "Independently recounted34olderissues,682contributions,680unique articles and673story images with intrinsic dimensions; no missing referenced articles or story images.",
+      "Reviewed audit18browser-case report and sampled desktop/mobile screenshots; scope explicitly sampled, not all-page visual or anatomy audit.",
+      "Independently viewed before/after short-screen screenshots: title and complete contained illustration now share opening at667x375 and844x390.",
+      "CSS change is scoped to max-height500px; body text size, content, artwork source and programmatic pagination model unchanged.",
+      "Read before/after script and results: exact literary text preserved, normal390x844 and1280x900 geometry/page status equal to HEAD, previous/next works four sizes.",
+      "Read passing full build,110tests and final check logs; CSS diff has no whitespace errors.",
+      "Independently reviewed legacy title fix: first direct heading in cloned fallback removed only on exact whitespace-normalized catalog-title match; source pages and modern article path untouched.",
+      "Read all7fallback browser results: exactly one title, exact original paragraph markup and credits preserved; inspected corrected May issue mobile screenshot.",
+      "Read final repeated full build and110-test logs after JS fix."
+    ],
+    "limitations": [
+      "Browser interactions run by audit and implementation agents; reviewer independently inspected source, scripts, screenshots and recounted inventory.",
+      "No physical-device, screen-reader or complete article/artwork visual inspection.",
+      "This improves short-screen openings; exceptionally long titles may still need their own page.",
+      "Review grants no publication authority."
+    ],
+    "resolved_findings": [
+      "Short landscape opening wasted page: compact heading and contained image now coexist.",
+      "Legacy fallback duplicated generated/original title: remove only matching heading from cloned reader content."
+    ]
+  },
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "Full final build110tests and final npm check passed.",
+      "Root visually inspected compact landscape screenshot.",
+      "Unrelated generated HTML restored; no publication."
+    ]
+  },
+  "next_action": "Ready for review/publication on user request; full artwork anatomy audit remains outside this task.",
+  "coordinator_reservations_released": true
+}

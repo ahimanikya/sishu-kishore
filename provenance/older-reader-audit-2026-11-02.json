@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-02",
+  "scope": {
+    "older_issues": 34,
+    "contributions": 682,
+    "unique_article_routes": 680,
+    "story_images": 673,
+    "missing_assets": 0,
+    "missing_image_dimensions": 0,
+    "browser_cases": 18,
+    "sample_issues": [
+      {
+        "route": "/old_issues_details-4d80e1b5e4.html",
+        "title": "ଜାନୁୟାରୀ: ୨୦୨୪"
+      },
+      {
+        "route": "/old_issues_details-744bf97428.html",
+        "title": "ଜୁଲାଇ: ୨୦୨୪"
+      },
+      {
+        "route": "/old_issues_details-8d69dd7d5f.html",
+        "title": "ଜାନୁୟାରୀ: ୨୦୨୫"
+      },
+      {
+        "route": "/old_issues_details-8a077c1fec.html",
+        "title": "ଅଗଷ୍ଟ: ୨୦୨୫"
+      },
+      {
+        "route": "/old_issues_details-31fdaf256f.html",
+        "title": "ଜାନୁଆରୀ: 2026"
+      },
+      {
+        "route": "/editions/2026-10/",
+        "title": "ଅକ୍ଟୋବର: ୨୦୨୬"
+      }
+    ],
+    "viewports": [
+      "1280x900",
+      "390x844",
+      "320x568",
+      "844x390"
+    ]
+  },
+  "authorization": "User said go to older-issue reader audit; fix clear layout problems locally.",
+  "files": [
+    "public/edition-reader.css",
+    "public/edition-reader.js"
+  ],
+  "preserved": [
+    "All original literary wording, illustration assets, Baloo font and access boundaries",
+    "Normal390x844 and1280x900 layout and pagination exactly equal to prior CSS"
+  ],
+  "checks": [
+    "Source inventory35catalog issues: no relative or unsized story image references.",
+    "Short-screen June2024 before/after667x375 and844x390: whole text unchanged, pane geometry unchanged, image fully contained on opening.",
+    "Portrait390x844 anddesktop1280x900 exact content, geometry and page-status equality.",
+    "Previous/next navigation passed at all4viewports.",
+    "Long Einstein title in September2026 remains inside page at667x375.",
+    "All7legacy articles browser-verified: one matching title, exact original poem innerHTML and credit heading text retained.",
+    "May2025 item19 real article jump and next/previous roundtrip passed.",
+    "Mismatched catalogue title browser fixture retains original legacy heading."
+  ],
+  "web_guidance": {
+    "ids": [
+      "responsive-design",
+      "overflow-clipping-control"
+    ],
+    "applied": "Use24dvh art sizing with24vh fallback and90px cap; preserve programmatic scrollLeft and existing overflow hidden."
+  },
+  "limitations": [
+    "Sampled visual audit; not every page of every issue or anatomy/story-content assessment.",
+    "No physical-device or screen-reader audit.",
+    "No guarantee every long heading and illustration fit together on every short screen."
+  ],
+  "publication": false,
+  "sha256": {
+    "public/edition-reader.css": "86486311eb6be82f453c0f5e49b8c2407a13073185f579da1942b9c71e216d66",
+    "public/edition-reader.js": "4c14e2730cd44559ca3098951fc2d0b7a0d6f1cb96ec06e17d3c8d4dea9907fa"
+  },
+  "findings_fixed": [
+    "Short landscape opening showed only heading/byline; compact heading spacing and contained90px illustration now share first page.",
+    "Seven legacy student articles repeated generated and original titles; cloned matching first direct heading is now replaced by generated title, preserving credits and poem markup."
+  ],
+  "resolved_followups": [
+    {
+      "issue": "Legacy fallback repeats article title before original legacy heading.",
+      "route": "/old_issues_details-02dcbb12fc.html",
+      "article": "/young_details-e101d27331.html",
+      "evidence": "Resolved in the quiet-reader fallback by replacing only the matching cloned first direct heading. All seven legacy entries retain exact poem markup and credits; fixed May2025 item19 screenshot: /tmp/older-legacy-title-fixed.png."
+    }
+  ]
+}
