@@ -61,6 +61,13 @@ for path in pages.rglob('*.html'):
         content = re.sub(r'<a\b[^>]*href="/credits/"[^>]*>.*?</a>', '', match[2], flags=re.S)
         return match[1] + content + '<a href="/our-brand/">ଆମ ପରିଚୟ</a>' + match[3]
     after = re.sub(r'(<nav aria-label="Footer">)(.*?)(</nav>)', credits_link, after, flags=re.S)
+    # Short footer labels keep all destinations readable in a compact desktop row.
+    def compact_footer(match):
+        content = match[0]
+        for href, label in (('/whoweare.html', 'ଆମ ଦଳ'), ('/news.html', 'ଖବର'), ('/activity_children.html', 'ଚିତ୍ରଶାଳା')):
+            content = re.sub(r'(<a\b[^>]*href="' + re.escape(href) + r'"[^>]*>).*?(</a>)', lambda link: link[1] + label + link[2], content, flags=re.S)
+        return content
+    after = re.sub(r'<footer\b.*?</footer>', compact_footer, after, flags=re.S)
     # Editor applications are direct-entry tools, not public magazine navigation.
     if path not in (pages / 'editorial/studio.html', pages / 'editorial/manage.html'):
         after = re.sub(r'<a\b[^>]*href="/editorial/(?:studio|manage)\.html(?:[?#][^\"]*)?"[^>]*>.*?</a>', '', after, flags=re.S)

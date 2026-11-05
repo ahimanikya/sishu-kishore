@@ -56,7 +56,7 @@ for path in public.rglob('*.html'):
  s=path.read_text()
  def add(m):
   f=m[0]
-  if '/activity_children.html' not in f:f=f.replace('</nav>','<a href="/activity_children.html">ପିଲାଙ୍କ ଚିତ୍ର</a></nav>',1)
+  if '/activity_children.html' not in f:f=f.replace('</nav>','<a href="/activity_children.html">ଚିତ୍ରଶାଳା</a></nav>',1)
   return f
  n=re.sub(r'<footer\b.*?</footer>',add,s,flags=re.S)
  if n!=s:path.write_text(n)
