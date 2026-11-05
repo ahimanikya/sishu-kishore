@@ -52,19 +52,15 @@ for path in pages.rglob('*.html'):
     after = nav_pattern.sub(navigation, before)
     after = brand_pattern.sub(lambda match: match[1] + brand_image + match[2], after)
     after = re.sub(r'(<head\b[^>]*>)(.*?)(</head\s*>)', favicon_head, after, count=1, flags=re.S | re.I)
-    # Keep artwork disclosure central, without removing editorial review status.
+    # Preserve editorial review status when cleaning old disclosure text.
     after = after.replace('Editorial approval pending · Article illustrations are AI-generated.', 'Editorial approval pending')
     after = re.sub(r'<p\b[^>]*class="nov-review-note"[^>]*>Article illustrations are AI-generated\.</p>', '', after)
-    def credits_link(match):
-        if 'href="/our-brand/"' in match[0]:
-            return match[0]
-        content = re.sub(r'<a\b[^>]*href="/credits/"[^>]*>.*?</a>', '', match[2], flags=re.S)
-        return match[1] + content + '<a href="/our-brand/">କାର୍ଯ୍ୟପ୍ରଣାଳୀ</a>' + match[3]
-    after = re.sub(r'(<nav aria-label="Footer">)(.*?)(</nav>)', credits_link, after, flags=re.S)
+    # Retired credit/process pages must not be linked or regenerated.
+    after = re.sub(r'<a\b[^>]*href="/(?:our-brand|credits)/(?:[^\"]*)?"[^>]*>.*?</a>', '', after, flags=re.S)
     # Short footer labels keep all destinations readable in a compact desktop row.
     def compact_footer(match):
         content = match[0]
-        for href, label in (('/whoweare.html', 'ସମ୍ପାଦନା ମଣ୍ଡଳୀ'), ('/news.html', 'ଖବର'), ('/activity_children.html', 'ଚିତ୍ରଶାଳା'), ('/our-brand/', 'କାର୍ଯ୍ୟପ୍ରଣାଳୀ')):
+        for href, label in (('/whoweare.html', 'ସମ୍ପାଦନା ମଣ୍ଡଳୀ'), ('/news.html', 'ଖବର'), ('/activity_children.html', 'ଚିତ୍ରଶାଳା')):
             content = re.sub(r'(<a\b[^>]*href="' + re.escape(href) + r'"[^>]*>).*?(</a>)', lambda link: link[1] + label + link[2], content, flags=re.S)
         return content
     after = re.sub(r'<footer\b.*?</footer>', compact_footer, after, flags=re.S)

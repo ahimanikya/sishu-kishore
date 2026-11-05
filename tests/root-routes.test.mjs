@@ -26,7 +26,7 @@ test('legacy bookmarks retain queries and fragments without restoring removed ro
   ['/shishu/books/paresh/forest','/books/paresh/forest.html'],
   ['/shishu/review/2026-11/','/review/2026-11/'],
   ['/shishu/books/three-mysteries/','/books/three-mysteries/'],['/shishu/books/three-mysteries/line-art','/books/three-mysteries/line-art.html'],['/shishu/characters/',undefined],['/shishu/does-not-exist',undefined],
-  ['/some-other-missing-page',undefined]
+  ['/our-brand/',undefined],['/our-brand/index.html',undefined],['/credits/',undefined],['/some-other-missing-page',undefined]
  ]){
   let destination;
   await vm.runInNewContext(source,{
