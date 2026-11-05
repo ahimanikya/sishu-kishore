@@ -64,7 +64,7 @@ for path in pages.rglob('*.html'):
     # Short footer labels keep all destinations readable in a compact desktop row.
     def compact_footer(match):
         content = match[0]
-        for href, label in (('/whoweare.html', 'ଆମ ଦଳ'), ('/news.html', 'ଖବର'), ('/activity_children.html', 'ଚିତ୍ରଶାଳା'), ('/our-brand/', 'ଆମ ରୂପ ଓ କାର୍ଯ୍ୟପ୍ରଣାଳୀ')):
+        for href, label in (('/whoweare.html', 'ସମ୍ପାଦନା ମଣ୍ଡଳୀ'), ('/news.html', 'ଖବର'), ('/activity_children.html', 'ଚିତ୍ରଶାଳା'), ('/our-brand/', 'ଆମ ରୂପ ଓ କାର୍ଯ୍ୟପ୍ରଣାଳୀ')):
             content = re.sub(r'(<a\b[^>]*href="' + re.escape(href) + r'"[^>]*>).*?(</a>)', lambda link: link[1] + label + link[2], content, flags=re.S)
         return content
     after = re.sub(r'<footer\b.*?</footer>', compact_footer, after, flags=re.S)
