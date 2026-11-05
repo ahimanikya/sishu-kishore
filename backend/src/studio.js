@@ -8,7 +8,7 @@ const el=(tag,text)=>{const node=document.createElement(tag);node.textContent=te
 let generation=0,cleanup;
 const message=error=>error?.code==='auth/popup-blocked'?'Allow pop-ups to sign in, then try again.':error?.code==='auth/popup-closed-by-user'?'Sign-in was cancelled.':'Unable to connect. Please try again.';
 onAuthStateChanged(auth,async user=>{
- const ticket=++generation;cleanup?.();cleanup=null;root.replaceChildren();
+ const ticket=++generation;cleanup?.();cleanup=null;document.body.classList.remove('studio-ready');root.replaceChildren();
  const host=el('div',''),status=el('p','');status.setAttribute('role','status');root.append(status,host);
  if(!user){
   host.append(el('p','Sign in with your editor account. Only authorized editors can access these drafts and preparation records.'));
@@ -25,6 +25,8 @@ onAuthStateChanged(auth,async user=>{
   status.textContent='';const editor=el('div','');host.append(editor);
   const assertSession=()=>{if(ticket!==generation||auth.currentUser?.uid!==user.uid)throw Object.assign(new Error('Session ended'),{code:'studio/session'});return user.uid;};
   const service=createStudioService(db,assertSession);
-  cleanup=await mountStudio(editor,service);
+  cleanup=await mountStudio(editor,service,{accountLabel:user.displayName||user.email||'Editor',onSignOut:()=>logout.click()});
+  if(ticket!==generation){cleanup?.();return;}
+  logout.hidden=true;document.body.classList.add('studio-ready');
  }catch(e){if(ticket===generation)status.textContent=message(e);}
 });

@@ -1,0 +1,106 @@
+{
+  "id": "studio-kabita-adaptation-2026-11-05",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "The Studio - can you adapt from Kabita Live",
+  "task": "Adapt Kabita Live app shell and editorial navigation to Sishu private Studio.",
+  "coordinator": "Disha",
+  "input_head": "f05364330f0d76668a276239db8a2092a01489a0",
+  "workers": [
+    {
+      "role": "Anvesha",
+      "runtime": "/root/anvesha_accounts",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Compared actual Kabita Studio source and selected compatible app-shell/dashboard/contribution-table patterns.",
+        "evidence": [
+          "Kabita source: output/kabitalive-design-proposal-2026-09-29/site/assets/editor-workspace.mjs and editor-workspace.css.",
+          "Preserve Sishu models, service, private access, English controls and Baloo font; do not import Kabita data or roles."
+        ]
+      }
+    },
+    {
+      "role": "Samanta",
+      "runtime": "/root/samanta_install",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/editorial/studio-ui.mjs",
+        "public/editorial/studio.css",
+        "tests/studio-navigation.test.mjs"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Adapted Kabita shell, dashboard, publication selector and contributions table to Sishu.",
+        "evidence": [
+          "20 scoped Node24 tests passed.",
+          "Three reserved files implemented; existing service/models preserved."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/drishti_install",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent review passed with limitations, no actionable findings.",
+        "evidence": [
+          "Synthetic browser verified dashboard filters, true-index reordering, conflict preservation of Odia/stanzas, cancelled navigation/switch/sign-out and successful revision save.",
+          "390px keyboard navigation/focus and bounded table overflow passed; desktop dashboard, contents and phone plan visually inspected."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/studio-kabita-adaptation-2026-11-05.json",
+    "kb/team/operations.json",
+    "scripts/build.mjs",
+    "backend/src/studio.js",
+    "public/editorial/studio.js"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/drishti_install",
+    "outcome": "pass_with_limitations",
+    "evidence": [
+      "Synthetic browser verified dashboard filters, true-index reordering, conflict preservation of Odia/stanzas, cancelled navigation/switch/sign-out and successful revision save.",
+      "390px keyboard navigation/focus and bounded table overflow passed; desktop dashboard, contents and phone plan visually inspected."
+    ],
+    "candidate_files": {
+      "public/editorial/studio-ui.mjs": "317685b0b9bc295cc89b38b2e85113cc947ca8a905d5cb8876dc3d7f0f854760",
+      "public/editorial/studio.css": "f60bad813bf8ea10d35501f6a916adcf71765fe643326e58f255c432c34573c7",
+      "tests/studio-navigation.test.mjs": "2d7fb41ac423d3dce8eba6e10b36e5ef1774879e9ba4bc47818afeb0fc763b8e",
+      "backend/src/studio.js": "9f9e3161fd02f9fe92a9ed408a77192471c59876c37830f74dd3c627bd7e2aa6",
+      "public/editorial/studio.js": "0f5b1c75dfe8698ce7cb993e928eb4666189993e4634814897e99e4b3b97bd3e"
+    },
+    "limitations": [
+      "Synthetic Chrome checks; real Google sign-in, cloud persistence and physical Safari devices not exercised.",
+      "Mobile table screenshot stitching artifact; DOM overflow checks passed."
+    ]
+  },
+  "next_action": "Ready for user review and publication when requested.",
+  "guidance": {
+    "status": "Tool unavailable: search failed twice with ERR_INVALID_ARG_TYPE in getVersion.",
+    "fallback": [
+      "https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/",
+      "https://web.dev/learn/design/macro-layouts"
+    ],
+    "applied": "Native button disclosure with aria-expanded/aria-controls; responsive grid with natural flow and bounded horizontal table scrolling."
+  },
+  "coordinator_reservations_released": true,
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "118 tests and npm run build passed with Node24.",
+      "Only three public files changed during this task; pre-existing working changes preserved.",
+      "No deployment performed for this adaptation."
+    ]
+  }
+}
