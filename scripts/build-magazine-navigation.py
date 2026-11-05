@@ -59,12 +59,12 @@ for path in pages.rglob('*.html'):
         if 'href="/our-brand/"' in match[0]:
             return match[0]
         content = re.sub(r'<a\b[^>]*href="/credits/"[^>]*>.*?</a>', '', match[2], flags=re.S)
-        return match[1] + content + '<a href="/our-brand/">ଆମ ରୂପ ଓ କାର୍ଯ୍ୟପ୍ରଣାଳୀ</a>' + match[3]
+        return match[1] + content + '<a href="/our-brand/">କାର୍ଯ୍ୟପ୍ରଣାଳୀ</a>' + match[3]
     after = re.sub(r'(<nav aria-label="Footer">)(.*?)(</nav>)', credits_link, after, flags=re.S)
     # Short footer labels keep all destinations readable in a compact desktop row.
     def compact_footer(match):
         content = match[0]
-        for href, label in (('/whoweare.html', 'ସମ୍ପାଦନା ମଣ୍ଡଳୀ'), ('/news.html', 'ଖବର'), ('/activity_children.html', 'ଚିତ୍ରଶାଳା'), ('/our-brand/', 'ଆମ ରୂପ ଓ କାର୍ଯ୍ୟପ୍ରଣାଳୀ')):
+        for href, label in (('/whoweare.html', 'ସମ୍ପାଦନା ମଣ୍ଡଳୀ'), ('/news.html', 'ଖବର'), ('/activity_children.html', 'ଚିତ୍ରଶାଳା'), ('/our-brand/', 'କାର୍ଯ୍ୟପ୍ରଣାଳୀ')):
             content = re.sub(r'(<a\b[^>]*href="' + re.escape(href) + r'"[^>]*>).*?(</a>)', lambda link: link[1] + label + link[2], content, flags=re.S)
         return content
     after = re.sub(r'<footer\b.*?</footer>', compact_footer, after, flags=re.S)
