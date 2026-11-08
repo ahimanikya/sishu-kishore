@@ -29,3 +29,9 @@ for file in (root/'review').rglob('*.html'):
  assert 'noindex, follow' in file.read_text(),f'Review is indexable: {file}'
  assert file.name!='editor-notes.html',f'Private editor notes exposed: {file}'
 print(f'Discovery verified: {len(urls)} sitemap URLs, schemas, article text, private-screen exclusions.')
+
+# Gudul-Gudli is authorized only for direct-link reading.
+for name in ["sitemap.xml","content-index.json","reader-catalog.json","index.html","elibrary_main.html"]:
+ assert "/books/gudul-gudli/" not in (root/name).read_text(),f"Unlisted comic exposed by {name}"
+for file in (root/"books/gudul-gudli").rglob("*.html"):
+ assert "noindex" in file.read_text(),f"Comic is indexable: {file}"

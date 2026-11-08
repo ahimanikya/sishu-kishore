@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-08",
+  "authorization": "Publish combined comic; keep it unlisted under /books/.",
+  "route": "/books/gudul-gudli/",
+  "visibility": "public_direct_link_only",
+  "noindex": true,
+  "excluded_from": [
+    "homepage",
+    "book shelf",
+    "sitemap",
+    "reader catalogues",
+    "search listings"
+  ],
+  "source": "Reviewed68pagecombinedcomicproof",
+  "original_story": "Snigdha Nayak",
+  "comic_adaptation": "Ahimanikya Satapathy",
+  "private_materials_excluded": [
+    "manuscript",
+    "editable archive",
+    "production notes",
+    "source artwork",
+    "prompts"
+  ],
+  "limitations": [
+    "Unlisted is not password-protected.",
+    "Human Odia proofreading and physical print proof remain pending."
+  ]
+}
