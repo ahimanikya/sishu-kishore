@@ -35,3 +35,9 @@ for name in ["sitemap.xml","content-index.json","reader-catalog.json","index.htm
  assert "/books/gudul-gudli/" not in (root/name).read_text(),f"Unlisted comic exposed by {name}"
 for file in (root/"books/gudul-gudli").rglob("*.html"):
  assert "noindex" in file.read_text(),f"Comic is indexable: {file}"
+
+# Bilei Bekare Ghanti is authorized for direct-link access only.
+for name in ["sitemap.xml", "content-index.json", "reader-catalog.json", "edition-reader.json", "index.html", "elibrary_main.html", "current_issue.html", "old_issues.html"]:
+ assert "/books/bilei-bekare-ghanti/" not in (root/name).read_text(), f"Unlisted book exposed by {name}"
+for file in (root/"books/bilei-bekare-ghanti").rglob("*.html"):
+ assert re.search(r'<meta\b[^>]*name=[\"\']robots[\"\'][^>]*content=[\"\'][^\"\']*noindex', file.read_text(), re.I), f"Book is indexable: {file}"

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-10",
+  "authorization": "publish this in site without linking to book section",
+  "route": "/books/bilei-bekare-ghanti/",
+  "visibility": "public_direct_link_only",
+  "noindex": true,
+  "excluded_from": [
+    "homepage",
+    "book shelf",
+    "sitemap",
+    "reader catalogues",
+    "search listings"
+  ],
+  "layout": "user-approved V5; 60 interior pages plus front and back covers",
+  "original_story": "Paresh Patnaik",
+  "comic_adaptation_illustration_direction_design": "Ahimanikya Satapathy",
+  "print_resolution_artwork_upgrade": "pending by user instruction",
+  "private_materials_excluded": [
+    "manuscript",
+    "editable source",
+    "production notes",
+    "source artwork",
+    "prompts"
+  ],
+  "limitations": [
+    "Unlisted access is not authentication-protected.",
+    "Digital reading edition; print-resolution artwork upgrade remains pending."
+  ]
+}
