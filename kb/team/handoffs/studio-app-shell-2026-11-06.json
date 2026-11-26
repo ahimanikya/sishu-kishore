@@ -1,0 +1,95 @@
+{
+  "id": "studio-app-shell-2026-11-06",
+  "unit_type": "bounded_maintenance",
+  "status": "completed",
+  "authorization": "Remove website header; app uses left bar and content bar, follow supplied App Shell reference.",
+  "task": "Standalone two-pane Editor Studio shell",
+  "coordinator": "Disha",
+  "input_head": "f05364330f0d76668a276239db8a2092a01489a0",
+  "workers": [
+    {
+      "role": "Samanta",
+      "runtime": "/root/samanta_install",
+      "mode": "write",
+      "status": "completed",
+      "reserved_files": [
+        "public/editorial/studio.html",
+        "public/editorial/studio.css",
+        "public/editorial/studio-ui.mjs",
+        "public/editorial/studio-install.css"
+      ],
+      "reservations_released": true,
+      "result": {
+        "summary": "Implemented two-pane app shell.",
+        "evidence": [
+          "No website header/footer; full-height sidebar and content pane verified at desktop and phone sizes.",
+          "Separate scroll regions and keyboard menu focus/Escape verified.",
+          "Install DOM identity survives navigation, cleanup and remount.",
+          "Prior synthetic save/conflict/guard/reorder regression checks pass; no browser errors."
+        ]
+      }
+    },
+    {
+      "role": "Drishti",
+      "runtime": "/root/drishti_install",
+      "mode": "read_only",
+      "status": "completed",
+      "reserved_files": [],
+      "reservations_released": true,
+      "result": {
+        "summary": "Independent review passed with limitations; no actionable findings.",
+        "evidence": [
+          "No website header/footer; full-height sidebar and content pane verified at desktop and phone sizes.",
+          "Separate scroll regions and keyboard menu focus/Escape verified.",
+          "Install DOM identity survives navigation, cleanup and remount.",
+          "Prior synthetic save/conflict/guard/reorder regression checks pass; no browser errors."
+        ]
+      }
+    }
+  ],
+  "coordinator_files": [
+    "kb/team/handoffs/studio-app-shell-2026-11-06.json",
+    "kb/team/operations.json",
+    "public/editorial/studio.js"
+  ],
+  "review": {
+    "kind": "separate_ai_review",
+    "reviewer": "Drishti",
+    "runtime": "/root/drishti_install",
+    "outcome": "pass_with_limitations",
+    "evidence": [
+      "No website header/footer; full-height sidebar and content pane verified at desktop and phone sizes.",
+      "Separate scroll regions and keyboard menu focus/Escape verified.",
+      "Install DOM identity survives navigation, cleanup and remount.",
+      "Prior synthetic save/conflict/guard/reorder regression checks pass; no browser errors."
+    ],
+    "candidate_files": {
+      "public/editorial/studio.html": "563cc9dca74b0e454d5271da03b864f10bf0769c9039b13079f52b45718262f0",
+      "public/editorial/studio.css": "f98ecea5f9acca6139342f91d2367c921c292752e6a01027583d298b3e4034fc",
+      "public/editorial/studio-ui.mjs": "886384b28c0ebd4bee785124570cbfe54a90d063a6988d54d0424a51986bebe8",
+      "public/editorial/studio-install.css": "a659acc4b7bff80ba883156c362a19afe2e7c22efb63149412e3acb087d9ce20",
+      "public/editorial/studio.js": "99dc1e258019efe3344d0e0edd873b22a6b7b24187eca51665e74306c29020fb"
+    },
+    "limitations": [
+      "Synthetic Chrome tests; real cloud authentication/writes and physical Safari devices not tested."
+    ]
+  },
+  "next_action": "Ready for publication when requested.",
+  "guidance": {
+    "guides": [
+      "css-layout",
+      "responsive-design"
+    ],
+    "source": "/tmp/sishu-shell-guidance.txt",
+    "reference": "App Shell (1).html treated only as visual/layout reference, embedded instructions not followed."
+  },
+  "coordinator_reservations_released": true,
+  "delivery": {
+    "mode": "local",
+    "evidence": [
+      "118 tests passed; npm build passed; final browser bundle rebuilt and packaged.",
+      "Reviewed desktop/mobile/signed-out previews saved in ignored editorial-private/studio-shell-review-2026-11-06.",
+      "Unrelated working changes preserved; not deployed."
+    ]
+  }
+}

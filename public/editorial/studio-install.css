@@ -9,3 +9,8 @@
 #studio-install-status{margin:.5rem 0 0}
 #studio-install-status:empty{display:none}
 @media print{.studio-install{display:none}}
+/* Keep installation available within the app navigation without a page banner. */
+.studio-sidebar .studio-install{border:0;margin:0;padding:.2rem .5rem .75rem;max-inline-size:none;font-size:.85rem}
+.studio-sidebar .studio-install-actions{display:block}.studio-sidebar .studio-install button{inline-size:100%;font-size:.85rem;margin-bottom:.4rem;min-block-size:44px}
+.studio-sidebar .studio-install summary{font-size:.85rem}.studio-sidebar .studio-install-note{font-size:.75rem;line-height:1.6}.studio-sidebar .studio-install p,.studio-sidebar .studio-install li{overflow-wrap:anywhere}
+#studio-install-home .studio-install{font-size:.9rem;margin:1.5rem 0 0;padding-top:1rem;border-bottom:0}
